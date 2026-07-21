@@ -176,8 +176,9 @@ emergence, agency, and capture.
   jealousy, enforcement--exclusion, moralized character accusation, symbolic
   coupling, mechanical solidarity, the
   distributed bigOther and multi-mind-self, trust and authority, authority-gated
-  belief updating, capture and resistance, cognitive liberty, and epistemic
-  adulthood.
+  belief updating, trusted opinion leaders and their profiles, opinion-leader
+  cascades, cultivated authority, capture and resistance, cognitive liberty, and
+  epistemic adulthood.
   The core also defines emancipation as lifting from shared concrete answers to a
   shared, reality-answerable generator of answers, with full capture at both levels.
 
@@ -202,8 +203,9 @@ of reconstructing it from this guide.
   — *Mythology Construction*. Use for the deliberate or emergent construction,
   transmission, institutional embodiment, evaluation, defense, replacement, or
   destruction of mythologies as the bigOther's assembly-language layer; recipient
-  fit and resonance; psychological gradients; and adversarial mythology
-  construction. It is not the whole-culture implementation method.
+  fit and resonance; psychological gradients; adversarial mythology construction;
+  and covert trusted-opinion-leader capture followed by trusted-channel
+  rebraiding. It is not the whole-culture implementation method.
 - [`build/0000-culture-mechanics.all.md`](build/0000-culture-mechanics.all.md) —
   The expanded bundle containing all five authoritative sources. Use when a question
   genuinely spans the whole coordinated family, not as the default context.
@@ -218,6 +220,7 @@ of reconstructing it from this guide.
 | Conversion, socialization, identity conflict, capture, exit, resistance, or recovery of independent judgment | Core: programming and reprogramming; single-slot principle; epistemic adulthood; cognitive liberty; MCIP |
 | Emancipation, first-order versus lifted rules, pluralism, universal law, parliament, courts, contracts, jurisdiction, or how different ways of life remain under one order | Core: *Culture Mechanics*, “Open and closed cultural programming” and “Autonomy, capture, and susceptibility”; *Epistemic Agency under Mechanical Solidarity*, “Mechanical solidarity,” “Examples, cases, and boundary tests,” “Healthy and unhealthy mechanical solidarity,” “Cognitive liberty and epistemic adulthood,” and “Epistemic emancipation and MCIP.” Add *Epistemic Constitution of Lifted Mechanical Solidarity* for society-wide law, contracts, authority allocation, public reason, or constitutional correction. |
 | Trust in experts, leaders, offices, media, professions, or institutions | Core: epistemic dependence; gatekeepers and trust anchors; authority and jurisdiction; corrigibility |
+| Trusted opinion leaders, medical KOLs, local opinion leaders, YouTube or social-media influencers, cultivated authorities, nested influence cascades, source independence, or how one trusted person transmits, interprets, and validates for a field | Core: *Epistemic Agency under Mechanical Solidarity*, “Repeaters and crowds,” “Trusted opinion leaders, cascades, and cultivated authority,” “Forms of authority and epistemic spillover,” and “Safeguards for persons, institutions, and cultures.” Add *Mythology Construction*, “Covert trusted-opinion-leader capture and trusted-channel rebraiding,” only for deliberate covert replacement, sentinel inversion, or institutionalized successor construction. |
 | Collective cohesion, synchronized feeling, institutional force, crowd or movement agency | Core: symbolic protocol; distributed bigOther; mechanical-solidarity field; multi-mind-self; field back-action |
 | Uniforms, veiling, badges, flags, masks, certificates, imposed target marks, prescribed language, slogans, salutes, silence, refusal, loyalty tests, conformity pressure, proselytism, jealousy, enforcement--exclusion, genocidal escalation, moralized exclusion, or why a symbol seems threatening | Core: *Culture Mechanics*, “Culture-mechanical objects, ideological programs, conformity signals, and targeting signals”; add *Epistemic Agency under Mechanical Solidarity* only when field formation or collective agency needs extended treatment; add *Epistemic Constitution of Lifted Mechanical Solidarity* for civic standing, due process, public coercion, denial, or memory control |
 | Public truthfulness, compulsory avowal, organized unreality, institutional memory, or correction | Add *Epistemic Constitution of Lifted Mechanical Solidarity* |

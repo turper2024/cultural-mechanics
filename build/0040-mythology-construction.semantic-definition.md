@@ -2106,6 +2106,160 @@ That definition requires evidence of conduct, method, knowledge, incentive, and 
 
 Defence requires more than correcting isolated claims. A destructive actor can change the claim while retaining the same psychological and rhetorical mechanism.
 
+#### Covert trusted-opinion-leader capture and trusted-channel rebraiding
+
+The originating defensive threat model can be stated plainly:
+
+> **An attacker can try to capture, cultivate, or select a rival field's trusted
+> opinion leaders and other internal guardians, then use their retained internal
+> authority to unbraid the incumbent mythology and rebraid one
+> attacker-favoured successor.**
+
+The present framework calls the human-carrier form of this application-level
+pattern **trusted-opinion-leader capture followed by trusted-channel rebraiding**.
+It is a proposed Culture Mechanics synthesis, not an established term and not a
+claim that religious, political, medical, or institutional change normally has
+this cause. An analogous attack can target an office, institution, appointment
+system, or communication channel; these are authority structures and authenticated
+channels, not trusted opinion leaders. The sharpest form is **sentinel inversion**:
+a person, office, or institution recognized as a guardian of the field becomes the
+authenticated delivery channel for material that weakens or replaces its
+load-bearing classifications.
+
+[*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md),
+“Trusted opinion leaders, cascades, and cultivated authority,” explains why the
+target is not merely the person with the largest audience. A high-value trusted
+opinion leader may combine expertise, personal trust, pastoral care, gatekeeping,
+translation, brokerage, institutional representation, appointment power, and
+access to common attention. The attack targets that composite trust and
+interpretation architecture.
+
+One hypothetical religious scenario makes the causal sequence inspectable without
+asserting that any real doctrinal change instantiates it:
+
+```text
+map trusted opinion leaders and the interpretive, pastoral, educational,
+publishing, and appointive structures that sustain their authority
+                                ↓
+gain durable influence over selected persons, offices, or succession processes
+through concealed dependency, aligned incentives, relational capture,
+coercive leverage, selective cultivation, or preferential appointment
+                                ↓
+preserve the carrier's classification as an internal guardian
+                                ↓
+translate rival classifications into authorized incumbent language
+                                ↓
+retain sacred words and symbols while changing their load-bearing bindings
+                                ↓
+use sermons, teaching, conferences, publications, and common reception
+to turn vertical authority into visible horizontal acceptance
+                                ↓
+cascade through seminaries, offices, regional leaders, local clergy,
+small-group leaders, and ordinary peers
+                                ↓
+embed the successor interpretation in curricula, appointments, funding,
+ritual, discipline, publishing, and institutional memory
+                                ↓
+reclassify the incumbent interpretation as alien, harmful, or disloyal
+and the successor as faithful, compassionate, mature, or orthodox
+                                ↓
+later participants inherit the rebraided order as normal and internally generated
+```
+
+No single acquisition mechanism is essential. Explicit bribery or criminal
+coercion would be the clearest corruption, but sincere adoption can be more
+credible and durable. External elite networks can become a leader's main reference
+group; funding and prestige can alter dependency without purchasing a sentence;
+institutions can select already aligned candidates; and repeated sponsorship or
+platform access can cultivate people whose authority later appears organic. The
+attack can therefore be partly deliberate at the source and sincerely enacted at
+downstream levels. Distributed implementation does not erase upstream strategy,
+and upstream strategy does not prove that every carrier knowingly participates.
+
+The pattern can work for six linked reasons:
+
+1. **Authenticated ingress.** An external attack is readily classified as hostile
+   and can strengthen incumbent solidarity. The same proposal carried by a trusted
+   pastor, theologian, editor, expert, or institution arrives as internal
+   interpretation and initially inherits its authorization.
+2. **Composite authority and spillover.** Expertise, office, care, character, and
+   group representation can reinforce one another. Legitimate pastoral or
+   coordination authority may spill into unearned epistemic authority over the
+   disputed claim.
+3. **Compatibility as a bridge.** Terms such as *truth*, *justice*, *love*,
+   *compassion*, *unity*, *mission*, or *protection* need not be abandoned. Their
+   mappings to causes, duties, authorities, and permitted conduct can be altered
+   incrementally, making an incompatible destination look like a faithful
+   application during the unbraiding interval.
+4. **Common reception and field back-action.** Public address lets participants
+   observe—or imagine—that respected peers received the same interpretation.
+   Silence, repetition, visible adoption, and sanctions can then convert vertical
+   endorsement into apparent horizontal consensus, which acts back upon local
+   judgment.
+5. **Nested translation and obscured provenance.** Each internal handoff adapts the
+   message to a smaller jurisdiction. Several apparently independent authorities
+   may derive from one source, while the originating objective, funding, evidence
+   selection, or wording becomes less visible at each stage.
+6. **Institutional memory and succession.** Appointments, education, publishing,
+   ritual, and disciplinary rules outlast the initiating people. Once these select
+   and train the next generation of interpreters, the successor can reproduce
+   without continuing direct control from the original attacker.
+
+Under the single-slot principle, this is not the installation of a rival bigOther
+beside an intact incumbent. If the incoming programme is compatible, it may be
+integrated or may repair the incumbent without replacement. If it contradicts
+load-bearing classifications, success requires sufficient loosening and unbraiding
+for one successor weave to be rebraided. Retained names, offices, scriptures,
+symbols, memories, and practices receive their operative meaning from that
+successor. Transitional inconsistency indicates an unstable or tangled lens, not
+parallel governing evaluators.
+
+The mechanism is truth-neutral, but covertness is not. An internally transmitted
+correction may be true and emancipatory; a rival successor may be more
+reality-coupled than the incumbent. The pattern becomes a pathological covert
+attack when material provenance, dependency, coordination, or sponsor control is
+deliberately hidden; when coercion or deception substitutes for judgment; or when
+the successor monopolizes interpretation and disables correction. Rivalry and
+replacement alone do not establish wrongdoing.
+
+Evidence of doctrinal or policy change is therefore weak evidence of attack, and a
+payment, grant, friendship, shared vocabulary, or elite association is not proof of
+capture. A strong inference would require converging evidence such as documented
+external objectives, concealed material relationships, private coordination,
+control over evidence or wording, patterned cultivation and appointment, common
+source dependence behind apparently separate voices, coordinated timing,
+suppression of provenance, retaliation against correction, and durable
+institutional effects. The comparison set must include sincere conversion,
+theological or intellectual development, common response to new evidence,
+generational replacement, class and career incentives, missionary adaptation,
+ordinary factional conflict, and independent convergence.
+
+Defence follows from the same mechanism: profile authority by function and
+jurisdiction; disclose material relationships and participation in message
+construction; trace sources and transformations; test whether plural voices are
+causally independent; separate pastoral, coordinative, normative, and epistemic
+authority; keep appointment and succession processes inspectable; protect internal
+dissent and external evidence routes; and make corrections travel through the same
+cascade as the original claim. See “Safeguards for persons, institutions, and
+cultures” in [*Epistemic Agency under Mechanical
+Solidarity*](0020-epistemic-agency.semantic-definition.md), “Memory, provenance,
+and correction” in [*Epistemic Constitution of Lifted Mechanical
+Solidarity*](0030-epistemic-constitution.semantic-definition.md), and “LT-037 —
+Context and source manipulation” in [*Linguistic Tricks: A Semantic
+Inventory*](0030-linguistic-tricks.semantic-inventory.md).
+
+For further case investigation, [Megan Basham's *Shepherds for Sale: How
+Evangelical Leaders Traded the Truth for a Leftist
+Agenda*](https://www.harpercollins.com/products/shepherds-for-sale-megan-basham)
+and [Taylor R. Marshall's *Infiltration: The Plot to Destroy the Church from
+Within*](https://store.taylormarshall.com/products/infiltration-the-plot-to-destroy-the-church-from-within)
+offer polemical book-length infiltration narratives. They are candidate case
+claims, not evidence for this threat model. [J. D. Greear's “An Open Response to
+Megan Basham's *Shepherds for
+Sale*”](https://jdgreear.com/an-open-response-to-megan-bashams-shepherds-for-sale/)
+illustrates why accused participants' counteraccounts and primary records must be
+tested before ordinary disagreement is redescribed as covert capture.
+
 #### Mythological apologetics and polemics
 
 Mythological apologetics maintains a constructive mythology under pressure. Mythological polemics contests the braid through which a destructive or failed rival retains authority. Neither operation is reducible to fact-checking because the contested object includes causal stories, moral classifications, identities, status relations, institutions, and permissions.
@@ -2720,6 +2874,13 @@ This application begins with observable damage, reconstructs the mythology and P
 - How did the relevant group or institution recognize, ratify, appoint, or reject the claimant?
 - Would the same words carry the same force from someone outside the recognized slot?
 - Is authority grounded in lineage, charisma, ritual, credential, procedure, reputation, office, or some combination?
+- Was the node recognized organically, appointed internally, externally amplified,
+  deliberately cultivated, or selected through a dependency-shaped succession
+  process?
+- Which source, funder, evidence package, communication network, or appointment
+  pathway is shared by apparently independent authorities?
+- How did the message change as it passed through expert, institutional, regional,
+  pastoral, and peer channels?
 - Can the actor distinguish defence of the mythology's purpose from defence of personal or organizational survival?
 - What happens when the actor fails, dies, retires, defects, or loses legitimacy?
 - Can succession preserve authority without suppressing correction or recreating personal rule?
@@ -2773,6 +2934,11 @@ This application begins with observable damage, reconstructs the mythology and P
 #### Adversarial defence and accountability
 
 - Which dark-art techniques could capture or invert the mythology?
+- Could a trusted guardian become an authenticated delivery channel through
+  capture of a trusted opinion leader or of the institution or channel they
+  represent, including sentinel inversion?
+- Are provenance, material relationships, message construction, and source
+  dependence visible at every stage of the cascade?
 - Can recipients recognize the downhill honey-trap signature?
 - Is there a superior constructive role, not merely a debunking message?
 - Are recovery routes available?
@@ -2954,6 +3120,13 @@ The following terms should be attributed to the present synthesis unless indepen
 - **authority migration** from personal embodiment in first-order solidarity toward persistent office and institution in lifted solidarity;
 - **actor–slot map** as a toolkit output;
 - **mythological replacement cycle**: map → preserve → unbraid → bridge → rebraid → maintain;
+- **trusted-opinion-leader capture followed by trusted-channel rebraiding** as the
+  human-carrier form of the covert attack pattern in which an adversary gains
+  influence through authenticated internal leaders and uses their authority to
+  help install one successor weave; offices, institutions, appointment systems,
+  and channels can be captured analogously without being classified as leaders;
+- **sentinel inversion** for the limiting case in which a recognized guardian
+  becomes the authenticated delivery channel for rival programming;
 - **apologetic closure**, **polemical corrosion**, and **polemical vacancy**;
 - **cynicism as corrosive acid** on an installed mythology;
 - the **Freud–Bernays unbraiding/rebraiding analogy**;
@@ -3031,7 +3204,13 @@ The following terms should be attributed to the present synthesis unless indepen
     far that generator governs; and corrigible describes openness to inspection,
     succession, and reality's right of refusal. Rival construction or replacement
     is not pathological merely because it is rival.
-30. **This toolkit is mythology-specific, not the definitive complete
+30. **Changed belief is not evidence of covert attack.** Capture of a trusted
+    opinion leader or an institutional channel requires evidence of provenance,
+    dependency, coordination, concealment, or control that defeats serious
+    alternatives such as sincere conversion, intellectual development, new
+    evidence, ordinary incentives, generational succession, and independent
+    convergence.
+31. **This toolkit is mythology-specific, not the definitive complete
     culture-implementation manual.** Use *Systems Leadership* for the exact
     practical method. Mythology has an elevated place as the bigOther's assembly
     language, but systems, symbols, leadership behaviour, habits, and repeated
@@ -3083,6 +3262,11 @@ The following terms should be attributed to the present synthesis unless indepen
 - **Semantic dark-art test:** strip the moral wrapper from qualified concepts and inspect the concrete permissions they authorize.
 - **Carrier–replicator warning:** a mythology can reproduce successfully by inducing conduct that damages its human carriers.
 - **Replacement sequence:** incumbent-braid map → polemical unbraiding → liminal bridge → successor braid → reality-coupled apologetics.
+- **Covert replacement threat:** trusted-opinion-leader capture or analogous
+  capture of an authority structure can invert trusted guardians, obscure
+  provenance through nested internal channels, and convert vertical authorization
+  into horizontal field proof while rebraiding one successor; changed belief or
+  disclosed payment alone is not proof.
 - **Defensive sequence:** apologetic repair → immunization → superior constructive attractor → recovery → containment and deterrence.
 - **Accountability rule:** sanctions attach to demonstrable conduct and causal responsibility.
 - **Central normative distinction:** cultural replication is not identical to human or civilizational flourishing.
@@ -3162,6 +3346,13 @@ Reality coupling:
 Adversarial defence:
 
 > **repair through apologetics + expose and unbraid through polemics + inoculate against the trick + build a superior attractor + preserve exit + impose conduct-based costs**
+
+Covert trusted-opinion-leader threat:
+
+> **map trusted opinion leader and supporting authority structures → hidden
+> influence or selection → preserve internal carrier identity → translate through
+> incumbent language → nested cascade + visible peer uptake → institutionalize →
+> rebraid one naturalized successor**
 
 Final contrast:
 

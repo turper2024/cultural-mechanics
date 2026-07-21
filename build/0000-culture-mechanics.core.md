@@ -2635,6 +2635,142 @@ precisely because many participants enact it together. Nor is amplification alwa
 vertical. Peer groups, rituals, crowds, and decentralized networks can synchronize
 without a privileged leader.
 
+#### Trusted opinion leaders, cascades, and cultivated authority
+
+The repeater definition deliberately remains minimal: it identifies unequal
+transmission gain. Applied analysis should not compress that inequality into one
+scalar “influence” score. Two people with similar reach may work through very
+different relations and create different capture risks.
+
+A **trusted opinion leader** is a person to whom members of a field recurrently
+refer for judgments, interpretations, or validation, and whose position
+consequently gives their classifications disproportionate credibility,
+transmission, or field-organizing force within a specified jurisdiction. *Trusted*
+describes socially operative trust, not necessarily warranted trust. *Opinion*
+includes factual judgments, interpretations, recommendations, and demonstrations
+of what competent or proper people do; it does not restrict the role to expressions
+of subjective preference. *Leader* identifies a human position without implying
+formal command or office.
+
+The phrase and composite definition are proposed here by adapting the broader
+opinion-leadership literature. They are not a camel-case renaming of the established
+medical-marketing category *key opinion leader*. The similarity is nevertheless
+intentional: **key opinion leader** and **trusted opinion leader** run substantially
+in parallel as human positions whose influence depends upon recognition by a
+receiving field, trust or authority within a jurisdiction, privileged transmission,
+interpretation, peer diffusion, and feedback. The developed body of research on
+KOL identification, cultivation, credibility, network effects, disclosure,
+conflicts of interest, and influence measurement can therefore supply hypotheses,
+methods, comparison variables, and warning signs for studying trusted opinion
+leaders. Transfer is not automatic validation: medical KOL findings remain
+domain-bound empirical results, while the trusted-opinion-leader construct is
+broader and belongs to the present Culture Mechanics synthesis.
+
+A trusted opinion leader may combine repeater gain, personal epistemic authority,
+gatekeeping, translation, modelling, brokerage, pastoral guidance, institutional
+representation, and field feedback. Not every repeater is a trusted opinion leader:
+a crowd, institution, channel, or algorithm can amplify strongly without being a
+person, while a person with extensive reach may still not become someone to whom
+recipients refer their judgment.
+
+A **trusted-opinion-leader profile** should therefore ask at least:
+
+| Axis | Diagnostic question |
+|---|---|
+| **Transmission capacity** | What are the person's reach, frequency, connectivity, brokerage, access to common attention, and institutional or algorithmic amplification? |
+| **Authority basis** | Does reception rest on demonstrated expertise, personal trust, formal office, institutional authorization, pastoral care, familiarity, prestige, or parasocial attachment? |
+| **Routing function** | Does the person select, gatekeep, translate, interpret, model, endorse, or relay material—and can they return audience resistance and needs to the source? |
+| **Jurisdiction** | For which topic, audience, setting, channel, and period does the person actually carry authority? |
+| **Independence and correction** | Who supplied access, funding, evidence, wording, status, and amplification; are apparently plural leaders causally independent; and can the person and message be corrected or replaced? |
+
+This profiles a human social position, not a psychological essence and not a claim
+that all dimensions covary. The same axes can be applied analogically to an office,
+institution, channel, or other nonhuman authority node without redescribing it as a
+leader. A medical **key opinion leader** can be a domain-specific subtype when the
+professional field actually refers judgments to that person; the industry label
+alone does not establish the relation. Such a person may combine scientific
+expertise, personal epistemic authority, professional office, institutional proxy,
+gatekeeping, translation, peer brokerage, and access to congress or guideline
+audiences. A social-media influencer may become a trusted opinion leader through
+repeated familiarity, perceived authenticity, identity fit, parasocial attachment,
+follower interaction, visible engagement, and platform-allocated attention, but
+audience size alone is insufficient. A physician creator may occupy both the
+medical-KOL and influencer profiles. Neither category is a synonym for *repeater*:
+each can bundle repeater gain with other authority relations already distinguished
+by this theory.
+
+Influence should be identified from the receiving field rather than inferred from
+title, publication count, follower count, or formal rank alone. Healthcare
+implementation research distinguishes sociometric nomination by peers,
+key-informant identification, self-designation, and observation of behaviour or
+network effects. These methods need not select the same people. The 2019 Cochrane
+review [*Local Opinion Leaders: Effects on Professional Practice and Healthcare
+Outcomes*](https://www.cochrane.org/evidence/CD000125_are-local-opinion-leaders-effective-promoting-best-practice-healthcare-professionals-and-improving)
+found moderate-certainty evidence that interventions involving local opinion
+leaders probably improve professional compliance with evidence-based practice,
+while effects varied and evidence for patient outcomes remained very uncertain.
+That result supports conditional, jurisdiction-specific influence; it does not
+validate the full culture-mechanical ontology or show that famous speakers are the
+locally effective trusted opinion leaders.
+
+The topology is also partly endogenous. Institutions, sponsors, movements, and
+platforms can discover existing trusted opinion leaders or prospective leaders,
+appoint them to offices, or amplify and cultivate their positions through research
+access, authorship, speaking opportunities, professional introductions, office,
+media exposure, recommendation systems, and repeated visibility. Brian Gac and
+colleagues' archival study [“Pharmaceutical
+Industry Use of Key Opinion Leaders to Market Prescription Opioids”
+(2024)](https://doi.org/10.1016/j.rcsop.2024.100543) documents companies identifying,
+recruiting, and developing people they called KOLs. The finding establishes that
+authority topology can be deliberately modified in that historical setting. It
+does not establish that every cultivated authority is insincere, every payment is
+corrupting, or every transmitted conclusion is false.
+
+Privileged transmission is commonly bidirectional and multistage. A node can
+translate evidence or programme content into the field's recognized language,
+detect objections and practical barriers, and return that information to the
+source, which then adapts later messages. Transmission may proceed through nested
+jurisdictions:
+
+```text
+source objective + selected evidence or content
+                       ↓
+trusted opinion leader interprets and translates
+                       ↓
+national or specialty authority
+                       ↓
+regional, institutional, or community authority
+                       ↓
+local trusted peer
+                       ↓
+peer repetition, visible adoption, and institutional routine
+                       ↺
+field reactions return upstream and reshape later messages
+```
+
+At each handoff, wording, emphasis, evidential status, and provenance can change.
+Several visible authorities may therefore be one causal source repeated through
+different faces, while one message may mutate from tentative evidence into expert
+interpretation, recommendation, local shorthand, and finally “what competent
+people do.” Leila Agha and Dan Zeltzer's [*Drug Diffusion through Peer Networks:
+The Influence of Industry Payments*](https://doi.org/10.1257/pol.20200044) finds
+payment-associated prescribing changes among paid physicians and their peers in
+one anticoagulant market; it supports the reality of peer spillovers there, not a
+general claim that all cascades are paid or manipulative.
+
+The portable lifecycle is therefore a candidate analytical map, not a universal
+campaign law:
+
+> **field sensing → leader identification, appointment, or cultivation → message or
+> evidence selection → seeding and legitimation → translation → nested cascade →
+> horizontal normalization → institutionalization → maintenance, correction, or
+> replacement**
+
+Analysis should track the source, incentives, transformations, independent routes,
+field feedback, and propagation of later corrections through this lifecycle. The
+same architecture can diffuse accurate practice, repair a failed tradition, sell a
+product, or support covert capture. Influence and truth remain separate variables.
+
 #### bigOther-presence as the local experience of field back-action
 
 The field is not normally experienced as a sociological diagram. Within a
@@ -3400,13 +3536,20 @@ their plurality does not localize the meta-order that makes their limits,
 interaction, appeal, and correction authoritative.
 
 - explicit jurisdiction and domain limits;
-- transparent evidence, methods, uncertainty, and conflicts of interest;
-- traceable provenance from spokesperson to underlying source;
+- transparent evidence, methods, uncertainty, financial and nonfinancial
+  relationships, and participation in selecting or constructing the message;
+- traceable provenance from the originating objective, evidence, or content through
+  each selection, translation, and local implementation;
 - visible correction and retraction procedures;
 - institutional separation and genuinely independent review;
+- review of whether apparently plural authorities depend upon one sponsor, evidence
+  package, platform, appointment network, or communication source;
 - protection for internal dissent and whistleblowing;
 - access to data and methods where safety and privacy permit;
 - public records of predictions, failures, and learning;
+- correction propagation through the same cascade that carried the original claim;
+- succession rules that make a trusted person or office replaceable without
+  epistemic collapse;
 - distinction between coordinating action and certifying factual truth.
 
 #### Cultural safeguards
@@ -3464,6 +3607,18 @@ The following questions help identify the configuration without assuming in adva
     jurisdiction?
 23. Can the meta-order and its authorized interpreters be corrected and succeeded,
     or do they claim that their certification determines what reality may be?
+24. If a person functions as a trusted opinion leader, what is their profile—
+    transmission gain, authority bases, routing functions, jurisdiction,
+    independence, and corrigibility?
+25. Was the leader or other authority carrier recognized by the receiving field,
+    formally appointed, externally amplified, deliberately cultivated,
+    algorithmically elevated, or some hybrid?
+26. How did the claim change as it moved from source to expert interpretation,
+    recommendation, local shorthand, visible adoption, and institutional rule?
+27. Do several trusted speakers represent independent convergence or one source
+    repeated through multiple authenticated faces?
+28. Can a correction travel back through every level of the cascade with enough
+    visibility to repair the original field effect?
 
 No single answer is decisive. The pattern matters.
 
@@ -3672,6 +3827,26 @@ nevertheless produce equal or greater gain by repeating the phrase, displaying t
 same emotion, and making unanimity visible. The example distinguishes unequal node
 gain from aggregate field amplification.
 
+#### Trusted opinion leaders: medical KOL and social-media influencer
+
+A medical KOL may function as a trusted opinion leader by combining domain
+expertise, professional standing, institutional authorization, personal trust,
+interpretation of technical evidence, access to a common professional audience,
+and peer-network brokerage. A YouTube influencer may acquire the same broader
+position through attention, familiarity, perceived authenticity, identity fit,
+parasocial attachment, audience feedback, and platform amplification. A physician
+YouTuber may occupy both application-specific positions. The trusted-opinion-leader
+profile preserves the difference between professional epistemic authority and
+audience intimacy while making their possible referral and transmission functions
+comparable.
+
+Neither follower count nor academic rank establishes that a person is a trusted
+opinion leader. The case should be indexed by topic, audience, setting, channel,
+and time, and should trace how the leader was recognized or cultivated, what
+message entered, how it changed, what peers did with it, and whether apparently
+independent signals shared one source. The same profile can carry reliable
+knowledge or sponsor-shaped promotion; adoption does not decide which.
+
 #### Cultural domain boundary
 
 Crossing from one region into another may reveal a sharp change in house forms,
@@ -3725,6 +3900,7 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Unitary ownership by the multi-mind-self** | One collective agent owns and cares through many *beseelte* persons. | Reinterprets successful “shared ownership” as collective-person ownership rather than fractional private psychology. |
 | **Privileged authority-addressed programming topology** | A differentiated authority position addresses a comparatively uniform audience under common attention. | Proposed recurrent geometry that can heighten reception and synchronization without defining mechanical solidarity. |
 | **Repeater** | A local bigOther with greater gain, reach, credibility, frequency, connectivity, or institutional amplification. | Explains unequal influence while preserving the claim that every local bigOther transmits. |
+| **Trusted opinion leader** | A person to whom members of a field recurrently refer for judgment, interpretation, or validation. | Names the human composite position that may combine repeater gain, gatekeeping, personal epistemic authority, translation, modelling, brokerage, representation, and field feedback. |
 | **Master signifier / S1** | Privileged signifier organizing identities and bodies of knowledge; translated here as a compressed protocol token. | Can select and activate the common interpretive mode; becomes pathological when it terminates inquiry. |
 | **Laser synchronization** | Metaphor for dynamic alignment of attention, affect, interpretation, and action. | Describes how many local classifiers enter a coherent common mode. |
 | **Ideological power** | Michael Mann's category, adapted by Rainer Mausfeld for power over sense-making categories, interpretive contexts, and framing narratives. | Names a possible macro-level means of programming the interpretive and trust environment; this entry focuses more broadly on the subject-side mechanisms and their corrigibility. |
@@ -3820,6 +3996,11 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Transmission process:** socialization into institutional trust.
 - **Authority nodes:** persons, roles, institutions, professions, identities, channels, and apparent consensus.
 - **Unequal-gain node:** repeater.
+- **Human composite authority position:** trusted opinion leader.
+- **Applied person-level analysis:** a trusted-opinion-leader profile separates
+  transmission capacity, authority basis, routing function, jurisdiction,
+  independence, and corrigibility rather than treating influence as one score;
+  analogous axes can profile nonhuman authority nodes without calling them leaders.
 - **Privileged but non-universal geometry:** differentiated authority addressing a comparatively uniform audience.
 - **Proposed receptive condition:** the authority-addressed programming state.
 - **Symbolic operator:** master signifier or S1 as compressed protocol token.
@@ -3924,6 +4105,7 @@ The vocabulary above does not come from one theory. The following map distinguis
 | **Mechanical-solidarity field** | Durkheim's mechanical solidarity and collective consciousness | Treats solidarity as emergent symbolic-affective coherence with back-action upon local judgment. The field ontology and physical analogies are proposed here. |
 | **Laser synchronization** | Analogy with physical lasers | A heuristic metaphor for social coupling and coherent collective output, not a claim that Durkheim or Lacan proposed a laser model or that social alignment obeys laser physics. |
 | **Magnetization, domains, domain walls, charged particles, photons, and repeaters** | Analogies with physics and network engineering | Project-developed models for alignment, boundaries, source/back-action, relative carrier-independence, and unequal gain. They do not assert physical identity. |
+| **Trusted opinion leader** | General opinion-leadership and diffusion research, including [Thomas W. Valente and Patchareeya Pumpuang](https://doi.org/10.1177/1090198106297855) | Adds a project-developed composite definition centred on the human referral position and distinguishes its repeater, gatekeeping, authority, translation, modelling, brokerage, representation, and feedback functions. It is broader than the medical-marketing category *key opinion leader*. |
 | **Multi-mind-self and unitary collective ownership** | [Otto von Gierke on the real unity of associations](https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/otto-gierke-on-the-relationship-between-the-individual-and-the-community-1902); [F. W. Maitland on moral and legal personality](https://doi.org/10.1017/CBO9780511810435.009); [Christian List and Philip Pettit on group agency](https://doi.org/10.1093/acprof:oso/9780199591565.001.0001) | Extends group-person and group-agency neighbors with local bigOthers, mechanical-solidarity field formation, *Beseelung*, and the claim that one collective self owns through many persons. None of the cited authors proposed that synthesis. |
 | **Privileged authority-addressed programming topology and programming state** | Freud on group psychology; Green and Brock on transportation; Horton and Wohl on parasocial interaction; Chwe on common knowledge; Bourdieu on authorized speech; Collins on interaction rituals | Synthesizes several mechanisms into a new, testable geometry. No source establishes the complete compound state. |
 | **Bonhoefferian Dummheit** | Dietrich Bonhoeffer, [“Von der Dummheit” (1943; PDF of the complete section)](https://jochenteuffel.files.wordpress.com/2020/12/bonhoeffer-von-der-dummheit.pdf) ([HTML transcription](https://de.wikisource.org/wiki/Von_der_Dummheit)) | Names a family resemblance between socially induced loss of independence and the present capture model. It is not an IQ measure, diagnosis, or complete restatement of Bonhoeffer. |
@@ -3954,6 +4136,10 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   Lacan's big Other;
 - **bigOther-presence** and **bigOther-as-Thou**;
 - **repeater** as an unequal-gain local bigOther;
+- **trusted opinion leader** as the human composite position defined here, and
+  **trusted-opinion-leader profile** as its multidimensional applied analysis of
+  transmission capacity, authority bases, routing functions, jurisdiction,
+  independence, and corrigibility;
 - **privileged authority-addressed programming topology** and the proposed
   **programming state**;
 - **multi-mind-self**, **unitary ownership by the multi-mind-self**, and
@@ -3988,6 +4174,51 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   collection record](https://collection.sciencemuseumgroup.org.uk/objects/co502750/volksempfanger-radio).
   Its use as a technological replication of the classroom geometry is the present
   framework's interpretation.
+
+### Opinion-leader and influencer research for operational comparison
+
+- **Local healthcare opinion leaders — Gerd Flodgren, Mary Ann O'Brien, Elena
+  Parmelli, and Jeremy Grimshaw.** The 2019 Cochrane review [*Local Opinion
+  Leaders: Effects on Professional Practice and Healthcare
+  Outcomes*](https://doi.org/10.1002/14651858.CD000125.pub5) finds heterogeneous
+  but probably positive effects on professional compliance with evidence-based
+  practice and very uncertain effects on patient outcomes. It supports conditional
+  field influence, not the complete culture-mechanical account.
+- **Opinion-leader identification — Thomas W. Valente and Patchareeya Pumpuang.**
+  [“Identifying Opinion Leaders to Promote Behavior
+  Change”](https://doi.org/10.1177/1090198106297855) reviews ten identification
+  methods across almost 200 studies and compares their advantages and
+  disadvantages. It supports identifying authority from the receiving network
+  rather than equating formal rank with influence.
+- **Peer diffusion — Leila Agha and Dan Zeltzer.** [*Drug Diffusion through Peer
+  Networks: The Influence of Industry
+  Payments*](https://doi.org/10.1257/pol.20200044) estimates payment-associated
+  prescribing effects among physicians and their peers in a particular
+  anticoagulant market. The result supports peer spillover in that setting, not a
+  universal causal law or an inference of corruption from payment alone.
+- **Cultivated medical KOLs — Brian Gac, Kgosi Tavares, Hanna Yakubi, Hannah Khan,
+  Dorie E. Apollonio, and Eric Crosbie.** [“Pharmaceutical Industry Use of Key
+  Opinion Leaders to Market Prescription
+  Opioids”](https://doi.org/10.1016/j.rcsop.2024.100543) uses internal industry
+  documents to show deliberate identification, recruitment, and development of
+  KOLs. This is evidence for endogenous authority production in that case, not a
+  definition of medical expertise or proof against every KOL relationship.
+- **Social-media influencer research — Yatish Joshi, Weng Marc Lim, Khyati Jagani,
+  and Satish Kumar.** Their systematic review [“Social Media Influencer Marketing:
+  Foundations, Trends, and Ways
+  Forward”](https://doi.org/10.1007/s10660-023-09719-z) maps a developed but
+  theoretically federated literature involving source credibility, parasocial
+  relations, authenticity, persuasion knowledge, sponsorship, and engagement. It
+  supplies comparison variables rather than one unified influencer theory.
+- **Disclosure and authority hygiene.** The [US Centers for Medicare & Medicaid
+  Services' Open Payments programme](https://www.cms.gov/priorities/key-initiatives/open-payments),
+  the [HHS Office of Inspector General's speaker-programme fraud
+  alert](https://oig.hhs.gov/compliance/alerts/), and the [US Federal Trade
+  Commission's social-media disclosure
+  guidance](https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers)
+  provide domain-specific examples of making financial or material relations
+  visible. Disclosure improves inspectability but does not by itself prove
+  corruption, falsity, independence, or safety.
 
 ### Persuasion and MCIP: sources and method lineage
 
