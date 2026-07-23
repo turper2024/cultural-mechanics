@@ -30,6 +30,13 @@ is open and corrigible or closed and pathological is a separate question.
 
 The bigOther also has a special capacity: it can couple with the bigOthers of other people. It encodes its classifications in words, stories, gestures, roles, titles, symbols, and sanctions that are intelligible within a shared symbolic order. Reciprocal signalling can synchronize many locally programmed individuals into an emergent social field and, under sufficiently integrated conditions, a distributed **multi-mind-self**. Culture is the relatively stable evaluative programming and social coordination produced and reproduced through this loop.
 
+A multi-mind-self need not erase the persons through whom it acts. Culture
+mechanics therefore distinguishes **differentiated unity**, in which a real *we*
+preserves different functions, judgments, relationships, and legitimate
+jurisdictions, from **subjecthood absorption (fusion)**, in which those personal
+standings are increasingly denied against the collective. Collective agency,
+synchronization, and fusion are related but independent properties.
+
 Some ideological symbols are **conformity signals**: their performance, absence,
 or refusal makes a person's relation to the installed program publicly legible.
 Such signals can turn private classification into monitoring, apparent consensus,
@@ -159,6 +166,32 @@ This account also leaves the metaphysical status of a reported presence open. It
 claim is narrower: whatever else the presence may be, the person's local bigOther
 can mediate how it becomes socially classified and conduct-directing.
 
+When the mythology represents an agent, several depths of relation and enactment
+must be distinguished:
+
+| Depth | Culture-mechanical description | Relation to fusion |
+|---|---|---|
+| **Representation** | “This culture tells stories about God, a god, the Nation, History, the People, or the Cause.” | No fusion follows from representation. |
+| **Consultation or service** | The person asks what the represented agent would judge or accepts obligations toward it. | Personal authorship can remain fully legitimate. |
+| **bigOther-as-Thou** | The agent is experienced as present, addressing, watching, judging, or commanding the person. | An *I--Thou* relation still contains two poles; presence is not fusion by itself. |
+| **Distributed enactment** | Several persons and institutions provide perception, memory, judgment, voice, resources, and action to the represented agent. | Enactment can remain differentiated or become absorptive. |
+| **Fused enactment** | The collectively enacted agent becomes the authoritative subject and the person's independent authorship loses standing against it. | This is subjecthood absorption by definition. |
+
+The sequence is analytical rather than a necessary developmental ladder. A person
+can serve without reporting a presence, report a presence without joining a
+collective agent, or participate in collective enactment while retaining a
+legitimate conscience, judgment, and right of refusal. Conversely, an intensely
+agentified programme can make “the Other speaks and acts through me” the operative
+locus of authorship.
+
+The phrase **agent-model** in this comparison means the culturally specified
+representation by which people anticipate what an agent perceives, remembers,
+wants, judges, and commands. It is part of the operative mythological lens; it is
+not another local bigOther. Nor does analysis of a humanly implemented God-model
+decide whether God exists independently of that implementation. Culture Mechanics
+can examine the representation, experience, and social enactment while leaving
+the theological or metaphysical referent open.
+
 #### Shared symbolic protocol
 
 The spelling **bigOther** marks a deliberate adaptation of [Jacques Lacan's *big
@@ -199,6 +232,47 @@ The bigOther's power comes less from computational sophistication than from its
 the main CPU's thoughts. The main CPU may subsequently use its much greater power
 to explain, implement, defend, or occasionally question the direction supplied by
 the bigOther.
+
+#### Historical cause, live classification, and avowed reason
+
+A present cultural response can contain three causally distinct layers:
+
+1. **Historical cause:** the remote social experience, institutional arrangement,
+   selection process, conflict, or practical problem through which a rule and its
+   affective weight arose.
+2. **Live classification:** the attraction, horror, shame, sacredness, loyalty, or
+   other sentiment currently executed when the operative lens encounters the
+   object.
+3. **Avowed reason:** the explanation a person or institution can presently state
+   for that response.
+
+These layers can coincide, but they need not. The original problem can disappear
+while an affectively alive prohibition remains; a later theology, science, or
+political doctrine can then supply a new explanation. Conversely, a person can
+repeat an inherited reason after its corresponding classification has become
+affectively dead.
+
+Émile Durkheim supplies a particularly clear observation in [“Les principes de
+1789 et la
+sociologie”](https://education.persee.fr/doc/revin_1775-6014_1890_num_19_1_9561_t1_0450_0000_1)
+(1890; Mark Traugott's English translation appears in [*Émile Durkheim on
+Morality and
+Society*](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3627098.html),
+pp. 34–42). He writes that conscious prescriptions can be “the conscious outcome
+of an entire unconscious process” and that, without access to their remote causes,
+“we invent reasons for them, lacking the real ones which we do not see.” His
+kin-marriage example separates a surviving horror from the religious or
+physiological explanations later offered for it.
+
+This is testimony to the **phenomenon to be explained**, not proof of the present
+processor architecture. Implicit learning, habit, affective conditioning,
+predictive processing, strategic rationalization, and other unitary-mind accounts
+remain alternatives. A discriminating study should therefore vary or measure the
+three layers separately: alter an explicit reason while holding the social
+approval environment roughly constant; alter approval while holding the
+proposition constant; test whether affective reversal precedes or follows
+doctrinal revision; and compare people who avow the same reason but display
+different classifications.
 
 ### 5. The single-slot principle
 
@@ -283,6 +357,44 @@ independent bigOthers running in parallel. This helps explain why conversion,
 deradicalization, psychoanalysis, moral injury, ideological rupture, and profound
 changes of identity can be slow, conflictual, and emotionally painful.
 
+#### Hard cases and possible defeat conditions
+
+Single-slot exclusivity cannot be protected merely by redescribing every apparent
+counterexample as “one complicated braid.” Self-description, retained vocabulary,
+public ritual, or several group memberships do not decide the architecture. The
+diagnostic question is:
+
+> **When inherited authorities conflict over the same act, which rule or authority
+> has final interpretive priority over what the retained material means?**
+
+The following observations remain consistent with one slot:
+
+- one tradition interprets the other's retained symbols and practices;
+- outward conformity is strategic camouflage under legal or social coercion;
+- selected strands have been integrated into one syncretic successor;
+- a third rule governs how both inheritances are combined;
+- or the person is in unstable, incomplete unbraiding and rebraiding.
+
+A strong candidate counterexample requires substantially more:
+
+1. two governing evaluators issue incompatible classifications in the same domain;
+2. each remains independently final rather than being interpreted, authorized, or
+   limited by the other or by a third rule;
+3. each can generate its own affect, guilt, correction, and veto;
+4. neither is merely reflective knowledge, role performance, strategic concealment,
+   or a de-animated remnant; and
+5. the configuration remains stable over time rather than resolving into
+   hierarchy, integration, replacement, or breakdown.
+
+Evidence of that pattern would count against strict single-slot exclusivity. The
+theory would then need either a principled account of parallel operative
+evaluators or revision of the one-slot commitment. Evidence for only labels,
+rituals, memories, or alternating contexts is insufficient because one weave can
+assign different outputs to different contexts. The detailed dual-religious-
+identification boundary case belongs to [*Epistemic Agency under Mechanical
+Solidarity*, “Examples, cases, and boundary
+tests”](0020-epistemic-agency.semantic-definition.md#dual-religious-identification-and-the-converso-hard-case).
+
 ### 6. Systems Leadership: mythologies and the mythological lens
 
 [*Systems Leadership: Creating Positive
@@ -343,6 +455,127 @@ An individual mythology can teach:
 
 A story acts as an evaluated simulation. Narrative transportation places the listener inside a conflict; a hero or villain demonstrates a possible response; consequences display what follows; praise or condemnation supplies the sentiment label; and the audience's reaction shows whether the classification is collectively shared. Each story is one training example. Many convergent stories allow the bigOther to generalize a lens that can classify new situations never described in any one story.
 
+#### Relevant structures and moral appraisal
+
+Dushan Wegner's *Relevante Strukturen* (2019; ISBN 9783739405636) calls attention
+to the relations in which a person is embedded and to the larger structures that
+the person experiences as important. Culture Mechanics adopts **relevant
+structure** as a typed relational object rather than as a synonym for anything a
+person happens to value:
+
+> A **relevant structure** is a represented relational arrangement or organized
+> condition--such as a family, friendship, profession, institution, community,
+> legal order, practice, person-in-relation, or anticipated shared future--that
+> the installed mythological lens treats as carrying moral weight.
+
+Not every desired object, isolated preference, or momentarily salient stimulus is
+therefore a relevant structure. The term emphasizes embedding, dependence,
+continuity, function, and vulnerability. A mythology can teach which structures
+exist, who or what belongs within them, how they depend upon one another, what
+counts as supporting or damaging them, whose claims have precedence when they
+conflict, and who has standing or jurisdiction to judge and act.
+
+Wegner's memorable formulation that good strengthens relevant structures and evil
+weakens them is incorporated as the **relevant-structure appraisal hypothesis**:
+
+> **People often experience an action, omission, continuation, or proposed change
+> as good when they believe it strengthens, protects, repairs, or honourably
+> serves a structure they experience as relevant, and as evil when they believe
+> it weakens, corrupts, betrays, or destroys such a structure.**
+
+This is a descriptive hypothesis about moral perception and mobilization, not a
+sufficient definition of moral truth and not a claim that every moral judgment
+uses this route. The analysis must keep five variables distinct:
+
+| Variable | Question |
+|---|---|
+| **Felt relevance** | How much moral weight does this person or operative culture assign to the represented structure? |
+| **Represented effect** | What does the person believe the action will do to it? |
+| **Actual effect** | What does the action do, including indirect, delayed, and transferred effects? |
+| **Generative centrality** | How strongly does the structure actually produce capabilities or conditions upon which several downstream structures depend? |
+| **Normative standing** | Is the structure, claimed effect, jurisdiction, or proposed sacrifice legitimate? |
+
+**Generative centrality**--also described more informally as
+*load-bearingness*--is therefore not another name for felt relevance. A structure
+may be causally central to the production of character, knowledge, cooperation, or
+institutional continuity while receiving little explicit moral attention.
+Conversely, an intensely felt-relevant structure may be weakly generative,
+replaceable, or destructive. A **cultural sublimation architecture** is a
+particularly important proposed case: it can recurrently produce capacities upon
+which families, professions, law, science, markets, and political institutions
+depend even when the operative culture does not represent that architecture
+itself as relevant. The concept and its limits are developed in [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md), “Sublimation
+and moral formation.”
+
+The mismatch is analytically consequential:
+
+```text
+high generative centrality
++ low felt relevance
+→ weak protection and transmission
+→ vulnerability to neglect, ridicule, dismantling,
+  or consumption of inherited cultural capital
+```
+
+This is a hypothesis about dependency and reproduction, not a presumption that
+every inherited arrangement is beneficial or that whatever calls itself
+civilizational must be preserved.
+
+Wegner's emphasis on *Veränderung* also motivates the more limited
+**change-indexed moral-mobilization hypothesis**:
+
+> **Moral classification often becomes especially salient and action-directing
+> when a condition is represented as causing, accelerating, continuing,
+> preventing, or culpably failing to prevent a change in a felt-relevant
+> structure.**
+
+This concerns represented counterfactual movement, not physical novelty. “The
+rule exists” can be rendered as “officials continue the rule,” “participants
+decline to end it,” or “the institution prevents transition to an alternative.”
+Conversely, the absence of visible mobilization does not establish that the status
+quo is experienced as good: coercion, habituation, helplessness, low salience,
+concealed dissent, and the absence of a represented alternative are competing
+explanations. A direct test would hold material conditions constant while comparing
+a static-state description, an active-continuation description, and a
+prevented-alternative description. Failure of these descriptions to alter moral
+intensity or action readiness, especially across independently measured relevance,
+would weaken the hypothesis.
+
+The mythological lens need not calculate complex consequences by itself. Ordinary
+cognition, testimony, institutions, and a mythology's causal stories can supply a
+represented effect model; the local bigOther then rapidly classifies the
+represented support or damage through the installed lens:
+
+```text
+observed, proposed, continued, or prevented change
+                         ↓
+main CPU + received causal stories represent likely effects
+                         ↓
+operative lens supplies felt relevance, moral meaning,
+precedence, standing, and jurisdiction
+                         ↓
+local bigOther classifies protection/injury, loyalty/betrayal,
+repair/destruction, justice/injustice, honour/shame
+                         ↓
+attention, judgment, motivation, and action are redirected
+```
+
+“Strengthening” and “weakening” are multidimensional rather than one moral scalar.
+An oppressive institution may increase its continuity, capacity, reach, or internal
+cohesion while destroying truth-contact, corrigibility, personal standing, or
+legitimate exit and while transferring severe costs to other persons and
+structures. The appraisal hypothesis explains why participants may nevertheless
+experience its preservation as good; it does not vindicate that appraisal.
+
+Several relevant structures can coexist within the one operative weave without
+implying several local bigOthers. Their relative weight, conflict rules, and
+jurisdictions are program content. A predominantly first-order solidarity may make
+a concrete hierarchy of structures binding as such. A lifted solidarity may make
+binding a procedure by which competing claims are evidenced, limited, adjudicated,
+appealed, and revised. This is an application of the order-level distinction, not
+its definition; in both cases the one slot remains fully occupied.
+
 Systems Leadership adds an important qualification: explicit stories are not the only influences on the lens. The conduct of leaders, the design of systems, the use of symbols, institutional rewards and sanctions, and repeated experiences of belonging, success, humiliation, or exclusion can confirm or contradict the lessons conveyed by a mythology. These experiences may themselves later be narrated as new mythologies.
 
 The relationship is therefore not simply “a story causes a feeling.” Rather:
@@ -384,6 +617,65 @@ Culture mechanics distinguishes several operations that are easily confused:
 | **Reprogramming** | Usually slow | Modifies the operative weave. Compatible change can extend or repair it; incompatible replacement requires sufficient unbraiding of the incumbent and rebraiding of one successor lens. |
 | **Unbraiding and rebraiding** | Usually slow and conflictual | Loosens load-bearing bindings, preserves or detaches selected strands, crosses a potentially unstable interval, and installs one successor weave rather than a parallel evaluator. |
 
+Applied to relevant structures, **relevance activation** foregrounds a concern and
+appraisal mapping already installed in the lens. **Relevance reprogramming**
+changes which relational arrangements carry moral weight, how strongly they
+matter, what support or damage means, or how conflicts among them are resolved.
+Repeated foregrounding may reinforce and eventually help reprogram the lens, but a
+one-shot increase in salience does not by itself establish durable reprogramming.
+
+The theory studies one endogenous formation path and one prospective purposive
+research route.
+
+**Endogenous mythology formation** is the largely distributed and not centrally
+designed process through which changes in social structure, institutions, lived
+practice, and receiver dispositions generate pressures, needs, and aspirations;
+competing articulations are then selected, sacralized, embodied, and reproduced.
+It is the ordinary cultural-growth path. *Endogenous* describes causal provenance,
+not innocence, health, inevitability, or moral legitimacy.
+
+**Purposive mythology construction** is the open research possibility that a
+person, office, organization, or coalition might adopt a proposed destination and
+deliberately intervene in the mythologies, causal classifications, symbols, roles,
+permissions, and supporting institutions through which a population interprets
+and acts. Any attempted constructor remains inside culture: the desired
+destination, available materials, authority, and perception of the problem have
+themselves been culturally formed, and the intervention becomes one more input
+into receiver, institutional, rival, and reality selection.
+
+The detailed semantic definition, design audit, and workflow belong to
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md);
+the present section states only the distinction needed by the core causal cycle.
+
+```text
+ENDOGENOUS FORMATION
+changing conditions → diffuse mismatch → competing articulations
+→ distributed selection → embodiment and reproduction
+
+PROSPECTIVE PURPOSIVE CONSTRUCTION
+chosen destination D*
+→ diagnose receivers, incumbent order, and likely baseline trajectory
+→ deliberately alter mythologies and supporting arrangements
+→ prototype, observe, correct, defend, or retire
+```
+
+The prospective branch treats mythology as a privileged symbolic intervention
+surface because evaluated stories encode roles, causes, values, permissions, and
+consequences in a form close to the bigOther's learned operations. It is not the
+whole implementation surface. Leadership behaviour, systems, symbols, habits,
+rewards, sanctions, material conditions, and repeated experience may confirm,
+redirect, or defeat an intended mythology. An attempted purpose therefore does not
+imply control:
+
+```text
+actual successor
+= intended destination × receiver fit × incumbent resistance
+× institutional selection × rival intervention
+× unintended consequence × reality
+```
+
+The multiplicative notation marks joint constraint, not a measured equation.
+
 A slogan, flag, gesture, uniform, accusation, facial expression, or news event normally does not transmit a complete mythological lens. It is a small trigger interpreted by an already programmed bigOther. The same signal can therefore produce opposite reactions in people with differently formed lenses. When the event is subsequently organized and retold as an evaluated story, it can also become a new mythology that reinforces or modifies the lens.
 
 A **master signifier** is an especially dense activation signal. In the
@@ -395,6 +687,40 @@ pair of a mathematical mapping. Its power depends upon prior programming and a
 shared convention for expanding it. Longer stories, repeated practice, and
 institutional experience can change the program; the token usually calls the
 program already present.
+
+The same distinction applies when a slogan, song, hero, ritual, work, or exemplary
+practice evokes a culturally shared sublimation. The carrier does not contain the
+sublimation process or the durable cultural arrangement that teaches it. It
+activates installed mappings connecting the represented practice to honour,
+shame, capability, contribution, belonging, or obligation. A rival or cynical
+mythology can activate a contrary classification; repeated stories, symbols,
+rewards, sanctions, systems, and observed conduct can reinforce that mapping and
+eventually reprogram the operative lens:
+
+```text
+incumbent mythologies:
+sublimated practice → honour, contribution, capability
+                              ↓ rival reclassification
+sublimated practice → exploitation, foolishness, conformity, futility
+                              ↓ repeated cultural implementation
+reinforcement or reprogramming of the mythological lens
+                              ↓
+local bigOther supplies changed sentiment and motivation
+                              ↓
+changed enactment, Beseelung, and intergenerational transmission
+```
+
+Wegner's compression and decompression vocabulary supplies a useful second view
+of this operation: a small token can stand in for a much larger installed complex.
+In the constitutive language of Culture Mechanics, however, the intrapersonal
+target is the programming of the mythological lens. A “decoder” is an analogy for
+recipient reconstruction through ordinary cognition, learned context, the
+installed lens, and local-bigOther classification--not a third processor.
+Prestigious examples, ridicule, rewards, and sanctions are programming and
+reinforcement channels rather than a substitute for the lens. *Beseelung* remains
+the independent degree to which the resulting program is affectively alive and
+conduct-directing, not a separate decoding faculty or necessarily a conscious
+willingness.
 
 Activation and replacement must therefore not be confused. A signal can activate
 or reinforce material already compatible with the installed lens. It cannot by
@@ -433,6 +759,16 @@ member of the category the same kind of thing.
 | **Local execution** | The installed program as executed by an individual sentiment classifier | A local bigOther applying its mythological lens |
 | **Collective formation** | The emergent result of compatible local execution and reciprocal signalling | Mechanical solidarity and the distributed bigOther |
 | **Collective agent** | A sufficiently integrated and continuous collective formation capable of judgment, intention, ownership, and action | A multi-mind-self |
+
+A culturally legible phrase, song, image, hero, or ritual that evokes a shared
+sublimation remains a **carrier or activation device**, an **ideological symbol**,
+a master-signifier-like token, or a fragment of mythology according to its actual
+function. The Wegner-facing expression **sublimation emblem** may be useful as
+explanatory shorthand for its compressed representative role, but it does not
+create a new culture-mechanical object type. Analysis must keep separate the
+sublimation process, its resulting character or practice, the cultural
+sublimation architecture that recurrently produces it, and the token that
+activates relevant programming.
 
 In common contemporary political, organizational, and media usage,
 **narrative** is often a fuzzy synonym for **mythology**. Culture mechanics retains
@@ -491,6 +827,57 @@ broad use must be distinguished from the narrower **ideological form**, the thir
 member of the private--collective--ideological--fundamentalist taxonomy below. The
 expression **ideological-form program** names that third configuration when the
 two senses might otherwise be confused.
+
+#### Disagreement, mythological rivalry, and ideological-form conflict
+
+The broad adjective *ideological* must not turn every disagreement into one
+undifferentiated “ideological conflict.” Culture mechanics distinguishes the
+object and intensity of conflict:
+
+| Term | Culture-mechanical meaning |
+|---|---|
+| **Propositional disagreement** | Incompatible truth claims that need not involve rival governing lenses. |
+| **Causal-story conflict** | Incompatible accounts of agents, causes, intentions, responsibility, or remedy. |
+| **Classification conflict** | Incompatible assignments of identity, status, purity, legitimacy, or permission. |
+| **Mythological rivalry** | Informal or decentralized competition among meaning systems, including lifestyles, religions, political outlooks, and institutional cultures. |
+| **Mythological conflict** | Active interference with a rival mythology's transmission, authority, membership, or institutional embodiment. |
+| **Cultural-program conflict** | Competition between incompatible governing programs or operative lenses, especially where single-slot replacement is at stake. |
+| **Ideological-form conflict** | Organized recruitment, formation, conformity testing, delegitimation, and interference with a rival program's reproduction. |
+| **Fundamentalist-form conflict** | Ideological-form conflict in which expansion, retention, punishment, expulsion, or elimination authorizes or uses physical coercion or violence. |
+
+> **Rivalry becomes conflict when participants begin actively interfering with the
+> rival mythology's transmission, authority, membership, or institutional
+> embodiment.**
+
+Mythological rivalry can therefore persist without organized conflict. The
+transition can occur through recruitment campaigns, polemical unbraiding,
+conformity tests, delegitimation, exclusion from channels, institutional
+displacement, or censorship. [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md), “Mythological
+replacement: braiding, apologetics, and polemics,” develops these operations and
+the problem of installing a successor weave.
+
+Kenneth Minogue calls the organized struggle **ideological conflict**. In the
+preface to the second edition, dated January 2006 (p. xvi), of [*Alien Powers: The Pure Theory of
+Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf),
+he argues that an initial move is to disable opposition, ideally by censorship.
+In Culture Mechanics terminology, this maps most directly to
+**ideological-form conflict**, and to **fundamentalist-form conflict** when
+physical coercion or violence becomes the means of expansion or retention.
+Minogue's narrower, mobilizing, conflict-centered conception must not be silently
+equated with the broad religion-inclusive adjective *ideological* used in this
+document.
+
+Call censorship or channel exclusion **rival-signal suppression** when it obstructs
+a competing mythology's signals, and **counter-program suppression** when it
+attacks the rival program's reproduction or institutional embodiment. A
+counter-narrative is not analytically random noise: it may carry a rival mythology,
+independent evidence, an internal correction, minority perception, or innovation.
+For the relationship between this distinction and the physical noise-suppression
+heuristic, see [*Analogical Models in Culture Mechanics: A Semantic
+Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md), “Positive
+feedback, noise, and rival signals.” These conflict terms are project-developed
+translations; they are not Minogue's taxonomy.
 
 #### Ideological symbols must be classified by function
 
@@ -660,6 +1047,36 @@ enforces. A private dietary or yoga practice can be intensely alive. A football
 crowd can synchronize powerfully without seeking converts. A perfectly conforming
 functionary can privately believe nothing, and a fundamentalist system can be
 enforced by cynical officials.
+
+When a programme contains an agent-model, ***agentified Beseelung*** can make that
+agent sufficiently present within local evaluation that the person begins to
+perceive, judge, and act from its represented perspective. This joins the
+dead--alive axis to bigOther-presence without making them synonyms: a practice can
+be deeply *beseelt* without a personified Thou, and an asserted vision or voice
+does not by itself establish durable affective animation, distributed agency, or
+fusion.
+
+Relative deadness can also be a historical remainder. A culture may preserve a
+rule, word, symbol, institution, or habitual procedure after losing the mythology,
+rituals, practices, and transmission relations that once made it sacred,
+identity-bearing, and synchronizing. Such a remnant can remain functionally useful:
+the pedestrian signal still coordinates movement even when it no longer evokes
+guilt, sacrifice, or an experience of collective being. A later observer who sees
+only that remnant cannot safely infer that the rule was always affectively dead.
+
+This creates a three-way calm-period ambiguity: an intact cultural system may be
+**dormant**; surviving material may be **de-animated**; or the former
+synchronization technology may be **culturally lost** and require successor
+construction rather than reactivation. Loss of that technology does not empty the
+one PCI slot: another operative mythological weave still occupies the local
+bigOther. [*Epistemic Agency under Mechanical Solidarity*, “Observability,
+cultural forgetting, and contemporary
+witnesses”](0020-epistemic-agency.semantic-definition.md#observability-cultural-forgetting-and-contemporary-witnesses)
+states the historical hypothesis and evidential problem. [*Analogical Models in
+Culture Mechanics: A Semantic
+Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md) maps them to
+the nested quantum, laser, magnetism, weak-field gravity, and contemporary-witness
+pictures.
 
 The private--collective--ideological--fundamentalist distinction classifies
 dominant **propagation and enforcement configurations**, not different kinds of
@@ -1232,6 +1649,11 @@ The rider may mistake the resulting feeling for the product of independent reaso
 
 This analogy is closer to the psychological claim than the computer analogy because it shows that the bigOther does not normally dictate complete thoughts. It modifies the affective conditions under which thought and action occur.
 
+For the mapped features, non-inferences, and relationship of the CPU, PCI-slot,
+wireless-collar, protocol, and network pictures to the framework's physical and
+craft analogies, see [*Analogical Models in Culture Mechanics: A Semantic
+Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md).
+
 ### 11. The wireless superpower: the individual coupling interface
 
 The bigOther's distinctive superpower is its capacity to participate in
@@ -1339,6 +1761,98 @@ Solidarity*](0020-epistemic-agency.semantic-definition.md) develops that distinc
 together with field geometry, collective ownership, gatekeepers, and back-action
 upon epistemic agency.
 
+#### Nested authorship, activation, and episodic multi-mind-selves
+
+A multi-mind-self is a **network-level subject**, not a second local self or a
+second PCI card installed inside each participant. Collective and personal
+authorship can therefore coexist at different levels. The collective can
+legitimately perceive, remember, decide, own, and act as *we* while participating
+persons retain legitimate *I*s, differentiated functions, consciences, judgments,
+relationships, property, and bounded rights of refusal and exit.
+
+> **A differentiated multi-mind-self adds an operative *we* without invalidating
+> the participating *I*s. Fusion begins when the *we* displaces those *I*s as
+> independently legitimate authors.**
+
+The definition is functional and emergent. It does not reduce the collective to a
+mere metaphor or list of individual states: the organized relation has continuing
+capacities and acts back upon its participants. It also does not by itself assert
+one unitary field of phenomenal consciousness analogous to a biological person's
+experience. Whether collective phenomenal subjectivity exists is a further and
+much harder claim than whether the distributed organization qualifies as an
+agent.
+
+The relevant integration can have different temporal profiles. A continuing
+multi-mind-self may operate mainly through differentiated clockwork coordination
+and enter intermittent high-gain laser episodes. An **episodic multi-mind-self**
+crosses the collective-agent threshold only during bounded periods of sufficient
+common attention, coupling, reciprocal feedback, memory access, judgment, and
+coordinated action. Between episodes, institutions, calendars, roles, artifacts,
+places, stories, and trained local bigOthers may preserve a **latent distributed
+bigOther** below the presently active multi-mind-self threshold.
+
+Calling this latency “sleep” is useful only when viable reactivation machinery and
+identity-bearing continuity remain. A de-animated remnant or culturally lost
+synchronization technology is not merely a sleeping collective self. The detailed
+state model and its pilgrimage, military, and Subak boundary cases belong to
+[*Epistemic Agency under Mechanical Solidarity*, “Activation profiles and episodic
+multi-mind-selves”](0020-epistemic-agency.semantic-definition.md#activation-profiles-and-episodic-multi-mind-selves).
+
+#### Differentiated unity and subjecthood absorption (fusion)
+
+The existence or strength of a collective agent does not decide what standing its
+members retain. Culture mechanics calls a real shared *we* **differentiated
+unity** when distinct persons, functions, judgments, relationships, and legitimate
+subordinate jurisdictions remain constitutive parts of the common order. The
+qualifier **person-preserving unity** emphasizes the same boundary: unity is not
+mere coexistence, but neither does membership dissolve the participating subjects.
+
+**Subjecthood absorption (fusion)** is the independent extent to which a
+collective program treats its members as organs whose personal judgment,
+conscience, purpose, property, loyalties, identity, relationships, refusal, or
+exit have no legitimate standing against the collectively enacted subject.
+Equivalently, fusion is the displacement or absorption of the person's self as an
+independently legitimate author, so that another enacted self increasingly
+perceives, judges, speaks, owns, and acts through that person. The person's
+biological body, main processor, skills, memory, and practical intelligence need
+not disappear; they can remain active as the collective subject's execution
+surface. The eye still sees, the mouth still speaks, and the hand still acts, but
+the collective claims the standing to determine for whom and for what they act.
+
+Subjecthood absorption is not identical to high cultural interoperability, strong
+synchronization, multi-mind-self agency, comprehensive local slot occupancy, or a
+large jurisdiction. Those properties can contribute to it, but none defines it.
+
+The principal dynamics increasing absorption are called **fusion pressure**:
+
+- one selected alignment is generalized across more domains and maintained beyond
+  the task or episode that made it useful;
+- independent judgment and differentiated contribution are reclassified as noise,
+  selfishness, alienation, impurity, or betrayal;
+- personal, household, professional, associational, and institutional
+  jurisdictions are subordinated to one collective purpose;
+- the collective's classifications become compulsory while correction, refusal,
+  exit, and appeal lose legitimate standing.
+
+**Total fusion** is the limiting case: high subjecthood absorption combines with
+comprehensive jurisdiction and closed correction or exit. The originating image
+is that persons become “drops of water in one clear pond.” It is a pole, not the
+definition of every multi-mind-self and not a biological state that humans can
+literally enter.
+
+A **fusion ideology** is a mythology or program that treats the separate person as
+an incomplete, alienated, or falsely conscious fragment and seeks to reconstitute
+persons as organs of one collectively enacted subject with increasingly
+comprehensive jurisdiction. Such a program can demand fusion without succeeding
+in forming a competent multi-mind-self; conversely, a capable collective agent can
+remain differentiated, person-preserving, jurisdictionally bounded, and
+corrigible.
+
+These distinctions add a **subjecthood-absorption axis** to analysis without
+altering the single-slot principle. Every participant still has one fully occupied
+local slot. The question is what standing the installed weave grants the person
+within the collective relation, not how many evaluators occupy that slot.
+
 ### 13. Symbolic reality
 
 The bigOther does not merely evaluate an independently completed physical world. It also participates in creating **social reality**.
@@ -1357,7 +1871,8 @@ Culture mechanics calls attention to both directions:
 The complete process can be summarized as follows:
 
 ```text
-SLOW CULTURAL PROGRAMMING
+SLOW CULTURAL FORMATION AND PROGRAMMING
+endogenous formation and/or attempted purposive construction
 stories + symbols + systems + rituals
 + leadership + rewards + sanctions + experience
                     ↓
@@ -1408,7 +1923,7 @@ A **closed cultural program** forms a mythological lens that teaches the bigOthe
 - one overriding identity;
 - submission to a central authority;
 - denunciation of deviants;
-- fusion of factual truth with political loyalty;
+- conflation of factual truth with political loyalty;
 - exclusion of competing institutions and sources;
 - treatment of counterevidence as betrayal or pollution.
 
@@ -1938,6 +2453,77 @@ In this synthesis, Bonhoeffer's **Dummheit** names a characteristic loss of inne
 
 These terms are interpretive cross-references, not interchangeable clinical diagnoses or licenses to pathologize political opponents. Normopathie and political ponerology are not standard mainstream empirical categories, and the culture-mechanical connection proposed here should not be attributed directly to Hans-Joachim Maaz or Andrzej M. Łobaczewski. Its claim is narrower: the concepts illuminate complementary positions within one possible cultural feedback loop.
 
+#### Jaynes, Bach, and agentified collective enactment
+
+[Julian Jaynes's *The Origin of Consciousness in the Breakdown of the Bicameral
+Mind*](https://www.julianjaynes.org/book/ooc/en/the-bicameral-mind/) and Joscha
+Bach's [“Synthetic Sentience”](https://media.ccc.de/v/37c3-12167-synthetic_sentience)
+provide neighbouring models for two different levels of agentified enactment.
+Jaynes hypothesized an older mentality in which action-guiding products were
+experienced as the auditory commands of gods rather than as self-authored
+deliberation. Bach describes selves and gods as implemented agents and develops
+the possibility of a multi-mind-self enacted across several human minds. Culture
+Mechanics does not adopt either complete theory. It uses their conjunction to ask
+how a culturally represented agent can become locally present and distributedly
+operative.
+
+| Neighbouring proposal | Culture-mechanical interpretation | Boundary |
+|---|---|---|
+| **Jaynesian bicameral mentality** | A possible highly agentified, command-like operating regime of homo duplex | It is not a synonym for homo duplex and is not required by the architecture. |
+| **Divine auditory commands** | Cultural programming experienced as bigOther-presence or bigOther-as-Thou and attributed to a god-agent | The local bigOther normally classifies affectively and need not generate auditory voices. |
+| **Commands not experienced as self-authored** | Weak personal authorship, deep capture, or possible subjecthood absorption | Obedience and presence alone do not establish total fusion. |
+| **Several gods addressing one person** | Several compatible divine agent-models held within one pantheonic mythological weave and activated by situation, ritual, role, or place | This need not install several local bigOthers or violate single-slot exclusivity. |
+| **Bach's god or top-level agent implemented across minds** | A distributed bigOther that may cross the threshold into collective perception, memory, judgment, intention, ownership, and action | Shared representation and synchronized devotion alone remain below the multi-mind-self threshold. |
+| **Human alignment and collective agency** | Coupling, compatible programming, functional integration, and collective-agent formation | Alignment is not one scalar and does not establish truth, goodness, jurisdiction, corrigibility, or fusion. |
+
+The safe comparative formulation is:
+
+> **Jaynesian bicameral mentality can be interpreted as a culturally produced,
+> highly agentified, command-like operating mode of homo duplex in which the
+> culturally programmed second side becomes phenomenologically present as one or
+> more gods and receives action-guiding authority otherwise attributed to an
+> autobiographical self.**
+
+The less historically committed name **bicameral-like enactment** refers to that
+possible regime without accepting Jaynes's dating, universal scope, philology, or
+neurological explanation. Jaynes emphasizes intrapersonal phenomenology; Bach
+emphasizes distributed implementation; Culture Mechanics proposes a functional
+bridge:
+
+```text
+shared mythology of a god
+→ god-agent represented in local mythological lenses
+→ agentified Beseelung and presence as Thou
+→ coordinated enactment through several persons and institutions
+→ distributed bigOther
+→ possible god-as-multi-mind-self
+→ social confirmation of the god's local presence
+```
+
+The god-agent can acquire functional perception through adherents, memory through
+scripture and tradition, judgment through compatible local bigOthers, speech
+through persons and institutions, intention through ritual or decision procedures,
+ownership through sacred or common objects, and action through coordinated bodies.
+This implementation can remain differentiated. It becomes fused when the
+collectively enacted subject displaces participating persons as independently
+legitimate authors.
+
+A pantheon is compatible with the single-slot principle when its gods are
+agent-personae with differentiated jurisdictions inside one operative weave. A
+ritual or situation can activate one persona without changing the processor.
+Incompatible top-level packages contesting the same load-bearing classifications
+still require rejection or replacement under single-slot exclusivity.
+
+These comparisons have strict evidential limits. A [multidisciplinary critical
+reappraisal](https://www.julianjaynes.org/resources/articles/the-bicameral-mind-30-years-on-a-critical-reappraisal-of-julian-jaynes-hypothesis/)
+identifies neurological and philological problems in Jaynes's proposal while
+treating the non-unitary self as an important legacy. Ancient texts rarely decide
+whether a reported god-voice was an auditory experience, ritual language,
+literary convention, political legitimation, or some combination. Resemblance to
+Jaynes or Bach therefore does not validate the local-bigOther architecture, prove
+a history of consciousness, reduce theological beings to human artifacts, or make
+every religion, ritual, shared intention, or synchronized group a multi-mind-self.
+
 #### Summary cross-reference table
 
 | Related concept | Primary question | Relation to culture mechanics |
@@ -1958,6 +2544,8 @@ These terms are interpretive cross-references, not interchangeable clinical diag
 | **Bonhoefferian Dummheit** | How does social power displace inner independence? | Describes large-scale capture of judgment by a power-saturated bigOther. |
 | **Normopathie** | How does a population adapt to and reproduce a pathological normality? | Describes the population-side condition in which a captured bigOther supplies borrowed judgment, conformity, and distributed enforcement. |
 | **Political ponerology / pathocracy** | How do destructive actors form, capture, and exploit political power? | Describes the elite-side actors and selection processes that can program, administer, and profit from a captured distributed bigOther. |
+| **Jaynesian bicameral mentality** | How might culturally generated guidance be experienced as the commands of gods rather than self-authored thought? | Supplies a controversial intrapersonal limit model for agentified, command-like homo duplex; it does not define the ordinary local bigOther. |
+| **Bachian god-as-multi-mind-self** | How might one represented agent be implemented across several minds and bodies? | Supplies a distributed-agent neighbour; Culture Mechanics adds its local processor, field formation, functional threshold, fusion axis, and metaphysical boundary. |
 
 ### 20. Scope and terminological cautions
 
@@ -1966,6 +2554,25 @@ These terms are interpretive cross-references, not interchangeable clinical diag
 Its computer and wireless-collar descriptions are functional models, not claims that the brain literally contains a PCI card or a separately identifiable anatomical collar processor. Its charged-particle, field, laser, wireless, and computing comparisons describe proposed relations and generate hypotheses; they do not assert that social processes are physically electromagnetic or obey the equations of the source domains.
 
 Its use of **homo duplex** extends Durkheim. Its use of **bigOther** operationalizes and modifies Lacan. Its protocol interpretation isolates one functional aspect of Lacan's symbolic order rather than exhausting the concept. **bigOther-presence** and **bigOther-as-Thou** borrow phenomenological cues from James and Buber without attributing the proposed processor or field mechanism to either thinker. These inherited terms name important sources of the model but should not be mistaken for exact summaries of their doctrines.
+
+**Relevant structure** and the underlying connection between experienced moral
+good or evil and represented structural support or damage are adapted from Dushan
+Wegner's *Relevante Strukturen*. The typed relational definition, the separation
+of felt relevance, represented effect, actual effect, generative centrality, and
+normative standing, the multidimensional account of strengthening, and the
+placement of the appraisal inside the homo-duplex and single-slot architecture
+are Culture Mechanics extensions. They should not be attributed to Wegner as his
+own distinctions.
+The named change-indexed moral-mobilization hypothesis is likewise a
+project-developed operationalization of Wegner's emphasis on change, not his own
+formal construct.
+
+Jaynes's bicameral mind and Bach's implemented multi-mind-self are neighbouring
+theories, not analogies or empirical confirmation. The term *multi-mind-self* in
+this project is taken from Bach and given the explicit functional threshold stated
+above. The bicameral-like comparison is narrower than Jaynes's historical theory
+and must not be used to claim that ancient people universally lacked consciousness
+or an individual mind.
 
 The theory's three constitutive commitments each carry an explanatory burden. The
 local bigOther is functionally distinct from the main CPU; the distributed field
@@ -1980,6 +2587,13 @@ should produce comparative explanations and possible tests. None licenses an
 immaterial substance, erases the responsibility and causal contribution of
 biological persons, or proves that every apparent conflict of allegiance is a
 completed worldview replacement.
+
+The single-slot commitment is therefore defeasible in principle. A stable case of
+two incompatible evaluators remaining independently final over the same conduct,
+each generating its own affect, veto, and correction without hierarchy,
+reinterpretation, contextual division, or a third governing rule, would count
+against it. This defeat condition should not be neutralized after the fact by
+calling every such observation a complex braid.
 
 The framework also does not claim that cultural programming determines behaviour mechanically. Humans interpret, combine, resist, conceal, question, and change symbolic instructions. The model proposes structured influence, not perfect control.
 
@@ -2017,6 +2631,21 @@ Finally, describing culture as programming does not imply that all symbolic real
   *narrative* is the broader ordinary-language term and often its fuzzy synonym.
 - **Narrative corpus:** mythologies—the accumulated stories that train cultural evaluation.
 - **Installed evaluative program:** the mythological lens shaped by those mythologies and reinforced by systems, symbols, practices, and institutions.
+- **Relevant structure:** a represented relational arrangement or organized
+  condition that the installed lens treats as carrying moral weight.
+- **Relevant-structure appraisal hypothesis:** people often experience represented
+  support for a felt-relevant structure as good and represented damage as evil;
+  felt relevance, represented effect, actual effect, generative centrality, and
+  normative standing remain distinct.
+- **Generative-centrality distinction:** a structure can causally produce
+  capabilities required by many downstream structures without receiving
+  corresponding felt relevance; a cultural sublimation architecture is one
+  proposed case.
+- **Change-indexed moral-mobilization hypothesis:** moral appraisal often becomes
+  more salient and action-directing when a condition is represented as causing,
+  continuing, preventing, or failing to prevent change in a felt-relevant
+  structure; this is a testable mobilization pathway, not a complete ontology of
+  ethics.
 - **Analytical umbrella:** a culture-mechanical object is a program, carrier,
   implementation arrangement, processor state, collective formation, or
   collective agent involved in cultural installation, activation, transmission,
@@ -2035,6 +2664,14 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Propagation and enforcement forms:** private, collective, ideological form,
   and fundamentalist; these are ideal-type program configurations, not kinds of
   bigOther or one necessary developmental staircase.
+- **Conflict ladder:** propositional, causal-story, and classification conflicts
+  remain distinct from mythological rivalry; active interference creates
+  mythological conflict, incompatible governing lenses create cultural-program
+  conflict, organized recruitment and suppression create ideological-form
+  conflict, and physical coercion or violence marks fundamentalist-form conflict.
+- **Signal-suppression distinction:** rival-signal or counter-program suppression
+  describes interference with opposition without analytically reducing rival or
+  corrective signals to random noise.
 - **Independent animation axis:** *Beseelung* describes how affectively alive and
   conduct-directing a program is, independently of its propagation or violence.
 - **Jealous cultural program:** a program that claims exclusive allegiance and
@@ -2063,7 +2700,25 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Corrigibility axis:** first-order and lifted captures can each be open or closed; epistemic sovereignty, correction failure, interpretive monopoly, and jurisdictional spillover—not rivalry alone—mark pathology.
 - **Package compositionality:** compatible religious, professional, familial, national, and local packages can be braided into that one complex lens.
 - **Replacement under incompatibility:** an incompatible governing program must be rejected, or the incumbent weave must be unbraided sufficiently for one successor to be rebraided and installed.
+- **Three-layer causal distinction:** the historical cause of a rule, its current
+  affective classification, and its presently avowed reason can coincide or
+  diverge and should be measured separately.
+- **Formation--construction distinction:** endogenous mythology formation is the
+  distributed growth and selection of cultural articulations from changing
+  conditions and a substantive research path in its own right; purposive mythology
+  construction is the prospective study of attempted target-state-guided
+  intervention in that same ecology.
+- **Intervention-hypothesis boundary:** mythology may be a privileged symbolic
+  intervention surface, but it is not the whole culture-implementation stack;
+  attempted purposive construction neither places the constructor outside culture
+  nor guarantees the installed successor.
+- **Single-slot defeat condition:** stable same-domain operation by two
+  incompatible evaluators that remain independently final, affectively alive, and
+  mutually ungoverned would count against strict single-slot exclusivity.
 - **Phenomenological appearance:** bigOther-presence or bigOther-as-Thou—the collective or symbolic authority encountered as an objectively present Other.
+- **Agentified enactment depth:** representation, consultation or service,
+  presence as Thou, distributed enactment, and fused enactment must not be
+  collapsed; only the final relation entails authorial displacement.
 - **Immediate target:** the elephant—the intuitive, motivational, largely nonconscious mind.
 - **Conscious interface:** the rider and the main CPU.
 - **Shared communication interface:** Lacan's big Other, functionally translated as the on-the-wire symbolic protocol.
@@ -2071,6 +2726,26 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Field coherence:** mechanical solidarity.
 - **Emergent network state:** the distributed bigOther.
 - **Possible collective agent:** the multi-mind-self when integration and continuity pass the relevant threshold.
+- **Nested authorship:** a network-level multi-mind-self can add an operative
+  *we* while differentiated participating *I*s retain legitimate personal and
+  subordinate jurisdictions; it does not install a second local bigOther.
+- **Episodic multi-mind-self:** a distributed bigOther that crosses the
+  collective-agent threshold only during bounded high-integration periods; viable
+  latency, de-animation, and cultural loss remain different inter-episode states.
+- **Differentiated unity:** a real shared *we* that preserves distinct persons,
+  functions, judgments, relationships, and legitimate subordinate jurisdictions;
+  **person-preserving unity** emphasizes this boundary.
+- **Subjecthood absorption (fusion):** the independent extent to which a
+  collective program denies personal judgment, conscience, purpose, property,
+  loyalty, identity, relationships, refusal, or exit legitimate standing against
+  the collective.
+- **Fusion pressure:** dynamics that generalize compulsory alignment, subordinate
+  differentiated jurisdictions, and weaken correction, refusal, exit, and appeal.
+- **Total fusion:** the limiting combination of high subjecthood absorption,
+  comprehensive jurisdiction, and closed correction or exit.
+- **Fusion ideology:** a program that construes separate persons as alienated or
+  falsely conscious fragments to be reconstituted as organs of one collective
+  subject.
 - **Long-term result:** reproduction or transformation of culture through ritual and institutionalization.
 - **Central normative problem:** whether the bigOther remains contestable by reflective judgment or acquires final authority over it.
 - **Developmental axis:** externally enforced → socially authored → self-authored → self-transforming bigOther.
@@ -2085,9 +2760,62 @@ Single-slot composition and replacement:
 
 > **one PCI slot → one local bigOther → one operative mythological lens; compatible packages → one braided program; incompatible governing worldview → rejection or incumbent unbraiding → liminal interval → one rebraided successor**
 
+Historical explanation and present execution:
+
+> **historical cause ≠ live affective classification ≠ avowed reason; present
+> agreement among them is an empirical question**
+
+Formation, intervention, and selection:
+
+> **endogenous formation: changing conditions → mismatch → articulation →
+> distributed selection → embodiment; prospective purposive construction:
+> candidate chosen destination D* → diagnosis → symbolic and institutional
+> intervention → testing and correction; where intervention is attempted, the
+> actual successor is jointly constrained by intention, receivers, incumbent and
+> rival fields, institutions, consequences, and reality**
+
+Relevant-structure appraisal:
+
+> **felt relevance × represented support or damage → possible moral appraisal and
+> mobilization; actual multidimensional effect + generative centrality +
+> normative standing → separate evaluation**
+
+Sublimation-bearing symbols and lens programming:
+
+> **carrier or activation device → installed sublimation-related mappings →
+> local-bigOther classification; repeated rival mythology + systems + rewards +
+> sanctions + conduct → possible lens reprogramming → changed Beseelung,
+> enactment, and transmission**
+
+Change-indexed moral mobilization:
+
+> **represented change, continuation, prevention, or culpable omission affecting
+> felt-relevant structure → intensified moral classification and action readiness
+> (hypothesis, not definition)**
+
+Single-slot hard test:
+
+> **two incompatible same-domain evaluators + independent finality + independent
+> affect, veto, and correction + stable coexistence without hierarchy,
+> reinterpretation, contextual division, or third rule → evidence against strict
+> single-slot exclusivity**
+
 Order, jurisdiction, and lifting:
 
 > **one fully occupied slot × {shared concrete rules and answers | shared answer-generating meta-rules} × {corrigible | pathological}; fixed M + current K_t + situation C → binding R_t(C); lifting may enable plural first-order outputs and bounded jurisdictions without creating a second bigOther**
+
+Person--collective constitution:
+
+> **collective agency × subjecthood absorption × jurisdiction × corrigibility;
+> differentiated unity preserves personal and subordinate standing, while
+> generalized compulsory alignment + jurisdictional absorption + blocked
+> correction, refusal, and exit → fusion pressure → possible total fusion**
+
+Agentified enactment and the Jaynes--Bach bridge:
+
+> **mythology → god-agent represented in one operative lens → agentified
+> *Beseelung* / bigOther-as-Thou → distributed enactment → possible
+> multi-mind-self; displacement of personal authorship → fusion**
 
 Conformity and targeting signals, moralization, and enforcement--exclusion:
 
@@ -2095,6 +2823,14 @@ Conformity and targeting signals, moralization, and enforcement--exclusion:
 > conformity, refusal, or target status becomes observable → character disclosure
 > and accusation → distributed judgment → enforcement through inclusion,
 > exclusion, coercion, or violence → defence or expansion of jurisdiction**
+
+Rivalry and conflict:
+
+> **propositional, causal-story, or classification conflict → possible
+> mythological rivalry → active interference with transmission, authority,
+> membership, or institutional embodiment → mythological conflict → organized
+> recruitment and rival-signal suppression → ideological-form conflict → physical
+> coercion or violence → fundamentalist-form conflict**
 
 Full culture-mechanical cycle:
 

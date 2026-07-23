@@ -378,6 +378,38 @@ The heuristic contains several increasingly specific phenomena:
   Mechanics*](0010-culture-mechanics.semantic-definition.md); they are not reduced
   here to a linguistic trick.
 
+#### LT-040 — Cue–function substitution (*Wie–Was manipulation*)
+
+- **Source term:** Dushan Wegner's *Wie–Was-Manipulation* in *Relevante
+  Strukturen* (2019).
+- **Aliases:** recognition-cue substitution; cue–function mismatch; moral
+  camouflage.
+- **Operation:** Supply the learned perceptible cues by which an audience
+  recognizes a valued category while the underlying operation, structure, or
+  consequences that make the category applicable are absent, materially weaker,
+  or opposed. The *Wie* is the recognition route; the *Was* is what the category
+  is meant to identify.
+- **Integrity:** MI, II, RI; sometimes SI.
+- **Examples of the general form:** visible moral vocabulary without the
+  corresponding conduct; credentials or institutional form without the claimed
+  function; symbolic compliance that substitutes for the result the symbol is
+  supposed to indicate; camouflage or decoys that elicit a learned recognition
+  response.
+- **Diagnostic:** Specify the claimed category and its constitutive function,
+  list the cues that activated recognition, inspect actual operation and
+  consequences, and observe what happens when cue and function are compared
+  openly.
+- **Boundary:** Every practical category relies on fallible cues and proxies.
+  Cue–function mismatch can arise through error, changed conditions, Goodhart-like
+  drift, or an obsolete classification rule. Manipulation is a stronger inference
+  requiring evidence such as strategic production of the cue, recurrent
+  asymmetry, concealment of function, or resistance to consequence-based
+  correction.
+- **Status:** Wegner's distinction is retained in his language and operationalized
+  here as a cross-domain diagnostic. It overlaps benevolent-language camouflage,
+  ideological symbols, paramorality, and qualified-concept inversion without
+  being reducible to any one of them.
+
 ### E. Agenda, representation, and policy coupling
 
 #### LT-034 — Pretext trap of the harmful fix
@@ -421,9 +453,28 @@ A person can sincerely state a false belief, and can insincerely repeat a propos
 
 Some disputes are genuinely verbal: participants attach different meanings to the same word. Clarifying definitions can dissolve confusion without establishing deceit. A reviewed private source supplies the relevant boundary case: shared definition repair is the remedy, whereas covertly changing a definition while retaining its emotional force is LT-008.
 
+At society scale, persistent divergence can contribute to **intergroup semantic
+decoupling** and eventually **cultural interoperability breakdown
+(Babelization)** even when no speaker is manipulating anyone. That is a systemic
+condition, not a linguistic trick. Shared definition repair, trusted translation,
+and legitimate common procedures can increase the effective thickness or span of
+lifted solidarity without requiring identical first-order meanings. [*Mythology
+Construction*, “Cultural interoperability and its breakdown
+(Babelization)”](0040-mythology-construction.semantic-definition.md#29-cultural-interoperability-and-its-breakdown-babelization)
+defines that larger condition and its anti-Babel floor.
+
 ### Framing and conceptual engineering are not inherently dishonest
 
 All finite descriptions select aspects of reality, and communities sometimes need better concepts. Manipulation begins when consequential selection or revision is hidden, rival descriptions are excluded from consideration, or the revised concept is represented as the word's uncontested natural meaning.
+
+### A recognition cue is not automatically a counterfeit
+
+Language, credentials, symbols, institutional forms, and behavioural markers are
+often indispensable evidence of an otherwise difficult-to-observe function.
+LT-040 does not license the inference that every proxy is fraudulent. Its target is
+the inspectable mismatch between cue and function and, when manipulation is
+alleged, the further evidence that the mismatch was strategically produced,
+concealed, or immunized against correction.
 
 ### A fallacy is not automatically a lie
 
@@ -437,6 +488,13 @@ Symbol displacement, pluralistic ignorance, moral fatigue, and script preactivat
 
 This inventory is not primarily a blacklist of forbidden expressions. In a reality-anchored, truth-seeking epistemic constitution it supplies a common vocabulary—a yardstick installed in the social *big Other*—for noticing when communication departs from truth-seeking.
 
+The entries identify local operations; [*Epistemic Agency under Mechanical
+Solidarity*, “Audience-modelled reconstruction and
+decompression”](0020-epistemic-agency.semantic-definition.md#audience-modelled-reconstruction-and-decompression)
+supplies a cross-cutting model of how several such operations can be combined
+against an anticipated recipient so that the recipient reconstructs a targeted
+factual, causal, moral, or authorization model.
+
 The corresponding positive virtues are:
 
 1. State what one actually believes and distinguish belief from knowledge.
@@ -449,6 +507,8 @@ The corresponding positive virtues are:
 8. Keep the kind and rules of the dialogue visible.
 9. Preserve provenance and context.
 10. Permit correction without making honest concession socially ruinous.
+11. Test identity-bearing and moral recognition cues against actual function and
+    consequences.
 
 The inventory's function is thus constitutional and formative: it helps individuals recognize and resist small acts of public untruthfulness, while their repeated resistance changes the public norm that subsequently forms other individuals.
 
@@ -456,7 +516,7 @@ The inventory's function is thus constitutional and formative: it helps individu
 
 This version was produced through structured review of private project source material, vocabulary expansion, contextual reading, synonym normalization, and boundary auditing. Source filenames, links, conversation identifiers, and internal prompt logs are intentionally withheld from this publication.
 
-LT-039 is the explicit exception to that private discovery route: it was added from Michael Andrick's book material and linked directly to the underlying publication.
+LT-039 and LT-040 are explicit exceptions to that private discovery route. LT-039 was added from Michael Andrick's book material and linked directly to the underlying publication. LT-040 was added from Dushan Wegner's *Relevante Strukturen* (2019, ISBN 978-3-7394-0563-6), whose *Wie–Was* distinction is retained while the operational test and boundary are project-developed.
 
 This is a high-recall working inventory, not a claim of semantic exhaustiveness. The reviewed source collection is large, the same mechanism may have been discussed without any of the recovered names, and several private sources contain long embedded source texts. Future revisions should add newly found mechanisms only after checking whether they are genuinely distinct operations or aliases, combinations, effects, and institutional deployments of types already recorded here.
 

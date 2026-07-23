@@ -6,7 +6,21 @@
 
 ## Short explanation for busy readers
 
-**Mythology construction** is the deliberate formation, adaptation, embodiment, transmission, defence, and revision of culturally transmissible systems of meaning that organize how a population perceives events, explains causes, assigns moral roles, experiences belonging, and coordinates action.
+**Mythology construction** is the study and possible practice of the formation,
+adaptation, embodiment, transmission, defence, and revision of culturally
+transmissible systems of meaning that organize how a population perceives events,
+explains causes, assigns moral roles, experiences belonging, and coordinates
+action.
+
+The constructive element is load-bearing, but it does not imply that every
+mythology has a deliberate designer. This document studies both **endogenous
+mythology formation**--the distributed, plant-like growth of mythology from social
+conditions, practices, institutions, receiver dispositions, and cultural
+selection--and the open research possibility of **purposive mythology
+construction**, in which actors try to redirect that ecology toward a proposed
+destination. Neither path is merely auxiliary to the other. The future operational
+programme must determine what on-purpose design and release can actually achieve
+without presuming sovereign control.
 
 Here **mythology** does not mean merely an ancient sacred tale or a false story. It
 means a connected system of stories, causal explanations, topoi, values, heroes and
@@ -93,23 +107,49 @@ mythological and memetic form
 probability of adoption, retention, enactment, and transmission
 ```
 
+One important, non-exclusive pathway through that interaction is
+**relevant-structure resonance**: a mythology may gain an adoption and
+mobilization advantage when recipients believe that it recognizes, protects,
+repairs, strengthens, or gives them an honourable role in structures they already
+experience as morally important.
+
 The applied workflow derived from the broader theory is called the **Mythology Construction Toolkit**.
 
 In one sentence:
 
-> **Mythology construction is the practice of building culturally viable systems of meaning that resonate with a population, route perception into action, organize psychological energy, become embodied in institutions, and enable—or disable—reality-oriented collective agency.**
+> **Mythology construction studies how culturally viable systems of meaning grow,
+> are assembled, become embodied, and reproduce, while keeping open the question
+> of how far they can also be purposefully designed and released to enable--or
+> disable--reality-oriented collective agency.**
 
 ## Long semantic definition
 
 ### 1. General meaning
 
-Mythology construction is the constructive counterpart to descriptive **culture mechanics**. **Culture mechanics** is a framework-specific term proposed in the present synthesis rather than a term attributed to an external author. It asks how mythologies train a mythological lens, how that lens supplies rapid social and moral feeling, and how people reproduce cultural order through reciprocal signalling and institutions. Mythology construction asks the next question:
+Mythology construction is the constructive companion to descriptive **culture
+mechanics**. **Culture mechanics** is a framework-specific term proposed in the
+present synthesis rather than a term attributed to an external author. It asks how
+mythologies train a mythological lens, how that lens supplies rapid social and
+moral feeling, and how people reproduce cultural order through reciprocal
+signalling and institutions. Mythology construction asks two linked questions:
 
-> Given that cultural machinery, how can a mythology be deliberately formed so that a particular society can recognize it, adopt it, embody it, coordinate through it, defend it, test it against reality, and transmit it across generations?
+> How do mythologies grow, become assembled, selected, embodied, defended, revised,
+> and transmitted through a living cultural ecology?
 
-The term applies to deliberate projects, but it does not imply a sovereign constructor. Mythologies are altered whenever recipients retell them, institutions translate them into procedures, opponents parody them, events contradict them, or a new generation interprets inherited symbols under different conditions. Construction is consequently closer to gardening, institution-building, or protocol design than to writing an executable command for a passive machine.
+> Under what conditions, and within what limits, could actors deliberately design
+> and release a mythology so that a population recognizes, adopts, embodies, tests,
+> corrects, or rejects it?
 
-A mythology constructor can:
+The first question is not reducible to a design problem. Mythologies are altered
+whenever recipients retell them, institutions translate them into procedures,
+opponents parody them, events contradict them, or a new generation interprets
+inherited symbols under different conditions. The second question remains a
+prospective research branch and does not imply a sovereign constructor.
+Construction is consequently closer to plant growth and, where purpose enters,
+gardening, institution-building, or protocol design than to writing an executable
+command for a passive machine.
+
+The prospective purposive branch asks whether and how a mythology constructor can:
 
 - diagnose an existing cultural ecology;
 - select and combine inherited cultural materials;
@@ -123,9 +163,12 @@ A mythology constructor can:
 - observe material and psychological consequences;
 - revise, defend, or retire a failing mythology.
 
-The constructor cannot guarantee interpretation, adoption, or outcome. The object being shaped is a living, distributed social system whose members retain intelligence, interests, agency, memory, and the capacity for resistance.
+No attempted constructor can guarantee interpretation, adoption, or outcome. The
+object being shaped is a living, distributed social system whose members retain
+intelligence, interests, agency, memory, and the capacity for resistance.
 
-Mythology construction is neutral as a genus. It can be used for:
+Mythology formation and attempted construction are normatively neutral as a genus.
+Their mechanisms can support:
 
 - moral formation and civilizational continuity;
 - ecological coordination and commons management;
@@ -172,7 +215,31 @@ One narrative can be an episode within a mythology. Many mutually reinforcing na
 
 #### Construction
 
-**Construction** means intentional participation in the formation and reproduction of mythology. It includes selection, composition, translation, embodiment, distribution, maintenance, testing, contestation, and repair.
+**Construction** is used here in a deliberately broad constructive sense:
+mythologies are formed, assembled, embodied, reproduced, and revised through human
+and social processes rather than simply appearing as finished givens. The
+unqualified term does not by itself settle how much of that process was intended.
+When intention matters, use the qualified terms below.
+
+Two processes must therefore be separated:
+
+| Process | Meaning |
+|---|---|
+| **Endogenous mythology formation** | Distributed, substantially undesigned emergence and selection of cultural articulations from changing morphology, institutions, practices, events, and receiver dispositions. |
+| **Purposive mythology construction** | Prospective research branch concerning target-state-guided intervention by an actor or organized agency into mythology and its supporting arrangements in an attempt to redirect the cultural trajectory. |
+
+The document treats both paths as substantive. Endogenous formation is not merely
+background for a constructor: its plant-like growth, selection, embodiment, and
+back-action are part of the research object in their own right. Purposive
+construction remains an explicitly open possibility rather than an accomplished
+precision science or the definition of the entire document.
+
+The current version establishes semantic and theoretical groundwork for both
+paths. A fuller operational treatment of on-purpose design, release into a living
+cultural ecology--“the wild”--and post-release observation, adaptation,
+correction, and retirement remains a future addition. The present workflow should
+therefore be read as a provisional research and design scaffold, not as the
+completed design-and-release method.
 
 Construction is not confined to verbal authorship. A school timetable that rewards punctuality, a court that visibly follows due process, an initiation ritual, a public memorial, a promotion rule, a marriage norm, an agricultural calendar, or an institution that honours truthful correction can construct mythology more durably than a speech.
 
@@ -206,12 +273,16 @@ Resonance is also not proof. A false and destructive mythology may resonate powe
 
 #### Toolkit
 
-The **Mythology Construction Toolkit** is the practical set of diagnostic maps,
-canvases, design procedures, experiments, institutional checks, and adversarial
-audits derived from the mythology-specific theory. It guides work on the mythology
-layer. It does not claim to cover systems, symbols, habits, or the other
-culture-implementation channels in their own right; the definitive complete method
-remains *Systems Leadership*.
+The **Mythology Construction Toolkit** is the current research and practical
+scaffold of diagnostic maps, canvases, provisional design procedures, experiments,
+institutional checks, and adversarial audits derived from the mythology-specific
+theory. It guides both analysis of endogenous formation and inquiry into possible
+purposive construction at the mythology layer. It does not claim to cover systems,
+symbols, habits, or the other culture-implementation channels in their own right;
+the definitive complete method remains *Systems Leadership*. In its present state
+it also does not claim to be a complete end-to-end protocol for deliberate
+mythology design, release into the wild, monitoring, and redesign; that operational
+lifecycle remains future work.
 
 The **software-development-kit analogy** makes the relationship tangible. An SDK does not dictate one finished application; it exposes reusable operations from which many applications can be built. In the same way, causal-story canvases, resonance maps, role design, ritual design, institutional checks, and adversarial audits expose operations for working on the culturally installed classifier called the bigOther. The analogy has a limit: people are not passive processors. They interpret, refuse, modify, and sometimes reverse the intended operation. A legitimate toolkit must therefore include agency, inspectability, correction, and exit rather than treating compliance as successful execution.
 
@@ -232,6 +303,7 @@ Mythology construction overlaps with several established fields without being id
 | Discourse and hegemony | Contingent articulation of meaning, identity, and political boundaries | Supplies tools for equivalential chains, antagonism, nodal points, and contestation. |
 | Organizational culture | Shared assumptions and learned ways of acting | Supplies concrete embedding mechanisms through leadership, selection, reward, ritual, and response to crisis. |
 | Cultural evolution | Differential transmission and retention of cultural variants | Supplies population-level models of inheritance, selection, and gene–culture feedback. |
+| Memetics and memetic engineering | Replicating cultural variants and the aspiration to manipulate their interacting patterns | Supplies a sharp carrier–replicator warning and a historical image of target-state cultural intervention; mythology construction does not adopt meme-first ontology or a promise of precise control. |
 
 [Robert Entman's account of framing](https://doi.org/10.1111/j.1460-2466.1993.tb01304.x) emphasizes selection and salience in defining problems, diagnosing causes, making moral judgments, and suggesting remedies. [George Lakoff's work on conceptual framing](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html) emphasizes that political communication operates through structured concepts rather than isolated words. [Ernesto Laclau and Chantal Mouffe's theory of hegemony](https://www.versobooks.com/en-gb/products/1158-hegemony-and-socialist-strategy) treats collective identities and political unities as contingent articulations rather than ready-made essences.
 
@@ -240,6 +312,17 @@ The theological vocabulary is used here in a deliberately generalized sense. [Jo
 These traditions help explain construction grammar, maintenance, and contestation. The present synthesis adds a three-component resonance model, psychological-gradient analysis, sublimation and moral formation, coupling range, lifted mechanical solidarity, reality coupling, and a complete braid–unbraid–rebraid model of mythological replacement.
 
 Existing practical tools such as the [Butterfly Lab Narrative Design Toolkit](https://www.raceforward.org/practice/tools/butterfly-lab-narrative-design-toolkit), the [Counter-Narrative Handbook](https://www.isdglobal.org/isd-publications/the-counter-narrative-handbook/), and [Story-based Strategy](https://www.storybasedstrategy.org/tools-and-resources) can be understood as partial software-development kits for changing contested cultural classification. They are prior art, not complete equivalents of the framework defined here.
+
+James Gardner's 1996 popular essay [“Memetic
+Engineering”](https://www.wired.com/1996/05/memetic/) gives the stronger control
+aspiration a memorable historical form: a future science might manipulate
+interacting memes to produce a “precisely altered cultural phenotype.” The essay
+presents that possibility speculatively, not as an achieved science. Culture
+Mechanics retains two warnings from the proposal: cultural forms may reproduce
+without serving their human carriers, and reflexive actors may deliberately alter
+the selection environment. It does not infer that consciousness is nothing but an
+artifact of selfish memes, that memes are the only relevant agents, or that a
+constructor can specify a cultural phenotype with engineering precision.
 
 Their vocabulary makes the terminological overlap concrete. In contemporary
 practice, **narrative design** and **narrative construction** name substantially
@@ -262,7 +345,7 @@ CULTURE MECHANICS
 How mythologies program evaluative perception and coordination
                          ↓
 MYTHOLOGY CONSTRUCTION
-How culturally viable mythologies are deliberately formed and embodied
+How mythologies grow and how far they can be purposefully formed and embodied
                          ↓
 EPISTEMIC AGENCY AND CONSTITUTION
 Who may inspect, reject, revise, and correct the installed order
@@ -293,6 +376,196 @@ distributed cultural reinforcement or change
 
 Mythology construction intervenes at every stage rather than merely at the first line.
 
+#### Pre-articulation genesis and receiver–order mismatch
+
+Mythology is not causally prior in every case. A principle, story, or symbol can
+first be an imperfect **output** of changes that participants cannot yet formulate
+and only later become an **input** that programs new recipients. Historical
+analysis should therefore distinguish five phases of **endogenous mythology
+formation**:
+
+1. **Genesis:** social morphology, institutions, practices, conflicts, ecology,
+   and receiver dispositions generate diffuse needs, aversions, and aspirations.
+2. **Articulation:** intellectuals, organizers, storytellers, or institutions give
+   those pressures propositional, narrative, symbolic, and political form.
+3. **Sacralization:** selected formulations acquire non-fungible moral weight,
+   exemplary persons, rituals, and costly commitment.
+4. **Institutionalization:** law, office, education, calendar, property, reward,
+   sanction, and material systems embody the formulation.
+5. **Reproduction and back-action:** the institutionalized mythology trains later
+   receivers, selects actors, changes incentives and relationships, and can alter
+   the social conditions from which subsequent mythology arises.
+
+```text
+social structure + institutions + lived practice + receiver dispositions
+                              ↓
+                  diffuse needs and aspirations
+                              ↓
+                         articulation
+                              ↓
+              sacralization + institutionalization
+                              ↓
+              later programming and field back-action
+                              ↺
+```
+
+This sequence describes the cultural analogue of a plant growing from its ecology:
+no single actor need have selected the final form. “Natural” here means emergent
+from the operating causal ecology. It does not mean biologically fixed, morally
+good, free of power, or untouched by previous interventions.
+
+A **receiver–order mismatch** is the proposed condition in which an inherited
+order no longer accommodates important dispositions, practical relations, needs,
+or aspirations developing among its receivers, although no coherent successor has
+yet been articulated. It is not necessarily genetic, progressive, legitimate, or
+consciously experienced. It can arise through demographic change, technology,
+institutional contradiction, education, commerce, migration, war, ecological
+pressure, developmental change, or altered population distributions.
+
+Émile Durkheim's [“Les principes de 1789 et la
+sociologie”](https://education.persee.fr/doc/revin_1775-6014_1890_num_19_1_9561_t1_0450_0000_1)
+(1890; translated by Mark Traugott in [*Émile Durkheim on Morality and
+Society*](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3627098.html),
+pp. 34–42) gives this research problem an unusually compact historical form. He
+links the transnational persistence of the revolutionary principles to “some
+general change which occurred in the structure of European societies” and later
+describes “new and unconscious aspirations” pressing against traditional
+structures. This is Durkheim's hypothesis and situated diagnosis, not evidence for
+the present theory's genetic branch, local bigOther, or exact causal sequence.
+
+The temporal test is demanding. Did the relevant practices, grievances,
+dispositions, or structural changes precede the canonical formulation? After
+articulation and embodiment, did the formulation independently alter conduct,
+institutions, reproduction, or later receiver formation? If not, the proposed
+output-to-input transition has not been shown.
+
+#### Prospective purposive construction as a trajectory-intervention hypothesis
+
+The prospective branch models a purposive-construction attempt as beginning with a
+proposed **destination** \(D^*\): a normative, institutional, behavioural, or
+civilizational condition that an actor wants to make more likely than it would be
+under the diagnosed baseline trajectory. This is a research model for intention,
+release, reception, and outcome, not a claim that reliable redirection has already
+been demonstrated. The destination is a declared design input, not a prediction of
+history's natural endpoint and not evidence that the actor possesses jurisdiction
+to pursue it.
+
+```text
+diagnosed endogenous trajectory B + chosen destination D*
+                         ↓
+diagnose receivers, incumbent braid, and leverage points
+                         ↓
+deliberate articulation, reframing, braiding, unbraiding,
+symbol selection, role and permission design
+                         ↓
+institutional embodiment, activation, and repeated experience
+                         ↓
+observed reception and consequence → correction, defence, or retirement
+```
+
+The hypothesis treats mythology as a principal symbolic **intervention surface**
+because it may change which persons, causes, values, actions, and futures feel
+socially real. It is not the whole implementation stack. Systems, leadership
+conduct, incentives, rituals, material arrangements, sanctions, and events may
+support, transform, or falsify the intended classification.
+
+Where construction is attempted, the resulting successor need not be identical to
+the design intention:
+
+```text
+actual successor
+= intended destination × receiver fit × incumbent resistance
+× institutional selection × rival intervention
+× unintended consequence × reality
+```
+
+The multiplication sign expresses joint constraint, not a calibrated equation.
+Recipients retell, reinterpret, refuse, combine, and sometimes invert the offered
+material. Institutions select what can be enacted. Rivals counterframe it. Reality
+supplies consequences that may correct the programme or be suppressed by it. A
+research programme on purposive construction must therefore model adaptive
+steering under uncertainty rather than assume precise cultural manufacture.
+
+When evaluating or eventually designing an intervention, the target-state audit
+should ask:
+
+- Who chose \(D^*\), for whom, and by what jurisdiction?
+- Which baseline trajectory and receiver–order mismatch are actually evidenced?
+- Which human capabilities and protected jurisdictions should the destination
+  preserve?
+- May recipients inspect, refuse, revise, and remove the intervention and its
+  authorized actors?
+- What evidence would show diversion from the destination or harm to carriers?
+- Could the mythology optimize its own transmission while defeating the stated
+  human purpose?
+
+#### Aspirational authorization and the functional remainder
+
+**Aspirational authorization** is the proposed process by which a formulation
+acquires social authority because receivers experience it as expressing their
+needs and aspirations. Durkheim writes of the principles of 1789:
+
+> “Their authority comes not from their being in accord with reality but from
+> their conformity to national aspirations.”
+
+This is a mechanism of authorization, not an epistemic warrant. Resonance can
+explain why a claim recruits, sacralizes, or coordinates without showing that the
+claim is factually accurate, morally legitimate, constitutionally authorized, or
+beneficial in consequence.
+
+The corresponding **functional-remainder test** asks what remains after an explicit
+doctrine or causal explanation has been criticized:
+
+- What need, aspiration, grievance, coordination problem, or protected good was
+  the doctrine carrying?
+- Does that remainder exist independently of the doctrine's factual errors?
+- Was the doctrine actually necessary to satisfy it, or merely one available
+  vehicle?
+- Which alternative formulation could answer the remainder with better reality
+  coupling and fewer destructive consequences?
+
+Evaluation must therefore keep at least four questions independent:
+
+```text
+epistemic accuracy
+× receiver need or aspiration
+× integrative and motivational function
+× moral and institutional consequence
+```
+
+A false explanation need not imply an unhealthy need. An integrative mythology
+need not be true or good. A legitimate aspiration does not vindicate every
+programme that claims to express it.
+
+#### Scientific explanation, political judgment, and intervention
+
+The outputs of mythology analysis should not be collapsed:
+
+1. **Description and source criticism:** what actors said, did, experienced, and
+   recorded.
+2. **Causal explanation:** which mechanisms and conditions best explain the
+   observed process.
+3. **Normative and constitutional judgment:** which purposes, rights,
+   jurisdictions, and trade-offs should govern.
+4. **Political or organizational intervention:** what should be attempted under
+   uncertainty, by whom, with which authority and safeguards.
+
+Durkheim distinguished sociology, which “studies what is and what has been,” from
+*l'art politique* and practical solution. His separation is useful here as an
+anti-conflation rule, not as a claim that empirical knowledge is irrelevant to
+action or that normative premises cannot be criticized. A correct causal account
+does not select a legitimate end, confer jurisdiction, or guarantee that an
+intervention will work. Conversely, an urgent political purpose does not convert
+resonance or moral conviction into causal evidence.
+
+A contemporary witness can also be an operator inside the field: reporting an
+atmosphere, classifying factions, advocating a successor, and attempting to move
+the conflict in the same text. That dual role increases access and bias
+simultaneously. Apply the evidential protocol in [*Epistemic Agency under
+Mechanical Solidarity*, “Observability, cultural forgetting, and contemporary
+witnesses”](0020-epistemic-agency.semantic-definition.md#observability-cultural-forgetting-and-contemporary-witnesses)
+rather than treating proximity as either calibration or disqualification.
+
 ### 5. What is being constructed
 
 A mythology is a structured configuration, not a bag of slogans. Its major design objects include:
@@ -306,6 +579,7 @@ A mythology is a structured configuration, not a bag of slogans. Its major desig
 | Topoi | Which recurring situations and recognisable commonplaces organize interpretation? |
 | Plot or mythos | By what causal sequence did the present arise, and how can it change? |
 | Moral grammar | Which dimensions of care, proportionality, loyalty, authority, purity, equality, property, or liberty are activated? |
+| Relevant structures | Which relationships, role-contexts, institutions, practices, legal orders, or shared futures carry moral weight; what supports or damages them; and how are conflicts, standing, and jurisdiction resolved? |
 | Causal stories | What or who produced the condition, with what intention and responsibility? |
 | Characters | Who acts as protagonist, beneficiary, victim, guardian, producer, obstacle, or antagonist? |
 | Sacred objects | What may not be traded away without moral desecration? |
@@ -370,6 +644,30 @@ This produces two indispensable operations:
 - **Mythological apologetics** defends, explains, repairs, and renews the braid. It answers objections, clarifies apparent contradictions, reconnects inherited symbols to living practices, and removes obstacles to justified confidence.
 - **Mythological polemics** attacks and unbraids a rival braid. It identifies load-bearing strands, separates associations that had seemed natural, exposes false causal links or contradictory permissions, and withdraws authority from a mythology that is to be displaced.
 
+The presence of a rival mythology does not by itself mean that active conflict has
+begun. The framework distinguishes:
+
+- **mythological rivalry**: informal or decentralized competition among meaning
+  systems;
+- **mythological conflict**: active interference with a rival mythology's
+  transmission, authority, membership, or institutional embodiment;
+- **cultural-program conflict**: competition between incompatible governing
+  programs or operative lenses, where single-slot replacement becomes relevant.
+
+> **Rivalry becomes conflict when participants begin actively interfering with the
+> rival mythology's transmission, authority, membership, or institutional
+> embodiment.**
+
+Recruitment, polemical unbraiding, conformity testing, delegitimation, channel
+exclusion, institutional displacement, and censorship can perform this transition.
+[*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md),
+“Disagreement, mythological rivalry, and ideological-form conflict,” distinguishes
+these operations from propositional, causal-story, and classification conflicts
+and names the organized recruitment-and-suppression configuration
+**ideological-form conflict**. Physical coercion or violence marks the narrower
+**fundamentalist-form conflict**. These Culture Mechanics terms translate rather
+than reproduce Kenneth Minogue's conflict-centered use of *ideology*.
+
 Polemics is crucial because an incompatible successor mythology cannot simply be
 placed beside an incumbent that still occupies the slot. The incumbent tells
 recipients how to classify the newcomer and may mark it as absurd, immoral, impure,
@@ -399,6 +697,53 @@ Nazi-Christian successor is therefore one rebraided program, not a Nazi program
 ranked above an intact Christian program. Failed or incomplete replacement may
 produce contradiction, instability, or spaghetti code in one tangled lens; it does
 not produce several simultaneously operative bigOthers.
+
+##### Revolutionary overshoot and mobilizational absoluteness
+
+The originating hypothesis is:
+
+> **To hit the target, a revolutionary mythology may have to aim above it. An
+> empirically false or normatively overextended account of the autonomous person
+> may sometimes function as scaffolding for creating protected personal standing
+> against an entrenched absorptive order.**
+
+This **revolutionary-overshoot hypothesis** does not say that exaggeration is
+always necessary, conscious, justified, or harmless. It distinguishes three
+mechanisms:
+
+1. **Conscious strategic overshoot:** actors deliberately demand more than the
+   settlement they expect to retain.
+2. **Sincere revolutionary absolutization:** actors experience the counter-
+   principle as categorical and timeless.
+3. **Cultural selection among variants:** uncompromising formulations recruit,
+   coordinate, and survive better than balanced variants without any author
+   designing the overshoot.
+
+**Mobilizational absoluteness** names the independent degree to which a programme
+presents its claims as categorical, eternal, exceptionless, sacred, or
+non-negotiable. Durkheim treats the “categorical and absolute form” of the
+principles as characteristic of creative eras and “new and hardy faith.” That
+observation motivates the dimension; it does not establish that absoluteness
+caused revolutionary success.
+
+Mobilizational absoluteness is not the same as field strength, first-order
+solidarity, lifted solidarity, full slot occupancy, comprehensive jurisdiction,
+closed corrigibility, or fusion. A lifted constitutional generator can be
+defended categorically; a first-order creed can be weakly held; a mobilizing
+absolute can protect individual sovereignty or absorb it.
+
+The hypothesis predicts that stronger incumbent resistance should, other things
+equal, select more categorical counter-mythologies, and that some successful
+overshoots should later be translated into more discriminating institutions or
+lifted generators. It is weakened where moderate formulations displace equally
+entrenched orders just as reliably, where categorical variants owe their success
+to coercion or material advantage rather than receiver fit, or where the alleged
+overshoot never recedes and simply installs another closed first-order order.
+
+For the mapped features and limits of the braid, tangled-cable, spaghetti-code,
+unbraiding, and rebraiding pictures, and their relationship to the framework's
+computing and physical models, see [*Analogical Models in Culture Mechanics: A
+Semantic Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md).
 
 #### 5.2 Who performs apologetics and polemics?
 
@@ -601,19 +946,157 @@ amplify or frustrate the dispositions and mythology
                          ↺
 ```
 
+#### 7.4 Relevant-structure resonance across the three components
+
+Relevant-structure resonance is not a fourth component beside common human
+machinery, dispositional configuration, and mythological form. It is a proposed
+interaction pathway through them. The source formulation comes from Dushan
+Wegner's *Relevante Strukturen* (2019; ISBN 9783739405636), in which experienced
+good and evil are connected to the strengthening and weakening of relevant
+structures. Culture Mechanics translates the proposal into two linked but
+distinct hypotheses:
+
+> **Relevant-structure appraisal hypothesis:** people often experience an action,
+> omission, continuation, or proposed change as good when they believe it
+> strengthens, protects, repairs, or honourably serves a structure they experience
+> as relevant, and as evil when they believe it weakens, corrupts, betrays, or
+> destroys such a structure.
+
+> **Relevant-structure resonance hypothesis:** other conditions being equal, a
+> mythology often gains an advantage in adoption, retention, enactment, and
+> transmission when recipients believe that it recognizes or supports their
+> relevant structures, and loses that advantage when it appears indifferent or
+> hostile to them.
+
+The second hypothesis gives a specific account of why one mythology may be followed
+while another, even one making superficially similar promises, is rejected. A
+mythology can name a threatened family, profession, community, institution,
+right-bearing legal relation, practice, relationship, or shared future; explain
+what is happening to it; assign guardian, victim, beneficiary, and antagonist
+roles; and offer the recipient an honourable way to protect or repair it.
+Competing mythologies can address the same structure while disagreeing about the
+causal effect, legitimate representative,
+proper jurisdiction, time horizon, or precedence among conflicting structures.
+
+The account is deliberately non-exclusive. Curiosity, habit, coercion, prestige,
+material incentive, exhaustion, institutional dependence, social proof, or
+attraction to a new identity may outweigh relevant-structure fit. Mythologies can
+also reprogram relevance rather than merely fit what recipients already find
+important. A present story may activate an installed concern; repeated stories,
+practices, sanctions, and institutions may durably change which structures matter
+or how their conflicts are resolved.
+
+Resonance establishes neither truth nor benefit. The variables must be measured
+and evaluated separately:
+
+```text
+independently measured felt relevance
+                    ×
+represented support or damage supplied by a causal story
+                    ↓
+moral appraisal and mythology resonance
+                    ↓
+possible adoption, retention, enactment, and transmission
+
+actual multidimensional effects + generative centrality + normative standing
+                    ↓ evaluated independently
+truth, legitimacy, externalities, subjecthood, and corrigibility
+```
+
+“Strengthening” cannot be reduced to one score. A mythology may improve an
+institution's continuity, capacity, reach, or cohesion while damaging its
+truth-contact, corrigibility, legitimacy, person-preservation, or external
+relations. An oppressive institution can therefore strengthen itself in some
+dimensions by absorbing persons or transferring costs. Relevant-structure
+resonance may help explain why participants support it without making that support
+morally sufficient.
+
+#### 7.5 Mirrored and foregrounded relevance
+
+Two further source observations from Wegner should remain visible as hypotheses
+rather than disappear into the broader vocabulary of empathy, attention, or
+narrative transportation.
+
+> **Mirrored-relevance hypothesis:** narrative identification can make another
+> person's relationships, injuries, dependencies, responsibilities, or
+> anticipated future temporarily function as felt-relevant structures for the
+> recipient.
+
+> **Foregrounded-relevance hypothesis:** selecting which affected structures are
+> placed before the recipient's mental attention can change their present
+> salience and therefore the moral appraisal of an event or proposal.
+
+The hypotheses are related but distinct. Mirroring proposes an identificatory
+route by which another's structure becomes experientially one's concern.
+Foregrounding proposes attentional selection among structures that may already
+carry some installed weight. Either can produce **relevance activation** without
+durably changing the mythological lens. Repeated narrative, practice, reward,
+sanction, and institutional reinforcement may later contribute to **relevance
+reprogramming**, but one emotionally successful story does not demonstrate that
+change.
+
+These labels are Culture Mechanics operationalizations of Wegner's discussions of
+*Spiegelung* and of what is placed “vorm Auge,” not terms he formally defines in
+this form. Availability, ordinary empathy, transportation, novelty, and emotional
+contagion are alternatives or neighbouring mechanisms. A useful test separates
+one-shot salience and identification from later change in independently measured
+rankings, sacrifice choices, resource allocation, and behaviour outside the
+original story.
+
+#### 7.6 Relevant-structure weaponization and Wegner's control schema
+
+Wegner's formulation **“Ethik ist eine Waffe”** and his **Vierschritt der
+Kontrolle** describe a practical use of relevant-structure appraisal:
+
+```text
+FOR A CHANGE
+present the change as strengthening a relevant structure
+present opposition as accepting or causing its weakening
+
+AGAINST A CHANGE
+present resistance as preventing the structure's weakening
+present the proposed change or its advocates as causing that weakening
+```
+
+Culture Mechanics retains this in Wegner's language as a
+**relevant-structure-weaponization schema**, not as a universal law of moral
+argument. It identifies an upstream route by which relevance selection and a
+causal story can generate protector, victim, culprit, and bad-member
+classifications before moralized character accusation, public synchronization,
+sanction, or delegated power:
+
+```text
+select a high-relevance structure
+              ↓
+represent my side as support and the rival as damage or tolerated damage
+              ↓
+compress the appraisal into a moral token
+              ↓
+public alignment, accusation, sanction, or authorization
+```
+
+Reasoning about actual effects on valued persons and institutions is not thereby
+manipulative. The adversarial diagnosis requires further evidence such as
+fabricated effects, omitted structures or trade-offs, selective relevance,
+unfounded attribution of intention, blocked decompression, or use of moral
+classification to pre-empt examination. Actual multidimensional effects,
+normative standing, and jurisdiction remain separate from the appraisal the
+schema succeeds in producing.
+
 ### 8. The observable resonance surface
 
 The operational interface of the three-component model is multidimensional:
 
-> **expressed dispositions × moral intuitions × motives × causal worldview × group identity × authority structure × institutions × situation**
+> **expressed dispositions × moral intuitions × motives × relevant structures × causal worldview × group identity × authority structure × institutions × situation**
 
-These dimensions are not eight foundations competing with genetics. They are observable forms through which common machinery, dispositional variation, and cultural programming meet.
+These dimensions are not nine foundations competing with genetics. They are observable forms through which common machinery, dispositional variation, and cultural programming meet.
 
 | Surface dimension | Diagnostic question |
 |---|---|
 | Expressed dispositions | What patterns of temperament, autonomy, trust, threat response, and cooperation are repeatedly visible? |
 | Moral intuitions | Which violations produce immediate care, anger, disgust, betrayal, cheating, oppression, or encroachment responses? |
 | Motives | Which forms of belonging, status, order, independence, power, curiosity, honour, or tranquillity are sought? |
+| Relevant structures | Which relational arrangements already carry moral weight, what is believed to support or damage them, and how are their conflicts ordered? |
 | Causal worldview | Are people disposed toward constrained trade-offs, systemic redesign, providence, fate, conspiracy, personal agency, or impersonal mechanism? |
 | Group identity | Which “we” already commands loyalty, shame, memory, and sacrifice? |
 | Authority structure | Who may name events, certify knowledge, settle disputes, and grant legitimacy? |
@@ -994,6 +1477,28 @@ The PCP audit therefore asks:
 6. Which action now appears permissible or obligatory?
 7. What competing classification fits the evidence?
 
+Where the permitted action grants power to a person, office, institution, or
+collective, the PCP audit should be followed by the **authorization-payload
+audit** defined in [*Epistemic Agency under Mechanical
+Solidarity*](0020-epistemic-agency.semantic-definition.md#authorization-payload).
+It asks what power is requested, over whom or what, within which jurisdiction, for
+how long, with what discretion, oversight, revocability, succession, and
+termination evidence, and whether coordination authority spills into authority to
+decide what is real. Agreement with the proposed end is not yet agreement with
+every power packaged as its means.
+
+Wegner's [official *Talking
+Points* page](https://www.dushanwegner.com/buecher/talking-points/) states the
+source maxim that political language should motivate people to entrust their lives
+to the politician and give that politician power over them. [*Epistemic Agency
+under Mechanical
+Solidarity*](0020-epistemic-agency.semantic-definition.md#wegners-maxim-and-the-culture-mechanics-translation)
+preserves the complete German formulation and defines the Culture Mechanics
+translation: **political language is an authorization bid**. In mythology grammar,
+relevant structures supply the morally weighted stake, PCP supplies the actionable
+classification, and the authorization payload identifies the power transfer that
+acceptance is expected to support.
+
 ### 15. Identity, role, symbol, and permission
 
 Mythologies do not merely explain. They recruit.
@@ -1119,6 +1624,29 @@ ritual and institution preserve the lesson
 ```
 
 Activation occurs when an event resembles an established pattern and calls the installed mythology into action. A crisis, anniversary, violation, victory, death, threat, or opportunity can rapidly transform a latent repertoire into synchronized judgment.
+
+Activation presupposes that enough of the cultural technology remains available.
+A calm period can conceal three importantly different conditions: living mythology
+and synchronization practices may be **dormant**; rules and symbols may remain but
+become affectively **de-animated**; or the transmission and activation system may
+be **culturally lost**. In the second case, institutions can continue to coordinate
+habitual conduct while no longer producing ***Beseelung***. In the third, a later
+event cannot simply awaken the old system; actors must construct a successor from
+surviving fragments, and continuity of vocabulary or ritual does not by itself
+establish continuity of collective identity.
+
+Mythology construction therefore includes maintenance against cultural forgetting:
+renewing the connection among words, stories, roles, practices, institutions,
+felt significance, and lived consequence. Maintenance is not automatically good;
+it can preserve an open and reality-corrigible system or sustain a closed one.
+Nor is de-animation automatically failure: a once-sacred rule may remain a useful
+convention after losing its power to mobilize sacrifice. [*Epistemic Agency under
+Mechanical Solidarity*, “Observability, cultural forgetting, and contemporary
+witnesses”](0020-epistemic-agency.semantic-definition.md#observability-cultural-forgetting-and-contemporary-witnesses)
+develops the historical and evidential problem. [*Analogical Models in Culture
+Mechanics: A Semantic
+Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md) places it
+inside the weak-field gravity and contemporary-witness analogy.
 
 Transmission travels through more than mass media. Important paths include:
 
@@ -1392,6 +1920,207 @@ internalized character
    ↓
 voluntary search for meaningful difficulty
 ```
+
+#### Cultural sublimation architecture
+
+The formative sequence describes a process. It should not be collapsed with the
+durable cultural structure that makes the process recurrent or with the symbol
+that calls the structure to mind:
+
+| Analytical level | Meaning |
+|---|---|
+| **Raw drive** | Energy or impulse available for direction |
+| **Sublimation** | The transformation process through which that energy receives another form |
+| **Sublimated form** | A resulting capacity, character disposition, relationship, practice, role, or institution |
+| **Cultural sublimation architecture** | The durable mythology-bearing arrangement that selects, teaches, rewards, embodies, and transmits shared sublimations |
+| **Symbolic carrier** | A phrase, story, song, hero, ritual, image, or exemplary act that activates relevant installed programming |
+
+> A **cultural sublimation architecture** is the interlocking body of
+> mythologies, limits, exemplars, roles, practices, systems, rewards, sanctions,
+> institutions, and transmission pathways through which a culture recurrently
+> transforms raw drives into character, capability, relationship, creation,
+> maintenance, and posterity.
+
+The architecture is **generatively central** when many downstream structures
+depend upon the capacities it recurrently produces. Courts, science, contracts,
+families, professions, markets, infrastructure, and constitutional government can
+all depend upon different combinations of truthfulness, self-command,
+reciprocity, delayed gratification, courage, care, and responsibility. Calling
+the architecture *root-level* therefore makes a proposed claim about causal
+dependency, not about metaphysical primacy, automatic moral goodness, or an
+unchangeable historical form.
+
+Generative centrality remains distinct from felt relevance. A mythological lens
+may treat a particular family, institution, or outcome as morally important while
+failing to represent the formative architecture upon which its continuity
+depends. A contrary case is also possible: an inherited formation system may
+receive great reverence while producing little legitimate capability or while
+preserving coercion, falsehood, or subjecthood absorption.
+
+```text
+cultural sublimation architecture
+          ↓ recurrent formation
+character + capability + relationship + disciplined practice
+          ↓ enable
+families + professions + science + law + production + political order
+          ↓ reproduce, neglect, correct, or consume
+the architecture handed to the next generation
+          ↺
+```
+
+One important failure pattern is therefore:
+
+```text
+high generative centrality
++ low felt relevance or active moral suspicion
+→ weakened protection, practice, and transmission
+→ continued consumption of inherited capabilities
+→ delayed downstream institutional failure
+```
+
+This pattern is a hypothesis requiring independent measures of dependency,
+formation, transmission, and consequence. It must not be inferred merely because
+an inherited practice has declined.
+
+#### Symbolic condensation and counter-mythological reprogramming
+
+Viewed through Wegner's compression and decompression language, a culturally
+recognized representation of a sublimation can stand in for the larger
+“machinery” behind it. A short phrase, song, hero, ritual, or exemplary practice
+can evoke a much larger complex of discipline, purpose, honour, roles,
+institutions, and expected conduct. **Sublimation emblem** is retained as a
+Wegner-facing explanatory shorthand for this condensed representative function,
+not as a new canonical culture-mechanical object type and not as a claim that
+Wegner himself formulated the present sublimation theory.
+
+In Culture Mechanics language, the carrier is normally an ideological symbol,
+activation device, master-signifier-like token, or compressed fragment of
+mythology. It does not contain the sublimation process or architecture. It
+activates mappings already installed in the mythological lens, and the local
+bigOther applies those mappings to produce culturally learned sentiments and
+motivation:
+
+```text
+symbolic carrier
+        ↓ activates
+installed mythologies and lens mappings
+        ↓ executed by
+local bigOther
+        ↓
+honour / shame / attraction / aversion /
+belonging / obligation / permission
+        ↓
+practice and public conduct
+```
+
+A rival or cynical mythology can attack the reproduction of a shared sublimation
+by reclassifying the practice through which it is embodied. The central
+intrapersonal target is not a freestanding decoder or prestige system. It is the
+programming of the mythological lens:
+
+```text
+incumbent mythology:
+effort or restraint → contribution, capability, honour
+                         ↓ rival causal and moral story
+effort or restraint → exploitation, foolishness, conformity, futility
+                         ↓
+symbols and stories activate the rival classification
+                         ↓
+repetition + systems + rewards + sanctions + observed conduct
+                         ↓
+reinforcement or reprogramming of the mythological lens
+                         ↓
+local bigOther supplies changed sentiment and motivation
+                         ↓
+changed practice, Beseelung, and intergenerational transmission
+```
+
+##### Illustrative carrier contrast: shared work and pause
+
+The originating project example contrasts two short German carriers:
+
+> **“Jetzt wird wieder in die Hände gespuckt”**
+
+and
+
+> **“Mach mal wieder Pause.”**
+
+For a suitably programmed recipient, the first can activate a larger mythology of
+shared exertion, productive contribution, competence, renewed effort, and
+collective purpose. The second can activate interruption, relief, release from
+demand, or withdrawal from exertion. Their importance for this example lies not
+in their literal propositions but in the larger sublimation-related complexes
+they can call:
+
+```text
+“Jetzt wird wieder in die Hände gespuckt”
+        ↓ possible activation
+shared work → contribution, capability, honour, common purpose
+
+“Mach mal wieder Pause”
+        ↓ possible activation
+interruption → relief, release, distance from exertion
+```
+
+The proposed attack hypothesis is that an actor seeking to weaken an inherited
+culture could try to make the second kind of carrier displace, ridicule, or
+reclassify the first, supporting that substitution with counter or cynical
+mythologies. If repeated through admired exemplars, systems, rewards, sanctions,
+and observed conduct, the intervention could help reprogram the lens through
+which effort and its supporting structures are classified:
+
+```text
+incumbent carrier activates an inherited sublimation
+                         ↓
+counter-carrier and cynical mythology reverse its classification
+                         ↓
+earnest effort becomes naïve, manipulated, or embarrassing
+                         ↓ repeated cultural reinforcement
+possible reprogramming of the mythological lens
+                         ↓
+weaker Beseelung, practice, and transmission
+```
+
+This is a project-supplied illustration, not empirical evidence that either phrase
+has one invariant meaning, that a pause is culturally destructive, or that any
+historical use constituted a coordinated attack. Context, audience programming,
+institutional support, repetition, actual consequences, and evidence of intention
+must be assessed separately.
+
+Prestigious exemplars, ridicule, rewards, sanctions, and visible consensus matter
+because they are programming and reinforcement channels. The codec perspective
+remains useful for showing how a small token recruits a much larger installed
+complex, but it must not install an additional decoder beside the main CPU and
+local bigOther. Ordinary cognition reconstructs the represented situation; the
+local bigOther executes the installed lens that culturally classifies it.
+
+Cynicism has a distinctive corrosive possibility. A direct rival can say that an
+ideal is wrong and offer another. Cynicism can instead make sincere aspiration,
+discipline, gratitude, or service appear naïve, manipulated, or embarrassing
+without accepting the burden of a functional replacement. In that case it can
+reduce *Beseelung* and transmission before a successor architecture exists. This
+is one specific route into the broader failure mode of [polemical
+corrosion](#apologetic-closure-and-polemical-corrosion).
+
+Several boundaries are essential:
+
+1. A single signal ordinarily activates installed programming. Durable change
+   requires reinforcement or reprogramming; an incompatible governing
+   classification requires sufficient unbraiding and rebraiding under the
+   single-slot principle.
+2. Rest, play, contemplation, celebration, and resistance to exploitation can
+   themselves be constructive sublimations or necessary conditions for durable
+   capability. Exertion is not good merely because it is difficult.
+3. Inherited sublimations can organize disciplined persecution, compulsive work,
+   falsehood, domination, or subjecthood absorption. Corrective mythology and
+   constructive resublimation must not be classified as corrosion merely because
+   they weaken an incumbent practice.
+4. Observed de-animation does not establish a deliberate attacker. Purposive
+   cultural-program conflict, commercial selection, institutional hypocrisy,
+   endogenous drift, justified criticism, and unintended consequence are rival
+   causal explanations.
+5. High *Beseelung* establishes affective animation, not truth, legitimacy,
+   reality coupling, person-preservation, or flourishing.
 
 ### 22. Mythology as the education of psychological taste
 
@@ -1757,7 +2486,57 @@ Institutional coadaptation may bridge the mismatch through federalism, communal 
 
 Collective agency does not require everyone to think, feel, or act identically.
 
-**Coordination** arranges differentiated contributions toward a compatible result. **Synchronization** aligns timing, attention, feeling, or judgment. Some tasks require both; others become less intelligent when synchrony suppresses independence.
+> **Coordination and synchronization are the two ends of a single continuum of interaction strength.**
+
+**Coordination** arranges differentiated contributions toward a compatible result.
+**Synchronization** aligns timing, attention, feeling, interpretation, judgment,
+or action. Here **interaction strength** primarily means pressure toward common
+phase or response, not the total functional dependence among specialists. The
+continuum is an ideal-typical reader model: real groups can combine differentiated
+roles with temporary synchrony, and specialist measurement may require several
+variables without replacing this governing picture.
+
+Three **crowd modes** make the continuum vivid:
+
+| Crowd mode | Organizing pattern | Characteristic strength | Example and boundary |
+|---|---|---|---|
+| **Random crowd** | Shared space without a common task; weak coupling for the variable under study | Heterogeneity and mere co-presence | Saturday shoppers in a plaza; they are not literally statistically independent in every respect |
+| **Clockwork crowd** | Differentiated roles routed through handoffs, or independent estimates externally aggregated | Functional interdependence in the routed form; error-cancelling variety in the aggregative form | A pit crew is routed clockwork; a stock-prediction tournament is aggregative clockwork only when an external mechanism combines the entries |
+| **Laser crowd** | Alignment around when and how to attend, feel, interpret, judge, or act | Speed, force, courage, shared attention, rhythm, and coherent action | A chanting stadium, military drill squad, ritual assembly, or flock-like turn; synchrony alone does not establish truth or collective agency |
+
+The clockwork family therefore contains two mechanisms. **Routed clockwork** needs
+interfaces, handoffs, and controlled communication among differentiated roles; it
+can have high functional dependence and should not be described as thriving on
+minimal cross-talk in every respect. **Aggregative clockwork** preserves
+independence among contributors so that dispersed, approximately unbiased errors
+can cancel when an external mechanism combines their outputs. The whole
+aggregation system is clockwork-like, but the contributors alone need not be a
+strongly coupled crowd.
+
+The project-developed Durkheimian correspondence is:
+
+```text
+organic solidarity    ↔ clockwork coordination
+mechanical solidarity ↔ laser synchronization
+```
+
+The relation is resemblance and characteristic affinity, not identity. Organic
+solidarity is cohesion through differentiated interdependence; clockwork is an
+organizational mode. Mechanical solidarity is cohesion through shared
+classifications and sentiments; laser synchronization is a dynamic process. Both
+solidarities can coexist. [*Epistemic Agency under Mechanical
+Solidarity*](0020-epistemic-agency.semantic-definition.md), “Crowd modes,
+collective effervescence, and Durkheim's solidarities,” gives the fuller
+sociological treatment.
+
+Lifted mechanical solidarity can supply the common moral or constitutional
+protocol under which differentiated clockwork roles remain legitimate and
+mutually intelligible:
+
+> **The laser moment periodically regenerates the moral protocol used by the clockwork system.**
+
+Some tasks require both modes; others become less intelligent when synchrony
+suppresses independent perception.
 
 ```text
 too little common meaning
@@ -1784,104 +2563,301 @@ Useful synchrony can provide:
 Excessive synchrony can produce:
 
 - emotional escalation;
-- identity fusion;
+- identity fusion and, when generalized across jurisdictions, subjecthood
+  absorption;
 - suppression of minority perception;
 - synchronized institutional error;
 - inability to change course without collective humiliation.
 
 A society-wide mythology should normally synchronize high-level identity and constitutional procedure more strongly than detailed empirical judgment. It should enable people to act together without requiring them to see every fact through one authorized lens.
 
-### 29. Babelization and the destruction of collective agency
+The coupling thermostat is a project-developed engineering metaphor and research
+programme, not an established device or Santa Fe Institute framework. The Santa
+Fe Institute's call for a [“crisis discipline” of global collective
+behavior](https://santafe.edu/news-center/news/communication-technology-study-collective-behavior-must-be-crisis-discipline-researchers-argue)
+emphasizes that technology changes information flow at global scale while its
+functional consequences remain poorly understood. It does not document a system
+that senses a universal synchrony parameter and uses AI to steer stadium-scale
+crowds.
 
-**Babelization** is the fragmentation of a shared symbolic language to the point that a society can no longer circulate common mythologies, recognize common purposes, or coordinate as a collective subject.
+An operational thermostat would require at least:
 
-The [Tower of Babel story in *Genesis* 11](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NRSVUE) supplies the governing image. **Babelization** is an analogy and proposed technical extension, not a claim that the biblical text states the social theory developed here. “Language” here means more than mutually intelligible vocabulary. It includes shared:
+1. **sensors** for task-relevant states such as synchrony, functional dependence,
+   error, diversity, confidence, and common-source dependence;
+2. a task-specific **target range**, because no synchrony level is optimal for
+   every purpose;
+3. an **actuator**, such as changing information visibility, timing, group
+   composition, or access to an independent counter-idea;
+4. a **controller** connecting the observed state to intervention;
+5. **evaluation** of accuracy, stability, displacement effects, and unintended
+   feedback;
+6. **constitutional limits** determining who may select the target, operate the
+   controller, inspect it, contest it, and stop it.
+
+Real-time social-signal meters and platform interventions can supply components of
+such a system. They do not establish a validated, task-general, or ethically
+legitimate coupling thermostat.
+
+That qualification does not mean the component research is merely hypothetical.
+Several neighboring programmes now occupy different layers of the problem:
+
+| Research layer | Representative work | Contribution to mythology construction |
+|---|---|---|
+| **Stewardship and adaptation** | [Bak-Coleman et al. (2021)](https://doi.org/10.1073/pnas.2025764118), [Galesic et al. (2023)](https://doi.org/10.1098/rsif.2022.0736), and [Lee, Krakauer, and Flack (2024)](https://doi.org/10.1098/rspb.2024.1606) | Treat information architecture as consequential, relate social-learning strategies and network structures to changing problems, and model how an adaptive system should match its learning timescale to environmental change; the last result is a distant organism--environment analogy rather than a crowd-control result |
+| **Emergent engineering and control** | [SFI's Emergent Engineering programme](https://www.santafe.edu/research/themes/emergent-engineering), [Sowinski, Frank, and Ghoshal (2024)](https://doi.org/10.1103/PhysRevResearch.6.043188), and [Daniels, Krakauer, and Flack (2017)](https://doi.org/10.1038/ncomms14301) | Frames signals, policies, platforms, algorithms, or social structures as minimal mechanisms acting with adaptive systems; supplies a seizure-inspired oscillator controller and an empirically grounded model of criticality control in macaque conflict; none is a validated human-crowd thermostat |
+| **Belief and transition models** | [Galesic et al. (2021)](https://doi.org/10.1098/rsif.2020.0857), [Lee, Kuklinski, and Timme (2025)](https://doi.org/10.1038/s41467-025-59729-8), and [Hébert-Dufresne et al. (2025)](https://doi.org/10.1103/5mph-sws5) | Expose weights, noise, topology, integration rules, coupling thresholds, and evolving cascade intensity as candidate state variables or hazards; model parameters are not automatically social actuators |
+| **Causal and operational testbeds** | [Helbing, Johansson, and Al-Abideen (2007)](https://doi.org/10.1103/PhysRevE.75.046109) and [Amichay, Couzin, and colleagues (2024)](https://doi.org/10.1038/s41467-024-48458-z) | Supply video-based crowd diagnosis and flow control in a safety setting, and open-/closed-loop manipulation of reciprocal animal coupling; these are genuine precedents but remain domain-specific |
+| **AI mediation and evaluation** | [Kehler et al.'s GCI preprint (2025)](https://doi.org/10.48550/arXiv.2505.19167), [MIT CCI's programme](https://cci.mit.edu/generative-ai-and-collective-intelligence/), [Vaccaro, Almaatouq, and Malone (2024)](https://doi.org/10.1038/s41562-024-02024-1), and [Burton et al. (2024)](https://doi.org/10.1038/s41562-024-01959-9) | Explore AI orchestration, divergent idea generation, task allocation, homogenization risk, auditing, and explicit performance baselines; they show why an AI actuator must itself be monitored and compared against simpler arrangements |
+
+No source in this table supplies the whole thermostat or uses the term in the
+present theory's sense. Together, however, they establish a serious neighbouring
+research programme rather than one Santa Fe analogy. [*Analogical Models in
+Culture Mechanics: A Semantic
+Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md#49-the-coupling-thermostat)
+gives the detailed source-status table and records the transfer limits.
+
+The compact diagnostic dashboard is:
+
+> **synchrony `S` + functional coupling `F` + task error `E`**
+
+`S` asks whether participants are in step. A Kuramoto-style order parameter `r`
+can serve as a synchrony gauge where a meaningful phase or direction is defined:
+values near one indicate concentration around a common phase. It is not generally
+the literal fraction in step; two equally sized, internally synchronized groups
+in opposite phases can cancel to `r = 0`. `F` asks how strongly contributions
+depend upon, constrain, or hand off to one another; the theory assumes no universal
+scalar for it. `E` asks, “Are we doing the job well?” A task-specific mean squared
+error can measure distance from a defined target, but it measures performance, not
+functional coupling.
+
+[Lorenz and colleagues](https://doi.org/10.1073/pnas.1008636108) found that mild
+social influence in their estimation tasks narrowed diversity without improving
+collective error and increased confidence without improved accuracy. They did not
+establish a universal law from high `r` to high MSE: copying can improve, preserve,
+or degrade accuracy depending on what is copied and how independent errors were.
+Alex Pentland's [“Social Dynamics: Signals and
+Behavior”](https://courses.media.mit.edu/2004fall/mas921/Pentland%202004.pdf)
+supports the importance and real-time measurability of nonlinguistic signals in
+scoped settings. Its reported `r` values are ordinary correlation coefficients,
+not Kuramoto order parameters, and its task-specific findings do not establish
+that social signals explain 80--90 percent of productivity or creativity in
+general. Pentland's experimental wearable feedback meter is best treated as a
+possible thermostat sensor component, not as the completed system.
+
+For the full random/clockwork/laser mapping, metrics, non-inferences, and
+relationship to laser and magnetization models, see [*Analogical Models in Culture
+Mechanics: A Semantic
+Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md).
+
+### 29. Cultural interoperability and its breakdown (Babelization)
+
+**Cultural interoperability** is the capacity of differentiated persons,
+communities, institutions, and symbolic orders to translate important meanings,
+recognize legitimate common procedures and jurisdictions, and coordinate the
+common action their shared field requires. It does not require identical
+first-order beliefs, one homogeneous way of life, high phase synchrony, or fusion
+into one transparent collective subject.
+
+The [Tower of Babel story in *Genesis*
+11](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NRSVUE)
+supplies the memorable limit image. **Cultural interoperability breakdown
+(Babelization)** is the condition in which interoperability falls below the level
+needed for differentiated groups to remain participants in one functioning
+cultural or political order. *Babelization* is the analogy label, not a claim that
+the biblical text states the theory developed here. “Language” includes more than
+dictionary-level mutual intelligibility. It includes shared or translatable:
 
 - categories and distinctions;
-- moral meanings;
-- causal stories;
-- historical memory;
-- sacred symbols;
-- standards and authorities;
-- understandings of office, legitimacy, and common purpose.
+- moral meanings and causal stories;
+- historical memory and sacred symbols;
+- standards, offices, and authorities;
+- procedures of disagreement, appeal, and correction;
+- jurisdictional boundaries and common purposes.
 
-A society can continue using the same words while their operative meanings diverge. *Justice*, *freedom*, *violence*, *equality*, *democracy*, *truth*, and *safety* may evoke incompatible worlds, agents, and permissions.
+A society can continue using the same words while their operative meanings
+diverge. *Justice*, *freedom*, *violence*, *equality*, *democracy*, *truth*, and
+*safety* may evoke incompatible worlds, agents, permissions, and remedies.
 
-The Babelizing sequence is:
+#### Lifted solidarity, thickness, span, and the floor
+
+The principal culture-mechanical implementation of cultural interoperability is
+**operative shared lifted mechanical solidarity**: a genuinely binding
+second-order order that tells differentiated groups how meanings are translated,
+authorities and jurisdictions are recognized, disputes are decided, errors are
+corrected, losses are accepted, successors take office, and common action becomes
+legitimate. Its architecture is defined by a shared answer generator. Cultural
+interoperability describes one society-wide performance of that architecture.
+Neither term should replace the other.
+
+Three related quantities make the originating model inspectable:
+
+- **Effective meta-order thickness** `T_L` is the depth and binding capacity of
+  shared lifted solidarity at the interfaces that matter. It includes usable
+  rules for translation, evidence, jurisdiction, disagreement, correction, loss,
+  succession, and common action. Thickness is not the number of written rules. A
+  compact generator can be thick because it reliably produces binding answers.
+- **Lifted-solidarity surface area**, also called **meta-order span**, `S_L` is the
+  extent of the population, institutions, domains, and intergroup interfaces over
+  which the same meta-order is actually recognized and binding.
+- **Effective shared surface** $\Sigma_L$ is the joint reach of depth and span. As
+  a first-order model, the project writes $\Sigma_L = T_L S_L$.
+
+The originating proportionality hypothesis is:
+
+$$
+I \approx k\,\Sigma_L = k\,T_L S_L,
+$$
+
+where `I` is cultural interoperability and `k` collects context-specific
+implementation quality. On this hypothesis, lower cultural interoperability is
+directly proportional to a thinner or smaller shared lifted-solidarity surface;
+increasing operative thickness or span increases interoperability when the other
+factor is held fixed.
+
+The linear form is a useful first approximation and hypothesis generator, not an
+established social law. Bottlenecks, weakest-link interfaces, thresholds,
+saturation, network topology, unequal power, and closed but effective coordination
+may produce nonlinear cases. A nominally universal constitution can also have
+almost no effective surface if groups do not recognize or enact it.
+
+The **cultural-interoperability floor (anti-Babel floor)** is the minimum effective
+shared surface required for differentiated groups to remain members of one
+functioning shared order:
+
+$$
+I \ge I_{AB}.
+$$
+
+Above the floor, high interoperability can be implemented as **differentiated
+unity**: one real *we* with different persons, functions, beliefs, and bounded
+jurisdictions. It does not imply [**subjecthood absorption
+(fusion)**](0010-culture-mechanics.semantic-definition.md#differentiated-unity-and-subjecthood-absorption-fusion).
+Below the floor, local PCI slots remain fully occupied and local groups may retain
+strong first-order solidarity. What is missing is enough operative shared lifted
+solidarity between them.
+
+Two failure descriptions should be kept distinct:
+
+- **Thin lifted mechanical solidarity** exists where the shared second-order order
+  is too shallow, weakly binding, or incomplete at crucial interfaces to generate
+  usable common answers.
+- A **nominal lifted meta-order** is formally or verbally shared but does not
+  operate as a common generator in practice. It may have wide paper span and very
+  little effective surface.
+
+#### Intergroup semantic decoupling and breakdown
+
+**Intergroup semantic decoupling** is the process by which local symbolic orders
+cease transmitting sufficiently compatible meanings to one another. Common words
+diverge; trusted translation routes decay; institutions lose cross-group
+legitimacy; and local classifications cease to survive passage across group
+boundaries. Local coherence can rise while society-wide interoperability falls.
+
+The characteristic sequence is:
 
 ```text
-shared civic mythology weakens
+operative shared lifted solidarity becomes thinner or loses span
                 ↓
-subcultures construct separate first-order moral worlds
+subcultures construct increasingly separate first-order moral worlds
                 ↓
-common words, authorities, and goals lose overlapping meaning
+common words, authorities, procedures, and goals decouple
                 ↓
-local synchronization rises
+local synchronization and solidarity may rise
                 ↓
-society-wide synchronization and translation decline
+society-wide translation, trust, and legitimate coordination decline
                 ↓
-collective projects repeatedly fail
+cultural interoperability falls below the anti-Babel floor
+                ↓
+common projects fail and institutions become intergroup prizes
                 ↓
 people retreat into groups they can still trust
                 ↓
-local solidarity strengthens while common solidarity decays
+local solidarity strengthens while the shared meta-order loses surface
                 ↺
 ```
 
-The result is not mere individualism. It is **local synchronization with global desynchronization**. Each subculture may possess a strong local bigOther, sacred history, victimology, enemy image, and epistemic authority. The society remains materially interdependent while becoming mythologically clan-like.
+The result is not mere individualism and need not be social randomness. It is
+**local synchronization with society-wide semantic decoupling**. Each subculture
+may possess a strong local bigOther, sacred history, victimology, enemy image, and
+epistemic authority. The society remains materially interdependent while becoming
+mythologically clan-like.
 
-Babelization destroys collective agency when no actor can formulate a goal that remains intelligible and legitimate across the necessary population. Institutions cease to be common instruments and become prizes through which one subculture attempts to impose its mythology on the others.
+**Collective-agency failure** is a possible downstream result: the population
+cannot formulate, legitimate, or execute common purposes at the required scope.
+It is not identical to cultural interoperability breakdown, because collective
+agency can fail for other reasons and a society near the floor may still complete
+some projects. The causal claim is that breakdown removes a necessary interface
+for projects whose meaning and legitimacy must cross the decoupled groups.
 
-An orchestra supplies a compact analogy. Every quartet may be internally synchronized and technically excellent, yet the orchestra cannot perform if each quartet follows a different score, tempo, and definition of the piece. Making each quartet louder and more internally unified worsens the whole. Society-wide agency similarly requires a shared second-order score—common procedures, sufficiently overlapping terms, and a recognizable common performance—without requiring every instrument to play the same notes.
+An orchestra supplies a compact analogy. Every quartet may be internally
+synchronized and technically excellent, yet the orchestra cannot perform if each
+quartet follows a different score, tempo, and definition of the piece. Making each
+quartet louder and more internally unified worsens the whole. Society-wide agency
+similarly requires a shared second-order score—common procedures, sufficiently
+overlapping or translatable terms, and a recognizable common performance—without
+requiring every instrument to play the same notes.
 
-#### Culture mixing as a Babel mechanism
+#### Culture mixing as one breakdown mechanism
 
-The originating claim is not merely that semantic fragmentation sometimes happens. It is that **culture mixing can destroy collective agency** when a previously shared mythology is fragmented faster than a new lifted mythology can integrate the incoming parts.
-
-Suppose a society begins with substantial common language, memory, authority, and second-order solidarity. It then develops or imports many subcultures, each potentially organized by its own first-order mechanical solidarity:
+The originating claim is not merely that semantic fragmentation sometimes
+happens. It is that **culture mixing can contribute to cultural interoperability
+breakdown (Babelization)** when a previously shared mythology fragments faster
+than a credible lifted meta-order can integrate the incoming or newly formed
+parts.
 
 ```text
-one society-wide mythology
+one society-wide mythology or operative meta-order
             ↓ rapid fragmentation or mixing without integration
-many locally complete mythologies
+many locally complete first-order mythologies
             ↓
 different sacred histories, authorities, victims, enemies,
 causal stories, and meanings of common words
             ↓
-local bigOthers grow stronger
+local bigOthers may grow stronger
             ↓
-society-wide translation and synchronization collapse
+intergroup semantic decoupling reduces effective shared surface
             ↓
 common projects stall and institutions become intergroup prizes
             ↓
 retreat into clan-like groups
 ```
 
-This is Tower-of-Babel-style culture destruction. People may still speak the same dictionary language, share streets, use the same infrastructure, and vote in the same elections. Yet they can no longer transmit a common mythology or formulate goals whose meaning survives passage between groups.
+This is Tower-of-Babel-style culture destruction. People may still speak the same
+dictionary language, share streets, use the same infrastructure, and vote in the
+same elections. Yet they can no longer transmit meaning or formulate goals whose
+legitimacy survives passage between groups.
 
-The framework therefore does not treat cultural mixing as automatically benign. The outcome depends upon the relative rates of two processes:
+The framework therefore does not treat cultural mixing as automatically benign.
+The outcome depends partly upon the relative rates of two processes:
 
 ```text
-rate at which incompatible first-order mythologies multiply
+rate at which incompatible first-order mythologies multiply or decouple
                               versus
-rate at which a credible shared second-order mythology integrates them
+rate at which operative shared lifted solidarity gains thickness and span
 ```
 
-When integration wins, diversity can enlarge competence and perspective inside lifted solidarity. When fragmentation wins, mixture produces local synchronization and global paralysis. The humanly important question is not whether diversity sounds attractive in the abstract. It is whether the mixed society can still say **“we,”** mean sufficiently similar things by its central words, recognize common authorities and procedures, and act toward a common future.
+When integration wins, diversity can enlarge competence and perspective inside
+lifted solidarity. When fragmentation wins, mixture can produce local
+synchronization and global paralysis. The important question is whether the mixed
+society can still say **“we,”** translate its central words, recognize common
+authorities and procedures, accept bounded losses, and act toward a common future.
 
-Diversity is not identical to Babelization. First-order diversity is compatible with collective agency when groups retain:
+Diversity is not cultural interoperability breakdown (Babelization). First-order
+diversity is compatible with collective agency when groups retain:
 
-- a shared second-order identity;
-- overlapping meanings for central terms;
-- trusted translation routes;
-- common institutions recognized as legitimate;
+- an operative shared second-order identity and answer generator;
+- overlapping or reliably translatable meanings for central terms;
+- trusted translation routes and legitimate common institutions;
 - procedures through which political losers remain members;
-- superordinate goals;
+- bounded jurisdictions, superordinate goals, and correction routes;
 - sufficient intergroup contact to correct caricature.
 
-The **Babel test** for a proposed mythology is therefore:
+The **cultural-interoperability test (Babel test)** for a proposed mythology is
+therefore:
 
-> Does it build a bridge across groups required for common action, or does it merely make one local cluster more coherent and the society less interoperable?
+> Does it enlarge the thickness or span of the bridge required for common action,
+> or does it merely make one local cluster more coherent while shrinking the
+> society's effective shared surface?
 
 ## Reality coupling and adversarial mythology construction
 
@@ -1969,6 +2945,16 @@ greater synchronization and punishment
 less corrective information
       ↺
 ```
+
+The apparent “noise reduction” in this loop must be named from an analytical
+rather than incumbent perspective. **Rival-signal suppression** obstructs a
+competing mythology's transmission; **counter-program suppression** attacks its
+reproduction or institutional embodiment. A counter-narrative can instead carry
+independent evidence, minority perception, or internal correction. Suppressing it
+may strengthen short-run coherence while damaging the mythology's reality
+interface. [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md),
+“Disagreement, mythological rivalry, and ideological-form conflict,” provides the
+primary conflict taxonomy.
 
 The central epistemic maxim is:
 
@@ -2443,12 +3429,17 @@ coordination of mythology with systems, symbols, habits, leadership behaviour, a
 repeated experience. This workflow addresses the mythology layer and must not be
 treated as a replacement for the book's complete method.
 
-Within that boundary, the **Mythology Construction Toolkit** turns the
-mythology-specific theory into an iterative design process. Its large workflow is
-intentional: population-and-ecology diagnosis, resonance, braid replacement,
-epistemic safeguards, reality coupling, and adversarial defence require extended
-treatment beyond the book's workplace focus. It is not a recipe for maximizing
-compliance. Every stage includes a reality, agency, and consequence check.
+Within that boundary, the **Mythology Construction Toolkit** organizes the
+provisional analytical operations developed so far for studying endogenous
+formation and the initial design questions of the prospective purposive branch.
+Its large workflow is intentional: population and ecology, resonance, braid
+replacement, epistemic safeguards, reality coupling, and adversarial defence
+require extended treatment beyond the book's workplace focus. It is not a
+completed protocol for on-purpose design, release into the wild, and post-release
+adaptation; that extension remains future work. Nor is it a recipe for maximizing
+compliance or a promise that the intended destination can be culturally
+manufactured. Every present stage includes a reality, agency, and consequence
+check.
 
 #### Stage 1: Define the real coordination problem
 
@@ -2456,6 +3447,7 @@ State the condition that requires cultural cooperation.
 
 - What cannot be solved by isolated individual action?
 - Across which population must coordination occur?
+- What is the evidenced baseline trajectory if no new intervention succeeds?
 - Which material, institutional, developmental, or epistemic outcome matters?
 - Who bears the costs of action, error, and inaction?
 - What would count as improvement?
@@ -2493,6 +3485,14 @@ Map:
 - existing sublimations and capabilities;
 - material feedback channels.
 
+Distinguish inherited programming from the current endogenous trajectory:
+
+- Which structural or practical changes precede the proposed new articulation?
+- Is there a receiver–order mismatch, and among which receivers?
+- Which competing articulations are already being selected without the
+  constructor?
+- What is likely to grow, decay, or be displaced if no new intervention succeeds?
+
 Then map the incumbent mythology as a braid:
 
 - Which stories, identities, symbols, rituals, and institutions cross-bind one another?
@@ -2510,11 +3510,15 @@ Map its apologetic and polemical actor structure:
 - Does authority belong to the person, the office, the institution, or an unstable mixture?
 - What happens at succession, schism, institutional failure, or loss of credibility?
 
-The principal outputs are a **population-and-ecology map**, an **incumbent-braid map**, and an **actor–slot map**, not a single demographic persona.
+The principal outputs are a **population-and-ecology map**, an **endogenous
+baseline-trajectory map**, an **incumbent-braid map**, and an **actor–slot map**,
+not a single demographic persona.
 
 #### Stage 4: Specify the constructive destination
 
-Describe what the mythology should make more possible over time:
+State the proposed destination \(D^*\), who chose it, whose life it concerns, and
+which authority makes the intervention legitimate. Then describe what the
+mythology should make more possible over time:
 
 - which capabilities should grow;
 - which relationships should become more trustworthy;
@@ -2524,7 +3528,10 @@ Describe what the mythology should make more possible over time:
 - which coordination should widen;
 - what successors should inherit.
 
-This is the **life-drive and reality-coupling specification**.
+Also state unacceptable paths, protected jurisdictions, foreseeable trade-offs,
+and observations that would show that the project is moving away from \(D^*\).
+This is the **life-drive and reality-coupling specification**, not an assertion
+that the destination will be achieved.
 
 #### Stage 5: Map resonance and construct a mythology family
 
@@ -2550,6 +3557,8 @@ Specify:
 - sacred values and master signifiers;
 - identity and role offers;
 - Perception–Context–Permission sequence;
+- the anticipated recipient knowledge, codebook, lens, and context on which the
+  message's compression depends;
 - concrete practices and expected consequences;
 - rival causal stories and distinguishing evidence.
 
@@ -2606,16 +3615,33 @@ Participatory testing asks recipients to explain:
 
 - what happened in the story;
 - what caused it;
+- which structures the story makes relevant and what it says will support or
+  damage them;
+- which actors, causes, alternatives, uncertainties, and affected structures they
+  reconstructed although the surface message did not state them explicitly;
 - who “we” are;
 - what someone like them should do;
+- what power they now think should be granted, to whom, within which jurisdiction,
+  for how long, and subject to which correction or revocation;
 - what evidence could change the interpretation;
 - what costs and rewards they expect.
 
+This is the mythology-construction form of the
+[**decompression audit**](0020-epistemic-agency.semantic-definition.md#audience-modelled-reconstruction-and-decompression).
 The mythology actually received is more important than the mythology the constructor intended.
+Compare it with both the declared destination and the diagnosed endogenous
+baseline. Record recipient reinterpretation, institutional filtering, rival
+intervention, and unintended effects rather than assigning every deviation to
+failed messaging.
 
 #### Stage 10: Measure, correct, defend, and retire
 
 Track psychological, behavioural, institutional, material, and intergenerational effects. Preserve dissent, failed predictions, reinterpretations, and adverse outcomes.
+
+Measure whether the intervention has moved the trajectory toward the declared
+destination, displaced the destination, or primarily increased the mythology's own
+replication. Do not treat reach, retention, or institutional survival as proxy
+measures for carrier flourishing.
 
 Run adversarial tests:
 
@@ -2634,7 +3660,8 @@ Run adversarial tests:
 - self-sealing failure explanations;
 - capture by opportunistic institutions;
 - drift from role performance into identity display;
-- Babelizing effects across subgroups.
+- intergroup semantic decoupling and cultural interoperability breakdown
+  (Babelization).
 
 Test its actors as rigorously as their arguments: why does this person or institution occupy the slot, who recognizes that authority, which dispositions and incentives does the selection process favour, and can the actor be corrected or replaced? Test its apologetics as rigorously as the attack: can defenders answer the strongest objection, admit error, and repair a strand without treating disagreement as betrayal? If replacement is intended, specify the unbraiding sequence, the strands to preserve, the bridge across the liminal interval, and the institutions that can carry the successor before the incumbent loses all authority.
 
@@ -2647,21 +3674,28 @@ Engagement, recall, and agreement are insufficient measures. Evaluation should s
 | Evaluation level | Example questions |
 |---|---|
 | Reception | Was the mythology understood, remembered, and experienced as recognition rather than alien imposition? |
+| Recipient reconstruction | What factual, causal, moral, and authorization model did recipients actually reconstruct; which omissions, cues, and assumed codebook produced it? |
+| Relevant-structure appraisal | Which structures did recipients experience as morally important; what support or damage did they infer; and did actual effects match that representation across time, persons, and dimensions? |
 | Internalization | Can participants state reasons, modify the account, and act without constant surveillance? |
 | Psychological gradient | Which immediate rewards and avoidance patterns sustain participation? |
 | Drive direction | Do repeated actions build capability, relationship, creation, maintenance, and posterity? |
+| Sublimation architecture | Which drives are transformed into which capacities; which mythologies, practices, systems, and institutions recurrently perform and transmit that work? |
+| Generative centrality | Which downstream relationships and institutions depend upon those capacities, how replaceable is the architecture, and does felt relevance track the dependency? |
+| Symbolic activation and reprogramming | Which carriers activate which installed classifications; is an observed change temporary activation, repeated reinforcement, or durable lens reprogramming? |
 | Role enactment | Are participants doing the reality-facing work or mainly displaying identity? |
 | Institutional embodiment | Do rules, rewards, appointments, rituals, and budgets tell the same story? |
 | Coordination | Can differentiated actors contribute without forced uniformity? |
 | Coupling range | Does cooperation cross the groups required for the task? |
 | Epistemic integrity | Can evidence, dissent, and failure revise the mythology? |
 | Material consequence | What happens to health, safety, production, trust, ecology, infrastructure, and prosperity? |
+| Trajectory and destination | How does the observed path differ from the diagnosed baseline and the declared \(D^*\); which receivers, institutions, rivals, and consequences account for the difference? |
 | Exit and recovery | Can a participant leave, change mind, repair harm, and retain ordinary dignity? |
 | Braid integrity | Do its mutually supporting strands create durability without concealing contradiction or error? |
 | Apologetic corrigibility | Can it defend its goods, answer strong objections, and repair false strands? |
 | Polemical precision | Can it contest a failed rival without dissolving sound knowledge, ordinary trust, or the possibility of replacement? |
 | Actor–slot fit | Do the dispositions, competence, credibility, and incentives of the selected actors fit the function they perform? |
 | Authorization integrity | Is authority genuinely recognized through the relevant solidarity order, or merely asserted, captured, or simulated? |
+| Authorization payload | What power, jurisdiction, duration, discretion, oversight, revocability, termination rule, and epistemic spillover follow from accepting the mythology? |
 | Institutional continuity | Can the function survive succession while remaining corrigible and faithful to its purpose? |
 | Adversarial resilience | Can the mythology resist dark arts without adopting them? |
 | Intergenerational consequence | What dispositions, institutions, debts, skills, and environments are handed forward? |
@@ -2679,6 +3713,16 @@ The framework is intended to generate falsifiable research rather than explain e
 | Universal activation | Some mythological structures activate species-typical mechanisms across populations. | Cross-cultural experiments using common narrative and moral stimuli. |
 | Dispositional modulation | Different dispositional configurations respond differently to the same mythology. | Pre-measured traits interacted with randomized narrative exposure. |
 | Resonance interaction | Matched mythology produces greater transportation, retention, identification, and enactment than unmatched mythology. | Preregistered factorial experiments comparing matched and mismatched frames and roles. |
+| Relevant-structure resonance | Independently measured relevance interacts with represented support or damage to predict moral appraisal, mythology adoption, and action readiness. | Measure relevance before exposure; randomize credible causal accounts of a mythology's effects on the same structures; compare appraisal and adoption while measuring actual-effect beliefs separately. |
+| Change-indexed moral mobilization | A condition represented as active continuation, prevented transition, or culpable omission produces more intense moral appraisal and action readiness than the same material condition represented statically. | Randomize static, active-continuation, prevented-alternative, and omission descriptions while holding facts constant; test interaction with independently measured relevance. |
+| Mirrored relevance | Identification with a represented person makes that person's relationships, injuries, responsibilities, or future more morally relevant to the recipient. | Randomize perspective and identification cues; measure immediate appraisal, sacrifice choices, resource allocation, and generalization beyond the story. |
+| Foregrounded relevance | Selective presentation of affected structures changes present salience and moral appraisal without necessarily changing durable relevance rankings. | Compare one-shot salience with delayed rankings and behaviour; repeat exposure to distinguish activation from reprogramming. |
+| Audience-modelled reconstruction | The same compressed message produces different factual, causal, moral, and authorization models in audiences with different installed codebooks, and a message designed for one audience more reliably produces the model anticipated for it. | Elicit full recipient reconstructions after crossed message-by-audience exposure; compare literal content, predicted model, actual model, and expanded controls. |
+| Sublimation-carrier activation | A culturally familiar carrier activates a richer and more conduct-directing complex of sublimation-related classifications in recipients whose lenses contain the associated programming than in mismatched recipients. | Cross carriers and audiences; measure reconstructed meanings, sentiment classifications, action readiness, costly practice, and persistence while distinguishing familiarity from agreement. |
+| Counter-mythological reprogramming | Repeated rival reclassification combined with supporting rewards, sanctions, systems, and exemplars changes appraisal and practice beyond the temporary salience produced by one exposure. | Compare one-shot activation with longitudinal, institutionally reinforced exposure; measure durable lens mappings, Beseelung, conduct, transmission, and recovery after the signal is removed. |
+| Generative-centrality/relevance mismatch | Sublimation architectures upon which many downstream capabilities depend are more vulnerable to under-maintenance when their generative centrality is high but their felt relevance is low or negative. | Measure relevance independently from capability production and dependency; compare investment, transmission, replacement availability, inherited-capital consumption, and delayed institutional outcomes across cases. |
+| Protector-framing authorization | Threatened-structure and protector framing increases willingness to delegate power beyond any increase in agreement with the underlying proposal. | Hold policy content constant; vary threat, culprit, and protector roles; measure agreement separately from discretion, duration, oversight, opponent restriction, and jurisdictional spillover. |
+| Cognitive-relief pathway | Under complexity, uncertainty, public exposure, or responsibility, an authority-endorsed compressed formula gains an adoption advantage partly through subjective relief and reduced checking. | Vary load, time pressure, publicity, authority endorsement, and cost of a check; test relief as mediator and willingness to inspect qualifications as an outcome. |
 | Age amplification | Receptivity differences associated with dispositions increase as people select congruent niches. | Longitudinal studies of traits, environments, mythology exposure, and response. |
 | Polygenic prediction | Future polygenic scores predict some differential mythology receptivity. | Prospective genomic studies with out-of-sample prediction and strict population controls. |
 | Incremental prediction | Polygenic scores add prediction beyond demographics and self-report. | Nested models evaluated on held-out samples. |
@@ -2691,7 +3735,7 @@ The framework is intended to generate falsifiable research rather than explain e
 | Marriage-mediated coupling range | Weaker intensive kinship predicts wider non-kin trust and greater resonance of impersonal civic mythology. | Kinship-network, institutional, historical, and cross-cultural studies. |
 | Lifted-solidarity compatibility | Democracy is more durable where political loss remains compatible with shared membership and impersonal law. | Comparative institutional studies measuring civic meta-solidarity rather than formal rules alone. |
 | Genetic-hardware fit | Dispositional or polygenic differences predict the cost and durability of sustaining impersonal office, loyal opposition, and abstract civic reciprocity. | Matched institutional comparisons combined with longitudinal dispositional and genomic measures. |
-| Babelization | Rising local mythological coherence combined with declining intergroup semantic overlap predicts failure of society-wide coordination. | Longitudinal language, network, trust, and collective-action measures. |
+| Cultural interoperability breakdown (Babelization) | Declining effective meta-order thickness or span, combined with rising local coherence and intergroup semantic decoupling, predicts society-wide coordination failure below the anti-Babel floor. | Longitudinal language, network, trust, institutional-legitimacy, lifted-solidarity, and collective-action measures; test linear, threshold, bottleneck, and saturation models. |
 | Culture-mixing threshold | Collective agency declines when incompatible first-order mythologies multiply faster than credible second-order integration. | Longitudinal comparison of migration or subcultural fragmentation rates, semantic overlap, civic identity, and coordination outcomes. |
 | Directed guardian empathy | Care persists more strongly for a hostile actor classified as oppressed than for an equivalent hostile actor classified as dominant. | Factorial experiments independently varying harm, hostility, group power, and ideological identity. |
 | Carrier–replicator divergence | Some mythologies increase their own transmission through costly carrier behaviour even while reducing carrier capability or survival. | Longitudinal studies measuring transmission against health, capability, reciprocity, fertility, and exit costs. |
@@ -2808,9 +3852,13 @@ This application distinguishes exporting visible institutions from constructing 
 
 This application tests whether rules governing close-kin marriage can jointly change reproductive structure, alliance networks, trust radius, institutional form, and the mythologies capable of travelling through the population.
 
-#### Babelization
+#### Cultural interoperability breakdown (Babelization)
 
-This application treats semantic fragmentation as a destruction of collective agency: local groups retain strong mythology while the society loses a common symbolic protocol for formulating and pursuing goals.
+This application treats intergroup semantic decoupling as a loss of effective
+shared lifted-solidarity surface. Local groups can retain strong mythology and
+full local slot occupancy while the society falls below its cultural-
+interoperability floor (anti-Babel floor) and loses a common protocol for
+formulating and pursuing goals.
 
 #### Destructive culture
 
@@ -2825,11 +3873,51 @@ This application begins with observable damage, reconstructs the mythology and P
 - Which outcomes would distinguish success from mere replication?
 - Whose flourishing and whose costs are included?
 
+#### Endogenous trajectory and purposive intervention
+
+- Is the process being described endogenous mythology formation, purposive
+  mythology construction, or an interaction between them?
+- What is the evidenced baseline trajectory if the proposed intervention does not
+  succeed?
+- What destination \(D^*\) has been chosen, by whom, for whom, and under which
+  jurisdiction?
+- Why is mythology the relevant intervention surface, and which non-mythological
+  systems, incentives, habits, or material conditions must change with it?
+- How could receivers, incumbent institutions, rivals, unintended consequences, or
+  reality redirect the intended successor?
+- Which observations would distinguish progress toward \(D^*\) from improved
+  replication of the mythology itself?
+
+#### Historical genesis and authorization
+
+- Which structural, institutional, practical, demographic, or dispositional
+  changes preceded the explicit mythology?
+- Is the mythology initially an articulation of a receiver–order mismatch, an
+  imported construction, or both?
+- Which need or aspiration gives the formulation authority, and does that fit
+  survive criticism of its factual claims?
+- What functional remainder is left when the explicit doctrine is removed?
+- When did the formulation become an upstream cause through sacralization,
+  institution, selection, and repeated transmission?
+- Does the account distinguish witness observation, causal explanation,
+  normative judgment, and intervention?
+
 #### Resonance
 
 - Which species-typical mechanisms does the mythology activate?
 - Which dispositional configuration does it fit?
 - Which moral taste buds and motives receive emphasis?
+- Which relationships, role-contexts, institutions, practices, legal orders, or
+  shared futures do recipients already experience as relevant?
+- What does the mythology claim will strengthen, protect, corrupt, betray, or
+  destroy them, and how credible is that causal account?
+- Which structures and costs disappear from the represented effect model?
+- Do the mythology's actual effects strengthen one dimension or constituency by
+  weakening another, and how are conflicts, standing, and jurisdiction resolved?
+- Which structures are being foregrounded, and which are being made relevant
+  through identification or mirroring?
+- Is the observed change only relevance activation, or has later behaviour shown
+  durable relevance reprogramming?
 - Which causal worldview does it assume?
 - Does it offer recognition or require identity humiliation?
 - Are several compatible variants required?
@@ -2843,6 +3931,13 @@ This application begins with observable damage, reconstructs the mythology and P
 - What does the mythology make perceptible?
 - Which context does it supply?
 - What does it thereby permit or require?
+- Against what anticipated recipient knowledge, symbols, lens, and context was
+  the message compressed?
+- What complete factual, causal, moral, and authorization model did recipients
+  predictably and actually reconstruct?
+- What power is requested, over whom or what, within which jurisdiction and
+  duration, with what oversight, revocability, termination rule, and epistemic
+  spillover?
 - Which rival causal story fits the same observations?
 
 #### Braiding, apologetics, polemics, and replacement
@@ -2863,6 +3958,14 @@ This application begins with observable damage, reconstructs the mythology and P
   bindings give them in the successor weave?
 - Is the successor a first-order or lifted full capture: do participants share its
   concrete answers or the rules that generate, select, apply, and revise them?
+- How mobilizationally absolute is the successor, and is that absoluteness being
+  mistaken for its order level, field strength, jurisdiction, or corrigibility?
+- Is an apparent revolutionary overshoot strategic, sincerely experienced, or
+  selected among competing variants?
+- What achieved jurisdiction or protection is the overshoot supposed to secure,
+  and what evidence would show that a more accurate formulation could have done so?
+- Will later institutions preserve the achievement while correcting the excess,
+  or install the excess as another closed order?
 - Who bears the transition costs and responsibility for the permissions created by replacement?
 
 #### Actors, slots, and authority
@@ -2892,6 +3995,9 @@ This application begins with observable damage, reconstructs the mythology and P
 - What immediate reward makes entry attractive?
 - Is desire converted into an impossible or renewable demand?
 - Does participation produce capability or mainly recognition?
+- Does accepting the compressed explanation produce relief from uncertainty,
+  contradiction, exposure, or responsibility; and does that relief reduce
+  checking?
 - Is anger transformed into protection and investigation or consumed through catharsis?
 - Does the mythology educate taste or preserve immaturity?
 - Does each repetition make exit more difficult?
@@ -2899,6 +4005,15 @@ This application begins with observable damage, reconstructs the mythology and P
 #### Drive direction and sublimation
 
 - Which raw drives are being released, repressed, or sublimated?
+- Which cultural sublimation architecture selects, teaches, rewards, embodies,
+  and transmits the proposed transformation?
+- Which symbolic carriers activate its installed mappings, and what does the
+  local bigOther classify when they are encountered?
+- Is a rival mythology producing temporary contrary activation, repeated
+  reinforcement, or durable reprogramming of the mythological lens?
+- Does felt relevance track the architecture's independently evidenced
+  generative centrality, or is inherited capability being consumed without
+  maintenance or replacement?
 - What becomes easier after one year of participation?
 - What skills, relationships, institutions, and inheritances are created?
 - What is consumed without replacement?
@@ -2918,7 +4033,9 @@ This application begins with observable damage, reconstructs the mythology and P
 - Can political or institutional losers remain members?
 - Are central terms mutually intelligible across subcultures?
 - Is synchronization calibrated to preserve independent judgment?
-- Does the proposal strengthen lifted solidarity or Babelization?
+- Does the proposal increase the effective thickness and span of shared lifted
+  solidarity, or contribute to cultural interoperability breakdown
+  (Babelization)?
 - Which installed meta-rules generate the relevant first-order answers, and which
   of them allocate, limit, coordinate, and correct jurisdictions?
 
@@ -2940,6 +4057,9 @@ This application begins with observable damage, reconstructs the mythology and P
 - Are provenance, material relationships, message construction, and source
   dependence visible at every stage of the cascade?
 - Can recipients recognize the downhill honey-trap signature?
+- Does a visible *Wie* of goodness, expertise, care, or legitimacy substitute for
+  the actual *Was*--the function, conduct, and consequences the cue is supposed to
+  identify?
 - Is there a superior constructive role, not merely a debunking message?
 - Are recovery routes available?
 - Are sanctions tied to demonstrable conduct, causal responsibility, and due process?
@@ -2968,6 +4088,15 @@ A citation under “retained” supports the named concept, not every inference 
   framework.
 - **Mechanical and organic solidarity — Émile Durkheim:** [*De la division du travail social*](https://classiques.uqam.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html).
 - **Collective representations, ritual, and collective effervescence — Émile Durkheim:** [*The Elementary Forms of the Religious Life*](https://www.gutenberg.org/ebooks/41360).
+- **Unconscious social genesis, aspirational authority, political sacralization,
+  and structural change — Émile Durkheim:** [“Les principes de 1789 et la
+  sociologie”](https://education.persee.fr/doc/revin_1775-6014_1890_num_19_1_9561_t1_0450_0000_1)
+  (1890), translated by Mark Traugott in [*Émile Durkheim on Morality and
+  Society*](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3627098.html),
+  pp. 34–42. Durkheim supplies the observations and his historical hypothesis; the
+  five-phase sequence, receiver–order mismatch, aspirational authorization,
+  functional-remainder test, and revolutionary-overshoot hypothesis are project
+  formulations.
 - **Moral Foundations Theory — Jonathan Haidt, Craig Joseph, Jesse Graham, and collaborators:** [Moral Foundations Theory publications](https://moralfoundations.org/publications/).
 - **Biology as a first draft elaborated by cultural learning — Jonathan Haidt:** [*The Righteous Mind*](https://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/).
 - **Narrative transportation — Melanie Green and Timothy Brock:** [“The Role of Transportation in the Persuasiveness of Public Narratives”](https://pubmed.ncbi.nlm.nih.gov/11079236/).
@@ -2977,6 +4106,12 @@ A citation under “retained” supports the named concept, not every inference 
 - **Apologetics and polemics as distinguishable theological functions — Friedrich Schleiermacher:** [*Brief Outline of the Study of Theology*](https://openlibrary.org/books/OL7182960M/Brief_outline_of_the_study_of_theology).
 - **Psychoanalytic inquiry into unconscious formations, resistance, and symptoms — Sigmund Freud:** [*A General Introduction to Psychoanalysis*](https://www.gutenberg.org/ebooks/38219).
 - **Organized public-opinion formation and propaganda — Edward Bernays:** [*Propaganda*](https://en.wikisource.org/wiki/Propaganda).
+- **Memetic engineering as a speculative cultural-control aspiration — James
+  Gardner:** [“Memetic
+  Engineering”](https://www.wired.com/1996/05/memetic/) (1996). The essay supplies
+  the historical phrase and a conjectural image of deliberately altering
+  interacting cultural replicators; it does not establish a working science,
+  precise cultural control, or Culture Mechanics' ontology.
 - **Critical Theory — Max Horkheimer:** [“Traditional and Critical Theory”](https://doi.org/10.5840/zfs19376265).
 - **Critique of postmodern and activist theories — Helen Pluckrose and James A. Lindsay:** [*Cynical Theories*](https://www.ipgbook.com/cynical-theories-products-9781634312028.php).
 - **Active gene–environment correlation — Robert Plomin, John DeFries, and John Loehlin:** [“Genotype-Environment Interaction and Correlation in the Analysis of Human Behavior”](https://doi.org/10.1037/0033-2909.84.2.309).
@@ -3019,6 +4154,53 @@ method as definitive and approximately 99% correct; departures must be named as
 extensions or revisions rather than attributed back to Macdonald, Burke, and
 Stewart.
 
+#### Relevant structures and Wegner-derived hypotheses
+
+**Status: borrowed and substantially extended.** Dushan Wegner's *Relevante
+Strukturen* (2019; ISBN 9783739405636) supplies the relevant-structure vocabulary
+and the source hypothesis that people experience support for a relevant structure
+as good and its weakening as evil. Culture Mechanics retains that proposal as the
+descriptive **relevant-structure appraisal hypothesis** and adds the
+**relevant-structure resonance hypothesis** concerning differential mythology
+adoption, retention, enactment, and transmission. The typed relational definition,
+the separation of felt relevance, represented effect, actual multidimensional
+effect, generative centrality, and normative standing, the integration with the
+one mythological lens, and the proposed tests belong to the present synthesis.
+They should not be
+attributed to Wegner as his complete theory or treated as proof that perceived
+support is actually beneficial or morally justified.
+
+Wegner also supplies the originating emphases on *Veränderung*, *Spiegelung*,
+what is placed “vorm Auge,” **“Ethik ist eine Waffe,”** and the **Vierschritt der
+Kontrolle**. The named **change-indexed moral-mobilization**,
+**mirrored-relevance**, and **foregrounded-relevance** hypotheses and the
+**relevant-structure-weaponization schema** are the present synthesis's bounded,
+testable translations. They preserve the source language while distinguishing
+activation from reprogramming, moral appraisal from moral truth, and legitimate
+reasoning about effects from manipulative selection or fabrication.
+
+#### Compression, reconstruction, and cognitive relief
+
+**Status: source observations operationalized across the theory family.** Wegner's
+account of linguistic *Komprimierung* and recipient-side *Dekomprimierung* and his
+situated formulation “Denken tut weh” are retained as source material. [*Epistemic
+Agency under Mechanical
+Solidarity*](0020-epistemic-agency.semantic-definition.md#audience-modelled-reconstruction-and-decompression)
+is the primary semantic home for **audience-modelled reconstruction**, its
+adversarial subtype, the decompression audit, the authorization payload, and the
+cognitive-relief hypothesis. Their typed models, audit fields, mediation claims,
+tests, and the *lossy codec* and *decoder-targeted compression* analogies are
+Culture Mechanics developments. They should not be retroactively attributed to
+Wegner.
+
+Wegner's separate [official *Talking
+Points* page](https://www.dushanwegner.com/buecher/talking-points/) supplies the
+forceful maxim that political language seeks trust and power over people's lives
+and explicitly presents *Talking Points* as complementary to *Relevante
+Strukturen*. The maxim belongs to Wegner; **political language as an authorization
+bid**, the typed authorization payload, and its constitutional audit are the
+project's translation and operationalization.
+
 #### bigOther
 
 **Status: borrowed and substantially extended.** The spelling **bigOther** adapts [Jacques Lacan's big Other](https://wwnorton.com/books/9780393329254) into the culturally installed sentiment-classifier of culture mechanics. This is not Lacan's own computational or systems model.
@@ -3030,6 +4212,14 @@ Stewart.
 #### Sublimation
 
 **Status: borrowed and extended.** The term derives principally from [Sigmund Freud's psychoanalysis](https://www.gutenberg.org/ebooks/78221). The present framework extends it from individual drive transformation into a theory of shared institutional practices, moral formation, and civilizational character.
+
+**Cultural sublimation architecture**, **generative centrality**, and the named
+activation and reprogramming hypotheses are project developments. The
+Wegner-facing shorthand **sublimation emblem** joins the project's sublimation
+theory to Wegner's compression and decompression language; it is not presented as
+Wegner's own theory of sublimation and does not replace the canonical
+Culture Mechanics classification of the token as a carrier, ideological symbol,
+master-signifier-like signal, or mythology fragment according to function.
 
 #### Topos and mythos
 
@@ -3082,6 +4272,9 @@ Stewart.
 #### Construction
 
 **Status: ordinary and cross-disciplinary term specified here.** The term shares family resemblance with social construction, discourse formation, framing, hegemony, cultural evolution, and institutional design. It does not imply that the object is unreal or that one designer controls the result.
+The two-path distinction between **endogenous mythology formation** and the open
+research possibility of **purposive mythology construction**, together with the
+\(D^*\) trajectory-intervention model, belongs to the present synthesis.
 
 #### Apologetics and polemics
 
@@ -3100,11 +4293,35 @@ Stewart.
 The following terms should be attributed to the present synthesis unless independent prior use is established:
 
 - **mythology construction** in the complete semantic sense defined here;
+- **endogenous mythology formation** for the distributed, substantially
+  undesigned emergence and selection of mythology from changing conditions, and
+  **purposive mythology construction** for the prospective research branch
+  concerning target-state-guided intervention in that ecology;
+- **mythology as a privileged symbolic intervention surface**, distinct from the
+  whole culture-implementation stack;
 - **mythologies as the assembly language of the bigOther** as the originating
   analogy for evaluated narrative units close to the classifier's learned
   operations; it does not imply literal digital computation or narrative
   sufficiency;
 - **resonant mythology construction** as its recipient-fit component;
+- the **relevant-structure resonance hypothesis** and
+  **relevant-structure-weaponization schema** in their present Culture Mechanics
+  forms;
+- the **change-indexed moral-mobilization**, **mirrored-relevance**, and
+  **foregrounded-relevance** hypotheses as named and bounded here;
+- **pre-articulation genesis** and the five-phase distinction among genesis,
+  articulation, sacralization, institutionalization, and reproduction with field
+  back-action;
+- **receiver–order mismatch** for a condition in which an inherited order no
+  longer accommodates important developing dispositions, relations, needs, or
+  aspirations before a coherent successor has been articulated;
+- **aspirational authorization** for authority acquired through experienced fit
+  with receiver needs and aspirations rather than through epistemic warrant;
+- **functional-remainder test** for identifying the need, aspiration, grievance,
+  coordination problem, or protected good that remains after a doctrine's
+  explicit explanation is criticized;
+- **revolutionary-overshoot hypothesis** and **mobilizational absoluteness** as the
+  proposed mechanism and independent dimension defined above;
 - **Mythology Construction Toolkit**;
 - **one-slot hypothesis** or **one-PCI-slot hypothesis** for exclusive occupancy by
   one local bigOther executing one operative weave, including compatible-package
@@ -3112,6 +4329,11 @@ The following terms should be attributed to the present synthesis unless indepen
 - **mythology as braid**, **rope of logic**, **incumbent-braid map**, and **successor-braid map**;
 - **braiding**, **unbraiding**, and **rebraiding** as the construction, dissolution, and replacement operations applied to mythology;
 - **mythological apologetics** and **mythological polemics** as the generalized functions defined here;
+- **mythological rivalry**, **mythological conflict**, and **cultural-program
+  conflict** as the replacement-centered distinctions defined here;
+- **rival-signal suppression** and **counter-program suppression** as analytical
+  names that do not adopt the incumbent program's description of opposition as
+  random noise;
 - **apologetic slot**, **polemical slot**, and **systemic slot** as positions generated by a solidarity order;
 - **actor–slot coupling** as the fit among disposition, preparation, symbolic credibility, recognition, and systemic function;
 - **systemic actor selection** and the **natural-choice hypothesis** for how solidarity orders differentially recruit and ratify their characteristic defenders and attackers;
@@ -3143,8 +4365,28 @@ The following terms should be attributed to the present synthesis unless indepen
 - **psychologically downhill mythology** and **psychologically uphill mythology** in the present sense;
 - **downhill honey trap**;
 - **bundle of shared sublimations**;
+- **cultural sublimation architecture** for the durable mythology-bearing
+  arrangement that recurrently selects, teaches, rewards, embodies, and transmits
+  shared sublimations;
+- **generative centrality** for the degree to which a structure produces
+  capabilities or conditions upon which several downstream structures depend,
+  kept distinct from felt relevance and normative standing;
+- **sublimation emblem** as an expressly Wegner-facing explanatory shorthand for
+  a symbolic carrier's condensed representative function, not a new canonical
+  culture-mechanical object type;
+- the **sublimation-carrier activation**,
+  **counter-mythological-reprogramming**, and
+  **generative-centrality/relevance-mismatch** hypotheses in their bounded,
+  testable forms;
 - **mythology as education of psychological taste**;
 - **coupling amplitude**, **coupling radius**, and **coupling thermostat** as social-mythological analogies;
+- **random crowd**, **clockwork crowd**, and **laser crowd**, the simple
+  coordination--synchronization continuum, the Durkheimian correspondence, and the
+  claim that a laser moment can regenerate the moral protocol used by a clockwork
+  system;
+- **dormant**, **de-animated**, and **culturally lost** as the project-developed
+  three-way distinction among inactive living mythology, affectively dead
+  remnants, and loss of a viable cultural transmission and activation system;
 - **marriage-mediated coupling-range hypothesis**;
 - **genetic-hardware hypothesis** for lifted mechanical solidarity;
 - **first-order mechanical solidarity** and **lifted mechanical solidarity**;
@@ -3153,8 +4395,18 @@ The following terms should be attributed to the present synthesis unless indepen
   the allocation and limitation of first-order outputs and jurisdictions**,
   inherited from the coordinated theory project and applied to mythology
   construction here;
-- **Babelization** as local mythological synchronization combined with society-wide semantic disintegration;
-- **culture mixing as a Babel mechanism** under failed second-order integration;
+- **cultural interoperability**, **effective meta-order thickness**,
+  **lifted-solidarity surface area / meta-order span**, and **effective shared
+  surface**;
+- **cultural-interoperability floor (anti-Babel floor)**, **thin lifted mechanical
+  solidarity**, **nominal lifted meta-order**, and **operative shared lifted
+  mechanical solidarity**;
+- **intergroup semantic decoupling** and **cultural interoperability breakdown
+  (Babelization)** as local mythological synchronization combined with loss of
+  society-wide translation, legitimate common procedure, and coordination;
+- **collective-agency failure** as a possible downstream effect rather than a
+  synonym for interoperability breakdown;
+- **culture mixing as one Babel mechanism** under failed second-order integration;
 - **reality-coupled mythology** as an explicit design category;
 - **individual-sovereignty technology suite**;
 - **adversarial mythology construction**;
@@ -3177,7 +4429,10 @@ The following terms should be attributed to the present synthesis unless indepen
 10. **Psychologically uphill does not mean maximally painful.** Difficulty is constructive only when it serves capability, relationship, creation, maintenance, truth, or posterity.
 11. **Pleasure and ease are not inherently death-driven.** Rest, play, affection, and mastered virtue can replenish life or make good practice habitual.
 12. **Sublimation is not identical to repression.** The framework asks how energy is transformed and whether the resulting form supports flourishing.
-13. **Diversity is not Babelization.** Babelization concerns loss of society-wide semantic interoperability and legitimate common procedure.
+13. **Diversity is not cultural interoperability breakdown (Babelization).** The
+    breakdown concerns loss of operative shared translation, legitimate common
+    procedure, and coordination below the anti-Babel floor; differentiated unity
+    can sustain extensive first-order diversity above that floor.
 14. **Democratic mismatch does not establish civilizational inferiority.** It predicts that institutions require cultural and dispositional coadaptation.
 15. **Visible destruction is evidence for investigation, not proof of a chosen cause.** Rival causal stories must be tested.
 16. **Dark artist is not a partisan label.** It requires demonstrable strategic conduct, knowledge, and causal responsibility.
@@ -3215,10 +4470,37 @@ The following terms should be attributed to the present synthesis unless indepen
     practical method. Mythology has an elevated place as the bigOther's assembly
     language, but systems, symbols, leadership behaviour, habits, and repeated
     experience may be equally necessary or more decisive in an implementation.
+32. **Mythology is not always historically first.** A doctrine can initially
+    articulate prior structural and practical change and only later become an
+    upstream programming force.
+33. **Aspirational authorization is not epistemic or constitutional warrant.**
+    Receiver fit can explain authority without vindicating truth, legitimacy,
+    jurisdiction, or consequence.
+34. **Revolutionary overshoot is not a licence to deceive.** It is a comparative
+    hypothesis about selection and displacement under incumbent resistance; its
+    conscious use remains answerable to truthfulness, proportionality,
+    jurisdiction, foreseeable harm, and the availability of less destructive
+    means.
+35. **Mobilizational absoluteness does not classify order level.** Categorical
+    language can defend either first-order answers or a lifted generator and can
+    accompany open or closed, differentiated or absorptive orders.
+36. **Endogenous does not mean good or intervention-free.** It identifies
+    distributed causal formation, which can include inherited power and the
+    accumulated effects of earlier designs.
+37. **A chosen destination is not historical destiny or constitutional
+    authority.** Stating \(D^*\) makes the constructor's end auditable; it neither
+    proves that the baseline is wrong nor licenses intervention over every
+    recipient and jurisdiction.
+38. **The possibility of purposive construction is not a claim of sovereign
+    engineering.** Any attempted intervention would remain subject to receiver
+    interpretation, institutional selection, rival action, unintended consequence,
+    and reality. The phrase *memetic engineering* names a neighboring control
+    aspiration, not an achieved precision science.
 
 ## Semantic summary
 
-- **Broader class:** deliberate cultural formation and institutional design.
+- **Broader class:** cultural formation, reproduction, and prospective
+  intervention.
 - **Central object:** a connected mythology of causal stories, moral
   classifications, identities, roles, and expectations, together with its
   mythology-bearing relations to symbols, practices, systems, and institutions.
@@ -3226,14 +4508,76 @@ The following terms should be attributed to the present synthesis unless indepen
   bigOther**--a privileged evaluated narrative interface, not the whole
   culture-implementation stack and not a sufficient cause by itself.
 - **Immediate cultural mechanism:** training and activation of the mythological lens and bigOther.
+- **Two substantive research paths:** endogenous mythology formation describes
+  distributed, substantially undesigned plant-like growth and selection; the
+  prospective purposive-construction branch asks how far intervention guided by a
+  declared destination \(D^*\) can work.
+- **Intervention hypothesis boundary:** mythology may be a privileged symbolic
+  surface for redirecting classification, but it is not the whole
+  culture-implementation stack or a sovereign control interface.
+- **Prospective outcome constraint:** where intervention is attempted, intention,
+  receiver fit, incumbent resistance, institutional selection, rival intervention,
+  unintended consequence, and reality jointly shape the actual successor.
+- **Historical directionality:** mythology can begin as an imperfect output of
+  structural change and diffuse aspiration, then become an input through
+  sacralization, institutionalization, reproduction, and field back-action.
+- **Pre-articulation condition:** receiver–order mismatch names developing
+  dispositions, relations, needs, or aspirations that the inherited order no
+  longer accommodates before a successor is coherently formulated.
+- **Authorization distinction:** aspirational authorization explains authority
+  through receiver fit without conferring epistemic truth, moral legitimacy, or
+  constitutional jurisdiction.
+- **Residual-function audit:** the functional-remainder test asks which real need
+  or coordination problem survives criticism of the doctrine that carried it.
 - **Recipient-fit component:** resonant mythology construction.
-- **Applied component:** the full mythology-specific Mythology Construction
-  Toolkit, subordinate to the definitive whole-culture implementation method in
-  *Systems Leadership*.
+- **Relevant-structure resonance hypothesis:** mythologies often gain a selection
+  advantage when recipients believe that they recognize, support, or offer an
+  honourable role in felt-relevant structures; perceived support, actual
+  multidimensional effects, and normative standing remain separate.
+- **Relevance pathways:** change-indexing may intensify mobilization; foregrounding
+  may activate installed relevance; mirroring may temporarily extend felt
+  relevance through identification; repeated reinforcement is required before
+  durable relevance reprogramming can be inferred.
+- **Cultural sublimation architecture:** the durable interlocking mythologies,
+  limits, exemplars, roles, practices, systems, rewards, sanctions, institutions,
+  and transmission pathways that recurrently transform drives into character,
+  capability, relationship, creation, maintenance, and posterity.
+- **Generative-centrality distinction:** a sublimation architecture can be
+  causally load-bearing for many downstream structures while receiving little
+  felt relevance; inheritance, dependency, actual consequence, and normative
+  standing require separate evidence.
+- **Symbolic-condensation bridge:** a sublimation emblem is useful Wegner-facing
+  shorthand for a carrier that stands in for a larger formative machinery; in
+  canonical terms the carrier activates installed lens mappings rather than
+  containing the architecture or adding a decoder.
+- **Counter-mythological pathway:** rival mythology can reclassify a sublimated
+  practice; repeated symbolic, institutional, and social reinforcement can
+  reprogram the mythological lens, change local-bigOther sentiment, and alter
+  Beseelung, enactment, and transmission. De-animation alone does not establish
+  deliberate attack or justified preservation.
+- **Relevant-structure weaponization:** Wegner's *Vierschritt der Kontrolle*
+  provides an upstream schema for presenting one's side as structural support and
+  a rival as damage or tolerated damage; use of the schema is not by itself proof
+  of deceit.
+- **Applied component:** the present provisional Mythology Construction Toolkit,
+  subordinate to the definitive whole-culture implementation method in *Systems
+  Leadership*; the complete on-purpose design, release, monitoring, and redesign
+  lifecycle remains future work.
 - **Resonance substrate:** species-typical human machinery plus heritable dispositional configuration.
 - **Cultural-meta-environment:** distributed mythologies, institutions, peers, media, and public classifications that can produce patterned non-genetic formation beyond the shared household.
-- **Observable interface:** expressed dispositions × moral intuitions × motives × causal worldview × group identity × authority structure × institutions × situation.
+- **Observable interface:** expressed dispositions × moral intuitions × motives ×
+  relevant structures × causal worldview × group identity × authority structure ×
+  institutions × situation.
 - **Construction grammar:** topoi, plot, causal stories, characters, sacred values, master signifiers, identity offers, role offers, and PCP.
+- **Recipient reconstruction:** finite messages are compressed against assumptions
+  about recipient knowledge and programming; construction must audit the complete
+  factual, causal, moral, and authorization model recipients reconstruct, not only
+  the literal message.
+- **Political authorization:** Wegner's *Talking Points* maxim treats political
+  language as a means of winning trust and power over people's lives; Culture
+  Mechanics translates this as an authorization bid. Where PCP ends in delegated
+  power, inspect its scope, jurisdiction, duration, discretion, oversight,
+  revocability, termination rule, and epistemic spillover.
 - **Construction topology:** cross-bound strands of story, moral judgment, identity, symbol, role, ritual, institution, and material practice form a redundant rope of logic.
 - **Single-slot constraint:** one local bigOther executes one operative mythological weave; no higher runtime process ranks parallel governing bigOthers.
 - **Full-capture distinction:** a first-order program and a lifted meta-program can each completely occupy the one slot; fullness does not by itself imply closure.
@@ -3243,6 +4587,10 @@ The following terms should be attributed to the present synthesis unless indepen
 - **Replacement problem:** an incompatible governing mythology cannot be installed beside the incumbent; the incumbent must be unbraided sufficiently for one successor to be rebraided, installed, and made authoritative.
 - **Defensive operation:** mythology-level apologetics explains, repairs, and renews the braid.
 - **Offensive operation:** mythology-level polemics isolates and loosens false or destructive bindings while preserving recoverable strands.
+- **Conflict transition:** mythological rivalry becomes mythological conflict when
+  participants actively interfere with a rival's transmission, authority,
+  membership, or institutional embodiment; incompatible governing lenses create
+  cultural-program conflict.
 - **Actor question:** apologetics and polemics are performed by persons, offices, or institutions recognized by the relevant solidarity order.
 - **Authority scaling:** first-order solidarity tends toward personalized actors; lifted solidarity can locate durable agency in offices and institutions represented by replaceable humans.
 - **Authority boundary:** the lifted meta-order is universal at its level, while its representative persons, offices, and institutions remain bounded and receive no ownership of all interpretation or reality.
@@ -3253,15 +4601,40 @@ The following terms should be attributed to the present synthesis unless indepen
 - **Destination question:** Does repetition move toward life-drive creation or death-drive sterility and destruction?
 - **Formative mechanism:** sublimation and education of psychological taste.
 - **Durable implementation:** ritual, practice, selection, reward, sanction, institution, infrastructure, and memory.
-- **Scale problem:** coupling strength and radius, lifted solidarity, coordination, synchronization, and Babelization.
+- **Scale problem:** coupling strength and radius, random/clockwork/laser crowd
+  modes, lifted solidarity, coordination, synchronization, cultural
+  interoperability, and its breakdown (Babelization).
+- **Coupling continuum:** coordination and synchronization are ideal-typical ends
+  of an interaction-strength continuum; organic solidarity resembles clockwork
+  coordination, mechanical solidarity resembles laser synchronization, and a
+  laser moment can renew the moral protocol used by a clockwork system.
 - **Democracy mismatch hypothesis:** imported civic operations may fail when their mythology does not fit the population's dispositional and potentially genetic hardware.
-- **Culture-mixing threshold:** incompatible first-order mythologies can multiply faster than a shared second-order mythology can integrate them.
+- **Interoperability implementation:** effective thickness × meta-order span →
+  effective shared lifted-solidarity surface; the first-order proportionality
+  model treats cultural interoperability as increasing with that surface.
+- **Anti-Babel floor:** differentiated groups remain in one functioning shared
+  order only while cultural interoperability stays above the required threshold.
+- **Culture-mixing threshold:** incompatible first-order mythologies can multiply
+  or semantically decouple faster than operative shared lifted solidarity can gain
+  thickness and span.
 - **Long feedback loop:** potentially fast gene–culture coevolution through niche selection, institution, status, partner choice, migration, fertility, survival, and reproduction.
 - **Positive design ideal:** reality-coupled, life-drive mythology that grows capability and preserves correction.
 - **Primary adversarial threat:** psychologically downhill mythology using dark arts to create dependency, dissipate energy, and disable maturation.
+- **Cognitive-relief hypothesis:** under complexity and uncertainty, a compressed
+  authority-endorsed formula may gain adoption partly by relieving the burden of
+  independent judgment; this is a testable pathway, not a claim about intelligence
+  or all compression.
 - **Semantic dark-art test:** strip the moral wrapper from qualified concepts and inspect the concrete permissions they authorize.
 - **Carrier–replicator warning:** a mythology can reproduce successfully by inducing conduct that damages its human carriers.
 - **Replacement sequence:** incumbent-braid map → polemical unbraiding → liminal bridge → successor braid → reality-coupled apologetics.
+- **Revolutionary displacement hypothesis:** incumbent resistance may select
+  strategically, sincerely, or culturally overextended counter-mythologies whose
+  achievements can later be translated into more discriminating institutions or
+  lifted generators.
+- **Independent rhetorical-sacred dimension:** mobilizational absoluteness
+  measures categorical, eternal, exceptionless, sacred, or non-negotiable
+  presentation without deciding field strength, order level, jurisdiction,
+  corrigibility, or fusion.
 - **Covert replacement threat:** trusted-opinion-leader capture or analogous
   capture of an authority structure can invert trusted guardians, obscure
   provenance through nested internal channels, and convert vertical authorization
@@ -3279,11 +4652,79 @@ The following terms should be attributed to the present synthesis unless indepen
 
 Umbrella definition:
 
-> **mythology construction = diagnose → articulate → braid → resonate → route → embody → coordinate → test → correct → defend → transmit**
+> **mythology construction research = endogenous formation and selection +
+> prospective purposive design and release + comparison of intended and actual
+> outcomes**
+
+Historical genesis and back-action:
+
+> **endogenous mythology formation: structure + institutions + practice +
+> receiver dispositions → diffuse needs and aspirations → articulation →
+> distributed selection → sacralization + institutionalization → later
+> programming and field back-action ↺**
+
+Prospective purposive trajectory intervention:
+
+> **candidate model: chosen destination D* + diagnosed baseline → deliberate
+> mythology and supporting-system intervention → reception and embodiment →
+> observation, correction, defence, or retirement**
+
+Intention--outcome boundary:
+
+> **actual successor = intended destination × receiver fit × incumbent resistance
+> × institutional selection × rival intervention × unintended consequence ×
+> reality; joint constraint, not calibrated multiplication**
+
+Authorization and remainder:
+
+> **receiver fit → possible aspirational authorization, not truth or legitimacy;
+> refute explicit doctrine → identify remaining need or coordination problem →
+> compare better reality-coupled vehicles**
 
 Assembly-language relation:
 
 > **evaluated stories encode roles + causes + values + permissions + consequences → mythologies train general lens mappings → bigOther executes those mappings; systems + symbols + habits + conduct + repeated experience supply or disrupt the implementation environment**
+
+Relevant-structure resonance:
+
+> **felt-relevant structures × represented support or damage → possible mythology
+> adoption, retention, enactment, and transmission; actual multidimensional
+> effects + normative standing remain independently answerable to reality and
+> evaluation**
+
+Relevance activation and mobilization:
+
+> **foregrounding or mirroring → possible relevance activation; represented
+> change to felt-relevant structure → possible intensified moral mobilization;
+> repetition + practice + sanction + institution → possible durable relevance
+> reprogramming**
+
+Cultural sublimation architecture:
+
+> **raw drive → culturally organized limit + example + practice + reward →
+> sublimated character and capability → downstream relationships and institutions
+> → reproduction, correction, neglect, or consumption of the formative
+> architecture ↺**
+
+Symbolic condensation and counter-mythological reprogramming:
+
+> **carrier → installed sublimation-related lens mappings → local-bigOther
+> classification and practice; rival mythology + repeated symbolic and
+> institutional reinforcement → possible lens reprogramming → changed Beseelung,
+> enactment, and transmission**
+
+Wegner's control schema:
+
+> **select relevant structure → present my side as support → present rival as
+> damage or tolerated damage → moral classification → possible alignment,
+> sanction, or authorization**
+
+Recipient reconstruction and authorization:
+
+> **communicator's recipient model → selected facts + omissions + sequence +
+> symbols → message → recipient codebook and lens → reconstructed factual, causal,
+> moral, and authorization model → inspect requested power, jurisdiction,
+> duration, oversight, revocation, and epistemic spillover**
 
 Single-slot composition:
 
@@ -3296,6 +4737,25 @@ Lifting and jurisdiction:
 Mythological replacement:
 
 > **map incumbent braid → preserve sound strands → polemically unbraid false bindings → bridge the liminal interval → rebraid the successor → maintain through corrigible apologetics**
+
+Revolutionary overshoot:
+
+> **incumbent resistance × receiver–order mismatch → possible strategic
+> overshoot, sincere absolutization, or cultural selection of categorical variants
+> → displacement → test whether later institutions preserve the achieved
+> jurisdiction without preserving false or destructive excess**
+
+Mythological conflict:
+
+> **informal mythological rivalry → active interference with transmission,
+> authority, membership, or institutional embodiment → mythological conflict →
+> incompatible governing programs → cultural-program conflict**
+
+Crowd modes and coupling:
+
+> **random co-presence → clockwork differentiated coordination → laser
+> synchronization; coupling thermostat = enough common orientation for action +
+> enough independent perception for correction**
 
 Braided durability:
 
@@ -3335,9 +4795,11 @@ Social range:
 
 > **coupling amplitude + coupling radius → topology of trust, mythology, and cooperation**
 
-Babelization:
+Cultural interoperability and its breakdown (Babelization):
 
-> **strong local coherence + weak intergroup semantic coupling → destruction of society-wide collective agency**
+> **effective meta-order thickness `T_L` × meta-order span `S_L` → effective
+> shared surface $\Sigma_L$; $I \approx k\Sigma_L$; $I < I_{AB}$ → cultural interoperability
+> breakdown (Babelization) → possible society-wide collective-agency failure**
 
 Reality coupling:
 

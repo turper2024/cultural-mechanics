@@ -139,6 +139,25 @@ examples, and boundary from organic differentiation remain in [*Epistemic
 Agency under Mechanical
 Solidarity*](0020-epistemic-agency.semantic-definition.md).
 
+At society scale, a lifted order can support **cultural interoperability**: the
+capacity of differentiated persons, communities, institutions, and symbolic
+orders to translate important meanings, recognize legitimate common procedures
+and jurisdictions, and coordinate required common action. This is a performance
+of the architecture, not the definition of lifting. [*Mythology Construction*,
+“Cultural interoperability and its breakdown
+(Babelization)”](0040-mythology-construction.semantic-definition.md#29-cultural-interoperability-and-its-breakdown-babelization)
+distinguishes the meta-order's effective thickness, its span across interfaces,
+and the cultural-interoperability floor (anti-Babel floor). A lifted order may be
+nominal rather than operative, or too thin or narrow in span to keep a society
+above that floor.
+
+High cultural interoperability also does not decide the separate
+**subjecthood-absorption** question. A universal epistemic constitution can
+preserve differentiated persons and bounded subordinate jurisdictions, or it can
+become closed and absorptive. Order level, occupancy, jurisdiction, corrigibility,
+interoperability, and subjecthood absorption must therefore be assessed
+separately.
+
 ### 3. Why the concept is an operating system
 
 The operating-system metaphor identifies the level at which the concept works. An epistemic constitution does not itself contain all social knowledge. It governs how knowledge-producing and belief-forming processes obtain access, communicate, compete, record results, handle error, and recover from failure.
@@ -182,6 +201,12 @@ homo-duplex architecture, field analogies, privileged programming topology, or
 collective-ownership hypothesis. An epistemic constitution can be described and
 evaluated by its rules of authority, avowal, evidence, disagreement, memory,
 attention, and correction even where those deeper mechanisms remain disputed.
+
+For the mapped features and limits of the operating-system picture, and its
+relationship to the framework's CPU, PCI-slot, protocol, field, laser, magnet, and
+braiding models, see [*Analogical Models in Culture Mechanics: A Semantic
+Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md). That optional
+inventory does not alter the definition or tests stated here.
 
 The constitution is installed when people learn not only propositions but sentiments such as:
 
@@ -377,6 +402,18 @@ Constitutionally, the point is:
 ### 11. Disagreement as social perception
 
 A reality-anchored constitution treats consequential disagreement first as information that the social model may be incomplete—not as contamination to be removed.
+
+Not every propositional disagreement is a conflict between mythologies. [*Culture
+Mechanics*](0010-culture-mechanics.semantic-definition.md), “Disagreement,
+mythological rivalry, and ideological-form conflict,” distinguishes propositions,
+causal stories, classifications, informal mythological rivalry, active
+mythological conflict, competing governing programs, and organized
+ideological-form conflict. This constitution is concerned with the correction
+route across all of them. **Rival-signal suppression** becomes constitutionally
+dangerous when censorship, channel exclusion, or synchronized institutional
+classification removes a competing claim before independent judgment can inspect
+it. The suppressed signal may be wrong, but it may also contain independent
+evidence, minority perception, or an internal correction.
 
 The proposed **disagreement sensor** performs a limited function:
 
@@ -654,7 +691,7 @@ Its defining properties include:
 3. **Ritualized assent:** performance matters more than private conviction; visible compliance confirms the system.
 4. **Authority-gated updating:** source authorization determines whether evidence may count.
 5. **Asymmetric epistemic permeability:** in-group claims enter easily; inconvenient evidence faces exceptional burdens.
-6. **Fusion of loyalty and truth:** disagreement becomes betrayal, impurity, danger, or moral defect.
+6. **Conflation of loyalty and truth:** disagreement becomes betrayal, impurity, danger, or moral defect. This is semantic and institutional conflation, not by itself subjecthood absorption (fusion).
 7. **Institutional synchronization:** nominally independent institutions reproduce the same classifications and common-mode failures.
 8. **Semantic capture:** words, frames, causal stories, and moral labels preselect what can be perceived, blamed, or remedied.
 9. **Attention exhaustion:** flooding and repetitive low-cost claims reduce society's capacity to identify and examine important disagreements.
@@ -671,6 +708,29 @@ The word **lying** is broad at this pole. A systemic-lying constitution need not
 - accurate propositions repeated insincerely as rituals of submission;
 - euphemisms, implications, omissions, presuppositions, frames, and classifications that evade literal falsehood;
 - institutions that preserve local accuracy while protecting a globally misleading narrative.
+
+The constitutional scale can therefore include organized control of the
+**reconstruction pipeline**, not only organized production of false sentences:
+
+```text
+admissible event model
+        ↓ compressed through approved vocabulary, omissions, and sequence
+trusted speakers and institutions repeat the compressed form
+        ↓
+installed recipient codebooks supply the expected decompression
+        ↓
+ordinary participants may sincerely reconstruct and enforce the authorized model
+        ↓
+alternative decompressions are marked ignorant, immoral, or inadmissible
+```
+
+[*Epistemic Agency under Mechanical Solidarity*, “Audience-modelled
+reconstruction and
+decompression”](0020-epistemic-agency.semantic-definition.md#audience-modelled-reconstruction-and-decompression)
+defines the person-to-message mechanism and decompression audit. The constitutional
+claim is narrower than an intent attribution: no conscious liar is required at
+every node, and the same communication tools can serve honest compression when
+uncertainty, alternatives, and correction remain available.
 
 What makes the constitution systemic-lying is not the falsity of every component. It is the organization of the whole order against independent correction.
 
@@ -790,6 +850,12 @@ Negative pole:
 
 > **social pressure → public performance → apparent consensus → authority-gated knowledge → suppressed correction → organized unreality**
 
+Reconstruction-pipeline capture:
+
+> **authorized event model → approved compression → trusted repetition →
+> installed decompression → sincere reconstruction and enforcement → alternative
+> models punished**
+
 Individual virtue:
 
 > **verify, qualify, or withhold**
@@ -896,6 +962,12 @@ independent source establishes otherwise:
 - **Broader class:** society-wide epistemic and cultural meta-order.
 - **Central object:** the relationship among reality, private judgment, public avowal, authority, evidence, disagreement, attention, memory, and correction.
 - **Social form:** lifted mechanical solidarity—shared rules for generating, selecting, applying, and revising concrete answers—coexisting here with organic differentiation.
+- **Society-wide performance:** operative lifted solidarity can support cultural
+  interoperability above the anti-Babel floor; thickness and span describe that
+  performance without redefining the order level.
+- **Independent person--collective question:** high interoperability does not
+  establish subjecthood absorption (fusion), and differentiated unity does not
+  require identical first-order answers.
 - **Slot occupancy:** reality-anchored and systemic-lying constitutions are both full lifted captures; full occupancy does not decide epistemic quality.
 - **Jurisdictional form:** the lifted generator can govern universally while constituting, allocating, limiting, coordinating, and governing the succession and correction of first-order outputs and jurisdictions.
 - **Authority boundary:** persons and institutions remain plural and domain-limited beneath the meta-order and receive no root access to reality.
@@ -909,6 +981,10 @@ independent source establishes otherwise:
 - **Positive public mechanism:** visible, equal, non-sovereign staging of consequential disagreement.
 - **Positive individual virtue:** epistemic stewardship in amplification.
 - **Central negative recursion:** conformity → apparent consensus → deference → knowledge corruption → deeper conformity.
+- **Reconstruction-pipeline pathology:** systemic lying can govern selection,
+  compression, trusted repetition, recipient decompression, and the admissibility
+  of alternative reconstructions without requiring a consciously false sentence
+  at every node.
 - **Central institutional pathology:** authority-gated belief updating and self-protected correction failure.
 - **Micro-level mechanisms:** cross-referenced in [*Linguistic Tricks: A Semantic Inventory*](<0030-linguistic-tricks.semantic-inventory.md>).
 - **Governing question:** Does society's authorization provide corrigible routes toward reality, or does authorization determine what reality is permitted to be?
