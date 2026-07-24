@@ -90,7 +90,8 @@ One optional file is
 it even when your question does not mention an analogy, if a controlled comparison
 can clarify a mechanism, expose a boundary, or suggest a possible test. It also
 contains explicitly labelled mappings to selected neighbouring theories, including
-Julian Jaynes and Joscha Bach. It should
+Julian Jaynes and Joscha Bach, and the discourse theory of Torfing, Laclau, and
+Mouffe, together with Venkatesh Rao's account of script unraveling. It should
 pair the inventory with the primary theory source and must not treat resemblance as
 evidence.
 
@@ -205,7 +206,9 @@ Datei auch dann anfordern, wenn Ihre Frage keine Analogie erwähnt, sofern ein
 kontrollierter Vergleich einen Mechanismus verdeutlichen, eine Grenze aufzeigen
 oder einen möglichen Test nahelegen kann. Sie enthält außerdem ausdrücklich als
 solche gekennzeichnete Zuordnungen zu ausgewählten benachbarten Theorien, darunter
-Julian Jaynes und Joscha Bach. Das Analogieninventar soll zusammen mit
+Julian Jaynes und Joscha Bach sowie die Diskurstheorie von Torfing, Laclau und
+Mouffe und Venkatesh Raos Darstellung des Zerfalls von Skripten. Das
+Analogieninventar soll zusammen mit
 der primären Theoriequelle verwendet werden; Ähnlichkeit gilt nicht als Beleg.
 
 Das Paket enthält außerdem

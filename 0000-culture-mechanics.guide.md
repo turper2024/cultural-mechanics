@@ -101,6 +101,23 @@ sacredness/pollution, belonging/exclusion
 attention, motivation, judgment, and action of the main CPU are redirected
 ```
 
+The general weave becomes locally executable through **situated cultural
+scripts**:
+
+```text
+operative cultural weave
++ role, institution, relationship, or recurrent situation
++ practical and material environment
+→ distributed higher-resolution script
+→ concrete enactment, consequence, and feedback
+```
+
+A script is narrower but more detailed than the cultural braid and can be larger
+than one participant. It is not another bigOther. Peripheral scripts may be
+repaired or replaced within the incumbent culture; failure of load-bearing or
+mutually dependent scripts can form a cross-script cascade and contribute to
+cultural unbraiding.
+
 The **relevant-structure appraisal hypothesis** specifies one important,
 non-exclusive path through this sequence. People often experience represented support
 for a morally weighty relationship, role-context, institution, practice, legal
@@ -130,6 +147,20 @@ Mythology is a privileged symbolic intervention surface, not the whole
 culture-implementation stack. The actual successor is jointly constrained by
 intention, receiver fit, incumbent and rival fields, institutions, unintended
 consequences, and reality.
+
+The doctrinal-progeny test adds a retrospective audit:
+
+```text
+explicit doctrine + implicit authority and correction grammar
+× receivers + interpreters + institutions + power + conditions
+→ descendant distribution → offspring profile
+→ defeasible evidence about generative spirit
+```
+
+Distinguish entailment, authorization or affordance, selection, concealed causal
+design, and appropriation or inversion. *Herrschaftsideologie* names the narrower
+case in which claimed privileged access to a hidden truth or collective interest
+is converted into governing jurisdiction.
 
 The ideological-symbol interface can make that local state publicly legible:
 
@@ -217,11 +248,14 @@ emergence, agency, and capture.
 - [`build/0000-culture-mechanics.core.md`](build/0000-culture-mechanics.core.md) —
   The default bundle. It contains the complete *Culture Mechanics* and *Epistemic
   Agency under Mechanical Solidarity*. Use it for homo duplex, the main CPU and
-  local bigOther, bigOther-presence and bigOther-as-Thou, single-slot exclusivity,
-  compatible-package composition,
+  local bigOther, bigOther-presence and bigOther-as-Thou, Kant's inner tribunal
+  and doubled personality as a source-bounded phenomenological neighbour,
+  single-slot exclusivity, compatible-package composition,
   unbraid/rebraid replacement, mythologies and the mythological lens, relevant
   structures and moral appraisal, cultural programming, culture-mechanical
-  objects, ideological symbols, conformity and targeting signals,
+  objects, situated cultural scripts, script viability and unraveling,
+  load-bearing scripts and cross-script cascades, ideological symbols, conformity
+  and targeting signals,
   private/collective/ideological-form/fundamentalist programs,
   jealousy, enforcement--exclusion, moralized character accusation, symbolic
   coupling, mechanical solidarity, the
@@ -230,7 +264,12 @@ emergence, agency, and capture.
   cascades, cultivated authority, audience-modelled reconstruction and
   decompression, Wegner's *Talking Points* maxim, political language as an
   authorization bid, authorization payloads, the cognitive-relief hypothesis,
-  capture and resistance, cognitive liberty, and epistemic adulthood. It defines
+  capture and resistance, cognitive liberty, epistemic adulthood, and the
+  press-secretary–interpreter–auditor distinction for reflective reason. It also
+  contains the deliberately provisional bridge of impersonal universality against
+  private interest, the remove-the-me test, person-centred humanism as a gloss
+  on Durkheim's moral individualism, and the distinction between aggregative and
+  subjecthood-absorptive routes to sacrificing a person. It defines
   differentiated unity, person-preserving unity,
   subjecthood absorption (fusion), fusion pressure, total fusion, and fusion
   ideology, and types their relationship to collective agency and clockwork/laser
@@ -259,15 +298,25 @@ of reconstructing it from this guide.
   or institution-wide rules of authority, law, contracts, jurisdiction allocation,
   evidence, sincere public disagreement, memory, correction, reality-anchored
   truth-seeking, systemic lying, and constitutional control of the reconstruction
-  pipeline.
+  pipeline. It also applies the optional lack--desire--fantasy motivational layer
+  to the formation of finite and renewable epistemic demands and distinguishes
+  permanent contestability from permanent activated contest. It defines
+  constitutional scripts for dissent, investigation, appeal, legitimate loss,
+  succession, correction, and return as situated implementations of the lifted
+  meta-order and distinguishes dormant viable contestability from nominal written
+  procedure. It records a
+  deliberately unresolved placeholder for a possible second constitutional
+  orientation concerning positive goods and flourishing versus
+  adversary-dependent antagonistic self-reproduction; no canonical axis name or
+  endpoint definitions have yet been adopted.
 - [`0030-linguistic-tricks.semantic-inventory.md`](0030-linguistic-tricks.semantic-inventory.md)
   — *Linguistic Tricks: A Semantic Inventory*. Use to analyze instrumental
   untruthfulness, misleading information selection, semantic or rhetorical
   manipulation, sophistry, corruption of discussion, enemy construction, and
   source or context manipulation, including Wegner's *Wie–Was* distinction as the
-  LT-040 cue–function diagnostic. Preserve its boundaries: error, disagreement,
-  framing, cue–function mismatch, fallacy, and harmful effect are not
-  automatically deception.
+  LT-040 cue–function diagnostic and LT-041 doctrinal causal omission. Preserve
+  its boundaries: error, disagreement, framing, cue–function mismatch, an omitted
+  mechanism, fallacy, and harmful effect are not automatically deception.
 - [`0040-mythology-construction.semantic-definition.md`](0040-mythology-construction.semantic-definition.md)
   — *Mythology Construction*. Use for both endogenous mythology formation and the
   prospective research branch of purposive, destination-guided mythology
@@ -276,14 +325,25 @@ of reconstructing it from this guide.
   assembly-language intervention layer; recipient fit, relevant-structure
   resonance, change-indexed mobilization, mirrored and foregrounded relevance,
   Wegner's *Vierschritt der Kontrolle*, recipient decompression, authorization
-  payloads, and other resonance pathways; psychological gradients, sublimation,
+  payloads, and other resonance pathways; psychological gradients, optional
+  constitutive lack, desire, fantasy, finite operational and renewable demand,
+  jouissance, their boundaries against mythology and *Beseelung*, sublimation,
   cultural sublimation architecture, generative centrality, symbolic condensation,
+  the lifted sublimation-generator pattern, duty as first architectural
+  sublimation and continuing infrastructure, Humanity-as-standing, -horizon, and
+  -sacred-object, Humanity inversion, aspirational exemplars and *Leuchttürme*,
+  Kantian and Randian rival generator configurations, the reflective audit gate,
   and counter-mythological reprogramming; adversarial mythology construction;
   and covert trusted-opinion-leader capture followed by trusted-channel
   rebraiding. Use it for pre-articulation genesis, receiver–order mismatch,
+  situated-script embodiment, script-and-interface mapping, bridge scripts,
+  script repair versus governing replacement, transition-rate asymmetry,
   aspirational authorization, the functional-remainder test, revolutionary
-  overshoot, mobilizational absoluteness, memetic engineering as a neighboring
-  control aspiration, the intention--outcome boundary, and the boundary among
+  overshoot, the doctrinal-progeny test, offspring profile, generative spirit,
+  concealed causal design, recipient-architecture bifurcation, first-order
+  recapture, *Herrschaftsideologie*, mobilizational absoluteness, memetic
+  engineering as a neighboring control aspiration, the intention--outcome
+  boundary, and the boundary among
   description, causal explanation, normative judgment, and intervention. Use it
   also for
   cultural interoperability, effective meta-order
@@ -301,8 +361,17 @@ of reconstructing it from this guide.
   resonance catastrophe (*Resonanzkatastrophe*), the explicitly tentative typed
   reconstruction of Wegner's broad “formula” vocabulary, the lossy codec and
   decoder-targeted compression model, and explicitly labelled cross-theory
-  mappings to Jaynes, Bach, and Wegner, including the separate *Talking Points*
-  maxim and the project-developed sublimation-emblem bridge. It is authoritative
+  mappings to Kant, Jaynes, Bach, Wegner, Torfing, Laclau, Mouffe, and Venkatesh
+  Rao, including
+  Kant's inner tribunal and doubled personality, the separate *Talking Points*
+  maxim, the discourse-theory comparison of articulation and executable order,
+  the distinction between agonism and Babelization, Mouffean doctrinal
+  responsibility, illustrative movement offspring, the post-victory test, and the
+  situated-script, unraveling, bridge-script, and agonistic-script mapping, and the
+  project-developed sublimation-emblem bridge, plus the doctrine-as-parent/progeny,
+  X-ray-vision, secular-gnosis, generator, *Leuchtturm*, and press-secretary
+  mappings, and the local counterfactual-unit-test and label-invariance comparison.
+  It is authoritative
   for the analogies, not for the
   constructs illustrated; pair it with the smallest relevant primary semantic
   source. Select it proactively when a listed model materially improves causal
@@ -326,14 +395,22 @@ of reconstructing it from this guide.
 | Trusted opinion leaders, medical KOLs, local opinion leaders, YouTube or social-media influencers, cultivated authorities, nested influence cascades, source independence, or how one trusted person transmits, interprets, and validates for a field | Core: *Epistemic Agency under Mechanical Solidarity*, “Repeaters and crowds,” “Trusted opinion leaders, cascades, and cultivated authority,” “Forms of authority and epistemic spillover,” and “Safeguards for persons, institutions, and cultures.” Add *Mythology Construction*, “Covert trusted-opinion-leader capture and trusted-channel rebraiding,” only for deliberate covert replacement, sentinel inversion, or institutionalized successor construction. |
 | Collective cohesion, synchronized feeling, institutional force, crowd or movement agency; whether a multi-mind-self can remain differentiated; continuing versus episodic agency; pilgrimage, battle, Subak, latency, or collective “sleep” | Core: symbolic protocol; distributed bigOther; mechanical-solidarity field; nested authorship; activation profiles and episodic multi-mind-selves; fusion and field back-action. Add *Analogical Models in Culture Mechanics* when the sleeping--waking, clockwork, or laser mapping helps. |
 | Blood feud, clan vengeance, inherited blood debt, corporate guilt or liability, collective compensation, target substitution among kin, or transition toward personal liability and public adjudication | Core: *Epistemic Agency under Mechanical Solidarity*, “Blood feud as a corporate-subject hard case,” collective ownership, the multi-mind-self threshold, and subjecthood absorption. Add *Analogical Models in Culture Mechanics* for whole-obligation solidarity or molecular binding; compare kin selection, deterrence, honour, reputation, marriage bargains, material competition, and weak state capacity. |
+| Immanuel Kant, conscience, the inner court or inner judge, *zwiefache Persönlichkeit*, *doppeltes Selbst*, *homo noumenon*, moral law as a voice, respect joined with fear, or comparison of Kant's doubled personality with homo duplex and bigOther-as-Thou | Core: *Culture Mechanics*, “Phenomenological aspect,” “Synonyms and terminological neighbours of the bigOther,” and “Kant's inner tribunal and doubled personality.” Add *Analogical Models in Culture Mechanics*, “Kant: inner tribunal and doubled personality,” for the verified source-language mapping, the Kant--Durkheim--Culture Mechanics contrast, and licensed and unlicensed inferences. Treat Kant's autonomous practical reason and the culturally programmed local-bigOther hypothesis as rival explanations of an overlapping phenomenological target; do not equate *homo noumenon* with the local bigOther or infer a multi-mind-self from conscience. |
+| Kantian duty as a generator, the categorical imperative and sublimation, Humanity, kingdom of ends, Ayn Rand's criticism of duty, morality versus life or happiness, *Leuchttürme*, role models, *Star Trek* as a human horizon, or whether reason authors morality or rationalizes a bigOther verdict | Start with *Mythology Construction*, “The lifted sublimation-generator pattern,” including duty, Humanity, aspirational exemplars, Kant and Rand, and the reflective audit gate. Add the core section *Epistemic Agency under Mechanical Solidarity*, “Reflective roles of reason: press secretary, interpreter, and auditor.” Add *Analogical Models* for the controlled generator–*Leuchtturm*–press-secretary mapping. Keep generator efficacy separate from positive valence, complete equal standing separate from developed capability, aspiration separate from jurisdiction, and logical reasons separate from causal provenance. |
+| Why Durkheim calls Kant and Rousseau individualists; whether “humanism” is clearer; impersonal universality versus private interest; removing the “me” versus removing context; counterfactual position exchange or label-invariance; or how an impartial rule can still sacrifice an individual | Core: *Epistemic Agency under Mechanical Solidarity*, “Impersonal universality against private interest.” Preserve **moral individualism** as Durkheim's source term and use **person-centred humanism** only as the project's explanatory gloss. Keep the Kant–Rousseau comparison formal and narrow: Kant universalizes a person's maxim while Rousseau generalizes law for a collective sovereign. The **remove-the-me test** removes the privilege of “because it is me or mine,” not material context or the concrete person. Its counterfactual position exchange is a justificatory symmetry test, not by itself an empirical prediction. Test separately whether a person becomes a summand in an aggregate or an organ of a subjecthood-absorptive collective; a strong multi-mind-self alone does not establish fusion. Add *Mythology Construction*, “The lifted sublimation-generator pattern,” only when Humanity, the generator, or mythology design is material. |
 | Julian Jaynes, the bicameral mind, divine command voices, Joscha Bach, gods implemented across minds, agent-models, god-as-multi-mind-self, *Beseelung*, bigOther-as-Thou, enactment depth, or when a collective being displaces personal authorship | Core: *Culture Mechanics*, “Phenomenological aspect,” “Nested authorship, activation, and episodic multi-mind-selves,” “Differentiated unity and subjecthood absorption (fusion),” and “Jaynes, Bach, and agentified collective enactment.” Add *Analogical Models in Culture Mechanics*, “Cross-theory mappings and interpretive bridges,” for the side-by-side mappings and their licensed and unlicensed inferences. Do not infer Jaynes's history, reduce God to human implementation, or equate presence, synchrony, enactment, agency, and fusion. |
+| Lacanian constitutive lack, desire, fantasy, demand, jouissance, how a person learns what to desire or what they are for others, why an epistemic demand terminates or renews itself, or whether these terms equal mythology or *Beseelung* | Start with *Mythology Construction*, “Psychologically downhill and Lacanian death-drive mythologies,” for the optional motivational hypothesis and its term boundaries. Add *Epistemic Constitution of Lifted Mechanical Solidarity*, “Desire, fantasy, and the formation of epistemic demands,” when the desire--demand move affects truth-seeking, certainty, recognition, or correction. Lack is not processor duality; fantasy is not mythology as a whole; jouissance is not *Beseelung*; and the project term **finite operational demand** is narrower than Lacanian demand. |
+| Torfing, Laclau, Mouffe, Discourse Theory, articulation, nodal or empty signifiers, hegemony, dislocation, antagonism versus agonism, democratic adversaries, conflictual consensus, whether low conflict is healthy, or how a counter-hegemonic movement behaves after victory | Add *Analogical Models in Culture Mechanics*, “Torfing, Laclau, and Mouffe: articulation, hegemony, and executable cultural order,” plus *Mythology Construction* for braiding, replacement, Babelization, and doctrinal progeny, and *Epistemic Constitution* for standing, contestability, constitutional scripts, correction, and succession. Preserve the external theory's meanings while distinguishing discourse from executable installation, antagonism from Babelization, and permanent contestability from permanent contest. Treat Podemos, La France insoumise, and SYRIZA as illustrative offspring cases rather than a causal experiment. |
+| Venkatesh Rao, the unraveling of scripts, “how things work around here,” occupational or institutional scripts, why a cultural principle fails in local practice, script repair versus cultural replacement, bridge scripts, or how breakdown propagates across roles and institutions | Start with *Culture Mechanics*, “Situated cultural scripts: executable local braids.” Add *Mythology Construction* for embodiment, script-and-interface mapping, transition bridges, cross-script cascades, and cultural unbraiding; add *Epistemic Constitution* for dissent, opposition, loss, succession, correction, or dormant contestability; add *Analogical Models*, “Venkatesh Rao: situated scripts, unraveling, and cultural transition,” for the full source mapping and its relation to Mouffe. Keep cultural braid, script, local variant, and enactment distinct; scriptlessness is not an empty PCI slot, script viability is not moral legitimacy, and script unraveling is not automatically Babelization or antagonism. |
 | Whether differentiated groups can still understand one another, accept common procedures, remain one political field, or act together; Babelization; how thick or widely shared a lifted order must be; or whether strong unity preserves or absorbs persons | Start with the core sections on differentiated unity, subjecthood absorption, crowd modes, and lifted mechanical solidarity. Add *Mythology Construction*, “Cultural interoperability and its breakdown (Babelization),” for effective meta-order thickness, span, shared surface, the cultural-interoperability floor (anti-Babel floor), semantic decoupling, and collective-agency failure. Add *Analogical Models in Culture Mechanics* when the Babel, orchestra, clockwork, or laser mapping helps. |
 | “Quantum Mechanics of Psychology,” “Newtonian psychology,” difficult-to-observe collective effects, weak-field gravity, cultural dormancy or forgetting, affectively dead rules, historical witnesses, sleeping or waking collectives, physical or computing metaphors, random/clockwork/laser crowds, *Pluribus*, the Borg, “Resistance is futile,” or other fictional hive minds, magnetization, domains, remanence, field back-action, the coupling thermostat, braiding, how several analogies fit together, where an analogy breaks down, or a difficult mechanism that would benefit from controlled cross-level comparison | Add *Analogical Models in Culture Mechanics: A Semantic Inventory* and the smallest primary source it identifies. For observability, cultural loss, witness evidence, and activation profiles, pair it with *Epistemic Agency under Mechanical Solidarity*, “Observability, cultural forgetting, and contemporary witnesses” and “Activation profiles and episodic multi-mind-selves.” Use the inventory for mappings and limits, not as a substitute for the construct's definition. |
 | Revolution, political religion, sacred principles, nonlinear public amplification, resonance catastrophe, *Resonanzkatastrophe*, revolutionary overshoot, or why a doctrine first expressed latent aspirations and later programmed a population | Add *Mythology Construction* for pre-articulation genesis, receiver–order mismatch, aspirational authorization, functional remainder, mobilizational absoluteness, and overshoot. Add *Analogical Models in Culture Mechanics*, “Resonance catastrophe (*Resonanzkatastrophe*),” for the six qualifying criteria and comparison with crisis, revolution, effervescence, and media cascade. |
 | Whether a mythology grew “naturally,” was deliberately engineered, or was redirected toward a chosen social outcome; memetic engineering; or why an intended cultural programme produced a different successor | Add *Mythology Construction*, “Pre-articulation genesis and receiver–order mismatch” and “Prospective purposive construction as a trajectory-intervention hypothesis.” Treat endogenous formation as a substantive path, not merely a design baseline; treat purposive construction as an open research possibility, identify any declared destination \(D^*\), and test receiver, institutional, rival, consequence, and reality selection. Add the analogy inventory only for the bounded memetic-engineering comparison. |
+| Whether a doctrine should be judged by its implementations or descendants; Kant–Fichte, Kant–Hegel–Marx, Rousseau and revolutionary centralization; “not real communism”; what offspring reveal; or whether a later movement implicates an earlier thinker | Add *Mythology Construction*, “Doctrinal progeny, generative spirit, and responsibility.” Build an offspring profile and distinguish entailment, authorization or affordance, selection, concealed causal design, and appropriation or inversion. Do not infer guilt, intent, or independent replication from genealogy alone. |
+| An enlightened elite, vanguard, extraordinary legislator, “X-ray vision,” secular gnosis, privileged access to History, Humanity, Science, the People, or a collective's true interest; why rulers experience their own authority as justified; or when expertise becomes domination | Add *Mythology Construction*, “*Herrschaftsideologie*: privileged vision converted into jurisdiction.” Add *Epistemic Agency under Mechanical Solidarity* for privileged authority topology, *Epistemic Constitution* for epistemic sovereignty and closed correction, and *Analogical Models* only when X-ray vision or secular gnosis clarifies the mapping. Preserve the boundary between bounded expertise and the conversion of a knowledge claim into excessive jurisdiction. |
 | Uniforms, veiling, badges, flags, masks, certificates, imposed target marks, prescribed language, slogans, salutes, silence, refusal, loyalty tests, conformity pressure, proselytism, jealousy, enforcement--exclusion, genocidal escalation, moralized exclusion, or why a symbol seems threatening | Core: *Culture Mechanics*, “Culture-mechanical objects, ideological programs, conformity signals, and targeting signals”; add *Epistemic Agency under Mechanical Solidarity* only when field formation or collective agency needs extended treatment; add *Epistemic Constitution of Lifted Mechanical Solidarity* for civic standing, due process, public coercion, denial, or memory control |
 | Public truthfulness, compulsory avowal, organized unreality, institutional memory, or correction | Add *Epistemic Constitution of Lifted Mechanical Solidarity* |
-| Misleading wording, omission, framing, redefinition, diversion, sophistry, dialogue manipulation, or visible cues of goodness or expertise substituting for actual function | Add *Linguistic Tricks: A Semantic Inventory*. Use LT-040 for Wegner's *Wie–Was* diagnostic and preserve the boundary between a fallible proxy and strategically maintained cue–function substitution. |
+| Misleading wording, omission, framing, redefinition, diversion, sophistry, dialogue manipulation, visible cues of goodness or expertise substituting for actual function, or a public doctrine that conceals the affective and institutional machinery expected to implement it | Add *Linguistic Tricks: A Semantic Inventory*. Use LT-040 for Wegner's *Wie–Was* diagnostic and LT-041 for doctrinal causal omission; add *Mythology Construction* for the complete wrapper–payload, offspring-profile, knowledge, foreseeability, and responsibility analysis. Preserve the boundaries between fallible proxy and counterfeit, and between an incomplete account and supported lying by omission. |
 | How a literally defensible or highly compressed message makes an audience reconstruct a misleading factual, causal, moral, or political model; compression/decompression; an anticipated decoder or codebook | Core: *Epistemic Agency under Mechanical Solidarity*, “Audience-modelled reconstruction and decompression.” Add *Linguistic Tricks* for the component operations and *Analogical Models* for the lossy codec mapping. Compare the surface message, omitted structures, assumed recipient, predictable and actual reconstruction, and alternatives. Treat “decoder” as an analogy for ordinary reconstruction plus installed-lens classification, not as another Culture Mechanics processor. |
 | Why people experience a proposal as good or evil; why one mythology seems to protect what matters while another seems hostile; disputes about what an action strengthens, damages, sacrifices, or ignores; mirroring, foregrounding, change framing, ethics as a weapon, or Wegner's *Vierschritt der Kontrolle* | Start with the core section “Relevant structures and moral appraisal.” Add *Mythology Construction*, “Relevant-structure resonance across the three components,” “Mirrored and foregrounded relevance,” and “Relevant-structure weaponization and Wegner's control schema,” as needed. Keep felt relevance, represented effect, actual effect, generative centrality, normative standing, activation, and durable reprogramming separate. |
 | Sublimation as psychological alchemy; cultural work ethic or civilizational character; “Jetzt wird wieder in die Hände gespuckt” versus “Mach mal wieder Pause”; a slogan, song, hero, ritual, or exemplary practice standing for a larger formative machinery; cynical ridicule of effort, restraint, service, or aspiration; cultural de-animation; consumption of inherited cultural capital; or whether counter-mythology is correction or corrosion | Start with *Mythology Construction*, “Sublimation and moral formation,” especially “Cultural sublimation architecture,” “Symbolic condensation and counter-mythological reprogramming,” and “Illustrative carrier contrast: shared work and pause.” Add the core sections “Relevant structures and moral appraisal,” “Programming, activation, and reprogramming,” and “Culture-mechanical objects” for the canonical architecture. Add *Analogical Models* only when Wegner's compression/decompression or sublimation-emblem language improves understanding. Distinguish process, resulting practice, architecture, and carrier; felt relevance from generative centrality; activation from reprogramming; and de-animation from proof of deliberate attack. |

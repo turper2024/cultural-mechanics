@@ -344,6 +344,11 @@ The heuristic contains several increasingly specific phenomena:
 - **Operation:** Repeatedly narrate the opponent as an imminent aggressor so a later ambiguous event is automatically recognized through the prepared script: their act is attack; ours is defense.
 - **Integrity:** TI, II, RI.
 - **Status:** Primarily a downstream cognitive and social effect of repeated AiM, but retained because it explains why the linguistic operation matters over time.
+- **Terminological boundary:** *Script* here means a preactivated interpretive
+  sequence for classifying a later event. It is narrower than the
+  [**situated-cultural-script**](0010-culture-mechanics.semantic-definition.md#situated-cultural-scripts-executable-local-braids)
+  construct, which joins a general cultural weave to distributed roles, routines,
+  interfaces, improvisation, and practical support.
 - **Project provenance:** Source details withheld from this publication.
 
 #### LT-038 — DARVO
@@ -409,6 +414,40 @@ The heuristic contains several increasingly specific phenomena:
   here as a cross-domain diagnostic. It overlaps benevolent-language camouflage,
   ideological symbols, paramorality, and qualified-concept inversion without
   being reducible to any one of them.
+
+#### LT-041 — Doctrinal causal omission
+
+- **Aliases:** semantic-wrapper / operational-payload concealment; undisclosed
+  implementation; CPU–bigOther split address.
+- **Operation:** Present an attractive explicit doctrine to reflective cognition
+  while withholding a material affective, social, or institutional mechanism on
+  which the doctrine's constructor or operator relies to produce its foreseeable
+  practical effect. The hearer is invited to assent to the semantic wrapper
+  without being given the bigOther-facing or institutional payload needed to
+  evaluate the actual programme.
+- **Integrity:** II, SI, MI, LI; sometimes TI.
+- **Diagnostic:** State the public principles, reconstruct the expected recipient
+  classifications and emotions, identify the implementing offices, sanctions,
+  dependencies, and authority relations, then compare those layers with plans,
+  training, audience segmentation, private predictions, and observed descendants.
+  Ask whether disclosure would predictably change reasonable assent.
+- **Responsibility gradient:** intentional concealed construction → knowing
+  omission → reckless omission → negligent blindness → unforeseeable emergence.
+- **Boundary:** No finite doctrine can state every causal consequence, and social
+  effects often emerge without a designer. A wrapper–payload mismatch establishes
+  a question, not a lie. The stronger verdict **doctrinal lying by omission**
+  requires evidence of knowledge or sufficiently culpable foreseeability,
+  materiality, non-disclosure, and reliance on the omitted mechanism.
+- **Related but distinct:** LT-002 concerns selective concealment generally;
+  LT-013 camouflages control in benevolent language; LT-014 sends coded meanings
+  to different audiences; LT-040 substitutes recognition cues for function.
+  LT-041 specifically conceals the causal implementation that joins a public
+  doctrine to its expected cultural and institutional outcome.
+- **Primary semantic home:** [*Mythology Construction*, “Doctrinal progeny,
+  generative spirit, and
+  responsibility”](0040-mythology-construction.semantic-definition.md#doctrinal-progeny-generative-spirit-and-responsibility).
+- **Status:** Project-developed communicative operation extracted from the
+  doctrinal-progeny and concealed-causal-design analysis.
 
 ### E. Agenda, representation, and policy coupling
 
@@ -476,6 +515,15 @@ the inspectable mismatch between cue and function and, when manipulation is
 alleged, the further evidence that the mismatch was strategically produced,
 concealed, or immunized against correction.
 
+### An omitted mechanism is not automatically a lie
+
+Complex doctrines cannot enumerate every psychological, institutional, and
+historical condition of implementation. LT-041 requires a material gap between
+the offered reason for assent and an operational mechanism on which the
+constructor relies. Intentional or knowing concealment, private causal prediction,
+audience engineering, repeated adverse offspring, and refusal to disclose after
+the mechanism becomes visible strengthen the diagnosis. Mere hindsight does not.
+
 ### A fallacy is not automatically a lie
 
 Bad reasoning can arise from haste, ignorance, motivated cognition, or honest confusion. A fallacy therefore becomes a sophism only when its plausibility is used to conceal or exploit the defect in the argument. This inventory classifies communicative operations, not the speaker's inaccessible inner intent. Evidence of a pattern, asymmetrical application, strategic retreat, resistance to correction, or concealed dialogue purpose strengthens an inference of sophistical or otherwise instrumental use.
@@ -509,6 +557,8 @@ The corresponding positive virtues are:
 10. Permit correction without making honest concession socially ruinous.
 11. Test identity-bearing and moral recognition cues against actual function and
     consequences.
+12. Compare CPU-facing principles with the affective and institutional mechanisms
+    expected to implement them.
 
 The inventory's function is thus constitutional and formative: it helps individuals recognize and resist small acts of public untruthfulness, while their repeated resistance changes the public norm that subsequently forms other individuals.
 
@@ -516,7 +566,7 @@ The inventory's function is thus constitutional and formative: it helps individu
 
 This version was produced through structured review of private project source material, vocabulary expansion, contextual reading, synonym normalization, and boundary auditing. Source filenames, links, conversation identifiers, and internal prompt logs are intentionally withheld from this publication.
 
-LT-039 and LT-040 are explicit exceptions to that private discovery route. LT-039 was added from Michael Andrick's book material and linked directly to the underlying publication. LT-040 was added from Dushan Wegner's *Relevante Strukturen* (2019, ISBN 978-3-7394-0563-6), whose *Wie–Was* distinction is retained while the operational test and boundary are project-developed.
+LT-039, LT-040, and LT-041 are explicit exceptions to that private discovery route. LT-039 was added from Michael Andrick's book material and linked directly to the underlying publication. LT-040 was added from Dushan Wegner's *Relevante Strukturen* (2019, ISBN 978-3-7394-0563-6), whose *Wie–Was* distinction is retained while the operational test and boundary are project-developed. LT-041 was developed in this project from the doctrinal-progeny analysis. Its originating contribution supplied the CPU-facing and bigOther-facing contrast; the inventory supplies the normalized operation, responsibility gradient, and evidential boundary.
 
 This is a high-recall working inventory, not a claim of semantic exhaustiveness. The reviewed source collection is large, the same mechanism may have been discussed without any of the recovered names, and several private sources contain long embedded source texts. Future revisions should add newly found mechanisms only after checking whether they are genuinely distinct operations or aliases, combinations, effects, and institutional deployments of types already recorded here.
 

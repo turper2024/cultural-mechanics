@@ -218,6 +218,54 @@ The constitution is installed when people learn not only propositions but sentim
 - whether an accusation demands evidence or immediate alignment;
 - whether an institution's prestige supplements evidence or replaces it.
 
+#### Constitutional scripts: the meta-order made executable
+
+A written rule or verbally shared principle does not by itself make the epistemic
+constitution operative. The lifted generator becomes effective in recurring
+situations through [**situated cultural
+scripts**](0010-culture-mechanics.semantic-definition.md#situated-cultural-scripts-executable-local-braids):
+distributed, role-, institution-, and situation-indexed adapters that translate
+the general meta-order into detailed expectations, procedures, interfaces,
+permissions, and error recovery.
+
+**Constitutional scripts** are the epistemic and civic members of that broader
+class. They specify, for example:
+
+- how a person raises a consequential doubt without surrendering membership;
+- how an expert marks uncertainty and corrects a previous statement;
+- how a whistleblower, editor, auditor, court, laboratory, or public body receives
+  and processes contradictory evidence;
+- how an accused person answers and appeals;
+- how a defeated officeholder concedes, transfers authority and records, enters
+  opposition, and may later return;
+- how an institution preserves an opponent's standing while rejecting the
+  opponent's claim or programme; and
+- how dormant contestability becomes active when a new disagreement or failure
+  appears.
+
+```text
+shared epistemic meta-rules M
++ role or institution R
++ recurrent situation C
++ current evidence and resources K_t
+→ constitutional script S_R(C)
+→ situated conduct, interface, record, and correction
+```
+
+The script is a generated and embodied first-order implementation of the
+meta-order, not the definition of lifting and not a second bigOther. Several
+compatible scripts can assign different tasks to citizens, experts, journalists,
+courts, agencies, parties, and officeholders while the same lifted generator
+governs their standing, jurisdiction, interfaces, succession, and correction.
+
+This distinction makes **nominal** and **operative** constitutional order easier
+to separate. A rule can remain in a statute, manual, or public creed while the
+script for enacting it becomes de-animated, unsupported, contradictory, or
+culturally lost. Conversely, a local script can be defective even where the
+general meta-rule remains sound. Diagnosis must therefore distinguish failure of
+the constitution, failure of its institutional adapter, failure of a particular
+enactment, and absence of material or organizational capacity.
+
 ### 4. The recursive culture-mechanical cycle
 
 The epistemic constitution forms individuals, and individuals reproduce the epistemic constitution. The causal structure is recursive:
@@ -226,6 +274,9 @@ The epistemic constitution forms individuals, and individuals reproduce the epis
 SECOND-ORDER NORMS, INSTITUTIONS, STORIES, AND SANCTIONS
                             ↓
 form expectations, trust, sentiments, and habits in persons
+                            ↓
+CONSTITUTIONAL SCRIPTS TRANSLATE META-RULES INTO
+ROLE-, INSTITUTION-, AND SITUATION-SPECIFIC CONDUCT
                             ↓
 PERSONS SPEAK, WITHHOLD, CHECK, FORWARD, CONFORM, OR DISSENT
                             ↓
@@ -248,6 +299,82 @@ remain admissible, which memories persist, and how correction occurs.
 No conspiracy is required. An epistemic constitution can arise through ordinary socialization, coordination, career incentives, reputational concern, information overload, sincere belief, institutional inertia, and people's reasonable need to rely on others. Deliberate actors can nevertheless exploit the same mechanisms.
 
 This is why small individual acts matter constitutionally. A forwarded claim, concealed doubt, ritual affirmation, honest correction, elementary check, or refusal to repeat a statement can alter the public signal to which others respond.
+
+#### Desire, fantasy, and the formation of epistemic demands
+
+An epistemic constitution governs more than the circulation of propositions. It
+also shapes how open motivation becomes a demand for knowledge, recognition,
+certainty, disclosure, vindication, or correction. [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md#constitutive-lack-as-an-optional-motivational-hypothesis)
+adopts **constitutive lack** as an optional Lacanian motivational hypothesis:
+lack supplies a persistent gradient, **desire** remains open, and **fantasy**
+organizes what becomes desirable and what the subject imagines themselves to be
+for the Other. A mythology may then supply culturally intelligible objects,
+authorities, enemies, identities, and roles through which that fantasy is staged.
+None of these terms replaces the local bigOther, the installed mythological lens,
+or the distributed field.
+
+The epistemic branch occurs when open desire receives an actionable direction:
+
+```text
+optional constitutive lack
+        ↓
+open desire for understanding, recognition, certainty, or significance
+        ↓
+fantasy organizes a desirable object and subject position
+        ↓
+mythology and institutions supply available claims, roles, and authorities
+        ↓
+finite operational demand OR renewable epistemic demand
+```
+
+A **finite operational demand** has an observable satisfaction condition. In
+epistemic life it may ask:
+
+- Did the experiment reproduce?
+- Which causal model predicted the result?
+- Was the quotation authentic and complete?
+- Did the institution meet the declared target?
+- Which stated disagreement did the new evidence resolve?
+
+Completion is allowed to count as completion. The answer may open a later question,
+but the original demand does not need to remain alive to preserve identity,
+belonging, or status. Desire can move toward another problem without representing
+the previous inquiry as a promise of final psychic fullness.
+
+A **renewable epistemic demand** appears answerable while its fantasy,
+institutional incentives, authority relations, or drive circuit prevent evidence
+from terminating it:
+
+```text
+failure to obtain X
+→ obstruction, concealment, or insufficient commitment proves the demand
+
+obtaining X
+→ X was incomplete, compromised, or only one layer of the hidden problem
+→ successor demand
+```
+
+The fantasy can assign the participant a sustaining subject position: the
+persecuted truth-teller, indispensable revealer, uniquely lucid dissident,
+authorized guardian, or injured person whose recognition would indict the whole
+order. Factual correction can then leave the position intact or even confirm it:
+denial by others becomes evidence that the subject is the person they must fear or
+silence.
+
+This is not a constitutional warrant to diagnose or regulate private fantasy.
+The public problem begins when a fantasy-supported demand governs shared
+attention, evidence, authority, accusation, sanction, or jurisdiction while
+remaining insulated from observable completion and correction. A
+reality-anchored constitution therefore asks:
+
+- What exact proposition or demand is publicly at issue?
+- What observation would satisfy, revise, or terminate it?
+- Which identity or role is rewarded by keeping it unresolved?
+- Does contradictory evidence alter the claim, or merely intensify the subject
+  position and enemy explanation?
+- Can the person retain standing if the demand ends, the claim fails, or the
+  institution no longer needs their revelatory role?
 
 ### 5. Epistemic dependence without epistemic surrender
 
@@ -381,6 +508,14 @@ Piety toward the real must be joined to Durkheim's defense of the morally sacred
 
 This prevents truth-seeking from becoming a license for contempt, denunciation, or coercion. Persons do not lose dignity when they are mistaken; propositions do not become true because their proponents possess dignity.
 
+The corresponding Humanity boundary is developed in [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md#humanity-as-standing-horizon-and-sacred-object).
+Every concrete person bears complete standing while realizing only a partial
+selection from the horizon of possible human development. An epistemic
+constitution violates this rule when it agentifies Humanity, grants privileged
+interpreters access to its alleged true interest, and treats present persons as
+material for that abstraction.
+
 An expressive formulation of the same orientation is:
 
 > **Shine the light of objective truth into subjective darkness—without appointing anyone sovereign owner of the light.**
@@ -506,6 +641,62 @@ The institution is deliberately not a centralized public brain:
 
 Distributed judgment can outperform centralized judgment when observers contribute genuinely different information, perspectives, and heuristics. **Lu Hong and Scott Page's** conditional result in [“Groups of Diverse Problem Solvers Can Outperform Groups of High-Ability Problem Solvers”](https://doi.org/10.1073/pnas.0403723101) is a relevant formal antecedent, but it must not be inflated into the claim that every crowd is wise. Diversity, sufficient competence, independence, information access, and correction are enabling conditions. A synchronized crowd can amplify shared error.
 
+#### 11.5 Contestability without permanent contest
+
+The constitutional requirement is **permanent contestability, not permanent
+contest**. An open order must preserve the standing, channels, records, procedures,
+and succession rules through which a consequential challenge can become visible
+and effective. It need not manufacture a challenge when no relevant mismatch or
+unresolved disagreement is presently active.
+
+Contestability is maintained partly as a family of constitutional scripts. The
+scripts for dissent, investigation, appeal, opposition, legitimate loss,
+succession, correction, and return can remain dormant without being absent. They
+remain viable when people know the roles, institutions preserve their capacity,
+interfaces and records remain usable, participants can rehearse or periodically
+exercise them without manufacturing an enemy, and actual activation sometimes
+produces effective correction or succession. A formal procedure whose carriers,
+skills, honour, independence, or material support have disappeared is nominal
+contestability, not standing capacity.
+
+A lifted and corrigible order may converge toward low activated conflict because
+evidence has narrowed disagreement, bounded jurisdictions have separated
+incompatible uses, legitimate procedures have produced accepted decisions, or a
+successful rebraiding has restored a workable shared order. Truth-directed
+convergence is allowed to count as convergence. Low conflict is not by itself
+proof of censorship, preference falsification, or hegemonic foreclosure.
+
+The proposition remains partly open:
+
+> **A strongly lifted and corrigible order is expected to permit low-conflict
+> steady states while keeping correction fully available; whether contestability
+> atrophies unless it is periodically exercised remains an empirical and
+> institutional-design question.**
+
+The relevant distinctions are:
+
+```text
+quiet because correction worked
+≠ quiet because rival signals were suppressed
+
+standing capacity for adversarial correction
+≠ continuous production of adversarial identity
+```
+
+Possible signs of healthy low conflict include independent evidence routes,
+low-cost dissent, successful correction of prestigious actors, genuine electoral
+or institutional succession, and the ability of a new disagreement to obtain a
+public stage. Signs of concealed closure include punishment of test challenges,
+loss of opposition channels, edited memory, authority-gated evidence, and calm
+that depends upon dissenters' silence, exclusion, or exit.
+
+This partly specifies but does not close the atrophy question. Periodic real
+succession, bounded exercises, independent audits, protected test cases,
+professional formation, and remembered precedents may maintain a dormant script
+without continuous antagonistic mobilization. Whether these practices are
+sufficient, and at what interval and scale, remains an empirical and
+institutional-design question.
+
 ### 12. Epistemic stewardship and responsible amplification
 
 The individual-level virtue corresponding to public contestability is **epistemic stewardship**, with **responsible amplification** as its everyday practice. Both expressions are proposed terms in this synthesis.
@@ -630,6 +821,114 @@ The tension space is therefore multidimensional rather than a single scalar scor
 | Membership | Persons retain dignity while claims remain conditional | Belonging, virtue, and factual assent become fused |
 | Everyday participation | Members check, qualify, dissent, and correct | Members forward, conceal, perform, sanction, and normalize the authorized account |
 
+#### Provisional placeholder: a second constitutional orientation
+
+**Status:** Deliberately unresolved placeholder for future theory development. No
+canonical axis name, endpoint names, definition, or scalar measure are adopted
+here.
+
+The reality-anchored--systemic-lying tension asks how a society's authorized
+representations relate to truth, evidence, avowal, and correction. A further
+question concerns **what the shared order organizes motivation to reproduce**.
+Future work should examine a possible constitutional orientation between:
+
+- an order directed toward positive goods that can be created, inhabited,
+  maintained, corrected, completed in finite projects, and transmitted--for
+  example human capability, relationship, truthful understanding, stewardship,
+  habitable institutions, flourishing, and posterity; and
+- an order whose identity and motivational coherence become dependent upon
+  opposition, renewable destabilization, or a constitutive adversary, so that
+  resolution threatens the programme's organizing principle and conflict tends to
+  reproduce itself.
+
+The provisional contrast may eventually be named through **life-drive and
+death-drive**, **human flourishing and constant antagonism**, **positive-good and
+adversary-dependent orientation**, or some better vocabulary. These formulations
+are not yet equivalent. Life-drive and death-drive name motivational and
+repetitive dynamics; flourishing names a substantive outcome; constant antagonism
+names a possible mechanism or system state. Choosing among them requires a later
+semantic and empirical review.
+
+The originating user's observations behind the placeholder are:
+
+> **A common semantic world does not by itself produce motivational alignment,
+> and a shared order can be destroyed through antagonistic over-coupling rather
+> than through Babelization.**
+
+Opposing groups can remain mutually intelligible and intensely responsive while
+organizing themselves around incompatible purposes. Reciprocal observation,
+internal synchronization, threat confirmation, and suppression of internal
+counter-signals may then produce **antagonistic over-coupling**: each camp
+increasingly acts in response to the other until the conflict system, rather than
+either side's original positive purpose, organizes the interaction. The user also
+endorsed the resulting hypothesis that the antagonism may acquire emergent agency
+and increasingly operate both camps. The terms **conflict-being**,
+**antagonistically constituted worldview**, and **Ragnarök trajectory** were
+assistant-proposed descriptions in that discussion and remain candidates rather
+than constructs adopted by this document.
+
+This prospective orientation must remain analytically distinct from the existing
+epistemic tension:
+
+```text
+relation of authorized representation to reality:
+reality-anchored truth-seeking ↔ systemic lying
+
+provisional motivational or telic question:
+positive goods and flourishing ↔ adversary-dependent self-reproduction
+```
+
+The two may interact but should not be collapsed. A conflict system may make
+factually accurate observations about its opponent while organizing those truths
+toward destructive escalation. A systemically lying order may invoke peace,
+stability, or flourishing while disabling reality correction. Truthfulness does
+not by itself specify a worthy purpose, and a professed worthy purpose does not
+establish truthfulness.
+
+Nor does the placeholder classify disagreement, criticism, rivalry, bounded
+agonism, or defensive struggle as pathological. Conflict can protect persons,
+expose error, correct domination, or defend a habitable order. The prospective
+negative pole begins where opposition becomes self-reproducing, lacks a credible
+stopping condition, displaces the goods it originally served, or organizes the
+containing order toward cumulative destruction.
+
+Situated scripts add a possible transition mechanism without resolving the
+orientation. Uneven unraveling of family, occupational, civic, or constitutional
+scripts can generate loss, incompatible improvisation, blame, and rival successor
+projects; antagonism may then be a response to the breakdown rather than its
+original cause. Conversely, an adversary-dependent programme may deliberately
+corrode incumbent scripts or keep contest scripts continuously activated after
+their triggering problem has been resolved. Script viability remains independent
+of telic value: an oppressive or death-driven script can be highly viable, and a
+life-serving script can fail for lack of competence, interface, institution, or
+material support.
+
+Questions reserved for the future development include:
+
+1. Is this one axis, several independent dimensions, or a recurrent dynamical
+   pattern rather than an axis?
+2. What are its proper unit and scale: demand, fantasy, situated script,
+   mythology, institution, epistemic constitution, distributed field, or whole
+   society?
+3. Which positive goods and flourishing criteria can be stated without granting
+   an interpreter epistemic sovereignty over other persons' good?
+4. Which observations distinguish necessary opposition and newly arising real
+   problems from adversary-dependent identity or renewable conflict?
+5. What counts as a genuine stopping condition, completion, reconciliation,
+   maintenance phase, or return to ordinary contestability?
+6. How do constitutive lack, desire, fantasy, finite and renewable demand,
+   jouissance, life-drive, death-drive, *Beseelung*, and institutional incentives
+   contribute without being collapsed into one variable?
+7. When does reciprocal conflict remain ordinary rivalry, when does it become
+   antagonistic over-coupling, and what additional integration would justify
+   describing an emergent conflict-level agent?
+8. How does this prospective orientation interact with cultural
+   interoperability, Babelization, subjecthood absorption, order level,
+   jurisdiction, and corrigibility?
+9. Does observed antagonism cause script unraveling, respond to uneven
+   unraveling, contain successor-script competition, or become a self-sustaining
+   script that outlives the failure that activated it?
+
 ### 16. Reality-anchored, truth-seeking epistemic constitution
 
 **reality-anchored, truth-seeking epistemic constitution** *noun phrase*
@@ -732,6 +1031,17 @@ claim is narrower than an intent attribution: no conscious liar is required at
 every node, and the same communication tools can serve honest compression when
 uncertainty, alternatives, and correction remain available.
 
+Two mythology-construction mechanisms can help close this pipeline. [**Doctrinal
+causal omission**](0030-linguistic-tricks.semantic-inventory.md#lt-041--doctrinal-causal-omission)
+offers reflective cognition an attractive public doctrine while withholding the
+affective and institutional mechanism on which its implementation relies.
+[***Herrschaftsideologie***](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction)
+then converts claimed privileged access to truth, history, morality, or a
+collective's hidden interest into governing jurisdiction. Neither is necessary for
+systemic lying, and legitimate expertise is not thereby condemned. Together they
+identify one route by which an authorized interpreter can make disagreement prove
+the dissenter's incapacity and insulate the operative model from correction.
+
 What makes the constitution systemic-lying is not the falsity of every component. It is the organization of the whole order against independent correction.
 
 ### 18. Intermediate and mixed constitutions
@@ -795,7 +1105,8 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 5. **A lifted constitution shares rules that generate, select, apply, and revise
    concrete answers; it may govern universally while producing bounded
    first-order jurisdictions.**
-6. **Disagreement is information before it is pathology.**
+6. **Disagreement is information before it is pathology; permanent
+   contestability is required, permanent contest is not.**
 7. **Contradiction should be inexpensive; condemnation should require evidence and due process.**
 8. **Publicity should expose opposing propositions, not appoint an official winner.**
 9. **Independent correction routes are constitutional infrastructure.**
@@ -803,6 +1114,8 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 11. **Correction and mind-changing should carry honour rather than shame.**
 12. **Persons deserve unconditional dignity; propositions deserve confidence proportionate to evidence.**
 13. **Reality retains the final right of refusal.**
+14. **A constitutional rule is operative only when viable scripts translate it
+    into role-, institution-, and situation-specific conduct and correction.**
 
 ### 21. Diagnostic questions
 
@@ -812,6 +1125,20 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 - Can an inexpensive direct check defeat an authorized claim?
 - Are identical claims judged differently under friendly and hostile branding?
 - Are important disagreements made visible with their strongest genuine proponents?
+- Is low conflict the result of successful correction and accepted procedure, or
+  of silence, exclusion, exit, memory loss, and rival-signal suppression?
+- Can a new consequential challenge become visible and effective even after a long
+  calm period?
+- Do people and institutions still know how to enact dissent, investigation,
+  appeal, legitimate loss, succession, correction, and return, or do only their
+  written forms survive?
+- Is the observed failure located in the meta-order, a situated constitutional
+  script, a particular enactment, an inter-script interface, or missing practical
+  capacity?
+- Does a public epistemic demand state an observable condition of satisfaction,
+  revision, or termination?
+- Which fantasy-supported subject position or institutional role is rewarded by
+  keeping the demand unresolved?
 - Does a moderator preserve symmetry or issue epistemic verdicts?
 - Are evidence, provenance, uncertainty, predictions, dissent, failures, and corrections preserved?
 - Can institutions admit error without redefining the error or punishing the person who exposed it?
@@ -820,6 +1147,17 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 - Does an anonymous report trigger investigation or function as proof of guilt?
 - Are accusations precise, answerable, appealable, and repairable after error?
 - Does the language of care, safety, justice, science, tradition, or freedom open inquiry or terminate it?
+- Does the public doctrine disclose the affective and institutional mechanism on
+  which its expected implementation depends?
+- Does anyone claim privileged access to a hidden collective interest and convert
+  that claim into jurisdiction over persons who disagree?
+- When a participant says “I have reasoned for myself,” can they identify the
+  verdict's operative rule, affective signature, provenance, framing, and
+  authority—and can evidence or consequence actually change it?
+- Do institutions cultivate auditors of their generators and interpretations, or
+  merely articulate press secretaries for protected conclusions?
+- Does invocation of Humanity protect each concrete person's standing, or create
+  an abstract subject permitted to override it?
 - What observation would make the dominant model lose confidence?
 - Who, if anyone, has been granted practical power to overrule reality?
 - Do participants share concrete rules and answers, or the rules that generate,
@@ -856,6 +1194,11 @@ Reconstruction-pipeline capture:
 > installed decompression → sincere reconstruction and enforcement → alternative
 > models punished**
 
+Privileged-vision closure:
+
+> **claimed hidden truth → authorized interpreter → epistemic asymmetry converted
+> into jurisdiction → disagreement proves incapacity → correction closes**
+
 Individual virtue:
 
 > **verify, qualify, or withhold**
@@ -863,6 +1206,24 @@ Individual virtue:
 Public contestability:
 
 > **the institution detects and stages disagreement; the public judges; reality decides over time**
+
+Motivational branching:
+
+> **open desire + fantasy-supported subject position + cultural and institutional
+> material → finite operational demand answerable to evidence OR renewable
+> epistemic demand protected by repetition, identity, and authority**
+
+Steady-state rule:
+
+> **permanent contestability ≠ permanent contest; low conflict can follow
+> successful correction while the standing capacity to challenge remains**
+
+Constitutional implementation:
+
+> **shared epistemic meta-rules + role/institution/situation → constitutional
+> script → situated conduct, record, and correction; written procedure without
+> viable carriers, interfaces, honour, independence, and support → nominal rather
+> than operative contestability**
 
 Moral rule:
 
@@ -903,6 +1264,7 @@ Ultimate contrast:
 | **Public avowal integrity** | Kuran's preference falsification and Havel's living within the lie | Extends private–public fidelity from preferences and dissident ethics to belief, doubt, uncertainty, and revision across public epistemic life. |
 | **Communicative integrity** | Habermas's communicative action and validity claims; pragma-dialectical critical discussion | Adds explicit reality-answerability and a broader inventory of semantic, contextual, and systemic failure modes. |
 | **Reality correction loop** | Holistic structural realism; fallibilist and scientific model testing | Generalizes model–prediction–surprise–revision beyond formal science to institutions, narratives, policies, and public knowledge. |
+| **Constitutive lack, desire, fantasy, demand, and jouissance** | Lacan's psychoanalytic vocabulary, with Žižek's exposition of fantasy as teaching desire and positioning the subject for others | Applies the optional motivational layer to public inquiry and authority without making lack part of processor architecture, fantasy a synonym for mythology, demand lack-free, jouissance a synonym for *Beseelung*, or private fantasy an object of constitutional rule. The primary cultural operationalization remains in [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#19-psychologically-downhill-and-lacanian-death-drive-mythologies). |
 
 ### 25. Newly proposed terms and formulations
 
@@ -927,6 +1289,14 @@ independent source establishes otherwise:
   Solidarity*](0020-epistemic-agency.semantic-definition.md) and applied at
   constitutional scale here;
 - **disagreement sensor** and **public contestability infrastructure**;
+- **constitutional scripts** as the role-, institution-, and situation-specific
+  implementations through which a lifted epistemic meta-order becomes executable,
+  developed from the coordinated theory's situated-cultural-script construct;
+- **permanent contestability, not permanent contest** as the constitutional
+  steady-state formulation;
+- **finite operational demand** and **renewable epistemic demand**, inherited from
+  and applied with the distinctions in [*Mythology
+  Construction*](0040-mythology-construction.semantic-definition.md#demand-lacanian-source-term-and-operational-distinction);
 - **epistemic stewardship** and **responsible amplification**;
 - **verify, qualify, or withhold** as the stewardship formula;
 - the maxim **no person or institution receives root access to reality**;
@@ -956,6 +1326,18 @@ independent source establishes otherwise:
     produce plural, domain-limited authorities; universal meta-jurisdiction is not
     epistemic sovereignty because no representative may determine what reality is
     permitted to be.
+13. **It does not require continuous adversarial mobilization.** Contestability
+    must remain effective, but truth-directed convergence, accepted decisions, and
+    low-conflict steady states are legitimate possibilities. Whether unused
+    safeguards atrophy is retained as an open empirical and institutional-design
+    question.
+14. **It does not constitutionalize private fantasy.** Fantasy becomes relevant
+    here only when its public enactment organizes claims, attention, accusation,
+    authority, sanction, or jurisdiction against correction.
+15. **It does not identify constitutional text with constitutional operation.**
+    Written principles can survive after their scripts lose carriers, interfaces,
+    honour, independence, or practical support; a defective local script also does
+    not by itself refute the general meta-rule.
 
 ## Final semantic summary
 
@@ -972,19 +1354,46 @@ independent source establishes otherwise:
 - **Jurisdictional form:** the lifted generator can govern universally while constituting, allocating, limiting, coordinating, and governing the succession and correction of first-order outputs and jurisdictions.
 - **Authority boundary:** persons and institutions remain plural and domain-limited beneath the meta-order and receive no root access to reality.
 - **Core-theory interface:** local bigOthers communicate through a shared symbolic protocol and help maintain a mechanical-solidarity field and distributed bigOther; a multi-mind-self is possible but not required.
-- **Implementation:** formal institutions plus distributed cultural programming, incentives, language, habits, reciprocal social enforcement, and field back-action.
+- **Implementation:** formal institutions plus distributed constitutional
+  scripts, cultural programming, incentives, language, habits, reciprocal social
+  enforcement, and field back-action.
+- **Optional motivational interface:** lack can supply an open gradient, desire
+  continuing movement, and fantasy a desirable object and subject position;
+  epistemic institutions then help route that motivation into finite,
+  evidence-answerable demands or renewable, correction-resistant circuits.
+- **Provisional reserved orientation:** future work will ask whether a
+  constitution organizes motivation around positive goods and flourishing or
+  becomes adversary-dependent and reproduces antagonism. Its canonical name,
+  endpoints, dimensionality, scale, and relation to life-drive and death-drive
+  remain deliberately unsettled.
 - **Starting predicament:** unavoidable epistemic dependence.
 - **Positive endpoint:** reality-anchored, truth-seeking epistemic constitution.
 - **Negative endpoint:** systemic-lying epistemic constitution.
 - **Positive central virtue:** piety toward the real.
+- **Humanity boundary:** complete equal standing belongs to concrete persons;
+  human possibility is an open horizon, not a collective agent whose alleged
+  interest appoints interpreters or authorizes sacrifice.
 - **Positive interpersonal condition:** sincere avowal without immunity from correction.
 - **Positive public mechanism:** visible, equal, non-sovereign staging of consequential disagreement.
+- **Steady-state distinction:** permanent contestability, not permanent contest;
+  low activated conflict can be compatible with an open order when correction and
+  succession remain effective.
+- **Dormant contestability:** opposition, appeal, investigation, legitimate-loss,
+  succession, and correction scripts can remain inactive yet viable; written
+  procedures without executable carriers and interfaces are merely nominal.
 - **Positive individual virtue:** epistemic stewardship in amplification.
 - **Central negative recursion:** conformity → apparent consensus → deference → knowledge corruption → deeper conformity.
 - **Reconstruction-pipeline pathology:** systemic lying can govern selection,
   compression, trusted repetition, recipient decompression, and the admissibility
   of alternative reconstructions without requiring a consciously false sentence
   at every node.
+- **Privileged-vision pathway:** doctrinal causal omission can hide the
+  implementation layer while *Herrschaftsideologie* converts claimed superior
+  access into jurisdiction and treats disagreement as evidence of incapacity;
+  neither mechanism is necessary in every systemic-lying order.
 - **Central institutional pathology:** authority-gated belief updating and self-protected correction failure.
+- **Reflective implementation test:** an open constitution cultivates auditors
+  capable of exposing rule, framing, provenance, authority, jurisdiction, and
+  consequence, rather than only press secretaries for protected conclusions.
 - **Micro-level mechanisms:** cross-referenced in [*Linguistic Tricks: A Semantic Inventory*](<0030-linguistic-tricks.semantic-inventory.md>).
 - **Governing question:** Does society's authorization provide corrigible routes toward reality, or does authorization determine what reality is permitted to be?

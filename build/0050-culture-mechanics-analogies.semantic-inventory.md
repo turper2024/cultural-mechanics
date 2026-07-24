@@ -87,6 +87,9 @@ The inventory uses three inclusion levels:
 | Shared symbolic protocol | Network | Lacan's big Other as public symbolic coordination | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Separates the public protocol from each local implementation | Not a complete definition of Lacan's big Other or a literal network standard |
 | Wireless collar, Wi-Fi, and repeaters | Network | Social coupling, unequal gain, and aggregate amplification | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes ordinary transmitters, repeaters, and synchronized crowd gain | Radio range is not social authority, truth, or influence in one scalar |
 | Assembly language, SDK, and operating system | Computing | Cultural formation, reusable operations, and society-wide epistemic meta-order | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) and [*Epistemic Constitution of Lifted Mechanical Solidarity*](0030-epistemic-constitution.semantic-definition.md) | Distinguishes installed state, reusable operations, visible outputs, and governing permissions | People are not passive machines; the constitution is not literal software or a state monopoly |
+| Lifted sublimation generator | Computing and control | Meta-rules selecting binding directions that formative practice turns into character and capability | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#the-lifted-sublimation-generator-pattern) | Separates generator kernel, affective actuation, formative architecture, and correction | An effective generator is not necessarily good, and a maxim does not train a capability by itself |
+| *Leuchtturm* | Navigation | Aspirational exemplar making a valued human possibility visible | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#aspirational-exemplars-and-leuchttürme) | Connects abstract human possibility to aspiration, meaningful difficulty, and practice | A lighthouse neither commands nor propels the ship; excellence confers no general jurisdiction |
+| Press secretary | Institutional role | Reason producing a defensible account of an affectively protected verdict | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#reflective-roles-of-reason-press-secretary-interpreter-and-auditor) | Separates logical presentation from causal provenance and motivates interpretation and audit | Post-hoc origin does not make every reason false; the analogy is not a brain module |
 | Typed reconstruction of “formula” | Relational analysis and computing | A provisional disambiguation of Wegner's unusually broad *Formel* vocabulary | This inventory | Forces a choice among configuration, structure, model, process, symbol, program, and execution before drawing an inference | The reconstruction is the project author's best guess, not evidence of Wegner's intended ontology or a warrant for the full computing-and-identity stack |
 | Lossy codec and decoder-targeted compression | Computing and communication | Audience-modelled reconstruction from finite messages | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#audience-modelled-reconstruction-and-decompression) and this inventory | Makes explicit that a communicator selects content against assumptions about the recipient's stored codebook and likely reconstruction | Compression is unavoidable and not inherently deceptive; the recipient is an interpreting person, not a deterministic decoder |
 | The Quantum Mechanics of Psychology | Physics umbrella | Statistical micro-to-macro cultural mechanics and its observational scale | This inventory and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Connects difficult-to-observe local processing and human capacities with exceptional macroscopic collective order | Relevant science is not uniquely quantum; no literal shared equations |
@@ -104,8 +107,12 @@ The inventory uses three inclusion levels:
 | Coupling thermostat | Engineering | Calibration of common orientation and independence | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Frames collective design as task-sensitive regulation | A research programme, not an established social control device |
 | Positive feedback, noise, and rival signals | Physics-to-social translation | Formation of order and protection or suppression of competing inputs | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Separates random-noise reduction from rival-signal and counter-program suppression | A counter-narrative is not analytically noise merely because an incumbent opposes it |
 | Mythological braid | Craft | One operative weave made from compatible strands | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Explains durability, redundancy, unbraiding, and replacement | Not cultural purity, painless replacement, or several operative bigOthers |
+| Situated cultural script and script unraveling | Narrative, programming, and organizational transition | A role-, institution-, or situation-indexed executable local braid and the possible loss of its meaning-side and practical-side viability | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md#situated-cultural-scripts-executable-local-braids) | Supplies the missing level between a general cultural weave and concrete enactment and clarifies local repair, cross-script cascade, and cultural unbraiding | A script is not a private plan, a second bigOther, the whole mythology, or an empty slot when it fails |
 | Tangled cables and spaghetti code | Computing/craft | Uninspectable or incompletely replaced programming | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Makes transitional contradiction and difficult revision visible | Complexity alone is not pathology or proof of several operative bigOthers |
 | Apologetic maintenance and polemical unbraiding | Craft | Defense, attack, repair, and replacement of an operative braid | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Links construction and destruction across successor formation | Apologetics is not automatically truthful and polemics is not automatically emancipatory |
+| Doctrine as parent and progeny | Genealogical | Recurring descendants as evidence about a doctrine's generative spirit | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#doctrinal-progeny-generative-spirit-and-responsibility) | Directs attention from literal propositions and preferred examples to a distribution of actual successors | Descendants do not automatically convict ancestors; relation and case independence must be established |
+| X-ray vision | Optical | Claimed privileged access to hidden truth or collective interest | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction) and this inventory | Makes the epistemic asymmetry in a *Herrschaftsideologie* immediately visible | Superior perception may be real and does not itself confer governing jurisdiction |
+| Secular gnosis | Religious analogy | Hidden, rank-conferring knowledge available to an enlightened minority | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction) and this inventory | Shows how claimed knowledge can classify rulers and ruled as different epistemic ranks | Not a historical classification of Gnostic religions or proof that the knowledge claim is false |
 
 ## 3. Computing and network models
 
@@ -1508,6 +1515,7 @@ of persons.
 | Hardware/software fit | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | The same imported operation may function differently under different dispositions and installed state | Genetic incapacity or deterministic population essence is not established |
 | Cynicism as corrosive acid | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Polemics can dissolve trust faster than a successor order can form | Criticism or skepticism is not inherently corrosive |
 | Collective process as compound interest | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Small reality-coupled practices can accumulate while dramatic mythology wins immediate attention | Social change does not follow a fixed financial growth law |
+| Counterfactual unit test and label-invariance | [*Epistemic Agency under Mechanical Solidarity*, “Impersonal universality against private interest”](0020-epistemic-agency.semantic-definition.md#impersonal-universality-against-private-interest) | Exchanging personal labels or occupied positions while preserving relevant structure can expose a rule whose justification covertly depends on “because it is me or mine” | Passing the test does not establish truth, goodness, person-preservation, empirical feasibility, or actual consequences; persons and situations are not literally software variables |
 
 ## 7. Relationships among the models
 
@@ -1594,16 +1602,90 @@ pathway toward the second or third, not a definition of them.
 
 ### 7.2 Cross-theory mappings and interpretive bridges
 
-The following panels are included because comparisons with Julian Jaynes and
-Joscha Bach clarify relations among homo duplex, bigOther-presence, *Beseelung*,
-distributed enactment, multi-mind-self agency, and fusion, while Dushan Wegner
-clarifies relevant structures, compression, recognition cues, and moral
-mobilization. **These source theories are neighbouring theories, not analogies.**
+The following panels are included because Kant's inner tribunal clarifies the
+local phenomenology of an internally rooted authority encountered as another,
+Julian Jaynes and Joscha Bach clarify relations among command-like local presence,
+*Beseelung*, distributed enactment, multi-mind-self agency, and fusion, Dushan
+Wegner clarifies relevant structures, compression, recognition cues, and moral
+mobilization, and Torfing's Laclau--Mouffe reconstruction clarifies articulation,
+hegemony, antagonism, agonism, and the boundary between discursive construction
+and executable cultural order. **These source theories are neighbouring theories,
+not analogies.**
 They therefore do not appear as primary entries in the master analogy map. Their
 presence here records a controlled mapping across models, with the same usefulness
 and non-inference discipline applied to the analogies proper.
 
-### 7.3 Jaynes: bicameral mentality as a possible limit regime
+### 7.3 Kant: inner tribunal and doubled personality
+
+In [*The Metaphysics of Morals*, AA
+6:438](https://korpora.org/kant/aa06/438.html) and [AA
+6:439](https://www.korpora.org/Kant/aa06/439.html), Immanuel Kant describes
+conscience as an **inner court** (*innerer Gerichtshof*). A person finds themselves
+observed by an **inner judge**, held in respect joined with fear, and followed by
+an authority that was not arbitrarily invented **“like his shadow.”** Although the
+business is the human being's business with themselves, reason requires it to be
+conducted **“as at the command of another person.”**
+
+Kant explicitly names **“Die zwiefache Persönlichkeit”** and **“dieses doppelte
+Selbst”**--the doubled personality and double self. The courtroom differentiates
+accuser, accused, counsel, and judge. Kant identifies accuser and accused as the
+same human being *numero idem* while distinguishing their practical capacities.
+As the subject of freedom-grounded moral legislation, the person is considered as
+*homo noumenon* and as another relative to the rational sensible human
+being--*specie diversus*, but only in a practical respect. The judge's authority
+culminates in an unconditional *iubeo* or *veto*.
+
+Kant's wider affective description reinforces the comparison. In the [*Critique
+of Practical Reason*, AA 5:73](https://korpora.org/kant/aa05/073.html), moral law
+strikes down and humiliates self-conceit while becoming an object of the greatest
+respect. At [AA 5:80](https://korpora.org/kant/aa05/080.html), its voice makes
+even the boldest transgressor tremble; free submission under a constraint imposed
+by one's own reason brings both displeasure and elevation. Kant's own account
+therefore joins internal authority, other-like confrontation, command, fear-like
+respect, humiliation, and elevation without treating the authority as external
+social coercion.
+
+| Kantian formulation | Culture Mechanics mapping | Important boundary |
+|---|---|---|
+| **Inner court with accuser, accused, counsel, and judge** | A moral verdict can be lived as a structured encounter among functionally different positions within one person | Practical positions are not empirical processors or multiple local bigOthers |
+| **Observed, threatened, and held in respect joined with fear** | Affective classification can make authority present and conduct-directing | Kant derives the feeling from practical reason rather than a socially programmed lens |
+| **Authority not arbitrarily made and following like a shadow** | Installed authority may feel incorporated or discovered rather than voluntarily invented | Kant calls conscience an original moral predisposition; he does not offer the Culture Mechanics formation mechanism |
+| **Business with oneself conducted as at the command of another person** | Moral authority may be encountered in the second-person form of bigOther-as-Thou | Kant's represented other may be actual or ideal and belongs to his practical-rational account, not the local bigOther |
+| **Doubled personality / double self** | An independent description of functional non-unitarity relevant to homo duplex | Not clinical dissociation and not an identity with the main-CPU/local-bigOther architecture |
+| ***Homo noumenon* versus the rational sensible human being** | Distinguishes an authorizing position from the person subject to inclination, affect, and consequence | Neither side maps one-to-one onto the local bigOther or main CPU |
+| **Terrible voice and unconditional *iubeo* or *veto*** | Moral authority can become agentified, command-like, and phenomenologically inescapable | The ordinary local bigOther need not speak or become a personified judge |
+
+The explanatory contrast is decisive:
+
+| Account | Explanation of the inner moral authority |
+|---|---|
+| **Kant** | Autonomous practical reason represents an ideal moral judge and legislates universally binding law |
+| **Durkheim** | Society's sacred moral ideal confronts the individual through collective beliefs and sentiments |
+| **Culture Mechanics hypothesis** | The local bigOther executes a socially installed moral lens and can present its authority as an observing and judging Thou; a live collective field may amplify it |
+
+The compact interpretation is:
+
+> **Kant's *zwiefache Persönlichkeit* independently describes a moral
+> phenomenology in which one numerically identical person occupies distinct
+> practical positions and an internally rooted authority confronts the sensible
+> person as an observing, judging other. Culture Mechanics maps that target onto
+> homo duplex and bigOther-presence while retaining a rival explanation: Kant
+> locates the authority in autonomous practical reason; Culture Mechanics
+> hypothesizes a culturally programmed local bigOther.**
+
+**Licensed inference:** Kant supplies independent philosophical language for the
+phenomenology that a non-unitary cultural architecture would need to explain:
+internal otherness, observation, judgment, affective constraint, command, and
+simultaneous ownership and submission.
+
+**Unlicensed inference:** The comparison does not turn *homo noumenon* into the
+local bigOther, the sensible person into the main CPU, conscience into a clinical
+split personality, or Kant into a theorist of social programming. It does not
+validate the Culture Mechanics architecture, establish that moral law is merely
+collective pressure, or show that an inner judge is a distributed bigOther or
+multi-mind-self.
+
+### 7.4 Jaynes: bicameral mentality as a possible limit regime
 
 [Julian Jaynes](https://www.julianjaynes.org/book/ooc/en/the-bicameral-mind/)
 hypothesized a mentality in which what later people experience as volition could
@@ -1644,7 +1726,7 @@ records auditory experience, ordinary deliberation expressed through religious
 convention, ritual language, literary technique, political legitimation, or a
 mixture.
 
-### 7.4 Bach: gods and top-level agents implemented across minds
+### 7.5 Bach: gods and top-level agents implemented across minds
 
 Joscha Bach's 2023 talk [“Synthetic
 Sentience”](https://media.ccc.de/v/37c3-12167-synthetic_sentience) supplies the
@@ -1686,12 +1768,14 @@ the organized relation actually remembers, judges, owns, and acts. It can remain
 differentiated. It becomes fused when the collective god displaces persons as
 independently legitimate authors.
 
-### 7.5 The Jaynes--Bach--Culture Mechanics bridge
+### 7.6 The Kant--Jaynes--Bach--Culture Mechanics bridge
 
-The three accounts illuminate different levels of one possible process:
+The neighbouring accounts illuminate different dimensions. They do not form a
+necessary developmental or historical ladder:
 
 | Level | Principal contribution |
 |---|---|
+| **Kant** | How can an inner moral authority belong to the person yet confront the sensible person as an observing and commanding other? |
 | **Jaynes** | How might a culturally generated command be experienced locally as the voice and will of a god? |
 | **Bach** | How might the same god-agent be implemented across several people as a multi-mind-self? |
 | **Culture Mechanics** | What functional architecture might connect mythological programming, local experience, reciprocal enactment, distributed agency, and possible fusion? |
@@ -1730,16 +1814,20 @@ temporal, or jurisdictionally bounded. The name of the represented collective
 subject—God, Nation, History, Class, Party, Humanity, or Collective—does not alter
 the structural test for fusion.
 
-**Licensed inference:** Jaynes and Bach can generate hypotheses about agentified
-cultural programming, distributed enactment, episodic activation, and the relation
-between local experience and collective agency.
+**Licensed inference:** Kant, Jaynes, and Bach expose different explanatory
+targets: ordinary moral otherness within one person, strongly agentified local
+command, and distributed agent implementation. Their conjunction can generate
+hypotheses about bigOther-presence, agentified cultural programming, distributed
+enactment, episodic activation, and the relation between local experience and
+collective agency.
 
 **Unlicensed inference:** The family resemblance does not validate the
-local-bigOther architecture, prove Jaynes's history of consciousness, establish
-that theological beings are human artifacts, or show that every religion, ritual,
+local-bigOther architecture, identify Kant's practical distinctions with empirical
+processors, prove Jaynes's history of consciousness, establish that theological
+beings are human artifacts, or show that every conscience, religion, ritual,
 shared intention, or synchronized group forms a multi-mind-self.
 
-### 7.6 Wegner: relevant structures, compression, moral mobilization, and political authorization
+### 7.7 Wegner: relevant structures, compression, moral mobilization, and political authorization
 
 Dushan Wegner's *Relevante Strukturen* (2019; ISBN 9783739405636) and the official
 page for [*Talking
@@ -1828,6 +1916,778 @@ not make the symbolic carrier identical with sublimation or its architecture,
 prove that a changed prestige environment is the primary intrapersonal target,
 or establish a deliberate cultural attacker from observed de-animation.
 
+### 7.8 X-ray vision and secular gnosis
+
+**Status:** Originating project analogies
+**Primary semantic home:** [*Mythology Construction*, “*Herrschaftsideologie*:
+privileged vision converted into
+jurisdiction”](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction)
+
+Three images organize the doctrinal-progeny and *Herrschaftsideologie* analysis.
+They describe different parts of the mechanism and must not be collapsed.
+
+| Image | Mapping | Useful inference | Unlicensed inference |
+|---|---|---|---|
+| **Doctrine as parent; implementations as progeny** | A doctrine combines with receivers, interpreters, institutions, power, rivals, and conditions to generate a distribution of descendants | Look beyond literal propositions and the author's preferred child; classify the causal relation and the offspring profile | Intellectual descent is not biological inheritance; one bad descendant does not establish entailment, intent, or guilt |
+| **X-ray vision** | The privileged interpreter claims to perceive a hidden truth, necessity, or collective interest through surfaces opaque to ordinary persons | Makes visible the move by which disagreement becomes evidence that the dissenter cannot see the real situation | Claimed or actual expertise is not proof of deception, and seeing more does not by itself authorize rule over another person |
+| **Secular gnosis** | Possession of hidden knowledge divides an enlightened minority from ordinary receivers and gives the knowledge rank-conferring significance | Shows how an epistemic distinction can become an identity, office, succession rule, and self-legitimating ruling mythology | The analogy does not classify ancient or modern Gnostic religions, establish historical descent from them, or show that every esoteric body of knowledge is political domination |
+
+The project-developed causal bridge is:
+
+```text
+doctrine presented to reflective cognition
+                    +
+hidden-interest mythology received by the bigOther
+                    ↓
+privileged interpreter appears able to see through ordinary appearances
+                    ↓
+epistemic asymmetry becomes rank asymmetry
+                    ↓
+rank asymmetry becomes governing jurisdiction
+                    ↓
+institutions reproduce the interpreter position
+                    ↓
+descendants disclose the doctrine's offspring profile
+```
+
+**Licensed inference:** These analogies warrant an audit of the omitted
+implementation layer, the independence and distribution of descendants, the
+evidence for privileged access, the step from knowledge to jurisdiction, and the
+institutions that protect or correct the interpreter. They also keep two claims
+separate: an authority may know more within one domain, yet possess no general
+right to determine another person's interests, speech, property, conscience, or
+political standing.
+
+**Unlicensed inference:** The images do not prove conscious hypocrisy, falsity of
+the doctrine, monocausal intellectual descent, or an inevitable authoritarian
+outcome. They do not turn every hierarchy, office, teacher, scientist, physician,
+or elected representative into a *Herrschaftsideologe*. The diagnostic requires
+the conversion of claimed privileged access into excessive governing jurisdiction
+and a corresponding weakening of contestability, correction, refusal, or exit.
+
+### 7.9 Generator, *Leuchtturm*, and press secretary
+
+**Status:** Three project analogies organized as one formative-and-reflective
+sequence; the press-secretary comparison has explicit neighbouring prior art in
+Jonathan Haidt.
+**Primary semantic homes:** [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md#the-lifted-sublimation-generator-pattern)
+for the generator and *Leuchtturm*; [*Epistemic Agency under Mechanical
+Solidarity*](0020-epistemic-agency.semantic-definition.md#reflective-roles-of-reason-press-secretary-interpreter-and-auditor)
+for the reflective roles.
+
+The three images answer different questions:
+
+| Image | Source-domain feature | Culture-mechanical mapping |
+|---|---|---|
+| **Generator** | A rule or mechanism produces outputs from inputs and can be placed inside a feedback loop | Installed meta-rules combine with knowledge and situation to produce binding directions; actuation and formative practice turn directions into durable sublimations |
+| **Selection kernel, hard constraints, and value function** | A system proposes or selects outputs, excludes infeasible ones, and evaluates remaining results against a destination or criterion | Separates the rule that generates direction, person-protecting limits, and the standard by which outputs and consequences are judged; Kantian and Randian configurations fill these positions differently |
+| **Feedback** | Observed error or consequence is returned to the process and can alter later output | Evidence, criticism, failed consequence, and affected persons can correct inputs, applications, interpreters, jurisdiction, or the installed generator |
+| ***Leuchtturm*** | A distant light makes a direction or hazard visible without moving the vessel | An aspirational exemplar makes a valued human possibility visible without choosing the recipient's life or acquiring authority over it |
+| ***Star Trek*-like civilizational beacon** | Several represented lives, institutions, technologies, conflicts, and practices make a possible world visible together | A civilizational *Leuchtturm* presents one possible constellation of developed human capabilities and sublimated drives rather than one exemplary individual |
+| **Press secretary** | A spokesperson assembles and presents reasons for an administration's already adopted position | Reflective cognition may articulate and defend a bigOther verdict without discovering its true causal provenance or testing it |
+
+Together they expose a complete design problem:
+
+```text
+generator selects a binding direction
+                ↓
+Leuchtturm makes a possible excellence imaginable
+                ↓
+practice converts aspiration and rule into capability
+                ↓
+reason explains the resulting judgment and conduct
+                ↓
+press secretary? → interpreter? → auditor?
+                ↓
+retain, correct, unbraid, or rebraid the generator
+```
+
+**Licensed inference:** A culture needs more than abstract maxims. It needs
+actuation, visible possibilities, attainable practices, and a correction route.
+Conversely, sophisticated reasons after the fact do not show that the main
+processor authored or audited the operative rule. The three images help ask where
+binding force, orientation, formation, and correction actually reside.
+
+**Unlicensed inference:** A human generator is not a deterministic function; the
+same inputs need not produce the same output, and successful formation does not
+establish moral goodness. *Leuchttürme* do not define one mandatory human ideal,
+grade the standing of persons, propel recipients, or confer jurisdiction on the
+exemplar. A *Star Trek*-like world is neither a policy blueprint nor evidence that
+its fictional institutions are feasible. A press-secretary sequence does not show
+that the supplied reasons are false, consciously deceptive, or causally
+irrelevant.
+
+The neighbouring source boundaries matter. Kant supplies one powerful
+generator configuration and treats examples as encouragement rather than sources
+of moral law. Rand's fictional heroes deliberately embody a rival life-oriented
+configuration. Role-model and possible-selves research supplies partial evidence
+for the proposed exemplar pathway. Haidt directly uses press-secretary language
+for moral reasoning, while Gazzaniga's interpreter supplies a related
+explanation-producing model. None of those sources proposes this combined
+Culture Mechanics sequence.
+
+### 7.10 Torfing, Laclau, and Mouffe: articulation, hegemony, and executable cultural order
+
+**Status:** Controlled neighbouring-theory mapping, not an analogy and not an
+adoption of the complete political or social ontology.
+
+**Primary semantic homes:** [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md#12-topoi-plot-and-articulation)
+for articulation, mythology, desire, fantasy, demand, drive, replacement, and
+Babelization; [*Epistemic Constitution of Lifted Mechanical
+Solidarity*](0030-epistemic-constitution.semantic-definition.md) for truth,
+contestability, correction, standing, and succession; [*Culture
+Mechanics*](0010-culture-mechanics.semantic-definition.md) for the local
+bigOther, *Beseelung*, full slot occupancy, and the distributed bigOther.
+
+#### Exact external target
+
+This panel concerns principally [Jacob Torfing's reconstruction of Laclau and
+Mouffe](https://www.cambridge.org/core/product/identifier/CBO9780511818059A018/type/book_part),
+[Ernesto Laclau and Chantal Mouffe's *Hegemony and Socialist
+Strategy*](https://www.versobooks.com/en-gb/products/1158-hegemony-and-socialist-strategy),
+and [Chantal Mouffe's agonistic democratic
+theory](https://www.documenta-platform6.de/wp-content/uploads/mouffe_for-an-agonistic-public-sphere.pdf).
+It does not define capitalized “Discourse Theory” in general. Discourse analysis,
+linguistics, Foucauldian genealogy, critical discourse analysis, deliberative
+theory, and other traditions require separate mappings.
+
+The compact division of labour is:
+
+> **Torfing's Laclau--Mouffe reconstruction supplies a grammar of how a
+> cultural-political world is articulated. Culture Mechanics proposes how an
+> articulation becomes installed, affectively executable, distributed, embodied,
+> and corrigible or closed.**
+
+This is a comparison, not validation. Culture Mechanics' additional processor,
+single-slot, and emergent-field claims carry their own empirical burden.
+
+#### Functional mapping
+
+| Discourse-theoretical term | Culture Mechanics mapping | Important boundary |
+|---|---|---|
+| **Discourse** | The broad operative configuration of symbolic protocol, mythologies, lens mappings, roles, practices, institutions, and distributed field | One discourse category compresses several typed Culture Mechanics components and relations |
+| **Articulation** | Braiding elements so their relations alter their operative meaning | Braiding adds installation, compatibility, execution, reinforcement, and replacement claims not entailed by articulation |
+| **Logic of equivalence** | Heterogeneous grievances or identities connected through a common story, opponent, or coordinating token | Equivalence is a discursive relation, not proof that the resulting weave is compatible, true, or beneficial |
+| **Logic of difference** | Demands or identities kept distinct within a wider order | It is not identical to lifted solidarity, bounded jurisdiction, or division of labour |
+| **Nodal point** | Load-bearing signifier around which a wider field is organized | Culture Mechanics separately asks how the field was installed and activated |
+| **Empty or partly empty signifier** | Underdetermined common token coordinating heterogeneous demands | Emptiness coordinates by leaving content open; it is not the same function as a master signifier activating an installed package, although one token may do both |
+| **Sedimentation** | Programming, habitual default, institutional embodiment, forgotten genesis, and possible remanence | The mapping does not make all installation merely linguistic or all historical forgetting pathological |
+| **Hegemony** | Dominant cultural operation supported by compatible local weaves, institutions, public signals, and field back-action | Hegemony names dominance; the distributed bigOther is a more specific proposed implementation and collective ontology |
+| **Dislocation** | Failure of an incumbent representation, possible receiver–order mismatch, credibility loss, and unbraiding | Receiver–order mismatch can precede articulation and arise from morphology, institutions, practice, dispositions, or material consequence; not every mismatch is a discursive event |
+| **Subject position and identification** | Identity and role offers that become affectively installed and enacted | Several identities can be compatible constituents of one weave; identification does not establish several governing local bigOthers |
+| **Constitutive lack and desire** | Optional persistent motivational gradient and open movement that culture can direct | Lack is not processor duality, slot occupancy, or a constitutive Culture Mechanics commitment |
+| **Fantasy** | Desire-organizing and subject-positioning schema to which mythology may supply cultural objects, roles, and stories | Fantasy is not mythology as a whole and can be private or idiosyncratic |
+| **Jouissance** | Excessive or paradoxical satisfaction returned by a repetitive circuit | Jouissance is not *Beseelung*; it may reinforce a beseelt programme without constituting its affective animation |
+| **Antagonism** | Enemy construction, jealous programming, targeting, and incompatible hegemonic projects | Every operative weave has boundaries, but Culture Mechanics does not make a threatening enemy constitutive of all solidarity |
+| **Agonism** | Person-preserving political contest under shared standing, procedure, succession, and corrigibility | Agonism is one possible political performance of lifted solidarity above the anti-Babel floor, not the definition of lifting |
+
+The strongest overlap is therefore:
+
+```text
+floating elements, identities, demands, and signifiers
+                         ↓
+              articulation / braiding
+                         ↓
+nodal or empty signifier + causal story + identity and role offers
+                         ↓
+              operative mythological weave
+                         ↓
+programming + fantasy-supported investment + Beseelung
+                         ↓
+local classification + public signals + institutional embodiment
+                         ↓
+mechanical-solidarity field / distributed bigOther
+                         ↓
+                   hegemonic order
+```
+
+The arrows describe a combined research model, not a claim that either source
+theory already contains the complete sequence.
+
+#### Non-equivalences and genuine disagreements
+
+The panel preserves the following hard boundaries:
+
+```text
+Lacan's big Other                  ≠ Culture Mechanics local bigOther
+Lacanian Real                      ≠ mind-independent empirical reality
+constitutive lack                  ≠ processor duality or single-slot occupancy
+incomplete discursive closure      ≠ absence of complete slot occupancy
+multiple social identifications    ≠ several independently final bigOthers
+fantasy                            ≠ mythology as a whole
+jouissance                         ≠ Beseelung
+agonism                            ≠ lifted solidarity
+hegemony                           ≠ distributed-bigOther mechanism
+```
+
+Four disagreements remain especially important:
+
+1. **Truth.** The Torfing reconstruction treats truth criteria as internal to
+   historically contingent vocabularies and regimes while accepting that matter
+   exists. Culture Mechanics accepts mediated access but reserves
+   mind-independent reality's right to defeat every authorized representation.
+2. **Antagonistic necessity.** Laclau and Mouffe give exclusion, the constitutive
+   outside, or ineradicable antagonistic potential a foundational role. Culture
+   Mechanics treats enemy construction as frequent and powerful but retains
+   common work, affection, stewardship, truth-seeking, and shared answer-generating
+   rules as possible enemy-independent solidarity mechanisms.
+3. **Universality.** Discourse theory treats universal representation as a
+   contingent hegemonic filling by a particular content. Culture Mechanics allows
+   fallibly interpreted but genuinely binding universal meta-rules governing
+   standing, jurisdiction, due process, succession, and correction.
+4. **Method.** Discourse theory principally reconstructs contextual formation and
+   meaning. Culture Mechanics deliberately adds proposed reusable mechanisms,
+   boundary conditions, and falsifiers. The extra specificity is an explanatory
+   wager, not an achieved proof.
+
+Two apparent contradictions are rejected. Full slot occupancy does not claim that
+all meaning is finally closed, and compatible multiple identities do not violate
+single-slot exclusivity.
+
+#### Lacanian and non-Lacanian layers
+
+The overlap should not be explained entirely through Lacan. The split subject,
+constitutive lack, fantasy, jouissance, the Real, and parts of signifier theory
+form the clearest Lacanian layer. Hegemony is principally Gramscian;
+articulation, equivalence and difference, anti-essentialism, sedimentation, and
+radical-democratic strategy combine post-Marxist, structuralist,
+post-structuralist, and political sources.
+
+Culture Mechanics prefers Lacanian vocabulary when it supplies an adequate
+individual-psychology term, while preserving other schools where they add value
+or Lacanian vocabulary is inadequate. This vocabulary preference does not make
+the local bigOther Lacan's construct or allow Lacanian ontology to overwrite the
+framework's Durkheimian, organizational, realist, and project-developed
+components.
+
+#### Agonism, interoperability, and steady state
+
+Mouffe defines democratic **adversaries** as opponents who share allegiance to
+liberty and equality for all while contesting their meaning and attempting to make
+their own interpretation hegemonic. They seek political defeat of the rival
+project while retaining the rival's right to organize and struggle. Her
+institutions are supposed to transform potential enemy-antagonism into
+adversarial agonism.
+
+A useful three-way exposition can be reconstructed from Mouffe's explicit
+contrasts. It is not a claim that she presents a formally named three-member
+taxonomy:
+
+| Relation | Standing of the other | Object and aim of contest |
+|---|---|---|
+| **Enemy--antagonism** | The other appears as an illegitimate threat rather than an opponent entitled to remain in the shared political association. | Neutralize, exclude, suppress, or eradicate the threatening subject or its effective political presence. |
+| **Competitor--liberal competition** | The other is a legitimate contender for positions within the prevailing hegemony. | Dislodge current officeholders and occupy their place without challenging the dominant power relations and political grammar. |
+| **Adversary--agonism** | The other is a legitimate opponent advancing a rival hegemonic project. | Defeat the project politically while preserving the opponent's right to organize, contest, lose, and possibly return. |
+
+The adversary is therefore more than a competitor: the conflict concerns rival
+interpretations of the democratic order, not merely who administers an otherwise
+settled order. The common structure is often called **conflictual consensus**:
+consensus on democratic institutions and the ethico-political values of liberty
+and equality for all, together with legitimate continuing conflict over their
+meaning, implementation, and hegemonic articulation.
+
+```text
+shared democratic association and meta-rules
++ rival interpretations and first-order projects
+→ conflictual consensus among adversaries
+```
+
+The consensus is second-order rather than agreement on one substantive programme.
+It remains conflictual because opponents seek political victory for incompatible
+projects; it remains a consensus because neither side denies the other's civic
+standing or the binding force of the common democratic procedures. This
+distinction explicates Mouffe's model; it does not yet establish the Culture
+Mechanics claim that conflict must remain actively exercised in a healthy steady
+state.
+
+The Culture Mechanics translation is:
+
+```text
+operative shared democratic meta-order
++ equal civic standing
++ legitimate opposition, loss, appeal, and succession
++ rival first-order political programmes
+→ agonistic interoperability above the anti-Babel floor
+```
+
+Agonism and Babelization remain distinct. Antagonists can understand one another
+and use common institutions while treating one another as enemies. Conversely,
+groups can lose common meanings, trusted authorities, procedures, and
+coordination without active enmity. They can nevertheless form a feedback loop:
+
+```text
+semantic and procedural decoupling
+→ mistrust and failed coordination
+→ enemy construction
+→ rejection of common institutions
+→ greater decoupling
+↺
+```
+
+Culture Mechanics does not adopt permanent activated conflict as the democratic
+steady state:
+
+> **A healthy steady state requires permanent contestability, not permanent
+> contest.**
+
+A reality-corrigible lifted order may converge toward low conflict because
+evidence narrowed a dispute, jurisdictions separated incompatible uses,
+procedures produced accepted decisions, or a successor weave achieved genuine
+integration. Whether unused contestability atrophies remains an open empirical
+and institutional-design question.
+
+The [Rao script panel below](#711-venkatesh-rao-situated-scripts-unraveling-and-cultural-transition)
+adds the missing implementation level. Conflictual consensus is the general
+democratic braid, while opposition, legitimate loss, succession, correction, and
+return require viable role- and institution-specific agonistic scripts. Such
+scripts may remain dormant without continuous conflict, but written procedures
+alone do not show that their carriers, interfaces, competence, independence, and
+support remain available.
+
+#### State-conditional use of agonism
+
+The following is a Culture Mechanics orientation matrix derived from the
+comparison, not a four-part model stated by Mouffe and not an automatic
+intervention algorithm:
+
+| Initial condition | Culture Mechanics diagnosis | Appropriate orientation | Principal danger |
+|---|---|---|---|
+| **Genuinely harmonious, life-serving, and corrigible order** | Real convergence above the anti-Babel floor | Preserve effective contestability; do not manufacture conflict | Treating calm itself as evidence of repression |
+| **Apparent harmony concealing burdens, exclusion, or preference falsification** | Public consensus may misrepresent private judgment or externalized harm | Make the mismatch articulable and investigate it through bounded contest | Mistaking conformity for convergence, or assuming in advance that every consensus is false |
+| **Active antagonism above the anti-Babel floor** | Opponents retain enough common language and institutional recognition to remain in one political field | Transform enemies into adversaries; preserve standing, bounded means, legitimate loss, and succession | First-order recapture by either camp |
+| **Babelization below the anti-Babel floor** | Common meanings, procedures, jurisdictions, or conditions of legitimate loss no longer operate across groups | Repair translation, equal standing, procedure, and shared meta-rules before intensifying struggle | Additional mobilization accelerating fragmentation |
+
+Actual societies can combine these conditions across institutions, regions,
+questions, or populations. The matrix therefore begins an inquiry; it does not
+authorize an operator to classify a society by fiat. In particular, a declaration
+of genuine harmony must remain answerable to independent evidence, costs borne by
+outsiders and future persons, low-cost dissent, exit, correction, and succession.
+
+#### Suppression is a branching process
+
+Low visible conflict is underdetermined. Suppressing or losing rival signals
+initially increases incumbent signal dominance and can produce actual as well as
+apparent synchronization, but it does not select one necessary successor:
+
+```text
+rival signals are suppressed or disappear
+                  ↓
+incumbent dominance and apparent consensus rise
+                  ↓
+  ├── compatible programming spreads
+  │      → durable genuine convergence
+  │
+  ├── sincere synchronization + closed correction
+  │      → genuinely believed systemic-lying order
+  │
+  ├── public conformity hides incompatible private judgment
+  │      → hidden fragility and possible sudden cascade
+  │
+  ├── dissenters are excluded, exit, or lose institutional access
+  │      → a quieter but narrowed field, not demonstrated conversion
+  │
+  ├── rival carriers, memory, symbols, or refuges survive
+  │   + receiver–order mismatch + trigger
+  │      → reactivation and counter-synchronization
+  │
+  └── changed conditions create a new receiver–order mismatch
+         → articulation of a genuinely new rival programme
+```
+
+These outcomes may coexist in different parts of the population. They describe
+causal possibilities, not moral endorsements. Genuine convergence can have a
+coercive or deceptive history, while a genuinely believed consensus can remain
+closed against reality. Conversely, later conflict caused by changed conditions
+is not the return of an earlier suppressed conflict.
+
+Mouffe's displacement-and-return hypothesis is therefore one conditional branch,
+not a universal Culture Mechanics law. Destructive return through a surviving
+counter-programme requires such conditions as viable carriers, accumulated
+receiver–order mismatch, institutional refuge, a trigger, and available
+synchronization channels.
+
+#### Counter-hegemonic operation and doctrinal responsibility
+
+The originating adversarial interpretation is intentionally sharp:
+
+> **Agonistic-democratic language can operate as a semantic wrapper for
+> counter-hegemonic unbraiding and rebraiding: normalize confrontation, corrode
+> the incumbent consensus, construct a rival “we,” defeat the incumbent, and
+> install a successor.**
+
+Mouffe openly advocates much of this operation: she rejects post-political
+consensus, wants differentiated alternatives and mobilized passions, and treats
+politics as struggle among hegemonic projects. The supported claim is therefore
+not initially that she hid a takeover plan. It is that her CPU-facing defence of
+pluralism accompanies a culturally executable strategy for frontier construction,
+affective mobilization, incumbent unbraiding, and successor hegemony.
+
+The [doctrinal-progeny
+test](0040-mythology-construction.semantic-definition.md#doctrinal-progeny-generative-spirit-and-responsibility)
+does not allow the doctrine to disown foreseeable descendants merely because
+inherited constitutional institutions supplied safeguards that the theory left
+under-specified. Mouffe makes institutions responsible for transforming
+antagonism into agonism. The recurrent absence of a detailed account of internal
+dissent, opposition access, leadership replacement, effective succession, and
+post-victory restraint is therefore part of her theory's responsibility and
+offspring profile, not an external detail for which the theory bears no burden.
+[Stefan Wallaschek](https://doi.org/10.3224/zpth.v8i1.01) identifies this
+institutional gap, and [Vincent
+August](https://doi.org/10.1177/14748851221120120) argues that Mouffe's account
+under-specifies both conflict dynamics and the institutions needed to realize
+agonism.
+
+Responsibility must still be typed:
+
+1. **Entailment:** agonism does not logically require abolishing opponents; it
+   explicitly rejects that result.
+2. **Authorization or affordance:** it legitimates frontier construction,
+   passionate identification, counter-hegemonic mobilization, and political defeat.
+3. **Selection:** movements rewarded for message discipline, sharp frontiers, and
+   internal cohesion may outcompete movements that preserve extensive internal
+   contest.
+4. **Concealed causal design:** a knowing temporary use of pluralist language
+   requires evidence of asymmetric intent and material non-disclosure.
+5. **Appropriation or inversion:** descendants may retain “agonism” while
+   classifying their own effective opponents as enemies of democracy.
+
+The central failure mode is **first-order recapture**:
+
+```text
+meta-rule: rival democratic interpretations retain legitimate standing
+                         ↓
+our counter-hegemonic project becomes strongly beseelt
+                         ↓
+our present interpretation becomes identified with democracy itself
+                         ↓
+their opposition becomes anti-democratic
+                         ↓
+binding force migrates from reciprocal contestability to our current project
+```
+
+The post-victory test asks whether a movement protects effective opposition,
+internal dissent, equal standing, real succession, and its own possible defeat
+after acquiring power. If it does not, the theory's pluralist wrapper did not
+remain binding in implementation, regardless of whether the failure was intended,
+selected, negligent, or appropriative.
+
+#### Illustrative offspring profile
+
+The following cases are illustrations inside the comparison, not a separate
+empirical project and not a clean causal experiment. Influence, institutional
+power, internal organization, behaviour in office, and conduct after defeat must
+be assessed separately.
+
+| Case | Relation and observation | Provisional Culture Mechanics reading |
+|---|---|---|
+| **Podemos** | Mouffe described her and Laclau's ideas as an important reference and praised Podemos's construction of a people/caste frontier and struggle for hegemony. Research on candidate selection and organization found centralized personalization and strong leader control. Podemos later participated as a junior governing partner, while competitive election and succession remained intact. | Counter-hegemonic articulation and activation succeeded more clearly than durable successor rebraiding. Internal agonistic pluralism was limited; external constitutional containment persisted. The case does not test unconstrained Podemos rule. |
+| **La France insoumise** | The movement became a major oppositional force without obtaining national executive control. Ethnographic research describes a light but centralized structure and weak participant influence over central strategy. | Its own organization is the first polity over which it exercises substantial control: external agonistic conflict can coexist with internal cohesion and restricted contest. This does not establish what it would do after national victory. |
+| **SYRIZA** | Mouffe described a looser Essex-School connection with the Greek left. A review of its 2015--2019 government found further institutionalization within Greek democracy, respect for democratic rules, and ordinary electoral defeat, while its anti-austerity programme was heavily constrained and reversed. | Counterexample to any entailment from Mouffean influence to abolished succession. It also shows that capture of government is not capture of the wider institutional and economic environment; the successor hegemony was not installed. |
+
+Sources for the illustration include [Mouffe's 2015 discussion of Podemos and the
+Greek left](https://elpais.com/politica/2015/04/17/actualidad/1429290307_967426.html),
+[Caiani, Padoan, and Marino on Podemos's organizational
+centralization](https://doi.org/10.1017/gov.2021.9), the
+[OSCE/ODIHR report on Spain's 2023 parliamentary
+election](https://odihr.osce.org/odihr/elections/spain/563361), [Manuel
+Cervera-Marzal's ethnographic study of La France
+insoumise](https://doi.org/10.3917/pox.138.0045), and
+[Lorencka and Aravantinou Leonidi on SYRIZA in
+power](https://doi.org/10.31261/polpre.2019.24.5-26). These studies do not isolate
+Mouffe's causal contribution from national institutions, movement ecology,
+leadership, coalition constraints, economic pressure, or prior political
+traditions.
+
+The provisional offspring verdict is:
+
+> **Direct and related descendants have operationalized counter-hegemonic
+> articulation more clearly than reciprocal agonistic institution-building.
+> Where succession remained intact, inherited constitutional rules, coalition
+> constraints, and limited power supplied part of the containment. Successful
+> stage-two rebraiding followed by an unconstrained post-victory test has not been
+> observed in these cases.**
+
+#### Licensed and unlicensed inferences
+
+**Licensed inferences:**
+
+- Discourse theory can improve Culture Mechanics' grammar of articulation,
+  equivalence, empty signification, sedimentation, dislocation, identification,
+  and hegemonic frontier formation.
+- Culture Mechanics can ask additional questions about installation, activation,
+  *Beseelung*, compatibility, field back-action, replacement, jurisdiction, and
+  correction.
+- Mouffe's agonism clarifies the distinction between defeating a project and
+  abolishing the opponent's standing.
+- The offspring and wrapper–implementation audits may test whether reciprocal
+  contestability survives internal organization and victory.
+- A common enemy is a powerful solidarity mechanism whose necessity can be tested
+  rather than assumed.
+
+**Unlicensed inferences:**
+
+- Similar vocabulary does not validate the local bigOther, single-slot
+  exclusivity, or distributed-field mechanism.
+- Hegemonic dominance does not prove a multi-mind-self, fusion, or systemic lying.
+- The Lacanian Real does not establish mind-independent empirical realism.
+- Multiple identities do not by themselves refute one operative weave.
+- Centralized movement organization does not prove concealed design, future
+  dictatorship, or direct causation by Mouffe.
+- Surviving democratic succession under inherited constraints does not prove that
+  a movement would preserve effective opposition after unconstrained victory.
+- Low conflict does not prove either democratic health or suppressed antagonism.
+
+#### Comparative tests and open questions
+
+1. Can highly beseelt solidarity persist across generations without a threatening
+   Other doing load-bearing identity work?
+2. When rival signals decline, which observations distinguish genuine convergence,
+   private dissent, exclusion, dormancy, and latent counter-programming?
+3. Do Mouffe-influenced organizations protect internal factions, leadership
+   succession, and dissent with the same symmetry demanded for external
+   adversaries?
+4. After acquiring office, do they preserve opponents' access, standing,
+   organization, memory, and possible return to power?
+5. After a grievance is corrected, does conflict subside or does the culture
+   construct a new frontier in order to remain affectively alive?
+6. Do empty signifiers coordinate new constituencies without prior programming,
+   or do they principally activate compatible installed classifications?
+7. Does a dislocation begin with representational failure, receiver–order
+   mismatch, material consequence, institutional contradiction, or some
+   interaction among them?
+8. Can a public order exercise contestability often enough to prevent atrophy
+   without making continuous adversarial mobilization its purpose?
+
+### 7.11 Venkatesh Rao: situated scripts, unraveling, and cultural transition
+
+**Status:** Controlled neighbouring-concept mapping and hypothesis source, not an
+adoption of the essay's complete ontology or empirical claims.
+
+**Primary semantic homes:** [*Culture
+Mechanics*](0010-culture-mechanics.semantic-definition.md#situated-cultural-scripts-executable-local-braids)
+for the situated-cultural-script definition, script viability, and cross-script
+cascade; [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md#51-mythological-replacement-braiding-apologetics-and-polemics)
+for braid replacement, bridge scripts, embodiment, and transition responsibility;
+and [*Epistemic Constitution of Lifted Mechanical
+Solidarity*](0030-epistemic-constitution.semantic-definition.md#constitutional-scripts-the-meta-order-made-executable)
+for constitutional scripts and dormant contestability.
+
+#### Exact external target
+
+This panel concerns Venkatesh Rao's 2013 essay [“On the Unraveling of
+Scripts”](https://ribbonfarm.com/2013/06/06/on-the-unraveling-of-scripts/).
+Rao defines a script as learned patterns of behaviour that reliably supply both
+psychological meaning and material sustenance. A script cues much more action than
+it explicitly specifies by calling culturally available habits, recipes, and
+routines; most scripts mix prior specification with improvisation.
+
+Rao's **unraveling** is the feedback process by which loss of meaning weakens
+motivation, loss of sustenance weakens practical viability, and each loss can
+accelerate the other toward scriptlessness. He distinguishes failure that is
+absolute in the available environment from failure that is irreversible only
+relative to the incumbent script. An alternative idea can sometimes reveal a
+different use of surviving psychological and material resources. He further
+argues that successor construction feeds upon materials released by the old
+script, usually proceeds more slowly than destruction, and becomes heterogeneous
+and turbulent when scripts unravel across a population.
+
+The essay supplies a compact conceptual model and vivid examples, not a validated
+general law or comparative causal study. Its claims about rates, irreversibility,
+collective violence, and historical cases remain hypotheses requiring independent
+evidence.
+
+#### Culture Mechanics translation
+
+The central translation is:
+
+> **A script is a situated, higher-resolution braid through which a more general
+> culture becomes executable for a recurrent role, institution, relationship, or
+> situation.**
+
+```text
+operative cultural braid
+general meanings, values, identities, and authorities
+                         ↓ contextual specification
+situated cultural script
+local roles, cues, routines, permissions, interfaces,
+improvisation, error recovery, and practical support
+                         ↓
+concrete enactment and consequence
+                         ↺
+reinforcement, repair, replacement, or unraveling
+```
+
+The script is narrower in social scope than the general cultural braid but richer
+in local detail. It can nevertheless be larger than an individual because many
+persons, offices, artifacts, procedures, relationships, and resource flows carry
+it. A railway-worker script, for example, can bind broad meanings of work,
+service, punctuality, competence, authority, and responsibility to occupational
+identity, formal procedure, tacit workaround, colleague expectation, escalation
+route, infrastructure, status, livelihood, and professional pride.
+
+| Rao's vocabulary or claim | Culture Mechanics translation | Boundary |
+|---|---|---|
+| **Script** | Situated cultural script: a distributed role-, institution-, or situation-indexed executable local braid | Not a private biography, the whole cultural weave, a mythological lens, or another processor |
+| **Meaning** | May involve mythology, identity and role offers, fantasy-supported investment, local-bigOther classification, and *Beseelung* | These remain distinct variables; meaning is not a synonym for any one of them |
+| **Sustenance** | Practical, relational, institutional, and material support required for enactment and continuation | Practical success does not establish truth, legitimacy, flourishing, or positive drive direction |
+| **Specification plus improvisation** | Learned expected conduct plus context-sensitive execution, repair, refusal, and adaptation | A script constrains without mechanically determining conduct |
+| **Unraveling** | Loss of script coherence or viability through interacting meaning-side, enactment-side, interface, institutional, and resource failures | Not automatically cultural unbraiding, Babelization, antagonism, or justified replacement |
+| **Scriptlessness** | Absence of a viable action repertoire within the relevant domain | Not an empty PCI slot; the one local-bigOther slot remains fully occupied |
+| **Idea or seed behaviour** | Articulation, prototype, role offer, or practice capable of initiating script repair or successor construction | An idea does not install itself or replace missing skill, infrastructure, legitimacy, and support |
+| **Cannibalization** | Preservation and rebinding of surviving symbols, skills, institutions, relationships, routines, and material resources | Destruction is not always necessary, deliberate, violent, or morally justified |
+| **Relative irreversibility** | A possibility excluded by the incumbent script but reachable through another interpretation, role, or practical arrangement using substantially surviving resources | Reclassification cannot reverse every real loss |
+| **Absolute irreversibility** | A material, relational, biological, temporal, or institutional loss that no available reinterpretation can repair | Reality retains the right to defeat every symbolic solution |
+| **Collective unraveling** | Uneven script failure, incompatible improvisation, cross-script cascades, and possible field or institutional destabilization | Does not by itself establish enemy construction, Babelization, a multi-mind-self, or one society-wide collapse |
+
+#### Script unraveling and cultural unbraiding
+
+The similar craft verbs must not collapse the two processes. **Unbraiding**
+loosens the general weave's load-bearing meanings, classifications, and authority
+relations. **Script unraveling** disables a more situated adapter between that
+weave and recurrent practice. Either process can begin first:
+
+```text
+polemical or experiential cultural unbraiding
+→ inherited meanings and authorities cease orienting dependent scripts
+→ possible widespread script unraveling
+
+material, institutional, or interface failure in a load-bearing script
+→ enactment no longer confirms inherited meanings
+→ confidence and authority weaken
+→ possible cultural unbraiding
+```
+
+Four outcomes must be distinguished:
+
+1. A peripheral script is repaired without cultural reprogramming.
+2. One script is replaced by another compatible with the incumbent general braid.
+3. Several mutually dependent scripts fail and form a cross-script cascade that
+   begins to unbraid the wider order.
+4. The governing braid is directly unbraided and a successor must generate a new
+   family of viable scripts.
+
+The distinction adds a **load-bearing-script question** to replacement analysis:
+how far do other scripts and the wider culture depend upon this script's
+successful enactment and visible confirmation? Family formation, productive work,
+public truth-testing, lawful succession, or another highly connected script
+family may transmit failure more widely than a peripheral routine, but the
+classification and propagation path require evidence.
+
+Rao's construction--destruction asymmetry strengthens the existing liminal-bridge
+warning. Destroying confidence and participation can proceed faster than people
+can learn a successor's roles, interfaces, skills, institutions, and error
+recovery. The unraveling incumbent may also consume the attention, relationships,
+competence, and reserves needed for reconstruction. A responsible successor
+project therefore maps not only recoverable symbolic strands but viable
+**bridge scripts** that preserve necessary conduct and support during transition.
+
+#### Agonism as a constitutional script family
+
+The mapping sharpens rather than replaces the preceding Mouffe panel.
+**Conflictual consensus** describes the general democratic or constitutional
+braid: common association, standing, institutions, and ethico-political values
+combined with rival interpretations. **Agonistic scripts** are its situated
+implementations:
+
+- how opponents organize and campaign without losing civic standing;
+- how officials, courts, journalists, civil servants, and police distinguish
+  opposition from enmity or insurrection;
+- how a defeated government concedes and transfers authority and records;
+- how supporters accept loss without treating it as cultural annihilation;
+- how a former governing project enters opposition and can legitimately return;
+  and
+- how adversaries cooperate in domains outside the active dispute.
+
+Institutions transform potential antagonism into agonism only insofar as these
+scripts possess credible carriers, interfaces, skills, records, independence,
+honour, material support, and correction. Written democratic principles can
+remain nominally shared after their practical scripts have de-animated or become
+culturally lost.
+
+This also gives “permanent contestability, not permanent contest” an implementation
+path. Contestation scripts can remain dormant but viable. Periodic succession,
+bounded exercises, independent audits, protected test cases, professional
+formation, and remembered precedents may preserve them without constructing a
+continuous enemy. Whether these mechanisms are sufficient remains open.
+
+The state-conditional model gains an orthogonal question:
+
+| Conflict condition | Script condition | Possible diagnosis |
+|---|---|---|
+| Low activated conflict | Viable shared and constitutional scripts | Possible genuine harmony with standing contestability |
+| Low activated conflict | Scripts quietly unraveling or confined to nominal form | Latent, atomized, externalized, or suppressed breakdown |
+| Bounded active conflict | Viable agonistic scripts | Rival projects contest within one operative political field |
+| Active conflict | Cross-script cascade and failing constitutional interfaces | Antagonistic transition that may outrun successor construction |
+
+Script viability does not replace the anti-Babel floor. A shared script can fail
+while all sides retain common meanings and procedures; locally viable scripts can
+also flourish while their intergroup interfaces fall below the floor.
+
+The counter-hegemonic audit becomes correspondingly more precise. A movement may
+attack the incumbent's general braid, destabilize particular scripts that
+reproduce it, or exploit script failure that began independently. Evidence must
+distinguish those pathways. Agonistic language can supply a legitimate container
+for an already necessary transition, or function as a wrapper for deliberate
+corrosion that destroys incumbent scripts before viable successors exist. The
+doctrinal and post-victory burden includes responsibility for that timing,
+transition capacity, and the scripts made possible after victory.
+
+#### Licensed and unlicensed inferences
+
+**Licensed inferences:**
+
+- The script supplies a missing level between general culture and concrete action.
+- A local institutional failure need not establish failure of the general
+  cultural braid.
+- Material and symbolic failure can reinforce one another without either being
+  universally first.
+- Script repair, compatible script replacement, cultural unbraiding, and
+  governing successor installation are different interventions.
+- Widespread conflict may be caused or intensified by uneven script unraveling
+  rather than expressing an ineradicable need for permanent antagonism.
+- A lifted meta-order requires executable constitutional scripts, not only verbal
+  allegiance to abstract rules.
+
+**Unlicensed inferences:**
+
+- A working script is not necessarily truthful, life-serving, legitimate,
+  person-preserving, or corrigible.
+- A failing script does not prove that the whole culture should be destroyed.
+- Meaning loss is not automatically loss of *Beseelung*, fantasy, identity, or
+  slot occupancy.
+- Material hardship does not by itself prove mythological failure or deliberate
+  unbraiding.
+- Similar software language does not make Rao's high-level-script analogy and the
+  Culture Mechanics assembly-language analogy one literal computational stack.
+- Collective unraveling does not by itself establish antagonism, Babelization,
+  fusion, or collective agency.
+
+#### Comparative tests and open questions
+
+1. Does loss of script meaning predict later participation and support failure
+   after prior material conditions are controlled, and does material failure
+   predict later meaning loss?
+2. Which observations distinguish defective script, defective enactment,
+   resource failure, inter-script interface failure, and governing-braid failure?
+3. Can an alternative script restore viable action while material resources
+   remain substantially unchanged, supporting a script-relative rather than
+   absolute irreversibility diagnosis?
+4. Which scripts are load-bearing, and does their failure predict cross-domain
+   cascades better than failure of peripheral scripts?
+5. Do preserved bridge scripts reduce the depth, duration, violence, or
+   third-party capture risk of a cultural transition?
+6. Can dormant contestability scripts be activated effectively after long calm
+   periods, and which maintenance practices prevent their de-animation or loss?
+7. In observed political conflict, did antagonism precede script failure, follow
+   uneven unraveling, contain successor competition, or become a self-sustaining
+   script after the initial problem changed?
+8. After victory, does a counter-hegemonic movement install viable scripts for
+   internal dissent, legitimate opposition, loss, succession, and its own
+   possible return to minority status?
+
 ## 8. Boundary conditions and counterexamples
 
 1. **Reflexive nodes:** People can understand, resist, exploit, imitate, conceal,
@@ -1862,9 +2722,10 @@ or establish a deliberate cultural attacker from observed de-animation.
 11. **Activation is not identity:** Similar peak states do not prove that the same
     collective self persists between them. Records, roles, property, ritual,
     recognized succession, and reactivation paths carry the identity burden.
-12. **A theoretical neighbour is not an analogy or validation:** Jaynes and Bach
-    can clarify local and distributed enactment while their own ontologies,
-    evidence, and historical claims remain independently assessable.
+12. **A theoretical neighbour is not an analogy or validation:** Kant, Jaynes,
+    Bach, Wegner, Torfing, Laclau, and Mouffe can clarify selected targets while
+    their own ontologies, evidence, historical claims, and normative programmes
+    remain independently assessable.
 13. **Strong binding is not fusion or agency:** A molecular-style relation can
     constrain members without displacing all personal standing and can remain
     below the multi-mind-self threshold.
@@ -1887,6 +2748,15 @@ or establish a deliberate cultural attacker from observed de-animation.
     reconstruction of *Formel* and the Culture Mechanics mechanisms built from
     Wegner's observations remain project proposals unless the source explicitly
     supplies them.
+19. **Genealogy is not verdict:** A descendant can be entailed, afforded,
+    selected, concealed in design, or appropriated in inversion. The parent–progeny
+    image does not select among those relations.
+20. **Vision is not jurisdiction:** Genuine superior knowledge can justify
+    deference within a bounded task. It does not confer authority over every
+    purpose, person, institution, or correction route.
+21. **Secular gnosis is a controlled analogy:** It maps hidden, rank-conferring
+    knowledge and an enlightened minority; it is not a historical claim about
+    Gnosticism or a partisan synonym.
 
 ## 9. Open questions and research programme
 
@@ -1907,6 +2777,10 @@ or establish a deliberate cultural attacker from observed de-animation.
 - Can agentified Beseelung, bigOther-as-Thou, distributed enactment, and authorial
   displacement be operationally distinguished rather than inferred from the same
   religious or political language?
+- Can Kant's accuser, accused, counsel, judge, other-person representation, and
+  doubled personality be operationally separated as aspects of conscience, and do
+  they predict anything beyond unitary moral cognition, metacognition, role-taking,
+  or learned self-monitoring?
 - When does bounded laser synchronization remain person-preserving, and which
   observable jurisdictional changes mark its generalization into fusion pressure?
 - Does cultural interoperability vary approximately with effective shared
@@ -1940,6 +2814,19 @@ or establish a deliberate cultural attacker from observed de-animation.
 - When does subjective relief mediate acceptance of a compressed,
   authority-endorsed formula, and when does good compression instead improve
   independent checking?
+- Do descendant distributions remain distinctive after controlling for shared
+  institutional templates, geopolitical pressures, selection bias, and the
+  ordinary effects of acquiring power?
+- Can democratic contestability remain effective during long periods of low
+  conflict, and which exercises or institutions prevent atrophy without making
+  permanent adversarial mobilization the public purpose?
+- Do movements formed through Mouffean counter-hegemonic strategy preserve
+  internal dissent, reciprocal opposition, genuine succession, and their own
+  possible defeat after obtaining the powers needed to suppress them?
+- Which evidence distinguishes real bounded expertise from an X-ray-vision claim
+  that converts inaccessible knowledge into unbounded jurisdiction?
+- Does privileged-knowledge language predict interpreter insulation, dissent
+  pathologization, material privilege, and closed failure explanations?
 - Which analogies improve prediction and diagnosis beyond ordinary prose, and
   which remain mnemonic illustrations only?
 
@@ -1975,6 +2862,19 @@ or establish a deliberate cultural attacker from observed de-animation.
   fictional total-fusion endpoints. They do not supply empirical evidence or the
   culture-mechanical mapping from generalized and jurisdictionalized alignment to
   subjecthood absorption.
+- **Immanuel Kant's** [*Metaphysics of Morals*, AA
+  6:438](https://korpora.org/kant/aa06/438.html) and [AA
+  6:439](https://www.korpora.org/Kant/aa06/439.html) supply the inner court,
+  observing judge, other-person representation, *zwiefache Persönlichkeit*,
+  *doppeltes Selbst*, *homo noumenon*, and unconditional *iubeo* or *veto*. His
+  [*Critique of Practical Reason*, AA
+  5:73](https://korpora.org/kant/aa05/073.html) and [AA
+  5:80](https://korpora.org/kant/aa05/080.html) supply the related affective
+  language of humiliation, respect, constraint, trembling, and elevation. The
+  mapping to homo duplex and bigOther-presence is the present project's
+  comparison; Kant attributes the authority to autonomous practical reason and
+  does not propose the Culture Mechanics processor, social-field explanation, or
+  collective-agent threshold.
 - **Joscha Bach's** [“Synthetic
   Sentience”](https://media.ccc.de/v/37c3-12167-synthetic_sentience) supplies the
   term *multi-mind-self* and a neighbouring distributed-agent account. **Julian
@@ -1995,13 +2895,41 @@ or establish a deliberate cultural attacker from observed de-animation.
   and opposition. The typed *Formel* reconstruction, named hypotheses,
   authorization-bid translation, audits, Culture Mechanics architecture, and
   cross-theory synthesis are project developments.
+- **Jacob Torfing's reconstruction of Ernesto Laclau and Chantal Mouffe** supplies
+  the neighbouring discourse-theoretical grammar of articulation, equivalence
+  and difference, nodal and empty signification, sedimentation, hegemony,
+  dislocation, identification, antagonism, and agonism. Mouffe supplies the
+  democratic-adversary model, its explicit contrast with the liberal competitor,
+  conflictual consensus, and the proposed transformation of antagonism into
+  agonism. The mappings to braiding, executable order, Babelization,
+  contestability without permanent contest, first-order recapture, and the
+  post-victory and offspring tests are Culture Mechanics developments. Lacanian
+  lack, desire, fantasy, and jouissance retain their external source meanings and
+  do not redefine processor duality, mythology, *Beseelung*, or slot occupancy.
+- **Venkatesh Rao's** [“On the Unraveling of
+  Scripts”](https://ribbonfarm.com/2013/06/06/on-the-unraveling-of-scripts/)
+  supplies the neighbouring definition of learned scripts, their joint provision
+  of meaning and material sustenance, the feedback model of unraveling,
+  script-relative and absolute irreversibility, seed ideas, reuse of materials
+  released by an incumbent, construction--destruction timing asymmetry, and
+  uneven collective unraveling. The originating user supplies the interpretation
+  of a script as a more detailed, distributed braid and adapter between general
+  culture and “how things work for people like us here,” together with the
+  individualism--humanism abstraction comparison and the *Bahner* illustration.
+  The situated-cultural-script definition, script hierarchy, load-bearingness,
+  cross-script cascade, bridge-script, constitutional-script, single-slot
+  boundary, and Mouffe mapping are developments of the present synthesis.
 - **The present project and originating user** supply the Quantum Mechanics of
   Psychology umbrella, local-bigOther physical mappings, laser/clockwork
   correspondence, the *Pluribus*--Borg architecture/program comparison, detailed
   ferromagnetic topology, Bavaria–Swabia example, coupling thermostat, sleeping--
   waking collective-state mapping, one-slot computing family, molecular-compound
   mapping, resonance-catastrophe definition, lossy codec and decoder-targeted
-  compression analogy, and the cross-model synthesis.
+  compression analogy, the doctrine-as-parent/progeny, X-ray-vision, and
+  secular-gnosis analogies, the counterfactual-unit-test and label-invariance
+  comparison, and the cross-model synthesis. The word
+  *Herrschaftsideologie* predates the project; the narrow privileged-vision
+  mapping is the originating project's use.
 
 ### Memetic engineering as a neighbouring control aspiration
 
@@ -2085,6 +3013,11 @@ what survives.
 - **Computing family:** CPU/co-processor, one PCI slot, shared protocol, repeaters,
   assembly language, and operating system illuminate different levels of the
   architecture.
+- **Formation-and-audit family:** The generator maps binding output production,
+  the *Leuchtturm* maps aspirational orientation, and the press secretary maps
+  possible post-hoc defence. Together they require separate tests of actuation,
+  practice, normative valence, exemplar jurisdiction, causal provenance, and
+  genuine correction.
 - **Communication-codec model:** finite messages are selected against an
   anticipated recipient codebook and yield reconstructed factual, causal, moral,
   and authorization models; compression is unavoidable and an adversarial
@@ -2093,11 +3026,18 @@ what survives.
   additional Culture Mechanics processor.
 - **Replacement family:** Braiding explains durability, polemics unbraiding,
   apologetics maintenance, and successor rebraiding.
-- **Jaynes--Bach bridge:** Jaynes maps a possible local experience of divine
-  command; Bach maps distributed god-agent implementation; Culture Mechanics joins
-  these to agentified Beseelung, bigOther-as-Thou, distributed enactment,
-  collective-agent thresholds, and fusion while retaining strict source and
-  metaphysical boundaries.
+- **Doctrinal-progeny family:** The parent/progeny image directs attention to a
+  distribution of descendants; X-ray vision makes claimed privileged perception
+  vivid; secular gnosis maps the conversion of hidden knowledge into epistemic
+  rank. None of the three proves entailment, falsity, intent, or legitimate
+  jurisdiction.
+- **Kant--Jaynes--Bach bridge:** Kant independently describes ordinary moral
+  otherness within one person, Jaynes maps a possible local experience of divine
+  command, and Bach maps distributed god-agent implementation. Culture Mechanics
+  joins these explanatory targets to homo duplex, agentified Beseelung,
+  bigOther-as-Thou, distributed enactment, collective-agent thresholds, and fusion
+  while retaining strict source, ontological, historical, and metaphysical
+  boundaries.
 - **Wegner bridge:** relevant structures, change, compression/decompression,
   Wie–Was recognition, mirroring, foregrounding, moral weaponization, and
   cognitive relief provide several source-language views of mechanisms; the
@@ -2108,6 +3048,23 @@ what survives.
   activation, reinforcement, and possible reprogramming of the mythological lens.
   The Culture Mechanics translations remain typed, bounded, testable, and
   distinct from Wegner's unclear *Formel* ontology and unsupported extensions.
+- **Discourse-theory bridge:** Torfing, Laclau, and Mouffe clarify articulation,
+  hegemonic frontier formation, constitutive lack, desire, fantasy, jouissance,
+  the enemy--competitor--adversary distinction, conflictual consensus,
+  antagonism, and agonism. Culture Mechanics adds a proposed account of
+  installation and execution, distinguishes Babelization from enmity, requires
+  permanent contestability rather than permanent contest, treats agonism as a
+  condition-dependent intervention, models rival-signal suppression as a
+  branching process, and applies doctrinal responsibility and post-victory tests
+  to Mouffean offspring without treating the illustrative movement cases as a
+  causal experiment.
+- **Rao script bridge:** A situated cultural script is a distributed,
+  higher-resolution adapter between a general cultural braid and recurrent local
+  enactment. Rao's meaning--sustenance feedback helps distinguish script repair,
+  compatible script replacement, cross-script cascade, and cultural unbraiding;
+  agonistic democracy correspondingly requires viable opposition, loss,
+  succession, correction, and return scripts rather than abstract allegiance
+  alone.
 - **Conflict translation:** Counter-narratives are not analytically noise.
   Minoguean ideological conflict maps most directly to ideological-form conflict
   and rival-signal suppression.

@@ -162,6 +162,18 @@ distributed field. Buber's eternal Thou in particular must not be reduced to a
 socially programmed classifier. The present terms borrow aspects of their
 phenomenology while assigning them a different functional explanation.
 
+Kant's account of conscience supplies a further moral-phenomenological neighbour.
+In [*The Metaphysics of Morals*, AA
+6:438](https://korpora.org/kant/aa06/438.html) and [AA
+6:439](https://www.korpora.org/Kant/aa06/439.html), one person conducts an inner
+court case while experiencing its judge as an observing and commanding other.
+Kant's **doubled personality** (*zwiefache Persönlichkeit*) is not the
+culture-mechanical homo-duplex architecture: Kant explains the division through
+autonomous practical reason, whereas Culture Mechanics proposes a culturally
+programmed local bigOther. The controlled comparison is developed below in
+[“Kant's inner tribunal and doubled
+personality”](#kants-inner-tribunal-and-doubled-personality).
+
 This account also leaves the metaphysical status of a reported presence open. Its
 claim is narrower: whatever else the presence may be, the person's local bigOther
 can mediate how it becomes socially classified and conduct-directing.
@@ -508,6 +520,14 @@ itself as relevant. The concept and its limits are developed in [*Mythology
 Construction*](0040-mythology-construction.semantic-definition.md), “Sublimation
 and moral formation.”
 
+That document also distinguishes the larger architecture from a
+[**lifted sublimation
+generator**](0040-mythology-construction.semantic-definition.md#the-lifted-sublimation-generator-pattern):
+installed meta-rules select binding directions, affective actuation makes them
+motivationally effective, and formative practices turn them into durable
+character and capability. Generator efficacy does not by itself establish
+positive normative valence.
+
 The mismatch is analytically consequential:
 
 ```text
@@ -616,6 +636,127 @@ Culture mechanics distinguishes several operations that are easily confused:
 | **Reinforcement** | Repeated | Successful, praised, punished, or emotionally intense execution stabilizes mythologies and their mappings in the lens. |
 | **Reprogramming** | Usually slow | Modifies the operative weave. Compatible change can extend or repair it; incompatible replacement requires sufficient unbraiding of the incumbent and rebraiding of one successor lens. |
 | **Unbraiding and rebraiding** | Usually slow and conflictual | Loosens load-bearing bindings, preserves or detaches selected strands, crosses a potentially unstable interval, and installs one successor weave rather than a parallel evaluator. |
+
+#### Situated cultural scripts: executable local braids
+
+A **situated cultural script** is a distributed, role-, institution-, or
+situation-indexed braid that translates selected meanings, classifications,
+permissions, and authority relations of an operative cultural weave into expected
+perception, conduct, coordination, improvisation, and access to practical,
+relational, or material support. It is narrower in scope but more concretely
+specified than the general cultural braid.
+
+The abstraction relation is:
+
+| Level | Culture-mechanical meaning |
+|---|---|
+| **Operative cultural braid** | The comparatively general organization of meanings, values, identities, authorities, and conflict rules within the one installed weave |
+| **Situated cultural script** | A higher-resolution adapter specifying how selected parts of that order operate for people in a recurrent role, institution, relationship, or situation |
+| **Local script variant** | A historically or organizationally particular implementation of the more general script |
+| **Enactment** | One concrete performance, modification, improvisation, or refusal of the script by actual participants |
+
+```text
+operative cultural weave C
++ institution or relationship I
++ role R
++ recurrent situation X
++ practical and material environment E
+→ situated script S(C,I,R,X,E)
+→ expected perception, conduct, coordination, and improvisation
+```
+
+The notation marks contextual specification, not deterministic execution or a
+calibrated function. A professional script, for example, may join a society's
+general meanings of work, service, competence, authority, and responsibility to
+formal offices, tacit routines, tools, colleague expectations, error-recovery
+practices, status, livelihood, and professional pride. Participants may interpret,
+perform, repair, exploit, or refuse it.
+
+A script can be larger than any individual. It may be maintained across many
+persons, offices, artifacts, procedures, relationships, and resource flows, while
+particular people enter and leave its roles. The script is therefore neither a
+private plan nor necessarily a collective agent. It supplies a distributed
+pattern for action; agency still belongs to participating persons, institutions,
+or, where the independent functional threshold is met, a multi-mind-self.
+
+Scripts cut across the culture-mechanical object types defined below. They can
+contain program units, symbols, implementation arrangements, expected local
+execution, and interfaces among several roles. They are not another processor or
+another governing bigOther. One fully occupied mythological lens can support many
+compatible familial, occupational, civic, religious, and technical scripts. Their
+scope, priority, and conflict rules belong to the one operative weave. Stable
+same-situation scripts that remain incompatibly final and mutually ungoverned
+would instead raise the existing single-slot defeat condition.
+
+The term is adapted from [Venkatesh Rao's “On the Unraveling of
+Scripts”](https://ribbonfarm.com/2013/06/06/on-the-unraveling-of-scripts/).
+Rao treats scripts as learned behavioural patterns that supply meaning and
+material support and treats their unraveling as a mutually reinforcing loss of
+both. The situated-braid definition, its placement between culture and enactment,
+the single-slot boundary, and the distinctions among local repair, cross-script
+cascade, and cultural unbraiding are Culture Mechanics developments.
+
+**Script viability** asks whether the script continues to translate cultural
+meaning into intelligible and practically supportable conduct under its actual
+conditions. Viability is not truth, legitimacy, flourishing, corrigibility,
+*Beseelung*, or moral goodness. A false or oppressive script can remain highly
+viable, while a worthy script can fail for lack of skill, infrastructure,
+resources, institutional support, or workable interfaces.
+
+**Script unraveling** is the process by which a situated script loses coherence or
+viability: inherited meanings cease to guide workable conduct, practical
+consequences cease confirming the script, roles and procedures contradict one
+another, participants improvise incompatible responses, or supporting
+institutions and resources fail. Meaning-side and practical-side failure can
+reinforce one another:
+
+```text
+script supplies meaning, role, and expected conduct
+                    ↓
+participants enact and coordinate through the script
+                    ↓
+practice produces relational and material consequences
+                    ↓
+consequences confirm, correct, or discredit the script
+                    ↺
+
+loss on either side
+→ weaker enactment, coordination, support, or credibility
+→ further loss on the other side
+→ possible accelerating script unraveling
+```
+
+Unraveling and cultural unbraiding are coupled but non-equivalent:
+
+```text
+peripheral script unravels
+→ local repair or script replacement within the incumbent cultural braid
+
+load-bearing or mutually dependent scripts unravel
+→ cross-script cascade
+→ general meanings and authorities lose practical confirmation
+→ possible cultural unbraiding
+
+general cultural braid is unbraided
+→ several dependent scripts lose common orientation
+→ possible widespread script unraveling
+```
+
+The **load-bearingness** of a script is the extent to which the wider weave or
+other scripts depend upon its successful operation and visible confirmation.
+Failure of one peripheral routine therefore does not establish cultural collapse;
+failure across family formation, productive work, lawful succession, public
+truth-testing, or another highly connected script family may propagate much
+further. The direction and extent of propagation are empirical questions.
+
+Scriptlessness in Rao's sense must not be translated as an empty PCI slot. It
+means that no viable action repertoire is available within the relevant domain.
+The local slot remains fully occupied, although its installed weave may be
+de-animated, tangled, closed, practically obsolete, or unable to generate an
+adequate situated response. Nor is script unraveling identical to Babelization:
+one widely shared script can fail while participants remain mutually intelligible,
+and locally viable scripts can coexist while their interfaces fall below the
+anti-Babel floor.
 
 Applied to relevant structures, **relevance activation** foregrounds a concern and
 appraisal mapping already installed in the lens. **Relevance reprogramming**
@@ -1848,6 +1989,14 @@ in forming a competent multi-mind-self; conversely, a capable collective agent c
 remain differentiated, person-preserving, jurisdictionally bounded, and
 corrigible.
 
+One route into fusion is
+[**Humanity inversion**](0040-mythology-construction.semantic-definition.md#humanity-as-standing-horizon-and-sacred-object):
+an abstraction meant to protect the standing of concrete persons is agentified,
+assigned a hidden true interest, and made into the authority under which those
+persons may be consumed. Invoking Humanity alone does not establish this
+pathology; the diagnosis requires the conversion from equal standing to
+collective subject, privileged interpreter, and sacrificial permission.
+
 These distinctions add a **subjecthood-absorption axis** to analysis without
 altering the single-slot principle. Every participant still has one fully occupied
 local slot. The question is what standing the installed weave grants the person
@@ -1890,6 +2039,10 @@ attention + intuition + motivation + bodily readiness
                     ↓
 RIDER AND MAIN CPU
 verbalization + explanation + planning + possible criticism
+                    ↓
+SITUATED CULTURAL SCRIPT
+role-, institution-, and situation-indexed expectations,
+routines, permissions, interfaces, and error recovery
                     ↓
 VISIBLE ACTION AND COMMUNICATION
                     ↓
@@ -2035,6 +2188,14 @@ The key developmental question is:
 > **Is the mythological lens something the person can look at and revise, or is it the unquestioned lens through which the person looks?**
 
 This is Kegan's subject-object distinction applied specifically to cultural sentiment classification. What remains **subject** to a person has the person: it organizes experience but cannot yet be examined as an object. What becomes **object** can be noticed, compared, evaluated, and acted upon. Development of the bigOther therefore does not primarily mean that the collar becomes stronger. It means that the homo-duplex system gains a more complex and reflective relation to the lens stored in the collar.
+
+[*Epistemic Agency under Mechanical
+Solidarity*](0020-epistemic-agency.semantic-definition.md#reflective-roles-of-reason-press-secretary-interpreter-and-auditor)
+operationalizes this movement by distinguishing reason as **press secretary**,
+**interpreter**, and **auditor**. Making a classification and its provenance
+visible is the interpretive step; testing its framing, authority, jurisdiction,
+evidence, consequence, and corrigibility is the further audit. Articulate reasons
+alone do not establish that the main CPU authored the verdict.
 
 #### A four-phase culture-mechanical model
 
@@ -2453,6 +2614,109 @@ In this synthesis, Bonhoeffer's **Dummheit** names a characteristic loss of inne
 
 These terms are interpretive cross-references, not interchangeable clinical diagnoses or licenses to pathologize political opponents. Normopathie and political ponerology are not standard mainstream empirical categories, and the culture-mechanical connection proposed here should not be attributed directly to Hans-Joachim Maaz or Andrzej M. Łobaczewski. Its claim is narrower: the concepts illuminate complementary positions within one possible cultural feedback loop.
 
+#### Kant's inner tribunal and doubled personality
+
+Immanuel Kant's account of conscience in [*The Metaphysics of Morals*, AA
+6:438](https://korpora.org/kant/aa06/438.html) and [AA
+6:439](https://www.korpora.org/Kant/aa06/439.html) supplies an independently
+developed language for a moral phenomenology relevant to homo duplex and
+bigOther-presence. It does not supply the Culture Mechanics processor or its
+social explanation.
+
+Kant calls conscience the consciousness of an **“inner court”** (*innerer
+Gerichtshof*) in which a person's thoughts accuse or excuse one another. Every
+person, he says, finds themselves:
+
+- observed by an **inner judge** (*innerer Richter*);
+- threatened and held in *Respect*, which Kant glosses as respect joined with
+  fear;
+- answerable to a power they did not make arbitrarily, but which is incorporated
+  into their being;
+- followed by that authority **“like his shadow”**;
+- periodically awakened by its **“terrible voice”** even after trying to stupefy
+  or distract themselves; and
+- constrained to conduct this business with themselves **“as at the command of
+  another person”** (*als auf den Geheiß einer anderen Person*).
+
+The juridical structure creates a problem. If accused, accuser, and judge were
+simply the same party in the same capacity, Kant argues, the prosecutor would
+always lose. Conscience must therefore represent an **other**--an actual or ideal
+person--as judge. At AA 6:439 Kant names the resulting structure:
+
+> **“Die zwiefache Persönlichkeit ... dieses doppelte Selbst”**
+>
+> **“The doubled personality ... this double self.”**
+>
+> *(close project translation)*
+
+The complete footnote is more differentiated than a simple “higher judge versus
+lower accused” picture. The courtroom contains accuser, accused, legal counsel,
+and judge. Kant identifies accuser and accused as the same human being *numero
+idem* while distinguishing their practical capacities. As subject of a moral
+legislation grounded in freedom, the human being is considered as *homo noumenon*
+and as **another** relative to the rational sensible human being--*specie
+diversus*, but only in a practical respect. The inner judge finally issues the
+verdict whose authority reason can honour only as an unconditional *iubeo* or
+*veto*.
+
+Kant's affective account matters as much as the courtroom roles. In the [*Critique
+of Practical Reason*, AA 5:73](https://korpora.org/kant/aa05/073.html), the moral
+law strikes down and humiliates self-conceit while becoming an object of the
+greatest respect. At [AA 5:80](https://korpora.org/kant/aa05/080.html), its voice
+makes even the boldest transgressor tremble; respect combines freely submitting
+one's will with an unavoidable constraint imposed by one's own reason and
+therefore contains both displeasure and elevation. In the [*Groundwork*, AA
+4:401](https://korpora.org/kant/aa04/401.html), respect is a feeling produced by a
+concept of reason and the consciousness that the will is subordinated to a law
+one imposes upon oneself.
+
+This produces an exact comparative tension:
+
+> **For conscience to be autonomous, its authority must be mine. For conscience
+> to judge me, its authority must confront me as another.**
+
+The following mapping keeps the shared explanatory target and the incompatible
+explanations visible:
+
+| Kantian formulation | Culture-mechanical interpretation | Boundary |
+|---|---|---|
+| **Inner court, accuser, accused, counsel, and judge** | Moral evaluation can be lived as a structured encounter among functionally different positions inside one person | Kant's practical roles are not empirical processors or several local bigOthers |
+| **Observed, threatened, and held in respect joined with fear** | Affective classification can make authority present, inescapable, and conduct-directing | Kant derives respect from practical reason; he does not explain it as social programming |
+| **The authority was not made arbitrarily and follows like a shadow** | Installed authority can feel discovered or incorporated rather than voluntarily invented | For Kant this is an original moral predisposition, not evidence of a culturally installed lens |
+| **Business with oneself conducted as at the command of another person** | A local moral authority can be encountered in the second-person form of bigOther-as-Thou | Kant's represented other may be actual or ideal and belongs to his practical-rational account, not the Culture Mechanics bigOther |
+| **Doubled personality / double self** | An independent philosophical description of functional non-unitarity relevant to homo duplex | It is neither a clinical split personality nor an identity with the main-CPU/local-bigOther architecture |
+| ***Homo noumenon* and the rational sensible human being** | The comparison invites separate analysis of the authorizing position and the person subject to affect, inclination, and consequence | *Homo noumenon* is not the local bigOther, and the sensible human being is not simply the main CPU |
+| **Terrible voice and unconditional *iubeo* or *veto*** | Moral programming can become agentified, command-like, and phenomenologically authoritative | The ordinary local bigOther need not speak, personify itself, or produce auditory experience |
+
+Kant, Durkheim, and Culture Mechanics offer different accounts of this overlapping
+phenomenological target:
+
+| Account | Source and authority of the moral encounter |
+|---|---|
+| **Kant** | Autonomous practical reason represents the ideal judge and gives itself universally binding moral law |
+| **Durkheim** | Society's sacred moral ideal confronts the individual through collective beliefs and sentiments |
+| **Culture Mechanics hypothesis** | A local bigOther executes a socially installed moral lens and can present its authority as an observing and judging Thou; a live collective field may amplify and renew that local operation |
+
+The safe comparative formulation is:
+
+> **Kant's *zwiefache Persönlichkeit* independently describes a moral
+> phenomenology in which one numerically identical person occupies distinct
+> practical positions and an internally rooted authority confronts the sensible
+> person as an observing, judging other. Culture Mechanics models a structurally
+> similar relation through homo duplex and bigOther-presence. Kant explains the
+> authority as autonomous practical reason; Culture Mechanics hypothesizes a
+> culturally programmed local bigOther. The comparison identifies a shared
+> explanatory target, not a shared ontology or empirical confirmation.**
+
+The comparison supports neither a historical claim nor an inference to collective
+agency. A severe Kantian conscience could remain locally active after the culture
+that formed or reinforced it had disappeared. Inner observation, command, guilt,
+or awe establishes at most the phenomenology of local presence. A
+**multi-mind-self** additionally requires a distributed system with sufficiently
+integrated perception, memory, judgment, intention, ownership, learning, action,
+and continuity. Explaining how a law becomes psychologically gripping would also
+not by itself establish the law's moral validity.
+
 #### Jaynes, Bach, and agentified collective enactment
 
 [Julian Jaynes's *The Origin of Consciousness in the Breakdown of the Bicameral
@@ -2544,6 +2808,7 @@ every religion, ritual, shared intention, or synchronized group a multi-mind-sel
 | **Bonhoefferian Dummheit** | How does social power displace inner independence? | Describes large-scale capture of judgment by a power-saturated bigOther. |
 | **Normopathie** | How does a population adapt to and reproduce a pathological normality? | Describes the population-side condition in which a captured bigOther supplies borrowed judgment, conformity, and distributed enforcement. |
 | **Political ponerology / pathocracy** | How do destructive actors form, capture, and exploit political power? | Describes the elite-side actors and selection processes that can program, administer, and profit from a captured distributed bigOther. |
+| **Kantian inner tribunal and doubled personality** | How can an authority within one person be experienced as observing, judging, and commanding that person as another? | Supplies an independent philosophical description of the local moral phenomenology; Kant's practical roles and noumenal account do not establish the main-CPU/local-bigOther architecture or a social source. |
 | **Jaynesian bicameral mentality** | How might culturally generated guidance be experienced as the commands of gods rather than self-authored thought? | Supplies a controversial intrapersonal limit model for agentified, command-like homo duplex; it does not define the ordinary local bigOther. |
 | **Bachian god-as-multi-mind-self** | How might one represented agent be implemented across several minds and bodies? | Supplies a distributed-agent neighbour; Culture Mechanics adds its local processor, field formation, functional threshold, fusion axis, and metaphysical boundary. |
 
@@ -2566,6 +2831,14 @@ own distinctions.
 The named change-indexed moral-mobilization hypothesis is likewise a
 project-developed operationalization of Wegner's emphasis on change, not his own
 formal construct.
+
+Kant's inner court, inner judge, doubled personality, double self, *homo
+noumenon*, and affective account of respect are neighbouring philosophical
+descriptions, not the Culture Mechanics architecture and not empirical
+confirmation of it. Kant locates moral authority in autonomous practical reason,
+not in a socially programmed local bigOther. The project comparison isolates a
+shared phenomenological problem--an internally rooted authority confronting the
+person as another--while retaining the conflict between their explanations.
 
 Jaynes's bicameral mind and Bach's implemented multi-mind-self are neighbouring
 theories, not analogies or empirical confirmation. The term *multi-mind-self* in
@@ -2602,6 +2875,12 @@ The framework also does not claim that cultural programming determines behaviour
 cultural program**, **enforcement--exclusion duality**, **protection-framed
 jurisdictional manoeuvre**, and the combined signal--moralization--jurisdiction
 mechanism are project-developed constructs.
+**Situated cultural script**, **script viability**, **script load-bearingness**,
+and **cross-script cascade** are likewise project-developed Culture Mechanics
+terms developed from Rao's neighbouring account of learned scripts, meaning,
+material support, and unraveling. Rao does not supply the one-slot architecture,
+the cultural-braid hierarchy, or the distinction between script repair and
+governing-weave replacement.
 The four forms are ideal types rather than a validated scale. Andrick supplies the
 theory of moralization attributed to him; the processor, protocol, field, jealousy,
 and ideology-as-hallucination extensions belong to Culture Mechanics. Whole
@@ -2631,6 +2910,20 @@ Finally, describing culture as programming does not imply that all symbolic real
   *narrative* is the broader ordinary-language term and often its fuzzy synonym.
 - **Narrative corpus:** mythologies—the accumulated stories that train cultural evaluation.
 - **Installed evaluative program:** the mythological lens shaped by those mythologies and reinforced by systems, symbols, practices, and institutions.
+- **Situated cultural script:** a distributed, role-, institution-, or
+  situation-indexed executable braid that translates selected parts of the
+  operative cultural weave into detailed expectations, routines, permissions,
+  interfaces, improvisations, and practical support.
+- **Abstraction and execution:** the cultural braid is broader and more abstract;
+  a script is narrower but more concretely specified; a local script variant is
+  one implementation; an enactment is one performance, modification, or refusal.
+- **Script viability and unraveling:** viability asks whether cultural meaning
+  still generates intelligible and practically supportable conduct; unraveling is
+  the mutually reinforcing loss of meaning-side and practical-side coherence.
+  Neither establishes truth, legitimacy, flourishing, or slot vacancy.
+- **Script propagation:** peripheral script failure may be repaired within the
+  incumbent braid, while failure of load-bearing or mutually dependent scripts
+  can create a cross-script cascade and contribute to cultural unbraiding.
 - **Relevant structure:** a represented relational arrangement or organized
   condition that the installed lens treats as carrying moral weight.
 - **Relevant-structure appraisal hypothesis:** people often experience represented
@@ -2641,6 +2934,10 @@ Finally, describing culture as programming does not imply that all symbolic real
   capabilities required by many downstream structures without receiving
   corresponding felt relevance; a cultural sublimation architecture is one
   proposed case.
+- **Generator–architecture distinction:** a lifted sublimation generator selects
+  binding directions; actuation and cultural sublimation architecture make those
+  directions effective and durable. Structural efficacy and positive value remain
+  separate.
 - **Change-indexed moral-mobilization hypothesis:** moral appraisal often becomes
   more salient and action-directing when a condition is represented as causing,
   continuing, preventing, or failing to prevent change in a felt-relevant
@@ -2716,6 +3013,11 @@ Finally, describing culture as programming does not imply that all symbolic real
   incompatible evaluators that remain independently final, affectively alive, and
   mutually ungoverned would count against strict single-slot exclusivity.
 - **Phenomenological appearance:** bigOther-presence or bigOther-as-Thou—the collective or symbolic authority encountered as an objectively present Other.
+- **Kantian moral-phenomenology neighbour:** the inner court, observing judge,
+  *zwiefache Persönlichkeit*, *doppeltes Selbst*, and unconditional *iubeo* or
+  *veto* independently articulate how one person's moral authority can confront
+  the sensible person as another; Kant's autonomous-rational ontology remains
+  distinct from the local-bigOther hypothesis.
 - **Agentified enactment depth:** representation, consultation or service,
   presence as Thou, distributed enactment, and fused enactment must not be
   collapsed; only the final relation entails authorial displacement.
@@ -2746,9 +3048,15 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Fusion ideology:** a program that construes separate persons as alienated or
   falsely conscious fragments to be reconstituted as organs of one collective
   subject.
+- **Humanity-inversion boundary:** equal human standing and an open aspirational
+  horizon become fusion pressure when Humanity is agentified, assigned a true
+  interest, and used to authorize privileged interpreters and sacrifice.
 - **Long-term result:** reproduction or transformation of culture through ritual and institutionalization.
 - **Central normative problem:** whether the bigOther remains contestable by reflective judgment or acquires final authority over it.
 - **Developmental axis:** externally enforced → socially authored → self-authored → self-transforming bigOther.
+- **Reflective-role bridge:** press secretary → interpreter → auditor distinguishes
+  defence of a verdict from making its programming object and genuinely testing
+  it; self-authorship requires more than articulate post-hoc reasons.
 
 ## Example of use
 
@@ -2773,6 +3081,13 @@ Formation, intervention, and selection:
 > intervention → testing and correction; where intervention is attempted, the
 > actual successor is jointly constrained by intention, receivers, incumbent and
 > rival fields, institutions, consequences, and reality**
+
+Situated scripts and unraveling:
+
+> **operative cultural weave + role/institution/situation + practical environment
+> → situated cultural script → enactment and consequence → reinforcement, repair,
+> or unraveling; peripheral failure → local script replacement, while
+> load-bearing cross-script cascade → possible cultural unbraiding**
 
 Relevant-structure appraisal:
 
@@ -2816,6 +3131,13 @@ Agentified enactment and the Jaynes--Bach bridge:
 > **mythology → god-agent represented in one operative lens → agentified
 > *Beseelung* / bigOther-as-Thou → distributed enactment → possible
 > multi-mind-self; displacement of personal authorship → fusion**
+
+Kantian inner-tribunal comparison:
+
+> **one numerically identical human + distinct practical positions → inner moral
+> authority represented as observing and judging other; Kant: autonomous
+> practical reason and doubled personality | Culture Mechanics: possible
+> local-bigOther presence; shared phenomenological target ≠ shared ontology**
 
 Conformity and targeting signals, moralization, and enforcement--exclusion:
 
@@ -2930,6 +3252,18 @@ Agency is more than the legal permission to think freely. A person may be formal
 #### Under
 
 **Under** indicates situatedness, not necessarily oppression. A person exercises judgment *under* inherited language, institutions, roles, authorities, dependencies, and collective sentiments. These structures can support or impair agency. The preposition avoids two false pictures: the isolated knower who owes nothing to society, and the completely determined subject who possesses no capacity for reflection.
+
+A person also acts under [**situated cultural
+scripts**](0010-culture-mechanics.semantic-definition.md#situated-cultural-scripts-executable-local-braids):
+distributed, role-, institution-, and situation-indexed local braids that
+translate a more general cultural weave into detailed expectations, routines,
+permissions, interfaces, improvisation, and practical support. A script can be
+larger than one participant without becoming a subject or another bigOther.
+Epistemic agency includes the capacity to notice what a script asks one to
+perceive, trust, report, conceal, escalate, or ignore; to distinguish failure of
+the general rule from failure of its local adapter, enactment, interface, or
+resources; and, where standing and capacity permit, to interpret, repair, refuse,
+or help replace the script.
 
 #### Mechanical solidarity
 
@@ -4093,6 +4427,14 @@ three separate questions:
 3. Does the relation preserve the participant's capacity to inspect, refuse, and
    later revise it?
 
+The geometry becomes part of a [***Herrschaftsideologie***](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction)
+when an occupant claims privileged access to a truth or collective interest that
+ordinary persons allegedly cannot perceive and converts that epistemic asymmetry
+into excessive governing jurisdiction. Authority position, superior knowledge,
+and legitimate jurisdiction must therefore be tested separately. A teacher or
+expert may know more within a bounded task without becoming sovereign over the
+recipient's purposes, conscience, property, or political standing.
+
 Possible tests should compare the same message across authority and peer
 positions, private and publicly common reception, narrative and non-narrative
 forms, synchronized and unsynchronized audiences, and compatible and incompatible
@@ -4717,6 +5059,237 @@ Piety toward the real also guards against self-appointed gatekeeping. Personal c
 
 > **Let truth identify the danger, let love require a response, and let epistemic humility govern the means.**
 
+#### Impersonal universality against private interest
+
+**Status: deliberately narrow and provisional interpretive bridge.** The
+following subsection preserves one formal similarity through which Durkheim can
+name Kant and Rousseau together. It does not establish a general theory of
+universalism, prove that the two architectures are morally or politically
+equivalent, or settle the interpretation of either philosopher.
+
+The originating terminological proposal is:
+
+> **A better contemporary word for the doctrine Durkheim calls
+> “individualistic” may be “Humanism,” because its sacred object is man rather
+> than private interest.**
+
+Durkheim's own formulation must nevertheless remain visible. He says that “this
+religion is individualistic, since it takes man as its object and since man is an
+individual by definition.” He then contrasts its intransigent protection of the
+individual with utility's capacity to suspend individual liberty for the interest
+of the greater number
+([“Individualism and the
+Intellectuals,” pp. 46–47](https://platypus1917.org/wp-content/uploads/The-Heritage-of-Sociology-Emile-Durkheim-On-Morality-and-Society_-Selected-Writings-University-of-Chicago-Press-1973.pdf)).
+
+**Person-centred humanism** is therefore introduced only as an explanatory gloss,
+not as a replacement for Durkheim's source term **moral individualism**:
+
+> **Humanism names what is held sacred; individualism names where that sacred
+> standing resides—in every concrete person.**
+
+This is the same distinction developed more fully as
+[Humanity-as-standing and
+Humanity-as-sacred-object](0040-mythology-construction.semantic-definition.md#humanity-as-standing-horizon-and-sacred-object).
+Unqualified *humanism* could obscure the boundary by turning abstract Humanity,
+the species, civilization, or the future into a collective idol. The gloss is
+person-centred only while the abstraction's standing remains instantiated in
+each person rather than detached from them and used against them.
+
+The shared formal movement in Kant and Rousseau is provisionally named
+**impersonal universality against private interest**:
+
+> **The justification must not depend upon the fact that I happen to be me, my
+> group happens to be ours, or I occupy the advantageous position.**
+
+It transforms a private reason into a candidate general reason:
+
+```text
+particular interest I_i + situation C
+→ formulate the operative candidate rule M
+→ remove “because it is me or mine”
+→ exchange the persons occupying the positions
+→ test whether M survives for anyone relevantly similarly situated
+→ candidate general rule R*(C)
+```
+
+The present provisional plain-language name for this operation is the
+**remove-the-me test** (*de-indexing* in optional philosophical vocabulary). It
+removes *I*, *me*, *mine*, *our faction*, *our class*, or *this outsider* as the
+sufficient justification and then exchanges the persons occupying the positions.
+It does not erase material context.
+
+A rule that passes the remove-the-me test is therefore not necessarily
+context-free. “A physician may break confidentiality when necessary to prevent an
+imminent serious harm” still depends on role, danger, necessity, and competence.
+It passes if those conditions govern every relevantly similar physician rather
+than supplying a private exception for me or my allies.
+
+##### Counterfactual position exchange
+
+The remove-the-me test contains a **counterfactual** operation. The same event
+cannot literally be rerun with different people occupying its positions. The
+reasoner therefore constructs a hypothetical comparison:
+
+```text
+actual case:
+I receive the benefit; another person bears the burden
+
+counterfactual case:
+the other person receives the benefit; I bear the burden
+```
+
+The question is whether the same rule and justification survive the exchange. In
+mathematical or software language, this resembles a **label-invariance test**:
+permute the personal labels while holding the materially relevant structure fixed
+and check whether the rule changes merely because someone else is now called
+“me.” As a compact counterfactual unit test:
+
+```text
+situation C + rule M
+→ exchange personal labels or occupied positions
+→ hypothetical situation C'
+→ apply the same M
+→ compare justification and corresponding output
+```
+
+The comparison must preserve rather than erase relevant structure. If a rule
+depends legitimately on being a physician, parent, officeholder, aggressor, or
+person in imminent danger, exchanging personal names does not abolish those
+roles. If allocation of the roles is itself under examination, the counterfactual
+instead asks whether the same role-dependent rule would be accepted if *I*
+occupied the other role.
+
+Two counterfactual questions must remain distinct:
+
+| Counterfactual question | What it tests | What it cannot establish by itself |
+|---|---|---|
+| **Justificatory:** Would the same reason count if the persons or positions were exchanged? | Symmetry and hidden personal or factional privilege | Truth, goodness, person-preservation, or actual consequences |
+| **Causal:** What would happen if everyone followed this rule or it governed repeated cases? | Predicted consequences of general adoption | Whether the prediction is accurate without empirical knowledge |
+
+The unit-test comparison is useful but limited. Passing the justificatory
+counterfactual shows only that the rule does not openly depend on a privileged
+“me.” A symmetric rule can still be false, destructive, or willing to sacrifice
+persons. Counterfactual prediction also remains answerable to evidence; imagination
+alone cannot establish what universal adoption would cause.
+
+“Against private interest” likewise does **not** mean:
+
+- personal interests are evil;
+- moral conduct requires self-sacrifice;
+- everyone must receive identical treatment;
+- special obligations to children, patients, partners, or offices are
+  illegitimate;
+- every permissible rule must ignore role, knowledge, relationship, risk, or
+  consequence.
+
+It means:
+
+> **My interest is not sufficient justification precisely because it is mine.**
+
+Kant and Rousseau can now be placed in the same sentence only at this coarse
+formal level:
+
+| Dimension | Kant | Rousseau |
+|---|---|---|
+| Object tested | The acting person's maxim | A law for the political community |
+| Generalizing question | Can the maxim be willed as law for every rational person? | Can all citizens legislate the rule for all as a matter of common interest? |
+| Principal output | A universal constraint on personal conduct | A general law of the collective sovereign |
+| Status of persons | Each remains a separate moral legislator and an end | Citizens jointly constitute the sovereign and are also subject to its law |
+| Characteristic danger | A loaded framing or false premise is elevated into universal moral language | The empirical person's refusal is subordinated to their alleged civic will |
+
+Kant's universal-law formula supplies the first comparison
+([AA 4:421](https://korpora.org/kant/aa04/421.html)); his Humanity formula adds
+the separate constraint that rational nature in every person be treated as an end
+in itself ([AA 4:428–429](https://korpora.org/kant/aa04/429.html)). Rousseau
+distinguishes the general will, directed toward common interest, from the will of
+all as a sum of private interests, and requires law to be general in its source
+and object (*The Social Contract*, II.3 and II.6; [primary
+text](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm)).
+
+Kantian universalization characteristically makes the hypothetical operation
+internal to the moral test: the agent considers the maxim as a universal law.
+Rousseauian generality is more directly an institutional property of law, general
+in source and object. Counterfactual position exchange can diagnose a disguised
+Rousseauian privilege, but it does not by itself constitute the general will.
+
+The concise interpretive contrast is:
+
+> **Kant abstracts from my particular interest so that every person remains an
+> end; Rousseau abstracts from private wills in order to constitute a collective
+> sovereign will.**
+
+This is a Culture Mechanics comparison, not a claim that Durkheim, Kant, or
+Rousseau stated the formula in these words. The common operator does not establish
+an identical architecture. Kantian universality can constrain a collective on
+behalf of the person. Rousseauian generality can make the collective citizen-body
+the standpoint from which a person's private refusal is judged.
+
+The person-centred boundary adds a second test after removing the privileged
+“me”:
+
+> **Remove “because it is me,” not the person or the situation.**
+
+A rule can be perfectly impersonal and still make a person disposable. “Sacrifice
+one whenever doing so benefits one thousand” contains no exception for *me*, but
+its impartiality does not protect the one. Impersonal universality is therefore
+not yet moral individualism:
+
+```text
+1. remove-the-me test
+   remove privileged private or factional interest
+
+2. human-person constraint
+   preserve every concrete person as an end rather than a summand or organ
+```
+
+The originating application identifies two different routes by which this second
+test can fail:
+
+> **Both utilitarianism and a strong multi-mind-self can lead to neglect of the
+> individual.**
+
+Culture Mechanics preserves the claim but makes its causal conditions more
+precise:
+
+| Sacrifice route | Operation | How the individual loses standing |
+|---|---|---|
+| **Utilitarian aggregation** | Benefits and injuries are combined into an aggregate result | A person becomes a commensurable unit whose liberty, body, or life may be traded for a sufficiently large net benefit |
+| **Subjecthood-absorptive collective agency** | A multi-mind-self becomes the authoritative subject across the relevant jurisdiction | A person becomes an organ, carrier, or execution surface whose judgment, conscience, purpose, refusal, or exit has no standing against the collective |
+
+These routes can converge in consequence while remaining causally distinct:
+
+```text
+aggregative route: person → term in a welfare calculation
+
+fusion route:       person → constituent organ of a collective subject
+```
+
+Durkheim is contrasting moral individualism with an aggregative permission
+available to the utility principle; he is not demonstrating that every
+consequentialist or rule-utilitarian theory must suspend individual rights.
+Rights-protecting rules, distribution-sensitive welfare functions, side
+constraints, thresholds, and empirical claims about long-run utility are possible
+rival configurations.
+
+Likewise, collective strength alone does not establish neglect. A
+multi-mind-self may remain differentiated, person-preserving, jurisdictionally
+bounded, and corrigible. The second route requires
+[subjecthood absorption](0010-culture-mechanics.semantic-definition.md#differentiated-unity-and-subjecthood-absorption-fusion),
+excessive jurisdiction, or closed refusal and exit. The relevant variable is not
+merely how strongly the collective can act, but what legitimate standing its
+participants retain against it.
+
+For now the bridge should be used only through four discriminating questions:
+
+1. Would the candidate rule survive exchange of names, affiliations, and
+   advantageous positions?
+2. Which contextual differences remain relevant, and would they be applied
+   symmetrically?
+3. Does the output preserve each concrete person as an end, or convert someone
+   into a summand, instrument, or organ?
+4. Who interprets “the universal” or “the common interest,” under what
+   jurisdiction, and through which correction, refusal, and exit conditions?
+
 ### 20. Cognitive liberty and epistemic adulthood
 
 In its established legal and ethical lineage, **cognitive liberty** concerns mental self-determination and freedom from unwanted interference with thought or consciousness. Important formulations include **Richard Glen Boire's** essay series [“On Cognitive Liberty” (1999–2003)](https://www.cognitiveliberty.org/on-cognitive-liberty-boire/) and the German legal scholar **Jan Christoph Bublitz's** [“My Mind Is Mine!? Cognitive Liberty as a Legal Concept” (2013)](https://doi.org/10.1007/978-94-007-6253-4_19). The specialized usage developed here explicitly extends that lineage by adding a positive developmental capacity:
@@ -4763,6 +5336,149 @@ This development occurs inside a fully installed program. Epistemic adulthood is
 the main processor's acquired capacity to inspect and revise its trust architecture
 within full lifted capture; it is not absence of programming, absence of universal
 meta-authority, or reduced occupancy of the single slot.
+
+#### Reflective roles of reason: press secretary, interpreter, and auditor
+
+The originating suspicion should be stated in its forceful form:
+
+> **What calls itself “using your own reason” may be no more than becoming the
+> press secretary of your own bigOther.**
+
+Reason can be the most articulate organ of capture. A conclusion may be presented
+as though it had been derived by explicit reasoning even when the operative causal
+sequence ran in the other direction:
+
+```text
+bigOther classification or verdict
+→ shame, guilt, reverence, fear, disgust, or felt necessity
+→ favourable description of the case
+→ reasons assembled for the already protected conclusion
+→ retrospective appearance of rational derivation
+```
+
+This is not necessarily conscious lying. The spokesperson can sincerely
+experience the supplied reasons as the cause of the judgment. Logical
+presentation and psychological provenance therefore have to be tested
+separately.
+
+The **press-secretary analogy** has important prior art. Jonathan Haidt uses the
+press secretary to describe conscious reasoning that justifies intuitively
+reached moral judgments in a [first-person
+interview](https://knowledge.wharton.upenn.edu/article/the-righteous-mind-why-liberals-and-conservatives-cant-get-along/);
+his [social-intuitionist
+model](https://www.its.caltech.edu/~squartz/haidt.pdf) supplies the associated
+theoretical account of intuition followed by post-hoc reasoning. Michael
+Gazzaniga's research on the left-hemisphere
+[interpreter](https://people.psych.ucsb.edu/gazzaniga/michael/PDF/Humans%20The%20Party%20Animal.pdf)
+is a neighbouring account of a system that constructs coherent explanations for
+actions and events. Culture Mechanics does not identify the local bigOther with
+Haidt's intuitions, Gazzaniga's interpreter, System 1, or post-hoc
+rationalization. It uses those observations to sharpen one possible relation
+between the distinct main processor and an installed symbolic-affective
+classifier.
+
+Three reflective roles should consequently be distinguished:
+
+| Role | Primary operation | Achievement | Characteristic limit |
+|---|---|---|---|
+| **Press secretary** | Produces a defensible public or private account of a protected verdict | Articulation, coherence, persuasion | Reasons may conceal rather than reveal causal provenance |
+| **Interpreter** | Discovers and verbalizes the operative rule, framing, authority, affect, and situational classification | Makes previously implicit programming inspectable | Recognition alone does not test or revise it |
+| **Auditor** | Tests provenance, description, evidence, symmetry, jurisdiction, consequence, and corrigibility | Makes retention, correction, unbraiding, or replacement possible | Audit can itself be captured, incompetent, or merely ceremonial |
+
+These are functional roles rather than permanent person-types or brain modules.
+The same person can move among them, and a press-secretary operation can contain
+accurate reasons. The distinction concerns what the reasoning is doing in the
+case.
+
+The interpreter role is the bridge to Kegan's subject–object transition. The
+bigOther verdict ceases to be only the invisible position from which the person
+sees and becomes something the person can notice:
+
+```text
+“This is simply shameful.”
+→ “I experience shame because this case has been classified under rule R.”
+→ “I learned R through authorities and practices A under field F.”
+```
+
+That movement creates reflective distance without yet deciding whether *R* is
+true, legitimate, appropriately framed, or within the authority's jurisdiction.
+Introspection can therefore be a first step in self-unbraiding, but introspection
+alone is not a sovereign oracle.
+
+The complete audit sequence proposed here is:
+
+1. **Notice the verdict and actuation.** What judgment and what felt pressure
+   arrived?
+2. **Interpret the rule.** Which operative classification, maxim, or sacred
+   boundary generated it?
+3. **Trace provenance.** Through which persons, institutions, exemplars, rituals,
+   rewards, sanctions, and collective fields was it installed or reinforced?
+4. **Audit authority and jurisdiction.** Who is entitled to bind whom, about
+   what, under which constituted and corrigible procedure?
+5. **Reframe the case.** Which loaded description made the rule appear
+   applicable, and what rival descriptions fit the facts?
+6. **Apply the remove-the-me and position-exchange tests.** Would the rule
+   survive if names, affiliations, advantages, and disadvantages were exchanged?
+7. **Expose it to reality.** What evidence, competence, prediction, consequence,
+   and possible falsifier bear upon it?
+8. **Cut false finality.** Treat the inner judge's verdict as evidence about the
+   installed program, not as the last court merely because it feels authoritative.
+9. **Select or construct a successor generator.** Retain, narrow, correct, or
+   replace the rule and its authority relation.
+10. **Rebraid and test.** Install one revised operative weave, act through it,
+    observe consequences, and keep the correction route open.
+
+The finality cut is not the erasure of conscience:
+
+> **The inner judge ceases to be the court of final appeal and becomes a witness
+> whose testimony must itself be examined.**
+
+This audit preserves single-slot exclusivity. Reflection can represent several
+possible rules and rival worldviews in the main processor, but it does not install
+several local bigOthers simultaneously. A genuinely incompatible successor
+requires sufficient unbraiding and one rebraiding. Nor does the auditor become a
+permanently cultureless CPU: standards of evidence, symmetry, dignity, and
+corrigibility are themselves learned and operatively installed.
+
+Kant supplies both an aspiration and a warning. His public-enlightenment maxim
+opposes self-incurred tutelage and urges the public use of one's own reason
+([AA 8:35–36](https://korpora.org/kant/aa08/036.html)). Yet his own discussion of
+hidden self-love shows that introspection can mistake a self-interested motive for
+duty ([AA 4:406–407](https://korpora.org/kant/aa04/407.html)). Culture Mechanics
+extends the warning: an agent can mistake an installed bigOther verdict for a
+deliverance of reason itself. This extension is not Kant's self-description.
+
+Private introspection is therefore necessary in some cases but insufficient.
+Effective audit normally needs external friction: rival formulations,
+independent evidence, competent criticism, people outside the activating field,
+recorded predictions, consequences, and institutions able to correct authorized
+interpreters. “I have inspected myself” does not establish independence.
+
+Moral individualism supplies the interpersonal boundary. Audit changes the
+confidence due to propositions, interpretations, and authorities; it does not
+reduce the standing of the mistaken or dissenting person. Conversely, equal
+standing does not make a person's judgment immune from correction. The more
+complete distinction among Humanity-as-standing, -horizon, and -sacred-object is
+defined in [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md#humanity-as-standing-horizon-and-sacred-object).
+
+The distinction generates possible tests:
+
+- Does the stated reason predict the verdict before group identity or moral
+  loading is disclosed?
+- Does changing names, factions, beneficiary, or victim reverse the application
+  of the allegedly general rule?
+- Can the person state what evidence or consequence would change the conclusion?
+- Can they identify the source, jurisdiction, and affective signature of the
+  operative rule without treating that identification as disloyalty?
+- Does audit ever change a protected verdict, or does it reliably produce more
+  elaborate reasons for the same conclusion?
+- Do private conclusions survive competent public criticism and out-of-field
+  comparison?
+
+The corresponding mythology-design requirement is developed as the
+[reflective audit gate](0040-mythology-construction.semantic-definition.md#the-reflective-audit-gate)
+within the lifted sublimation-generator pattern.
 
 ### 21. Truth, love of neighbour, and intervention
 
@@ -5002,6 +5718,16 @@ The following questions help identify the configuration without assuming in adva
 35. Did accepting an authority-endorsed formula provide measurable relief from
     uncertainty, public exposure, or responsibility, and did that relief reduce
     checking or decompression?
+36. Would the candidate rule survive an exchange of names, affiliations,
+    beneficiaries, burdens, and advantageous positions?
+37. Which contextual differences remain relevant after the remove-the-me test,
+    and are they applied symmetrically rather than used as private exceptions?
+38. Does the allegedly universal output preserve each concrete person as an end,
+    or make someone disposable as a summand in an aggregate or an organ of a
+    collective subject?
+39. Is the epistemic failure located in the general cultural or constitutional
+    braid, a situated script, one enactment, an interface among scripts, or missing
+    practical support?
 
 No single answer is decisive. The pattern matters.
 
@@ -5374,6 +6100,8 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Pastoral epistemic authority** | Epistemic trust grounded in guidance, care, protection, or personal interpretation. | Can support judgment or make surrender feel like safety. |
 | **Socialization into institutional trust** | Learning which offices, credentials, institutions, and channels may certify reliable knowledge. | Installs the background trust architecture through which later claims are evaluated. |
 | **Lifted mechanical solidarity** | Shared binding rules generate, select, apply, and revise concrete answers. | Explains how one full capture can produce changing outputs and can, as one application, constitute differentiated citizens, institutions, and jurisdictions. |
+| **Impersonal universality against private interest** | Provisional bridge in which a candidate rule loses the privileged justificatory force of “because it is me or mine” and is tested under exchanged positions. | Shows one coarse formal similarity between Kantian universalization and Rousseauian generality without equating their person–collective architectures. |
+| **Remove-the-me test** | Removes “because it is me, mine, or my group” as sufficient justification, exchanges the persons occupying the positions, and retains materially relevant context. | Supplies one possible lifted selection procedure; passing the test does not make a rule context-free, true, good, or person-preserving. |
 | **Organic solidarity** | Cohesion through specialization and interdependence. | Produces differentiated professions and institutions whose legitimacy may be supplied by lifted mechanical solidarity. |
 | **bigOther** | Culture-mechanical sentiment classifier linking symbolic order to felt legitimacy, shame, loyalty, and belonging. | Supplies the local source and receiver through which field authority becomes affectively operative. |
 | **Mechanical-solidarity field** | Emergent coherence among compatible local bigOthers that acts back through expectations, sanctions, institutions, and apparent consensus. | Names the group effect within which epistemic agency is exercised. |
@@ -5382,6 +6110,7 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Multi-mind-self** | Distributed bigOther integrated enough to perceive, remember, judge, intend, own, and act with collective continuity. | Names a possible collective agent, not every crowd or mechanically solidary field. |
 | **Unitary ownership by the multi-mind-self** | One collective agent owns and cares through many *beseelte* persons. | Reinterprets successful “shared ownership” as collective-person ownership rather than fractional private psychology. |
 | **Privileged authority-addressed programming topology** | A differentiated authority position addresses a comparatively uniform audience under common attention. | Proposed recurrent geometry that can heighten reception and synchronization without defining mechanical solidarity. |
+| ***Herrschaftsideologie*** | Privileged-vision mythology that converts claimed epistemic asymmetry into governing jurisdiction. | Names a possible pathological authorization of the elevated speaker position; hierarchy or expertise alone does not establish it. The primary semantic home is *Mythology Construction*. |
 | **Repeater** | A local bigOther with greater gain, reach, credibility, frequency, connectivity, or institutional amplification. | Explains unequal influence while preserving the claim that every local bigOther transmits. |
 | **Trusted opinion leader** | A person to whom members of a field recurrently refer for judgment, interpretation, or validation. | Names the human composite position that may combine repeater gain, gatekeeping, personal epistemic authority, translation, modelling, brokerage, representation, and field feedback. |
 | **Master signifier / S1** | Privileged signifier organizing identities and bodies of knowledge; translated here as a compressed protocol token. | Can select and activate the common interpretive mode; becomes pathological when it terminates inquiry. |
@@ -5389,6 +6118,7 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Clockwork coordination** | Project-developed analogy for differentiated contributions routed toward a common result. | Resembles the organizational form associated with organic solidarity but is not identical with the cohesion organic interdependence produces. |
 | **Ideological power** | Michael Mann's category, adapted by Rainer Mausfeld for power over sense-making categories, interpretive contexts, and framing narratives. | Names a possible macro-level means of programming the interpretive and trust environment; this entry focuses more broadly on the subject-side mechanisms and their corrigibility. |
 | **Causal story** | Narrative assigning cause, responsibility, victim, fixer, and remedy. | Political-scale mechanism for organizing the distributed bigOther and forming agendas. |
+| **Doctrinal-progeny test** | Evaluation of a doctrine through the distribution and causal relations of its actual descendants. | Extends the agency audit from what recipients are told to what the doctrine, receiver architecture, interpreters, and institutions recurrently produce. The primary semantic home is *Mythology Construction*. |
 | **Persuasion** | Process of changing belief, evaluation, identity, or action. | Can restore or suppress agency depending on epistemic direction, reciprocity, and correction. |
 | **Socratic manipulation** | Questions that simulate open inquiry while steering toward a preselected conclusion. | Shows why an autonomy-flavoured method is not automatically truth-directed. |
 | **Contaminated mindware** | Learned rules or beliefs that impair rationality and may disable their own evaluation. | Supplies content and anti-correction rules that authority and identity can protect. |
@@ -5398,11 +6128,13 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Need for closure** | Preference for definite resolution and aversion to ambiguity. | Can accelerate attachment to an S1 or authority that fills uncertainty. |
 | **Epistemic adulthood** | Capacity to inspect and revise inherited standards and trust architecture within a fully installed lifted program. | Names the developmental achievement; it is reflective agency within full capture, not escape from programming. |
 | **Cognitive liberty** | Reflective distance from socialization combined with continued capacity for trust and participation. | Names positive freedom under a universal, corrigible meta-order with bounded subordinate authorities. |
+| **Press secretary, interpreter, and auditor** | Three possible functions of reflective reason: defend a verdict, make its operative programming inspectable, or test and possibly revise it. | Prevents articulate justification from being mistaken automatically for self-authorship; supplies the reflective audit gate used in *Mythology Construction*. |
 | **Epistemic emancipation** | Lifting from full capture by shared concrete answers to full capture by a reality-answerable generator of answers. | Names the practical unbraid/rebraid problem through which inherited answers lose finality without necessarily disappearing. |
 | **MCIP** | Mirror, Cut, Invite, Promise. | Proposed micro-method for restoring agency while keeping the successor weave and its interpreters corrigible. |
 | **Piety toward the real** | Humble willingness to let complex reality correct concepts, stories, institutions, and conviction. | Supplies the normative standard and final right of refusal. |
 | **Holistic structural realism** | Model-centered epistemology in which concepts and operations are tested through prediction, surprise, and revision. | Supplies the positive reality-correction loop used by this entry. |
 | **Moral individualism** | Shared commitment to the equal dignity and rights of persons. | Prevents factual correction and respect for social reality from becoming contempt for persons or worship of institutions. |
+| **Person-centred humanism** | Explanatory gloss for Durkheim's religion of the human person, not a replacement source term. | Names Humanity as the sacred object while locating its inviolable standing in every concrete person; blocks both aggregative sacrifice and subjecthood absorption. |
 | **Nächstenliebe** | Love of neighbour directed toward the concrete person's reality-based good. | Requires concern and sometimes intervention while forbidding instrumental dehumanization. |
 
 ### 27. Scope and terminological cautions
@@ -5460,6 +6192,27 @@ Several boundaries are essential:
     describes how far those rules govern; and corrigible describes openness to
     inspection, succession, and reality's right of refusal. Particular authorities
     can be plural and domain-limited beneath a universal lifted order.
+21. **Articulate reasons do not establish causal authorship.** A reason can be
+    true and relevant while having been assembled after a protected verdict;
+    causal provenance and logical quality require separate tests.
+22. **Introspection is not self-validating.** The interpreter can misidentify a
+    rule, and the auditor can be captured, incompetent, or ceremonial. Independent
+    evidence, rival formulations, public criticism, and consequence remain
+    necessary.
+23. **The reflective triad is not a three-module brain theory.** Press secretary,
+    interpreter, and auditor name functions performed by a person in a case; they
+    neither replace the main processor–bigOther distinction nor posit parallel
+    local bigOthers.
+24. **Removing the “me” is not removing context.** A general rule may depend on role,
+    relationship, competence, danger, necessity, and consequence while denying
+    that a person's name or faction supplies a private exception.
+25. **Impartiality is not yet person-preservation.** A rule can apply without
+    favour and still authorize aggregative sacrifice or subjecthood absorption.
+    The human-person constraint is an additional test.
+26. **Collective strength is not subjecthood absorption.** A capable
+    multi-mind-self may preserve differentiated persons. The sacrificial route
+    requires loss of legitimate judgment, conscience, purpose, refusal, or exit
+    under excessive or closed collective jurisdiction.
 
 The framework is descriptive before it is accusatory. Shared trust, narratives, symbols, and institutions can coordinate real knowledge and protect human dignity. The normative threshold is crossed when the system disables the very procedures by which its claims, classifications, and authorities could be corrected.
 
@@ -5471,7 +6224,19 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Shared communication interface:** Lacan's big Other, functionally translated as the on-the-wire symbolic protocol.
 - **Starting condition:** unavoidable epistemic dependence.
 - **Social environment:** a mechanical-solidarity field, often combined with organic differentiation.
+- **Situated implementation:** distributed cultural scripts translate the general
+  weave into role-, institution-, and situation-specific epistemic expectations
+  and conduct; agency includes inspecting and, where possible, repairing or
+  refusing the script without mistaking it for another bigOther.
 - **Order-level distinction:** first-order solidarity shares concrete rules and answers; lifted solidarity shares the rules that generate, select, apply, and revise concrete answers.
+- **Provisional remove-the-me test:** particular interest plus situation becomes
+  a candidate rule; names and factional privilege are removed, positions are
+  exchanged, and the rule is tested for anyone relevantly similarly situated.
+  Context, truth, goodness, and person-preservation remain separate questions.
+- **Kant–Rousseau bridge:** both move formally from particular interest toward
+  impersonal or general justification, but Kantian universality constrains conduct while
+  preserving persons as ends and Rousseauian generality constitutes a collective
+  sovereign output.
 - **Generative compression:** fixed installed meta-rules can combine with changing knowledge and situations to produce many changing concrete outputs; neither fewness nor detail alone defines the order level.
 - **Modern structural possibility:** lifted mechanical solidarity can span an organically differentiated and plural society, but plurality and division of labour are consequences or applications rather than the definition of lifting.
 - **Complete slot occupancy / full capture:** first-order and lifted programs can each fully occupy the one local bigOther; fullness is not itself pathology.
@@ -5487,6 +6252,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   analogous axes can profile nonhuman authority nodes without calling them leaders.
 - **Privileged but non-universal geometry:** differentiated authority addressing a comparatively uniform audience.
 - **Proposed receptive condition:** the authority-addressed programming state.
+- **Privileged-vision boundary:** the topology becomes
+  *Herrschaftsideologie* only when claimed superior access is converted into
+  governing jurisdiction that outruns bounded expertise, contestability, and
+  correction.
 - **Symbolic operator:** master signifier or S1 as compressed protocol token.
 - **Narrative mechanism:** mythology or causal story.
 - **Communication model:** audience-modelled reconstruction--finite messages are
@@ -5525,6 +6294,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Nested-author boundary:** collective agency can add an operative *we* while
   participating *I*s retain legitimate standing; fusion begins when that standing
   is displaced or absorbed.
+- **Two sacrifice routes:** utilitarian aggregation can make a person a
+  commensurable term in a welfare calculation; subjecthood-absorptive collective
+  agency can make the person an organ of the collective subject. Similar outcomes
+  do not make the mechanisms identical.
 - **Collective-property hypothesis:** unitary ownership by the multi-mind-self through many *beseelte* persons.
 - **Dual-identification hard case:** mixed avowal or ritual does not establish two
   operative evaluators; the test is whether two incompatible authorities remain
@@ -5545,6 +6318,18 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Healthy configuration:** a universal corrigible meta-order with calibrated,
   plural, domain-limited dependence upon particular authorities.
 - **Developmental achievement:** epistemic adulthood.
+- **Reflective-role distinction:** reason may act as press secretary for a
+  protected bigOther verdict, as interpreter making its rule and provenance
+  visible, or as auditor testing framing, evidence, symmetry, authority,
+  jurisdiction, consequence, and corrigibility.
+- **Self-objectification transition:** an affectively final judgment becomes an
+  inspectable classification produced under a rule and authority relation;
+  interpretation opens audit but does not itself complete it.
+- **Finality cut:** the inner judge becomes evidence about the installed program
+  rather than the last court merely because its verdict feels authoritative.
+- **Audit boundary:** private introspection normally requires external friction
+  and correction; self-authorship remains one fully installed, reality-answerable
+  weave rather than a cultureless CPU or several operative bigOthers.
 - **Normative freedom:** cognitive liberty.
 - **Normative orientation:** piety toward the real.
 - **Moral orientation:** truth joined with Nächstenliebe and epistemic humility.
@@ -5602,6 +6387,13 @@ Order-level and lifted-jurisdiction form:
 
 > **fixed M + current K_t + situation C → binding R_t(C); a universally governing M may constitute, allocate, limit, coordinate, succeed, and correct plural first-order outputs and jurisdictions**
 
+Remove-the-me and person-preservation:
+
+> **particular interest \(I_i\) + situation \(C\) → candidate rule \(M\) →
+> remove identity privilege + exchange positions → candidate general rule
+> \(R^*(C)\) → separately test whether every concrete person remains an end
+> rather than a summand or organ**
+
 Collective-owner form:
 
 > **distributed bigOther + continuity + group judgment and intention → multi-mind-self → one collective owner acting through many *beseelte* persons**
@@ -5632,6 +6424,13 @@ Pathological form:
 Developmental form:
 
 > **socially authored trust → reflective distance → self-authored trust → self-transforming trust → cognitive liberty**
+
+Reflective-audit form:
+
+> **bigOther verdict + actuation → press-secretary justification; make rule,
+> framing, authority, and provenance object → interpretation; test symmetry,
+> evidence, jurisdiction, consequence, and falsifier → audit → retain, correct,
+> unbraid, or rebraid**
 
 Normative form:
 
@@ -5689,9 +6488,12 @@ The vocabulary above does not come from one theory. The following map distinguis
 | **Cognitive-relief hypothesis** | Wegner's situated formulation “Denken tut weh” in *Relevante Strukturen*; neighbouring research on need for closure, cognitive effort, and authority | Turns a memorable witness formulation into a bounded, testable mediation hypothesis about relief, checking, and authority-gated acceptance. It is not a claim about intelligence, universal motivation, or prevalence, and it should not be attributed to Wegner in this operational form. |
 | **Normopathic adaptation** | [Erich Wulff, *Psychiatrie und Klassengesellschaft* (1972)](https://www.econbiz.de/Record/psychiatrie-und-klassengesellschaft-zur-begriffs-und-sozialkritik-der-psychiatrie-und-medizin-wulff-erich/10004758497); Joyce McDougall's psychoanalytic normopathy; [Hans-Joachim Maaz, *Das falsche Leben* (2017)](https://www.chbeck.de/media/2215/paperback1-17.pdf) | Uses the family of terms descriptively for adaptation to a pathological social normality without adopting any one author's clinical or political theory. The term has more than one intellectual genealogy, so a single uncontested origin should not be asserted. |
 | **Piety toward the real** | Robert N. Bellah's introduction to [*Émile Durkheim on Morality and Society* (1973)](https://platypus1917.org/wp-content/uploads/The-Heritage-of-Sociology-Emile-Durkheim-On-Morality-and-Society_-Selected-Writings-University-of-Chicago-Press-1973.pdf) | Bellah's phrase characterizes Durkheim; this entry turns it into an explicit norm of epistemic model correction. It is not Durkheim's own technical term. |
-| **Moral individualism** | Durkheim, [“L'individualisme et les intellectuels” (1898)](https://classiques.uqam.ca/classiques/Durkheim_emile/sc_soc_et_action/texte_3_10/individualisme.html) | Durkheim's moral defense of the sacred individual is retained, then joined here to the distinction between unconditional respect for persons and conditional evaluation of propositions. |
+| **Moral individualism and religion of the human person** | Durkheim, [“L'individualisme et les intellectuels” (1898)](https://classiques.uqam.ca/classiques/Durkheim_emile/sc_soc_et_action/texte_3_10/individualisme.html) ([English translation, pp. 46–47](https://platypus1917.org/wp-content/uploads/The-Heritage-of-Sociology-Emile-Durkheim-On-Morality-and-Society_-Selected-Writings-University-of-Chicago-Press-1973.pdf)) | Durkheim's moral defense of the sacred individual and contrast with aggregative utility are retained. **Person-centred humanism** is the project's explanatory gloss, not Durkheim's replacement term; the distinction between unconditional respect for persons and conditional evaluation of propositions is also added here. |
+| **Universal law, Humanity, and general will** | Kant, [*Groundwork*, AA 4:421](https://korpora.org/kant/aa04/421.html) and [AA 4:428–429](https://korpora.org/kant/aa04/429.html); Rousseau, [*The Social Contract*, II.3 and II.6](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm) | Supplies the source material for a narrow formal comparison between universalizing an actor's maxim and legislating a general law. **Impersonal universality against private interest**, the remove-the-me formula, and the person-versus-collective diagnostic are project-developed and should not be attributed to either philosopher. |
 | **Cognitive liberty** | [Richard Glen Boire, “On Cognitive Liberty”](https://www.cognitiveliberty.org/on-cognitive-liberty-boire/); [Jan Christoph Bublitz, “My Mind Is Mine!?” (2013)](https://doi.org/10.1007/978-94-007-6253-4_19) | Extends freedom from mental interference into a positive developmental capacity to inspect and revise one's socialized trust architecture. That extension is not standard in the legal literature. |
 | **Epistemic adulthood** | [Robert Kegan's constructive-developmental theory](https://mitpressbookstore.mit.edu/book/9780674445888) | Applies Kegan's subject–object and self-authorship pattern specifically to epistemic trust. The term and trust stages are new here. |
+| **Press-secretary and interpreter comparisons** | Jonathan Haidt's [press-secretary comparison](https://knowledge.wharton.upenn.edu/article/the-righteous-mind-why-liberals-and-conservatives-cant-get-along/) and [social-intuitionist model](https://www.its.caltech.edu/~squartz/haidt.pdf); [Michael Gazzaniga on the interpreter](https://people.psych.ucsb.edu/gazzaniga/michael/PDF/Humans%20The%20Party%20Animal.pdf) | Retains their observations about post-hoc moral justification and coherent explanation, then places them within the distinct main processor–local-bigOther architecture. Neither source proposes the present triad, finality cut, or audit sequence. |
+| **Use of one's own reason and hidden motive** | Kant, [AA 8:35–36](https://korpora.org/kant/aa08/036.html) and [AA 4:406–407](https://korpora.org/kant/aa04/407.html) | Supplies an aspiration toward public reason and a warning about misidentified motive. The hypothesis that reason can serve as press secretary for an installed bigOther verdict is the Culture Mechanics extension. |
 | **Nächstenliebe / love of neighbour** | Jewish and Christian ethical tradition, classically [Leviticus 19:18](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A18&version=NRSVUE) | Applied here to truth-directed care and intervention. The reality-corrigibility rule paired with it is this entry's ethical synthesis, not a definition contained in the scriptural phrase alone. |
 
 ### Newly proposed terms in this synthesis
@@ -5739,6 +6541,15 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
 - the **clan-as-multi-mind-self** and **corporate-feud hypothesis** as conditional
   application classifications rather than established anthropological terms;
 - **epistemic adulthood**, **epistemic emancipation**, and the three trust-development stages;
+- **impersonal universality against private interest** and the **remove-the-me
+  test** as deliberately provisional Culture Mechanics formulations;
+- **person-centred humanism** as an explanatory gloss for Durkheim's moral
+  individualism, together with the maxim **remove “because it is me,” not the
+  person or the situation** and the aggregative-versus-fusion sacrifice
+  distinction;
+- the **press-secretary–interpreter–auditor triad**, **self-objectification
+  transition**, **finality cut**, and ten-step reflective audit sequence in their
+  present Culture Mechanics senses;
 - **state transmission**, **operation transmission**, and **Socratic manipulation** as defined here;
 - **audience-modelled reconstruction**, **adversarial audience-modelled
   reconstruction**, and the **decompression audit** in their present operational
