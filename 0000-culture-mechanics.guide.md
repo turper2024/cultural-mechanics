@@ -9,7 +9,7 @@ Use this guide to translate an ordinary-language question into the smallest rele
 source set. The user does not need to know Culture Mechanics terminology. Infer
 likely concepts from the problem as described, then verify them against the source.
 
-The six semantic documents named below are authoritative for this project. Their
+The seven semantic documents named below are authoritative for this project. Their
 definitions and distinctions override this compressed guide. Culture Mechanics and
 its extensions are proposed by this project; do not present them as disciplinary
 consensus. Keep claims made by the framework distinct from external evidence and
@@ -243,9 +243,26 @@ These are routing summaries only. Use the complete source for qualifications and
 for the framework's distinctions between programming, activation, coupling,
 emergence, agency, and capture.
 
+The Culture Program branch test is:
+
+```text
+load-bearing causal wager defeasible by accessible reality
+→ Culture Strategy
+
+load-bearing authority, benefit, sacred relation, or causal promise
+protected from every accessible defeater
+→ Pure-Ideology Culture Program
+```
+
+Both branches can provide meaning, identity, sacredness, warmth, duty, joy, and
+*Beseelung*. Keep branch distinct from order level, full slot occupancy,
+private/collective/ideological/fundamentalist form, corrigibility, jurisdiction,
+entrusted power, capture susceptibility, and hazard. Culture commonly braids
+compatible components from both branches into one operative lens.
+
 ## Essential source
 
-- [`build/0000-culture-mechanics.core.md`](build/0000-culture-mechanics.core.md) —
+- [`build/md/0000-culture-mechanics.core.md`](build/md/0000-culture-mechanics.core.md) —
   The default bundle. It contains the complete *Culture Mechanics* and *Epistemic
   Agency under Mechanical Solidarity*. Use it for homo duplex, the main CPU and
   local bigOther, bigOther-presence and bigOther-as-Thou, Kant's inner tribunal
@@ -300,34 +317,52 @@ of reconstructing it from this guide.
   truth-seeking, systemic lying, and constitutional control of the reconstruction
   pipeline. It also applies the optional lack--desire--fantasy motivational layer
   to the formation of finite and renewable epistemic demands and distinguishes
-  permanent contestability from permanent activated contest. It defines
+  permanent contestability from permanent activated antagonism. It defines
   constitutional scripts for dissent, investigation, appeal, legitimate loss,
   succession, correction, and return as situated implementations of the lifted
   meta-order and distinguishes dormant viable contestability from nominal written
-  procedure. It records a
-  deliberately unresolved placeholder for a possible second constitutional
-  orientation concerning positive goods and flourishing versus
-  adversary-dependent antagonistic self-reproduction; no canonical axis name or
-  endpoint definitions have yet been adopted.
+  procedure. It also defines anti-gnostic adaptive constitutional learning: a
+  person-protecting constraint shell, dumb public kernel, plural proposals and
+  sensors, and separated correction without a sovereign metric or interpreter. It
+  organizes present and future constitutional classifiers through an extensible
+  orientation-and-pole model. Its current independent orientations are
+  reality-anchored truth-seeking versus systemic lying and life-drive versus
+  death-drive. Use the latter for generative, completable, and transmissible goods
+  versus self-reproducing negation, adversary dependence, renewable conflict, and
+  self-consuming repetition. It treats Edelmanian queer negativity as the closest
+  explicit doctrinal limit case presently identified for the death-drive pole,
+  not as a classification of homosexuality, queer people, or queer theory
+  generally. It keeps the proposed deeper relation to revolutionary-left critical
+  machinery as a candidate enabling pathway rather than a demonstrated genealogy
+  or entailment. It also defines **Ragnarök trajectory** as one possible death-drive
+  system path in which successful propagation increasingly serves terminal
+  rupture and may consume the programme's own conditions of continuation.
+  Reproduction has no inherent drive valence; use *Mythology Construction* for
+  that mechanism and the analogy inventory for the controlled Norse mapping.
 - [`0030-linguistic-tricks.semantic-inventory.md`](0030-linguistic-tricks.semantic-inventory.md)
   — *Linguistic Tricks: A Semantic Inventory*. Use to analyze instrumental
   untruthfulness, misleading information selection, semantic or rhetorical
   manipulation, sophistry, corruption of discussion, enemy construction, and
   source or context manipulation, including Wegner's *Wie–Was* distinction as the
-  LT-040 cue–function diagnostic and LT-041 doctrinal causal omission. Preserve
-  its boundaries: error, disagreement, framing, cue–function mismatch, an omitted
-  mechanism, fallacy, and harmful effect are not automatically deception.
+  LT-040 cue–function diagnostic, LT-041 doctrinal causal omission, and LT-032's
+  reality-free escalation of invective and projective-vandalism circuit.
+  Preserve its boundaries: error, disagreement, framing, cue–function mismatch,
+  an omitted mechanism, fallacy, harmful effect, extreme accusation, and false
+  accusation are not automatically deception, projection, or confession.
 - [`0040-mythology-construction.semantic-definition.md`](0040-mythology-construction.semantic-definition.md)
   — *Mythology Construction*. Use for both endogenous mythology formation and the
   prospective research branch of purposive, destination-guided mythology
   construction; transmission, institutional embodiment, evaluation, defense,
   replacement, or destruction of mythologies as the bigOther's privileged
-  assembly-language intervention layer; recipient fit, relevant-structure
+  assembly-language intervention layer; active niche selection, gene–culture
+  coevolution, fast evolution, population history, and differential mythology
+  receptivity; recipient fit, relevant-structure
   resonance, change-indexed mobilization, mirrored and foregrounded relevance,
   Wegner's *Vierschritt der Kontrolle*, recipient decompression, authorization
   payloads, and other resonance pathways; psychological gradients, optional
   constitutive lack, desire, fantasy, finite operational and renewable demand,
-  jouissance, their boundaries against mythology and *Beseelung*, sublimation,
+  jouissance, denunciatory jouissance and the projective-vandalism reward
+  hypothesis, their boundaries against mythology and *Beseelung*, sublimation,
   cultural sublimation architecture, generative centrality, symbolic condensation,
   the lifted sublimation-generator pattern, duty as first architectural
   sublimation and continuing infrastructure, Humanity-as-standing, -horizon, and
@@ -343,13 +378,16 @@ of reconstructing it from this guide.
   concealed causal design, recipient-architecture bifurcation, first-order
   recapture, *Herrschaftsideologie*, mobilizational absoluteness, memetic
   engineering as a neighboring control aspiration, the intention--outcome
-  boundary, and the boundary among
+  boundary, critique–construction asymmetry, negative-operational displacement,
+  grievance as finite operational or renewable demand, and the boundary among
   description, causal explanation, normative judgment, and intervention. Use it
   also for
   cultural interoperability, effective meta-order
   thickness, lifted-solidarity surface area or span, the anti-Babel floor,
-  intergroup semantic decoupling, and cultural interoperability breakdown
-  (Babelization). It is not the whole-culture implementation method.
+  intergroup semantic decoupling, residual interoperability scale,
+  very-small-group and individual-limit Babelization, the bounded loneliness
+  hypothesis, and cultural interoperability breakdown (Babelization). It is not
+  the whole-culture implementation method.
 - [`0050-culture-mechanics-analogies.semantic-inventory.md`](0050-culture-mechanics-analogies.semantic-inventory.md)
   — *Analogical Models in Culture Mechanics: A Semantic Inventory*. Use for the
   canonical names, mappings, intended and unlicensed inferences, provenance,
@@ -369,6 +407,9 @@ of reconstructing it from this guide.
   responsibility, illustrative movement offspring, the post-victory test, and the
   situated-script, unraveling, bridge-script, and agonistic-script mapping, and the
   project-developed sublimation-emblem bridge, plus the doctrine-as-parent/progeny,
+  Culture Hallucination, Cultural WMD, glacier, prostitution-policy
+  leverage-point, systemic-skeleton/living-body, cultural-immune-system,
+  selection-to-censorship evidential-ladder, SGD/jurisdictional-selection,
   X-ray-vision, secular-gnosis, generator, *Leuchtturm*, and press-secretary
   mappings, and the local counterfactual-unit-test and label-invariance comparison.
   It is authoritative
@@ -377,32 +418,84 @@ of reconstructing it from this guide.
   source. Select it proactively when a listed model materially improves causal
   reasoning, diagnosis, boundary testing, or hypothesis generation, even if the
   user did not name an analogy; do not add it merely as decoration.
-- [`build/0000-culture-mechanics.all.md`](build/0000-culture-mechanics.all.md) —
-  The expanded bundle containing all six authoritative sources. Use when a question
+- [`0060-culture-program-ecology.semantic-definition.md`](0060-culture-program-ecology.semantic-definition.md)
+  — *Culture Program Ecology*. Use for Culture Program, Culture Strategy,
+  Pure-Ideology Culture Program, Culture Hallucination, Culture-Embedded Strategy,
+  Strategic Worldview, Culture Program Complex, accessible-reality and
+  defeat-condition tests, Culture as a mixed operative braid, ecological
+  competition through tribunal or reality-feedback routes, activity fit and
+  compound returns, cultural self-maintenance and defence, its adaptive, closed,
+  captured, and autoimmune profiles, fanatic and fatal-offspring diagnostics,
+  capture robustness,
+  Culture Program capture, program disharmony, objective substitution, gradual
+  capture, Culture Program carrying structure, infrastructure-directed
+  countermeasures, the Core Program Alignment Audit, staged capture inference,
+  the early-recognition and prevention window,
+  the Self-Attribution Presumption and internal-contestation test,
+  Attribution-Source Asymmetry, cross-audience self-description audit,
+  Propagation–Visibility Constraint, response-calibrated evidence and
+  intervention targets, Cultural WMD, burdens rising with entrusted power,
+  compulsory supremacy, systemic skeleton and living cultural body, pluralist
+  adaptive constitutional search, the Lifted-Order Capacity Dashboard
+  (Speak · Own · Refuse · Exit · Appeal · Correct · Cooperate · Build · Choose),
+  Secure Homestead Rate, non-compensable constitutional sentinels, scorecards,
+  SGD variants, soft secession, bounded reversed legal priority (*umgekehrte
+  Maßgeblichkeit*), Mises's territorial-secession co-origin, the “stroke of the
+  pen” legal translation, capture-resistant jurisdictional topology, and
+  *Abstimmung mit den Füßen*,
+  pluralistic classical liberalism as a lifted containment strategy, the
+  *Schutzbalken gegen die Macht* principle, public and private power,
+  democratic purpose versus institutional implementation, the bounded-protector
+  recursion, constitutional risk management for *ideologische Macht*, the
+  separation of ideological-power capability, capture, *Machtpolitik*,
+  *Willkürherrschaft*, and defensive architecture, the typed
+  Ideological-Power Hazard Diagnostic, the Cipolla--Bonhoeffer--Normopathie--
+  ponerology synthesis, the AI queen-bee stress test, the critical-constructivist
+  candidate application, the proportionate response ladder, cultural
+  capital, *Hegung*, Conflict-Finders, cultivated hostility, awe, and the
+  application protocol for charged cases. Keep its definitions, mechanisms,
+  applications, analogies, and normative proposals in their declared epistemic
+  roles. In particular, keep its analytical typology, problem and hazard
+  diagnosis, and candidate pluralist classical-liberal design distinct;
+  accepting one layer does not automatically establish the next.
+- [`build/md/0000-culture-mechanics.all.md`](build/md/0000-culture-mechanics.all.md) —
+  The expanded bundle containing all seven authoritative sources. Use when a question
   genuinely spans the whole coordinated family, not as the default context.
 
 ## Query routing
 
 | Ordinary-language question concerns | Start with |
 |---|---|
+| Culture Program, Culture Strategy, Pure-Ideology, Culture Hallucination, whether religion and strategy differ by causal language or by falsifiability, accessible reality, defeat conditions, or how to classify a mixed culture | Add *Culture Program Ecology*. Use the branch test and subtractive-essence protocol; do not infer branch from warmth, sacredness, usefulness, religion, current success, or harm. Pair with the core for the one-weave architecture. |
+| Business strategy becoming company culture; Culture-Embedded Strategy; work ethic, punctuality, quality, maintenance, truthfulness, management practice, activity fit, compound returns, flywheels, material production, resilience, or acting on a weakly evidenced strategy before results arrive | Add *Culture Program Ecology* for the subtype, causal wager, trial design, and material-capability claim. Add *Mythology Construction* for formation, activity fit, sublimation, and implementation layers; use *Systems Leadership* for the exact practical method. |
+| Institutional skeleton versus living culture; paper constitutions; why systems without moral formation remain dead; SGD, dumb rules, scorecards, metric gaming, parallel local experiments, political divorce or soft secession, *umgekehrte Maßgeblichkeit*, *Abstimmung mit den Füßen*, jurisdictional competition, or voting by moving | Start with *Culture Program Ecology*, “Systemic skeleton and living cultural body” through “*Abstimmung mit den Füßen* as a costly aggregate signal.” Add *Epistemic Constitution* for the generic anti-gnostic controller and *Analogical Models* for the controlled skeleton/body and SGD/jurisdictional-selection mappings. Keep the common rights shell, local variation, sensors, and selection operators distinct. A scorecard is gameable; foot voting is costly but causally opaque; staying is not consent; local priority is not unrestricted sovereignty; SGD is not a literal social loss function. |
+| Mises and secession; villages or Landkreise as political units; soft secession with a “stroke of the pen”; changing legal priority instead of borders; centralization as a high-value capture target; distributed failure domains; capture blast radius; or decentralization as a security architecture | Start with *Culture Program Ecology*, “Soft secession and reversed legal priority,” and add *Analogical Models*, “Stochastic gradient descent and jurisdictional selection.” Preserve Mises as co-origin of territorial self-determination and the project as author of soft secession, reversed legal priority, SGD, and capture resistance. Treat “stroke of the pen” as a formal legal lever, not easy implementation. Test whether authority, finance, personnel, records, sensors, software, appeal, and correction are genuinely independent; nominal decentralization may retain one control plane, and distribution is not capture immunity. |
+| Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, or Choose; whether people feel safe stating their opinion; private-property generation; yeoman farmers; homeownership by 65; personal safe space; Secure Homestead Rate; hollow ownership through debt, tax, utilities, or forced sale; or constitutional sentinel metrics | Add *Culture Program Ecology*, “The Lifted-Order Capacity Dashboard” through “*Own* and the Secure Homestead Rate.” Keep the capacities separate and triangulate experienced, administrative/material, and revealed-behaviour sensors. The dashboard is a proposed diagnostic, not the definition of lifting or a scalar Supreme Good. Effective homestead security requires equity, control, usability, sustainable carrying costs, and retention; it is neither nominal title nor compulsory homeownership. Sentinel events are non-compensable but still require authentication, attribution, and due process. Add the core for subjecthood absorption and *Epistemic Agency* for the private-versus-unitary-ownership boundary. |
+| Democracy as *Schutzbalken gegen die Macht*; the purpose of democracy; whether elections define democracy; protection against state, majority, corporate, employer, creditor, platform, professional, religious, or cultural power; who protects against the protector; non-domination; or private power | Add *Culture Program Ecology*, “Democracy as *Schutzbalken gegen die Macht*,” and *Analogical Models*, “*Schutzbalken gegen die Macht*.” Add *Epistemic Constitution*, “Power guardrails and the bounded protector,” for the generic correction constraint. Preserve the source boundary between Mausfeld, the user's memorable compression, and the project synthesis. Treat the concrete person as the protected object and institutions as corrigible implementations. Do not treat power itself as pathology, collapse unlike mechanisms, infer domination from asymmetry alone, make elections sufficient or irrelevant, or exempt the protector from review. |
+| *Ideologische Macht*, *Machtpolitik*, *Willkürherrschaft*, constitutional risk management, Cipolla's payoff matrix, Bonhoefferian *Dummheit* plus normopathy or ponerology, a danger scenario without proof of conspiracy, an ideological-power hazard profile, AI as a queen bee or common-mode cultural control plane, or whether woke, postmodernism, or critical constructivism prepares terrain for arbitrary power | Start with *Culture Program Ecology*, Appendix A, “Constitutional risk management for *ideologische Macht*.” Add *Epistemic Agency*, “The epistemic field effect,” for Mausfeld's source concept; add *Epistemic Constitution* only to apply the independent truth and drive orientations. Keep ideological-power capability, capture or exploitation, *Machtpolitik* as possible objective, *Willkürherrschaft* as possible endpoint, and *Schutzbalken* as defensive architecture distinct. Use the twelve-part diagnostic as a typed profile of a specified implementation, period, jurisdiction, and carrying structure—not a scalar score or population label. Treat the critical-constructivist umbrella as the author's candidate application and AI queen bee as a speculative stress test. Scenario-level precaution may justify low-regret architecture; it does not prove conspiracy, intent, guilt, pathocracy, or a causal nexus sufficient for coercion. |
+| Fanatics, fatal offspring, “hijacked” programs, Culture Program capture, program disharmony, objective substitution, gradual or glacial capture, Culture Program carrying structure, money flows, teaching or recruitment infrastructure, organizational countermeasures, covert operational agents, program-derived role metrics, self-report, self-description, proclamation, self-attribution, internal condemnation, ponerogenic capture, Culture Program trust, Cultural WMD, historical disqualification, scrutiny rising with requested power, prostitution-policy leverage points, or whether a parent program caused a violent descendant | Add *Culture Program Ecology* for the Self-Attribution Presumption, alignment audit, staged capture inference, carrying-structure intervention test, offspring, hazard, burden, and response protocols; add *Mythology Construction* for doctrinal progeny, trusted-channel rebraiding, sentinel inversion, and ponerogenic capture; add *Analogical Models* for bounded Culture Hallucination, glacier, prostitution-policy leverage-point, and Cultural WMD mappings. Begin with credence for a credible actor proclamation about that actor's own operative allegiance or authorization; then test causal scope and defeaters. Keep human carriers separate from organizational carrying structure, neutral full capture separate from successor-program capture, and system-level warning separate from individual guilt or covert-command attribution. |
+| Pluralism or classical liberalism as culture, compulsory supremacy, bounded jurisdiction, cultural capital, moral formation, *Hegung*, Conflict-Finders, fact-checking versus public conflict, sublimated cultivated hostility, awe, monumental art, or Moon flight as cultural output | Add *Culture Program Ecology*. Add *Epistemic Constitution* for public correction and constitutional scripts, *Mythology Construction* for sublimation and formation, and the core for lifted solidarity and one-weave installation. Treat pluralism as a normative reality-answerable proposal that can fail, not as neutrality or the definition of lifting. |
 | Bonhoeffer, *Dummheit*, why an intelligent person becomes governed by slogans, or why one allegiance limits another | Core: *Culture Mechanics*, “Bonhoeffer's Dummheit,” “The single-slot principle,” and “Autonomy, capture, and susceptibility”; *Epistemic Agency under Mechanical Solidarity*, “The complete capture sequence” |
 | Detailed religious or cultural rules about food, washing, bodily states, dress, calendars, work, or status; why such rules feel self-compulsory; or how fixed higher rules can generate changing concrete answers | Core: *Epistemic Agency under Mechanical Solidarity*, “Mechanical solidarity” and “Examples, cases, and boundary tests” |
 | Intelligent or educated people repeating slogans, accepting contradictions, or becoming difficult to correct under power or group pressure | Core: homo duplex; mythological lens; authority-gated belief updating; asymmetric epistemic permeability; capture sequence |
 | Conversion, socialization, identity conflict, capture, exit, resistance, or recovery of independent judgment | Core: programming and reprogramming; single-slot principle; epistemic adulthood; cognitive liberty; MCIP |
 | Mixed or dual religious identity, conversos, syncretism, retained sacred material, strategic outward conformity, or whether two incompatible programmes can remain operative together | Core: *Culture Mechanics*, “The single-slot principle” and “Hard cases and possible defeat conditions”; *Epistemic Agency under Mechanical Solidarity*, “Dual religious identification and the converso hard case.” Test final interpretive priority, guilt, veto, correction, contextual division, successor formation, and stability rather than inferring architecture from the identity label. |
-| Emancipation, first-order versus lifted rules, pluralism, universal law, parliament, courts, contracts, jurisdiction, or how different ways of life remain under one order | Core: *Culture Mechanics*, “Open and closed cultural programming” and “Autonomy, capture, and susceptibility”; *Epistemic Agency under Mechanical Solidarity*, “Mechanical solidarity,” “Examples, cases, and boundary tests,” “Healthy and unhealthy mechanical solidarity,” “Cognitive liberty and epistemic adulthood,” and “Epistemic emancipation and MCIP.” Add *Epistemic Constitution of Lifted Mechanical Solidarity* for society-wide law, contracts, authority allocation, public reason, or constitutional correction. |
+| Emancipation, first-order versus lifted rules, pluralism, universal law, parliament, courts, contracts, jurisdiction, or how different ways of life remain under one order | Core: *Culture Mechanics*, “Open and closed cultural programming” and “Autonomy, capture, and susceptibility”; *Epistemic Agency under Mechanical Solidarity*, “Mechanical solidarity,” “Examples, cases, and boundary tests,” “Healthy and unhealthy mechanical solidarity,” “Cognitive liberty and epistemic adulthood,” and “Epistemic emancipation and MCIP.” Add *Epistemic Constitution of Lifted Mechanical Solidarity* for society-wide law, contracts, authority allocation, public reason, or constitutional correction; add *Culture Program Ecology* when pluralism is evaluated as a containment Culture Strategy or against compulsory supremacy. |
 | Trust in experts, leaders, offices, media, professions, or institutions | Core: epistemic dependence; gatekeepers and trust anchors; authority and jurisdiction; corrigibility |
 | Trusted opinion leaders, medical KOLs, local opinion leaders, YouTube or social-media influencers, cultivated authorities, nested influence cascades, source independence, or how one trusted person transmits, interprets, and validates for a field | Core: *Epistemic Agency under Mechanical Solidarity*, “Repeaters and crowds,” “Trusted opinion leaders, cascades, and cultivated authority,” “Forms of authority and epistemic spillover,” and “Safeguards for persons, institutions, and cultures.” Add *Mythology Construction*, “Covert trusted-opinion-leader capture and trusted-channel rebraiding,” only for deliberate covert replacement, sentinel inversion, or institutionalized successor construction. |
 | Collective cohesion, synchronized feeling, institutional force, crowd or movement agency; whether a multi-mind-self can remain differentiated; continuing versus episodic agency; pilgrimage, battle, Subak, latency, or collective “sleep” | Core: symbolic protocol; distributed bigOther; mechanical-solidarity field; nested authorship; activation profiles and episodic multi-mind-selves; fusion and field back-action. Add *Analogical Models in Culture Mechanics* when the sleeping--waking, clockwork, or laser mapping helps. |
 | Blood feud, clan vengeance, inherited blood debt, corporate guilt or liability, collective compensation, target substitution among kin, or transition toward personal liability and public adjudication | Core: *Epistemic Agency under Mechanical Solidarity*, “Blood feud as a corporate-subject hard case,” collective ownership, the multi-mind-self threshold, and subjecthood absorption. Add *Analogical Models in Culture Mechanics* for whole-obligation solidarity or molecular binding; compare kin selection, deterrence, honour, reputation, marriage bargains, material competition, and weak state capacity. |
+| Jonathan Haidt's fast-evolution argument; gene–culture coevolution; whether cultural institutions can change genetic selection within historical time; population-history differences in mythology receptivity; or whether Western kinship change genetically contributed to individualism | Start with *Mythology Construction*, “Gene–culture coevolution” and its fast-evolution and population-history hypotheses. Preserve Haidt's chapter 9 synthesis as the immediate bridge joining gene–culture coevolution to historically recent change, not as the origin of quantitative gene–culture theory. Treat the Church–exogamy–European-individualism pathway, differential mythology receptivity, and collar-malfunction target as stronger Culture Mechanics extensions. Separate gene flow, cultural activation, selective sorting, and actual biological selection; require evidence of mating, fertility, survival, or descendant differences before inferring directional genetic change. |
 | Immanuel Kant, conscience, the inner court or inner judge, *zwiefache Persönlichkeit*, *doppeltes Selbst*, *homo noumenon*, moral law as a voice, respect joined with fear, or comparison of Kant's doubled personality with homo duplex and bigOther-as-Thou | Core: *Culture Mechanics*, “Phenomenological aspect,” “Synonyms and terminological neighbours of the bigOther,” and “Kant's inner tribunal and doubled personality.” Add *Analogical Models in Culture Mechanics*, “Kant: inner tribunal and doubled personality,” for the verified source-language mapping, the Kant--Durkheim--Culture Mechanics contrast, and licensed and unlicensed inferences. Treat Kant's autonomous practical reason and the culturally programmed local-bigOther hypothesis as rival explanations of an overlapping phenomenological target; do not equate *homo noumenon* with the local bigOther or infer a multi-mind-self from conscience. |
 | Kantian duty as a generator, the categorical imperative and sublimation, Humanity, kingdom of ends, Ayn Rand's criticism of duty, morality versus life or happiness, *Leuchttürme*, role models, *Star Trek* as a human horizon, or whether reason authors morality or rationalizes a bigOther verdict | Start with *Mythology Construction*, “The lifted sublimation-generator pattern,” including duty, Humanity, aspirational exemplars, Kant and Rand, and the reflective audit gate. Add the core section *Epistemic Agency under Mechanical Solidarity*, “Reflective roles of reason: press secretary, interpreter, and auditor.” Add *Analogical Models* for the controlled generator–*Leuchtturm*–press-secretary mapping. Keep generator efficacy separate from positive valence, complete equal standing separate from developed capability, aspiration separate from jurisdiction, and logical reasons separate from causal provenance. |
 | Why Durkheim calls Kant and Rousseau individualists; whether “humanism” is clearer; impersonal universality versus private interest; removing the “me” versus removing context; counterfactual position exchange or label-invariance; or how an impartial rule can still sacrifice an individual | Core: *Epistemic Agency under Mechanical Solidarity*, “Impersonal universality against private interest.” Preserve **moral individualism** as Durkheim's source term and use **person-centred humanism** only as the project's explanatory gloss. Keep the Kant–Rousseau comparison formal and narrow: Kant universalizes a person's maxim while Rousseau generalizes law for a collective sovereign. The **remove-the-me test** removes the privilege of “because it is me or mine,” not material context or the concrete person. Its counterfactual position exchange is a justificatory symmetry test, not by itself an empirical prediction. Test separately whether a person becomes a summand in an aggregate or an organ of a subjecthood-absorptive collective; a strong multi-mind-self alone does not establish fusion. Add *Mythology Construction*, “The lifted sublimation-generator pattern,” only when Humanity, the generator, or mythology design is material. |
 | Julian Jaynes, the bicameral mind, divine command voices, Joscha Bach, gods implemented across minds, agent-models, god-as-multi-mind-self, *Beseelung*, bigOther-as-Thou, enactment depth, or when a collective being displaces personal authorship | Core: *Culture Mechanics*, “Phenomenological aspect,” “Nested authorship, activation, and episodic multi-mind-selves,” “Differentiated unity and subjecthood absorption (fusion),” and “Jaynes, Bach, and agentified collective enactment.” Add *Analogical Models in Culture Mechanics*, “Cross-theory mappings and interpretive bridges,” for the side-by-side mappings and their licensed and unlicensed inferences. Do not infer Jaynes's history, reduce God to human implementation, or equate presence, synchrony, enactment, agency, and fusion. |
 | Lacanian constitutive lack, desire, fantasy, demand, jouissance, how a person learns what to desire or what they are for others, why an epistemic demand terminates or renews itself, or whether these terms equal mythology or *Beseelung* | Start with *Mythology Construction*, “Psychologically downhill and Lacanian death-drive mythologies,” for the optional motivational hypothesis and its term boundaries. Add *Epistemic Constitution of Lifted Mechanical Solidarity*, “Desire, fantasy, and the formation of epistemic demands,” when the desire--demand move affects truth-seeking, certainty, recognition, or correction. Lack is not processor duality; fantasy is not mythology as a whole; jouissance is not *Beseelung*; and the project term **finite operational demand** is narrower than Lacanian demand. |
+| Life-drive versus death-drive as a constitutional classifier; positive goods versus self-reproducing negation; a constitutive adversary; renewable conflict; permanent activated antagonism; whether conflict can finish; Ragnarök trajectory; a programme reproducing toward terminal rupture or its own extinction; Lee Edelman, *No Future*, reproductive futurism, the Child, queer positionality, anti-futurity, or a doctrine that refuses positive settlement | Start with *Epistemic Constitution of Lifted Mechanical Solidarity*, “Constitutional classification orientations and their poles,” for the independent truth and drive orientations, the canonical Ragnarök-trajectory definition, their boundaries, and the Edelmanian doctrinal limit case. Add *Mythology Construction*, “Psychologically downhill and Lacanian death-drive mythologies,” “Psychologically uphill and Lacanian life-drive mythologies,” and “Program reproduction and the Ragnarök trajectory,” for the primary motivational and propagation mechanics. Add *Analogical Models*, “Ragnarök trajectory,” when the Norse temporal picture clarifies the path. Use queer here in Halperin's relational, anti-normative sense, not as a sexual orientation; classify the specific Edelmanian programme, not queer people or queer theory generally. Reproduction has no inherent drive valence. Do not infer a Ragnarök trajectory from rhetoric, conflict, catastrophe, or programme failure alone, and keep permanent contestability distinct from permanent activated antagonism. |
+| A culture's “immune system”; why a mature culture resists, repairs, absorbs, or attacks criticism; whether silence is selection or censorship; grievance-centred criticism; critique outgrowing construction; negative operations surviving a positive telos; Minogue's “suicide pact” or “attempt to destroy humanity” judgments; or a proposed Marx–Lenin–Lukács–Gramsci–Frankfurt School–Althusser–Foucault–discourse-theory path | Start with *Culture Program Ecology*, “Cultural self-maintenance and defence,” for the generic function and its adaptive, closed, captured, and autoimmune profiles. Add *Analogical Models*, “Cultural immune-system extension,” for the controlled mapping and selection-to-censorship evidential ladder. Add *Mythology Construction*, “Critical Theory and cynical corrosion” and “Critique–construction asymmetry and negative-operational displacement,” for Lindsay's formulation, the reconstructed Minogue sequence, its two distinct terminal judgments, and the candidate grievance, operational-development, and renewable-demand mechanism. Add *Epistemic Constitution* only when the question reaches the Edelmanian doctrinal limit case or constitutional drive direction. Do not combine Minogue's judgments into an exact quotation or infer truth, legitimacy, conspiracy, centralized intent, censorship, pathology, conscious suicidal or exterminatory purpose, a Ragnarök trajectory, or a direct genealogy from resistance or resemblance alone. |
 | Torfing, Laclau, Mouffe, Discourse Theory, articulation, nodal or empty signifiers, hegemony, dislocation, antagonism versus agonism, democratic adversaries, conflictual consensus, whether low conflict is healthy, or how a counter-hegemonic movement behaves after victory | Add *Analogical Models in Culture Mechanics*, “Torfing, Laclau, and Mouffe: articulation, hegemony, and executable cultural order,” plus *Mythology Construction* for braiding, replacement, Babelization, and doctrinal progeny, and *Epistemic Constitution* for standing, contestability, constitutional scripts, correction, and succession. Preserve the external theory's meanings while distinguishing discourse from executable installation, antagonism from Babelization, and permanent contestability from permanent contest. Treat Podemos, La France insoumise, and SYRIZA as illustrative offspring cases rather than a causal experiment. |
 | Venkatesh Rao, the unraveling of scripts, “how things work around here,” occupational or institutional scripts, why a cultural principle fails in local practice, script repair versus cultural replacement, bridge scripts, or how breakdown propagates across roles and institutions | Start with *Culture Mechanics*, “Situated cultural scripts: executable local braids.” Add *Mythology Construction* for embodiment, script-and-interface mapping, transition bridges, cross-script cascades, and cultural unbraiding; add *Epistemic Constitution* for dissent, opposition, loss, succession, correction, or dormant contestability; add *Analogical Models*, “Venkatesh Rao: situated scripts, unraveling, and cultural transition,” for the full source mapping and its relation to Mouffe. Keep cultural braid, script, local variant, and enactment distinct; scriptlessness is not an empty PCI slot, script viability is not moral legitimacy, and script unraveling is not automatically Babelization or antagonism. |
-| Whether differentiated groups can still understand one another, accept common procedures, remain one political field, or act together; Babelization; how thick or widely shared a lifted order must be; or whether strong unity preserves or absorbs persons | Start with the core sections on differentiated unity, subjecthood absorption, crowd modes, and lifted mechanical solidarity. Add *Mythology Construction*, “Cultural interoperability and its breakdown (Babelization),” for effective meta-order thickness, span, shared surface, the cultural-interoperability floor (anti-Babel floor), semantic decoupling, and collective-agency failure. Add *Analogical Models in Culture Mechanics* when the Babel, orchestra, clockwork, or laser mapping helps. |
+| Whether differentiated groups can still understand one another, accept common procedures, remain one political field, or act together; Babelization; whether mutually intelligible islands are shrinking toward very small groups or the individual limit; whether loneliness reflects failed recognition despite contact; how thick or widely shared a lifted order must be; or whether strong unity preserves or absorbs persons | Start with the core sections on differentiated unity, subjecthood absorption, crowd modes, and lifted mechanical solidarity. Add *Mythology Construction*, “Cultural interoperability and its breakdown (Babelization),” for effective meta-order thickness, span, shared surface, the cultural-interoperability floor (anti-Babel floor), semantic decoupling, residual interoperability scale, very-small-group and individual-limit Babelization, the bounded loneliness hypothesis, and collective-agency failure. Loneliness is a possible consequence or sensor, not proof. Add *Analogical Models in Culture Mechanics* when the Babel, orchestra, clockwork, or laser mapping helps. |
 | “Quantum Mechanics of Psychology,” “Newtonian psychology,” difficult-to-observe collective effects, weak-field gravity, cultural dormancy or forgetting, affectively dead rules, historical witnesses, sleeping or waking collectives, physical or computing metaphors, random/clockwork/laser crowds, *Pluribus*, the Borg, “Resistance is futile,” or other fictional hive minds, magnetization, domains, remanence, field back-action, the coupling thermostat, braiding, how several analogies fit together, where an analogy breaks down, or a difficult mechanism that would benefit from controlled cross-level comparison | Add *Analogical Models in Culture Mechanics: A Semantic Inventory* and the smallest primary source it identifies. For observability, cultural loss, witness evidence, and activation profiles, pair it with *Epistemic Agency under Mechanical Solidarity*, “Observability, cultural forgetting, and contemporary witnesses” and “Activation profiles and episodic multi-mind-selves.” Use the inventory for mappings and limits, not as a substitute for the construct's definition. |
 | Revolution, political religion, sacred principles, nonlinear public amplification, resonance catastrophe, *Resonanzkatastrophe*, revolutionary overshoot, or why a doctrine first expressed latent aspirations and later programmed a population | Add *Mythology Construction* for pre-articulation genesis, receiver–order mismatch, aspirational authorization, functional remainder, mobilizational absoluteness, and overshoot. Add *Analogical Models in Culture Mechanics*, “Resonance catastrophe (*Resonanzkatastrophe*),” for the six qualifying criteria and comparison with crisis, revolution, effervescence, and media cascade. |
 | Whether a mythology grew “naturally,” was deliberately engineered, or was redirected toward a chosen social outcome; memetic engineering; or why an intended cultural programme produced a different successor | Add *Mythology Construction*, “Pre-articulation genesis and receiver–order mismatch” and “Prospective purposive construction as a trajectory-intervention hypothesis.” Treat endogenous formation as a substantive path, not merely a design baseline; treat purposive construction as an open research possibility, identify any declared destination \(D^*\), and test receiver, institutional, rival, consequence, and reality selection. Add the analogy inventory only for the bounded memetic-engineering comparison. |
@@ -411,6 +504,8 @@ of reconstructing it from this guide.
 | Uniforms, veiling, badges, flags, masks, certificates, imposed target marks, prescribed language, slogans, salutes, silence, refusal, loyalty tests, conformity pressure, proselytism, jealousy, enforcement--exclusion, genocidal escalation, moralized exclusion, or why a symbol seems threatening | Core: *Culture Mechanics*, “Culture-mechanical objects, ideological programs, conformity signals, and targeting signals”; add *Epistemic Agency under Mechanical Solidarity* only when field formation or collective agency needs extended treatment; add *Epistemic Constitution of Lifted Mechanical Solidarity* for civic standing, due process, public coercion, denial, or memory control |
 | Public truthfulness, compulsory avowal, organized unreality, institutional memory, or correction | Add *Epistemic Constitution of Lifted Mechanical Solidarity* |
 | Misleading wording, omission, framing, redefinition, diversion, sophistry, dialogue manipulation, visible cues of goodness or expertise substituting for actual function, or a public doctrine that conceals the affective and institutional machinery expected to implement it | Add *Linguistic Tricks: A Semantic Inventory*. Use LT-040 for Wegner's *Wie–Was* diagnostic and LT-041 for doctrinal causal omission; add *Mythology Construction* for the complete wrapper–payload, offspring-profile, knowledge, foreseeability, and responsibility analysis. Preserve the boundaries between fallible proxy and counterfeit, and between an incomplete account and supported lying by omission. |
+| “Political Tourette syndrome,” reality-free invective, projective labeling, Accusation in a Mirror, an opponent called “Nazi,” “fascist,” “cult,” or “Cultural WMD,” symbolic vandalism, thrill of transgression, or accusations that seem like confession | Start with LT-032 and the iron law of ideological projection in *Linguistic Tricks*. Add *Mythology Construction* for the projective-vandalism and denunciatory-jouissance hypothesis, *Culture Program Ecology* for the Attribution-Source Asymmetry, and *Epistemic Constitution* for accusation safeguards. Self-attribution is situated evidence about the speaker; enemy-attribution is an allegation about the target. Do not infer target classification, projection, confession, or jouissance from label extremity or falsity alone. |
+| Whether a secret Culture Program can grow large; public versus internal doctrine; exoteric and esoteric teaching; fronts, dog whistles, compartmentalization, member self-description, or what a mass program must reveal to reproduce | Add *Culture Program Ecology* for the Propagation–Visibility Constraint and cross-audience audit; add *Mythology Construction* for transmission and embodiment and *Linguistic Tricks* for double address, cue–function substitution, and doctrinal causal omission. Treat secrecy as a scale/fidelity trade-off, not an impossibility theorem or proof of public candour. |
 | How a literally defensible or highly compressed message makes an audience reconstruct a misleading factual, causal, moral, or political model; compression/decompression; an anticipated decoder or codebook | Core: *Epistemic Agency under Mechanical Solidarity*, “Audience-modelled reconstruction and decompression.” Add *Linguistic Tricks* for the component operations and *Analogical Models* for the lossy codec mapping. Compare the surface message, omitted structures, assumed recipient, predictable and actual reconstruction, and alternatives. Treat “decoder” as an analogy for ordinary reconstruction plus installed-lens classification, not as another Culture Mechanics processor. |
 | Why people experience a proposal as good or evil; why one mythology seems to protect what matters while another seems hostile; disputes about what an action strengthens, damages, sacrifices, or ignores; mirroring, foregrounding, change framing, ethics as a weapon, or Wegner's *Vierschritt der Kontrolle* | Start with the core section “Relevant structures and moral appraisal.” Add *Mythology Construction*, “Relevant-structure resonance across the three components,” “Mirrored and foregrounded relevance,” and “Relevant-structure weaponization and Wegner's control schema,” as needed. Keep felt relevance, represented effect, actual effect, generative centrality, normative standing, activation, and durable reprogramming separate. |
 | Sublimation as psychological alchemy; cultural work ethic or civilizational character; “Jetzt wird wieder in die Hände gespuckt” versus “Mach mal wieder Pause”; a slogan, song, hero, ritual, or exemplary practice standing for a larger formative machinery; cynical ridicule of effort, restraint, service, or aspiration; cultural de-animation; consumption of inherited cultural capital; or whether counter-mythology is correction or corrosion | Start with *Mythology Construction*, “Sublimation and moral formation,” especially “Cultural sublimation architecture,” “Symbolic condensation and counter-mythological reprogramming,” and “Illustrative carrier contrast: shared work and pause.” Add the core sections “Relevant structures and moral appraisal,” “Programming, activation, and reprogramming,” and “Culture-mechanical objects” for the canonical architecture. Add *Analogical Models* only when Wegner's compression/decompression or sublimation-emblem language improves understanding. Distinguish process, resulting practice, architecture, and carrier; felt relevance from generative centrality; activation from reprogramming; and de-animation from proof of deliberate attack. |
@@ -461,6 +556,49 @@ apologetics, or polemics in greater detail.
   propagation and enforcement configurations. Keep *Beseelung*, recruitment,
   retention, jealousy, jurisdiction, sanctions, and physical violence as separate
   axes.
+- When the Culture Program branch matters, identify the unit, subtractive essence,
+  load-bearing claim, accessible defeater, final interpreter, evidence horizon,
+  actual correction, and countercase. Keep branch independent of order level,
+  propagation form, corrigibility, jurisdiction, *Beseelung*, entrusted power,
+  capture susceptibility, and hazard.
+- When Culture Program capture matters, derive the incumbent objective, activity
+  system, role criteria, and metrics; compare performance under the incumbent and
+  candidate successor; identify the capture-inference stage; and calibrate the
+  proposed response. Map carrying-structure nodes and distinguish vigilance,
+  targeted infrastructure control, and person-directed sanction. Do not infer a
+  covert operational agent or individual guilt from a system-level pattern.
+- When an actor seriously proclaims program allegiance, authorization, intent, or
+  action, apply the Self-Attribution Presumption: believe that report first as
+  evidence of the actor's operative understanding and as a program-level warning.
+  Then test authenticity, timing, script fit, authority, internal contestation,
+  recurrence, organizational support, and rival explanations. Do not confuse
+  reported authorization with cosmological truth, collective agreement,
+  parent-program causation, or upstream command.
+- Source-separate attribution. A hostile “Nazi” or “Cultural WMD” label is an
+  allegation about the target and evidence of the accuser's classification; it
+  is not the target's self-report. Require independent target evidence and infer
+  projection only from corresponding evidence about the accuser.
+- For large or allegedly secret programs, compare public doctrine, recruitment,
+  internal and elite formation, spontaneous member descriptions, action grammar,
+  sanctions, institutions, and offspring. Secrecy can shift the channel but
+  ordinarily trades off against scale or transmission fidelity.
+- For an adaptive pluralist design, separate the person-protecting constraint
+  shell, variation topology, proposal layer, sensors, update or selection rule,
+  and living moral formation. Compare scorecards with raw outcomes, testimony,
+  audit, and costly entry/retention/exit; do not appoint any one signal as oracle.
+- For soft secession, distinguish Mises's territorial self-determination from the
+  project's reversed-priority translation. Audit the central capture prize,
+  common-mode dependencies, local failure domains, blast radius, surviving
+  alternatives, recovery, and common-shell protection.
+- For a *Schutzbalken* analysis, state the concrete person or standing protected,
+  the power centre and mechanism, its jurisdiction, answerability, review,
+  correction, succession, alternatives, refusal, and exit. Evaluate elections and
+  other institutions as fallible implementations. Apply the same test to a public
+  protector erected against private power.
+- When using the Lifted-Order Capacity Dashboard, preserve all nine capacities,
+  their three diagnostic groups, sensor discrepancies, distributions, and
+  non-compensable sentinels. Under *Own*, distinguish homestead stock, generation,
+  and retention and test effective security rather than nominal title.
 - When order level matters, ask whether participants share concrete rules and
   answers or the generator that produces and corrects them. Treat dense detailed
   rules as evidence, and pluralism as a possible output, rather than either as the
@@ -512,6 +650,36 @@ apologetics, or polemics in greater detail.
 - **Pluralism-as-definition:** lifted solidarity is defined by diverse ways of life
   or bounded institutions. Define it by the shared answer generator; plurality is
   one possible generated result.
+- **Branch-by-aesthetics:** warmth, sacredness, identity, religion, technical
+  language, usefulness, current success, or current harm is used to classify a
+  Culture Program. Apply the load-bearing defeat-condition test instead.
+- **Strategy-as-truth:** a Culture Strategy is treated as true or legitimate
+  because it is reality-answerable, or a failed strategy is relabelled
+  Pure-Ideology merely because it failed.
+- **Capture conflation:** neutral full slot occupancy, first-order recapture,
+  Culture Program capture, ponerogenic capture, and actor-specific covert command
+  are treated as one claim. Preserve their different meanings and evidence
+  burdens; disagreement, slow change, low performance, self-attribution, or one
+  metric is not sufficient by itself.
+- **Carrier--infrastructure collapse:** a program-level warning is used to punish
+  human carriers, or “infrastructure-directed” is used to evade rights and due
+  process. Map actual finance, formation, coordination, logistics, protection,
+  and succession functions; require a causal nexus and proportionate review.
+- **Self-attribution erasure or inflation:** an actor's serious proclamation is
+  redescribed away before analysis, or accepted as complete proof of cosmology,
+  parent-program causation, collective agreement, or upstream command. Begin with
+  credence about the actor's operative understanding, then discriminate.
+- **Enemy-label bootstrapping:** hostile nuclear vocabulary is treated as target
+  self-description or Cultural-WMD diagnosis, or a false accusation is treated
+  automatically as projection and confession. Source-separate the claims and
+  require independent evidence.
+- **Secrecy absolutism:** a program is assumed either completely candid or
+  completely invisible. Audit audiences and channels; fronts, codes, ritual, and
+  compartmentalization can shift transmission while preserving the predicted
+  scale/fidelity trade-off.
+- **Hazard-by-label:** a parent program is convicted or exonerated by its name,
+  one descendant, or one preferred exemplar without the offspring, attribution,
+  capture, denominator, jurisdiction, and state-burden analysis.
 - **Lifted-authority localization:** the bounded jurisdiction of parliament, a
   court, an office, a profession, or another representative is mistaken for a
   bounded lifted order. The meta-order universally constitutes and limits these

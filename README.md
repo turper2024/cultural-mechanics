@@ -25,11 +25,11 @@ the interface evolves.
 1. Start a new ordinary ChatGPT chat.
 2. Choose a source setup:
    - For the simplest full-source setup, attach
-     `build/0000-culture-mechanics.all.md`.
+     `build/md/0000-culture-mechanics.all.md`.
    - For modular source selection, attach
      `0000-culture-mechanics.guide.md` and
-     `build/0000-culture-mechanics.core.md`. Add an individual optional Markdown
-     source from `build/` later when the question needs it.
+     `build/md/0000-culture-mechanics.core.md`. Add an individual optional Markdown
+     source from `build/md/` later when the question needs it.
 3. Open `0000-culture-mechanics.project-instructions.1.md`, copy its complete
    contents, and paste them into the opening message.
 4. Add your question naturally. You can write, for example: “Please analyze the
@@ -65,7 +65,7 @@ the interface evolves.
    ([screenshot](docs/50-settings.png)).
 5. Select **Sources**, then **Add sources**, and upload
    `0000-culture-mechanics.guide.md` and
-   `build/0000-culture-mechanics.core.md`. Confirm that both appear in the source
+   `build/md/0000-culture-mechanics.core.md`. Confirm that both appear in the source
    list ([screenshot](docs/60-sources.png)). The screenshot shows
    `guide(1).md` because that local copy had acquired a duplicate-file suffix; use
    the `0000-culture-mechanics.guide.md` supplied in this package.
@@ -74,7 +74,7 @@ the interface evolves.
    it should first return a relevance assessment. Check whether the question and
    proposed theory sections were understood; then reply “continue” when suitable.
 7. If ChatGPT names a supplementary source, find the individual Markdown file
-   under `build/`, add it to the Project sources, and ask ChatGPT to continue. If
+   under `build/md/`, add it to the Project sources, and ask ChatGPT to continue. If
    the named file is unavailable, do not ask ChatGPT to invent its contents.
 8. Near the end of a theory-development conversation, you may paste the complete
    terminal review prompt into the current chat. Do not put that prompt into the
@@ -86,7 +86,7 @@ external book not included in this package. Read the book rather than asking
 ChatGPT to reconstruct its method from the supplied theory files.
 
 One optional file is
-`build/0050-culture-mechanics-analogies.semantic-inventory.md`. ChatGPT may request
+`build/md/0050-culture-mechanics-analogies.semantic-inventory.md`. ChatGPT may request
 it even when your question does not mention an analogy, if a controlled comparison
 can clarify a mechanism, expose a boundary, or suggest a possible test. It also
 contains explicitly labelled mappings to selected neighbouring theories, including
@@ -95,11 +95,65 @@ Mouffe, together with Venkatesh Rao's account of script unraveling. It should
 pair the inventory with the primary theory source and must not treat resemblance as
 evidence.
 
+Another optional file is
+`build/md/0060-culture-program-ecology.semantic-definition.md`. Add it for questions
+about Culture Programs, Culture Strategy versus Pure-Ideology, Culture-Embedded
+Strategy, reality testing, mixed cultural braids, program competition, fanatic or
+fatal offspring, Culture Program capture, program disharmony, objective
+substitution, gradual or glacial capture, Culture Program carrying structure,
+money flows, teaching or recruitment infrastructure, organizational
+countermeasures, program-derived alignment metrics, the Self-Attribution
+Presumption (“believe a serious actor proclamation first, then test its causal
+scope”), hostile third-party labels versus self-attribution, the cross-audience
+self-description audit, secret-program scale and fidelity, internal contestation,
+staged capture inference, catastrophic hazard, entrusted power, pluralism,
+classical liberalism, the systemic skeleton and living cultural body, adaptive
+constitutional search, the Lifted-Order Capacity Dashboard (Speak, Own, Refuse,
+Exit, Appeal, Correct, Cooperate, Build, Choose), Secure Homestead Rate,
+constitutional sentinels, SGD variants, scorecards, soft secession, bounded
+reversed legal priority (*umgekehrte Maßgeblichkeit*), *Abstimmung mit den
+Füßen*, Mises's secession argument, “stroke of the pen” implementation,
+distributed jurisdictions as bounded capture-failure domains, democracy as
+*Schutzbalken gegen die Macht*, public or private power,
+democratic purpose versus elections and other implementations, the bounded
+protector, constitutional risk management for *ideologische Macht*,
+*Machtpolitik* and *Willkürherrschaft*, the typed Ideological-Power Hazard
+Diagnostic, Cipolla--Bonhoeffer--normopathy--ponerology, AI as a speculative
+queen-bee or common-mode cultural-control stress test, the
+critical-constructivist candidate application, *Hegung*, Conflict-Finders,
+cultural capital, awe, or sublimated rivalry.
+Keep the capacities separate. Treat SGD as an analogy, metrics as gameable, foot
+voting as costly but causally opaque, staying as non-consent, effective homestead
+as more than nominal title, sentinels as non-compensable but
+non-self-authenticating, and local priority as bounded by the common
+person-protecting shell. Treat power as necessary but dangerous when it becomes
+unbounded, unanswerable, self-certifying, or inescapable; do not collapse state
+coercion and private leverage or exempt the protector from review. Preserve
+Mises as a co-origin, not the author of the project mechanism; legal-priority
+change is not effortless implementation, and decentralization is not capture
+immunity. Separate the document's analytical typology, problem and hazard
+diagnosis, and candidate solution design; accepting one does not automatically
+establish the next. Keep ideological-power capability, capture,
+*Machtpolitik* as a possible objective, *Willkürherrschaft* as a possible
+endpoint, and *Schutzbalken* as defensive architecture distinct. Treat the
+hazard diagnostic as a typed profile rather than a scalar score, the
+critical-constructivist umbrella as an originating candidate application, and
+the AI queen bee as speculation. Scenario-level preparation does not prove
+conspiracy, intent, guilt, or grounds for person-directed coercion. Its charged
+examples are framed application hypotheses, not proof by inclusion.
+
 The package also contains
-`build/0500-culture-mechanics-speculative-history.pdf`. This is optional background
+`build/pdf/0500-culture-mechanics-speculative-history.pdf`. This is optional background
 reading for human participants. It presents a deliberately speculative historical
 narrative, is not an authoritative theory source, and is not part of the ChatGPT
 inference workflow. **Do not attach or upload this PDF as a ChatGPT source.**
+
+The package also contains `build/pdf/0500-culture-mechanics-origin-story.pdf`. This is
+optional background reading for human participants who want to understand how the
+theory grew from problems of business strategy, company culture, material
+production, and reality testing. It is not an authoritative theory source and is
+not part of the ChatGPT inference workflow. **Do not attach or upload this PDF as a
+ChatGPT source.**
 
 The answer should distinguish claims made by the theory from external facts,
 case-specific inferences, and candidate refinements, and should state limitations
@@ -129,11 +183,11 @@ Anordnung können sich mit der Benutzeroberfläche ändern.
 1. Beginnen Sie einen neuen gewöhnlichen ChatGPT-Chat.
 2. Wählen Sie eine Quellenausstattung:
    - Für die einfachste Ausstattung mit allen Quellen hängen Sie
-     `build/0000-culture-mechanics.all.md` an.
+     `build/md/0000-culture-mechanics.all.md` an.
    - Für eine modulare Quellenauswahl hängen Sie
      `0000-culture-mechanics.guide.md` und
-     `build/0000-culture-mechanics.core.md` an. Fügen Sie später bei Bedarf eine
-     einzelne optionale Markdown-Quelle aus `build/` hinzu.
+     `build/md/0000-culture-mechanics.core.md` an. Fügen Sie später bei Bedarf eine
+     einzelne optionale Markdown-Quelle aus `build/md/` hinzu.
 3. Öffnen Sie `0000-culture-mechanics.project-instructions.1.md`, kopieren Sie den
    vollständigen Inhalt und fügen Sie ihn in die erste Nachricht ein.
 4. Ergänzen Sie Ihre Frage in natürlicher Sprache. Sie können zum Beispiel
@@ -174,7 +228,7 @@ Anordnung können sich mit der Benutzeroberfläche ändern.
    ([Bildschirmfoto](docs/50-settings.png)).
 5. Wählen Sie **Sources** (Quellen) und danach **Add sources** (Quellen hinzufügen).
    Laden Sie `0000-culture-mechanics.guide.md` und
-   `build/0000-culture-mechanics.core.md` hoch. Prüfen Sie, ob beide in der
+   `build/md/0000-culture-mechanics.core.md` hoch. Prüfen Sie, ob beide in der
    Quellenliste erscheinen
    ([Bildschirmfoto](docs/60-sources.png)). Im Bildschirmfoto
    erscheint `guide(1).md`, weil diese lokale Kopie bereits einen Namenszusatz für
@@ -187,7 +241,7 @@ Anordnung können sich mit der Benutzeroberfläche ändern.
    Theorieabschnitte richtig verstanden wurden, und antworten Sie danach
    gegebenenfalls mit „weiter“.
 7. Falls ChatGPT eine ergänzende Quelle nennt, suchen Sie die einzelne
-   Markdown-Datei unter `build/`, fügen Sie sie den Projektquellen hinzu und bitten
+   Markdown-Datei unter `build/md/`, fügen Sie sie den Projektquellen hinzu und bitten
    Sie ChatGPT fortzufahren. Falls die Datei nicht verfügbar ist, bitten Sie
    ChatGPT nicht, ihren Inhalt zu erfinden.
 8. Gegen Ende eines Gesprächs zur Theorieentwicklung können Sie den vollständigen
@@ -201,7 +255,7 @@ Lesen Sie das Buch, statt ChatGPT aufzufordern, seine Methode aus den
 bereitgestellten Theoriedateien zu rekonstruieren.
 
 Eine der optionalen Dateien ist
-`build/0050-culture-mechanics-analogies.semantic-inventory.md`. ChatGPT kann diese
+`build/md/0050-culture-mechanics-analogies.semantic-inventory.md`. ChatGPT kann diese
 Datei auch dann anfordern, wenn Ihre Frage keine Analogie erwähnt, sofern ein
 kontrollierter Vergleich einen Mechanismus verdeutlichen, eine Grenze aufzeigen
 oder einen möglichen Test nahelegen kann. Sie enthält außerdem ausdrücklich als
@@ -211,10 +265,77 @@ Mouffe und Venkatesh Raos Darstellung des Zerfalls von Skripten. Das
 Analogieninventar soll zusammen mit
 der primären Theoriequelle verwendet werden; Ähnlichkeit gilt nicht als Beleg.
 
+Eine weitere optionale Datei ist
+`build/md/0060-culture-program-ecology.semantic-definition.md`. Fügen Sie sie bei
+Fragen zu Kulturprogrammen, Kulturstrategie im Unterschied zu
+Pure-Ideology, Culture-Embedded Strategy, Realitätsprüfung, gemischten kulturellen
+Geflechten, Programmkonkurrenz, fanatischen oder tödlichen Nachkommen, Culture
+Program Capture (Übernahme eines Kulturprogramms), Programmdisharmonie,
+Zielsubstitution, schrittweiser oder „glazialer“ Übernahme, aus dem Programm
+abgeleiteten Übereinstimmungsmetriken, der Culture Program Carrying Structure
+(organisatorischen und materiellen Trägerstruktur), Geldflüssen, Lehr- oder
+Rekrutierungsinfrastruktur, organisatorischen Gegenmaßnahmen, der
+Self-Attribution Presumption („einer ernsthaften Selbstzuschreibung des
+Handelnden zuerst glauben und danach ihre kausale Reichweite prüfen“), feindlichen
+Fremdzuschreibungen im Unterschied zur Selbstzuschreibung, der
+zielgruppenübergreifenden Prüfung von Selbstbeschreibungen, dem Zusammenhang von
+Geheimhaltung mit Reichweite und Übertragungstreue, interner Bestreitung,
+stufenweiser Übernahmeinferenz, katastrophalen Gefahren, anvertrauter Macht,
+Pluralismus, klassischem Liberalismus, dem systemischen Skelett und dem lebendigen
+kulturellen Körper, adaptiver Verfassungssuche, dem Lifted-Order Capacity
+Dashboard (Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, Choose),
+der Secure Homestead Rate, verfassungsrechtlichen Sentinel-Ereignissen,
+SGD-Varianten, Kennzahlensystemen, weicher Sezession, begrenzter umgekehrter
+Maßgeblichkeit, *Abstimmung mit den Füßen*, Demokratie als *Schutzbalken gegen
+die Macht*, Mises' Sezessionsgedanken, der Implementierung „mit einem
+Federstrich“, verteilten Zuständigkeiten als begrenzten Fehlerdomänen gegen
+Übernahme, öffentlicher oder privater Macht, dem Zweck der Demokratie im
+Unterschied zu Wahlen und anderen Implementierungen, dem begrenzten
+Schutzakteur, verfassungsbezogenem Risikomanagement für *ideologische Macht*,
+*Machtpolitik* und *Willkürherrschaft*, dem typisierten
+Ideological-Power-Hazard-Diagnostic, der Verbindung von Cipolla, Bonhoeffer,
+Normopathie und Ponerologie, KI als spekulativem Bienenkönigin- oder
+Common-Mode-Stresstest kultureller Steuerung, der
+kritisch-konstruktivistischen Kandidatenanwendung, *Hegung*, Konfliktfindern,
+kulturellem Kapital, Ehrfurcht oder sublimierter Rivalität hinzu. Halten Sie die
+Fähigkeiten
+getrennt. Behandeln Sie SGD als Analogie, Kennzahlen als manipulierbar und
+Abstimmung mit den Füßen als kostspielig, aber kausal mehrdeutig; Bleiben ist
+keine Zustimmung, effektiver Grundbesitz ist mehr als ein nomineller Titel,
+Sentinel-Ereignisse sind nicht kompensierbar, beweisen sich aber nicht selbst, und
+lokale Maßgeblichkeit bleibt durch die gemeinsame personenschützende Ordnung
+begrenzt. Macht ist notwendig, wird aber gefährlich, wenn sie unbegrenzt, nicht
+rechenschaftspflichtig, selbstbeglaubigend oder praktisch unausweichlich wird;
+staatlicher Zwang und private Abhängigkeit sind nicht gleichzusetzen, und auch
+der Schutzakteur bleibt überprüfbar. Mises bleibt ein Mitursprung und nicht der
+Urheber des Projektmechanismus; die Änderung des Rechtsvorrangs bedeutet keine
+mühelose Umsetzung, und Dezentralisierung schafft keine Immunität gegen
+Übernahme. Trennen Sie die analytische Typologie, die Problem- und
+Gefahrendiagnose und den vorgeschlagenen Lösungsentwurf des Dokuments;
+die Zustimmung zu einer Ebene begründet nicht automatisch die nächste.
+Halten Sie ideologische Macht als kulturelle Fähigkeit, Übernahme oder
+Ausnutzung, *Machtpolitik* als mögliches Ziel, *Willkürherrschaft* als möglichen
+Endzustand und *Schutzbalken* als Verteidigungsarchitektur auseinander.
+Behandeln Sie das Gefahrendiagnostikum als typisiertes Profil statt als
+Skalarwert, den kritisch-konstruktivistischen Oberbegriff als ursprüngliche
+Kandidatenanwendung und die KI-Bienenkönigin als Spekulation. Vorsorge auf
+Szenarioebene beweist weder Verschwörung, Absicht oder Schuld noch eine Grundlage
+für personenbezogenen Zwang.
+Ihre politisch aufgeladenen Beispiele sind
+eingerahmte Anwendungshypothesen und keine Belege allein durch ihre Aufnahme.
+
 Das Paket enthält außerdem
-`build/0500-culture-mechanics-speculative-history.pdf`. Diese Datei ist ein
+`build/pdf/0500-culture-mechanics-speculative-history.pdf`. Diese Datei ist ein
 freiwilliger Hintergrundtext ausschließlich für menschliche Teilnehmer. Sie stellt
 eine bewusst spekulative historische Erzählung dar, ist keine maßgebliche
+Theoriequelle und gehört nicht zum ChatGPT-Inferenzverfahren. **Laden Sie diese
+PDF-Datei weder als Anhang noch als ChatGPT-Quelle hoch.**
+
+Das Paket enthält außerdem
+`build/pdf/0500-culture-mechanics-origin-story.pdf`. Diese Datei ist ein freiwilliger
+Hintergrundtext ausschließlich für menschliche Teilnehmer, die nachvollziehen
+möchten, wie die Theorie aus Fragen zu Unternehmensstrategie, Unternehmenskultur,
+materieller Produktion und Realitätsprüfung hervorging. Sie ist keine maßgebliche
 Theoriequelle und gehört nicht zum ChatGPT-Inferenzverfahren. **Laden Sie diese
 PDF-Datei weder als Anhang noch als ChatGPT-Quelle hoch.**
 
