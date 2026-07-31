@@ -93,7 +93,14 @@ contains explicitly labelled mappings to selected neighbouring theories, includi
 Julian Jaynes and Joscha Bach, and the discourse theory of Torfing, Laclau, and
 Mouffe, together with Venkatesh Rao's account of script unraveling. It should
 pair the inventory with the primary theory source and must not treat resemblance as
-evidence.
+evidence. Its nuclear-reactor mapping uses Pageau's Grail question to audit whom
+or what produced capability serves while keeping capability, drive valence,
+destructive sublimation, un-reason, and Ragnarök trajectory distinct.
+Its Titanic mapping distinguishes electoral captain turnover from democratic
+course corrigibility without inferring one hidden helmsman. Its favour-bank-cloud
+mapping distinguishes cultivation, implicit debt, routed return favours, and
+recruitment from ordinary reciprocity and from the narrow *Kommandoagent*
+hypothesis.
 
 Another optional file is
 `build/md/0060-culture-program-ecology.semantic-definition.md`. Add it for questions
@@ -106,18 +113,33 @@ countermeasures, program-derived alignment metrics, the Self-Attribution
 Presumption (“believe a serious actor proclamation first, then test its causal
 scope”), hostile third-party labels versus self-attribution, the cross-audience
 self-description audit, secret-program scale and fidelity, internal contestation,
-staged capture inference, catastrophic hazard, entrusted power, pluralism,
+staged capture inference, Shadow Sovereign (*Besatzungsmacht*), the visible
+bottom-up diagnosis of Shadow-Sovereign rule, Kisin's
+captain-turnover/course-control image, the hypothetical Burnham--Orwell
+one-more-layer threat model, the narrow *Kommandoagent* actor hypothesis,
+implicit-debt grooming, the favour-bank cloud, routed return favours and
+recruitment, catastrophic hazard, entrusted power, pluralism,
 classical liberalism, the systemic skeleton and living cultural body, adaptive
 constitutional search, the Lifted-Order Capacity Dashboard (Speak, Own, Refuse,
 Exit, Appeal, Correct, Cooperate, Build, Choose), Secure Homestead Rate,
 constitutional sentinels, SGD variants, scorecards, soft secession, bounded
 reversed legal priority (*umgekehrte Maßgeblichkeit*), *Abstimmung mit den
 Füßen*, Mises's secession argument, “stroke of the pen” implementation,
-distributed jurisdictions as bounded capture-failure domains, democracy as
+distributed jurisdictions as bounded capture-failure domains, the typed
+Pure-Ideology multi-mind-self at the severe-Babelization fork, the
+Augsburg--Westphalia territorial settlement as a negotiated-coexistence marker
+and soft-secession analogue, democracy as
 *Schutzbalken gegen die Macht*, public or private power,
 democratic purpose versus elections and other implementations, the bounded
 protector, constitutional risk management for *ideologische Macht*,
-*Machtpolitik* and *Willkürherrschaft*, the typed Ideological-Power Hazard
+*Machtpolitik* and *Willkürherrschaft*, Benda's morality--politics and
+truth--utility bridge, the necessary systemic-lying core of *Machtpolitik*,
+the relation between Benda's *clerc* and trusted opinion leaders, Benda's
+secondary warning repertoire of moralized strength, repudiated reciprocal
+constraint, factionalized state, punished independent judgment, instrumental
+contempt, and national infallibility,
+Fraenkel's *Normenstaat*, *Maßnahmenstaat*, and *Doppelstaat*,
+truth-preserving culture, the typed Ideological-Power Hazard
 Diagnostic, Cipolla--Bonhoeffer--normopathy--ponerology, AI as a speculative
 queen-bee or common-mode cultural-control stress test, the
 critical-constructivist candidate application, *Hegung*, Conflict-Finders,
@@ -134,13 +156,53 @@ change is not effortless implementation, and decentralization is not capture
 immunity. Separate the document's analytical typology, problem and hazard
 diagnosis, and candidate solution design; accepting one does not automatically
 establish the next. Keep ideological-power capability, capture,
-*Machtpolitik* as a possible objective, *Willkürherrschaft* as a possible
-endpoint, and *Schutzbalken* as defensive architecture distinct. Treat the
+*Machtpolitik* as the strict composite of a power-seeking objective,
+ideological-power exploitation, Culture Mechanics, Cipollan bandit–carrier
+payoff asymmetry, and a necessary systemic-lying core,
+*Willkürherrschaft* as a possible endpoint, and *Schutzbalken* as defensive
+architecture distinct. Preserve that ***Machtpolitik* entails systemic lying** while keeping
+the converse false; classify openly avowed domination without systemic lying as
+open authoritarianism or naked domination. Treat truth-preserving culture as a
+central roadblock to *Machtpolitik*, while recognizing that it is not a complete
+defence against open force. Treat doublethink as a narrower possible mechanism
+rather than another name for either category. Keep Benda's *clerc* as his
+intellectual-vocation term and trusted opinion leader as the theory's
+receiving-field function; their overlap can increase authorization and cascade
+without establishing betrayal or capture. Treat Benda's secondary motifs as
+attributed warning patterns rather than necessary components, a scalar score, or
+shortcut evidence of betrayal, systemic lying, *Machtpolitik*, or
+*Willkürherrschaft*. Do not equate Le Bon's crowd-level contradictory ideas with
+Orwellian doublethink or infer that every multi-mind-self rejects negotiation,
+contract, or reciprocal law. The stronger Pure-Ideology case requires integrated
+multi-mind-self agency, load-bearing closure, compulsory supremacy, an
+incompatible output, severe Babelization, and an unavoidable common decision.
+Even then distinguish tactical bargaining from reciprocal adjudication entitled
+to defeat the compulsory claim; accepting bounded jurisdiction can remove the
+supremacy condition without changing the Pure-Ideology branch. Use Westphalia as
+a bounded marker of negotiated confessional and jurisdictional coexistence and
+connect its continuing common shell plus separate territorial jurisdictions to
+the topology of soft secession. Assign the ruler-centred *ius reformandi*
+principally to Augsburg (1555); Westphalia (1648) restored, extended, stabilized,
+and constrained the pattern. Do not import ruler-prescribed religion into the
+person-centred proposal or present the analogy as the invention of sovereign
+states, proof that all conflict is negotiable, or an exact implementation. Do not
+equate a Fraenkelian
+*Normenstaat* inside a *Doppelstaat* with a *Rechtsstaat*: the decisive question
+is whether the *Maßnahmenstaat* can withdraw politically classified cases from
+effective legal guarantees. Keep *Doppelstaat*, systemic lying, *Machtpolitik*,
+and *Willkürherrschaft* distinct, and distinguish unreviewable prerogative
+override from bounded, reviewable emergency law. Treat the
 hazard diagnostic as a typed profile rather than a scalar score, the
 critical-constructivist umbrella as an originating candidate application, and
 the AI queen bee as speculation. Scenario-level preparation does not prove
 conspiracy, intent, guilt, or grounds for person-directed coercion. Its charged
 examples are framed application hypotheses, not proof by inclusion.
+For Shadow-Sovereign rule, separate the visible state from its functional
+sovereignty position and from occupant attribution. Require a named course, real
+electoral turnover, a credible voter-backed reversal attempt, failed correction,
+and convergent bottom-up effects. Course continuity or institutional complexity
+alone proves neither legal occupation, conspiracy, a hidden Inner Party, nor
+*Machtpolitik*.
 
 The package also contains
 `build/pdf/0500-culture-mechanics-speculative-history.pdf`. This is optional background
@@ -264,6 +326,14 @@ Julian Jaynes und Joscha Bach sowie die Diskurstheorie von Torfing, Laclau und
 Mouffe und Venkatesh Raos Darstellung des Zerfalls von Skripten. Das
 Analogieninventar soll zusammen mit
 der primären Theoriequelle verwendet werden; Ähnlichkeit gilt nicht als Beleg.
+Seine Kernreaktor-Zuordnung verwendet Pageaus Gralsfrage, um zu prüfen, wem oder
+was die hervorgebrachte Fähigkeit dient, und hält dabei Fähigkeit,
+Triebrichtung, destruktive Sublimierung, Un-Vernunft und Ragnarök-Trajektorie
+auseinander. Seine Titanic-Zuordnung unterscheidet den Wahlwechsel der Kapitäne
+von demokratischer Kurskorrigierbarkeit, ohne daraus einen verborgenen Steuermann
+zu folgern. Seine Favour-bank-cloud-Zuordnung unterscheidet Kultivierung,
+implizite Schuld, weitergeleitete Gegenleistungen und Rekrutierung von normaler
+Gegenseitigkeit und von der engen *Kommandoagent*-Hypothese.
 
 Eine weitere optionale Datei ist
 `build/md/0060-culture-program-ecology.semantic-definition.md`. Fügen Sie sie bei
@@ -280,7 +350,13 @@ Handelnden zuerst glauben und danach ihre kausale Reichweite prüfen“), feindl
 Fremdzuschreibungen im Unterschied zur Selbstzuschreibung, der
 zielgruppenübergreifenden Prüfung von Selbstbeschreibungen, dem Zusammenhang von
 Geheimhaltung mit Reichweite und Übertragungstreue, interner Bestreitung,
-stufenweiser Übernahmeinferenz, katastrophalen Gefahren, anvertrauter Macht,
+stufenweiser Übernahmeinferenz, Shadow Sovereign (*Besatzungsmacht*), der
+sichtbaren Diagnose von Shadow-Sovereign-Herrschaft von unten, Kisins Bild des
+Kapitänswechsels ohne Kurswechsel, dem hypothetischen
+Burnham--Orwell-Bedrohungsmodell einer weiteren Indirektionsstufe, der engen
+akteursbezogenen *Kommandoagent*-Hypothese, Grooming durch implizite Schuld, der
+Favour-bank cloud, weitergeleiteten Gegenleistungen und Rekrutierung,
+katastrophalen Gefahren, anvertrauter Macht,
 Pluralismus, klassischem Liberalismus, dem systemischen Skelett und dem lebendigen
 kulturellen Körper, adaptiver Verfassungssuche, dem Lifted-Order Capacity
 Dashboard (Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, Choose),
@@ -289,10 +365,21 @@ SGD-Varianten, Kennzahlensystemen, weicher Sezession, begrenzter umgekehrter
 Maßgeblichkeit, *Abstimmung mit den Füßen*, Demokratie als *Schutzbalken gegen
 die Macht*, Mises' Sezessionsgedanken, der Implementierung „mit einem
 Federstrich“, verteilten Zuständigkeiten als begrenzten Fehlerdomänen gegen
-Übernahme, öffentlicher oder privater Macht, dem Zweck der Demokratie im
+Übernahme, dem typisierten Pure-Ideology-Culture-Program-Multi-Mind-Self an der
+Gabelung schwerer Babelisierung, der territorialen Regelungsfolge von
+Augsburger Religionsfrieden und Westfälischem Frieden als Marker ausgehandelter Koexistenz und
+Analogie zur weichen Sezession, öffentlicher oder privater Macht, dem Zweck der Demokratie im
 Unterschied zu Wahlen und anderen Implementierungen, dem begrenzten
 Schutzakteur, verfassungsbezogenem Risikomanagement für *ideologische Macht*,
-*Machtpolitik* und *Willkürherrschaft*, dem typisierten
+*Machtpolitik* und *Willkürherrschaft*, Bendas Moral--Politik- und
+Wahrheit--Nützlichkeit-Brücke, dem notwendigen systemischen Lügenkern der
+*Machtpolitik*, der Beziehung zwischen Bendas *clerc* und vertrauenswürdigen
+Meinungsführern, Bendas sekundären Warnmustern der moralisierten Stärke, der als
+Schwäche abgewerteten reziproken Bindung, des fraktionalisierten Staates, des
+bestraften unabhängigen Urteils, der instrumentalisierten Verachtung und der
+nationalen Unfehlbarkeit, Fraenkels *Normenstaat*, *Maßnahmenstaat* und
+*Doppelstaat*,
+wahrheitsbewahrender Kultur, dem typisierten
 Ideological-Power-Hazard-Diagnostic, der Verbindung von Cipolla, Bonhoeffer,
 Normopathie und Ponerologie, KI als spekulativem Bienenkönigin- oder
 Common-Mode-Stresstest kultureller Steuerung, der
@@ -314,8 +401,51 @@ mühelose Umsetzung, und Dezentralisierung schafft keine Immunität gegen
 Gefahrendiagnose und den vorgeschlagenen Lösungsentwurf des Dokuments;
 die Zustimmung zu einer Ebene begründet nicht automatisch die nächste.
 Halten Sie ideologische Macht als kulturelle Fähigkeit, Übernahme oder
-Ausnutzung, *Machtpolitik* als mögliches Ziel, *Willkürherrschaft* als möglichen
+Ausnutzung, *Machtpolitik* als strikte Kombination aus Machtziel, Ausnutzung
+ideologischer Macht, Kulturmechanik, Cipollascher Banditen--Träger-Asymmetrie und
+einem notwendigen Kern systemischen Lügens, *Willkürherrschaft* als möglichen
 Endzustand und *Schutzbalken* als Verteidigungsarchitektur auseinander.
+Bewahren Sie die Implikation, dass ***Machtpolitik* systemisches Lügen voraussetzt**, nicht aber
+ihre Umkehrung. Offen erklärte Herrschaft ohne systemisches Lügen ist hier
+offener Autoritarismus oder nackte Herrschaft, nicht *Machtpolitik*. Behandeln
+Sie eine wahrheitsbewahrende Kultur als zentrales Hindernis für
+*Machtpolitik*, aber nicht als vollständigen Schutz gegen offene Gewalt.
+Doublethink ist ein engerer möglicher Mechanismus und keine andere Bezeichnung
+für eine der beiden Kategorien. Bewahren Sie Bendas *clerc* als Begriff für eine
+intellektuelle Berufungsrolle und den vertrauenswürdigen Meinungsführer als
+funktionale Position im empfangenden Feld; ihre Überlappung kann Autorisierung
+und Kaskadenwirkung verstärken, beweist aber weder Verrat noch Übernahme.
+Behandeln Sie Bendas sekundäre Motive als zugeschriebene Warnmuster und nicht als
+notwendige Bestandteile, skalaren Wert oder Kurzschlussbeleg für Verrat,
+systemisches Lügen, *Machtpolitik* oder *Willkürherrschaft*. Setzen Sie Le Bons
+Beschreibung widersprüchlicher Ideen in der Menge nicht mit Orwells Doublethink
+gleich, und folgern Sie nicht, dass jedes Multi-Mind-Self Verhandlung, Vertrag
+oder reziprokes Recht ablehnt. Der stärkere Fall eines
+Pure-Ideology-Culture-Program-Multi-Mind-Self erfordert integrierte kollektive
+Handlungsfähigkeit, einen gegen zugängliche Widerlegung geschlossenen tragenden
+Anspruch, verpflichtende Vorrangstellung, einen unvereinbaren verbindlichen
+Output, schwere Babelisierung und eine unvermeidbare gemeinsame Entscheidung.
+Unterscheiden Sie selbst dann taktisches Verhandeln von einer reziproken
+Entscheidungsordnung, die den verpflichtenden Anspruch wirksam unterliegen lassen
+darf; die Anerkennung begrenzter Zuständigkeit kann die Vorrangbedingung
+aufheben, ohne den Pure-Ideology-Zweig zu ändern. Verwenden Sie den Westfälischen
+Frieden als begrenzten Marker ausgehandelter konfessioneller und
+zuständigkeitsbezogener Koexistenz und verbinden Sie seine fortbestehende
+gemeinsame Rechtsordnung mit getrennten territorialen Zuständigkeiten mit der
+Topologie weicher Sezession. Ordnen Sie das herrscherzentrierte *ius reformandi*
+vor allem Augsburg (1555) zu; der Westfälische Friede (1648) stellte dieses
+Muster wieder her, erweiterte, stabilisierte und begrenzte es. Übertragen Sie weder
+herrscherverordnete Religion in den personenzentrierten Vorschlag noch die
+historische Analogie in die Behauptung, der Westfälische Friede habe souveräne Staaten
+erfunden, jeder Konflikt sei verhandelbar oder der Projektentwurf exakt
+verwirklicht.
+Setzen Sie einen Fraenkelschen *Normenstaat*
+innerhalb eines *Doppelstaats* nicht mit
+einem *Rechtsstaat* gleich: Entscheidend ist, ob der *Maßnahmenstaat* politisch
+klassifizierte Fälle wirksamen Rechtsgarantien entziehen kann. Halten Sie
+*Doppelstaat*, systemisches Lügen, *Machtpolitik* und *Willkürherrschaft*
+auseinander, und unterscheiden Sie den nicht überprüfbaren Maßnahmenvorrang von
+begrenztem, überprüfbarem Notstandsrecht.
 Behandeln Sie das Gefahrendiagnostikum als typisiertes Profil statt als
 Skalarwert, den kritisch-konstruktivistischen Oberbegriff als ursprüngliche
 Kandidatenanwendung und die KI-Bienenkönigin als Spekulation. Vorsorge auf
@@ -323,6 +453,13 @@ Szenarioebene beweist weder Verschwörung, Absicht oder Schuld noch eine Grundla
 für personenbezogenen Zwang.
 Ihre politisch aufgeladenen Beispiele sind
 eingerahmte Anwendungshypothesen und keine Belege allein durch ihre Aufnahme.
+Trennen Sie bei Shadow-Sovereign-Herrschaft den sichtbaren Zustand von der
+funktionalen Souveränitätsposition und von der Zuschreibung eines Inhabers.
+Verlangen Sie einen benannten Kurs, echten Regierungswechsel, einen glaubhaften
+Wählerauftrag zur Umkehr, gescheiterte Korrektur und konvergierende Wirkungen von
+unten. Kurskontinuität oder institutionelle Komplexität allein beweisen weder
+Besatzung im Rechtssinn, Verschwörung, eine verborgene Innere Partei noch
+*Machtpolitik*.
 
 Das Paket enthält außerdem
 `build/pdf/0500-culture-mechanics-speculative-history.pdf`. Diese Datei ist ein

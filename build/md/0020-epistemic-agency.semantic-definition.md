@@ -977,6 +977,33 @@ of what competent or proper people do; it does not restrict the role to expressi
 of subjective preference. *Leader* identifies a human position without implying
 formal command or office.
 
+[Julien Benda's ***clerc***](https://classiques.uqam.ca/classiques/benda_julien/trahison_des_clercs/benda_trahison_clercs.pdf)
+is a neighbouring source-attested role, not another name for this construct.
+Benda defines the *clerc* through an intellectual vocation answerable to
+disinterested truth, reason, and justice and diagnoses betrayal when that
+authority dignifies practical political passions. Culture Mechanics defines the
+trusted opinion leader functionally from the receiving field: people recurrently
+refer judgment to this person, giving the person's classifications unusual
+credibility and transmission.
+
+The two roles can overlap:
+
+| Role | Defining question | Relationship |
+|---|---|---|
+| **Benda's *clerc*** | What intellectual or moral vocation does the authority claim, and does it remain answerable to disinterested truth, reason, and justice? | Source-attested normative-vocational role |
+| **Trusted opinion leader** | To whom does a specified field actually refer judgment, interpretation, or validation? | Project-developed functional transmission position |
+| ***Clerc* functioning as trusted opinion leader** | Does intellectual or moral authority also occupy a high-trust routing position in the relevant field? | High-leverage carrier of either correction or moral and epistemic authorization |
+
+An obscure intellectual can occupy Benda's vocational role without functioning
+as a trusted opinion leader in the relevant field. A local peer, athlete,
+entertainer, or practical exemplar can function as a trusted opinion leader
+without being a Bendaian *clerc*. Neither title establishes betrayal, capture,
+truth, or falsehood. The overlap becomes especially important where a
+power-political programme uses trusted intellectual or moral authority to turn
+political usefulness into apparent universal validity; that application belongs
+to [*Culture Program Ecology*, “Benda's morality--politics
+bridge”](0060-culture-program-ecology.semantic-definition.md#bendas-morality-politics-bridge).
+
 The phrase and composite definition are proposed here by adapting the broader
 opinion-leadership literature. They are not a camel-case renaming of the established
 medical-marketing category *key opinion leader*. The similarity is nevertheless
@@ -1486,6 +1513,46 @@ S1 terminates inquiry → authorization selects admissible evidence
                        → a required conclusion follows
 ```
 
+The [**master-signifier analysis
+grid**](0010-culture-mechanics.semantic-definition.md#master-signifier-analysis-grid)
+decompresses the token into sacred referent, bearer, protected principal, unity
+topology, difference operator, distributive grammar, causal story, interpreter
+custody, authorization, outlier performance, completion, correction, and
+trajectory. This entry adds an epistemic emphasis: **interpreter custody** becomes
+especially consequential when the same institution defines the token, certifies
+its authorized application, selects admissible evidence, and treats disagreement
+with its interpretation as disagreement with the sacred referent itself.
+
+Interpreter custody does not require a concealed metric. An S1 such as
+*biodiversity*, *safety*, or *equity* can be joined to terms such as
+*significant*, *adequate*, or *unacceptable* so that an evaluative classification
+sounds as though an inspectable assessment has already occurred. The stricter
+case may contain no stable operational rule at all:
+
+> **There may be no hidden ruler. The language merely imitates the authority of
+> having used a ruler.**
+
+The linguistic inventory calls this [**pseudo-metric
+predication**](0030-linguistic-tricks.semantic-inventory.md#lt-043-pseudo-metric-predication);
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#metric-custody-in-more-detail)
+distinguishes it from explicit metric custody and from a stable but undisclosed
+operational criterion. If the token and predicate are accepted as sufficient
+evidence, interpreter custody can produce a presupposed deficit and authorization
+without specification. Only the later discovery of a stable internal rule
+converts the case into tacit criterion custody; case-by-case verdicts remain a
+more direct discretionary hazard.
+
+A master signifier can also compress a real but much longer scientific and
+institutional sequence. *Science says*, *unsafe*, *unacceptable loss*, or a
+similar token may suppress the transitions from observation through metric,
+model, forecast, harm translation, protected-principal valuation, severity
+threshold, remedy comparison, and bounded authorization. The
+[**model-to-mandate custody
+chain**](0040-mythology-construction.semantic-definition.md#model-to-mandate-custody-chain)
+tests each transition separately. A valid measurement or model does not by itself
+validate the later moral and jurisdictional crossings; conversely, the presence
+of those crossings does not show that the scientific work is false.
+
 No signifier-free mind or society is possible. The goal is not to eliminate organizing terms but to keep them visible, plural, concretizable, and corrigible. The decisive question is whether the signifier helps formulate an inquiry or decides when inquiry must stop.
 
 ### 15. Persuasion and the reconstruction of mental models
@@ -1691,6 +1758,103 @@ The authorization-payload audit asks:
 | Termination evidence | Which observations, outcomes, or changed conditions end it? |
 | Opponent restrictions | Which rights, standing, speech, property, or participation may opponents lose? |
 | Epistemic spillover | Does coordination authority become authority to determine what counts as true or relevant? |
+
+[*Mythology Construction* places the payload inside the complete
+doctrine-generation and authorization
+pathway](0040-mythology-construction.semantic-definition.md#doctrine-generation-and-authorization-pathway):
+a causal story attributes, mythology legitimates, a master signifier compresses
+and activates, PCP routes permission, and an institution implements. This
+cross-reference does not add a new meaning to **authorization payload**. It shows
+where the existing grant of power enters a larger construction and runtime
+sequence. [*Culture Program Ecology* owns the later institutional-realization and
+*Willkür*
+gate](0060-culture-program-ecology.semantic-definition.md#institutional-realization-and-the-willkur-gate).
+
+##### Silent principals and surrogate authorization {#silent-principal-surrogate-mechanism}
+
+> **A silent beneficiary cannot correct, dismiss, or withdraw authorization from
+> those claiming to speak for it.**
+
+A **silent principal** is a represented beneficiary that lacks a presently
+available capacity or constituted channel to authenticate its own interests,
+choose or dismiss a representative, contest the proposed proxy, or appeal a
+decision made in its name. Nature, an ecosystem, nonhuman future conditions, and
+not-yet-existing generations can occupy this position. So can an agentified
+abstraction such as *Humanity* or a desired *pattern of differences*: concrete
+persons can dispute what the abstraction means, but the abstraction cannot settle
+that dispute by self-report.
+
+This definition must not silence people by analytical fiat. A population,
+minority, profession, neighbourhood, or Indigenous community whose members can
+speak is not a silent principal merely because an administrator claims to
+represent it. Internal disagreement, standing, and direct testimony remain
+evidence rather than noise. Nor does silence imply absence of morally relevant
+interests. It creates a representation problem.
+
+The **silent-principal surrogate mechanism** is:
+
+```text
+silent, absent, future, or abstract beneficiary
+→ surrogate defines its relevant interests
+→ proxy or metric makes those interests administratively legible
+→ causal story identifies threat, culprit, guardian, and remedy
+→ authorization payload grants practical jurisdiction
+→ consequences are interpreted back through the surrogate's model
+```
+
+Empirical systems can answer causally through observed consequences; they do not
+thereby issue a complete normative mandate. Ecological damage, for example, can
+falsify a prediction without deciding by itself how competing human and nonhuman
+goods, burdens, rights, risks, and time horizons should be ordered.
+
+The ordinary authorization-payload audit therefore gains five questions when a
+silent principal is invoked:
+
+| Additional field | Question |
+|---|---|
+| **Principal status** | In which exact respect is the principal unable to speak, authorize, correct, dismiss, or appeal? |
+| **Proxy construction** | Who selected the ontology, indicator, baseline, value rule, uncertainty treatment, and claimed interest? |
+| **Rival representation** | Which independent guardians, affected persons, disciplines, and counter-models may contest the surrogate? |
+| **Function separation** | Are advocacy, measurement, implementation, adjudication, and review controlled by differently vulnerable actors? |
+| **Affected-person standing** | Which concrete persons bear costs or lose rights, and can they demand reasons, present evidence, appeal, obtain repair, or force renewed authorization? |
+
+The mechanism becomes a **surrogate-sovereignty hazard** when one custodian can
+define the principal, select its interests and indicators, prescribe the remedy,
+allocate sacrifice, judge success, and control appeal. That is a hazard and
+affordance, not evidence by itself of bad faith, capture,
+*Willkürherrschaft*, or an illegitimate policy. Legitimate trusteeship remains
+possible where the representation is plural, disclosed, bounded, evidence-facing,
+rights-constrained, reviewable, terminable, and answerable to the
+[bounded-protector
+recursion](0060-culture-program-ecology.semantic-definition.md#the-bounded-protector-recursion).
+
+The [**Sowell decision--correction custody
+bridge**](0040-mythology-construction.semantic-definition.md#sowell-decision-correction-custody-bridge)
+shows that this hazard is not limited to silent principals. A person, family,
+firm, profession, electorate, or affected population may be fully capable of
+speaking while an agency, court, commission, panel, or other surrogate controls
+the operative decision and the routes by which error can reduce its authority.
+The joint failure is:
+
+```text
+surrogate decision custody
++ weak access to dispersed affected-person knowledge
++ attenuated exposure to error costs
++ custody of outcome interpretation and correction
+→ surrogate-correction asymmetry
+→ possible surrogate-sovereignty hazard
+```
+
+> **Surrogate decision-making becomes surrogate sovereignty when the same
+> custodian can define the problem, select the governing model or rule, impose
+> the decision, externalize the cost of error, interpret the consequences, and
+> retain jurisdiction after failure.**
+
+That compression is a Culture Mechanics extension of Sowell's knowledge,
+incentive, feedback, surrogate-decision, and “Teflon prophets” themes. It is not a
+quotation from Sowell and does not make representative government, delegated
+administration, expertise, adjudication, guardianship, or institutional
+insulation inherently illegitimate.
 
 Political and institutional coordination necessarily requires legitimate
 authorization. The presence of a payload is therefore not evidence of deception or
@@ -2156,6 +2320,60 @@ For now the bridge should be used only through four discriminating questions:
 4. Who interprets “the universal” or “the common interest,” under what
    jurisdiction, and through which correction, refusal, and exit conditions?
 
+##### Humanism and Diversity: nested, supplementary, and replacement relations {#humanism-diversity-relations}
+
+The ordinary word *diversity* can describe factual variation without carrying a
+common programme. Capitalized ***Diversity*** is used here only when the word
+functions as an organizing master signifier or names a corresponding programmatic
+configuration. It is not a claim about every anti-discrimination policy,
+pluralist institution, varied population, or use of the word.
+
+The assistant proposed the following distinction during the comparison, and the
+project author selected it for integration. The comparison with person-centred
+Humanism requires three different relations:
+
+| Relation | Operative ordering | Principal boundary |
+|---|---|---|
+| **Nested Diversity** | Selected forms of plurality are protected as a subordinate institutional good or as means through which concrete persons exercise equal standing, liberty, association, cultural expression, inquiry, or development. | Humanity-as-standing remains the higher constraint; a diversity measure cannot override the person merely to improve a pattern. |
+| **Supplementary Diversity** | Equal person-standing remains constitutive, while recognition of identity, inherited barriers, group-mediated harm, or epistemic variety adds an independently relevant consideration. | Neither abstract sameness nor the desired pattern decides every conflict; evidence, relevant distinctions, reciprocal rules, rights, review, and appeal remain necessary. |
+| **Replacement Diversity** | A selected pattern of recognized differences, its representation, or the continuing process of correction becomes the protected principal and a criterion of institutional legitimacy. | Persons can become categorical bearers, representatives, inputs, or obstacles whose standing is mediated or overridden by the preferred pattern. |
+
+These are relation types, not a necessary historical sequence. One institution
+can mix them across domains or move among them over time. Public doctrine can
+also state a nested relation while operative metrics, exception rules, and
+burdens realize a replacement relation; the classification therefore requires
+conduct and institutional evidence.
+
+[**Strong Programmatic
+Diversity**](0060-culture-program-ecology.semantic-definition.md#strong-programmatic-diversity)
+is the typed Culture Program profile for a robust institutional configuration. It
+does not by definition select one of the three relations. Its relation to
+Humanism is decided by the actual hierarchy among concrete person-standing,
+category-conscious recognition and correction, and the desired pattern.
+
+Applied through the master-signifier grid, the central contrast is:
+
+| Grid field | Durkheimian person-centred Humanism | Replacement form of Strong Programmatic Diversity |
+|---|---|---|
+| **Sacred referent** | Human personhood or Humanity instantiated in every concrete person | Selected differences, their recognition, representative composition, or continued correction |
+| **Bearer** | Every person directly and completely bears moral standing | Persons and cultures are encountered partly as carriers of recognized categories |
+| **Unity topology** | Differentiated person → shared Humanity → whole | Person → administered category or group → Diversity order |
+| **Difference operator** | Difference expresses plural human possibility beneath common standing | Selected differences remain morally and institutionally salient objects of recognition, preservation, promotion, or correction |
+| **Distributive grammar** | Equal standing and developmental liberty need not mean identical reward; Durkheim can also invoke labour-proportional return | Category-conscious recognition, representation, opportunity, remedy, burden, resource, or outcome adjustment may be authorized |
+| **Interpreter custody** | No office owns Humanity merely by invoking it; reason, inquiry, law, and person-level appeal remain corrigible | Custodians may define categories, relevant disparities, baselines, indicators, corrective obligations, and completion |
+| **Outlier performance** | The unproductive, dissenting, dependent, unsuccessful, or unusual person retains standing | The mixed, unclassified, category-refusing, nonrepresentative, or pattern-conflicting person tests whether person-standing remains primary |
+| **Completion and trajectory** | Particular injustices and capability barriers can be repaired while differentiation continues beneath one common standing | The programme may be finite and corrigible, or may renew category salience and intervention when no attainable pattern or completion rule is allowed to settle the demand |
+
+Durkheim's “to each according to his labor” is therefore relevant to
+**distributive grammar**, not to the sacred-standing rule. The same person can have
+equal inviolable standing while rewards remain sensitive to contribution. That
+source passage does not by itself settle taxation, need, disability, inheritance,
+public goods, compensation, or the many contemporary meanings of *equity*.
+Conversely, category-sensitive treatment is not arbitrary merely because it is
+different: the distinction must be prospectively specified, causally relevant,
+reciprocal where applicable, evidence-based, reviewable, and subordinate to the
+standing the programme claims to protect.
+
 ### 20. Cognitive liberty and epistemic adulthood
 
 In its established legal and ethical lineage, **cognitive liberty** concerns mental self-determination and freedom from unwanted interference with thought or consciousness. Important formulations include **Richard Glen Boire's** essay series [“On Cognitive Liberty” (1999–2003)](https://www.cognitiveliberty.org/on-cognitive-liberty-boire/) and the German legal scholar **Jan Christoph Bublitz's** [“My Mind Is Mine!? Cognitive Liberty as a Legal Concept” (2013)](https://doi.org/10.1007/978-94-007-6253-4_19). The specialized usage developed here explicitly extends that lineage by adding a positive developmental capacity:
@@ -2226,6 +2444,15 @@ This is not necessarily conscious lying. The spokesperson can sincerely
 experience the supplied reasons as the cause of the judgment. Logical
 presentation and psychological provenance therefore have to be tested
 separately.
+
+At person and field scale, this can contribute to
+[**un-reason**](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason):
+reasoning remains active, but its premises, descriptions, burdens, exceptions,
+and responses to criticism are recursively organized so that a protected verdict
+cannot lose. The press-secretary role is one possible person-level operation;
+un-reason is the broader mechanism and can be distributed through programmes and
+institutions. Neither articulate defence nor motivated reasoning alone establishes
+it.
 
 The **press-secretary analogy** has important prior art. Jonathan Haidt uses the
 press secretary to describe conscious reasoning that justifies intuitively
@@ -2442,6 +2669,143 @@ Invite returns authorship and leaves the uncertainty gap open
 Promise turns reflection into action and makes independence survivable
 ```
 
+#### Scaffolding courage without appropriating judgment {#scaffolding-courage-without-appropriating-judgment}
+
+MCIP contains a central authorship paradox. If the intervener supplies the final
+answer and promises innocence through obedience, the method reproduces the
+instrumental relation it is meant to loosen. If the person receives no
+relational, practical, material, or social support, however, independence can
+become a demand for continuous heroism that few people can sustain. The
+project-developed compression is:
+
+> **Ethics cannot be outsourced, but courage can be scaffolded.**
+
+The corresponding design rule is:
+
+> **Support the cost without appropriating the judgment.**
+
+The *Promise* may therefore help bear the cost of inquiry, dissent, practice,
+temporary incompetence, or repair. It must not decide in advance what the person
+is required to conclude, demand confession or agreement as the price of
+belonging, or turn practical dependence into surrogate ownership. Its practical
+grammar is:
+
+- reasons without guarantees;
+- exemplars without idols;
+- belonging without compulsory conformity;
+- obligations consciously assumed rather than used as alibis;
+- practice without ideological drilling;
+- correction without humiliation; and
+- support without surrogate ownership.
+
+> **Do not try to make the ethical act psychologically effortless. Make its
+> first step small, its purpose meaningful, its effort shared, its exemplars
+> visible, its feedback real, its completion possible, its correction
+> honourable, and its social cost survivable.**
+
+These are Culture Mechanics formation principles, not propositions attributed
+to Lacan, Rogers, Miller, Rollnick, Austin, or Avery. At the conversational scale
+MCIP can recover one act of authorship. At the formation scale, [affective return
+to uphill development](0040-mythology-construction.semantic-definition.md#affective-return-to-uphill-development)
+can make repeated responsible action inhabitable. At the institutional scale,
+jurisdiction, plural support, appeal, exit, correction, and repair must prevent
+the scaffold from becoming a new custodian. None of the three scales substitutes
+for the others.
+
+#### Full speech, empty speech, obligation, and responsibility {#full-speech-empty-speech-obligation-and-responsibility}
+
+Lacan's contrast between **empty speech** (*parole vide*) and **full speech**
+(*parole pleine*) supplies a further agency test. Lacan develops the distinction
+in [“The Function and Field of Speech and Language in
+Psychoanalysis”](https://web-facstaff.sas.upenn.edu/~cavitch/pdf-library/Lacan_Function_and_Field_of_Speech.pdf).
+In its psychoanalytic setting, full speech concerns the subject's truth becoming
+effective in speech, history, and recognition. The following translation into
+answerability is a bounded Culture Mechanics use, not a claim that Lacan
+formulated an administrative or civic doctrine of responsibility.
+
+**Empty speech** is speech in which the speaker's divided position remains
+sheltered behind an available script. The sentence can be true, useful, polite,
+expert, or institutionally required while still leaving the speaker's judgment,
+uncertainty, stake, and undertaking unavailable:
+
+```text
+ready-made signifier, role, procedure, passive voice, or presumed consensus
+→ “what one says” speaks through the person
+→ operative authority and the speaker's judgment remain obscure
+→ no personally assumed claim, refusal, promise, or repair is available
+```
+
+Examples include “the science says,” “policy requires it,” “everyone knows,” or
+“mistakes were made” where the formula ends inquiry or removes the speaker from
+an answerable judgment. Empty speech is **not** a synonym for lying, small talk,
+formal language, obedience, brevity, or ideological disagreement. Conventional
+speech can maintain recognition and coordinate action. The agency problem begins
+where a borrowed formula substitutes for judgment precisely where a person or
+office must answer.
+
+**Full speech** is speech through which the speaker becomes answerable. The
+speaker does not pretend that the big Other has completed and guaranteed the
+judgment:
+
+```text
+the Other cannot supply a final guarantee
+→ the speaker distinguishes observation, inference, value, uncertainty,
+  choice, refusal, promise, and remaining constraint
+→ the utterance can be answered, tested, remembered, refused, or held to account
+→ a corrigible undertaking becomes possible
+```
+
+Full speech is not maximal self-disclosure, emotional intensity, informality,
+confidence, sincerity as appearance, or a guarantee of truth or goodness. A
+speaker can fully assume a mistaken or destructive judgment. Conversely, concise
+and role-bound speech can be full when the speaker actually assumes it. The
+distinction describes a local relation among speaker, utterance, Other, and
+answerability; it is not a permanent classification of a person.
+
+Christopher Avery's [Responsibility Process](https://www.christopheravery.com/pdf/Responsibility_and_Profits.pdf)
+supplies a neighbouring contrast between **obligation** and
+**responsibility**. In the bounded use adopted here, obligation names the stance
+“I have to; the demand comes from outside,” whereas responsibility names “I
+choose my available response and will answer for what follows.” Responsibility
+does not mean that the person caused, controls, or deserves blame for everything.
+It means that the person does not surrender authorship of the response that
+remains theirs.
+
+The following alignment is a **Culture Mechanics synthesis**, not a combined
+theory attributable to Lacan or Avery:
+
+```text
+obligation used as an alibi
+→ demand attributed to rule, role, office, Cause, or big Other
+→ empty speech recites the mandate
+→ procedural compliance can displace judgment and responsibility
+
+obligation or undertaking consciously assumed
+→ the Other's limits and the speaker's constraints are acknowledged
+→ full speech states judgment, uncertainty, stake, and commitment
+→ responsibility for the available response is assumed
+→ words can become a corrigible act
+```
+
+The pairing is neither identity nor moral rank. External obligations can be
+legitimate, and full speech can assume them: “I promised, and I choose to keep
+the promise.” First-person responsibility language can remain empty when it is a
+closure formula followed by no answer, changed conduct, or repair. The empirical
+question is where judgment and consequence are actually located.
+
+This gives MCIP a reciprocal constraint:
+
+> **Use full speech to invite full speech; do not answer one borrowed script
+> with another.**
+
+The intervener should own the Cut as a situated interpretation, distinguish
+observation from inference and verdict, name what would correct it, and make only
+a promise they can keep. The Invite should let the other person state a real
+judgment, uncertainty, refusal, or undertaking without requiring confession or
+agreement. The recipient may speak fully and retain the original conclusion.
+Full speech cannot be extracted by humiliation, forced disclosure, or a demand
+that the recipient repeat the intervener's preferred counter-braid.
+
 At large scale, MCIP would need to be a **fractal social practice**, not one broadcast designed to convert a population. Many relationships, communities, media encounters, and institutions would have to create protected doubts, precise reality contacts, opportunities for personal verification, and credible alternatives to abandonment.
 
 Its population-level function would be controlled **de-synchronization**:
@@ -2622,6 +2986,16 @@ The following questions help identify the configuration without assuming in adva
 39. Is the epistemic failure located in the general cultural or constitutional
     braid, a situated script, one enactment, an interface among scripts, or missing
     practical support?
+40. For the active master signifier, what are the sacred referent, bearer,
+    protected principal, unity topology, distributive grammar, custodian, outlier
+    performance, completion rule, and trajectory?
+41. Does Diversity remain nested within person-standing, supplement it through
+    bounded recognition, or replace it with a preferred pattern as principal?
+42. If the named beneficiary cannot authenticate its own interests, who
+    constructed the proxy and who can independently contest, review, or replace
+    the surrogate?
+43. Does one custodian define the principal, metric, remedy, sacrifice, success,
+    and appeal, or are those functions separated and answerable?
 
 No single answer is decisive. The pattern matters.
 
@@ -3007,6 +3381,7 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | ***Herrschaftsideologie*** | Privileged-vision mythology that converts claimed epistemic asymmetry into governing jurisdiction. | Names a possible pathological authorization of the elevated speaker position; hierarchy or expertise alone does not establish it. The primary semantic home is *Mythology Construction*. |
 | **Repeater** | A local bigOther with greater gain, reach, credibility, frequency, connectivity, or institutional amplification. | Explains unequal influence while preserving the claim that every local bigOther transmits. |
 | **Trusted opinion leader** | A person to whom members of a field recurrently refer for judgment, interpretation, or validation. | Names the human composite position that may combine repeater gain, gatekeeping, personal epistemic authority, translation, modelling, brokerage, representation, and field feedback. |
+| **Benda's *clerc*** | Intellectual-vocation role normatively answerable to disinterested truth, reason, and justice. | Can overlap with a trusted-opinion-leader position and thereby gain privileged routing and cascade, but is not its synonym; neither role establishes betrayal or capture. |
 | **Culture Program capture** | Redirection of an incumbent Culture Program's authorities, metrics, appointments, correction routes, and reproduction machinery until they install or reproduce an incompatible successor. | Uses trusted leaders, offices, and authenticated channels as possible ingress and cascade mechanisms, but remains a distinct ecology-level hypothesis. System-level capture does not by itself identify a covert operational agent. The primary semantic home is *Culture Program Ecology*. |
 | **Master signifier / S1** | Privileged signifier organizing identities and bodies of knowledge; translated here as a compressed protocol token. | Can select and activate the common interpretive mode; becomes pathological when it terminates inquiry. |
 | **Laser synchronization** | Metaphor for dynamic alignment of attention, affect, interpretation, and action. | Describes how many local classifiers enter a coherent common mode. |
@@ -3024,8 +3399,10 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Epistemic adulthood** | Capacity to inspect and revise inherited standards and trust architecture within a fully installed lifted program. | Names the developmental achievement; it is reflective agency within full capture, not escape from programming. |
 | **Cognitive liberty** | Reflective distance from socialization combined with continued capacity for trust and participation. | Names positive freedom under a universal, corrigible meta-order with bounded subordinate authorities. |
 | **Press secretary, interpreter, and auditor** | Three possible functions of reflective reason: defend a verdict, make its operative programming inspectable, or test and possibly revise it. | Prevents articulate justification from being mistaken automatically for self-authorship; supplies the reflective audit gate used in *Mythology Construction*. |
+| **Un-reason** | Proposed mechanism in which reasoning remains active but is recursively organized against reciprocal standards and independent correction. | Extends the press-secretary problem from a possible person-level operation to arguments, programmes, fields, and institutions. It is not a third constitutional orientation; its primary semantic home is *Epistemic Constitution*. |
 | **Epistemic emancipation** | Lifting from full capture by shared concrete answers to full capture by a reality-answerable generator of answers. | Names the practical unbraid/rebraid problem through which inherited answers lose finality without necessarily disappearing. |
 | **MCIP** | Mirror, Cut, Invite, Promise. | Proposed micro-method for restoring agency while keeping the successor weave and its interpreters corrigible. |
+| **Full-speech answerability audit** | Lacan's empty/full-speech distinction aligned, without identification, to Avery's obligation/responsibility contrast. | Tests whether a role, rule, office, or Cause is being used as an alibi or consciously assumed in an answerable judgment. Full speech is not guaranteed truth, and legitimate obligation is not displaced authorship by definition. |
 | **Piety toward the real** | Humble willingness to let complex reality correct concepts, stories, institutions, and conviction. | Supplies the normative standard and final right of refusal. |
 | **Holistic structural realism** | Model-centered epistemology in which concepts and operations are tested through prediction, surprise, and revision. | Supplies the positive reality-correction loop used by this entry. |
 | **Moral individualism** | Shared commitment to the equal dignity and rights of persons. | Prevents factual correction and respect for social reality from becoming contempt for persons or worship of institutions. |
@@ -3141,6 +3518,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Authority nodes:** persons, roles, institutions, professions, identities, channels, and apparent consensus.
 - **Unequal-gain node:** repeater.
 - **Human composite authority position:** trusted opinion leader.
+- **Neighbouring intellectual-vocation role:** Benda's *clerc* can occupy a
+  trusted-opinion-leader position, giving moral and epistemic authorization
+  privileged routing and cascade; the source role and project function remain
+  distinct.
 - **Applied person-level analysis:** a trusted-opinion-leader profile separates
   transmission capacity, authority basis, routing function, jurisdiction,
   independence, and corrigibility rather than treating influence as one score;
@@ -3166,6 +3547,13 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Political-power audit:** the authorization payload separates policy agreement
   from the power, objects, jurisdiction, duration, discretion, oversight,
   revocability, and epistemic spillover requested through a causal story.
+- **Silent-principal extension:** when the invoked beneficiary cannot
+  authenticate, correct, or withdraw the surrogate's account, proxy construction,
+  rival representation, function separation, affected-person standing, and the
+  risk of surrogate sovereignty enter the authorization audit.
+- **Humanism–Diversity relation types:** Diversity can remain nested within
+  person-standing, supplement it through bounded recognition, or replace it by
+  making a selected pattern of differences the protected principal.
 - **Single-slot capture constraint:** compatible material may reinforce or extend the installed weave; incompatible governing capture requires incumbent unbraiding and successor rebraiding.
 - **Dynamic process:** synchronization and field back-action among local bigOthers.
 - **Clockwork coordination:** differentiated contribution through roles,
@@ -3230,6 +3618,9 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Moral orientation:** truth joined with Nächstenliebe and epistemic humility.
 - **Liberation process:** epistemic emancipation.
 - **Proposed conversational intervention:** MCIP—Mirror, Cut, Invite, Promise.
+- **MCIP authorship boundary:** ethics cannot be outsourced, but courage can be
+  scaffolded; the Promise supports the cost of inquiry and practice without
+  appropriating the recipient's judgment.
 - **Central normative question:** Does authority provide a corrigible route to reality, or does its certification replace reality-testing?
 
 ## Example of use
@@ -3267,6 +3658,18 @@ Authorization payload:
 > **threatened structure + victim + culprit + protector/fixer + preferred remedy
 > → requested power × objects × jurisdiction × duration × discretion; oversight,
 > revocation, succession, and termination evidence remain separate tests**
+
+Silent-principal surrogate mechanism:
+
+> **silent or abstract beneficiary → surrogate-defined interest and proxy →
+> causal story and remedy → authorization payload; custody of principal +
+> metric + remedy + sacrifice + success + appeal → surrogate-sovereignty hazard**
+
+Sowell decision--correction bridge:
+
+> **surrogate decision custody + weak access to dispersed knowledge + attenuated
+> exposure to error costs + custody of outcome interpretation and correction →
+> surrogate-correction asymmetry → possible surrogate sovereignty**
 
 Cognitive-relief pathway:
 
@@ -3355,6 +3758,12 @@ The vocabulary above does not come from one theory. The following map distinguis
 - **Epistemic trust, mistrust, and credulity — Chloe Campbell, Michal Tanzer, Rob Saunders, Thomas Booker, Elizabeth Allison, Elizabeth Li, Claire O'Dowda, Patrick Luyten, and Peter Fonagy.** [“Development and Validation of a Self-Report Measure of Epistemic Trust” (2021)](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0250264) defines and operationalizes this three-part construct. Its *credulity* scale is narrower than the broad nonclinical usage in this entry.
 - **Pastoral power — Michel Foucault.** [“The Subject and Power” (1982)](https://doi.org/10.1086/448181) is a concise primary source for the individualized, totalizing form of guidance from which *pastoral epistemic authority* is adapted.
 - **Master signifier, S1/S2, and the master's discourse — Jacques Lacan.** [*Le Séminaire, Livre XVII: L'envers de la psychanalyse* (1969–1970)](https://www.seuil.com/ouvrage/le-seminaire-livre-xvii-jacques-lacan/9782020130448) is the central source for the four discourses. [*Seminar XX: Encore*](https://www.lacaninireland.com/web/wp-content/uploads/2010/06/THE-SEMINAR-OF-JACQUES-LACAN-XX.pdf) contains Lacan's characterization of the signifier as “stupid.”
+- **Empty speech and full speech — Jacques Lacan.** [“The Function and Field of
+  Speech and Language in
+  Psychoanalysis”](https://web-facstaff.sas.upenn.edu/~cavitch/pdf-library/Lacan_Function_and_Field_of_Speech.pdf)
+  supplies the psychoanalytic distinction. The answerability audit and its use
+  inside MCIP are bounded Culture Mechanics translations rather than Lacan's
+  civic or administrative doctrine.
 - **Causal stories — Deborah A. Stone.** [“Causal Stories and the Formation of Policy Agendas,” *Political Science Quarterly* 104(2), 1989, pp. 281–300](https://www.uvm.edu/~dguber/POLS293/articles/stone.pdf) ([DOI](https://doi.org/10.2307/2151585)) is the defining paper.
 - **Motivated reasoning — Ziva Kunda.** [“The Case for Motivated Reasoning” (1990)](https://doi.org/10.1037/0033-2909.108.3.480) is the canonical review.
 - **Need for cognitive closure — Donna M. Webster and Arie W. Kruglanski.** [“Individual Differences in Need for Cognitive Closure” (1994)](https://doi.org/10.1037/0022-3514.67.6.1049) defines and measures the construct.
@@ -3368,13 +3777,14 @@ The vocabulary above does not come from one theory. The following map distinguis
 | **Socialization into institutional trust** | Wilson on cognitive authority; [Niklas Luhmann on trust](https://books.google.com/books/about/Trust_and_Power.html?id=4_5GzwEACAAJ); [Anthony Giddens on expert and abstract systems](https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/the-consequences-of-modernity-978-0-7456-0923-2) | Synthesizes these antecedents with Durkheimian solidarity into a specific many-to-few socialization mechanism; none of the three authors uses the complete model stated here. |
 | **Preemptive gatekeeper deference** | Zagzebski's Preemption Thesis | Restricts and radicalizes preemption into a pathological permissioning relation in which contrary evidence cannot be admitted without authorization. |
 | **Pastoral epistemic authority** | Foucault's pastoral power | Isolates the epistemic effect of care-grounded guidance; it is narrower than Foucault's historical account of pastoral power. |
+| **Obligation–responsibility and empty-speech–full-speech alignment** | Christopher Avery's Responsibility Process and Lacan's speech distinction | Avery supplies obligation as one self-protective stance contrasted with responsibility; Lacan supplies the speech distinction. Their alignment around displaced versus assumed authorship, and its MCIP use, are project-developed. Legitimate obligation may be fully assumed, responsibility language may remain empty, and neither source supplied the combined model. |
 | **Lacan's big Other as shared symbolic protocol** | Lacan's locus of language, law, and symbolic authority | “On-the-wire protocol” is a culture-mechanical functional translation of one aspect, not Lacan's definition or a complete exegesis. |
 | **bigOther, local bigOther, distributed bigOther** | Lacan's big Other | Recasts symbolic authority as a local affective classifier and an emergent network state. These are culture-mechanical adaptations, not Lacan's definitions. |
 | **bigOther-presence and bigOther-as-Thou** | [William James on felt objective presence](https://www.gutenberg.org/files/621/621-h/621-h.html); [Martin Buber's *I and Thou*](https://www.simonandschuster.com/books/I-And-Thou/Martin-Buber/9780684717258) | Borrows phenomenological and relational cues for how field authority may be locally encountered. Neither author proposed the local processor or distributed-field mechanism. |
 | **Mechanical-solidarity field** | Durkheim's mechanical solidarity and collective consciousness | Treats solidarity as emergent symbolic-affective coherence with back-action upon local judgment. The field ontology and physical analogies are proposed here. |
 | **Laser synchronization** | Analogy with physical lasers | A heuristic metaphor for social coupling and coherent collective output, not a claim that Durkheim or Lacan proposed a laser model or that social alignment obeys laser physics. |
 | **Magnetization, remanence, domains, domain walls, charged particles, photons, and repeaters** | Analogies with physics and network engineering; William James's magnetic phenomenology and Le Bon's magnetic crowd language are source neighbors | Project-developed models for durable alignment, persistence, boundaries, source/back-action, relative carrier-independence, and unequal gain. James and Le Bon did not propose this topology, and it asserts no physical identity. |
-| **Trusted opinion leader** | General opinion-leadership and diffusion research, including [Thomas W. Valente and Patchareeya Pumpuang](https://doi.org/10.1177/1090198106297855) | Adds a project-developed composite definition centred on the human referral position and distinguishes its repeater, gatekeeping, authority, translation, modelling, brokerage, representation, and feedback functions. It is broader than the medical-marketing category *key opinion leader*. |
+| **Trusted opinion leader** | General opinion-leadership and diffusion research, including [Thomas W. Valente and Patchareeya Pumpuang](https://doi.org/10.1177/1090198106297855) | Adds a project-developed composite definition centred on the human referral position and distinguishes its repeater, gatekeeping, authority, translation, modelling, brokerage, representation, and feedback functions. It is broader than the medical-marketing category *key opinion leader*. The mapping to Benda's *clerc* preserves his normative-vocational source term while treating trusted opinion leadership as a distinct receiving-field function. |
 | **Multi-mind-self and unitary collective ownership** | Joscha Bach's [“Synthetic Sentience”](https://media.ccc.de/v/37c3-12167-synthetic_sentience); [Otto von Gierke on the real unity of associations](https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/otto-gierke-on-the-relationship-between-the-individual-and-the-community-1902); [F. W. Maitland on moral and legal personality](https://doi.org/10.1017/CBO9780511810435.009); [Christian List and Philip Pettit on group agency](https://doi.org/10.1093/acprof:oso/9780199591565.001.0001) | The term *multi-mind-self* is taken from Bach. The present synthesis adds an explicit functional threshold, local bigOthers, mechanical-solidarity field formation, *Beseelung*, nested authorship, the episodic profile, the fusion axis, and the claim that one collective self can own through many persons. The other cited authors supply group-person and group-agency neighbours, not that implementation. |
 | **Privileged authority-addressed programming topology and programming state** | Freud on group psychology; Green and Brock on transportation; Horton and Wohl on parasocial interaction; Chwe on common knowledge; Bourdieu on authorized speech; Collins on interaction rituals | Synthesizes several mechanisms into a new, testable geometry. No source establishes the complete compound state. |
 | **Bonhoefferian Dummheit** | Dietrich Bonhoeffer, [“Von der Dummheit” (1943; PDF of the complete section)](https://jochenteuffel.files.wordpress.com/2020/12/bonhoeffer-von-der-dummheit.pdf) ([HTML transcription](https://de.wikisource.org/wiki/Von_der_Dummheit)) | Names a family resemblance between socially induced loss of independence and the present capture model. It is not an IQ measure, diagnosis, or complete restatement of Bonhoeffer. |
@@ -3442,6 +3852,9 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   individualism, together with the maxim **remove “because it is me,” not the
   person or the situation** and the aggregative-versus-fusion sacrifice
   distinction;
+- the three **Humanism–Diversity relation types**—nested, supplementary, and
+  replacement—together with capitalization of *Diversity* only for the organizing
+  master signifier or programmatic configuration;
 - the **press-secretary–interpreter–auditor triad**, **self-objectification
   transition**, **finality cut**, and ten-step reflective audit sequence in their
   present Culture Mechanics senses;
@@ -3450,8 +3863,18 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   reconstruction**, and the **decompression audit** in their present operational
   forms;
 - **authorization payload** and the **authorization-payload audit**;
+- **silent principal**, **silent-principal surrogate mechanism**,
+  **surrogate-sovereignty hazard**, and the five-part extension of the
+  authorization audit;
+- the receiving-field cross-reference to **decision--correction custody** and
+  **surrogate-correction asymmetry**, while preserving *Mythology Construction*
+  as their primary semantic home and Sowell's knowledge, incentive, feedback,
+  surrogate-decision, and “Teflon prophets” themes as source material rather than
+  the project's complete typed mechanism;
 - the **cognitive-relief hypothesis** in its present mechanistic and testable form;
-- **MCIP—Mirror, Cut, Invite, Promise**.
+- **MCIP—Mirror, Cut, Invite, Promise**; **Ethics cannot be outsourced, but
+  courage can be scaffolded**; and **Support the cost without appropriating the
+  judgment** in their project-developed agency and formation senses.
 
 ### Field, programming-topology, and collective-agent source lineage
 
@@ -3479,6 +3902,12 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   (1927)](https://classiques.uqam.ca/classiques/benda_julien/trahison_des_clercs/trahison_des_clercs.html)
   is used as situated testimony from a period in which political passions were
   becoming more coherent, continuous, sacred, and intellectually systematized.
+  His separate account of clercs converting political usefulness into moral and
+  epistemic authority is applied as the [truth--utility
+  bridge](0030-epistemic-constitution.semantic-definition.md#bendas-truth-utility-bridge)
+  and the [morality--politics
+  bridge](0060-culture-program-ecology.semantic-definition.md#bendas-morality-politics-bridge);
+  it does not define the epistemic-field analogy.
   **Dietrich Bonhoeffer's** [“Von der Dummheit”
   (1943)](https://de.wikisource.org/wiki/Von_der_Dummheit) is used as testimony to
   the person-level effects of overwhelming political or religious power. Their

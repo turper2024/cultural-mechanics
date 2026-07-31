@@ -56,6 +56,14 @@ truthful yet death-driven, or systemically lying while claiming life, peace,
 health, or flourishing. The two orientations therefore classify different
 properties and must not be collapsed.
 
+Within the truth orientation, **un-reason** names a proposed internal failure
+mechanism: inferential, conceptual, interpretive, or critical intelligence remains
+active, but is organized to protect a conclusion, authority, identity, or
+programme from the reciprocal standards and independent correction that give
+reasoning epistemic authority. It explains how intellectual sophistication can
+strengthen rather than repair a self-sealing order. Un-reason is a mechanism, not
+a third constitutional orientation.
+
 The wider ecology of Culture Programs, including pluralistic classical liberalism
 as a proposed lifted Culture Strategy that contains incompatible first-order
 programs, is defined in
@@ -597,6 +605,63 @@ as separable candidate sensors. The dashboard is one application of the generic
 controller, not part of the definition of epistemic constitution and not a
 literal scalar loss function.
 
+##### Model-mediated mandates and prediction exposure
+
+The [integrated doctrine-generation and authorization
+pathway](0040-mythology-construction.semantic-definition.md#doctrine-generation-and-authorization-pathway)
+locates this model-mediated branch inside a larger mechanism joining causal
+story, mythology, master-signifier activation, PCP, authorization payload, and
+institutional implementation. This document does not own that complete
+construction sequence. It owns the generic constitutional requirement that no
+interpretation or implementer control alone the evidence and correction by which
+its mandate can lose.
+
+When a scientific or administrative model participates in a binding decision,
+the correction loop must cover the complete
+[**model-to-mandate custody
+chain**](0040-mythology-construction.semantic-definition.md#model-to-mandate-custody-chain):
+observation, metric, model, conditional forecast, causal-harm translation,
+protected-principal valuation, severity threshold, alternatives, authorization,
+implementation, and outcome review. Empirical competence at an early stage does
+not grant X-ray vision at a later normative or jurisdictional stage.
+
+The constitutional requirement is **prediction exposure**: authority to impose
+burdens on the strength of a model must remain answerable to a recoverable record
+of the model version, assumptions, scale, forecast range, counterfactual,
+predicted intervention effect, uncertainty, declared defeaters, review date,
+actual outcome, and resulting correction. The detailed
+[prediction-ledger proposal and Dutch nitrogen worked
+audit](0040-mythology-construction.semantic-definition.md#dutch-nitrogen-authorization-chain)
+belong to *Mythology Construction*. Here their generic function is to preserve
+reality's right to lower confidence, narrow permitted use, require compensation,
+reverse a measure, replace a custodian, or retire a model.
+
+One failed prediction is not an automatic falsifier, and uncertainty does not
+prohibit precaution. But neither intervention, changed conditions, complexity,
+nor noisy evidence may become an unlimited post hoc explanation controlled by
+the same authority whose mandate is under review. The stronger the requested
+sacrifice and the weaker the corrective exposure, the stronger the requirements
+for independent validation, rival models, affected-person standing, appeal,
+reversibility, repair, and predeclared stopping conditions.
+
+The [Sowell
+bridge](0040-mythology-construction.semantic-definition.md#sowell-decision-correction-custody-bridge)
+adds a governing-person question to this model audit: **who decides, which
+dispersed knowledge reaches the decision, who bears the error, and who can make
+being wrong change the mandate?** When the same surrogate can select the model or
+rule, impose the decision, interpret its consequences, and retain jurisdiction
+after failure, correction itself has entered custody.
+
+This **surrogate-correction asymmetry** is a constitutional condition, not a
+person-level accusation. It can occur without bad faith or a silent principal,
+and it is not established by appointment, expertise, delegation, judicial
+review, administration, or insulation from immediate public opinion alone.
+Elections and markets are also fallible sensors rather than truth or justice
+oracles. The discriminating comparison concerns access to situated knowledge,
+prospective constraint, distribution of error costs, independent audit,
+affected-person standing, appeal, removal, succession, and demonstrated revision
+after failure.
+
 #### Power guardrails and the bounded protector
 
 The person-protecting constraint shell also constrains the institutions that
@@ -667,6 +732,295 @@ material for that abstraction.
 An expressive formulation of the same orientation is:
 
 > **Shine the light of objective truth into subjective darkness—without appointing anyone sovereign owner of the light.**
+
+This formulation can be read alongside [Slavoj Žižek's *How to Read
+Lacan*](https://www.lacan.com/essays/howread.html), where he contrasts the
+Enlightenment image of rational illumination with the German-Idealist discovery
+of constitutive darkness within the subject:
+
+> (Which is why, in German Idealism, the metaphor for the core of subjectivity is Night, the ‘Night of the World’, in contrast to the Enlightenment notion of the Light of Reason fighting the darkness around.)
+
+Read together, the project-specific proper meaning is:
+
+> **Bring the representations, propositions, classifications, and actions emerging from subjective Night into contact with evidence, other observers, consequences, and mind-independent reality.**
+
+This final formulation is a Culture Mechanics synthesis, not Žižek's wording.
+Subjective Night does not mean mere ignorance to be eradicated: it names the
+opaque and potentially generative inwardness from which negation, imagination,
+and symbolic articulation can emerge. The light names fallible, plural, and
+corrigible contact with objective truth rather than a rational subject's or
+institution's sovereign possession of it.
+
+#### Un-reason: reasoning that defeats the conditions of reason
+
+**un-reason** *noun*
+**Status:** proposed cross-scale mechanism and project term
+
+**Un-reason** is an internal epistemic failure mode in which inferential,
+conceptual, interpretive, or critical capacities remain active—sometimes with
+great sophistication—but are organized to protect a conclusion, authority,
+identity, or programme from reciprocal standards and independent correction. It
+is not an absence of reasoning. It is reasoning made self-negating in epistemic
+function: greater skill at explanation, distinction, criticism, and defence helps
+disable the account's capacity to lose.
+
+> **Un-reason is reason's power operating against the conditions under which reasoning can correct itself.**
+
+The term is constructed by extending the **indefinite-judgment pattern** Žižek
+uses immediately around the cited “Night of the World” remark in *How to Read
+Lacan*. His contrasts between *not dead* and *undead*, and between *not human* and
+*inhuman*, distinguish a simple external negation from a disturbing third domain
+in which the negated quality persists in an internally transformed form. Applied
+here:
+
+| Form | Meaning in this project |
+|---|---|
+| **Reason** | Inferential and interpretive activity held answerable to logical consistency, explicit premises, reciprocal standards, relevant evidence, alternative accounts, consequences, and correction appropriate to the question. |
+| **Not-reason** | Reasoning is absent or not currently operative: sensation, affect, impulse, silence, pre-articulate experience, incapacity, or an unsupported assertion may fall here. This category is not inherently pathological. |
+| **Un-reason** | Reasoning remains operative, but its concepts, premises, burdens, exceptions, or standards are arranged asymmetrically or revised recursively so that a protected account cannot be defeated. |
+
+The hyphen therefore marks a project-specific construction modelled on Žižek's
+semantic pattern; **un-reason is not Žižek's term, not Hegel's term, and not a
+claim that either thinker proposed this mechanism**. Nor is subjective Night
+itself un-reason. Night names the opaque, negative, and generative inward ground
+from which many forms of articulation can emerge; un-reason names one possible
+organization of articulated thought after it has entered justificatory and social
+circulation.
+
+A characteristic programme-level sequence is:
+
+```text
+intellectual and critical capacity
+→ identity-, authority-, or programme-protected conclusion
+→ selective concepts, premises, evidence, burdens, and exceptions
+→ counterevidence redescribed through the protected account
+→ criticism becomes confirmation, impurity, or proof of hidden power
+→ sophistication increases while independent correction closes
+```
+
+##### Relation to sublimation and the failing-reactor picture
+
+The controlled [**nuclear-reactor, sublimation, and un-reason
+analogy**](0050-culture-mechanics-analogies.semantic-inventory.md#nuclear-reactor-sublimation-and-un-reason)
+connects un-reason to the project's cultural-sublimation architecture while
+keeping three failure forms separate:
+
+- loss of regulation, cooling, or containment maps most directly to
+  **de-binding, desublimation, or disorganized discharge**;
+- a reactor operating effectively while powering a destructive project maps to
+  **destructive sublimation**—discipline and capability remain, but their
+  destination is destructive;
+- a safety system that moves thresholds, discredits inconvenient sensors,
+  redescribes alarms as confirmation, and controls its own shutdown conditions
+  maps to **un-reason**.
+
+Un-reason is therefore neither the reactor's fuel nor the meltdown. It is
+analogous to active epistemic safety logic being repurposed to protect continued
+operation from the warnings that should correct or stop it. In this sense,
+un-reason can be an **epistemic misdirection of sublimated intellectual and
+critical capacity**: disciplined reasoning has been successfully formed, but its
+operation now insulates a protected account. Sublimation and un-reason remain
+different constructs, and neither Hegelian Night nor the Lacanian Real is a stock
+of psychic nuclear energy.
+
+This distinguishes **anti-reason** from **un-reason**. *Anti-reason* is a broad
+directional description: a doctrine or practice may explicitly reject rational
+constraint, prohibit inquiry, or oppose institutions of public reason.
+*Un-reason* identifies the more specific internal mechanism by which the
+operations of reasoning themselves undermine their truth-corrective conditions.
+An openly irrationalist order can be anti-reason without elaborate un-reason; a
+highly articulate programme can instantiate un-reason while praising reason,
+critique, science, or emancipation.
+
+Un-reason can operate within a person, argument, discipline, Culture Program, or
+institutional correction system. Its neighbours must remain distinct:
+
+- **motivated reasoning** describes directional cognition and can be one
+  person-level contributor; un-reason additionally names a recursively organized
+  epistemic operation that can be distributed and institutional;
+- **sophistry** is an argument-shaped communicative practice and may implement
+  un-reason, but one fallacy or sophism does not establish the wider mechanism;
+- **systemic lying** is a constitutional pole toward which un-reason can
+  contribute, but coercion, omission, ritual assent, or memory control can produce
+  systemic lying without it, and localized un-reason need not constitute an
+  entire order;
+- **doublethink** is a narrower contradiction-tolerance mechanism that can help
+  implement un-reason or systemic lying, but accepting incompatible propositions
+  does not by itself establish either one;
+- **intelligence, complexity, and criticism** are not evidence of un-reason.
+  The mechanism concerns what reasoning permits to count against its protected
+  account, not how abstract, radical, technical, or politically unwelcome the
+  account appears.
+
+##### Doublethink as a narrower contradiction-tolerance mechanism
+
+[George Orwell's *Nineteen
+Eighty-Four*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/)
+supplies **doublethink** as a literary-political mechanism: incompatible
+propositions can both remain authorized, and the operative proposition can change
+with the Party's present requirement without the contradiction being permitted
+to correct the system. The mechanism is not identical with ordinary cognitive
+dissonance. Dissonance names tension produced by inconsistency and often a
+motivation to reduce it; doublethink names coexistence, compartmentalization, or
+authority-governed switching that prevents effective cross-comparison and
+correction. It can therefore help a participant remain sincerely identified with
+an account while also performing, administering, or defending claims that
+conflict with it.
+
+Marija B. Petrović and Iris Žeželj deliberately borrow Orwell's word for a
+narrower empirical construct in [“Exploring the Mechanisms that Allow
+Incompatible Beliefs to Coexist in the Cognitive
+System”](https://doi.org/10.1177/00332941241280870). Their **Proneness to
+Doublethink Scale** counts endorsement across eleven pairs of incompatible
+beliefs. In two preregistered Serbian studies (combined *N* = 691), doublethink
+was positively related to need for cognitive closure and several families of
+irrational belief, negatively related to actively open-minded thinking, and did
+not predict the examined non-evidence-based health practices. The authors
+propose that incompatible beliefs may enter a permeable belief system and then
+remain compartmentalized without cross-referencing. Their correlational studies
+operationalize individual differences; they do not establish Orwell's
+totalitarian training mechanism, political imposition, strategic lying, or the
+Culture Mechanics constructs.
+
+The relations must therefore remain typed:
+
+| Relation | Boundary |
+|---|---|
+| **Doublethink → possible un-reason component** | Authorized contradiction may help protect an account, but un-reason additionally requires recursive organization against reciprocal standards and independent correction. |
+| **Un-reason without doublethink** | Burden asymmetry, moving defeat conditions, selective evidence, or criticism-as-confirmation can close correction without any explicit pair of contradictory beliefs. |
+| **Doublethink without systemic lying** | Compartmentalized inconsistency can remain individual, local, corrigible, and politically unorganized. |
+| **Doublethink within systemic lying** | Contradictory authorized claims can be retained because loyalty, practical usefulness, or present authority outranks cross-comparison and correction. |
+
+The linguistic neighbour is not doublespeak. Orwellian **Newspeak** acts on the
+available symbolic vocabulary; doublethink acts on the relation among beliefs.
+The [Newspeak-style vocabulary-restriction
+mechanism](0030-linguistic-tricks.semantic-inventory.md#lt-042--newspeak-style-vocabulary-restriction)
+is kept in the linguistic inventory. Neither mechanism proves the other, and one
+observed contradiction does not diagnose either.
+
+Diagnosis must specify the person, text, programme, institution, domain, and
+period under examination. Evidence includes persistent burden asymmetry,
+exceptions available only to the protected side, contradiction tolerated without
+a declared contextual rule, post-hoc changes to defeat conditions, criticism
+reclassified as confirmation, adverse consequences removed from evaluation, and
+the inability to name an observation that would reduce confidence. The hypothesis
+is weakened by reciprocal standards, explicit defeaters, successful correction,
+preserved rival accounts, independent audit, acknowledged failure, and revision
+that changes practice. No conclusion about intelligence, motive, population, or
+political identity follows from the term alone.
+
+##### Relation to cultural interoperability and Babelization
+
+**Un-reason and Babelization are not identical. Un-reason can be a mechanism that
+drives communication toward
+[Babelization](0040-mythology-construction.semantic-definition.md#29-cultural-interoperability-and-its-breakdown-babelization).**
+
+The crucial distinction is:
+
+> **The shared real world remains causally common, but ceases to be epistemically
+> common.**
+
+A person cannot literally negate mind-independent reality. Events and
+consequences still occur. What an un-reasoning operation negates is their
+authority as independent correction. In the limit case, every observation is
+translated through the protected account:
+
+- supporting evidence confirms it;
+- counterevidence reveals hidden power, bias, or misunderstanding;
+- failed predictions are redescribed as evidence of complexity;
+- criticism demonstrates the critic's implication in the system;
+- different standards become legitimate whenever needed to protect the
+  conclusion.
+
+Reality still “speaks” through consequences, but no longer has an agreed language
+in which it can pronounce against the account.
+
+###### Is that Babelization?
+
+Only at a certain threshold:
+
+| Condition | What remains possible |
+|---|---|
+| **Ordinary disagreement** | Shared facts and procedures can adjudicate the dispute. |
+| **Localized un-reason** | Words and facts remain shared, but the protected claim cannot lose. Communication continues, but joint inquiry is impaired. |
+| **Epistemic semantic decoupling** | The parties no longer share what counts as evidence, contradiction, expertise, or correction. This is a descriptive bridge at a specified interpersonal or domain scale, not a new cultural-scale category. |
+| **Cultural interoperability breakdown (Babelization)** | Translation, legitimate common procedures, and necessary coordination fail below the anti-Babel floor. |
+
+Thus, one self-sealing dispute is not yet cultural Babelization. But if un-reason
+spreads across central classifications—truth, evidence, justice, personhood, harm,
+and authority—and destroys trusted adjudication routes, it can contribute to
+[**intergroup semantic
+decoupling**](0040-mythology-construction.semantic-definition.md#intergroup-semantic-decoupling-and-breakdown)
+and eventually to cultural interoperability falling below the anti-Babel floor.
+
+Babelization also does not mean literal inability to exchange sentences. People
+may understand the words, negotiate transactions, issue commands, or coordinate
+tactically. What becomes impossible is reliable translation and adjudication
+inside one shared epistemic order. The failure may remain specific to one domain,
+relationship, institution, or pair of cultural groups while other domains retain
+a larger [**residual interoperability
+scale**](0040-mythology-construction.semantic-definition.md#residual-interoperability-scale-and-the-individual-limit).
+
+At a severe Babelization interface where one binding output remains unavoidable,
+the relation reaches the [**secession-or-force
+fork**](0060-culture-program-ecology.semantic-definition.md#the-severe-babelization-fork-secession-or-force):
+either reduce compulsory common jurisdiction or impose one answer without a
+mutually legitimate common judge. When power itself determines which claims,
+standards, rights, and exceptions are valid, the force branch becomes open
+domination. Under the project's strict definition, it becomes
+[*Machtpolitik*](0060-culture-program-ecology.semantic-definition.md#purpose-and-categorical-separation)
+only when a systemic-lying core, captured or exploited ideological power,
+culture-mechanical mobilization, a power-seeking objective, and Cipollan
+bandit–carrier payoff asymmetry are also evidenced.
+This further political fork does not follow from localized un-reason or failed
+persuasion alone. Once its conditions do hold, jurisdictional separation is the
+only branch that exits the loop without one programme overpowering the other.
+The pluralist application prefers soft separation where feasible because continued
+contact and a thin common shell can preserve a path toward restored
+interoperability and voluntary reunion.
+
+###### How do you reason with someone operating through un-reason?
+
+The phrase should remain a provisional, domain-specific description rather than
+a global identity assigned to the person. The first task is to test whether any
+**reality-correction interface** survives. More facts alone will usually not help
+if the mechanism already controls what facts are permitted to mean.
+
+Useful questions are:
+
+- “What observation would make you less confident?”
+- “Would this same standard bind your side if our positions were reversed?”
+- “Can we state the standard before examining this particular case?”
+- “Who or what could serve as an independent observer?”
+- “What different outcomes does your account predict?”
+- “If the prediction fails, what specifically will be revised?”
+
+This shifts the discussion from the disputed conclusion to the conditions under
+which conclusions may lose.
+
+If the person can name genuine defeaters and later update, the bridge remains. If
+every imaginable result confirms the account, then rational persuasion about that
+protected claim is temporarily impossible—not because communication has ceased,
+but because the conversation is no longer a joint truth-seeking procedure.
+
+At that point, the proportionate response is usually to:
+
+- stop feeding an endless recursive argument;
+- state the closure clearly;
+- preserve written claims, predictions, and standards;
+- use independent observers or procedures where possible;
+- restrict joint decisions to propositions that can be operationally verified;
+- establish boundaries, appeal routes, or exit where agreement is unnecessary.
+
+The deepest warning sign is therefore not “this person rejects my facts.” It is:
+
+> **No possible fact, consequence, observer, or reciprocal standard is still
+> authorized to correct the protected account.**
+
+That is the point at which localized un-reason approaches a Babelization boundary.
+It should still be diagnosed by domain and period, however—not turned into the
+claim that the entire person is permanently unreachable. Babelization requires
+the further scale and threshold evidence specified in its primary semantic home.
 
 ### 10. Communicative integrity and linguistic tricks
 
@@ -996,6 +1350,18 @@ orientation concerns its mythological and motivational direction. The phrase
 **mythological epistemic constitution** may emphasize that second aspect, but does
 not create a separate constitutional genus.
 
+**Un-reason does not add a third row.** It is a possible cross-scale mechanism by
+which reasoning helps move a person, programme, institution, or constitution away
+from independent correction within the truth orientation. Its presence does not
+settle drive direction, Culture Program branch, subjecthood absorption,
+jurisdiction, capture, hazard, or intent.
+
+The [**sacred-principal allocation
+audit**](#sacred-principal-allocation-audit) also remains outside the table. Its
+governing question may prove independent, but the present candidate lacks
+adequate opposed endpoints and may be better represented as a typed allocation
+map than as a third orientation.
+
 Every actual constitution is mixed and may occupy different positions by
 institution, domain, time, and scale. A laboratory may be highly
 reality-responsive while its personnel process is denunciatory; a government may
@@ -1025,6 +1391,7 @@ corrigibility.
 | Correction | Mind-changing, retraction, and concession can be honourable | Correction threatens status; failures are denied, renamed, or forgotten |
 | Public telemetry | Visible speech approximately represents distributed judgment | Preference and knowledge falsification manufacture apparent consensus |
 | Language | Meanings and burdens remain explicit and contestable | Linguistic tricks, euphemism, semantic drift, and sophistry steer interpretation |
+| Use of reason | Premises, standards, exceptions, and conclusions remain reciprocally testable and independently corrigible | Reasoning can be recruited into un-reason: protected conclusions control the concepts, burdens, exceptions, and permitted defeat conditions |
 | Attention | Responsible amplification and prioritization of consequential disagreement | Flooding, outrage competition, repetition, and noise exhaust checking capacity |
 | Memory | Provenance, predictions, dissent, and correction histories are preserved | Records are selectively erased, rewritten, or detached from context |
 | Person-directed accusation | Precise allegations, tested evidence, due process, appeal, and repair | Cheap denunciation, vague charges, asymmetric secrecy, and irreversible stigma |
@@ -1125,6 +1492,85 @@ open desire
 → progressive consumption of carriers
 ```
 
+The most complete compound compression of the two poles is:
+
+> **The life-drive pole joins open desire, ethical responsibility, deferred
+> gratification, reality-corrected effort, sublimation, responsible
+> interdependence, democratic accountability, cultivation, maintenance, and
+> succession into accountable generativity.**
+
+> **The death-drive pole joins captured desire, impossible demand, perverse
+> instrumentality, exculpation through the big Other, instant symbolic reward,
+> interpassivity, surrogate dependency, unaccountable power, renewable negation,
+> and substrate consumption into an anti-future circuit of exculpated
+> self-consumption.**
+
+This is an endpoint compression rather than a list of individually necessary or
+sufficient conditions. It gathers psychological gradient, relation to the big
+Other, temporal discipline, sublimation, dependency, accountability, cultural
+production, and system trajectory without collapsing them into one scalar
+measure. A psychologically uphill act can serve a destructive end; assistance or
+reduced effort can restore life-serving agency; disciplined sublimation can
+produce destructive capability; and democracy, accountability, truthfulness, and
+drive valence remain distinguishable even where the ideal-typical poles align
+them.
+
+The [**affective-return-to-uphill-development
+mechanism**](0040-mythology-construction.semantic-definition.md#affective-return-to-uphill-development)
+describes how a person or cultural field might move away from one downhill
+attractor through future horizon, authorship, alternative reward, capability,
+relationship, correction, and an affirmative successor mythology. It is a
+transition mechanism within this orientation, not a third orientation, a scalar
+score, or evidence that every case can or should be moved by the same affective
+route.
+
+The **ethical responsibility–perverse instrumentality** contrast follows
+**Slavoj Žižek's** explicit opposition in [*How to Read
+Lacan*](https://wwnorton.co.uk/books/9780393329551-how-to-read-lacan): the perverse political position presents itself
+as the exculpated instrument of the big Other's directly knowable Will, whereas
+Sophia Karpai's refusal to make medical truth serve Stalinist necessity is
+presented as the opposite, a Lacanian ethical act. The broader coupling of that
+contrast to accountable generativity, democratic accountability,
+surrogate-dependency hazards, and the drive orientation is a Culture Mechanics
+synthesis. **Perverse instrumentality** names a specified relation among act,
+authorization, claimed necessity, enjoyment, and displaced responsibility; it is
+not a sexual description, clinical diagnosis, population type, or inference
+licensed by obedience or harmful effect alone.
+
+Žižek also supplies a narrower source bridge from this structure to
+**fundamentalism** and to a possible mechanism of extreme discharge. In his
+analysis of Mohammad Bouyeri's letter to Ayaan Hirsi Ali, willingness to die for
+truth is transformed into wishing death as proof of truthfulness, while death is
+made the final separator of Truth from Lies. Žižek describes the perverse move as
+displacing division onto the Other: the opponent is declared inconsistent,
+whereas the actor escapes their own division by assuming the supposedly
+unambiguous position and demand of the big Other. He then defines perversion
+formally as claiming direct access to a figure such as God, History, or another
+bearer of ultimate authorization and acting as the instrument of its will. His
+deliberately symmetrical political examples are Osama bin Laden and President
+George W. Bush insofar as each presents action as directly ordered and guided by
+divine will. His further compression is that the fundamentalist “does not
+believe, he knows it directly.”
+
+This gives a candidate pathway:
+
+```text
+claimed direct knowledge of the big Other's Will
+→ ambiguity, mediation, and subjective division are denied or displaced
+→ the actor presents the act as execution rather than an answerable choice
+→ sacrifice or death can become a proof of truth, fidelity, or authorization
+→ extreme or violent discharge becomes possible
+```
+
+The final connection to **fanatic offspring** is a Culture Mechanics diagnostic
+synthesis rather than Žižek's terminology. Žižek's nearby source term is
+*fundamentalist*, not the project's defined *fanatic*. [*Culture Program
+Ecology*](0060-culture-program-ecology.semantic-definition.md#72-fanatic-offspring-as-an-indicator)
+therefore keeps three levels separate: perverse instrumentality as a candidate
+subject--authorization mechanism, fundamentalist form as a programme's coercive
+or eliminative mode of enforcement, and fanatic offspring as an observable
+extreme discharge. No one of them entails another without further evidence.
+
 A **constitutive adversary** is an opponent whose continued existence performs
 load-bearing identity and motivational work for a programme, so that eliminating
 the stated problem would threaten the programme's own coherence. Adversary
@@ -1179,6 +1625,17 @@ The drive orientation is likewise independent of order level, full slot
 occupancy, jurisdiction, corrigibility, cultural interoperability, subjecthood
 absorption, synchrony, and *Beseelung*. None of those axes establishes whether
 motivation is being bound into completable goods or self-consuming repetition.
+
+[**Pageau's Grail
+question**](0040-mythology-construction.semantic-definition.md#pageaus-grail-question-what-does-capability-serve)
+provides a compact service-direction probe for this independence. A constitution
+can generate abundance, technological power, disciplined institutions, or
+impressive capability without thereby reaching the life-drive pole. The further
+questions are which persons and forms of life the capability protects or makes
+dependent, which operative objective selects its use, what it sacrifices, whether
+persons remain principals rather than instruments, and what trajectory it
+strengthens over time. This is why life-drive classification asks what the
+resulting power serves, not merely whether power was successfully produced.
 
 ##### The Edelmanian queer pole as the closest real-world doctrinal limit case
 
@@ -1249,6 +1706,16 @@ named it a master signifier for that functional mapping to be useful.
 | Reproductive futurism | The larger mythology or Culture Program activated through the token |
 | The future or posterity | Its promised telos and beneficiary horizon |
 | Queerness in Edelman | The negative subject-position constructed as refusing that horizon |
+
+The positive [**Child at
+Play**](0040-mythology-construction.semantic-definition.md#affective-return-to-uphill-development)
+developed elsewhere in this theory is deliberately not a restoration of the same
+symbolic construction under a positive sign. Its primary referent is the present
+person's immanent capacity for wonder, risk, play, creation, completion, and
+beginning again. Concrete children remain persons with direct standing, and
+succession is downstream of present creation rather than a silent beneficiary
+whose custodian commands the present. The contrast neither refutes Edelman's
+critique of reproductive futurism nor licenses compulsory reproduction.
 
 The possible renewal circuit below is a **Culture Mechanics inference**, not a
 formula attributed to Edelman:
@@ -1408,6 +1875,68 @@ Open questions include:
    successor-script competition, or become a self-sustaining script that outlives
    the failure that activated it?
 
+#### 15.3 Candidate sacred-principal allocation audit—not yet an orientation {#sacred-principal-allocation-audit}
+
+> **Who or what receives ultimate standing, and who or what becomes its
+> instrument?**
+
+The assistant proposed this governing question during the Humanism–Diversity
+analysis; the project author selected it for evaluation while explicitly
+withholding acceptance as a constitutional orientation.
+
+**Sacred-principal allocation** is retained as a candidate cross-constitutional
+audit. It asks how a mythology and its institutions distribute the
+principal–instrument relation among concrete persons, collective subjects,
+categories, ecosystems, impersonal patterns, future conditions, institutions,
+tools, and programme continuation.
+
+The candidate is evaluated against the requirements for an independent
+constitutional classification orientation:
+
+| Required element | Present specification | Current difficulty |
+|---|---|---|
+| **Independent governing question** | What or whom does the order finally serve when protected goods conflict? | The question is plausibly independent of factual truth and motivational drive, but overlaps the existing service-direction audit and subjecthood-absorption analysis. |
+| **Unit** | A specified mythology, Culture Program, institution, constitution, policy domain, or decision interface | Allocation can differ by domain inside one order; whole-society labels would conceal this variation. |
+| **Scale and period** | Local, institutional, constitutional, or civilizational allocation during a named period | Declared principle, legal standing, administrative operation, and long-run effect can diverge. |
+| **Candidate endpoints** | Concrete-person primacy ↔ collective, ecological, or impersonal-pattern primacy | The proposed right-hand “pole” combines several non-equivalent principals; plural stewardship and side constraints do not necessarily form one continuum. |
+| **Observable evidence** | Rights floors, final appeal, authorized sacrifice, beneficiary and burden patterns, refusal and exit, exceptional cases, correction, and temporal service direction | Formal declarations may differ from operative budgets, metrics, exception rules, and treatment of outliers. |
+| **Boundary cases** | Guardianship for infants, future persons, and nonhuman life; public goods; emergency sacrifice; ecosystems required for human survival; voluntary collective projects | Instrumental service, mutual dependence, fiduciary representation, and constrained trade-off must not be misclassified as total subordination. |
+
+The independence case is real but incomplete. A reality-anchored constitution
+could truthfully give an ecosystem priority over immediate consumption while
+remaining predominantly life-drive. A Humanist constitution could lie
+systemically or organize a self-consuming circuit. Truth orientation therefore
+does not decide principal allocation, and principal allocation does not decide
+drive orientation.
+
+Yet an orientation needs more than independence examples. The current candidate
+lacks a defensible pair of exhaustive or directionally opposed poles. It may
+instead describe a **typed allocation map**: several principals can possess
+standing at once; one can constrain another without becoming its complete master;
+and the decisive hierarchy can change by jurisdiction. Much of its diagnostic
+work may already be performed by
+[Humanity inversion](0040-mythology-construction.semantic-definition.md#humanity-as-standing-horizon-and-sacred-object),
+[subjecthood absorption](0010-culture-mechanics.semantic-definition.md#differentiated-unity-and-subjecthood-absorption-fusion),
+the [service-direction
+audit](0040-mythology-construction.semantic-definition.md#pageaus-grail-question-what-does-capability-serve),
+and the [*Schutzbalken*
+principle](0060-culture-program-ecology.semantic-definition.md#1321-democracy-as-schutzbalken-gegen-die-macht).
+
+**Current verdict:** use sacred-principal allocation as a non-scalar,
+cross-cutting audit; do **not** add a third row to the accepted orientation table.
+Promotion would require:
+
+1. endpoint definitions that do not collapse all nonhuman or collective
+   principals into one pole;
+2. evidence and decision rules that distinguish declared from effective
+   principal;
+3. inter-rater discrimination beyond truth orientation, drive orientation,
+   service direction, subjecthood absorption, and jurisdiction;
+4. successful classification of plural, fiduciary, ecological, emergency, and
+   mixed boundary cases; and
+5. demonstrated explanatory or predictive gain across several master signifiers
+   and institutions.
+
 ### 16. Reality-anchored, truth-seeking epistemic constitution
 
 **reality-anchored, truth-seeking epistemic constitution** *noun phrase*
@@ -1446,6 +1975,48 @@ Its lifted mechanical solidarity is not agreement on a comprehensive worldview. 
 
 > People like us say what we actually believe, examine what we most want to believe, give opponents a fair hearing, preserve evidence, and let reality correct us.
 
+#### Truth-preserving culture as a roadblock to *Machtpolitik* {#truth-preserving-culture-as-a-roadblock-to-machtpolitik}
+
+**Truth-preserving culture** is the practical cultural and institutional profile
+of this reality-anchored constitution. It keeps politically harmful truths
+speakable, politically useful errors rejectable, standards reciprocal,
+predictions and earlier claims recoverable, independent observers and evidence
+available, dissent protected, and appeal and correction capable of changing
+practice. It is not a new constitutional orientation and does not mean that every
+current proposition is true. It names a culture whose operative honour,
+incentives, records, and institutions preserve the conditions under which
+authorized accounts can lose.
+
+Under the project's strict definition of
+[***Machtpolitik***](0060-culture-program-ecology.semantic-definition.md#purpose-and-categorical-separation),
+the relation is:
+
+```text
+Machtpolitik -> systemic-lying core
+operative truth-preserving culture -> no systemic-lying core
+therefore, operative truth-preserving culture -> no Machtpolitik
+```
+
+This makes truth-preserving culture a simple and central **preventive
+roadblock**: it denies *Machtpolitik* one of its necessary constituents. The
+claim is definitional at the ideal-type level, not an empirical promise that a
+truth-oriented society cannot be captured. A culture may preserve truth in some
+domains while systemic lying stabilizes in another; nominal truth commitments
+may conceal captured records or incentives; and a sufficiently powerful actor
+may destroy the relevant people and institutions.
+
+The countermeasure therefore requires more than fact-checking. Its practical
+supports include independent evidence and observers, reciprocal law and
+standards, protected dissent and harmful truth, durable records, visible failed
+predictions, plural material and institutional independence, appeal, correction,
+reviewable classification of political or emergency exceptions, and consequences
+for deliberate falsification or record destruction under due process. It is
+specifically a roadblock to *Machtpolitik*, not a complete defence
+against **open authoritarianism** or **naked domination**, which can avow force
+without constructing a systemic-lying core. The corresponding pluralist
+constitutional application belongs to the [*Schutzbalken*
+crosswalk](0060-culture-program-ecology.semantic-definition.md#schutzbalken-crosswalk).
+
 ### 17. Systemic-lying epistemic constitution
 
 **systemic-lying epistemic constitution** *noun phrase*
@@ -1477,6 +2048,91 @@ Its defining properties include:
 11. **Memory control:** failed predictions, dissent, alternative explanations, and earlier meanings disappear from the usable record.
 12. **Self-sealing correction:** the institution defines criticism as proof of hostility and failure as evidence that more commitment is needed.
 13. **Distributed reproduction:** ordinary people become the execution layer by forwarding, concealing, performing, rewarding, and sanctioning.
+
+Un-reason can help generate several of these properties by turning articulate
+reasoning into an immunization system for the authorized account. It is neither a
+necessary nor a sufficient condition of systemic lying: an order may suppress
+correction through brute authority with little intellectual machinery, while a
+localized pocket of un-reason may remain contestable and constitutionally
+contained.
+
+##### Benda's truth--utility bridge {#bendas-truth-utility-bridge}
+
+[Julien Benda's *La trahison des
+clercs*](https://classiques.uqam.ca/classiques/benda_julien/trahison_des_clercs/benda_trahison_clercs.pdf)
+supplies a historically situated political pathway into this pole. His
+*clercs* are people whose intellectual vocation should bind them to
+disinterested and universal values such as truth, reason, and justice. Their
+betrayal occurs when intellectual authority is instead used to dignify practical
+political passions. Benda's sharp epistemic formulation is that embracing a
+useful error or “myth” can be presented as honourable, while admitting a truth
+harmful to the group can be made shameful.
+
+The [fuller Benda bridge](0060-culture-program-ecology.semantic-definition.md#bendas-morality-politics-bridge)
+also preserves his secondary motifs of moralized strength, reciprocal constraint
+disparaged as weakness, the factionalized state, punished independent judgment,
+instrumental contempt, and national infallibility. They are possible
+manifestations of truth--utility inversion, not defining properties of systemic
+lying and not sufficient evidence of *Machtpolitik*.
+
+At the transmission level, a *clerc* can also occupy the project's
+[**trusted-opinion-leader
+position**](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leaders-cascades-and-cultivated-authority):
+the relevant field recurrently refers judgment to the person, so the person's
+authorization gains privileged credibility, translation, and cascade. The
+source term and functional position remain distinct. Not every *clerc* possesses
+operative field trust; not every trusted opinion leader claims an intellectual
+vocation; and neither classification establishes betrayal or falsity. *Culture
+Program Ecology* owns the application in which their overlap helps build the
+systemic-lying core of *Machtpolitik*.
+
+In the present vocabulary, this is a **truth--utility inversion**:
+
+```text
+political usefulness
+→ intellectual, moral, and epistemic authorization
+→ useful error becomes honourable
+→ harmful truth becomes disloyal, shameful, or inadmissible
+→ independent correction weakens
+→ possible movement toward systemic lying
+```
+
+This pathway connects the truth orientation to
+[***Machtpolitik***](0060-culture-program-ecology.semantic-definition.md#bendas-morality-politics-bridge)
+without making them coextensive. Under the project's strict definition:
+
+```text
+Machtpolitik -> systemic lying
+systemic lying -/-> Machtpolitik
+```
+
+Systemic lying is a necessary constituent because *Machtpolitik* recruits
+clerc-like authority and Culture Mechanics to convert factional usefulness into
+apparent goodness, truth, and reciprocal legitimacy while insulating
+beneficiaries from correction. But a systemic-lying constitution may lack a
+power-seeking beneficiary, capture of ideological-power capability,
+bandit–carrier payoff asymmetry, or the other components required for
+*Machtpolitik*. Openly avowed domination without systemic lying is instead open
+authoritarianism or naked domination in this project's usage. The full composite
+definition, morality--politics sequence, and relation to *Willkürherrschaft*
+belong to *Culture Program Ecology*.
+
+[Fraenkel's *Normenstaat–Maßnahmenstaat*
+distinction](0060-culture-program-ecology.semantic-definition.md#fraenkel-dual-state-bridge)
+supplies a neighbouring institutional implementation. A regime can preserve
+substantial norm-governed legal regularity while politically selected cases lose
+reciprocal guarantees and effective review. Where that selective normality is
+presented as universally binding, or the override is concealed, euphemized, or
+moralized, the dual-state topology can help reproduce systemic lying. The
+topology alone does not establish this truth orientation: a prerogative override
+may be openly avowed, and *Doppelstaat*, systemic lying, *Machtpolitik*, and
+*Willkürherrschaft* remain distinct classifications.
+
+This is one pathway, not the definition of systemic lying. Benda's account is a
+polemical diagnosis of particular intellectual and political transformations,
+not a classification of intellectuals as a population. Sincere belief, conformity,
+institutional selection, and distributed repetition can reproduce the inversion
+without every carrier knowingly lying or one centre designing it.
 
 The word **lying** is broad at this pole. A systemic-lying constitution need not consist entirely of consciously false sentences. It may contain:
 
@@ -1634,6 +2290,16 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 - Does successful propagation enlarge future-supporting capacity, or make the
   programme's terminal logic more capable of consuming the containing order and
   its own substrate?
+- Whom or what does the resulting power serve: declared users, effective
+  beneficiaries, a competitive selection pressure, programme continuation,
+  concrete life-supporting forms, or a self-consuming trajectory?
+- Do persons remain principals who can redirect and stop the capability, or are
+  they becoming instruments of its continuation and demands?
+- Which persons, collectives, abstractions, ecosystems, patterns, institutions,
+  or future conditions possess standing in this domain, and what happens when
+  their claims conflict?
+- Does the effective principal shown by rights, sacrifice, budgets, metrics,
+  exceptions, outlier treatment, and final appeal match the declared principal?
 - Does a moderator preserve symmetry or issue epistemic verdicts?
 - Are evidence, provenance, uncertainty, predictions, dissent, failures, and corrections preserved?
 - Can institutions admit error without redefining the error or punishing the person who exposed it?
@@ -1649,6 +2315,13 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 - When a participant says “I have reasoned for myself,” can they identify the
   verdict's operative rule, affective signature, provenance, framing, and
   authority—and can evidence or consequence actually change it?
+- Does reasoning expose a protected conclusion to possible defeat, or continually
+  redesign the concepts, burdens, exceptions, and standards by which that
+  conclusion survives?
+- What observation, contradiction, failed prediction, adverse consequence, or
+  rival explanation would lower confidence, and has such an event ever done so?
+- Are contextual distinctions stated in advance and applied reciprocally, or
+  invented after challenge for one identity, authority, or programme?
 - Do institutions cultivate auditors of their generators and interpretations, or
   merely articulate press secretaries for protected conclusions?
 - Does invocation of Humanity protect each concrete person's standing, or create
@@ -1677,6 +2350,11 @@ Present constitutional classifiers:
 
 > **drive orientation: life-drive ↔ death-drive**
 
+Candidate audit retained outside the classifier:
+
+> **sacred-principal allocation: who or what receives ultimate standing, and who
+> or what becomes its instrument?**
+
 Order and jurisdiction:
 
 > **full lifted capture → fixed M + current K_t + situation C → binding R_t(C); where M governs universally, it can constitute, allocate, limit, succeed, and correct first-order jurisdictions while representatives receive no root access to reality**
@@ -1694,6 +2372,18 @@ Truth-orientation positive pole:
 Truth-orientation negative pole:
 
 > **social pressure → public performance → apparent consensus → authority-gated knowledge → suppressed correction → organized unreality**
+
+Un-reason mechanism:
+
+> **reasoning capacity → protected conclusion → asymmetric concepts, burdens, and exceptions → criticism redescribed as confirmation → independent correction closes**
+
+Doublethink mechanism:
+
+> **incompatible authorized beliefs → compartmentalization or authority-governed switching → contradiction loses corrective force**
+
+Benda truth--utility pathway:
+
+> **political usefulness → clerc-like moral and epistemic authorization → useful error honoured and harmful truth shamed → possible systemic lying**
 
 Life-drive pole:
 
@@ -1773,6 +2463,29 @@ Ultimate contrast:
 - **Public dissimulation and acting “as if” — Lisa Wedeen:** [*Ambiguities of Domination*](https://press.uchicago.edu/ucp/books/book/chicago/A/bo22776830.html).
 - **Political lying and factual truth — Hannah Arendt:** [*On Lying and Politics*](https://www.loa.org/books/713-on-lying-and-politics-paperback/).
 - **Language as culture-forming political medium — Victor Klemperer:** [*The Language of the Third Reich*](https://www.bloomsbury.com/us/language-of-the-third-reich-9781472507211/).
+- **The betrayal of the clercs — Julien Benda:** [*La trahison des
+  clercs*](https://classiques.uqam.ca/classiques/benda_julien/trahison_des_clercs/benda_trahison_clercs.pdf)
+  supplies the abandonment of disinterested truth, reason, and justice for
+  practical political passions, including the useful-error/harmful-truth
+  contrast. The truth--utility pathway, the project-specific rule that
+  ***Machtpolitik* entails systemic lying**, and truth-preserving-culture
+  countermeasure are Culture Mechanics syntheses. The *clerc* remains Benda's
+  term; its mapping to the trusted-opinion-leader function is project-developed.
+- **Dual state, *Normenstaat*, and *Maßnahmenstaat* — Ernst Fraenkel:**
+  [*The Dual State*](https://academic.oup.com/book/35937) supplies the
+  coexistence of norm-governed legal order and politically activated prerogative
+  power in National Socialist Germany. Its connection to systemic lying,
+  *Machtpolitik*, *Willkürherrschaft*, the override audit, and *Schutzbalken*
+  controls is a Culture Mechanics synthesis.
+- **Doublethink and Newspeak — George Orwell:** [*Nineteen
+  Eighty-Four*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/)
+  supplies the literary-political mechanisms. This theory keeps them distinct
+  and does not treat the novel as empirical validation.
+- **Proneness to doublethink — Marija B. Petrović and Iris Žeželj:**
+  [“Exploring the Mechanisms that Allow Incompatible Beliefs to Coexist in the
+  Cognitive System”](https://doi.org/10.1177/00332941241280870) supplies the
+  individual-differences operationalization. It is a narrower empirical construct
+  than Orwell's political mechanism and than the project's un-reason mechanism.
 - **Critical discussion — Frans H. van Eemeren and Rob Grootendorst:** [*Argumentation, Communication, and Fallacies*](https://www.routledge.com/Argumentation-Communication-and-Fallacies-A-Pragma-dialectical-Perspective/van-Eemeren-Grootendorst/p/book/9780805810691).
 - **Queer positionality — David M. Halperin:** [*Saint Foucault: Towards a
   Gay Hagiography*](https://academic.oup.com/book/48907). This document uses the
@@ -1787,6 +2500,14 @@ Ultimate contrast:
   critique–construction asymmetry is a Culture Mechanics hypothesis, not a
   demonstrated chain of influence from Marxism, Critical Theory, or discourse
   theory to Edelman.
+- **The Grail question and technological service direction — Jonathan Pageau:**
+  his [ARC 2026
+  talk](https://www.youtube.com/watch?v=yZUuKzDQSsI&t=250s) supplies the question
+  of whom technological abundance and power serve and a Moloch-trap account of
+  competitive escalation, sacrifice, and possible reversal from tool-use to
+  tool-service. The service-direction decomposition and its use as a
+  constitutional drive-orientation probe are Culture Mechanics developments; the
+  accessible transcript is third-party rather than an official ARC publication.
 - **Ragnarök — *Völuspá* and Snorri's *Gylfaginning*:** the [*Poetic
   Edda*](https://www.openbookpublishers.com/books/10.11647/obp.0308) and [*Prose
   Edda* account](https://sacred-texts.com/neu/pre/pre04.htm) supply the foretold
@@ -1810,6 +2531,7 @@ Ultimate contrast:
 | **Reality correction loop** | Holistic structural realism; fallibilist and scientific model testing | Generalizes model–prediction–surprise–revision beyond formal science to institutions, narratives, policies, and public knowledge. |
 | **Constitutive lack, desire, fantasy, demand, and jouissance** | Lacan's psychoanalytic vocabulary, with Žižek's exposition of fantasy as teaching desire and positioning the subject for others | Applies the optional motivational layer to public inquiry and authority without making lack part of processor architecture, fantasy a synonym for mythology, demand lack-free, jouissance a synonym for *Beseelung*, or private fantasy an object of constitutional rule. The primary cultural operationalization remains in [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#19-psychologically-downhill-and-lacanian-death-drive-mythologies). |
 | **Life-drive–death-drive constitutional orientation** | Lacan's intertwined life-drive and death-drive aspects, as culturally operationalized in [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#19-psychologically-downhill-and-lacanian-death-drive-mythologies), with Edelman's explicit queer-theoretical use of death drive as a source bridge | Converts the vocabulary into independent ideal-typical constitutional poles asking what a shared order organizes motivation to reproduce. This social classifier, its definitions, and its limit-case judgments are Culture Mechanics proposals, not a constitutional axis formulated by Lacan or Edelman. |
+| **Ethical responsibility–perverse instrumentality contrast** | Žižek's reading of Lacan in [*How to Read Lacan*](https://wwnorton.co.uk/books/9780393329551-how-to-read-lacan), including Bouyeri, bin Laden, Bush, fundamentalism, and Sophia Karpai | Preserves Žižek's opposition between acting as the instrument of a directly knowable big Other and an ethical act that refuses such exculpation. Its linkage to the project's drive orientation, fundamentalist form, fanatic-offspring diagnostic, accountable generativity, and democratic responsibility is a Culture Mechanics synthesis. |
 
 ### 25. Newly proposed terms and formulations
 
@@ -1828,6 +2550,9 @@ independent source establishes otherwise:
 - **systemic-lying epistemic constitution**;
 - **constitutional classification orientation** and **pole** as the extensible
   multi-orientation classification structure defined here;
+- **sacred-principal allocation** as a candidate non-scalar audit retained
+  outside the orientation table pending adequate poles, evidence, boundary
+  classifications, and demonstrated independence from existing constructs;
 - the originating user's selected name **life-drive–death-drive constitutional
   orientation**, with the project-developed definitions of **life-drive pole** and
   **death-drive pole** at constitutional scale;
@@ -1849,6 +2574,45 @@ independent source establishes otherwise:
   and death-drive theoretical strand in *No Future*, not Edelman's term and not a
   classification of queer people or queer theory generally;
 - **public epistemic telemetry**;
+- **un-reason** as the project-specific cross-scale mechanism in which reasoning
+  remains active but is recursively organized against reciprocal standards and
+  independent correction; the assistant proposed the term during the discussion
+  of Žižek's Night passage and the originating author selected it for integration.
+  Its construction follows Žižek's *undead/inhuman* semantic pattern, but the term
+  and mechanism are not attributed to Žižek or Hegel;
+- the **un-reason--Babelization bridge**, the formulation **the shared real world
+  remains causally common but ceases to be epistemically common**, and the
+  **reality-correction-interface probe**. The originating user asked whether
+  un-reason reaches the Babelization core when the shared real world is denied as
+  the final mediator; the assistant developed the threshold distinction and
+  practical dialogue protocol, and the user selected that synthesis for theory
+  integration. The user then sharpened the political endpoint into the
+  **secession-or-force thesis** and identified power deciding valid claims,
+  standards, rights, and exceptions as the point where reason-mediated
+  adjudication becomes power-mediated settlement. The user further identified
+  secession as the only exit from the political-overpowering loop and preferred a
+  soft form because it more easily leaves the door to reunion open. In a later
+  correction, the user reserved *Machtpolitik* for the stricter composite of a
+  power-seeking beneficiary, captured or exploited ideological power, Culture
+  Mechanics, Cipollan-stupid carrier conduct, and systemic lying; open
+  domination without systemic lying is therefore outside that category. The
+  detailed fork and strict type belong to *Culture Program Ecology*;
+- the **Benda truth--utility bridge** as the project-specific placement of
+  Benda's source-attested contrast between useful error and harmful truth inside
+  the truth orientation. The current discussion recovered the fuller Benda
+  material from the psychology corpus and connected it to systemic lying,
+  *Machtpolitik*, un-reason, double standards, and doublethink. The assistant
+  initially formulated mutual enablement without entailment; the user corrected
+  the project relation so that ***Machtpolitik* entails systemic lying**, with systemic
+  lying still insufficient by itself, and selected truth-preserving culture as a
+  central roadblock. The user then related Benda's *clerc* to the existing
+  trusted-opinion-leader function and supplied Fraenkel's dual-state distinction
+  as a further bridge to *Willkür*. Source verification corrected the supplied
+  “largely a *Rechtsstaat*” compression: the retained *Normenstaat* was
+  subordinate to a politically activated *Maßnahmenstaat*. The typed
+  relationships, transmission mapping, pathway, and countermeasure are Culture
+  Mechanics syntheses, not Benda's or Fraenkel's formal constitutional
+  classifiers;
 - **public avowal integrity** as defined here;
 - [**authority-gated belief
   updating**](0020-epistemic-agency.semantic-definition.md) and
@@ -1935,6 +2699,58 @@ independent source establishes otherwise:
     from the trajectory they serve. A Ragnarök trajectory requires evidence that
     propagation advances terminal logic and consumes its substrate; catastrophe
     or eventual programme failure alone is insufficient.
+23. **It does not equate Night, not-reason, anti-reason, and un-reason.**
+    Subjective Night is a constitutive and potentially generative inward ground;
+    not-reason is the absence or non-operation of reasoning; anti-reason is a broad
+    directional opposition; un-reason is reasoning internally organized against
+    its own correction conditions.
+24. **It does not diagnose un-reason from sophistication, contradiction, or
+    affiliation alone.** The claim requires a specified unit and pattern of
+    protected conclusions, asymmetric standards, recursive immunization, and
+    failed independent correction. It does not establish motive, intelligence,
+    pathology, or population membership.
+25. **It does not equate un-reason with Babelization or failed persuasion.**
+    Localized un-reason may close joint inquiry around one protected claim while
+    language, coordination, and other correction routes remain available.
+    Babelization requires the further scale and threshold evidence that shared
+    translation, legitimate common procedure, and necessary coordination have
+    fallen below the anti-Babel floor.
+26. **It does not infer secession or *Machtpolitik* from disagreement alone.**
+    The secession-or-force fork additionally requires an unavoidable binding
+    output, incompatible answers, and failed mutually legitimate adjudication.
+    Ordinary enforceable law remains distinct from power determining which
+    reasons and rules are valid; that latter operation is open domination and
+    still does not establish *Machtpolitik* without the strict composite gate.
+27. **It does not infer doublethink from one contradiction or equate its source
+    senses.** Contextual differences, uncertainty, development over time, and
+    ordinary inconsistency can produce apparently incompatible statements.
+    Petrović and Žeželj's individual-differences measure does not by itself
+    establish Orwellian political training, un-reason, systemic lying, or motive.
+28. **It does not equate systemic lying with *Machtpolitik*.** The Benda bridge
+    specifies one-way necessity, not identity:
+    *Machtpolitik* entails a systemic-lying core, but distributed organized
+    unreality can exist without a power-seeking beneficiary, ideological-power
+    exploitation, culture-mechanical mobilization, or bandit–carrier payoff
+    asymmetry. Openly avowed domination without systemic lying is open
+    authoritarianism or naked domination rather than *Machtpolitik* in the
+    project's strict usage.
+29. **It does not equate Benda's *clerc* with trusted opinion leadership or
+    capture.** A *clerc* is a source-attested intellectual-vocation role; trusted
+    opinion leader is a project-developed receiving-field function; covert
+    capture is a further causal diagnosis. The roles can overlap without any of
+    these classifications entailing the others.
+30. **It does not infer *Rechtsstaat* from Fraenkelian *Normenstaat*.** A
+    *Normenstaat* may preserve extensive legal regularity while a
+    *Maßnahmenstaat* can remove politically selected cases from effective
+    guarantees. Nor does the dual-state topology alone establish systemic lying,
+    *Machtpolitik*, or *Willkürherrschaft*.
+31. **The Grail question is a probe, not a verdict.** Capability, efficiency,
+    abundance, technological danger, or competitive escalation does not by itself
+    establish life-drive, death-drive, destructive sublimation, un-reason,
+    conspiracy, a conscious machine, one beneficiary, or a Ragnarök trajectory.
+    Declared purpose, effective beneficiaries, objective dynamics, sacrificed
+    goods, mastery relations, correction, and temporal trajectory require
+    separate evidence.
 
 ## Final semantic summary
 
@@ -1942,6 +2758,49 @@ independent source establishes otherwise:
 - **Central object:** the relationship among reality, private judgment, public
   avowal, authority, evidence, disagreement, attention, memory, correction, and
   what the shared order organizes motivation to reproduce.
+- **Internal failure mechanism:** un-reason can preserve sophisticated reasoning
+  while turning its concepts, burdens, exceptions, and recursive interpretations
+  against reciprocal testing and independent correction; it is not a third
+  orientation. Doublethink is a narrower possible component in which incompatible
+  authorized beliefs cease to correct one another; neither one contradiction nor
+  an individual-differences score establishes it politically.
+- **Candidate allocation audit, not a third orientation:** sacred-principal
+  allocation asks who or what receives ultimate standing and who becomes its
+  instrument. Its governing question may be independent, but its poles,
+  mixed-principal boundary cases, and added value beyond service direction and
+  subjecthood absorption remain insufficiently specified.
+- **Truth--power bridge:** Benda supplies one source-attested pathway in which
+  clerc-like authority converts political usefulness into apparent moral and
+  epistemic validity, honouring useful error and shaming harmful truth.
+  *Machtpolitik* definitionally requires the resulting systemic-lying core, but
+  systemic lying alone does not establish *Machtpolitik*.
+- ***Clerc*--trusted-opinion-leader bridge:** Benda's source-attested
+  intellectual-vocation role can overlap with the project's receiving-field
+  function, giving moral and epistemic authorization privileged routing and
+  cascade. The terms are not synonyms, and neither establishes betrayal or
+  capture.
+- **Legal-override bridge:** Fraenkel's *Doppelstaat* shows how a
+  *Normenstaat* can preserve extensive legal regularity while a
+  *Maßnahmenstaat* withdraws politically selected cases from effective
+  guarantees. This can support systemic lying but does not by itself establish
+  that orientation, *Machtpolitik*, or *Willkürherrschaft*.
+- **Preventive truth culture:** truth-preserving culture keeps harmful truth
+  speakable, useful error rejectable, standards reciprocal, records durable, and
+  independent correction effective. It therefore blocks a necessary component
+  of *Machtpolitik* while operative, but does not by itself prevent openly avowed
+  authoritarian force.
+- **Interoperability bridge:** localized un-reason can make the shared real world
+  causally common but no longer epistemically common for one protected claim. It
+  contributes to Babelization only when the failure spreads across central
+  meanings and adjudication routes far enough to produce intergroup semantic
+  decoupling and cross the anti-Babel floor.
+- **Political fork:** where severe Babelization meets an unavoidable binding
+  decision, the remaining structural branches are jurisdictional separation or
+  imposed settlement. Separation is the only exit that does not require one
+  programme to overpower the other; a soft form can preserve the possibility of
+  restored interoperability and voluntary reunion. Power becoming the judge of
+  valid reasons and rules is open domination; it becomes *Machtpolitik* only
+  when the stricter composite classification gate is also satisfied.
 - **Social form:** lifted mechanical solidarity—shared rules for generating, selecting, applying, and revising concrete answers—coexisting here with organic differentiation.
 - **Society-wide performance:** operative lifted solidarity can support cultural
   interoperability above the anti-Babel floor; thickness and span describe that
@@ -1969,6 +2828,11 @@ independent source establishes otherwise:
   generative positive-good orientation with self-reproducing negation,
   adversary-dependence, renewable conflict, and self-consuming repetition; the
   glosses name different explanatory aspects rather than strict synonyms.
+- **Service-direction probe:** Pageau's Grail question asks whom or what produced
+  abundance and power serve. The project applies it by separating declared and
+  effective beneficiaries, operative objectives, sacrificed substrates, mastery
+  reversal, correction, and temporal trajectory; successful capability alone has
+  no fixed drive valence.
 - **Drive-source boundary:** the psychological operationalization remains in
   *Mythology Construction*; this document owns its application as a constitutional
   classifier. Lacan's intertwined drive aspects are not two literal substances.

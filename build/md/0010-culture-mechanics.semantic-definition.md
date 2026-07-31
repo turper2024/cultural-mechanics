@@ -525,6 +525,16 @@ uses this route. The analysis must keep five variables distinct:
 | **Generative centrality** | How strongly does the structure actually produce capabilities or conditions upon which several downstream structures depend? |
 | **Normative standing** | Is the structure, claimed effect, jurisdiction, or proposed sacrifice legitimate? |
 
+The [Hanekamp--Wegner ecological
+application](0040-mythology-construction.semantic-definition.md#change-deterioration-moral-appraisal)
+sharpens the change boundary: **“Deterioration is a moral evaluation of
+change.”** A measurement or model may establish or predict change, but the
+classification *deterioration* additionally selects a reference state, relevant
+structure, represented weakening, normative standing, and interpreter. This is a
+Culture Mechanics bridge from Hanekamp's application to Wegner's appraisal
+hypothesis, not Wegner's own formulation or proof that the evaluation is
+arbitrary.
+
 **Generative centrality**--also described more informally as
 *load-bearingness*--is therefore not another name for felt relevance. A structure
 may be causally central to the production of character, knowledge, cooperation, or
@@ -994,6 +1004,7 @@ field, and agent:
 | **Pluralist adaptive constitutional search** | Proposed application in which a common person-protecting shell contains bounded policy variation, plural sensors, correction, lawful movement, imitation, and succession without granting one metric or institution root access to reality. Its epistemic architecture belongs to *Epistemic Constitution* and its concrete pluralist design to *Culture Program Ecology*. |
 | **Lifted-Order Capacity Dashboard** | Proposed *Culture Program Ecology* sensor suite—Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, and Choose—for testing a pluralist Culture Strategy. It is neither the definition of lifted solidarity nor a scalar social good. |
 | **Projective-vandalism circuit** | Observable sequence in which a disowned blemish is projected onto an opponent, a taboo label makes the target symbolically attackable, and repeated denunciation may become affectively rewarding. Its linguistic home is *Linguistic Tricks* and its motivational hypothesis belongs to *Mythology Construction*. |
+| **Un-reason** | Proposed cross-scale mechanism in which reasoning remains active but is organized to protect a conclusion, authority, identity, or programme from reciprocal standards and independent correction. It is not a third constitutional orientation, a synonym for irrationality, or a classification of a population; its primary semantic home is *Epistemic Constitution*. |
 | **Mythological lens** | The generalized mapping through which observations are converted into culturally learned values and feelings. |
 | **Ideological symbol** | A socially legible token that activates the program and communicates a person's relation to it. |
 | **Conformity signal** | An ideological symbol whose performance or nonperformance makes conformity and deviation publicly legible. |
@@ -2488,6 +2499,14 @@ In culture mechanics, motivated reasoning is not itself the bigOther. It is what
 
 Not every instance of reasoning from one's existing perspective is irrational. Prior beliefs may deserve evidential weight, and revising an established model has real cognitive costs. The culture-mechanical concern is the narrower case in which the bigOther enforces asymmetric or evaluation-disabling treatment of evidence and thereby reduces epistemic or instrumental rationality.
 
+When that directional use becomes recursively organized so that concepts,
+premises, burdens, exceptions, and even criticism are made to protect the installed
+verdict from possible defeat, [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason)
+calls the mechanism **un-reason**. It explains how the main processor's
+sophistication can strengthen capture through reasoning itself. Motivated
+reasoning is one possible contributor; un-reason is the wider cross-scale
+organization and does not follow from intelligence, disagreement, or one error.
+
 #### Identity-protective cognition
 
 **Identity-protective cognition** is motivated reasoning specifically directed toward protecting membership, status, or alignment within an identity-defining group. It is one of the closest empirical neighbours of the wireless-collar model.
@@ -2524,6 +2543,67 @@ mythologies, classifications, authorities, identities, sentiments, and expected
 conduct without restating them. This explains both its efficiency and its danger:
 participants can coordinate through a short token, but the expansion it activates
 may remain unspoken and therefore difficult to inspect.
+
+##### Master-signifier analysis grid
+
+> **A master signifier should be analysed by what it sacralizes, who bears it,
+> how it unifies, what it authorizes, and what happens to the outlier—not merely
+> by its dictionary meaning.**
+
+The **master-signifier analysis grid** is a project-developed decompression
+method. The assistant synthesized the grid from the Humanism–Diversity
+discussion; the project author then selected it for theory integration. It
+compares the operative structures activated by a signifier without turning those
+structures into one scalar judgment:
+
+| Field | Diagnostic question |
+|---|---|
+| **Token family** | Which word, capitalization, slogan, symbol, negation, and neighbouring terms select the same installed complex? |
+| **Sacred referent** | Which person, relation, collective, abstraction, pattern, process, condition, or future, if any, is placed beyond ordinary trade-off? |
+| **Bearer** | Who or what, if anything, is said to instantiate, represent, carry, embody, or transmit the sacred referent? |
+| **Protected principal** | Whose or what interests, standing, continuity, or development, if any, finally select action when goods conflict? |
+| **Unity topology** | Does the signifier join persons directly through a common standing, mediate membership through groups, federate differentiated forms, or impose one higher-order content upon them? |
+| **Difference operator** | Which distinctions are ignored, protected, amplified, administered, ranked, corrected, or treated as suspect? |
+| **Distributive grammar** | What is allocated—standing, liberty, voice, office, recognition, burden, remedy, resources, reward, opportunity, or outcome—and by which rule: equality, contribution, need, injury, category, parity, or another principle? |
+| **Causal story** | Which condition becomes a problem, who or what caused it, who is harmed or blamed, and which fixer and remedy follow? |
+| **Interpreter custody** | Who defines the term, its bearers, categories, indicators, exceptions, conflicts, and legitimate application? Can rival interpretations defeat the custodian's account? |
+| **Authorization and jurisdiction** | Which power, objects, domain, duration, discretion, sanction, and epistemic authority does invocation support? |
+| **Outlier performance** | What happens to the difficult case—the infant, dependant, dissenter, noncontributor, mixed or unclassified person, statistical minority, failed exemplar, or person whose concrete interest conflicts with the aggregate or pattern? |
+| **Realization stack** | How does the signifier operate semantically, affectively, behaviourally, institutionally, and materially rather than only propositionally? |
+| **Completion** | What observable condition permits the demand, correction, emergency, or programme to count as complete? |
+| **Correction** | Which evidence, consequence, appeal, refusal, succession, or external reality check can revise the interpretation and authorization? |
+| **Trajectory** | Across time, does the complex build and transmit finite goods, stabilize bounded maintenance, renew its own demand, displace its principal, or consume its carriers and containing order? |
+
+**Outlier performance** is not a licence to stigmatize unusual persons. It is a
+stress test of what the signifier actually protects when its easiest representative
+case is unavailable. **Distributive grammar** likewise does not presume that one
+rule fits every object: equal moral standing, contribution-sensitive reward,
+need-based aid, compensation for a demonstrated injury, and role-specific
+authority answer different questions.
+
+The grid is neither a new constitutional orientation nor a diagnostic score.
+Some master signifiers organize knowledge or coordination without one sacred
+referent, bearer, or protected principal; the grid records that absence rather
+than manufacturing one.
+Several fields deliberately cross-reference independent theory components:
+causal stories and authorization payloads, subjecthood absorption, truth and
+drive orientations, Culture Program jurisdiction, and service direction. A field
+should be retained only if comparative application changes or sharpens the
+analysis. A master signifier remains capable of healthy compression when its
+referent, custody, authorization, boundaries, completion, and correction can be
+made explicit and contested.
+
+When *Science*, *Safety*, *biodiversity*, *risk*, or another master signifier
+compresses a model-mediated authorization, the grid should be paired with the
+[**model-to-mandate custody
+chain**](0040-mythology-construction.semantic-definition.md#model-to-mandate-custody-chain).
+That chain does not add another grid axis. It decompresses the existing causal
+story, interpreter custody, authorization, completion, and correction fields into
+observation, metric, model, conditional forecast, harm translation,
+protected-principal valuation, severity threshold, remedy comparison, mandate,
+and outcome audit. A valid early stage may coexist with an invalid later crossing,
+and a disputed mandate does not by itself falsify the underlying observation or
+model.
 
 #### Bonhoeffer's Dummheit
 
@@ -3027,6 +3107,11 @@ Finally, describing culture as programming does not imply that all symbolic real
   kinds.
 - **Ideological symbol:** a medium-independent socially legible token that
   activates an installed program and communicates a person's relation to it.
+- **Master-signifier analysis grid:** a non-scalar decompression method comparing
+  sacred referent, bearer, protected principal, unity topology, difference
+  operator, distributive grammar, causal story, interpreter custody,
+  authorization, outlier performance, realization, completion, correction, and
+  trajectory.
 - **Conformity signal:** an ideological symbol whose performance, absence,
   refusal, or substitution makes conformity and deviation publicly legible.
 - **Targeting signal:** a performed, omitted, imposed, or attributed socially

@@ -137,10 +137,30 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 
 #### LT-009 — Doublespeak and euphemistic inversion
 
-- **Aliases:** Newspeak; semantic cosmetics; inverted meaning; bureaucratic euphemism.
+- **Aliases:** semantic cosmetics; inverted meaning; bureaucratic euphemism.
 - **Operation:** Rename an act so that its description obscures agency, cost, coercion, or moral character—or makes an adverse reality sound benign.
 - **Integrity:** MI, CI, SI.
 - **Project provenance:** Source details withheld from this publication.
+
+#### LT-042 — Newspeak-style vocabulary restriction
+
+- **Source term:** **Newspeak**, from [George Orwell's *Nineteen
+  Eighty-Four*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/).
+- **Operation:** Deliberately reduce, prohibit, or institutionally displace words
+  and distinctions needed to formulate, compare, or publicly circulate
+  disfavoured propositions, thereby raising the cognitive and social cost of
+  making the rival account explicit.
+- **Integrity:** MI, CI, DI.
+- **Boundary:** Newspeak is not an alias for doublespeak. Doublespeak obscures an
+  act through a misleading expression; Newspeak-style restriction narrows the
+  available expressive repertoire. Vocabulary always changes, terminological
+  economy can clarify, and losing one word does not make a thought literally
+  impossible. Diagnosis requires evidence of directional restriction,
+  institutionally enforced replacement, or the systematic removal of distinctions
+  needed for criticism.
+- **Status:** Orwell's literary device is the source model; this entry extracts a
+  bounded linguistic operation and does not claim strong linguistic determinism
+  or empirical validation of the fictional system.
 
 #### LT-010 — Presupposition smuggling
 
@@ -157,6 +177,92 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Integrity:** II, RI; sometimes MI.
 - **Boundary:** Framing is unavoidable; the trick lies in concealing consequential selections, excluding rival frames, or presenting a contestable frame as reality itself.
 - **Project provenance:** Source details withheld from this publication.
+
+#### LT-043 — Pseudo-metric predication {#lt-043-pseudo-metric-predication}
+
+- **Aliases:** metric-form language without metric content; simulated assessment;
+  verdictive pseudo-measurement.
+- **Operation:** Attach comparative, threshold, or evaluative language to an
+  object without supplying a stable operational rule capable of determining
+  whether the predicate applies. The expression thereby makes an unexposed
+  judgment sound like the result of measurement or an independently applied
+  classification.
+- **Canonical compression:** **There may be no hidden ruler. The language merely
+  imitates the authority of having used a ruler.**
+- **Characteristic forms:** *significant biodiversity value*, *adequate
+  ecological integrity*, *unacceptable biodiversity loss*, or parallel phrases
+  in which *significant*, *adequate*, *unacceptable*, *meaningful*, *balanced*,
+  or *representative* appears to report a crossed threshold without identifying
+  the threshold or rule.
+- **Operation sequence:**
+
+  ```text
+  underspecified object
+  + measurement-like or threshold predicate
+  + institutional or expert authority
+  → apparent factual assessment
+  → unexposed evaluative verdict
+  → presupposed deficit
+  → permission to intervene
+  ```
+
+- **Integrity:** MI, II, CI, DI; sometimes LI.
+- **Diagnostic:** Ask the speaker to decompress the predicate into its object,
+  dimension, baseline, comparison class, spatial and temporal scale, threshold
+  or qualitative decision rule, evidence rule, uncertainty treatment, conflict
+  rule, and possible defeater or completion condition. Then test whether
+  independent reviewers can understand the application, whether comparable cases
+  receive comparable treatment, and whether counterevidence and appeal can change
+  the verdict.
+- **Relation to metric custody:** An explicit metric discloses its operational
+  rule. A tacit criterion has a stable operational rule in professional
+  convention, guidance, precedent, or practice but withholds it from public
+  inspection. Pseudo-metric predication is the stricter third case: no stable
+  ruler may exist. If implementation later reveals a stable internal rule, the
+  case becomes tacit criterion custody. If officials decide case by case, it
+  remains interpreter custody and authorization without specification, which can
+  feed discretionary policy custody.
+- **Relation to the model-to-mandate chain:** When an inspectable metric and real
+  model do exist, this trick may not be present. The audit must instead test
+  construct validity, decision-scale model adequacy, causal-harm translation,
+  protected-principal valuation, severity threshold, remedy comparison,
+  authorization, and outcome correction separately. The generic
+  [model-to-mandate custody
+  chain](0040-mythology-construction.semantic-definition.md#model-to-mandate-custody-chain)
+  prevents the prestige of a valid early stage from laundering unargued later
+  crossings. Conversely, a disputed later crossing does not show that the
+  measurement or model is false.
+- **Related operations:** LT-040 supplies the recognition cues of assessment
+  without the corresponding function; LT-010 can presuppose that a relevant
+  threshold has been crossed; LT-008 can transfer the authority of a valued term;
+  LT-011 can hide competing dimensions and trade-offs; and LT-041 can conceal
+  the implementing powers and sacrifices. When observed or predicted *change* is
+  called *deterioration*, the [Hanekamp--Wegner
+  bridge](0040-mythology-construction.semantic-definition.md#change-deterioration-moral-appraisal)
+  tests the intervening relevant-structure and moral-appraisal step; the word is
+  not pseudo-metric merely because it is evaluative.
+- **PCP routing:** At [Perception](0040-mythology-construction.semantic-definition.md#perception-context-permission),
+  the predicate reports that a condition has supposedly been identified; at
+  Context, it classifies that condition as a relevant deficit; at Permission, it
+  helps authorize the guardian, expert, or institution to impose the apparently
+  required remedy. The route is a diagnostic reconstruction, not proof that every
+  use was designed in those stages.
+- **Boundary:** Numbers are neither necessary nor sufficient. A nonnumerical,
+  open-textured, or expert criterion is not pseudo-metric when its purpose,
+  factors, boundaries, evidence, reasons, and revision or appeal route are
+  sufficiently inspectable. Nor is every shorthand phrase manipulative.
+  Classification strengthens when the expression itself is treated as sufficient
+  evidence for binding action, resists decompression, substitutes asymmetrically
+  for reasons, or remains insulated from correction.
+- **General-mechanism relation:** [*Mythology Construction*,
+  “Metric custody in more
+  detail”](0040-mythology-construction.semantic-definition.md#metric-custody-in-more-detail)
+  owns the constructed-mapping and custody mechanism; this inventory owns the
+  observable communicative operation.
+- **Status:** Project-developed compound operation extracted from the
+  Humanism--Diversity, metric-custody, and silent-principal analysis. It names the
+  communicative operation, not a finding about any phrase, field, speaker, or
+  institution merely because measurement language is used.
 
 #### LT-012 — Outcome relabeling
 
@@ -195,6 +301,60 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Integrity:** RI, II; sometimes MI.
 - **Boundary:** This can emerge collectively without a designing speaker; it is therefore also a culture mechanism, not only a deliberate trick.
 - **Project provenance:** Source details withheld from this publication.
+
+#### LT-044 — Deconstructive reversal {#lt-044-deconstructive-reversal}
+
+- **Originating compression:** **“Push the center to the periphery and the
+  periphery into the center.”**
+- **Operation:** Expose and morally redescribe a center–periphery hierarchy,
+  downgrade the incumbent center as derivative, oppressive, exclusionary, or
+  obstructive, grant the formerly peripheral term privileged standing, and
+  reinterpret the former center through the new center.
+- **Generic sequence:**
+
+  ```text
+  identify incumbent center
+  → identify excluded or subordinated periphery
+  → explain the center as dependent upon suppression of the periphery
+  → morally reverse the hierarchy
+  → make the former periphery the privileged standpoint or sacred principal
+  → reinterpret the former center through the new center
+  ```
+
+- **Integrity:** MI, II, DI; sometimes RI or LI.
+- **Diagnostic:** Identify the original opposition, the evidence for actual
+  subordination, the rule that transfers standing, which functions or goods of
+  the old center survive, whether the former margin has become a new
+  self-exempting center, and which affected persons gain or lose standing,
+  jurisdiction, refusal, or appeal. Distinguish correction of a false hierarchy
+  from installation of an inverted hierarchy.
+- **Relation to mythology replacement:** The operation can help unbraid an
+  incumbent mythology by withdrawing sacred or explanatory priority from its
+  center and making its formerly marginal term available for successor
+  rebraiding. In the [Humanism–Diversity
+  application](0040-mythology-construction.semantic-definition.md#doctrine-generation-and-authorization-pathway),
+  expansion from the universe of humans toward ecological, cultural, and
+  identity difference does not itself perform the reversal. Reversal requires
+  the further displacement in which the former human center loses governing
+  standing and the selected peripheral pattern acquires it.
+- **Boundary:** This is the project's selected name for a bounded operation, not
+  a summary definition of Derrida or deconstruction as a whole. A fuller
+  deconstructive double movement can also destabilize the reversed opposition
+  rather than installing the former margin as a new center. The entry establishes
+  no Derridean genealogy, conscious plan, manipulative intent, or moral valence.
+  A reversal can expose a real exclusion, correct unjustified privilege, broaden
+  standing, produce a mixed or supplementary order, install a new domination, or
+  fail.
+- **Related operations:** LT-011 can hide the selection of center and margin;
+  LT-008 can transfer inherited moral force to the successor term; LT-013 can
+  supply a benevolent wrapper; LT-040 can substitute recognition cues for
+  function; and LT-041 can omit the successor's operational mechanism,
+  jurisdiction, and burdens. None is entailed by reversal.
+- **Status:** User-selected project expression developed from a remembered
+  popular compression of deconstruction. The normalized definition, sequence,
+  diagnostic, Humanism–Diversity application, and boundaries are Culture
+  Mechanics developments. The remembered formulation is a source lead, not a
+  verified quotation from Derrida.
 
 ### C. Diversion and corruption of discussion
 
@@ -563,6 +723,44 @@ the inspectable mismatch between cue and function and, when manipulation is
 alleged, the further evidence that the mismatch was strategically produced,
 concealed, or immunized against correction.
 
+### Open-textured judgment is not automatically pseudo-measurement
+
+Many legitimate decisions cannot be reduced to one number. Law, medicine,
+engineering, ecology, and ordinary practical judgment use qualitative standards,
+professional interpretation, and revisable boundary judgments. LT-043 does not
+require false precision or prohibit such judgment. It asks whether an
+apparently assessed predicate has an inspectable operational basis, exposes the
+human choice within it, and remains answerable to evidence, comparable cases,
+reasons, affected persons, review, and appeal. The absence of numbers is not the
+failure; the performance of measurement-authority without an operationally
+contestable judgment is.
+
+The legal analogue likewise requires a strict separation:
+
+```text
+vague or open-textured legal language
+≠ surrogate rule-making or judicial activism
+≠ adjudication serving the interpreter's group interest
+```
+
+Open texture can be unavoidable and can transparently delegate bounded judgment.
+It becomes an interpreter-custody affordance when the prospective rule leaves an
+operative classification, exception, or conflict rule unresolved. Surrogate
+rule-making is the further institutional operation in which a judge, regulator,
+commission, or administrator effectively supplies or varies that rule beyond its
+constituted jurisdiction. Group-interest adjudication is a still further motive,
+beneficiary, or capture attribution requiring independent evidence. The
+[Sowell legal-surrogate
+branch](0040-mythology-construction.semantic-definition.md#sowell-legal-surrogate-branch)
+owns the complete sequence, comparative correction audit, and boundaries.
+
+This is not necessarily LT-043. It becomes pseudo-metric predication only where
+measurement-like or threshold language presents a contestable classification as
+though an operational assessment had already delivered it. Otherwise the
+appropriate diagnosis may be ordinary legal interpretation, disclosed
+delegation, tacit criterion custody, authorization without specification, or
+case-level interpreter custody.
+
 ### An omitted mechanism is not automatically a lie
 
 Complex doctrines cannot enumerate every psychological, institutional, and
@@ -591,6 +789,25 @@ supplies a cross-cutting model of how several such operations can be combined
 against an anticipated recipient so that the recipient reconstructs a targeted
 factual, causal, moral, or authorization model.
 
+Several operations can also be assembled into
+[**un-reason**](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason):
+reasoning continues, but semantic distinctions, evidential burdens, exceptions,
+and replies to criticism are recursively arranged to keep a protected account
+from losing. Un-reason is not another LT entry. It is a wider inferential and
+institutional mechanism that sophistry, burden reversal, immunization, framing,
+or dialogue corruption may help implement. One fallacy, contested definition, or
+linguistic trick does not establish it.
+
+The inventory also keeps Orwell's two neighbouring mechanisms distinct.
+[**Newspeak-style vocabulary
+restriction**](#lt-042--newspeak-style-vocabulary-restriction) changes the
+available symbolic repertoire. [**Doublethink**](0030-epistemic-constitution.semantic-definition.md#doublethink-as-a-narrower-contradiction-tolerance-mechanism)
+allows incompatible beliefs to coexist, remain compartmentalized, or switch with
+authority without their contradiction correcting the account. The former is a
+linguistic operation; the latter is a cognitive and potentially institutional
+mechanism. Either can support un-reason or systemic lying, but neither entails the
+other and neither is established by one euphemism or contradiction.
+
 The corresponding positive virtues are:
 
 1. State what one actually believes and distinguish belief from knowledge.
@@ -607,6 +824,11 @@ The corresponding positive virtues are:
     consequences.
 12. Compare CPU-facing principles with the affective and institutional mechanisms
     expected to implement them.
+13. Decompress apparently measured predicates into their object, rule, evidence,
+    threshold or boundary, trade-offs, defeaters, and appeal route.
+14. When a center–periphery reversal is proposed, disclose the selection and
+    standing rule, preserve justified functions, and subject the successor center
+    to the same evidential, jurisdictional, and person-protecting constraints.
 
 The inventory's function is thus constitutional and formative: it helps individuals recognize and resist small acts of public untruthfulness, while their repeated resistance changes the public norm that subsequently forms other individuals.
 

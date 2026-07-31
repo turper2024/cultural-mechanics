@@ -7,6 +7,11 @@ was applied, criticized, compared, or refined. In a very long conversation, it c
 also be used for intermediate checkpoints. It is not a theory source or a
 persistent instruction file.
 
+The resulting inventory may supply material for a later Candidate Theory Document
+under `candidates/`, but it is not itself such a document. Do not draft, promote,
+or integrate a Candidate Theory Document unless the user separately requests that
+step; candidate status remains non-authoritative and requires human review.
+
 ## Prompt
 
 Now review this conversation from the earliest content still available through the
@@ -62,6 +67,99 @@ For every material item, identify:
 - supporting considerations and missing evidence;
 - boundaries, alternatives, counterexamples, and possible tests;
 - its likely semantic home and any documents it would affect.
+
+For a **nuclear-reactor, sublimation, and un-reason** analogy candidate, preserve
+the originating peaceful-power and failing-plant picture while separating three
+branches: loss of regulation, cooling, or containment maps de-binding or
+desublimation; effective conversion serving a destructive end maps destructive
+sublimation; captured safety logic maps un-reason. Do not turn a reactor into an
+atomic bomb, drive into literal fuel, Night or the Real into an energy stock,
+madness into meltdown, or the containment image into authority for coercion.
+Where Jonathan Pageau's ARC 2026 Grail question is proposed as a source bridge,
+preserve his Grail/Lance images, question of whom technological power serves,
+Moloch-trap framing, and possible reversal from tool use to tool service while
+marking any transcript used as official or third-party. Treat the decomposition
+across declared and effective beneficiaries, operative objectives, sacrificed
+goods, principal--instrument relations, correction, and temporal trajectory as a
+project-developed service-direction audit. Capability and efficiency do not
+establish life-drive, while destructive effect alone does not establish one
+hidden beneficiary, literal Moloch, AI consciousness, conspiracy, un-reason, or a
+Ragnarök trajectory.
+
+For an **un-reason--Babelization** relation, preserve the distinction that the
+shared real world may remain causally common while ceasing to be epistemically
+common around a protected account. Separate ordinary disagreement, localized
+un-reason, epistemic semantic decoupling as a descriptive interpersonal or
+domain-level bridge, and cultural interoperability breakdown below the anti-Babel
+floor. Test the surviving reality-correction interface through predeclared
+defeaters, reciprocal standards, independent observers, differentiated
+predictions, and actual revision after failure. Do not infer cultural Babelization
+from one self-sealing dispute, failed persuasion, or inability to agree, and do
+not turn a domain-specific finding into a permanent classification of the person.
+When joint truth-seeking is unavailable, distinguish proportionate documentation,
+operational verification, boundaries, appeal, and exit from punishment or
+coercion based merely on belief or affiliation.
+
+For a **farming, reality-mediated education, and severe-Babelization
+secession-or-force** candidate, preserve the originating qualification that
+farming can educate an adult **without person-directed force** because voluntarily
+assumed responsibility places action under material consequence. Distinguish
+reality's causal resistance from human compulsion and preserve the central
+licensed inference that public reason lets arguments lose without requiring their
+human bearers to be defeated. Preserve the originating compressions **“Farming
+educates without coercive authority because reality supplies the correction”**
+and **“Reality is the thing that hurts if you act against it.”** Preserve the
+explicit transformation from **“the beginning of wisdom is the fear of God”** to
+**“the beginning of wisdom is the fear of truth”** and its secular implication
+that neither desire, identity, status, nor interpretation is sovereign over what
+is true. Link that posture to *piety toward the real* while keeping the
+fear-of-truth wording a project-developed secular maxim rather than a Biblical
+quotation, reduction of God to empirical fact, or warrant for submission to a
+self-appointed truth authority. Apply the political fork only where incompatible
+binding outputs remain unavoidable and mutually legitimate common adjudication
+has failed. Then test whether jurisdiction can be separated or one answer must be
+imposed. When power itself decides valid claims, standards, rights, and
+exceptions, describe the operation as open domination. Classify it as
+*Machtpolitik* only if the stricter composite gate is also satisfied: a
+power-seeking objective, captured or exploited ideological power, Culture
+Mechanics, Cipollan bandit–carrier payoff asymmetry, and a systemic-lying core.
+Do not make farming, pain, survival,
+prosperity, collapse, or secession a truth, justice, or causation oracle. Preserve
+common rights, externality, delay, cost-transfer, appeal, and local-capture
+boundaries. Michael Esfeld supplies the external reason--power bridge, not the
+project-specific farming mapping, fork, or soft-secession design. Preserve the
+further originating claim that secession is the only non-overpowering exit once
+the fork's conditions hold, together with the preference for a soft form because
+it more easily leaves the door to reunion open. Test whether the common shell is
+actually feasible, whether separation reduces compulsory supremacy, and whether
+contact and correction can continue. Treat restored interoperability and reunion
+as voluntary possibilities, not guaranteed outcomes, duties, or grounds for
+compelling present unity.
+
+For the clarified **Pure-Ideology Culture Program multi-mind-self** candidate,
+retain the claim only as a typed conjunction: load-bearing Pure-Ideology finality,
+sufficiently integrated collective agency, closure against accessible defeat and
+reciprocal correction, compulsory supremacy, an incompatible binding output,
+severe Babelization, and an unavoidable common decision. Neither Pure-Ideology
+nor multi-mind-self status alone entails force or rejection of coexistence. A
+programme can bargain tactically while refusing to authorize a reciprocal
+procedure to defeat its compulsory claim; distinguish these two senses of
+negotiation. Accepting bounded jurisdiction can remove compulsory supremacy
+without changing the Pure-Ideology branch. Preserve the [Peace of Westphalia as
+a historical marker of negotiated coexistence](0060-culture-program-ecology.semantic-definition.md#westphalia-as-a-marker-of-negotiated-coexistence):
+the 1648 settlement ended the Thirty Years' War and contained unresolved
+confessional disagreement through political, legal, constitutional, and
+jurisdictional arrangements. Make the soft-secession relation explicit but
+bounded: a continuing common legal shell plus separate territorial first-order
+jurisdictions can reduce the questions requiring one compulsory central answer.
+Assign the ruler-centred *ius reformandi* principally to Augsburg (1555).
+Westphalia (1648) restored and extended that settlement while stabilizing much of
+the confessional distribution to 1624 and protecting specified nonconforming
+practice and conscience. Do not import ruler-prescribed confession into the
+person-centred proposal or turn the historical analogy into proof that every
+conflict is negotiable, the origin of sovereign nation-states, complete religious
+liberty, abolition of coercion, or an exact implementation of the project's
+lifted pluralist or soft-secession design.
 
 For a proposed constitutional classification orientation or new pole, identify the
 independent governing question, unit and scale, endpoint definitions, observable
@@ -190,9 +288,12 @@ enforces, and distinguish legitimate bounded authority from domination.
 For constitutional-risk, *ideologische Macht*, *Machtpolitik*,
 *Willkürherrschaft*, Cipolla--Bonhoeffer--Normopathie--ponerology, AI
 queen-bee, or Ideological-Power Hazard Diagnostic candidates, start with Appendix
-A of *Culture Program Ecology*. Preserve five categories:
+A of *Culture Program Ecology*. Preserve six categories:
 ideological-power capability; capture or exploitation as a conversion mechanism;
-*Machtpolitik* as a possible objective; *Willkürherrschaft* as a possible
+Shadow-Sovereign rule as a visible state of displaced voter correction;
+*Machtpolitik* as the strict composite of a power-seeking objective,
+ideological-power exploitation, Culture Mechanics, bandit–carrier payoff
+asymmetry, and a necessary systemic-lying core; *Willkürherrschaft* as a possible
 endpoint; and *Schutzbalken* as defensive architecture. Do not turn
 *Machtpolitik* into a third constitutional orientation. Keep the truth and drive
 orientations, subjecthood absorption, Babelization, corrigibility, jurisdiction,
@@ -202,21 +303,199 @@ broadens Mausfeld's domination-oriented source concept into a general cultural
 capability; do not attribute that extension to him. Treat scenario-level
 precaution as possible support for low-regret architecture, not as proof of
 conspiracy, design, intent, guilt, pathocracy, or a causal nexus sufficient for
-coercion. Treat the AI queen bee as a speculative stress test and apply the
-bounded-protector recursion to every proposed defence.
+coercion. At a severe-Babelization interface, distinguish open domination through
+power deciding valid reasons and rules from the additional evidence required for
+the strict *Machtpolitik* classification. Treat the AI queen bee as a speculative
+stress test and apply the bounded-protector recursion to every proposed defence.
+
+For **Shadow Sovereign (*Besatzungsmacht*)** refinements, preserve the user's
+selected name and keep three claims separate: the functional
+effective-sovereignty position; the observable Shadow-Sovereign-rule state; and
+identification of an occupant, coordinator, or beneficiary. The visible-state
+diagnosis is conspiracy-independent, but it requires a named strategic course,
+genuine electoral turnover, a credible voter-authorized reversal attempt, failed
+correction, and convergent bottom-up traces across electoral corrigibility,
+framework taboo, careers, gatekeepers, burden and benefit, local enforcement,
+governing language, private--public divergence, loyalty performance, refusal, or
+exit. Do not restore the legacy 0--30 score. Test voter consensus, reciprocal
+constitutional limits, transparent commitments, common shocks, material
+constraint, path dependence, implementation lag, and independent convergence as
+alternatives. Preserve Kisin as source of the Titanic image and the project
+author as the person who introduced it and selected the assistant's
+passenger--voter, captain--government, ship--state,
+course--strategic-direction, and course-controller--effective-sovereign mapping
+for integration. Treat the Burnham--Orwell one-more-layer construction as a
+hypothetical threat model, not evidence of a hidden Inner Party. The German
+parenthetical is a functional image, not a legal occupation finding, and the
+profile is not the strict *Machtpolitik* composite. A *Kommandoagent* may be used
+as an optional person-level image for the deliberately directed variant: a
+knowing covert operational agent can translate a compartmentalized assignment
+into apparently local action and shield an upstream function. Do not turn that
+image into the generic interface person or a necessary model component; sincere,
+constrained, aligned, careerist, opportunistic, coerced, or institutionally
+selected actors can create the same shielding effect, and the system may be
+emergent. Require actor-specific support before attribution and do not equate the
+agent with the Shadow Sovereign. Keep the separate **favour-bank cloud** picture
+at the distributed mechanism level: cultivation can create implicit debt;
+brokers can route later withdrawals toward third parties; recruitment can create
+new deposits and entry points; and participants may recognize only the local
+protocol of access, obligation, reward, and refusal cost. Replace claims of
+“subconscious knowledge” with testable tacit or practical recognition. Use
+*implicit-debt grooming* only for evidenced staged nonsexual cultivation that
+prepares later compliance; otherwise use cultivation, mentorship, networking,
+patronage, or reciprocity. Require evidence for benefit, remembered or
+communicated obligation, consequential withdrawal, routing, benefit or sanction,
+recurrence, and aggregation. Do not infer the cloud from institutional prestige,
+NGO, trust, university, research-institute, media, professional, corporate, or
+public-office affiliation, grants, introductions, career mobility, dense
+networks, agreement, or one costly refusal. Preserve Tom Wolfe's 1987 *The
+Bonfire of the Vanities*, “The Favor Bank,” as the literary
+deposit--withdrawal source; preserve Mike Benz's later “human index of IOUs,”
+career-return, outside-organization, and fixer account as his media
+interpretation. The cloud-computing mapping, implicit-debt sequence, routability,
+and Inner-Party-function relation are project developments, and neither source
+verifies any named application. Preserve British indirect
+rule, British-occupied Egypt, the French protectorates in Tunisia and Morocco,
+Manchukuo, and Vichy France as graded source analogues for partitioned
+sovereignty and local administration, not as interchangeable cases or automatic
+modern classifications. Most lack the democratic delegation, real turnover, and
+failed voter-authorized correction required by the modern type; preserve each
+case's period, legal form, local agency, coercive setting, and disputed
+historiography.
+
+For Benda-derived *Machtpolitik* refinements, preserve his
+Plato--Machiavelli--Maurras sequence as Benda's polemical schema rather than an
+exhaustive interpretation of those thinkers. Preserve the decisive distinction
+between committing politically useful conduct that remains morally wrong and
+making political usefulness itself confer moral goodness. Track the clerc-like
+carrier role and the parallel truth--utility inversion in which useful error is
+honoured and harmful truth shamed. Preserve Benda's secondary repertoire:
+moralized strength, reciprocal constraint disparaged as weakness, the state as
+organized faction, punished independent judgment, instrumental contempt, and
+national infallibility. Treat these as source-attested warning patterns rather
+than necessary components, a cumulative score, or shortcut proof of betrayal,
+capture, systemic lying, *Machtpolitik*, or *Willkürherrschaft*. Le Bon's
+crowd-level contradictory ideas are at most a historical neighbour of
+doublethink, not an equivalent or evidence for it; a multi-mind-self does not as
+such reject negotiation, contract, reciprocal law, or interest exchange.
+Preserve the project-specific implication
+that ***Machtpolitik* entails systemic lying** while keeping the converse false. Open
+domination without systemic lying is open authoritarianism or naked domination,
+not *Machtpolitik*. Un-reason and doublethink remain possible mechanisms, and
+*Willkürherrschaft* remains a possible mature endpoint. Treat
+truth-preserving culture as a direct roadblock to the required systemic-lying
+core but not as a complete defence against open force. Do not infer the composite
+from one contradiction, advocate, useful falsehood, harmful crowd action, or
+forceful decision.
+
+For a ***clerc*--trusted-opinion-leader** refinement, retain *clerc* as Benda's
+normative-vocational source term and trusted opinion leader as the project's
+functional receiving-field position. Test whether the relevant field actually
+refers judgment to the person and whether that overlap supplies privileged
+routing, translation, cascade, or institutionalization. Do not infer that every
+*clerc* is influential, every trusted opinion leader is a Bendaian *clerc*, or
+either one is betrayed or captured. Covert trusted-opinion-leader capture remains
+a further causal diagnosis requiring provenance, dependency, coordination,
+concealment, or control.
+
+For a **Fraenkelian dual-state** refinement, preserve *Normenstaat*,
+*Maßnahmenstaat*, and *Doppelstaat* as Fraenkel's source terms. Do not translate
+the continued *Normenstaat* into the claim that National Socialist Germany was
+largely a *Rechtsstaat*: ask instead whether political authorities can withdraw a
+person, case, or domain from legal guarantees and whether that classification is
+reviewable. Keep *Doppelstaat*, systemic lying, *Machtpolitik*, and
+*Willkürherrschaft* non-identical. Distinguish a norm-bound emergency power from
+a *Maßnahmenstaat* by testing predeclared triggers, bounded jurisdiction and
+means, reasons and records, independent review, appeal, expiry, succession, and
+repair.
 
 For the originating *woke*--*postmodernism*--*critical constructivism*
 candidate application, preserve the umbrella equation as the author's
 hypothesis rather than scholarly consensus or the generic diagnostic's
-definition. Separate the social-mediation thesis, political-constitution thesis,
-and reconstruction mandate. Identify the specified text, implementation,
+definition. Where the expanded originating formulation is *queer ideology / woke
+= postmodernism = critical constructivism*, preserve the established
+Halperin-based definition of **queer as a relational positionality defined through
+opposition to what is normal, legitimate, or dominant**, not as a sexual
+orientation. Treat *queer ideology* as a hypothesized ideological programme
+organized by that positionality, not as a classification of homosexuality, queer
+people, or gender nonconformity and not automatically as every form of queer
+theory. Do not infer the umbrella equation, Edelmanian queer negativity, a
+death-drive classification, or un-reason from the relational definition alone.
+Separate the social-mediation thesis, political-constitution thesis, and
+reconstruction mandate. Identify the specified text, implementation,
 institution, jurisdiction, period, and carrying structure; test
 reality-answerability, reciprocity, internal contestation, constructive
 succession, subjecthood protection, counter-cohesion, and alternative
 explanations. Kincheloe is a primary affirmative source for critical
 constructivism; Hicks supplies a strongly critical secondary interpretation.
+Treat **un-reason** as a proposed generic mechanism within the truth orientation,
+not a third orientation or an umbrella label. Within the candidate application,
+preserve the sharper proposal that **un-reason is reason's immanent
+self-negation**: reasoning remains articulate and productive while becoming
+decoupled from reciprocal non-contradiction, disclosed standards, and independent
+reality correction. Require a specified unit, protected conclusion, asymmetric
+standards, recursive immunization, and failed independent correction, and
+distinguish it from Night, not-reason, anti-reason, irrationality, motivated
+reasoning, sophistry, doublethink, and systemic lying. Treat Orwellian doublethink
+as a narrower contradiction-tolerance mechanism and keep it distinct from
+ordinary inconsistency, cognitive dissonance, Newspeak-style vocabulary
+restriction, and Petrović and Žeželj's individual-differences measure.
 Do not classify a population, infer motive or diagnosis from affiliation, or
 allow the candidate case to make the diagnostic self-confirming.
+
+For an **affective return to uphill development** candidate, preserve the
+originating claim that negative affect alone risks another death-drive circuit
+and the recovery-literature correction that return is carried by a longer future,
+autonomous authorship, better immediate alternatives, capability, relationships,
+corrigible failure, and an inhabitable successor identity. Separate standing
+from conduct: vocational shame may say “this act fell beneath my continuing
+standing” but must not become global worthlessness, compulsory confession, or an
+epistemic oracle. Treat grief, anger, shame, guilt, remorse, hope, pride, joy,
+humour, and belonging as possible actuators and sensors, not proof of cause,
+truth, guilt, life-drive direction, or jurisdiction. Keep the addiction-recovery
+literature as a bounded source bridge; do not classify cultural adherence as a
+disorder, dissent as relapse, or coercion as treatment. Preserve the full-speech
+and responsibility requirement without equating obligation with empty speech or
+first-person language with answerability. For political-immaturity and
+deservingness candidates, state Peterson's attributed six-part argument before
+the project translation, restore the provider as another subject, distinguish
+deservingness characteristic from psychological entitlement, legal entitlement,
+and deservingness judgment, and never turn contribution or retained capability
+into a scalar measure of human worth. For the **Child at Play**, keep the present
+person's affirmative Child-function primary, actual children as persons with
+direct standing secondary, and succession downstream; preserve Nietzsche's
+Camel--Lion--Child lineage and Edelman's external symbolic Child as separate
+source constructions. Keep Child and Guardian functionally separate: the Child
+may play without foreground vigilance while the Guardian protects player and
+playfield, but trust outsources vigilance rather than whole-person
+accountability, and the guardian remains bounded and reviewable. Treat the Pied
+Piper / *Rattenfänger von Hameln* as a controlled analogy whose broken-promise
+complication remains visible; infer no seducer, bandit, capture, or causal chain
+from resemblance. Require the counterculture to be able to win and stop fighting:
+test completion, release of the constitutive adversary, lawful repair, honourable
+re-entry, dismantling of exceptional offices, and whether the Better Song remains
+attractive without a renewable enemy. Preserve the ARC source bridge in its
+originating form: **“ARC’s ‘A Better Story’ supplies the umbrella; Culture
+Mechanics adds that a successor culture must also provide the better song,
+sharper joke, livelier festival, and exhilarating contest.”** ARC supplies the
+affirmative narrative rubric, not the project-developed Better Song,
+vitalization, mythic-radiance, or agonistic-sublimation mechanisms; attractiveness
+does not establish truth or drive direction.
+
+Preserve the authorship paradox **“Ethics cannot be outsourced, but courage can
+be scaffolded”** and its operational rule **“Support the cost without
+appropriating the judgment.”** Test whether practical, relational, material, and
+social support makes inquiry and difficult practice survivable while leaving the
+recipient free to reach, refuse, revise, and answer for a different judgment. For
+**foreclosed flourishing**, require a plausible developmental counterfactual and
+a supported causal path; distinguish possessed-good, expected-future,
+possible-self, and capability loss, and test whether assistance scaffolded
+capability or substituted for its formation. Keep civilizational and
+wild-but-sublimated life-drive as complementary actuation modes inside the
+existing drive orientation, not new psychic substances, orientations, or proofs
+of service direction. Intrinsic practice goods, fun, pleasure, applause, and
+radiance remain answerable to truth, standing, reciprocity, externalized cost,
+correction, and trajectory.
 
 For secession, reversed-priority, Landkreis, or distributed-security candidates,
 preserve Ludwig von Mises as a co-origin of territorial self-determination while
