@@ -100,6 +100,71 @@ When joint truth-seeking is unavailable, distinguish proportionate documentation
 operational verification, boundaries, appeal, and exit from punishment or
 coercion based merely on belief or affiliation.
 
+For an **un-reality** candidate, preserve it as a cross-scale state/output inside
+the truth orientation, not a third orientation, ontological denial, or synonym
+for un-reason or systemic lying. An **un-real representation** retains operative
+public reality-status and practical jurisdiction while independent observation,
+prediction, consequence, or dissent cannot reliably change its authority or use;
+**organized un-reality** is the stronger multi-channel state. Keep fiction,
+simulation, nonexistence, mistake, falsity, un-reason, systemic lying, and
+Babelization distinct. Do not create *not-reality* as one technical bucket. Test a
+specified representation, domain, participation surface, period, allocations,
+defeaters, and actual response to correction. Preserve the expressive formula “A
+lie becomes un-real when everyone must inhabit it, and un-reason begins when
+intelligence is recruited to explain why the visible contradiction cannot count,”
+but state that *lie* uses the broad systemic-lying register, *everyone* means
+consequential participation pressure rather than literal unanimity, and *visible*
+includes inspectable counterevidence rather than only ocular perception. For *The
+Emperor's New Clothes*, retain Andersen's ending: public truth breaks apparent
+consensus, yet the emperor and train-bearers continue the procession. Distinguish
+speakability from operative correction in confidence, classification, action,
+resources, jurisdiction, remedy, personnel, or rule; do not make a child,
+dissident, direct perception, or one exposure automatically sovereign or correct.
+
+For a **post-disclosure un-reality** candidate, distinguish two branches.
+Acknowledged un-reality persists when the authority accepts the correction but
+procession inertia keeps operation running. **Defeated-but-operative un-reality**
+under **correction nullification** requires an independently sustained correction
+that is publicly available while an identified receiving or carrier system
+withholds acknowledgment, answerability, adjudication, or uptake and proceeds as
+though it was never received. Trace *Speak → Record → Receive → Answer →
+Adjudicate → Change operation → Repair* and identify the exact failed interface.
+Do not infer truth from opposition status, bad-actor intent from silence,
+coordination from convergent non-response, or systemic lying from one unanswered
+claim. Distinguish reasonable investigation, material irrelevance, implementation
+lag, path dependence, and resource limits. **Bounded de-authorization** may remove
+only an independently defeated representation's or evidenced carrier-function's
+specified authority through lawful, proportionate, reviewable procedure; it is
+not conversion, collective punishment, cultural reprogramming, whole-person
+defeat, or a shortcut around due process. Where a mutually legitimate correction
+or de-authorization route survives, do not invoke the severe-Babelization
+secession-or-force fork.
+
+For an **un-reason--correction-nullification** refinement, preserve the staged
+but non-necessary relation: un-reason neutralizes what a candidate correction
+means and can prevent counterevidence from becoming correction; correction
+nullification neutralizes what an independently sustained correction can do and
+can prevent correction from becoming consequence. Either can occur without the
+other. For a **trusted-carrier correction lock**, use *Epistemic Agency* as the
+semantic home and require a gain-weighted receiving-field account: high-trust
+positions withhold distributed credibility, reception, or operative force despite
+growing ordinary dissent. Distinguish personal from functional defection and
+test carrier defection, validation-rule change, trust reassignment, parallel
+routing, bypass adjudication, or bounded de-authorization. Do not infer the lock,
+falsehood, coordination, capture, systemic lying, or Shadow-Sovereign rule from
+agreement, common training, lag, or ordinary gatekeeping.
+
+For an **auxiliary-un-reality explaining-away cascade**, identify operative U0,
+the reality-contact event and candidate correction threatening it, authorized U1,
+U1's independent causal support and reciprocal defeat conditions, its carrier
+routing, and the operation it protects. Use **adverse auxiliary un-real
+representation** only when U1 assigns adverse agency, guilt, bias, pathology,
+disloyalty, obstruction, or dangerous status. **Counterfeit Bayesian updating**
+means authorization or programme utility substitutes for independent evidence;
+legitimate explaining-away by independently supported alternative causes remains
+outside the construct. One adverse or post-hoc explanation establishes neither
+the cascade nor systemic lying.
+
 For a **farming, reality-mediated education, and severe-Babelization
 secession-or-force** candidate, preserve the originating qualification that
 farming can educate an adult **without person-directed force** because voluntarily
@@ -136,7 +201,7 @@ contact and correction can continue. Treat restored interoperability and reunion
 as voluntary possibilities, not guaranteed outcomes, duties, or grounds for
 compelling present unity.
 
-For the clarified **Pure-Ideology Culture Program multi-mind-self** candidate,
+For the clarified **Pure-Ideology Culture Program operative multi-mind-self** candidate,
 retain the claim only as a typed conjunction: load-bearing Pure-Ideology finality,
 sufficiently integrated collective agency, closure against accessible defeat and
 reciprocal correction, compulsory supremacy, an incompatible binding output,
@@ -199,16 +264,95 @@ coordination, amplification, protection, logistics, or succession function, its
 causal nexus to the hazard, affected person-level rights, less restrictive
 alternatives, review, stop conditions, and repair after error.
 
+For *Gleichschaltung* candidates, distinguish the attempted transformation from
+the possible resulting mechanical-solidarity morphology and completed Fascism
+conjunction. State the polity or population unit and test population ambition,
+convergent alignment across multiple independent domains, one privileged
+ideological direction, loss of independence, and constriction of refusal,
+association, appeal, correction, or effective exit. Audit the whole installation:
+flesh-and-blood carriers and role appointments; flags, emblems, rituals, language,
+and other symbols or conformity markers; institutional-operational systems such
+as law, offices, curricula, finance, permissions, sanctions, exceptions, review,
+and succession; and coupling among these planes. Do not require a complete
+Culture Program reconstruction before recording the morphological warning;
+program content, genealogy, and responsibility are further attribution tasks.
+Treat rhetoric, one symbol or conformity marker, one common system, or one
+*Maßnahmenstaat* finding as insufficient, and keep the Fraenkelian classification
+gate separate. Treat narrow technical, temporary, bounded, corrigible
+coordination as a countercase. Compare a voluntary thick community
+with effective entry and exit, bounded jurisdiction, common-rights protection,
+and no claim over outsiders or captive dependants against a plural society whose
+coercive common shell must preserve multiple legitimate ends. Test
+*Selbstgleichschaltung* as anticipatory adaptation and returned gain without
+inferring free population consent, one operator, conspiracy, completed Fascism,
+collective guilt, or automatic sanction. Do not let individualistic, humanist,
+democratic, emancipatory, or pluralist self-description exculpate a process that
+satisfies the gate.
+
+For historical-to-active vocabulary proposals, first remove the benevolent or
+hostile wrapper and map the claimed operative role. Treat *whole-of-society*,
+*whole-of-government*, *whole-of-economy*, stakeholder capitalism,
+public-private partnership, multistakeholder governance, ESG, resilience,
+anti-fascist, human-terrain, and BOHR language as leads rather than synonyms or
+proof. Keep ordinary bounded coordination, corporatist political-economic
+topology, polity-scale *Gleichschaltung*, completed Fascism, and an actor-specific
+hybrid-war operation as five separate findings with increasing and non-substitutable
+evidence. Audit scope, authority, representation, binding force, people, symbols,
+systems, correction, refusal, exit, duration, and stopping condition. A new label
+cannot exculpate an evidenced old operation, and a historically resonant label
+cannot convict an unevidenced new one. Source-qualify Bondy's retrospective
+Silone recollection and attribute
+Wh-o-S/B-R-o-S, BOHR, “soft fascism,” and the domestic-hybrid-war thesis to
+Weinstein. Treat the supplied Malone/WEF corporatism comparison as a structural
+hypothesis, not proof of genealogy or a completed classification.
+
+Apply the **institutional-symmetry and scale-capacity rule**. WHO, NATO, the UN,
+national governments, firms, NGOs, and informal networks face the same typed
+operation-level gates; prestige, international standing, expertise, rights
+language, or benevolent mission supplies no exemption. Also test the already
+installed systemic skeleton—mandate, jurisdictional and member-state interfaces,
+funding, standards, data, logistics, implementation and expert networks, and
+communication authority—because cross-polity reach can make the conditional
+blast radius substantially larger than that of a single polity. Scale audit
+intensity, disclosure, independent review, reversibility, exit or refusal where
+feasible, and remedy to that capacity. Keep the inference bounded: scale changes
+potential severity and safeguard requirements; it does not by itself establish
+misuse, *Gleichschaltung*, Fascism, hybrid war, intent, or guilt.
+
+For public-private constitutional-proxy candidates, distinguish ordinary
+procurement, grants, philanthropy, NGO participation, contractor delivery,
+co-regulation, formal *Beleihung*, state-controlled private form, government-
+induced private conduct, and genuinely independent private action. State the
+public or sovereign-like function and audit the public nexus, direct-action
+constitutional or procedural constraint delta, effective control and policy
+benefit, decision and record ownership, reason-giving, review, appeal, remedy,
+and no-public-nexus counterfactual. Record a proxy hazard before attributing
+intent; classify constitutional evasion by proxy only with stronger actor-
+specific evidence that the public actor selected, maintained, pressured, or
+knowingly exploited the arrangement to obtain the constraint delta. Keep legal
+state-action attribution jurisdiction-specific. Use Rao's **organizational dark
+matter** for responsibility or blame left unassigned by a leaky allocation
+scheme, not as a synonym for a secret organization. Keep **Powertalk** separate
+as a possible evidence-dependent mode of consequential, plausibly deniable
+communication. Partnership, public money, missing accountability, or agreement
+alone establishes none of these stronger findings.
+
 For self-report, self-description, self-statement, or proclamation candidates,
 preserve and state the originating words first. Apply the candidate
-Self-Attribution Presumption: initially believe an authenticated, serious
-proclamation as evidence of the actor's own operative allegiance, motivation, or
-perceived authorization and as a program-level warning. Then distinguish that
-first-pass credence from the truth of the reported cosmology, parent-program
-causation, agreement by other carriers, upstream command, and individual legal
-responsibility. Identify timing, authenticity, standing, script fit, internal
-contestation, organizational support, recurrence, affirmative defeaters, and the
-response the evidence could justify.
+Self-Attribution Presumption and Self-Description Valence Asymmetry: give an
+authenticated, serious adverse self-attribution first-pass credence as evidence
+of the actor's own operative allegiance, motivation, or perceived authorization
+and as a program-level warning. Record favourable self-description as evidence
+of the advertised ideal or semantic wrapper, but give it no exculpatory
+presumption against installed operation, recurrent offspring, consequences, or
+failed correction. Distinguish first-pass credence from the truth of the reported
+cosmology, parent-program causation, agreement by other carriers, upstream
+command, and individual legal responsibility. Identify timing, authenticity,
+standing, freedom from coercion or external command, script fit, organizational
+support, recurrence, and affirmative defeaters such as false-flag activity or
+identity appropriation. Test whether internal contestation was prompt, public,
+specific, authoritative, costly, durable, and consequential rather than merely
+reputational, and state the response the evidence could justify.
 
 For hostile third-party attribution, apply the Attribution-Source Asymmetry:
 record the accusation and its evidence separately from the target's
@@ -320,7 +464,12 @@ governing language, private--public divergence, loyalty performance, refusal, or
 exit. Do not restore the legacy 0--30 score. Test voter consensus, reciprocal
 constitutional limits, transparent commitments, common shocks, material
 constraint, path dependence, implementation lag, and independent convergence as
-alternatives. Preserve Kisin as source of the Titanic image and the project
+alternatives. Correction nullification is one possible receiving failure and a
+trusted-carrier correction lock one possible gain-weighted morphology; neither is
+the political diagnosis. The carrier layer may carry, shield, or locally enforce
+the course, converge independently, or under stronger evidence collectively
+constitute a distributed effective-sovereignty position. Require separate causal
+evidence for the last attribution. Preserve Kisin as source of the Titanic image and the project
 author as the person who introduced it and selected the assistant's
 passenger--voter, captain--government, ship--state,
 course--strategic-direction, and course-controller--effective-sovereign mapping
@@ -389,14 +538,20 @@ from one contradiction, advocate, useful falsehood, harmful crowd action, or
 forceful decision.
 
 For a ***clerc*--trusted-opinion-leader** refinement, retain *clerc* as Benda's
-normative-vocational source term and trusted opinion leader as the project's
-functional receiving-field position. Test whether the relevant field actually
-refers judgment to the person and whether that overlap supplies privileged
-routing, translation, cascade, or institutionalization. Do not infer that every
-*clerc* is influential, every trusted opinion leader is a Bendaian *clerc*, or
-either one is betrayed or captured. Covert trusted-opinion-leader capture remains
-a further causal diagnosis requiring provenance, dependency, coordination,
-concealment, or control.
+normative-vocational source term. Use **trusted-opinion-leader function** for the
+project's canonical distributed receiving-field position and **trusted opinion
+leader** for its human person-in-role occupant. Treat repeater gain as its
+amplification dimension, dots only as notation in the semiconductor depiction,
+and first-officer mediation as one chief-facing expression rather than three
+further social roles. Keep the field-generating and directing function distinct,
+while allowing one occupant to carry both or distributed trusted carriers to
+participate jointly in field generation. Test whether the relevant field actually
+refers judgment to the person or authorized role and whether a *clerc* carrying the function supplies
+privileged routing, translation, cascade, or institutionalization. Do not infer
+that every *clerc* is influential, every trusted opinion leader is a Bendaian
+*clerc*, or either one is betrayed or captured. Covert
+trusted-opinion-leader capture remains a further causal diagnosis requiring
+provenance, dependency, coordination, concealment, or control.
 
 For a **Fraenkelian dual-state** refinement, preserve *Normenstaat*,
 *Maßnahmenstaat*, and *Doppelstaat* as Fraenkel's source terms. Do not translate

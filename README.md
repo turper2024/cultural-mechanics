@@ -16,6 +16,13 @@ There are two ways to work: an ordinary standalone ChatGPT chat or a reusable
 ChatGPT Project. The flexible instruction profile works with either. The structured
 two-pass profile is designed for a Project.
 
+The flexible profile can also execute a self-contained candidate-method test.
+Attach the generic method to the current chat, then paste the complete short run
+message into the ordinary chat field. This keeps the Application Packet in the
+immediate message context and gives the supplied procedure task-local control
+without making the candidate an authoritative Project source. Ordinary questions
+continue to use the general analytic workflow.
+
 The screenshots show the English ChatGPT interface available when this package was
 created. They apply to the Project option. Labels, language, or layout may change as
 the interface evolves.
@@ -96,6 +103,15 @@ pair the inventory with the primary theory source and must not treat resemblance
 evidence. Its nuclear-reactor mapping uses Pageau's Grail question to audit whom
 or what produced capability serves while keeping capability, drive valence,
 destructive sublimation, un-reason, and Ragnarök trajectory distinct.
+Its *Emperor's New Clothes* mapping shows how a self-sealing status test and
+costly avowal can give nonexistent content un-real public reality-status, and how
+the procession can continue after the contradiction becomes publicly speakable.
+Andersen's recognizing emperor supplies the procession-inertia branch; a clearly
+marked project counterfactual in which the emperor and court act as though the
+correction was never received illustrates correction nullification.
+Its controlled Bayesian extension distinguishes independently evidenced causal
+revision from an authorized adverse U1 that explains away the correction
+threatening operative U0 and recursively expands organized un-reality.
 Its Titanic mapping distinguishes electoral captain turnover from democratic
 course corrigibility without inferring one hidden helmsman. Its favour-bank-cloud
 mapping distinguishes cultivation, implicit debt, routed return favours, and
@@ -109,9 +125,30 @@ Strategy, reality testing, mixed cultural braids, program competition, fanatic o
 fatal offspring, Culture Program capture, program disharmony, objective
 substitution, gradual or glacial capture, Culture Program carrying structure,
 money flows, teaching or recruitment infrastructure, organizational
-countermeasures, program-derived alignment metrics, the Self-Attribution
-Presumption (“believe a serious actor proclamation first, then test its causal
-scope”), hostile third-party labels versus self-attribution, the cross-audience
+countermeasures, program-derived alignment metrics, polity-scale
+*Gleichschaltung* as a process warning visible through convergent human carriers,
+symbols and conformity markers, and institutional systems before completed
+morphology or complete Culture Program attribution, the
+voluntary-thick-community versus plural-society boundary (“real exit and bounded
+reach” versus “no imposed comprehensive program”), *Maßnahmenstaat* as possible
+system-plane evidence rather than a sufficient condition, the
+historical-to-active vocabulary crosswalk for *whole-of-society/government/economy*,
+stakeholder capitalism, public-private and multistakeholder governance, ESG,
+resilience, anti-fascist, human-terrain, and BOHR language (“a label neither
+acquits nor convicts”; keep coordination, corporatism, *Gleichschaltung*,
+Fascism, and hybrid-war attribution separate), public-private outsourcing of
+public or sovereign-like functions to NGOs, contractors, platforms, standards
+bodies, or commercial carriers, institutional symmetry across WHO, NATO, the UN,
+governments, firms, NGOs, and informal networks, proportional vigilance for
+larger installed skeletons and cross-population blast radius without guilt by
+scale, the constitutional-proxy hazard versus deliberate
+constitutional evasion and legal state-action attribution, Rao's organizational
+dark matter as unassigned responsibility rather than a hidden organization, and
+Powertalk as a separate possible communication mode, the Self-Attribution
+Presumption and Self-Description Valence Asymmetry (“believe a serious adverse
+self-attribution first; favourable self-description does not exculpate operation
+or consequences; then test standing, false flag, and consequential internal
+contestation”), hostile third-party labels versus self-attribution, the cross-audience
 self-description audit, secret-program scale and fidelity, internal contestation,
 staged capture inference, Shadow Sovereign (*Besatzungsmacht*), the visible
 bottom-up diagnosis of Shadow-Sovereign rule, Kisin's
@@ -126,7 +163,7 @@ constitutional sentinels, SGD variants, scorecards, soft secession, bounded
 reversed legal priority (*umgekehrte Maßgeblichkeit*), *Abstimmung mit den
 Füßen*, Mises's secession argument, “stroke of the pen” implementation,
 distributed jurisdictions as bounded capture-failure domains, the typed
-Pure-Ideology multi-mind-self at the severe-Babelization fork, the
+Pure-Ideology operative multi-mind-self at the severe-Babelization fork, the
 Augsburg--Westphalia territorial settlement as a negotiated-coexistence marker
 and soft-secession analogue, democracy as
 *Schutzbalken gegen die Macht*, public or private power,
@@ -166,15 +203,16 @@ open authoritarianism or naked domination. Treat truth-preserving culture as a
 central roadblock to *Machtpolitik*, while recognizing that it is not a complete
 defence against open force. Treat doublethink as a narrower possible mechanism
 rather than another name for either category. Keep Benda's *clerc* as his
-intellectual-vocation term and trusted opinion leader as the theory's
-receiving-field function; their overlap can increase authorization and cascade
+intellectual-vocation term, trusted-opinion-leader function as the theory's
+receiving-field function, and trusted opinion leader as its human person-in-role
+occupant; their overlap can increase authorization and cascade
 without establishing betrayal or capture. Treat Benda's secondary motifs as
 attributed warning patterns rather than necessary components, a scalar score, or
 shortcut evidence of betrayal, systemic lying, *Machtpolitik*, or
 *Willkürherrschaft*. Do not equate Le Bon's crowd-level contradictory ideas with
-Orwellian doublethink or infer that every multi-mind-self rejects negotiation,
+Orwellian doublethink or infer that every operative multi-mind-self rejects negotiation,
 contract, or reciprocal law. The stronger Pure-Ideology case requires integrated
-multi-mind-self agency, load-bearing closure, compulsory supremacy, an
+operative multi-mind-self agency, load-bearing closure, compulsory supremacy, an
 incompatible output, severe Babelization, and an unavoidable common decision.
 Even then distinguish tactical bargaining from reciprocal adjudication entitled
 to defeat the compulsory claim; accepting bounded jurisdiction can remove the
@@ -200,7 +238,12 @@ examples are framed application hypotheses, not proof by inclusion.
 For Shadow-Sovereign rule, separate the visible state from its functional
 sovereignty position and from occupant attribution. Require a named course, real
 electoral turnover, a credible voter-backed reversal attempt, failed correction,
-and convergent bottom-up effects. Course continuity or institutional complexity
+convergent protection through local institutions and gatekeepers, and inadequate
+rival explanations. Correction nullification is one possible mechanism and a
+trusted-carrier correction lock its possible gain-weighted morphology, not the
+political diagnosis itself. The carrier layer can carry, shield, or locally
+enforce a course, converge independently, or only under stronger evidence
+collectively constitute the effective-sovereignty position. Course continuity or institutional complexity
 alone proves neither legal occupation, conspiracy, a hidden Inner Party, nor
 *Machtpolitik*.
 
@@ -217,11 +260,14 @@ production, and reality testing. It is not an authoritative theory source and is
 not part of the ChatGPT inference workflow. **Do not attach or upload this PDF as a
 ChatGPT source.**
 
-The answer should distinguish claims made by the theory from external facts,
-case-specific inferences, and candidate refinements, and should state limitations
-or alternative interpretations. With profile `.2`, these appear in the second
-response after the relevance assessment. For a substantially different question,
-start a new chat so that source selection and interpretation begin afresh.
+For ordinary analytic questions, the answer should distinguish claims made by the
+theory from external facts, case-specific inferences, and candidate refinements,
+and should state limitations or alternative interpretations. An explicitly
+invoked self-contained method instead controls which of these operations remain
+backstage and which appear in its prescribed output. With profile `.2`, the
+ordinary analytic distinctions appear in the second response after the relevance
+assessment. For a substantially different question, start a new chat so that
+source selection and interpretation begin afresh.
 
 ### Deutsch
 
@@ -235,6 +281,14 @@ schreiben.
 Es gibt zwei Arbeitsweisen: einen gewöhnlichen, eigenständigen ChatGPT-Chat oder ein
 wiederverwendbares ChatGPT-Projekt. Das flexible Anweisungsprofil funktioniert mit
 beiden. Das strukturierte zweistufige Profil ist für ein Projekt vorgesehen.
+
+Mit dem flexiblen Profil kann außerdem eine in sich geschlossene Kandidatenmethode
+gezielt getestet werden. Hängen Sie dazu die generische Methode an den aktuellen
+Chat an und fügen Sie anschließend die kurze generierte Ausführungsnachricht in das
+gewöhnliche Nachrichtenfeld ein. So bleibt das Anwendungspaket im unmittelbaren
+Nachrichtenkontext. Das Verfahren steuert lokal seinen Ablauf und seine
+Ausgabeform, ohne dadurch zu einer maßgeblichen Projektquelle zu werden.
+Gewöhnliche Fragen folgen weiterhin dem allgemeinen Analyseverfahren.
 
 Die Bildschirmfotos zeigen die englische ChatGPT-Benutzeroberfläche zum Zeitpunkt
 der Paketerstellung. Sie gelten für die Projektvariante. Beschriftung, Sprache oder
@@ -316,6 +370,40 @@ handelt es sich um ein externes Buch, das nicht in diesem Paket enthalten ist.
 Lesen Sie das Buch, statt ChatGPT aufzufordern, seine Methode aus den
 bereitgestellten Theoriedateien zu rekonstruieren.
 
+Die maßgebliche Datei zur epistemischen Verfassung definiert **Un-Vernunft
+(*un-reason*)** als möglichen Mechanismus und **un-real representation**,
+**un-reality** sowie **organized un-reality** als Zustands-/Ergebnisfamilie: Eine
+autorisierte Darstellung behält praktisch den Status öffentlicher Wirklichkeit,
+obwohl unabhängige Beobachtung und Folgen ihre Autorität oder Verwendung nicht
+mehr zuverlässig ändern können. Bloßer Irrtum, Fiktion, Un-Vernunft,
+systemisches Lügen und Babelisierung bleiben getrennt. Die Formel „Eine Lüge wird
+un-wirklich, wenn alle sie bewohnen müssen, und Un-Vernunft beginnt, wenn
+Intelligenz dafür eingesetzt wird zu erklären, warum der sichtbare Widerspruch
+nicht zählen darf“ meint Teilnahmezwang statt buchstäblicher Einstimmigkeit und
+prüfbaren Gegenbeleg statt nur optischer Sichtbarkeit. Öffentliche Aussprechbarkeit
+ist noch keine operative Korrektur, wenn die institutionelle Prozession
+weitergeht. **Defeated-but-operative un-reality** bezeichnet den stärkeren Fall,
+in dem die Korrektur unabhängige Prüfung übersteht, der widerlegte Bericht aber
+weiter praktisch regiert. Bei **correction nullification** wird die Korrektur
+behandelt, als sei sie nie empfangen worden. Die Kette *Sprechen → Aufzeichnen →
+Empfangen → Antworten → Entscheiden → Betrieb ändern → Wiedergutmachen* lokalisiert
+die Unterbrechung. Kurz: Un-Vernunft neutralisiert, was die Korrektur bedeutet;
+Korrektur-Nullifizierung neutralisiert, was sie bewirken kann. Ein
+**trusted-carrier correction lock** liegt vor, wenn ausgerechnet die stark
+verstärkenden vertrauenswürdigen Positionen im empfangenden Feld der Korrektur
+verteilte Glaubwürdigkeit, institutionelle Aufnahme und operative Wirkung
+vorenthalten, obwohl gewöhnlicher Widerspruch zunimmt. Die
+**auxiliary-un-reality explaining-away cascade** bezeichnet den rekursiven Fall,
+in dem der Zusammenstoß einer operativen Un-Wirklichkeit U0 mit der Realität eine
+autorisierte nachteilige Hilfsdarstellung U1 hervorbringt, welche die Korrektur
+wegerklärt, U0 schützt und selbst praktische Folgen erhält. Bloß alternative,
+unabhängig belegte und reziprok prüfbare Ursachen gehören nicht zu diesem als
+**counterfeit Bayesian updating** bezeichneten Fehlmuster. **Bounded
+de-authorization** entzieht nur der widerlegten
+Darstellung oder der belegten Trägerfunktion die bestimmte Autorität; sie verlangt
+weder Bekehrung noch Niederlage der ganzen Person und bleibt an gesetzliche
+Zuständigkeit, Verhältnismäßigkeit, Prüfung, Berufung und Wiedergutmachung gebunden.
+
 Eine der optionalen Dateien ist
 `build/md/0050-culture-mechanics-analogies.semantic-inventory.md`. ChatGPT kann diese
 Datei auch dann anfordern, wenn Ihre Frage keine Analogie erwähnt, sofern ein
@@ -329,7 +417,17 @@ der primären Theoriequelle verwendet werden; Ähnlichkeit gilt nicht als Beleg.
 Seine Kernreaktor-Zuordnung verwendet Pageaus Gralsfrage, um zu prüfen, wem oder
 was die hervorgebrachte Fähigkeit dient, und hält dabei Fähigkeit,
 Triebrichtung, destruktive Sublimierung, Un-Vernunft und Ragnarök-Trajektorie
-auseinander. Seine Titanic-Zuordnung unterscheidet den Wahlwechsel der Kapitäne
+auseinander. Seine Zuordnung von *Des Kaisers neue Kleider* zeigt, wie eine
+selbstabdichtende Statusprüfung und kostspieliges Bekennen einem nicht vorhandenen
+Gegenstand un-wirklichen öffentlichen Wirklichkeitsstatus geben können und wie
+die Prozession nach der öffentlichen Korrektur weiterlaufen kann. Andersens
+erkennender Kaiser bildet Prozessions-Trägheit ab; eine ausdrücklich als
+Projekt-Kontrafaktum markierte Verweigerung von Kaiser und Hof bildet
+Korrektur-Nullifizierung ab. Die kontrollierte bayesianische Erweiterung trennt
+unabhängig belegte Ursachenrevision von einem autorisierten nachteiligen U1, das
+die U0 bedrohende Korrektur wegerklärt und organisierte Un-Wirklichkeit rekursiv
+erweitert. Seine
+Titanic-Zuordnung unterscheidet den Wahlwechsel der Kapitäne
 von demokratischer Kurskorrigierbarkeit, ohne daraus einen verborgenen Steuermann
 zu folgern. Seine Favour-bank-cloud-Zuordnung unterscheidet Kultivierung,
 implizite Schuld, weitergeleitete Gegenleistungen und Rekrutierung von normaler
@@ -345,9 +443,36 @@ Zielsubstitution, schrittweiser oder „glazialer“ Übernahme, aus dem Program
 abgeleiteten Übereinstimmungsmetriken, der Culture Program Carrying Structure
 (organisatorischen und materiellen Trägerstruktur), Geldflüssen, Lehr- oder
 Rekrutierungsinfrastruktur, organisatorischen Gegenmaßnahmen, der
-Self-Attribution Presumption („einer ernsthaften Selbstzuschreibung des
-Handelnden zuerst glauben und danach ihre kausale Reichweite prüfen“), feindlichen
-Fremdzuschreibungen im Unterschied zur Selbstzuschreibung, der
+gesamtgesellschaftlichen *Gleichschaltungsgefahr* als Prozesswarnung vor der
+vollendeten Morphologie oder vollständigen Kulturprogramm-Zuschreibung, ihrer
+Beobachtung an der Konvergenz menschlicher Träger, von Symbolen und
+Konformitätsmarkern sowie institutionell-operativer Systeme auf eine
+privilegierte Richtung, der Abgrenzung zwischen freiwilliger dichter
+*Gemeinschaft* mit realem Austritt und begrenzter Reichweite und pluraler
+*Gesellschaft* ohne aufgezwungenes Gesamtprogramm, dem *Maßnahmenstaat* als
+möglichem Indiz auf der Systemebene statt hinreichender Bedingung, der Zuordnung
+historischer zu heute aktiven Begriffen wie *whole-of-society/government/economy*,
+Stakeholder-Kapitalismus, öffentlich-privater und Multi-Stakeholder-Governance,
+ESG, Resilienz, Antifaschismus, *human terrain* und BOHR („eine Bezeichnung
+spricht weder frei noch schuldig“; begrenzte Koordination, Korporatismus,
+*Gleichschaltung*, Faschismus und Hybridkriegszuschreibung getrennt prüfen), der
+**institutionellen Symmetrie- und Skalen-Kapazitäts-Regel** (WHO, NATO, UN,
+Regierungen, Unternehmen, NGOs und informelle Netzwerke nach denselben
+Funktionskriterien prüfen; mit bestehendem Systemskelett, Bevölkerungsreichweite,
+Abhängigkeit und möglichem Schadensradius steigen Wachsamkeit und Sicherungen,
+ohne dass Größe allein Missbrauch beweist), der
+öffentlich-privaten Auslagerung öffentlicher oder *hoheitlicher* Funktionen an
+NGOs, Auftragnehmer, Plattformen, Standardisierungsgremien oder kommerzielle
+Träger, der **public-private constitutional-proxy hazard** im Unterschied zu
+absichtlicher Verfassungsumgehung durch Stellvertreter und zur gesonderten
+juristischen Zurechnung als Staatshandeln, Raos **organizational dark matter** als
+nicht zugeordneter Verantwortung statt verborgener Organisation sowie Powertalk
+als gesondertem möglichem Kommunikationsmodus, der
+Self-Attribution Presumption und der Self-Description Valence Asymmetry
+(„einer ernsthaften belastenden Selbstzuschreibung zunächst glauben; eine
+günstige Selbstbeschreibung entlastet nicht gegenüber Praxis und Folgen; danach
+Stellung, falsche Flagge und folgenreiche interne Bestreitung prüfen“),
+feindlichen Fremdzuschreibungen im Unterschied zur Selbstzuschreibung, der
 zielgruppenübergreifenden Prüfung von Selbstbeschreibungen, dem Zusammenhang von
 Geheimhaltung mit Reichweite und Übertragungstreue, interner Bestreitung,
 stufenweiser Übernahmeinferenz, Shadow Sovereign (*Besatzungsmacht*), der
@@ -456,8 +581,14 @@ eingerahmte Anwendungshypothesen und keine Belege allein durch ihre Aufnahme.
 Trennen Sie bei Shadow-Sovereign-Herrschaft den sichtbaren Zustand von der
 funktionalen Souveränitätsposition und von der Zuschreibung eines Inhabers.
 Verlangen Sie einen benannten Kurs, echten Regierungswechsel, einen glaubhaften
-Wählerauftrag zur Umkehr, gescheiterte Korrektur und konvergierende Wirkungen von
-unten. Kurskontinuität oder institutionelle Komplexität allein beweisen weder
+Wählerauftrag zur Umkehr, gescheiterte operative Korrektur, konvergierenden Schutz
+durch lokale Institutionen und Gatekeeper sowie unzureichende
+Alternativerklärungen. Korrektur-Nullifizierung ist ein möglicher Mechanismus und
+der trusted-carrier correction lock eine mögliche verstärkungsgewichtete
+Morphologie, nicht schon die politische Diagnose. Die Trägerschicht kann den Kurs
+übermitteln, schützen oder lokal durchsetzen, unabhängig konvergieren oder nur bei
+stärkerer Evidenz selbst die verteilte effektive Souveränitätsposition bilden.
+Kurskontinuität oder institutionelle Komplexität allein beweisen weder
 Besatzung im Rechtssinn, Verschwörung, eine verborgene Innere Partei noch
 *Machtpolitik*.
 
@@ -476,8 +607,12 @@ materieller Produktion und Realitätsprüfung hervorging. Sie ist keine maßgebl
 Theoriequelle und gehört nicht zum ChatGPT-Inferenzverfahren. **Laden Sie diese
 PDF-Datei weder als Anhang noch als ChatGPT-Quelle hoch.**
 
-Die Antwort sollte Aussagen der Theorie von externen Tatsachen, fallspezifischen
-Schlussfolgerungen und vorgeschlagenen Theorieänderungen unterscheiden sowie
-Grenzen oder alternative Deutungen nennen. Mit Profil `.2` erscheinen diese Punkte
-in der zweiten Antwort nach der Relevanzprüfung. Beginnen Sie für eine wesentlich
-andere Frage einen neuen Chat, damit Quellenauswahl und Deutung von Neuem beginnen.
+Bei gewöhnlichen Analysefragen sollte die Antwort Aussagen der Theorie von
+externen Tatsachen, fallspezifischen Schlussfolgerungen und vorgeschlagenen
+Theorieänderungen unterscheiden sowie Grenzen oder alternative Deutungen nennen.
+Bei einer ausdrücklich aufgerufenen, in sich geschlossenen Methode bestimmt
+dagegen deren Ausgabevorschrift, welche dieser Arbeitsschritte im Hintergrund
+bleiben und welche in der Antwort erscheinen. Mit Profil `.2` erscheinen die
+gewöhnlichen analytischen Unterscheidungen in der zweiten Antwort nach der
+Relevanzprüfung. Beginnen Sie für eine wesentlich andere Frage einen neuen Chat,
+damit Quellenauswahl und Deutung von Neuem beginnen.

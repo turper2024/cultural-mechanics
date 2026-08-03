@@ -587,6 +587,76 @@ distribution of descendants → offspring profile
 offspring profile → defeasible evidence about generative spirit
 ```
 
+##### Strong Durkheimian accountability and symmetry
+
+Culture Mechanics adopts Durkheim's maxim in a strong but causal form:
+
+> **No doctrinal alibi: apply the same causal and consequence rules to every
+> Culture Program. Give first-pass credence to serious adverse self-attribution;
+> give favourable self-description no exculpatory presumption. Judge the program
+> by what it installs, what it recurrently produces, and whether it corrects
+> after the consequences become visible.**
+
+A semantic wrapper of freedom, equality, justice, care, faith, emancipation, or
+human flourishing does not exculpate a program from an offspring profile that
+recurrently produces domination, destruction, subjecthood absorption, or
+incorrigibility. “The theory was expressed benevolently,” “that was not the
+intended destination,” and “we could not foresee the implementation” are causal
+claims to test, not conclusion-stopping excuses. Initial surprise can be genuine;
+after serious outcomes recur and the program's carriers have had a fair
+opportunity to learn, continuing without correction weakens the unforeseeability
+defence.
+
+The rule is symmetrical. Communist, fascist, liberal, religious, anti-fascist,
+emancipatory, and Culture Mechanics proposals receive the same audit. Friendly
+examples do not define one's own program while hostile examples define a rival.
+Stated ideals, institutional operation, receiver architecture, recurrent
+descendants, correction after failure, and counterevidence must be compared at
+the same resolution.
+
+This is **program-level accountability**, not automatic person-level guilt and
+not consequence-only reasoning. An adverse descendant must still be connected to
+the doctrine through a demonstrated causal relation; rival causes, appropriation,
+external constraint, and genuine inversion remain possible. The strength of the
+rule lies in refusing semantic or factional exemptions, not in dispensing with
+causal attribution.
+
+##### Orwell's common-decency and corpse-pyramid check
+
+Pages 62–63 of Giles Udy's
+[*At Dawn They Came*](https://historyoftotalitarianism.com/at-dawn-they-came-by-giles-udy/)
+supply a compact source bridge. Udy places communist
+and fascist mass killing under a shared structure: an imagined end is treated as
+so wonderful and certain that it licenses any cost. He then reproduces a 1940
+George Orwell passage centred on common decency and the judgment that “there is
+something wrong with a regime that needs a pyramid of corpses every few years.”
+The passage is from Orwell's correspondence with Humphry House and has also been
+examined as Orwell's
+[“moral nose”](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/on-moral-nose/4029B57AFED7CAF6D7A450C7697F8820):
+the capacity to recognize a putrid result without allowing theoretical
+vocabulary to deodorize it.
+
+Culture Mechanics translates that moral refusal into an outcome-priority rule:
+
+    favourable semantic wrapper or promised utopia
+            ≠ exculpation
+
+    serious adverse self-attribution
+            → first-pass credence
+
+    installed operation + recurrent offspring + human consequences
+            → primary program-level judgment
+
+    visible grave consequences + refusal to correct
+            → strengthened accountability
+
+The Orwellian check is deliberately prior to doctrinal apologetics: no promised
+future, technical vocabulary, or declaration that “this was not what we meant”
+can make a pyramid of corpses disappear from the offspring record. It remains a
+moral stop signal rather than a complete causal proof. The progeny relations
+below still determine whether the doctrine entailed, authorized, selected,
+concealed, or was merely appropriated by the destructive implementation.
+
 The descendants do not automatically convict the ancestor. At least five
 relations must be distinguished:
 
@@ -4154,8 +4224,61 @@ establish cultural interoperability breakdown. When the operation spreads across
 central classifications and destroys trusted intergroup adjudication routes, it
 can contribute to semantic decoupling and movement below the anti-Babel floor:
 
+[*Epistemic Constitution* calls the resulting state
+**un-reality**](0030-epistemic-constitution.semantic-definition.md#un-reality-operative-reality-status-insulated-from-reality):
+an authorized representation retains operative reality-status despite failed
+correction. Un-reason is one possible mechanism producing that state; coercion,
+ritual assent, omission, memory control, synchronized incentives, and inertia can
+also do so. Neither localized un-reality nor organized un-reality is itself
+Babelization.
+
+After a correction becomes speakable, a synchronized carrier field can continue
+the prior classifications while withholding reception, answer, adjudication, or
+uptake. [*Epistemic Constitution* calls this **correction
+nullification**](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia).
+The field can thereby maintain defeated-but-operative un-reality without needing
+un-reason to explain the contradiction away at every node. This supplies a
+generic mechanism corresponding to the “choir” image in the non-authoritative
+Loki candidate preamble; it does not by itself classify a real field as a
+death-cult, establish coordination or culpability, or make de-authorization,
+secession, or person-directed force lawful.
+
+The carrier morphology matters because ordinary defection is not necessarily
+gain-equivalent to defection by the positions to which the field refers judgment.
+[*Epistemic Agency* calls the blocking configuration a **trusted-carrier
+correction
+lock**](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock):
+high-gain receiving-field positions can preserve credibility and routing for the
+old account even while dissent grows elsewhere. Mythology construction can
+support the lock by translating the old classification into each carrier's
+recognized moral, professional, causal, or institutional vocabulary. The same
+carrier architecture can instead distribute correction; field position does not
+decide truth or direction.
+
+Where the collision is actively narrated away, a defensive mythology can add a
+new causal story rather than merely repeat the old one. [*Epistemic Constitution*
+calls the complete mechanism an **auxiliary-un-reality explaining-away
+cascade**](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-reality-explaining-away-cascade):
+
 ```text
-localized un-reason
+operative un-real representation U0 collides with reality
+→ candidate correction threatens U0
+→ a new adverse auxiliary account U1 attributes failure, guilt, bias,
+  sabotage, pathology, or obstruction
+→ trusted carriers translate and route U1 through accepted narratives
+→ U1 explains the correction away and U0 remains operative
+→ U1 may itself become mythology, classification, sanction, and precedent
+```
+
+This is one route by which narrative production can expand organized un-reality.
+It does not make every post-hoc explanation, blame attribution, professional
+interpretation, or counter-narrative un-real. U1 must itself receive operative
+authority without adequate independent support or reciprocal correction, and its
+protective causal role must be shown.
+
+```text
+localized un-reason or another correction-closing mechanism
+→ possible un-reality around an authorized representation
 → shared correction rules become asymmetric or ineffective
 → central meanings and adjudication routes decouple across groups
 → intergroup semantic decoupling
@@ -5610,12 +5733,12 @@ capture, and actor-specific covert command are defined in
 [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#112-culture-program-capture).
 
 [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md),
-“Trusted opinion leaders, cascades, and cultivated authority,” explains why the
-target is not merely the person with the largest audience. A high-value trusted
-opinion leader may combine expertise, personal trust, pastoral care, gatekeeping,
-translation, brokerage, institutional representation, appointment power, and
-access to common attention. The attack targets that composite trust and
-interpretation architecture.
+“Trusted-opinion-leader function, cascades, and cultivated authority,” explains
+why the target is not merely the person with the largest audience. A high-value
+carrier of that function may combine expertise, personal or role-conferred trust,
+pastoral care, gatekeeping, translation, brokerage, institutional representation,
+appointment power, and access to common attention. The attack targets that
+composite trust and interpretation architecture.
 
 Benda's ***clerc*** can occupy one especially consequential version of this
 position. If a field refers moral or epistemic judgment to an intellectual,
@@ -5746,9 +5869,11 @@ Where a program-level hazard is suspected, the same map identifies the
 **Culture Program carrying structure**: finance, organizations, formation,
 publishing, platforms, logistics, appointments, protection, and succession
 through which the program acquires continuity or operational capability.
-Under the **Self-Attribution Presumption**, an authenticated, serious actor
-proclamation receives initial credence as evidence of that actor's operative
-allegiance or perceived authorization. One credible high-severity proclamation
+Under the **Self-Attribution Presumption** and **Self-Description Valence
+Asymmetry**, an authenticated, serious adverse self-attribution receives initial
+credence as evidence of that actor's operative allegiance or perceived
+authorization; favourable self-description does not exculpate operation,
+offspring, consequences, or failed correction. One credible high-severity proclamation
 can therefore trigger preservation and preliminary mapping without first waiting
 for recurrence and without accusing every human carrier. Recurrence, script fit,
 authority, organizational support, and failed internal correction strengthen the
@@ -7640,10 +7765,18 @@ A citation under “retained” supports the named concept, not every inference 
   (1898), translated by Mark Traugott in [*Émile Durkheim on Morality and
   Society*](https://platypus1917.org/wp-content/uploads/The-Heritage-of-Sociology-Emile-Durkheim-On-Morality-and-Society_-Selected-Writings-University-of-Chicago-Press-1973.pdf),
   pp. 43–57. Durkheim supplies the maxim and his Kant–Fichte, Kant–Hegel–Marx,
-  Rousseau, and French-Revolution examples. The doctrinal-progeny test, offspring
-  profile, generative spirit, five-relation taxonomy, concealed-causal-design
-  category, recipient-architecture bifurcation, and first-order-recapture
-  hypothesis are project developments.
+  Rousseau, and French-Revolution examples. The strong Durkheimian accountability
+  and symmetry rule, doctrinal-progeny test, offspring profile, generative spirit,
+  five-relation taxonomy, concealed-causal-design category,
+  recipient-architecture bifurcation, and first-order-recapture hypothesis are
+  project developments.
+- **Common decency, moral smell, and the corpse-pyramid judgment — George
+  Orwell:** the passage is reproduced in Giles Udy's
+  [*At Dawn They Came*](https://historyoftotalitarianism.com/at-dawn-they-came-by-giles-udy/). Orwell's letter to Humphry House supplies
+  the common-decency and putrid-regime judgment. The outcome-priority rule,
+  integration with strong Durkheimian accountability, and distinction between
+  moral stop signal and completed causal attribution are Culture Mechanics
+  developments.
 - **Moral Foundations Theory — Jonathan Haidt, Craig Joseph, Jesse Graham, and collaborators:** [Moral Foundations Theory publications](https://moralfoundations.org/publications/).
 - **Biology as a first draft elaborated by cultural learning — Jonathan Haidt:** [*The Righteous Mind*](https://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/).
 - **Gene–culture coevolution joined to the possibility of fast historical
@@ -8229,10 +8362,14 @@ The following terms should be attributed to the present synthesis unless indepen
 - **functional-remainder test** for identifying the need, aspiration, grievance,
   coordination problem, or protected good that remains after a doctrine's
   explicit explanation is criticized;
-- **doctrinal-progeny test**, **offspring profile**, and **generative spirit** for
-  evaluating a doctrine through the distribution and mechanism of its actual
-  descendants rather than through literal propositions or preferred examples
-  alone;
+- **strong Durkheimian accountability and symmetry**, **doctrinal-progeny test**,
+  **offspring profile**, and **generative spirit** for evaluating every doctrine
+  by the same causal and consequence standards through the distribution and
+  mechanism of its actual descendants rather than through benevolent semantic
+  wrappers, literal propositions, or preferred examples alone;
+- **Orwell's common-decency and corpse-pyramid check** as a moral stop signal
+  against using promised ends or theoretical vocabulary to deodorize recurrent
+  mass harm, while retaining the separate causal-progeny audit;
 - the five-way relation among **entailment**, **authorization or affordance**,
   **selection**, **concealed causal design or undisclosed implementation**, and
   **appropriation or inversion**; the relation names are ordinary language, but
@@ -8284,8 +8421,9 @@ The following terms should be attributed to the present synthesis unless indepen
   help install one successor weave; offices, institutions, appointment systems,
   and channels can be captured analogously without being classified as leaders;
 - Benda's ***clerc*** remains his source-attested intellectual-vocation role; its
-  relation to trusted opinion leader as a functional receiving-field position is
-  a Culture Mechanics mapping. Their overlap can add moral and epistemic
+  relation to the trusted-opinion-leader function, and to a trusted opinion leader
+  as that function's human person-in-role occupant, is a Culture Mechanics
+  mapping. Their overlap can add moral and epistemic
   authorization to a trusted-channel cascade, but neither role establishes
   betrayal or covert capture;
 - **sentinel inversion** for the limiting case in which a recognized guardian
@@ -8345,10 +8483,13 @@ The following terms should be attributed to the present synthesis unless indepen
 - **intergroup semantic decoupling** and **cultural interoperability breakdown
   (Babelization)** as local mythological synchronization combined with loss of
   society-wide translation, legitimate common procedure, and coordination;
-- the inherited **un-reason--Babelization bridge**: un-reason can make reality
-  causally common but no longer epistemically common around a protected account
-  and can contribute to intergroup semantic decoupling, but localized closure is
-  not itself cultural interoperability breakdown;
+- the inherited **un-reason--un-reality--Babelization bridge**: un-reason can help
+  produce a state in which reality remains causally common but the authorized
+  representation is insulated from its epistemic correction, and that state can
+  contribute to intergroup semantic decoupling; after public disclosure, a
+  synchronized carrier field can instead maintain the state through correction
+  nullification without arguing away the contradiction at every node; localized
+  un-reality is not itself cultural interoperability breakdown;
 - the inherited **secession-or-force fork**: where severe Babelization leaves an
   unavoidable binding output without mutually legitimate adjudication, the
   jurisdiction must be separated or one answer imposed; separation is the only
@@ -8826,10 +8967,12 @@ The following terms should be attributed to the present synthesis unless indepen
   protection, appointments, and succession can be mapped as capability-bearing
   infrastructure before any human carrier is accused; restriction requires a
   stronger causal nexus and person-preserving process.
-- **Self-Attribution Presumption:** believe an authenticated, serious actor
-  proclamation first as evidence of the actor's own operative allegiance or
-  perceived authorization; then test cosmology, causation, scope, defeaters,
-  internal contestation, recurrence, and organizational support separately.
+- **Self-Attribution Presumption and Self-Description Valence Asymmetry:** give an
+  authenticated, serious adverse self-attribution first-pass credence as evidence
+  of the actor's operative allegiance or perceived authorization; give favourable
+  self-description no exculpatory presumption; then test cosmology, causation,
+  scope, defeaters, internal contestation, recurrence, operation, offspring,
+  consequences, correction, and organizational support separately.
 - **Projective-vandalism circuit:** projected blemish → taboo-marked target
   surface → morally authorized symbolic strike → audience resonance → possible
   denunciatory jouissance → reality-independent repetition; the motivational
@@ -9019,6 +9162,27 @@ Force-field reciprocity:
 
 > **solidarity field selects actor ↔ actor reinforces or modifies solidarity field**
 
+Whole-formation morphology:
+
+> **population body + distributed trusted-opinion-leader function + common
+> mythological-affective field + field-generating and directing function + reciprocal back-action →
+> functional morphology of mechanical solidarity**
+
+Organ--body reciprocity:
+
+> **collective field invests and animates directing organ ↔ directing organ
+> concentrates, interprets, and redirects collective orientation into the field**
+
+[*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#12-functional-morphology-of-mechanical-solidarity)
+owns this morphology, including centralized and distributed emitters, the
+distributed trusted-opinion-leader function, multi-mind-self presentation,
+operative collective-agency thresholds, and chief-facing first-officer mediation.
+The dots in its semiconductor analogy are drawing notation for carriers of that
+function, not a further position. This document continues to own the
+mythology, *Beseelung*, resonance, and authority-migration mechanisms that can
+animate such a morphology. A collective represented as one self is not thereby an
+operative multi-mind-self.
+
 Three-component resonance:
 
 > **common human machinery × heritable dispositional configuration × mythological form → probability of adoption, retention, enactment, and transmission**
@@ -9061,6 +9225,18 @@ Cultural interoperability and its breakdown (Babelization):
 Reality coupling:
 
 > **mythology gives practice meaning → practice produces consequences → consequences correct mythology**
+
+Defensive auxiliary mythology:
+
+> **operative un-real representation U0 + threatening reality contact → adverse
+> auxiliary causal story U1 → trusted-carrier translation and routing → U1
+> explains the correction away → possible correction nullification → U0 and U1
+> enter accumulating organized un-reality**
+
+The compact boundary is:
+
+> **Independent causal evidence can legitimately revise an explanation;
+> authorization alone cannot substitute for that evidence.**
 
 Adversarial defence:
 

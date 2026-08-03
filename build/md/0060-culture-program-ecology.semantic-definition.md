@@ -243,7 +243,26 @@ This document is the primary semantic home for:
   through which an operative program preserves, repairs, adapts, or closes itself;
 - **Culture Program capture**, program disharmony, objective substitution, and
   gradual capture;
-- the **Self-Attribution Presumption** and internal-contestation test;
+- the **polity-scale Gleichschaltung hazard** as a process-level warning of
+  attempted cross-domain alignment of human carriers, symbolic and
+  conformity-marker environments, and institutional-operational systems before
+  a strong mechanical-solidarity morphology has been achieved or its Culture
+  Program has been fully reconstructed;
+- the **historical-to-active vocabulary crosswalk** for testing whether current
+  coordination, stakeholder, resilience, economic, or anti-fascist
+  language performs an older operation without treating words as synonyms or
+  classification evidence;
+- the **institutional-symmetry and scale-capacity rule** under which no public,
+  private, national, or supranational organization is exempt from the same typed
+  gates, while the required vigilance and safeguards rise with its installed
+  skeleton, population reach, dependency, and possible blast radius;
+- the **public-private constitutional-proxy hazard** and the stronger
+  **constitutional-evasion-by-proxy** attribution, including responsibility lost
+  as organizational dark matter when public purposes and private execution are
+  joined but duties, records, correction, and answerability do not follow the
+  function;
+- the **Self-Attribution Presumption**, **Self-Description Valence Asymmetry**,
+  and internal-contestation test;
 - the **Attribution-Source Asymmetry** and cross-audience self-description audit;
 - the **Propagation–Visibility Constraint**;
 - the **systemic skeleton** and **living cultural body** of an operative Culture
@@ -334,7 +353,15 @@ for this module.
 | **Program disharmony** | Persistent actor or institutional conduct misaligned with the load-bearing objectives of the program that authorizes the role |
 | **Objective substitution** | Use of authority granted under one program to advance and institutionalize a different governing objective |
 | **Gradual capture** | Cumulative displacement through individually tolerable changes in interpretation, metrics, appointments, and practice |
-| **Self-Attribution Presumption** | First-pass evidentiary rule that an authenticated, serious proclamation of program allegiance, authorization, intent, or action should initially be believed as evidence of the actor's own operative understanding and treated as an immediate program-level warning |
+| **Polity-scale Gleichschaltung hazard** | Process-level warning that human carriers, symbolic and conformity-marker environments, and institutional-operational systems across multiple formerly independent social domains are being subordinated to one privileged ideological direction or authority-addressed pole; it can be present before the resulting whole-polity mechanical-solidarity morphology or Fascism conjunction has been achieved and before a complete Culture Program has been reconstructed or attributed |
+| **Historical-to-active vocabulary crosswalk** | Source-disciplined method for asking whether a historically recognized operation is reappearing beneath current coordination, management, resilience, stakeholder, or anti-fascist language; contemporary words are diagnostic leads rather than synonyms or classification evidence, and the operation must satisfy its own typed gate |
+| **Institutional-symmetry and scale-capacity rule** | No actor receives exculpatory credit from prestige, benevolent mission, international status, expert identity, rights language, or institutional name: WHO, NATO, UN, governments, firms, NGOs, and informal networks face the same operation-level gates. A larger pre-existing systemic skeleton and wider population reach increase deployment capacity and potential blast radius, so audit intensity, boundedness, review, reversibility, and remedy should scale accordingly; size or capacity alone still proves neither misuse nor the gated hazard. |
+| **Public-private constitutional-proxy hazard** | Process-level warning that a public objective, burden, gate, sanction, or sovereign-like function is being routed through an NGO, contractor, platform, association, standards body, or commercial carrier while the constitutional, administrative, record, review, appeal, or responsibility duties that would constrain direct public action become practically weaker or discontinuous; the finding neither establishes legal state action nor deliberate evasion by itself |
+| **Constitutional evasion by proxy** | Stronger attribution that a public actor selected, maintained, pressured, or exploited a private-carrier arrangement in order to obtain, or with consequential knowledge that it obtained, an outcome materially unavailable or more constrained under direct public action; it requires actor-, nexus-, counterfactual-, and jurisdiction-specific evidence beyond outsourcing, funding, partnership, or parallel preference |
+| **Voluntary thick community** | Bounded solidarity-bearing association in which adults may choose a comprehensive common telos and deep *Beseelung* because entry is voluntary, exit is effective, safe, and materially real, common rights remain controlling, and the community claims no compulsory jurisdiction over outsiders or captive dependants |
+| **Plural society** | Encompassing coercive common shell that contains persons, communities, Culture Programs, and ends that remain independently legitimate and therefore protects association, refusal, appeal, correction, and coexistence rather than installing one comprehensive Culture Program in the population |
+| **Self-Attribution Presumption** | First-pass evidentiary rule that an authenticated, serious proclamation of program allegiance, authorization, intent, or action should initially be believed as evidence of the actor's own operative understanding and treated as an immediate program-level warning; adverse admissions receive especially strong initial weight |
+| **Self-Description Valence Asymmetry** | Adverse self-attribution receives first-pass credence about the actor's own operative understanding, while favourable self-description receives no exculpatory presumption against installed operation, offspring, consequences, and failed correction; parent-program attribution remains a second inference governed by speaker standing, script fit, recurrence, organizational support, internal contestation, and affirmative defeaters |
 | **Attribution-Source Asymmetry** | Self-attribution supplies situated evidence about the speaker's operative program; hostile third-party attribution is an allegation about the target that requires independent support and may also reveal the accuser's classifications or attack grammar |
 | **Propagation–Visibility Constraint** | Large-scale, high-fidelity Culture Program reproduction requires enough information throughput for carriers to recognize, learn, coordinate, and correct the program; secrecy can shift transmission into bounded channels but ordinarily reduces scale, fidelity, or both |
 | **Systemic skeleton** | The durable institutional-operational structure through which a Culture Program allocates roles and jurisdictions, coordinates conduct, applies incentives and sanctions, preserves accounts and memory, receives feedback, corrects action, and survives succession |
@@ -680,7 +707,7 @@ ordinary use of these words has the same essence.
 | **Cultural Essentialism** | Morally weighted in-group/out-group identity treated as an enduring collective essence | Cultural continuity and group association are not by themselves essentialism |
 | **Identity / Mentality** | Identity-bearing classification that supplies final evaluative belonging | Identity also participates in Culture Strategies and mixed braids |
 | **Intersectionality** | Identity classification and moral standing organized through intersecting group positions | Analytical use of interacting variables is not automatically a Pure-Ideology program |
-| **Fascism** | Moral closure around a bundled collective that excludes or subordinates nonjoiners | Historical fascisms require case-specific political and institutional analysis |
+| **Fascism** | Strong, whole-polity, jealous, and subjecthood-absorptive functional morphology of mechanical solidarity in which a centralized or distributed directing function claims exclusive authority to incarnate, interpret, and act for the collective self | The complete conjunction must be evidenced; solidarity, hierarchy, coercion, moral closure, communist or anti-fascist self-description, and hostile accusation are each insufficient alone |
 | **Business Strategy** | Coordinated causal wager expected to accumulate organizational or market value | Profit, fashion, or executive assertion does not establish causal adequacy |
 | **Political Strategy** | Causal wager aimed at observable political or institutional consequences | A strategy can carry Pure-Ideology ends or be embedded in such a program |
 | **Culture-Embedded Strategy** | Productive mechanism installed as norm, virtue, duty, custom, feeling, role, and practice | A norm's popularity or moral warmth does not establish material payoff |
@@ -688,6 +715,415 @@ ordinary use of these words has the same essence.
 
 The hierarchy allows redundant or multiple-looking legacy relations where the
 subtractive essence warrants them. Diagram neatness must not decide ontology.
+
+#### Cross-doctrinal Fascism and the self-exemption warning
+
+The canonical [whole-polity definition of
+Fascism](0020-epistemic-agency.semantic-definition.md#fascism-as-a-strong-whole-polity-realization)
+is deliberately independent of the collective self's substantive name and of a
+modern state's existence. Nation, racialized *Volk*, proletariat, revolutionary
+people, religious body, empire, or another collective subject can occupy the
+collective-self position; chief, council, party, priesthood, state, or distributed
+apparatus can occupy the directing position.
+
+> **Do not exempt a formation from the Fascism classification because it calls
+> itself communist, socialist, religious, anti-fascist, emancipatory, or hostile
+> to a recognized historical fascist enemy. If the complete Culture Mechanics
+> conjunction is evidenced, classify the formation by its operation.**
+
+This rule also runs in the other direction. An official or hostile use of
+*fascist* is not evidence that the target satisfies the type. State the unit and
+period, test every component, and preserve counterevidence. The project category
+therefore resists both **self-exemption** and **enemy-label inflation**.
+
+This is one application of the [strong Durkheimian accountability and symmetry
+rule](0040-mythology-construction.semantic-definition.md#strong-durkheimian-accountability-and-symmetry).
+Every Culture Program is judged by the same stated-doctrine, installed-operation,
+offspring, consequence, causality, and correction tests. A benevolent semantic
+wrapper cannot defeat recurrent operational evidence; destructive consequences
+cannot establish program responsibility without a causal relation. There is no
+doctrinal-family exemption in either direction.
+
+#### Polity-scale *Gleichschaltung* hazard: process before result {#polity-scale-gleichschaltung-hazard}
+
+**Functional morphology of mechanical solidarity** names a resulting social
+configuration. ***Gleichschaltung*** names a transformation process that may be
+attempting to produce or intensify such a configuration:
+
+```text
+attempted polity-scale Gleichschaltung
+        ≠ completed mechanical-solidarity morphology
+        ≠ completed Fascism conjunction
+        → strong process-level warning that such a formation is being built
+```
+
+The historical term came from electrical engineering. In Nazi usage it named
+the alignment of political, social, economic, and cultural institutions with the
+NSDAP and the loss, dissolution, or replacement of independent organizations.
+The German Federal Agency for Civic Education notes both the term's
+[electrotechnical origin and the destruction of organizational
+independence](https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320425/gleichschaltung/).
+The German Historical Museum describes the replacement of Weimar's plural
+institutional diversity by adaptation to NSDAP objectives, including both forced
+and voluntary accommodation, and records incomplete resistance in parts of the
+churches ([DHM](https://www.dhm.de/lemo/kapitel/ns-regime/etablierung/gleichschaltung)).
+The United States Holocaust Memorial Museum documents the process across
+[economic, social, cultural, associational, media, youth, and leisure
+domains](https://encyclopedia.ushmm.org/content/en/article/gleichschaltung-coordinating-the-nazi-state).
+The historical sources establish the Nazi process; the diagnostic below and its
+field mapping are Culture Mechanics developments.
+
+> **Polity-scale *Gleichschaltung* hazard is an attempted cross-domain alignment
+> of independent institutions, human carriers, symbolic and conformity-marker
+> environments, communication channels, and institutional-operational systems
+> toward one privileged ideological direction or authority-addressed pole. Its
+> appearance is strong early evidence that a functional morphology of
+> polity-scale mechanical solidarity is being constructed, even though the
+> resulting formation is not yet complete and a complete Culture Program may not
+> yet be reconstructable.**
+
+The diagnostic threshold concerns a specified polity or population and requires
+more than one centralized decision, common technical standard, emergency order,
+public campaign, or instance of conformity. Test the conjunction:
+
+1. **Population or polity ambition:** the project addresses the encompassing
+   society or expands toward population-wide jurisdiction rather than remaining
+   one bounded voluntary association.
+2. **Cross-domain alignment:** multiple formerly independent domains—such as
+   government, administration, law, media, education, professions, associations,
+   labour, religion, culture, or leisure—are being aligned in one direction.
+3. **Privileged ideological orientation:** the same authority, collective-subject
+   claim, ideological direction, or Culture Program is made the privileged pole
+   of allegiance, identity, interpretation, sentiment, and service, rather than
+   merely supplying interoperability or one bounded common output. The common
+   direction can be evidenced before its full doctrine or parent program is
+   known.
+4. **Loss of independent orientation:** organizations, offices, and trusted
+   carrier positions are dissolved, replaced, captured, subordinated, or made
+   dependent upon appointments, permissions, finance, sanctions, or correction
+   routes controlled by authorities already aligned with the privileged
+   direction.
+5. **Constriction of plural correction:** dissent becomes disloyalty, alternative
+   authorities lose standing, and refusal, association, appeal, correction, or
+   effective exit becomes harder.
+
+The diagnostic must inspect the **whole installation**, not only explicit
+doctrine or population-facing interpretive authorities. The established
+[systemic-skeleton/living-cultural-body
+anatomy](#137-systemic-skeleton-and-living-cultural-body) can be unfolded into
+three observation planes plus their coupling:
+
+| Observation plane | What to inspect | Diagnostic question |
+|---|---|---|
+| **Flesh-and-blood carriers** | Leaders, officials, teachers, clergy, journalists, professionals, organizers, trusted opinion leaders, appointments, removals, formation, scripts, rewards, sanctions, and peer enforcement | Are independently answerable persons and roles being selected, trained, routed, or disciplined toward the same privileged direction? |
+| **Symbols and conformity markers** | Flags, emblems, uniforms, insignia, salutes, slogans, rituals, naming and renaming, monuments, public displays, badges, prescribed formulae, and other markers of visible alignment | Do symbols merely identify and express, or are their display, repetition, interpretation, or refusal becoming tests of loyalty, access, standing, safety, or legitimacy? |
+| **Institutional-operational systems—the systemic skeleton** | Law, offices, jurisdictions, procedures, curricula, media governance, finance, credentials, permissions, surveillance, sanctions, records, exception mechanisms, review, appeal, correction, and succession | Are systems being rewired so that the same direction governs appointments, resources, permissible decisions, exceptions, and correction across domains? |
+| **Cross-plane coupling** | Recurrence of the same direction through people, symbols, and systems, including feedback among public display, local enforcement, institutional action, and the directing function | Do the planes independently vary, or do they reinforce one another as one alignment process? |
+
+Inventory the first three planes independently before judging their coupling.
+Do not redescribe a flag as doctrine, a human carrier as a system, or an
+institutional topology as a belief. Symbols and systems are diagnostic objects in
+their own right, not merely illustrations of a Culture Program inferred in
+advance; their common direction is the later relational finding.
+
+This is a **morphological diagnosis before complete program attribution**. The
+analyst may identify a common alignment direction from convergent appointments,
+symbols, markers, rules, permissions, sanctions, and blocked correction without
+yet possessing a defensible reconstruction of one coherent Culture Program or
+its genealogy. After identifying that direction, separately test whether it
+constitutes or serves a Culture Program, which content is load-bearing, who or
+what directs it, and which actors or structures bear responsibility.
+
+A Fraenkelian ***Maßnahmenstaat*** or *Doppelstaat* can be relevant system-plane
+evidence where politically classified matters are withdrawn from ordinary legal
+guarantees and the prerogative component helps enforce the common direction. It
+is neither required nor sufficient for *Gleichschaltung*. Preserve the separate
+Fraenkelian gate: one emergency measure, discretionary act, or bounded and
+reviewable exception does not establish a *Maßnahmenstaat*, and a
+*Maßnahmenstaat* finding does not by itself establish the remaining cross-domain,
+human, symbolic, and corrective relations of this diagnostic.
+
+Rhetoric or aspiration alone is a lead. One flag, emblem, uniform, ritual,
+conformity marker, common information system, law, office, or exceptional measure
+is likewise insufficient. Concrete and convergent cross-domain acts can cross
+the hazard threshold before alignment succeeds everywhere. The signal initially
+attaches to the process, privileged direction, directing function, and relevant
+carrying and institutional structures under examination—not automatically to a
+reconstructed Culture Program, every participant, or one hidden operator.
+Program attribution, actor-specific accusation, conspiracy, completed Fascism,
+collective fusion, and person-directed sanction each require their own evidence
+and process.
+
+The process can combine imposition from above with ***Selbstgleichschaltung***:
+institutions and carriers may anticipate the emerging field, voluntarily adapt,
+compete to display conformity, and amplify the direction without waiting for an
+individual command. The German Historical Museum describes Nazi transformation
+as also a society's
+[*Selbstgleichschaltung*](https://www.dhm.de/archiv/ausstellungen/hitler-und-die-deutschen/die_deutsche_gesellschaft_und_hitler.html).
+This supports the field model's reciprocal rather than purely external reading:
+bottom-up alignment can return recognition and gain to the directing function.
+It does not make coerced population-scale alignment voluntary or prove one plan.
+
+##### Voluntary thick community and plural society
+
+The diagnostic is jurisdiction-sensitive. Culture Mechanics uses Tönnies's
+[*Gemeinschaft und Gesellschaft*](https://archive.org/details/gemeinschaftundg00tn)
+as a source vocabulary for the contrast, but the following constitutional
+boundary is project-developed rather than Tönnies's own diagnostic:
+
+| | **Voluntary thick community (*Gemeinschaft*)** | **Plural society (*Gesellschaft*)** |
+|---|---|---|
+| **Typical unit** | Convent, monastery, intentional order, association, or another bounded solidarity-bearing community | Encompassing polity containing persons and many legitimate communities, associations, programmes, and ends |
+| **Telos and *Beseelung*** | Adults may explicitly choose a thick common telos and practices intended to deepen *Beseelung* | The common shell protects coexistence; it does not install one comprehensive telos in the population |
+| **Membership and exit** | Entry is voluntary and exit is effective, safe, and materially real rather than merely formal | Membership is largely unchosen and population-level exit is unusually costly, unavailable, or cannot substitute for internal freedom |
+| **Jurisdiction** | Bounded internally, subject to common rights and law, without compulsory claims over outsiders or captive dependants | Holds coercive common jurisdiction and therefore owes standing, plural association, refusal, appeal, and correction to differently oriented persons |
+| **Diagnostic meaning** | Strong local mechanical solidarity is not by itself polity-scale *Gleichschaltung*; coercion, captive membership, abuse, or subjecthood absorption remain separately diagnosable | Cross-domain human, symbolic, and systemic alignment toward one privileged ideological direction is the polity-scale *Gleichschaltung* hazard; complete Culture Program attribution may follow later |
+
+A plural society may contain many voluntary thick communities. It ceases to act
+pluralistically when it converts the common shell into one compulsory thick
+community. This yields the strict constitutional boundary:
+
+> **There is no pluralist *Gleichschaltung*. If coordination is narrow,
+> function-specific, bounded, corrigible, temporary, and leaves independent
+> association and belief intact, it is not *Gleichschaltung* in this diagnostic
+> sense. If it satisfies the process gate, individualistic, humanist, democratic,
+> emancipatory, or pluralist self-description cannot exculpate it.**
+
+The signal justifies early scrutiny and proportionate protection of independent
+institutions, trusted routes, refusal, appeal, and correction; a pluralist order
+need not wait until the target morphology is complete. It does not itself justify
+collective punishment, compelled counter-ideology, suppression of voluntary
+thick communities, or unreviewable emergency power in the name of preventing
+alignment.
+
+##### Historical-to-active vocabulary crosswalk: new names over old operations {#historical-to-active-vocabulary-crosswalk}
+
+The controlled Loki lens asks what an attractive term **does**, which authorities
+and carrying structures it joins, who may refuse, where correction survives, and
+what configuration results. It does not allow the term's moral warmth to answer
+those questions in advance:
+
+> **The old operation does not need its old name. But a new name does not prove
+> the old operation. Strip the label, specify the work, and apply the typed
+> gate.**
+
+This is the crosswalk's **anti-camouflage and anti-guilt-by-word rule**. A label
+such as *anti-fascist*, *democratic*, *resilient*, *stakeholder*, *inclusive*, or
+*whole-of-society* has zero exculpatory weight against an evidenced operation.
+The same label also has zero convicting weight without that operation. Semantic
+camouflage, innocent reuse, and genuinely different institutional designs are
+all possible; morphology, jurisdiction, correction, and consequence decide.
+
+François Bondy retrospectively attributed to Ignazio Silone the warning that
+future Fascism would not announce itself as Fascism but would say “I am
+anti-Fascism” ([Bondy, *European Notebook*, recollecting a 1945 oral
+remark](https://books.google.de/books?id=CPdKDwAAQBAJ&pg=PT250)). The source must
+be cited as Bondy's recollection rather than a surviving contemporaneous Silone
+text. Its licensed use here is narrow: **anti-fascist self-description cannot
+acquit a formation, and the name alone cannot convict it.**
+
+The phrase ***whole-of-society approach*** is a particularly important active
+vocabulary lead, but not a dictionary synonym for *Gleichschaltung*. It was in
+ordinary institutional use at least by the World Health Organization's 2009
+[whole-of-society pandemic-readiness guidance](https://www.who.int/publications/i/item/whole-of-society-pandemic-readiness),
+which coordinated public and private organizations and essential services while
+also invoking ethical norms and human rights. NATO currently uses the phrase for
+[cooperation among government, the private sector, and civil society](https://nato.int/en/what-we-do/deterrence-and-defence/resilience-civil-preparedness-and-article-3)
+in resilience against disasters, attacks, and hybrid threats. Those uses establish
+both the phrase's broad cross-domain reach and its possible bounded, plural,
+function-specific meaning. They also defeat a simple claim that the term itself
+was invented in 2010 or necessarily denotes coercive alignment.
+Likewise, OECD transition-finance guidance uses
+[*whole-of-economy approach*](https://www.oecd.org/en/publications/oecd-guidance-on-transition-finance_7c68a1ee-en/full-report/component-7.html)
+for cross-sector coverage and enabling policy. The phrase establishes reach; its
+governance topology and coercive character remain separate questions.
+
+These examples are evidence about vocabulary and possible institutional forms,
+not character references for the organizations using them. Under the
+**institutional-symmetry and scale-capacity rule**, **no organization is above
+the typed gates**: WHO, NATO, the UN, national governments, firms, NGOs, and
+informal networks must be judged by the same operative relations and consequences. Indeed,
+an international organization may already possess a large **systemic skeleton**:
+mandates, member-state interfaces, funding, expert and implementation networks,
+standards, data channels, logistical capacity, and recognized communication
+authority. If such a skeleton is used for cross-domain alignment, its
+cross-jurisdiction population exposure and potential blast radius can be much
+greater than those of a single polity. Vigilance, disclosure, independent review,
+reversibility, refusal or exit where feasible, and remedy must therefore scale
+with installed capability and reach. This is a **conditional severity rule**, not
+guilt by size: scale raises what an evidenced misuse could do; it does not prove
+that misuse, *Gleichschaltung*, Fascism, or hybrid war has occurred.
+
+At the same time, the phrase can name exactly the scale and institutional surface
+upon which a contemporary *Gleichschaltung* attempt would operate. The crosswalk
+therefore translates **operative roles**, not words:
+
+| Historical or operative role | Current vocabulary leads to inspect | Operation-level question | Boundary against lexical conviction |
+|---|---|---|---|
+| **Encompassing alignment process** | *Whole-of-society*, *whole-of-government*, *whole-of-economy*, societal mobilization, policy coherence, resilience, or alignment | Are multiple independent domains being made answerable to one privileged ideological direction, with refusal and correction constricted? | Scope language can describe coordination only. Narrow purpose, plural authority, preserved independence, expiry, appeal, and effective refusal defeat the *Gleichschaltung* gate. |
+| **The *fascio/fascis* bundle at the economic plane** | Stakeholder capitalism, public-private cooperation or partnership, multistakeholder governance, social partnership, or coordinated capitalism | Are capital, labour, government, civil-society, and expert bodies continuously bundled so that publicly or quasi-publicly selected purposes override market and associational correction? | Consultation, bargaining, regulation, and mixed economies are not automatically corporatism, *Gleichschaltung*, or Fascism. Test representation, binding force, independence, competition, correction, and exit. |
+| **Private execution of public or sovereign-like functions** | Public-private partnership, outsourcing, implementation partner, NGO delivery, contractor or platform enforcement, co-regulation, private standard-setting, trusted-flagger or compliance network | Does public authority define, finance, induce, coordinate, privilege, or materially rely upon a private carrier to impose a burden, gate, classification, surveillance, exclusion, sanction, or service condition? Would direct public action face stronger legality, rights, transparency, record, due-process, or appeal constraints? | Procurement, grant funding, consultation, or independent private action is insufficient. Distinguish ordinary service delivery, formal *Beleihung*, state-controlled private form, induced private conduct, and genuinely independent action; legal attribution is jurisdiction-specific. |
+| **Corporative organs and authorized intermediaries** | Stakeholder councils, platforms, action groups, partnerships, standard-setters, or representative forums | Who selects the represented categories and representatives; who sets their mandate; may outsiders compete; and are decisions advisory, contractual, regulatory, or practically compulsory? | A forum is not an organ of compulsory incorporation merely because government and firms attend it. |
+| **Economy directed toward declared collective ends** | ESG frameworks, sustainable-finance taxonomies, transition plans, SDG alignment, common metrics, disclosure frameworks, or purpose-led management | Who defines the ends and metrics, who controls finance and permissions through them, whether firms co-design the rules governing rivals, and whether voters, owners, workers, customers, entrants, and courts can correct them | The merits of climate, social, governance, health, or security objectives neither establish nor defeat the topology. “Whole-of-economy” first describes coverage; it becomes corporatist or alignative only through evidenced governance relations. |
+| **Population rendered an operational surface** | Human terrain, societal resilience, behavioural or cultural expertise, public engagement, or strategic communication | Are persons being informed and invited to cooperate, or modeled as manipulable terrain whose independent judgment, association, and dissent are obstacles to be neutralized? | Social research, public communication, and preparedness do not by themselves establish war, manipulation, or domestic targeting. |
+| **Back-stage enforcement through ordinary interfaces** | Weinstein's *back-of-house retaliation* (BOHR), administrative coordination, platform or employer enforcement, credential, finance, procurement, data, access, and compliance systems | Do seemingly separate organizations route surveillance, exclusion, retaliation, or resource denial toward the same direction while leaving no effective independent front of house? | A common vendor, safety process, moderation decision, refusal of service, or regulatory duty does not prove a coordinated retaliation system. Trace the concrete route, authority, trigger, target, remedy, and recurrence. |
+| **Aligned institutional centre versus excluded remainder** | Weinstein's *Wh-o-S* versus *B-R-o-S* cleavage; claims that dissenters are backward, benighted, irresponsible, disinformation-bearing, or enemy collaborators | Does disagreement remain legitimate inside the polity, or does the coordinated centre convert dissenting citizens into an operationally suspect remainder whose institutions must be neutralized? | Sharp rhetoric or social disagreement alone does not establish institutional exclusion, enemy treatment, or hybrid war. |
+
+###### Public-private constitutional proxies and organizational dark matter {#public-private-constitutional-proxy-hazard}
+
+Public-private partnership is not inherently an evasion mechanism. Governments
+may legitimately buy goods, contract for services, fund independent civil
+society, establish reviewable co-regulation, or formally entrust a private person
+with a public function. The hazard begins where **the function and practical
+power move across the boundary but the public duties do not follow them**.
+
+The German distinction is useful. *Hoheitliche Aufgaben*, the exercise of
+*hoheitsrechtliche Befugnisse*, ordinary procurement, subsidy, and formal
+***Beleihung*** are not synonyms. [Article 33(4) of the Basic
+Law](https://www.gesetze-im-internet.de/gg/art_33.html) provides that the exercise
+of sovereign powers as a permanent task is, as a rule, to be entrusted to members
+of the public service in a public-law relationship of service and loyalty.
+Article 1(3) binds legislature, executive, and judiciary to fundamental rights.
+In its Fraport judgment, the Federal Constitutional Court held that a
+state-controlled mixed enterprise organized under private law remains directly
+bound by fundamental rights: private legal form cannot supply a ***Flucht ins
+Privatrecht*** ([BVerfG, 1 BvR 699/06](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/02/rs20110222_1bvr069906.html)).
+These authorities establish a German constitutional boundary, not a universal
+rule that every publicly funded NGO, contractor, platform, or commercial carrier
+is a state actor. Ownership, control, statutory delegation, *Beleihung*, coercion,
+inducement, practical dependence, and legal remedy must be tested under the
+applicable jurisdiction.
+
+The candidate pathway is:
+
+```text
+public authority defines, funds, requests, pressures, or privileges an objective
+        ↓
+NGO, contractor, platform, association, or commercial carrier executes the gate
+        ↓
+the carrier invokes private discretion; government invokes organizational distance
+        ↓
+the affected person encounters a public-purpose burden without an intact
+public-law record, reason-giving duty, equality constraint, review, or appeal route
+        ↓
+principal, funder, designer, contractor, standard, algorithm, and local executor
+each own only a fragment of the decision
+        ↓
+unassigned responsibility accumulates as organizational dark matter
+```
+
+Audit the complete chain:
+
+1. **Function:** What public or sovereign-like task, burden, classification,
+   service, permission, exclusion, sanction, surveillance, or adjudication is the
+   carrier actually performing? Does it merely supply inputs, or decide what
+   happens to persons?
+2. **Public nexus:** Which statute, contract, grant, procurement term, official
+   request, threat, privileged data access, legal immunity, regulator signal,
+   personnel interchange, coordination forum, or recurrent dependency connects
+   the public actor to that conduct?
+3. **Constraint delta:** Which rule would constrain direct public action—legal
+   authority, equality, viewpoint neutrality, proportionality, notice,
+   reason-giving, records, disclosure, hearing, judicial review, or remedy—and is
+   it weaker at the private interface?
+4. **Effective control and benefit:** Who defines success, supplies leverage,
+   changes the carrier's incentives, can halt or reverse the operation, and
+   receives the policy benefit? Formal independence does not answer these
+   questions, but funding alone does not answer them either.
+5. **Responsibility continuity:** Can an affected person identify the decision
+   owner, obtain the operative rule and record, challenge the factual basis,
+   reach an independent reviewer, secure correction, and obtain repair? If every
+   node points elsewhere, the topology has generated a responsibility gap.
+6. **Counterfactual:** Would the carrier have performed materially the same act,
+   under materially the same rule and timing, without the public nexus? Could the
+   government lawfully and constitutionally have performed it directly?
+
+The **public-private constitutional-proxy hazard** is an observable topology; it
+can exist through poor design, path dependence, sincere but fragmented
+coordination, or institutional emergence. Classify **constitutional evasion by
+proxy** only with stronger evidence that a competent public actor selected,
+maintained, pressured, or knowingly exploited the arrangement to obtain the
+constraint delta. The legal conclusion that the private conduct is attributable
+to the state remains a separate jurisdiction-specific question.
+
+Venkatesh Rao's source term **organizational dark matter** comes from [*The
+Gervais Principle V: Heads I Win, Tails You
+Lose*](https://ribbonfarm.com/2011/10/14/the-gervais-principle-v-heads-i-win-tails-you-lose/).
+There it names the unaccounted-for residue of organizational blame after credit
+and culpability have been partitioned among persons, culture, and bureaucracy;
+the accumulating residue becomes visible indirectly through declining morale,
+incompetence, Byzantine processes, error, and clogged exceptions. The present
+public-private application is a Culture Mechanics extension from one
+organization to a cross-organizational principal--carrier chain. It does not mean
+a secret organization, hidden controller, or literally unobservable matter.
+
+Rao's [***Powertalk***](https://ribbonfarm.com/2009/11/11/the-gervais-principle-ii-posturetalk-powertalk-babytalk-and-gametalk/)
+is adjacent but distinct: layered, consequential communication in which the
+power relation shifts while much of the exchange retains plausible deniability.
+Use it only where evidence shows public and private actors negotiating leverage,
+exchanging reality-information, signalling the intended outcome, or preserving
+off-record deniability across the boundary. A contract, grant, meeting, policy
+agreement, euphemism, or coordination forum alone establishes neither Powertalk
+nor deliberate constitutional evasion.
+
+This proxy pathway cuts across the classification ladder below. It can occur in
+one outsourced service without corporatism or *Gleichschaltung*; it can also
+supply carrying structure, BOHR-style enforcement, corporatist intermediation,
+or a system plane of broader alignment. None of those stronger classifications
+follows from outsourcing or organizational dark matter alone.
+
+The crosswalk is intentionally a ladder rather than the chain
+`whole-of-society = corporatism = Gleichschaltung = Fascism = hybrid war`:
+
+| Finding | Minimum additional evidence |
+|---|---|
+| **Ordinary whole-of-society or whole-of-economy coordination** | A bounded common problem, disclosed authority, preserved independent institutions, review, correction, refusal where feasible, and a stopping condition |
+| **Corporatist political-economic topology** | Structured and continuing intermediation among organized economic or social bodies and political authority, with substantial collective-purpose direction beyond ordinary market exchange; centralization, compulsion, democratic corrigibility, and subsidiarity remain further variables |
+| **Polity-scale *Gleichschaltung* hazard** | The full process gate above: polity ambition, cross-domain alignment, privileged ideological orientation, loss of independent orientation, and constricted plural correction across the human, symbolic, and systemic planes |
+| **Fascism** | The separate complete conjunction: strong whole-polity mechanical-solidarity morphology, jealousy, subjecthood absorption, and a directing function claiming exclusive authority to incarnate, interpret, and act for the collective self |
+| **Hybrid-war operation** | A specified actor or functional command relation, adversarial political objective, target population or institutions, operational means, and evidence that the conduct is being used as warfare; social coordination or a *Gleichschaltung* morphology alone does not establish this strategy attribution |
+
+Eric Weinstein's [ARC 2025 talk, “You're in a War (and You Don't Even Know
+It)”](https://www.youtube.com/watch?v=mbdJtrXYBZs), as represented by the
+transcription supplied for this project, proposes the sharper source-specific
+mapping: hybrid war supplies the conflict frame, *human terrain* treats persons
+and culture as an operational surface, *whole-of-society* aligns institutions,
+and BOHR uses their backstage interfaces against the excluded remainder. He
+calls the resulting institutional pattern “soft fascism.” Frank Hoffman's
+[2007 *Conflict in the 21st Century: The Rise of Hybrid
+Wars*](https://www.potomacinstitute.us/images/stories/publications/potomac_hybridwar_0108.pdf)
+supports the named hybrid-war source bridge; United States Army accounts date
+the Human Terrain System proof of concept to 2006 and first team deployment to
+2007 ([Army historical account](https://www.army.mil/article/39608/human_terrain_teams_train_at_fort_leavenworth)).
+They do not independently establish Weinstein's domestic-war classification or
+one coordinated present-day operator. *Wh-o-S*, *B-R-o-S*, BOHR, and the
+“no-name revolution” therefore remain Weinstein-specific warning vocabulary,
+not new canonical population classes or established facts about every institution
+he names.
+
+The supplied [Malone article on the WEF and
+corporatism](https://www.malone.news/p/penetrating-the-cabinets) makes a related
+economic-topology claim. It maps the older coordination of capital, labour, and
+political authority into stakeholder capitalism, public-private partnerships,
+multistakeholder governance, sustainable-finance taxonomies, and ESG frameworks.
+Official WEF material confirms its own language of [public-private cooperation
+and stakeholder capitalism](https://www.weforum.org/press/2020/01/stakeholder-capitalism-a-manifesto-for-a-cohesive-and-sustainable-world/)
+and its effort to produce [common ESG metrics aligned with the
+SDGs](https://www.weforum.org/publications/measuring-stakeholder-capitalism-towards-common-metrics-and-consistent-reporting-of-sustainable-value-creation/).
+Those sources establish vocabulary, convening, and proposed coordination; they
+do not by themselves establish practical compulsion, loss of independent
+orientation, *Gleichschaltung*, completed Fascism, or hybrid war.
+
+Malone explicitly calls his comparison structural rather than ideological and,
+using a conventional historical definition, denies that the WEF is Fascist. His
+structural corporatism hypothesis is a useful lead; neither that hypothesis nor
+his conventional negative classification settles the project's cross-doctrinal
+functional gate. A named contemporary formation must be audited at a specified
+period through actual governance, finance, appointments, standards, sanctions,
+symbols, correction, refusal, exit, and consequences. Genealogical descent is
+neither necessary nor sufficient: the “same spirit” means the same evidenced
+organizing operation, not merely inherited words, shared personnel, or moral
+analogy.
 
 ### 5.2 Culture-Embedded Strategy
 
@@ -3640,6 +4076,14 @@ from outside. Systems, leadership conduct, symbols, rewards, sanctions, and
 repeated experience help program the lens; the resulting carriers reproduce,
 interpret, alter, or neglect those systems:
 
+For the [polity-scale *Gleichschaltung*
+diagnostic](#polity-scale-gleichschaltung-hazard), this two-part anatomy is
+unfolded observationally: the living cultural body is inspected as
+flesh-and-blood carriers plus symbols and conformity markers, while the systemic
+skeleton is inspected as institutional-operational systems. That three-plane
+audit is not a replacement ontology; it prevents either people, symbols, or
+systems from disappearing inside an overly compressed diagnosis.
+
 ```text
 systems structure repeated experience
 → experience confirms, contradicts, or creates mythologies
@@ -4289,6 +4733,27 @@ The fork requires all of the following at the relevant decision interface:
 - voluntary agreement, translation, and correction have failed or cannot arrive
   before the decision must be made.
 
+Before declaring that this conjunction holds, test whether the actor's
+acknowledgment has merely been mistaken for the only correction route. [**Bounded
+de-authorization**](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia)
+can remove a defeated representation's or specified carrier-function's authority
+at the affected interface without converting, silencing, or governing the whole
+person. Independent adjudication, automatic defeat conditions, ordinary lawful
+succession, reassignment of one decision power, protected refusal, competition,
+parallel institutions, and already authorized domain separation can restore
+operative correction without reaching the severe-Babelization fork.
+
+This route is not a semantic escape from force. Removing an officeholder,
+suspending a power, or enforcing an adjudication can itself be institution- or
+person-directed compulsion. The distinction is that a bounded, mutually
+authorized correction procedure may still exist. If affected parties continue
+to recognize that procedure as legitimate, the shared-rule branch has not yet
+failed and severe Babelization has not been established. If no such procedure is
+recognized or available, de-authorization imposed by one side belongs to the
+force branch. The relevant question is not whether anyone's will is frustrated,
+but whether the decision remains answerable to a shared, bounded, reciprocal,
+reviewable rule.
+
 The resulting structure is:
 
 ```text
@@ -4334,12 +4799,12 @@ the disputed output from compulsory common jurisdiction. Under the stated
 conditions of severe Babelization, the shared-rule branch is by definition
 unavailable; the remaining alternatives are therefore secession or force.
 
-##### Pure-Ideology multi-mind-self at the fork {#pure-ideology-multi-mind-self-at-the-fork}
+##### Pure-Ideology operative multi-mind-self at the fork {#pure-ideology-multi-mind-self-at-the-fork}
 
 The legacy formulation about a multi-mind-self that cannot accept negotiated
 coexistence is retained only in the following typed form:
 
-> **A multi-mind-self organized by a Pure-Ideology Culture Program, closed around
+> **An operative multi-mind-self organized by a Pure-Ideology Culture Program, closed around
 > its load-bearing claim and insisting on compulsory supremacy, cannot authorize
 > accessible reality or reciprocal public reason to render that claim defeated.
 > When it meets an incompatible order under severe Babelization at an unavoidable
@@ -4350,7 +4815,7 @@ The inference therefore requires the complete conjunction:
 
 ```text
 Pure-Ideology finality at the load-bearing centre
-+ sufficiently integrated collective agency to form a multi-mind-self
++ sufficiently integrated collective agency to form an operative multi-mind-self
 + closure against accessible defeat and reciprocal correction
 + a claim to compulsory supremacy at the disputed interface
 + an incompatible rival binding output
@@ -4381,7 +4846,7 @@ force are different possible power resources. Conversely, accepting bounded
 jurisdiction or reciprocal coexistence removes the compulsory-supremacy condition
 without necessarily changing the programme's Pure-Ideology branch. Accepting an
 accessible defeater for the load-bearing claim would instead change the branch
-classification. A multi-mind-self remains a neutral collective-agency category;
+classification. An operative multi-mind-self remains a neutral collective-agency category;
 neither that status nor Pure-Ideology by itself establishes closure, bad faith,
 force, or illegitimacy.
 
@@ -4834,12 +5299,17 @@ A distinct originating application claim cites Friedrich Hayek's report that
 Hitler said in 1941 that National Socialism and Marxism were “basically” the
 same. If authenticated in context, this is relevant self-classification evidence
 from a leader speaking at the height of power. The Self-Attribution Presumption
-requires the analyst to begin by believing that the statement expressed Hitler's
-operative comparison unless affirmative evidence defeats that reading. It does
-not by itself settle the broader historical classification of National Socialism
-as left-wing or Marxist. That conclusion requires the original speech, intended
-comparison, strategic setting, institutional practice, competing statements, and
-contemporary contestation.
+and Self-Description Valence Asymmetry require the analyst to begin by believing
+that the statement expressed Hitler's operative comparison unless affirmative
+evidence defeats that reading. It was a self-comparison, not an enemy label, and
+later favourable relabelling cannot erase it. The example is deliberately
+high-weight because the speaker occupied the regime's dominant directing
+position and spoke at the height of power: absent specific evidence of coercion,
+identity appropriation, infiltration, or external command, there is little basis
+for replacing his statement with a more innocent outsider account. The exact
+historical inference still depends on the original speech, intended comparison,
+institutional practice, competing statements, consequences, and contemporary
+contestation.
 
 ### 15.2 Communism
 
@@ -4854,6 +5324,71 @@ outcomes matter when a program promises worldly material results.
 external pressures, reforms, and counterfactuals must be disaggregated.  
 **Possible falsifier:** robust independent implementations that preserve the
 load-bearing program while avoiding the alleged recurrent mechanisms and harms.
+
+The application is governed by the same strong Durkheimian rule used everywhere
+else. “Not real communism,” benevolent formulation, and original good intention
+cannot remove large-scale implementations from the offspring record by
+definition. Conversely, hostile naming and temporal succession alone cannot make
+every action of a communist state follow from the doctrine. The audit must trace
+entailment, authorization or affordance, selection, concealed implementation, or
+appropriation and inversion. Recurrent adverse outcomes plus failure to correct
+carry more evidential weight than a one-off result under genuinely unforeseeable
+conditions.
+
+#### Stalinist Soviet application
+
+Under the cross-doctrinal definition, the **Stalinist Soviet order is retained as
+a central historical realization of Fascism**, not as a formation immunized by
+its communist and anti-fascist self-description. The current fit is
+whole-polity and conjunctive:
+
+| Fascism condition | Stalinist Soviet realization |
+|---|---|
+| **Strong functional morphology** | Party, state, workplace, union, youth, cultural, educational, security, propaganda, and planning structures joined differentiated activity to an encompassing ideological field. |
+| **Whole-polity scope** | The claim governed the Soviet political order rather than one voluntary association inside it. |
+| **Collective self** | The proletariat, working people, revolutionary people, and developing communist society supplied overlapping representations of the collective subject. |
+| **Exclusive directing function** | [Article 126 of the 1936 Soviet Constitution](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm) called the Communist Party the vanguard and leading core of all public and state organizations; party leadership and the Stalin leader cult concentrated interpretation and direction. |
+| **Jealousy** | Rival political authority, independent organization, dissent, and incompatible allegiance were treated as threats to the collective project rather than legitimate competitors within bounded jurisdiction. |
+| **Subjecthood absorption and execution** | Collectivization, purges, deportation, execution, forced labour, censorship, compelled ideological alignment, and the Gulag made persons and institutions answerable to the claimed whole while drastically constricting refusal, appeal, and exit. |
+| **Power--*Dummheit* feedback** | Party education, agitation, propaganda, exemplary figures, denunciation, and local enforcement distributed the authoritative formulas through which participants could become instruments of the field while ordinary intellectual ability remained intact. |
+
+Giles Udy's [*At Dawn They Came: Soviet Terror and Repression
+1917--1953*](https://www.gilesudy.com/publications) is retained as a compact
+historical source bridge for the coercive and repressive execution side: mass
+imprisonment, exile, forced labour, execution, and the Gulag. The book does not by
+itself supply the project definition or prove every morphological relation; the
+constitutional, organizational, ideological, propaganda, leader-cult, and
+receiving-field evidence supplies the other parts of the audit.
+
+#### Anti-fascist self-exemption and asymmetric category control
+
+The Soviet and Comintern classification supplies a historical example of why the
+symmetry rule is needed. Georgi Dimitrov's [1935 report to the Seventh Comintern
+Congress](https://www.marxists.org/reference/archive/dimitrov/works/1935/08_02.htm)
+defined fascism through the terrorist dictatorship of reactionary finance
+capital. That class-bound definition excluded communist rule by construction.
+[Michael Seidman's history of transatlantic
+anti-fascisms](https://assets.cambridge.org/97811084/17785/excerpt/9781108417785_excerpt.pdf)
+documents how postwar Soviet-bloc anti-fascism could then legitimate communist
+party monopoly and apply *fascist* to opposition, including resistance to
+communist-supported government.
+
+The literal formulation “point to Hitler alone” is too narrow: Soviet and
+Comintern usage also extended the category to other capitalist, conservative,
+social-democratic, and regime-opposition targets. The resulting structure is
+**asymmetric category control**:
+
+```text
+define Fascism by an enemy's class identity
+        ↓
+exclude the communist order from the category by construction
+        +
+retain broad power to apply “fascist” to external and internal opponents
+```
+
+Apply one morphology and progeny standard across all programs. Neither communist
+nor anti-fascist self-description defeats an evidenced Fascism classification,
+and neither official nor hostile use of *fascist* establishes one.
 
 ### 15.3 Islam
 
@@ -5112,7 +5647,7 @@ possibilities must remain distinct:
    actor-level knowledge of the whole pattern.
 
 Evidence must discriminate among them. “Program-level intention” does not by
-itself establish a multi-mind-self; the collective-agent threshold must be tested
+itself establish an operative multi-mind-self; the collective-agent threshold must be tested
 separately. Rieck's Razor requires investigation of the intentional hypothesis;
 it does not grant permission to assume malice, dispense with alternatives,
 reverse legal burdens, or name a person as a Kommandoagent without actor-specific
@@ -5124,6 +5659,12 @@ The originating rule is deliberately direct:
 
 > **Believe them! Believe what they're proclaiming.**
 
+Its valence-sensitive companion is:
+
+> **Believe serious adverse self-attribution first. Give favourable
+> self-description no exculpatory presumption. Judge the installed program by
+> its operation, offspring, consequences, and correction.**
+
 The **Self-Attribution Presumption** applies to self-reports, self-statements,
 self-descriptions, and proclamations. It requires first-pass credence when an
 authenticated record shows an actor seriously identifying a Culture Program as
@@ -5132,6 +5673,53 @@ an intended, present, or completed act. Provisionally accept the statement as
 evidence of the actor's own operative allegiance, motivation, and perceived
 authorization. Do not begin by replacing it with an outsider's more benign
 account of what the program “really” means.
+
+The **Self-Description Valence Asymmetry** distinguishes two uses of
+self-description:
+
+| Self-description | Initial treatment | Governing boundary |
+|---|---|---|
+| **Adverse self-attribution** | Presumptively believe an authenticated, serious statement in which the speaker claims a program allegiance, authorization, intention, action, equivalence, or objective that counts against the speaker under the question being investigated. | It establishes first-pass evidence about the speaker's operative understanding, not automatically the truth of every factual claim, complete parent-program causation, or guilt of other carriers. |
+| **Favourable self-description** | Record it as evidence of the advertised ideal, semantic wrapper, or professed self-understanding, but grant it no presumption that the program is benign or that harmful implementations are inauthentic. | Test it against institutions, conduct under power, offspring, consequences, correction, and treatment of dissent, refusal, and exit. |
+
+The asymmetry is evidential rather than metaphysical. A serious adverse statement
+is ordinarily against the speaker's exculpatory interest and offers situated
+access to their operative understanding; it therefore deserves first-pass
+credence. A favourable statement is ordinarily compatible with reputation
+management, idealization, apologetics, or sincere blindness; it cannot verify its
+own benevolence. Positive language may still reveal the program's promised end
+and the vocabulary through which it recruits. It simply cannot overrule what the
+program demonstrably does.
+
+The rule must therefore be routed through two distinct inference levels:
+
+1. **Actor level:** a perpetrator's authenticated, serious adverse
+   self-attribution initially establishes first-pass evidence of that actor's
+   operative understanding, allegiance, motivation, or perceived authorization.
+2. **Parent-program level:** attributing the act to the named Culture Program
+   additionally requires script fit, the speaker's interpretive or organizational
+   standing, recurrence, organizational preparation or support, and the
+   specificity, authority, cost, durability, and practical consequences of
+   internal contestation.
+
+False-flag activity, identity appropriation, coercion, infiltration, and external
+command remain possible affirmative defeaters. They must be evidenced rather
+than presumed, but when established they can block the move from actor-level
+self-attribution to parent-program causation. See the
+[Islam and terrorism application](#153-islam) and the
+[source-position discriminator](#self-description-source-position-discriminator)
+below.
+
+This yields the compact rule:
+
+    adverse self-attribution → believe first, then test
+    favourable self-description → record, but do not exculpate
+    operation + offspring + consequences + correction → judge the program
+
+“Every” in the adverse rule means every authenticated, serious candidate receives
+the presumption; it does not abolish affirmative defeaters such as satire,
+coercion, mistranslation, false-flag activity, or strategic boasting. Those
+defeaters must be established rather than invoked generically.
 
 This is an investigative and program-warning presumption, not an irrebuttable
 causal verdict, a reversal of the legal burden of proof, or permission to punish
@@ -5228,6 +5816,23 @@ parent program caused the act, that every carrier shares the interpretation, or
 that an upstream command operation exists. Those conclusions require the wider
 offspring, script, authority, mechanism, comparison, and capture record.
 
+#### Source-position discriminator: leader, community, and infiltrator {#self-description-source-position-discriminator}
+
+The Hitler-at-the-height-of-power example and an infiltrating
+***Kommandoagent*** therefore occupy opposite evidential positions. A dominant
+chief-function speaking and acting without evidenced external compulsion has
+high standing to disclose the regime's operative program. A covert operational
+agent can instead infiltrate an organization, commit an atrocity, and assign it
+to the host Culture Program as false-flag activity or identity appropriation.
+The initial presumption still requires preserving and investigating that claim;
+it does not make the attribution irrebuttable. Parent-program attribution is
+weakened when the actor lacks recognized interpretive or organizational standing,
+the act conflicts with authoritative scripts and recurrent practice, and the
+broader community responds with prompt, public, specific, authoritative, costly,
+and durable condemnation, discipline, protection of targets, corrective
+teaching, or reform. Silence, vague reputational distancing, or condemnation
+without consequences supplies much weaker counterevidence.
+
 Its earliest actionable role is therefore program-level rather than punitive:
 raise or lower the hazard estimate, identify which finance, teaching, recruitment,
 communications, logistics, authority, protection, and succession routes require
@@ -5243,8 +5848,10 @@ The originating rule distinguishing self-report from hostile attribution is:
 
 A companion formulation is:
 
-> **Believe people about what they proclaim for themselves. Do not believe them
-> merely because they assign an identity to an enemy.**
+> **Believe serious adverse claims people proclaim for themselves. Do not
+> believe them merely because they assign an identity to an enemy, and do not
+> let favourable self-description exculpate their program from its operation and
+> consequences.**
 
 The **Attribution-Source Asymmetry** distinguishes access positions:
 
@@ -5261,6 +5868,16 @@ can lie about themselves, and an opponent can classify them correctly. The point
 is that a self-description has situated access to the speaker's own operative
 understanding, whereas an enemy label does not acquire access to the target
 merely through severity or repetition.
+
+The Attribution-Source Asymmetry and Self-Description Valence Asymmetry answer
+different questions. The first asks whether the speaker is describing self or
+enemy. The second asks whether a self-description is adverse or favourable to
+the speaker. Together they yield:
+
+    adverse self-attribution → presumptive situated evidence
+    favourable self-description → no self-exculpating presumption
+    hostile enemy-attribution → allegation requiring independent support
+    independent conduct and consequences → primary classification record
 
 This is especially important for nuclear taboo vocabulary:
 
@@ -5379,7 +5996,7 @@ carrying structure.
 | A program is a Culture Strategy | Ex ante failure conditions; independent measures; actual abandonment or revision after failure | Every result reinterpreted as confirmation; benefit displaced beyond access |
 | A norm is a Culture-Embedded Strategy | Repeated practice predicts material or coordination gains through the proposed mechanism | No gain, reversed gain, or gain explained by selection, coercion, wealth, or another mechanism |
 | A program is Pure-Ideology at its centre | Load-bearing authority survives every accessible counterresult by rule | Clear authoritative defeaters and actual correction of the load-bearing claim |
-| A closed Pure-Ideology multi-mind-self faces the secession-or-force fork | Collective agency, load-bearing finality, compulsory supremacy, an incompatible rival output, severe Babelization, and an unavoidable common decision are all evidenced at the specified interface | The programme accepts reciprocal loss or bounded jurisdiction, a legitimate common adjudicator survives, no common output is required, collective-agency integration is absent, or Pure-Ideology finality is not load-bearing at the disputed interface |
+| A closed Pure-Ideology operative multi-mind-self faces the secession-or-force fork | Collective agency, load-bearing finality, compulsory supremacy, an incompatible rival output, severe Babelization, and an unavoidable common decision are all evidenced at the specified interface | The programme accepts reciprocal loss or bounded jurisdiction, a legitimate common adjudicator survives, no common output is required, collective-agency integration is absent, or Pure-Ideology finality is not load-bearing at the disputed interface |
 | A parent is capture-susceptible | Similar destructive capture recurs independently through shared program affordances | Captures depend on unrelated external conditions and disappear when those are controlled |
 | A program has fatal-offspring risk | Credible severe self-proclamation, scripted violence, legitimation, support, and cross-context reproduction; one proclamation can trigger warning while recurrence strengthens causation | Evidence that the proclamation was satire, false-flag activity, coercion, mistranslation, identity appropriation, or otherwise unrelated to the named program |
 | A specified polity or domain is under Shadow-Sovereign rule | Elections and genuine personnel turnover remain, a named strategic course survives a credible voter-authorized reversal attempt, and independent bottom-up channels converge on local enforcement, selective advancement or access, asymmetric burden or protection, performed loyalty, blocked refusal, or costly exit | The course changes after electoral authorization; constraints are public, bounded, reciprocal, reviewable, and amendable; or persistence is better explained by stable voter preference, common shocks, technical reality, transparent commitments, implementation lag, or independent convergence |
@@ -5774,7 +6391,7 @@ the causal claim.
     truth, justice, or causation by itself. Soft secession does not guarantee
     restored interoperability or reunion, and preserving their possibility does
     not authorize compelled unity.
-91. **Neither Pure-Ideology nor multi-mind-self status licenses the force
+91. **Neither Pure-Ideology nor operative multi-mind-self status licenses the force
     inference.** The typed claim additionally requires load-bearing closure,
     compulsory supremacy, an incompatible rival output, severe Babelization, and
     an unavoidable common decision. Tactical bargaining is compatible with this
@@ -5881,6 +6498,41 @@ the causal claim.
      jurisdiction. Attributing the result to the interpreter's group interest,
      capture, *Willkür*, systemic lying, or *Machtpolitik* requires further
      actor-, doctrine-, case-, beneficiary-, and correction-specific evidence.
+110. **Vocabulary migration is not operational identity.** *Whole-of-society*,
+     *whole-of-economy*, stakeholder, partnership, resilience, ESG, and
+     anti-fascist language can conceal an old alignment operation, describe one
+     bounded coordination layer, or name a materially different design. A label
+     neither acquits nor convicts. Translate the claimed role, inspect the actual
+     carrying structure and correction relations, and apply the separate
+     corporatism, *Gleichschaltung*, Fascism, and hybrid-war gates.
+111. **Public-private partnership is not constitutional evasion by proxy.**
+     Procurement, grants, philanthropy, private standard-setting, co-regulation,
+     NGO participation, commercial service delivery, and government--industry
+     contact are ordinary forms. Record a constitutional-proxy hazard only where
+     a public nexus, public or sovereign-like function, constraint delta, and
+     responsibility discontinuity converge. Attribute deliberate or knowing
+     evasion only with stronger actor- and counterfactual-specific evidence.
+     Organizational dark matter names unassigned responsibility, not a hidden
+     organization, conspirator, or state-action holding.
+112. **Prestige and supranational scale confer no institutional exemption.** WHO,
+     NATO, the UN, governments, firms, NGOs, and other bodies face the same typed
+     gates. A large installed skeleton and transnational reach warrant stronger
+     safeguards because they increase deployment capacity and possible blast
+     radius, but they do not themselves prove alignment, abuse, intent, or guilt.
+113. **Trusted-carrier alignment is not a Shadow Sovereign.** High-gain carriers
+     can block, slow, or route correction, but the political diagnosis still
+     requires a named strategic course, genuine government turnover, a credible
+     voter-authorized reversal attempt, failed operative correction, convergent
+     local course protection, and inadequate rival explanations. The carrier
+     layer can support, independently converge with, or under stronger evidence
+     constitute an effective-sovereignty position; the first two do not prove the
+     third.
+114. **An auxiliary causal account is not un-real because it is adverse or
+     politically useful.** The explaining-away cascade requires operative U0,
+     reality contact that threatens it, inadequately supported or asymmetrically
+     protected U1, authorization, blocked correction, and practical consequence.
+     Independently supported alternative causes and reciprocal model revision are
+     ordinary truth-seeking.
 
 ## 18. Open questions and research program
 
@@ -5934,9 +6586,10 @@ the causal claim.
 29. Can a costly allegiance or constitutional-compatibility test distinguish
     operative commitment from lip service without becoming compelled religious
     performance, theatrical compliance, or discriminatory jurisdiction?
-30. How should the Self-Attribution Presumption weight prospective,
-    contemporaneous, retrospective, private, public, anonymous, coerced, and
-    institutionally authorized proclamations?
+30. How should the Self-Attribution Presumption and Self-Description Valence
+    Asymmetry weight adverse and favourable, prospective, contemporaneous,
+    retrospective, private, public, anonymous, coerced, and institutionally
+    authorized proclamations?
 31. Which combinations of self-attribution, recurrence, script fit, internal
     contestation, and organizational support justify carrying-structure mapping,
     enhanced scrutiny, targeted interruption, or prohibition?
@@ -6225,6 +6878,26 @@ the causal claim.
      contribute to correction without granting impunity, rewarding evidence
      theft, imposing permanent stigma, or converting uncertainty into collective
      guilt?
+124. Which temporal and cross-domain signatures distinguish an emerging
+     polity-scale *Gleichschaltung* process from ordinary coordination,
+     institutional convergence, sincere adaptation, and a bounded emergency
+     response before the resulting morphology is complete?
+125. Which measures of voluntary entry, materially effective exit, bounded
+     jurisdiction, common-rights protection, and captive dependency reliably
+     distinguish a voluntary thick community from the attempted conversion of a
+     plural society into one compulsory community?
+126. How reliably can independent reviewers detect a common *Gleichschaltung*
+     direction from convergent carrier selection, symbolic and conformity-marker
+     use, and institutional-system change before reconstructing or attributing a
+     complete Culture Program?
+127. Which combinations of delegation, funding, official pressure, shared
+     personnel, privileged access, effective control, policy benefit, and
+     counterfactual dependence reliably distinguish independent private action
+     from a public-private constitutional-proxy hazard?
+128. Which record-ownership, reason-giving, review, appeal, remedy, audit, and
+     anti-retaliation rules keep responsibility continuous when public or
+     sovereign-like functions cross an NGO, contractor, platform, standards-body,
+     or commercial-carrier boundary?
 
 ## 19. Provenance and epistemic status
 
@@ -6235,6 +6908,66 @@ installing business and work-culture strategies across organizations. Later
 discussion separated weakly coupled but reality-answerable strategies from
 programs protected against accessible defeat, then added program competition,
 pluralist containment, fanatic offspring, capture, and catastrophic hazard.
+The user later identified Nazi ***Gleichschaltung*** as the transformation
+process that can precede the completed functional morphology of mechanical
+solidarity and insisted that its appearance is already a strong population-level
+warning. The voluntary-convent example then supplied the jurisdictional contrast
+between a voluntary thick community with effective exit and a plural society
+whose common shell cannot impose one comprehensive program while remaining
+pluralist. Historical Nazi *Gleichschaltung*, its electrotechnical word origin,
+forced and voluntary accommodation, and *Selbstgleichschaltung* are
+source-attested; the polity-scale process gate, early-warning status,
+voluntary-community/plural-society boundary, and constitutional rule that there
+is no pluralist *Gleichschaltung* are Culture Mechanics developments. Tönnies
+supplies the *Gemeinschaft--Gesellschaft* vocabulary, not this diagnostic.
+The user then clarified that the diagnostic must judge the complete installation
+rather than only trusted interpretive authorities or a previously identified
+Culture Program: flesh-and-blood carriers, symbols and conformity markers, and
+institutional-operational systems can converge upon a common direction before
+its full programme is reconstructed. The whole-installation observation matrix,
+the separation of morphological warning from program attribution, and the
+Fraenkelian system-plane bridge are project developments grounded in the
+pre-existing Systems Leadership and skeleton/living-body anatomy.
+The subsequent Loki-lens discussion supplied the originating proposal that
+*whole-of-society* and *whole-of-society approach* can be active vocabulary
+behind which the same operation as historical *Gleichschaltung* may hide, with
+*whole-of-economy*, stakeholder capitalism, public-private partnership,
+multistakeholder governance, ESG frameworks, and sustainable-finance taxonomies
+as economic-plane leads. Eric Weinstein supplies the ARC 2025 hybrid-war,
+human-terrain, Wh-o-S/B-R-o-S, BOHR, and “soft fascism” warning vocabulary.
+The supplied Malone article supplies the contemporary corporatism comparison;
+WHO, NATO, OECD, United States Army, Hoffman, and official WEF sources establish
+the independent histories and institutional uses of the relevant terms. The
+**historical-to-active vocabulary crosswalk**, its role-based table, five-level
+classification ladder, and anti-camouflage/anti-guilt-by-word rule are Culture
+Mechanics developments. They deliberately revise the originating literal
+synonym claim: current vocabulary can be a diagnostic lead or camouflage, but it
+does not establish genealogy, coordination, coercion, *Gleichschaltung*,
+Fascism, hybrid war, one operator, or culpability without the respective typed
+evidence. Bondy's retrospective Silone attribution is retained only as a
+source-qualified warning against self-exemption by name.
+The subsequent clarification supplies the **institutional-symmetry and
+scale-capacity rule**: none of those source institutions receives an evidentiary
+exemption, and an already large national or supranational skeleton increases the
+conditional severity of an evidenced hazard. The named rule, its capacity--guilt
+boundary, and its proportional-safeguard implications are Culture Mechanics
+developments.
+The follow-up added public-private partnership as a specific carrying topology,
+especially where government routes *hoheitliche Aufgaben* or sovereign-like
+burdens through NGOs or commercial carriers and the carrier can do what direct
+public action could not do, or could do only under stronger constitutional and
+procedural duties. **Public-private constitutional-proxy hazard** formalizes the
+observable function--nexus--constraint-delta--responsibility-gap configuration;
+**constitutional evasion by proxy** is the stronger actor-specific attribution.
+The Basic Law, the Federal Constitutional Court's *Fraport* judgment, and the
+German *Flucht ins Privatrecht* boundary supply the legal source bridge while
+leaving independent-private-actor attribution jurisdiction-specific. Venkatesh
+Rao supplies **organizational dark matter** as unaccounted organizational blame
+in *The Gervais Principle V* and the separate **Powertalk** account in Part II.
+The extension of dark matter across a public-principal/private-carrier chain, the
+six-part proxy audit, its crosswalk role, and the separation between observable
+hazard, deliberate evasion, and legal state-action attribution are Culture
+Mechanics developments.
 The originating claim that ordinary cultural outputs are side effects of people
 investing their lives in admiration of a cultural core object preceded its name.
 During development of the affective-return candidate, **mythic radiance** was
@@ -6267,6 +7000,14 @@ The Self-Attribution Presumption formalizes that rule as first-pass credence and
 immediate program-level warning, followed by rather than hidden beneath causal
 qualification. These remain proposed Culture Mechanics constructs and methods
 rather than validated forensic instruments.
+The user further distinguished adverse from favourable self-description.
+**Self-Description Valence Asymmetry** formalizes the resulting rule: an
+authenticated, serious adverse self-attribution receives first-pass credence,
+whereas favourable self-description receives no exculpatory presumption against
+installed operation, offspring, consequences, and failed correction. Positive
+language remains evidence of the advertised ideal or semantic wrapper, not proof
+that the program is benign. The construct does not remove affirmative defeaters
+or convert program-level warning into person-level guilt.
 The user then distinguished self-description from hostile third-party
 attribution: an opponent's use of “Nazi” or another nuclear taboo label may be a
 projective attack rather than evidence about the target. The
@@ -6536,8 +7277,26 @@ During the later discussion of Žižek's Night passage, the assistant proposed
 undermine its own correction conditions; the user selected the term and requested
 its theory-wide integration. Appendix A applies that generic mechanism to the
 critical-constructivist umbrella only as a candidate hypothesis under reciprocal
-tests, not as a definition or conclusion licensed by affiliation. The user then
-identified the mechanism as especially relevant to the originating
+tests, not as a definition or conclusion licensed by affiliation. The later
+**un-reality** extension, owned by *Epistemic Constitution*, distinguishes that
+mechanism from the state in which an authorized representation retains operative
+reality-status despite failed correction and from the full systemic-lying pole;
+Appendix A imports rather than redefines those terms. The user's later
+non-acknowledging bad-actor and surrounding-field variant supplied the problem of
+a publicly sustained correction treated as though never received. *Epistemic
+Constitution* owns the resulting **correction-nullification** mechanism,
+**defeated-but-operative un-reality** state, and **bounded de-authorization**
+response boundary; this document applies them to recurrent organized un-reality,
+the response ladder, and the pre-fork jurisdiction test. The user then separated
+the one-level-earlier semantic block from the one-level-later operative block,
+identified aligned trusted carriers as a gain-weighted correction lock, and
+proposed the recursive case in which a new adverse un-reality explains away the
+reality contact threatening an older one. *Epistemic Constitution* owns the
+resulting **auxiliary-un-reality explaining-away cascade** and counterfeit-
+Bayesian contrast; *Epistemic Agency* owns the **trusted-carrier correction
+lock**; this appendix applies both to the stock--flow account of systemic lying
+and the separately gated Shadow-Sovereign diagnostic. The user then
+identified un-reason as especially relevant to the originating
 *queer ideology / woke = postmodernism = critical constructivism* picture and
 requested the sharper formulation **reason's immanent self-negation**. The
 assistant initially described *queer ideology* as bounded application shorthand;
@@ -6571,13 +7330,13 @@ definition preserves that correction. Michael Esfeld supplies the externally
 verified reason--power bridge, not the project-specific fork, strict
 *Machtpolitik* type, or secession design.
 The user subsequently clarified that the legacy negotiation claim concerned a
-**Pure-Ideology Culture Program multi-mind-self**, not collective agency in
+**Pure-Ideology Culture Program operative multi-mind-self**, not collective agency in
 general: where the programme is closed at its load-bearing centre, claims
 compulsory supremacy, encounters an incompatible binding output under severe
 Babelization, and cannot avoid one common decision, it must accept jurisdictional
 separation or impose an answer. The present typed formulation preserves that
 meaning while distinguishing tactical negotiation from reciprocal adjudication
-and while keeping Pure-Ideology, multi-mind-self status, closure, and compulsory
+and while keeping Pure-Ideology, operative multi-mind-self status, closure, and compulsory
 supremacy analytically separate. The user also supplied the Peace of Westphalia,
 which ended the Thirty Years' War in 1648, as a historical reference and marker
 of the cultural achievement of negotiated coexistence. The project-developed
@@ -6613,7 +7372,7 @@ organized faction, punished independent judgment, instrumental contempt, and
 national infallibility. These remain source-attested warning patterns rather
 than new *Machtpolitik* components. The same audit declined to equate Le Bon's
 crowd contradiction with doublethink or to infer rejection of negotiation and
-reciprocal law from multi-mind-self status alone. The assistant recovered the
+reciprocal law from operative multi-mind-self status alone. The assistant recovered the
 relevant corpus conversations, verified the
 passages against the linked French text, and initially formalized a mutually
 enabling but non-entailing relation between *Machtpolitik* and systemic lying.
@@ -6864,13 +7623,63 @@ power-seeking objective
 Every component is required for classification in this project. Systemic lying
 is therefore a **necessary constituent**, not necessarily an earlier event in
 time; the components may arise together and reinforce one another. Systemic lying
-alone is not sufficient. Openly and accurately avowed domination without the
+at its ideal-typical limit recurrently produces **organized
+un-reality**—authorized representations continue to govern despite failed
+independent correction. Un-reality is the state/output, not an additional
+*Machtpolitik* component, and a local un-real representation does not establish
+the systemic-lying core. Systemic lying alone is not sufficient. Openly and
+accurately avowed domination without the
 systemic-lying core is classified as **open authoritarianism** or **naked
 domination**, not *Machtpolitik*. ***Willkürherrschaft*** names the developed
 institutional condition toward which successful *Machtpolitik* may move. Neither
 term adds a third orientation to the constitutional classifier in [*Epistemic
 Constitution of Lifted Mechanical
 Solidarity*](0030-epistemic-constitution.semantic-definition.md#constitutional-classification-orientations-and-their-poles).
+
+The relation is generative and temporal. The systemic-lying constitution is the
+meta-order that can produce a recurrent **flow** of un-real representations;
+organized un-reality is the installed **stock** of classifications, procedures,
+records, offices, incentives, and allocations fitted around them. [**Correction
+nullification**](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia)
+is one possible retention mechanism after public contradiction. Silence and
+non-reception can preserve an old account, but a systemic-lying order can also
+answer reality contact by generating a new defensive causal account. [*Epistemic
+Constitution* calls this an **auxiliary-un-reality explaining-away
+cascade**](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-reality-explaining-away-cascade):
+
+```text
+operative un-real representation U0 collides with reality
+→ failure, harm, contradiction, or exposed falsehood threatens U0
+→ a new adverse auxiliary un-real representation U1 attributes the collision
+  to resistance, sabotage, bias, pathology, disloyalty, or another selected cause
+→ trusted carriers authorize, translate, and distribute U1
+→ U1 explains the correction away; correction nullification protects operation
+→ U0 remains operative while U1 gains classifications and consequences
+→ later collisions generate possible U2, U3, and further auxiliaries
+→ accumulated organized un-reality: U0 + U1 + U2 + …
+```
+
+This gives the stock--flow relation a recursive form. Systemic lying need not
+merely preserve an old lie by silence; it can recurrently manufacture auxiliary
+un-real causal accounts whenever installed representations collide with reality.
+Organized un-reality is the accumulating stock those accounts leave in rules,
+records, classifications, offices, incentives, and remembered precedent.
+
+> **Reality produces a correction; the systemic-lying order answers by producing
+> a new adverse un-reality that explains the correction away.**
+
+The mechanism is **counterfeit Bayesian updating** only when authorization or
+programme utility substitutes for independent causal evidence and reciprocal
+testing. A supported alternative cause can legitimately explain an outcome and
+reduce confidence in a competing explanation. Nor is this merely procession
+inertia when carriers actively preserve the old classification. Every unanswered
+challenge, adverse attribution, post-hoc explanation, or institutional consensus
+therefore fails to establish the sequence. Truth, materiality, independent
+testing, receiving duty, reasonable response time, retained operative authority,
+recurrence, and the relation among carriers must be shown. A field can produce
+convergent non-reception through coordination, common incentives, selection,
+dependency, sincere commitment, role segmentation, or emergence; calling it a
+culpable “choir” requires the corresponding attribution evidence.
 
 #### Benda's morality--politics bridge {#bendas-morality-politics-bridge}
 
@@ -6920,10 +7729,10 @@ as a historical neighbour, but it is not evidence of Orwellian
 [**doublethink**](0030-epistemic-constitution.semantic-definition.md#doublethink-as-a-narrower-contradiction-tolerance-mechanism).
 Collective inconsistency, individual compartmentalization, authority-governed
 switching, and strategic lying remain distinct. Nor does a
-[**multi-mind-self**](0020-epistemic-agency.semantic-definition.md#threshold-and-boundary-conditions)
+[**operative multi-mind-self**](0020-epistemic-agency.semantic-definition.md#threshold-and-boundary-conditions)
 necessarily reject negotiation, contract, reciprocal law, or interest exchange.
 The relevant candidate pattern is the typed
-[**Pure-Ideology multi-mind-self at the severe-Babelization
+[**Pure-Ideology operative multi-mind-self at the severe-Babelization
 fork**](#pure-ideology-multi-mind-self-at-the-fork): load-bearing finality,
 collective integration, closure, compulsory supremacy, an incompatible binding
 output, failed common adjudication, and an unavoidable common decision must all
@@ -6933,10 +7742,11 @@ compulsory claim. This is not a property of collective agency as such.
 
 Benda's ***clerc*** names an intellectual-vocation role in this conversion and
 is retained as his source expression. Culture Mechanics relates that role to,
-but does not rename it as, the [**trusted opinion
-leader**](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leaders-cascades-and-cultivated-authority).
-A *clerc* functions as a trusted opinion leader where a specified receiving
-field recurrently refers judgment, interpretation, or validation to that person.
+but does not rename it as, the [**trusted-opinion-leader
+function**](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leader-function-cascades-and-cultivated-authority).
+A *clerc* carries that function, and is a trusted opinion leader in its human
+person-in-role sense, where a specified receiving field recurrently refers
+judgment, interpretation, or validation to that person.
 The overlap gives intellectual or moral authorization privileged routing,
 translation, cascade, and field-organizing force.
 
@@ -6962,7 +7772,7 @@ systemic-lying core:
 ```text
 acquisition, retention, expansion, or discretionary exercise of power
 → politically useful representation selected
-→ clerc, often in a trusted-opinion-leader position,
+→ clerc, often carrying the trusted-opinion-leader function,
   supplies moral and epistemic authorization
 → trusted channels translate and cascade the authorization
 → useful error becomes virtuous
@@ -7191,10 +8001,11 @@ the same losses
 
 The quotation marks matter. The carrier need not have a stable *stupid*
 phenotype, and the proposed mechanism is not “stupid people act on their own.”
-An otherwise intelligent person can become a repeater, enforcer, or rationalizer
-when a socially protected Culture Program recruits cognition downstream of the
-local bigOther. Conversely, an observed self-defeating action does not establish
-that somebody else designed or benefits from it.
+An otherwise intelligent person can become a high-gain carrier of the
+trusted-opinion-leader function, an enforcer, or a rationalizer when a socially
+protected Culture Program recruits cognition downstream of the local bigOther.
+Conversely, an observed self-defeating action does not establish that somebody
+else designed or benefits from it.
 
 For the strict *Machtpolitik* category, this becomes a required
 **bandit–carrier payoff asymmetry**. At least one identifiable beneficiary or
@@ -7234,7 +8045,8 @@ programming. Relevant capabilities may include:
 - generating different mythology-bearing narratives for different recipients;
 - testing messages continuously against behavioural and affective responses;
 - synthesizing apparently trusted authorities, peers, or social proof;
-- finding, ranking, and activating effective repeaters;
+- finding, ranking, and activating high-gain carriers of the
+  trusted-opinion-leader function;
 - adapting exoteric and esoteric messages across audiences;
 - flooding attention or suppressing the visibility of rival signals; and
 - joining communication, identity, administration, finance, measurement, and
@@ -7307,7 +8119,7 @@ Across the existing dimensions, the Benda bridge adds a carrier question rather
 than a thirteenth score: **who can convert factional usefulness into apparently
 universal moral and epistemic authority, through which institutions, and with
 what surviving right of correction?** The answer should test whether a *clerc*
-also occupies a trusted-opinion-leader position and which downstream trusted
+also carries the trusted-opinion-leader function and which downstream trusted
 channels carry the authorization. It may implicate intellectuals, official
 experts, journalists, clergy, artists, educators, administrators, or other
 trusted interpreters, but occupational membership alone is not evidence of
@@ -7392,6 +8204,68 @@ correction. The third type must be evidenced across time and through sufficientl
 independent channels to discriminate a governing pattern from an isolated
 appointment, controversy, sanction, or administrative error. The indicators are
 not summed into a danger score.
+
+##### Trusted-carrier lock as one possible course-protection morphology
+
+The receiving-field mechanisms developed elsewhere can help explain how a
+strategic course becomes resistant to correction without making them part of the
+definition of Shadow-Sovereign rule:
+
+| Level | Construct | What it describes |
+|---|---|---|
+| **Semantic** | [Un-reason](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason) | Why counterevidence cannot count as a correction. |
+| **Receiving/operational** | [Correction nullification](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia) | Why an available correction changes nothing. |
+| **Morphological** | [Trusted-carrier correction lock](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock) | How high-gain distributed receiving-field positions absorb, reroute, or block correction. |
+| **Political/sovereignty** | **Shadow-Sovereign rule** | The condition in which a strategically binding course survives a genuine democratic attempt at reversal. |
+
+```text
+SHADOW-SOVEREIGN / EFFECTIVE COURSE-SETTING POSITION
+                         ↕
+         TRUSTED-OPINION-LEADER FUNCTIONS
+media · experts · officials · professions · gatekeepers
+                         ↕
+          LOCAL INSTITUTIONS AND POPULATION
+                         ↑
+      criticism · elections · defections · disclosures
+                         ╳
+              correction nullification
+```
+
+The carrier layer is not automatically the Shadow Sovereign. It may carry and
+legitimate a course, shield an effective-sovereignty position, enforce the course
+locally, converge independently through common evidence, formation, incentives,
+or constraints, or—under a much stronger causal showing—collectively constitute
+a distributed effective-sovereignty position. That last attribution requires
+evidence; it does not follow from agreement, high gain, common professional
+background, correction failure, or the diagram.
+
+Correction nullification becomes evidence for Shadow-Sovereign rule only within
+the stronger political conjunction:
+
+```text
+named strategically binding course
++ genuine turnover of visible government
++ credible voter-authorized reversal attempt
++ failed operative correction
++ convergent course protection through local institutions and gatekeepers
++ rival explanations insufficient
+→ candidate Shadow-Sovereign rule
+```
+
+The clean relation is:
+
+> **Correction nullification is a possible mechanism. Trusted-carrier correction
+> lock is its gain-weighted morphological implementation. Shadow-Sovereign rule
+> is the polity- or domain-level condition that may result when this machinery
+> protects a strategic course against democratic correction.**
+
+Breaking apparent consensus is not enough. Correction must also break or bypass
+the trusted-carrier lock through which the old course continues to receive
+credibility, routing, and operative force. This can include carrier defection that
+retains field authority, changed validation rules, reassigned trust, parallel
+routes, independent adjudication, or lawful bounded de-authorization. None is
+automatically necessary or sufficient, and person-directed coercion retains the
+separate authority, necessity, due-process, appeal, stop-rule, and repair gates.
 
 The diagnostic unit must state:
 
@@ -8080,6 +8954,7 @@ defined in this document. It does not replace their primary definitions:
 | Systemic-lying core required by *Machtpolitik* | [Truth-preserving culture](0030-epistemic-constitution.semantic-definition.md#truth-preserving-culture-as-a-roadblock-to-machtpolitik): protected harmful truth, rejection of useful error, reciprocal standards, independent evidence and observers, durable records, public dissent, and correction |
 | Fraenkelian dual-state override: legal normality remains while politically classified targets lose legal guarantees | Predeclared and reviewable emergency triggers, bounded jurisdiction and means, recorded reasons, independent courts, appeal, expiry, succession, equal standing, and repair; no authority may make its own political classification unreviewable |
 | Reality and interpretation captured by one authority | [Anti-gnostic adaptive constitutional search](#anti-gnostic-adaptive-constitutional-search), independent sensors, audit, public argument, and correction |
+| A publicly sustained correction becomes a dead letter because reception, answer, adjudication, or uptake is blocked | Durable record, assigned response custody, reason-giving deadlines, independent adjudication, automatic correction triggers, and—where lawfully authorized—bounded de-authorization of the defeated representation or specified carrier-function |
 | Doctrine-generation authorization converges into surrogate sovereignty or selective *Willkür* | The [institutional-realization gate](#institutional-realization-and-the-willkur-gate): prospective reciprocal rules, effective function separation, affected-person standing, bounded experimental authorization, independent appeal, prediction exposure, completion, rollback, compensation, repair, and renewed authorization before scaling |
 | Shadow-Sovereign course lock or hidden-principal displacement survives ordinary electoral succession | [Near-term living public-trust guardrails](#near-term-living-public-trust-guardrails): a universal party-member covenant, open-ended retrospective public account, distributed witnesses and protected challenge, and a rapid popular no-confidence vote whose automatic constitutional clock cannot be delayed beyond political relevance; the optional [*Scherbengericht* variant](#scherbengericht-variant) adds a ten-year country ban without confiscation but remains subject to the separate person-directed-coercion and rights-compatibility gate |
 | One institutional control plane | Separation of functions, bounded jurisdictions, and the [capture-resistant jurisdictional topology](#capture-resistant-jurisdictional-topology) |
@@ -8124,6 +8999,8 @@ the evidence:
 |---|---|---|
 | **Plausible severe scenario** | Low-regret constitutional architecture, diversified dependencies, exercises, and predeclared review and recovery routes | Attribution of the scenario to a person or program |
 | **Credible early warning** | Evidence preservation, transparent preliminary capability and carrying-structure mapping, independent monitoring, and protection of possible victims or internal critics | Punishment by label, collective guilt, or broad infrastructure interruption |
+| **Established correction nullification at a specified interface** | Preserve the correction and record; assign an answerable receiver; require a reasoned response or independent adjudication; apply predeclared automatic defeat conditions; where authorized, suspend or reassign only the implicated decision, classification, or enforcement power pending review | Compelled confession, belief change, collective punishment, extra-legal removal, indefinite suspension, or withdrawal of unrelated rights, offices, and jurisdictions |
+| **Established trusted-carrier correction lock** | Protect functional carrier defection; require disclosed and reciprocal validation rules; diversify trusted routes; preserve independent publication, records, appeal, and adjudication; permit trust reassignment; where authorized, boundedly de-authorize only the implicated carrier-function | Treating ordinary dissent counts as decisive, coercing avowal, declaring every aligned carrier culpable, or inferring one controller, systemic lying, or Shadow-Sovereign rule |
 | **Evidence of a causal nexus** | Targeted, proportionate, time-bounded, reviewable intervention against the enabling node, flow, or function | Automatic intervention against associated persons or peaceful branches |
 | **Person-directed coercion** | Only action supported by specific conduct evidence, lawful authority, necessity, due process, appeal, stop rules, and repair after error | Suspension of the *Schutzbalken* because the alleged danger is culturally powerful |
 
@@ -8155,6 +9032,22 @@ The diagnostic and response ladder are governed by these boundaries:
   mechanisms rather than necessary components or synonyms;
 - openly avowed domination without systemic lying is open authoritarianism or
   naked domination rather than *Machtpolitik* in this project's strict usage;
+- correction nullification requires more than disagreement, delay, or an
+  unanswered allegation: independently sustained correction, a specified
+  receiving duty and material decision interface, unreasonable failed uptake,
+  and retained operative authority must be shown;
+- a trusted-carrier correction lock requires a gain-weighted receiving-field
+  account, not merely many dissenters facing many institutional authorities;
+  ordinary consensus, common training, institutional lag, or convergent evidence
+  proves neither the lock nor a Shadow Sovereign;
+- an auxiliary-un-reality explaining-away cascade requires more than an adverse
+  or post-hoc causal explanation: show operative U0, threatening reality contact,
+  inadequately supported or asymmetrically protected U1, authorization, blocked
+  correction, and practical consequence;
+- bounded de-authorization targets only the evidenced representation,
+  carrier-function, decision power, or enforcement route through authorized,
+  proportionate, reviewable procedure; it is not conversion, collective guilt,
+  cultural reprogramming, civil annihilation, or a licence to bypass due process;
 - Benda's *clerc* is not a synonym for trusted opinion leader: the former is a
   source-attested intellectual-vocation role, the latter a project-developed
   functional position in a receiving field, and their overlap establishes
@@ -8448,6 +9341,36 @@ Misesian territorial self-determination
 → project translation: separate jurisdiction without necessarily separating territory
 → soft secession by changing legal priority rather than physical borders
 
+publicly speakable and independently sustained correction
++ withheld reception, answer, adjudication, or uptake
+→ correction nullification
+→ defeated representation remains operative
+
+ordinary dissent increases
++ high-gain trusted carriers remain aligned
+→ correction lacks distributed credibility, routing, and operative force
+→ candidate trusted-carrier correction lock
+≠ the lock alone establishes falsehood, coordination, or Shadow-Sovereign rule
+
+operative un-real representation U0 + threatening reality contact
++ inadequately supported or asymmetrically protected authorized U1
+→ U1 explains the correction away and protects U0
+→ possible correction nullification
+→ recurrent U1 + U2 + U3 flows accumulate as organized un-reality
+≠ independently evidenced alternative causal revision
+
+named strategic course + genuine government turnover
++ credible voter-authorized reversal + failed operative correction
++ convergent local course protection + inadequate rivals
+→ candidate Shadow-Sovereign rule
+≠ trusted-carrier correction lock alone
+
+independent adjudication or another shared correction route
++ specified lawful and proportionate authority
+→ bounded de-authorization of the representation or carrier-function
+→ actor acknowledgment is unnecessary
+→ severe-Babelization fork not yet established
+
 severe Babelization at an unavoidable binding decision interface
 + no mutually legitimate common adjudication
 → secession or force
@@ -8563,7 +9486,7 @@ ideological-power capability
 
 Benda morality--politics bridge
 → political usefulness becomes moral and epistemic authorization
-→ clerc can occupy trusted-opinion-leader position
+→ clerc can carry trusted-opinion-leader function
 → trusted routing, translation, and cascade increase authorization reach
 → useful error honoured + harmful truth shamed
 → systemic-lying core and double standards

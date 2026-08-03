@@ -798,6 +798,17 @@ institutional mechanism that sophistry, burden reversal, immunization, framing,
 or dialogue corruption may help implement. One fallacy, contested definition, or
 linguistic trick does not establish it.
 
+The same local operations can supply the wording of an
+[**auxiliary-un-reality explaining-away
+cascade**](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-reality-explaining-away-cascade).
+Selective framing can choose U1; psychologizing Bulverism can disqualify the
+observer; burden reversal can protect U1 from testing; scapegoating, accusation in
+a mirror, or moral inversion can assign adverse agency; and script-forming threat
+preactivation can make U1 immediately recognizable. These are possible
+linguistic components, not a new LT entry and not proof of the wider cascade.
+Legitimate alternative causal explanation remains outside the diagnosis when it
+is independently supported, reciprocally tested, and permitted to lose.
+
 The inventory also keeps Orwell's two neighbouring mechanisms distinct.
 [**Newspeak-style vocabulary
 restriction**](#lt-042--newspeak-style-vocabulary-restriction) changes the
@@ -829,6 +840,9 @@ The corresponding positive virtues are:
 14. When a center–periphery reversal is proposed, disclose the selection and
     standing rule, preserve justified functions, and subject the successor center
     to the same evidential, jurisdictional, and person-protecting constraints.
+15. When a new causal account explains adverse evidence away, require independent
+    support, reciprocal testing, predictive exposure, and a declared condition
+    under which that account would lose.
 
 The inventory's function is thus constitutional and formative: it helps individuals recognize and resist small acts of public untruthfulness, while their repeated resistance changes the public norm that subsequently forms other individuals.
 

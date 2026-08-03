@@ -64,6 +64,20 @@ reasoning epistemic authority. It explains how intellectual sophistication can
 strengthen rather than repair a self-sealing order. Un-reason is a mechanism, not
 a third constitutional orientation.
 
+**Un-reality** names a related cross-scale state or output: an authorized
+representation retains operative public reality-status and continues to classify
+facts, direct decisions, and allocate burdens, resources, permissions, status, or
+jurisdiction, while independent evidence and consequence can no longer reliably
+reduce its authority or revise its use. It is not a third orientation either.
+Un-reason can help produce or maintain un-reality; a systemic-lying constitution
+is the larger meta-order that recurrently produces **organized un-reality**.
+After disclosure, an acknowledged false account can remain operative through
+**procession inertia**, while an independently defeated but unacknowledged
+account can persist through **correction nullification**: the correction is
+speakable but treated as though never received. **Bounded de-authorization** is
+the corresponding person-preserving response that withdraws specified operative
+authority without requiring conversion or whole-person defeat.
+
 The wider ecology of Culture Programs, including pluralistic classical liberalism
 as a proposed lifted Culture Strategy that contains incompatible first-order
 programs, is defined in
@@ -112,7 +126,7 @@ An epistemic constitution is therefore not a catalogue of officially correct pro
 
 > who may say what, through which channels, under which burdens, with which social consequences, subject to which tests, and with what possibility of correction.
 
-This usage has a close contemporary neighbour in **Jonathan Rauch's** [*The Constitution of Knowledge*](https://www.brookings.edu/books/the-constitution-of-knowledge/), which describes a liberal social system for turning disagreement into knowledge. The present term is broader and not identical. It treats *epistemic constitution* as a neutral genus that can name truth-seeking and systemic-lying orders alike, and it connects that genus to Durkheimian solidarity, cultural formation, public sincerity, distributed enforcement, and the possibility of an entire society becoming organized around an authorized unreality.
+This usage has a close contemporary neighbour in **Jonathan Rauch's** [*The Constitution of Knowledge*](https://www.brookings.edu/books/the-constitution-of-knowledge/), which describes a liberal social system for turning disagreement into knowledge. The present term is broader and not identical. It treats *epistemic constitution* as a neutral genus that can name truth-seeking and systemic-lying orders alike, and it connects that genus to Durkheimian solidarity, cultural formation, public sincerity, distributed enforcement, and the possibility of an entire society becoming organized around authorized un-reality.
 
 ### 2. Semantic anatomy
 
@@ -1022,6 +1036,347 @@ It should still be diagnosed by domain and period, however—not turned into the
 claim that the entire person is permanently unreachable. Babelization requires
 the further scale and threshold evidence specified in its primary semantic home.
 
+#### Un-reality: operative reality-status insulated from reality {#un-reality-operative-reality-status-insulated-from-reality}
+
+**un-reality** *noun*
+**un-real** *adjective*
+**Status:** proposed cross-scale epistemic state and project term
+
+**Un-reality** is a socially operative epistemic condition in which an authorized
+representation continues to function publicly as reality—classifying what counts
+as fact, directing decisions, and allocating status, guilt, burdens,
+resources, permissions, sanctions, or jurisdiction—while independent observation,
+prediction, consequence, and dissent can no longer reliably reduce its authority
+or revise its practical use.
+
+An **un-real representation** need not be believed privately by every participant
+and need not be false in every component. Its defining feature is the fitted
+relation among authorization, practical jurisdiction, participation pressure, and
+blocked correction. A claim that happens to be true can be held un-really when it
+has been made institutionally incapable of losing. A false claim can remain
+outside un-reality when it is openly testable and correction changes what the
+relevant people and institutions do.
+
+The hyphen marks a project-specific extension of the
+[**indefinite-judgment pattern**](#un-reason-reasoning-that-defeats-the-conditions-of-reason)
+used to construct *un-reason*. The extension is one level displaced. Reasoning
+itself remains active in un-reason; mind-independent reality is never transformed
+or negated by un-reality. What persists in internally inverted form is the
+representation's **socially authorized reality-function**:
+
+```text
+reality-anchored order
+independent events and consequences
+        → can correct the authorized representation
+        → correction changes confidence, use, action, or rule
+
+un-reality
+authorized representation
+        → controls how events and consequences may be interpreted
+        → retains operative authority through failed correction
+```
+
+The project therefore does **not** create *not-reality* as one technical bucket.
+Nonexistent objects, fiction, declared simulations, mistaken reports, false
+propositions, and incomplete models have different logical and social statuses.
+None establishes un-reality without operative reality-status and a failed
+correction relation.
+
+The relation to neighbouring constructs is typed:
+
+| Relation | Boundary |
+|---|---|
+| **Un-reason → possible un-reality mechanism** | Intelligence can supply distinctions, exceptions, revised burdens, and criticism-as-confirmation through which an authorized account survives contact with consequences. Un-reason is neither necessary nor sufficient: coercion, omission, ritual assent, memory control, synchronized incentives, or simple institutional inertia can also preserve un-reality. |
+| **Un-real representation → un-reality** | One representation can govern one office, policy, discipline, or domain un-really without constituting an entire social meta-order. Specify representation, domain, institution, population interface, and period. |
+| **Organized un-reality** | Multiple human, linguistic, symbolic, incentive, record, and institutional channels are fitted to reproduce un-real reality-status and defeat correction. Organization can be deliberate, emergent, or mixed; the term does not identify a designer. |
+| **Systemic-lying epistemic constitution → organized un-reality** | The systemic-lying pole is the full constitutional meta-order that recurrently produces and protects organized un-reality. Local or domain-specific un-reality does not establish that full ideal type. |
+| **Un-reality ↛ conscious universal deception** | Some participants may knowingly lie, others may sincerely believe, doubt themselves, conform, compartmentalize, or follow role incentives. No inference to one conspiracy, motive, pathology, or population guilt follows. |
+| **Un-reality ↛ Babelization** | A domain can be un-real while external observers, rival institutions, shared language, and common adjudication survive. Babelization requires the separate intergroup and anti-Babel threshold. |
+
+The originating expressive compression is retained because it makes the relation
+between compulsory public participation and recruited intelligence memorable:
+
+> **A lie becomes un-real when everyone must inhabit it, and un-reason begins
+> when intelligence is recruited to explain why the visible contradiction cannot
+> count.**
+
+Here **lie** uses the broad systemic-lying register rather than asserting that
+every sentence is false or every carrier knowingly deceives. **Everyone must
+inhabit it** means that persons within the relevant jurisdiction or participation
+surface must orient consequential public conduct as though the representation
+were authoritative; it does not require literal unanimity, private belief, or
+total social reach. **Visible contradiction** includes any independently
+inspectable evidence, failed prediction, adverse consequence, or rival account
+that should be capable of changing practice; it is not limited to naked-eye
+perception.
+
+The corresponding strict formula is:
+
+> **An authorized representation becomes un-real when relevant participants must
+> orient consequential conduct as though it were reality while independent
+> correction cannot change its authority or use. Un-reason operates when
+> intelligence is recruited to explain why the counterevidence cannot count.**
+
+Diagnosis therefore asks not merely whether a contradiction can be spoken, but
+whether disclosure can change confidence, classification, action, resource
+allocation, jurisdiction, remedy, personnel, or the governing rule. Public
+admission without operative revision can leave the procession running.
+
+##### Post-disclosure un-reality: correction nullification and procession inertia {#post-disclosure-un-reality-correction-nullification-and-procession-inertia}
+
+**post-disclosure un-reality** *noun phrase*
+
+**defeated-but-operative un-reality** *noun phrase*
+
+**correction nullification** *noun phrase*
+
+**Status:** proposed state and mechanism distinctions
+
+**Post-disclosure un-reality** is the phase in which a material contradiction
+has become publicly speakable and inspectable while the challenged
+representation retains operative reality-status. Disclosure alone does not show
+that the correction is true or decisive. **Defeated-but-operative un-reality**
+is the stronger case in which the correction has survived the relevant
+independent tests and defeated the representation epistemically, but has not
+displaced its classifications, commands, allocations, procedures, or other
+practical jurisdiction.
+
+Two branches must be separated:
+
+```text
+TRUTH BECOMES PUBLICLY SPEAKABLE AND SURVIVES INDEPENDENT TEST
+                              │
+                              ▼
+               DEFEATED-BUT-OPERATIVE UN-REALITY
+                              │
+             ┌────────────────┴────────────────┐
+             ▼                                 ▼
+authority acknowledges                 authority withholds
+the correction                         acknowledgment and acts
+but operation continues                as though it was never received
+             │                                 │
+             ▼                                 ▼
+ACKNOWLEDGED UN-REALITY                 CORRECTION NULLIFICATION
+             │                                 │
+             ▼                                 ▼
+PROCESSION INERTIA                      UNACKNOWLEDGED CONTINUATION
+```
+
+In **acknowledged un-reality**, the relevant authority concedes or otherwise
+accepts the correction while the defeated representation remains practically
+operative. **Procession inertia** names the persistence of the associated conduct
+through roles, procedures, dependencies, sunk commitments, face-saving, absent
+stop rules, or other organizational momentum. The emperor's inward recognition
+in [Andersen's tale](0050-culture-mechanics-analogies.semantic-inventory.md#the-emperors-new-clothes-un-reality-and-procession-inertia)
+belongs to this branch.
+
+**Correction nullification** names the other mechanism: a correction can be
+uttered, preserved, and even widely known, yet the relevant actor or receiving
+system withholds reception, answerability, adjudication, or uptake and continues
+as though the correction had never entered the institutional control loop. The
+mechanism may involve deliberate stonewalling, agenda exclusion, non-recording,
+delay, repetition of the prior script, distributed non-response, or an emergent
+failure of responsibility. The term itself does not establish which mechanism,
+one bad actor, coordinated intent, or a complete systemic-lying constitution.
+
+The correction interface is therefore a chain rather than one speech event:
+
+```text
+SPEAK
+  → RECORD
+  → RECEIVE
+  → ANSWER
+  → ADJUDICATE
+  → CHANGE OPERATION
+  → REPAIR
+```
+
+A failure after *Speak* can turn a protected liberty into a **dead-letter
+correction**: the message exists but possesses no institutional receiver capable
+of making it consequential. *Record* protects against retrospective erasure;
+*Receive* assigns custody; *Answer* makes an authority state its judgment and
+reasons; *Adjudicate* prevents that authority from being its own final judge;
+*Change operation* transmits the result into relevant classifications, action,
+resources, jurisdiction, personnel, or rule; and *Repair* addresses reversible
+past consequences. These stages are diagnostic distinctions, not a demand that
+every true statement compel every listed outcome.
+
+The difference among the maintaining mechanisms is compact:
+
+> **Un-reason neutralizes what the correction means. Correction nullification
+> neutralizes what the correction can do.**
+
+The common staged relation is:
+
+```text
+COUNTEREVIDENCE
+      │
+      ▼
+epistemic recognition
+      │
+      ├─ blocked by un-reason
+      │     → “this contradiction cannot count”
+      │     → no authoritative correction is formed
+      │
+      ▼
+publicly sustained correction
+      │
+      ▼
+institutional reception and uptake
+      │
+      ├─ blocked by correction nullification
+      │     → “act as though this was never received”
+      │
+      ▼
+operative revision and repair
+```
+
+Counterevidence becomes a **publicly sustained correction** only after the
+relevant independent tests have preserved it; public repetition alone is not
+enough. Un-reason can protect an operation one level earlier by preventing
+counterevidence from acquiring the status of a valid correction. Correction
+nullification can protect it one level later by preventing an already available
+correction from changing operation. This is a common sequence, not an invariant
+temporal law. If un-reason succeeds completely, there may be no recognized
+correction left to nullify; correction nullification can also operate through
+silence, custody failure, incentives, or authority without an elaborate
+inferential defence.
+
+> **Un-reason prevents counterevidence from becoming a correction; correction
+> nullification prevents a correction from becoming a consequence.**
+
+In the deliberately maintained bad-actor variant:
+
+> **The actor does not need to defeat the truth intellectually if the
+> surrounding machinery can deprive it of consequences.**
+
+> **The lie no longer governs belief; it still governs conduct.**
+
+Where a field of trusted or authoritative carriers continues the old
+classification while withholding uptake, the receiving-side failure can be
+distributed. One speaker's non-acknowledgment then receives reinforcement from
+the surrounding field, and the public correction lacks an organ through which it
+can become action. This is compatible with the
+[trusted-opinion-leader receiving-field function](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leader-function-cascades-and-cultivated-authority),
+including its possible [**trusted-carrier correction
+lock**](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock),
+but neither field coherence nor disagreement proves a culpable choir.
+
+##### Auxiliary-un-reality explaining-away cascade {#auxiliary-un-reality-explaining-away-cascade}
+
+**auxiliary-un-reality explaining-away cascade** *noun phrase*
+
+**Status:** proposed mechanism
+
+An **auxiliary-un-reality explaining-away cascade** occurs when collision between
+an operative un-real representation and reality generates a new authorized
+causal representation that explains away the correction, protects the original
+account, and may itself acquire operative authority.
+
+Call the protected representation **U0**. An **auxiliary un-real
+representation** is a later account **U1** whose operative role is to preserve U0
+against a reality-contact event that should otherwise correct it. An **adverse
+auxiliary un-real representation** is the important subtype that assigns adverse
+agency, guilt, bias, pathology, disloyalty, obstruction, or dangerous status to
+the critic, dissenter, observer, victim, or another selected target. It can
+therefore both immunize U0 and authorize new exclusions, burdens, sanctions, or
+jurisdiction.
+
+```text
+REALITY-CONTACT EVENT
+failure · harm · contradiction · exposed falsehood
+          │
+          ▼ threatens
+EXISTING OPERATIVE UN-REALITY U0
+          │
+          ▼
+new authorized adverse auxiliary account
+          │
+          ▼
+ADVERSE AUXILIARY UN-REAL REPRESENTATION U1
+“resistance caused the harm” · “saboteurs caused the failure”
+“the observer is biased” · “the critic proves the diagnosis”
+          │
+          ▼
+trusted carriers authorize, translate, and distribute U1
+          │
+          ▼
+U1 explains away the correction threatening U0
+          │
+          ▼
+U0 remains operative + U1 acquires classifications and consequences
+          │
+          ▼
+ORGANIZED UN-REALITY EXPANDS: U0 + U1 + U2 + …
+```
+
+The phrase **counterfeit Bayesian updating** names the project's diagnostic
+contrast, not a new kind of probability calculus. Legitimate Bayesian
+explaining-away compares causally adequate alternatives: independently supported
+evidence for one possible cause can lower confidence in another, while the model,
+priors, observations, and rival explanations remain open to reciprocal testing.
+The counterfeit form treats the authorization or usefulness of U1 as though it
+were independent evidence for U1. The auxiliary account is introduced or
+privileged after the collision, receives asymmetric evidential protection, and
+is then used to cancel the correction that occasioned it.
+
+An alternative causal explanation is therefore not un-real merely because it
+protects an earlier conclusion or attributes fault. The diagnosis requires the
+full operative relation: U0 already has practical reality-status; relevant
+reality contact threatens it; U1 lacks adequate independent support or is
+shielded from reciprocal testing; authority gives U1 corrective priority; and
+U0, U1, or both continue to classify and allocate despite failed correction. A
+genuine logical contradiction cannot be dissolved merely by inventing another
+cause; premises, scope, authenticity, or the claim itself must be corrected.
+
+The cascade types the relation among the surrounding constructs:
+
+| Construct | Role in the cascade |
+|---|---|
+| **Un-reason** | Constructs or accepts the auxiliary causal model that protects U0 from the meaning of the correction. |
+| **Trusted-carrier correction lock** | Gives U1 receiving-field credibility, gain, translation, and distributed routing. |
+| **Correction nullification** | Possible result: the sustained correction cannot change operation. |
+| **Systemic lying** | Can recurrently generate U1, U2, U3, and later defensive accounts when installed representations collide with reality. |
+| **Organized un-reality** | The accumulating installed stock of U0 and its operative auxiliaries. |
+
+The mechanism is neither necessary for correction nullification nor sufficient
+for systemic lying. A correction can be nullified by silence or custody failure;
+one weak post-hoc explanation can remain corrigible. The stronger classification
+requires recurrence, authorization, asymmetric correction, practical
+jurisdiction, and the separately specified constitutional scale.
+
+> **Reality supplies the correction; organized un-reality supplies another
+> un-reality to explain it away.**
+
+Persuasion or confession by the incumbent carrier is not the only possible exit.
+**Bounded de-authorization** removes a defeated representation's or specified
+carrier-function's authority over the affected decision without requiring the
+human occupant to convert, confess, or lose person-standing. Depending upon the
+lawful jurisdiction, this can operate through independent adjudication,
+predeclared automatic consequences, succession or removal from a bounded office,
+withdrawal of a specified classification or enforcement power, protected
+refusal, parallel institutions, or jurisdictional separation. The carrier may
+retain speech, belief, association, due process, appeal, and every authority not
+properly placed in issue.
+
+> **The alternative to converting the opponent is de-authorizing the opponent's
+> power to make everyone else inhabit the defeated account.**
+
+Bounded de-authorization is not a licence for a self-appointed truth authority,
+collective punishment, cultural reprogramming, or extra-legal coercion. It
+requires a specified representation and jurisdiction, independently testable
+grounds, authorized procedure, proportionality, review, appeal, and repair. If no
+reception, adjudication, lawful succession, de-authorization, refusal, parallel
+route, exit, or jurisdictional separation survives at an unavoidable common
+decision, the interface may approach the separately gated
+[secession-or-force fork](0060-culture-program-ecology.semantic-definition.md#the-severe-babelization-fork-secession-or-force).
+
+The constitutional lesson is:
+
+> **A fact regains public authority not merely when it becomes speakable or even
+> officially acknowledged, but when it is capable of altering every downstream
+> operation whose justification materially depends upon it.**
+
 ### 10. Communicative integrity and linguistic tricks
 
 The epistemic constitution is enacted at the smallest scale through ordinary speech. It matters whether communication is oriented toward mutual understanding and reality or toward operative effect while preserving the appearance of communication.
@@ -1266,9 +1621,11 @@ An anonymous discrepancy report may legitimately trigger evidence preservation, 
 Due process is not only mercy toward an accused person. It is an error-correction technology. The [EU Whistleblower Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L1937), for example, couples reporter protection with protections for the implicated person's identity, presumption of innocence, right to be heard, access to the file, and effective remedy. The epistemic-constitutional principle is broader than that particular legal instrument.
 
 The same separation applies when a Culture Program is suspected of producing a
-system-level hazard. Under the **Self-Attribution Presumption**, an authenticated,
-serious proclamation receives first-pass credence as evidence of the actor's own
-operative allegiance or perceived authorization. One credible high-severity
+system-level hazard. Under the **Self-Attribution Presumption** and
+**Self-Description Valence Asymmetry**, an authenticated, serious adverse
+self-attribution receives first-pass credence as evidence of the actor's own
+operative allegiance or perceived authorization; favourable self-description
+does not exculpate the program from its operation or consequences. One credible high-severity
 proclamation may justify preservation of records, mapping of finance and
 authority, or an audit of the **Culture Program carrying structure** without
 establishing any other human carrier's guilt or proving parent-program causation.
@@ -1356,6 +1713,13 @@ from independent correction within the truth orientation. Its presence does not
 settle drive direction, Culture Program branch, subjecthood absorption,
 jurisdiction, capture, hazard, or intent.
 
+**Un-reality does not add a third row either.** It names a state or output within
+the truth orientation: an authorized representation possesses operative
+reality-status while its independent correction is blocked. It can be local or
+domain-specific; **organized un-reality** is its stronger multi-channel form; the
+systemic-lying pole is the constitutional ideal type that recurrently reproduces
+that state.
+
 The [**sacred-principal allocation
 audit**](#sacred-principal-allocation-audit) also remains outside the table. Its
 governing question may prove independent, but the present candidate lacks
@@ -1382,6 +1746,7 @@ corrigibility.
 | Dimension | Reality-anchored, truth-seeking pole | Systemic-lying pole |
 |---|---|---|
 | Ontological premise | Mind-independent reality can resist every account | Authorized representation determines socially admissible reality |
+| Operative reality-status | A representation's authority and use can fall when observation, prediction, consequence, or rival explanation defeats it | An un-real representation retains practical reality-status because authorization controls how correction may count; organized un-reality can persist after contradiction becomes publicly visible |
 | Epistemic aim | Active truth-seeking and improving truth-tracking | Operative effectiveness, loyalty, control, or preservation of the system |
 | Public avowal | Belief, doubt, uncertainty, and revision may be sincerely expressed | Performative conformity is safer than honest expression |
 | Authority | Universal corrigible meta-jurisdiction with plural, transparent, defeasible, and bounded representatives | Representatives monopolize the meta-order, become self-certifying or preemptive, and spill beyond allocated jurisdiction |
@@ -2035,7 +2400,7 @@ one second-order order governs society-wide jurisdiction rules.
 
 Its defining properties include:
 
-1. **Reality substitution:** the authorized model acquires priority over what observation, prediction, and consequence reveal.
+1. **Un-reality through reality substitution:** the authorized model acquires operative reality-status and priority over what observation, prediction, and consequence reveal.
 2. **Public–private divergence:** people learn to say what participation requires rather than what they believe.
 3. **Ritualized assent:** performance matters more than private conviction; visible compliance confirms the system.
 4. **Authority-gated updating:** source authorization determines whether evidence may count.
@@ -2075,12 +2440,12 @@ instrumental contempt, and national infallibility. They are possible
 manifestations of truth--utility inversion, not defining properties of systemic
 lying and not sufficient evidence of *Machtpolitik*.
 
-At the transmission level, a *clerc* can also occupy the project's
+At the transmission level, a *clerc* can also carry the project's
 [**trusted-opinion-leader
-position**](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leaders-cascades-and-cultivated-authority):
+function**](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leader-function-cascades-and-cultivated-authority):
 the relevant field recurrently refers judgment to the person, so the person's
 authorization gains privileged credibility, translation, and cascade. The
-source term and functional position remain distinct. Not every *clerc* possesses
+source term and receiving-field function remain distinct. Not every *clerc* possesses
 operative field trust; not every trusted opinion leader claims an intellectual
 vocation; and neither classification establishes betrayal or falsity. *Culture
 Program Ecology* owns the application in which their overlap helps build the
@@ -2186,6 +2551,10 @@ Everything between the endpoints consists of partial, unstable, and domain-speci
 - **truth-professing but weakly truth-tracking:** truth is praised, but predictions, audits, and correction records are poor;
 - **procedurally open but socially punitive:** formal speech rights exist, but dissent carries severe informal costs;
 - **sincere but reality-detached:** people speak honestly, yet inquiry lacks adequate evidence, method, or willingness to revise;
+- **locally un-real but externally corrigible:** one authorized representation
+  governs a policy, office, discipline, or institution despite failed correction,
+  while rival institutions and wider public procedures can still expose, limit,
+  reverse, or repair it;
 - **technically accurate but publicly insincere:** institutions possess good local knowledge while requiring ritual public assent;
 - **plural but authority-gated:** several institutions exist, yet all depend on the same source, incentives, or master classification;
 - **dissident but closed around successor gatekeepers:** an alternative community
@@ -2318,6 +2687,21 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 - Does reasoning expose a protected conclusion to possible defeat, or continually
   redesign the concepts, burdens, exceptions, and standards by which that
   conclusion survives?
+- Which representation currently possesses operative reality-status, what
+  decisions or allocations does it govern, and which observation or consequence
+  could reduce that authority?
+- If contradiction has become publicly speakable, has it changed confidence,
+  classification, action, resources, jurisdiction, remedy, personnel, or rule—or
+  does the institutional procession continue?
+- At which correction stage does uptake fail: *Speak, Record, Receive, Answer,
+  Adjudicate, Change operation,* or *Repair*? Who has custody of the next stage,
+  and can an independent route displace their non-response?
+- Has a representation been independently defeated but remained operative? Does
+  the authority acknowledge the correction while conduct persists, or nullify it
+  through silence, omission, delay, agenda control, or continued repetition?
+- Can the affected representation, decision, office, or enforcement function be
+  boundedly de-authorized without requiring conversion, collective punishment,
+  or jurisdiction over the whole person?
 - What observation, contradiction, failed prediction, adverse consequence, or
   rival explanation would lower confidence, and has such an event ever done so?
 - Are contextual distinctions stated in advance and applied reciprocally, or
@@ -2371,11 +2755,41 @@ Truth-orientation positive pole:
 
 Truth-orientation negative pole:
 
-> **social pressure → public performance → apparent consensus → authority-gated knowledge → suppressed correction → organized unreality**
+> **social pressure → public performance → apparent consensus → authority-gated knowledge → suppressed correction → organized un-reality**
 
 Un-reason mechanism:
 
 > **reasoning capacity → protected conclusion → asymmetric concepts, burdens, and exceptions → criticism redescribed as confirmation → independent correction closes**
+
+Un-reality state:
+
+> **authorized representation → operative reality-status and practical
+> jurisdiction → independent contradiction cannot alter authority or use →
+> possible organized un-reality**
+
+Mechanism--state relation:
+
+> **un-reason can explain why counterevidence cannot count; un-reality is the
+> condition in which the protected representation continues to govern despite
+> that failed correction**
+
+Post-disclosure branches:
+
+> **publicly speakable and independently sustained correction + continued
+> operative authority → defeated-but-operative un-reality → acknowledged
+> continuation through procession inertia or unacknowledged continuation through
+> correction nullification**
+
+Correction pipeline:
+
+> **Speak → Record → Receive → Answer → Adjudicate → Change operation → Repair;
+> speech without a consequential receiver can remain a dead-letter correction**
+
+Bounded exit from carrier veto:
+
+> **independently sustained correction + authorized and proportionate procedure
+> → bounded de-authorization of the defeated representation or specified
+> carrier-function ≠ conversion, whole-person defeat, or collective punishment**
 
 Doublethink mechanism:
 
@@ -2580,6 +2994,38 @@ independent source establishes otherwise:
   of Žižek's Night passage and the originating author selected it for integration.
   Its construction follows Žižek's *undead/inhuman* semantic pattern, but the term
   and mechanism are not attributed to Žižek or Hegel;
+- **un-real representation**, **un-reality**, and **organized un-reality** as the
+  project-specific state/output family in which socially authorized
+  reality-status remains operative while independent correction loses the power
+  to change authority or use. The originating author proposed extending the
+  indefinite-judgment construction from un-reason to un-reality and selected the
+  expressive formula “A lie becomes un-real when everyone must inhabit it, and
+  un-reason begins when intelligence is recruited to explain why the visible
+  contradiction cannot count.” The assistant separated state from mechanism and
+  constitutional pole, rejected *not-reality* as one technical bucket, and added
+  the broad-*lie*, practical-*everyone*, and inspectable-*visible* boundaries.
+  These terms and relations are Culture Mechanics developments, not Žižek's,
+  Hegel's, Arendt's, Andersen's, or Rauch's;
+- **post-disclosure un-reality**, **defeated-but-operative un-reality**,
+  **acknowledged un-reality**, **correction nullification**, **dead-letter
+  correction**, and **bounded de-authorization** as the project-developed
+  distinctions separating public speakability, independent defeat, institutional
+  reception, answerability, operative uptake, and repair. The originating user
+  distinguished Andersen's acknowledging emperor from a carrier who refuses
+  acknowledgment while a surrounding field continues the defeated operation;
+  the assistant proposed the receiving-side mechanism, correction pipeline, and
+  bounded jurisdictional response, and the user selected them for integration.
+  **Procession inertia** remains the controlled Andersen-derived image for
+  acknowledged continuation; the new terms are not Andersen's, Lacan's, Havel's,
+  Solzhenitsyn's, Wedeen's, or Arendt's;
+- **auxiliary un-real representation**, **adverse auxiliary un-real
+  representation**, **auxiliary-un-reality explaining-away cascade**, and
+  **counterfeit Bayesian updating** as the project-developed recursive mechanism
+  in which reality contact threatening an operative U0 elicits an authorized U1
+  that explains the correction away, protects U0, and may itself acquire
+  practical jurisdiction. The Bayesian relation is a controlled diagnostic
+  contrast, not a claim that the field computes explicit probabilities or that
+  legitimate independently evidenced alternative causes are un-real;
 - the **un-reason--Babelization bridge**, the formulation **the shared real world
   remains causally common but ceases to be epistemically common**, and the
   **reality-correction-interface probe**. The originating user asked whether
@@ -2653,7 +3099,7 @@ independent source establishes otherwise:
 11. **It does not depend upon the strongest collective-mind claims of culture
     mechanics.** The constitutional distinction can be applied by inspecting
     authority, avowal, evidence, disagreement, attention, memory, and correction
-    even if the multi-mind-self threshold, privileged programming topology, or
+    even if the operative multi-mind-self threshold, privileged programming topology, or
     physical field analogies remain disputed.
 12. **It does not define lifting as pluralism.** A lifted order is defined by its
     shared answer generator. That generator may have universal jurisdiction and
@@ -2729,7 +3175,7 @@ independent source establishes otherwise:
 28. **It does not equate systemic lying with *Machtpolitik*.** The Benda bridge
     specifies one-way necessity, not identity:
     *Machtpolitik* entails a systemic-lying core, but distributed organized
-    unreality can exist without a power-seeking beneficiary, ideological-power
+    un-reality can exist without a power-seeking beneficiary, ideological-power
     exploitation, culture-mechanical mobilization, or bandit–carrier payoff
     asymmetry. Openly avowed domination without systemic lying is open
     authoritarianism or naked domination rather than *Machtpolitik* in the
@@ -2751,6 +3197,44 @@ independent source establishes otherwise:
     Declared purpose, effective beneficiaries, objective dynamics, sacrificed
     goods, mastery relations, correction, and temporal trajectory require
     separate evidence.
+32. **Un-reality is not a synonym for fiction, simulation, nonexistence, error,
+    or falsity.** It classifies the relation among authorized representation,
+    practical reality-status, participation, and failed correction. True content
+    can be held un-really; false content can remain corrigible.
+33. **Un-reality is not automatically un-reason, systemic lying, Babelization,
+    or conscious deception.** Specify the representation, domain, institution,
+    participation surface, period, operative allocations, correction route, and
+    response to defeat. The stronger neighbouring constructs retain their own
+    mechanism, scale, and threshold evidence.
+34. **Speakability is not yet operative correction.** Public contradiction may
+    break apparent consensus while authority, resources, procedure, and conduct
+    continue unchanged. Test whether disclosure alters practice rather than
+    treating one true utterance, witness, dissident, or exposure as automatic
+    institutional repair.
+35. **Correction nullification is not established by non-agreement or one
+    unanswered claim.** Establish the correction independently, specify the
+    authorized receiving and decision path, distinguish reasonable investigation
+    or implementation time from stonewalling, and test whether non-response
+    actually preserves operative authority. The mechanism alone proves neither
+    one bad actor, a coordinated choir, intent, systemic lying, nor Babelization.
+36. **Bounded de-authorization is not conversion or civil annihilation.** It
+    withdraws only the evidenced representation's or carrier-function's specified
+    authority through lawful, proportionate, reviewable procedure while
+    preserving person-standing, speech, belief, association, due process, appeal,
+    and authorities outside the demonstrated nexus.
+37. **Not every downstream non-change defeats correction.** A true correction
+    may be immaterial to a particular office, remedy, allocation, or person. The
+    test is whether it can alter the operations whose justification materially
+    depends upon it, with reasons and review available when no change follows.
+38. **Not every alternative explanation is auxiliary un-reality.** Legitimate
+    causal inquiry compares independently evidenced alternatives under reciprocal
+    tests. The explaining-away cascade requires operative U0, reality contact
+    that threatens it, inadequately supported or asymmetrically protected U1,
+    authorization, blocked correction, and practical consequence.
+39. **An adverse attribution is not evidence of counterfeit updating by
+    itself.** Sabotage, resistance, bias, error, or third-party causation can be
+    real. Test provenance, timing, causal adequacy, independent support,
+    reciprocal standards, predictive exposure, and whether the account can lose.
 
 ## Final semantic summary
 
@@ -2764,6 +3248,26 @@ independent source establishes otherwise:
   orientation. Doublethink is a narrower possible component in which incompatible
   authorized beliefs cease to correct one another; neither one contradiction nor
   an individual-differences score establishes it politically.
+- **Cross-scale truth-orientation state:** an un-real representation retains
+  operative public reality-status while observation, prediction, consequence,
+  and dissent cannot reliably change its authority or use. Organized un-reality
+  is the stronger multi-channel state reproduced by the systemic-lying pole;
+  neither ordinary error nor fiction establishes it. After disclosure,
+  acknowledged continuation can persist through procession inertia, while an
+  unacknowledged defeated account can persist through correction nullification;
+  bounded de-authorization removes specified operative authority without
+  requiring conversion or whole-person defeat.
+- **Staged correction distinction:** un-reason neutralizes what a candidate
+  correction means and can prevent counterevidence from becoming authoritative
+  correction; correction nullification neutralizes what an independently
+  sustained correction can do and can prevent correction from becoming
+  consequence. Either mechanism can occur without the other.
+- **Recursive defensive mechanism:** an auxiliary-un-reality explaining-away
+  cascade adds an authorized U1 when reality contact threatens operative U0;
+  trusted carriers may route U1, correction nullification may preserve operation,
+  systemic lying may generate further auxiliaries, and organized un-reality is
+  the accumulating stock. Legitimate causal alternatives remain outside the
+  mechanism when independently supported and reciprocally corrigible.
 - **Candidate allocation audit, not a third orientation:** sacred-principal
   allocation asks who or what receives ultimate standing and who becomes its
   instrument. Its governing question may be independent, but its poles,
@@ -2811,7 +3315,7 @@ independent source establishes otherwise:
 - **Slot occupancy:** reality-anchored and systemic-lying constitutions are both full lifted captures; full occupancy does not decide epistemic quality.
 - **Jurisdictional form:** the lifted generator can govern universally while constituting, allocating, limiting, coordinating, and governing the succession and correction of first-order outputs and jurisdictions.
 - **Authority boundary:** persons and institutions remain plural and domain-limited beneath the meta-order and receive no root access to reality.
-- **Core-theory interface:** local bigOthers communicate through a shared symbolic protocol and help maintain a mechanical-solidarity field and distributed bigOther; a multi-mind-self is possible but not required.
+- **Core-theory interface:** local bigOthers communicate through a shared symbolic protocol and help maintain a mechanical-solidarity field and distributed bigOther; a multi-mind-self presentation or operative multi-mind-self is possible but neither is required.
 - **Implementation:** formal institutions plus distributed constitutional
   scripts, cultural programming, incentives, language, habits, reciprocal social
   enforcement, and field back-action.

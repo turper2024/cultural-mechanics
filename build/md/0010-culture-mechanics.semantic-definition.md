@@ -28,14 +28,21 @@ concrete answers. Plural lives and bounded subordinate jurisdictions can follow
 from that architecture, but do not define it. Whether either form of full capture
 is open and corrigible or closed and pathological is a separate question.
 
-The bigOther also has a special capacity: it can couple with the bigOthers of other people. It encodes its classifications in words, stories, gestures, roles, titles, symbols, and sanctions that are intelligible within a shared symbolic order. Reciprocal signalling can synchronize many locally programmed individuals into an emergent social field and, under sufficiently integrated conditions, a distributed **multi-mind-self**. Culture is the relatively stable evaluative programming and social coordination produced and reproduced through this loop.
+The bigOther also has a special capacity: it can couple with the bigOthers of other people. It encodes its classifications in words, stories, gestures, roles, titles, symbols, and sanctions that are intelligible within a shared symbolic order. Reciprocal signalling can synchronize many locally programmed individuals into an emergent social field. That field can present the collective in self-like form and, under sufficiently integrated conditions, become an **operative multi-mind-self**. Culture is the relatively stable evaluative programming and social coordination produced and reproduced through this loop.
 
-A multi-mind-self need not erase the persons through whom it acts. Culture
+An operative multi-mind-self need not erase the persons through whom it acts. Culture
 mechanics therefore distinguishes **differentiated unity**, in which a real *we*
 preserves different functions, judgments, relationships, and legitimate
 jurisdictions, from **subjecthood absorption (fusion)**, in which those personal
 standings are increasingly denied against the collective. Collective agency,
 synchronization, and fusion are related but independent properties.
+
+For explanatory convenience, *multi-mind-self* may also be used as a broad
+family-level shorthand for a collective represented or encountered as one self.
+Strict analytical claims distinguish **multi-mind-self presentation** from the
+**operative multi-mind-self / multi-mind-self proper** and from a **fused
+multi-mind-self**. The shorthand alone licenses no inference to intention,
+ownership, responsibility, or fusion.
 
 Some ideological symbols are **conformity signals**: their performance, absence,
 or refusal makes a person's relation to the installed program publicly legible.
@@ -713,7 +720,7 @@ persons, offices, artifacts, procedures, relationships, and resource flows, whil
 particular people enter and leave its roles. The script is therefore neither a
 private plan nor necessarily a collective agent. It supplies a distributed
 pattern for action; agency still belongs to participating persons, institutions,
-or, where the independent functional threshold is met, a multi-mind-self.
+or, where the independent functional threshold is met, an operative multi-mind-self.
 
 Scripts cut across the culture-mechanical object types defined below. They can
 contain program units, symbols, implementation arrangements, expected local
@@ -935,7 +942,7 @@ member of the category the same kind of thing.
 | **Implementation arrangement** | A durable structure that rewards, sanctions, repeats, or institutionalizes the program | Schools, appointment systems, rituals, calendars, dress codes, promotion criteria, laws, media routines, organizational systems |
 | **Local execution** | The installed program as executed by an individual sentiment classifier | A local bigOther applying its mythological lens |
 | **Collective formation** | The emergent result of compatible local execution and reciprocal signalling | Mechanical solidarity and the distributed bigOther |
-| **Collective agent** | A sufficiently integrated and continuous collective formation capable of judgment, intention, ownership, and action | A multi-mind-self |
+| **Collective agent** | A sufficiently integrated and continuous collective formation capable of judgment, intention, ownership, and action | An operative multi-mind-self |
 
 A culturally legible phrase, song, image, hero, or ritual that evokes a shared
 sublimation remains a **carrier or activation device**, an **ideological symbol**,
@@ -997,7 +1004,9 @@ field, and agent:
 | **Culture Program** | The executable package of mythologies, classifications, rules, roles, values, and expected conduct installed as one operative weave. **Cultural or ideological program** remains a legacy or explanatory alias. |
 | **Culture Program Complex** | A large Culture Program containing multiple mutually fitted packages or components; not a second bigOther and narrower than a composite culture-mechanical object. |
 | **Culture Program carrying structure** | The organizational and material substrate through which a Culture Program is financed, taught, reproduced, coordinated, amplified, protected, and given continuity or operational capability. It is neither the program nor the population of human carriers; its primary semantic home is *Culture Program Ecology*. |
+| **Polity-scale *Gleichschaltung* hazard** | Process-level warning that human carriers, symbolic and conformity-marker environments, and institutional-operational systems across multiple formerly independent societal domains are being aligned toward one privileged ideological direction. It can arise before a complete Culture Program is reconstructed and before a completed polity-scale mechanical-solidarity morphology or Fascism conjunction; narrow coordination and voluntary thick community remain distinct. Its primary semantic home is *Culture Program Ecology*. |
 | **Self-Attribution Presumption** | First-pass evidentiary rule: initially believe an authenticated, serious actor proclamation as evidence of that actor's own operative program allegiance, motivation, or perceived authorization and treat it as a program-level warning before testing causal scope and defeaters. Its primary semantic home is *Culture Program Ecology*. |
+| **Self-Description Valence Asymmetry** | An authenticated, serious adverse self-attribution receives first-pass credence about the actor's operative understanding, whereas favourable self-description records the advertised ideal but receives no exculpatory presumption against installed operation, offspring, consequences, and failed correction. Parent-program attribution remains a separate inference governed by standing, script fit, recurrence, organizational support, internal contestation, and affirmative defeaters. Its primary semantic home is *Culture Program Ecology*. |
 | **Attribution-Source Asymmetry** | Self-attribution provides situated evidence about the speaker's operative program; hostile third-party attribution is an allegation about the target requiring independent support. Its primary semantic home is *Culture Program Ecology*. |
 | **Propagation–Visibility Constraint** | Large-scale, high-fidelity program reproduction requires sufficient descriptive, symbolic, ritual, behavioural, or institutional transmission; secrecy shifts code into bounded channels and ordinarily trades off against scale or fidelity. Its primary semantic home is *Culture Program Ecology*. |
 | **Systemic skeleton and living cultural body** | Analytically distinguishes the fitted institutional-operational structure of a Culture Program from the human, symbolic, affective, and formative life that animates, maintains, repairs, or repurposes it. They are not two programs, processors, or bigOthers. Their primary semantic home is *Culture Program Ecology*. |
@@ -1005,6 +1014,9 @@ field, and agent:
 | **Lifted-Order Capacity Dashboard** | Proposed *Culture Program Ecology* sensor suite—Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, and Choose—for testing a pluralist Culture Strategy. It is neither the definition of lifted solidarity nor a scalar social good. |
 | **Projective-vandalism circuit** | Observable sequence in which a disowned blemish is projected onto an opponent, a taboo label makes the target symbolically attackable, and repeated denunciation may become affectively rewarding. Its linguistic home is *Linguistic Tricks* and its motivational hypothesis belongs to *Mythology Construction*. |
 | **Un-reason** | Proposed cross-scale mechanism in which reasoning remains active but is organized to protect a conclusion, authority, identity, or programme from reciprocal standards and independent correction. It is not a third constitutional orientation, a synonym for irrationality, or a classification of a population; its primary semantic home is *Epistemic Constitution*. |
+| **Un-reality and correction nullification** | An authorized representation retains operative public reality-status despite failed independent correction; after disclosure, correction nullification prevents an independently sustained correction from changing operation. Un-reason can block correction one epistemic level earlier. Their primary semantic home is *Epistemic Constitution*. |
+| **Auxiliary-un-reality explaining-away cascade** | A reality collision threatening operative un-reality U0 elicits an authorized auxiliary causal account U1 that explains the correction away, protects U0, and may acquire classifications and consequences of its own. It is not ordinary causal revision; its primary semantic home is *Epistemic Constitution*. |
+| **Trusted-carrier correction lock** | High-gain trusted-opinion-leader-function positions remain sufficiently aligned to deny a public correction distributed credibility, reception, or operative force despite growing ordinary dissent. It is a possible receiving-field implementation of correction nullification, not proof of falsehood, coordination, capture, or Shadow-Sovereign rule; its primary semantic home is *Epistemic Agency*. |
 | **Mythological lens** | The generalized mapping through which observations are converted into culturally learned values and feelings. |
 | **Ideological symbol** | A socially legible token that activates the program and communicates a person's relation to it. |
 | **Conformity signal** | An ideological symbol whose performance or nonperformance makes conformity and deviation publicly legible. |
@@ -1013,7 +1025,7 @@ field, and agent:
 | **Lacan's big Other** | The shared symbolic vocabulary and protocol through which the program and its tokens become publicly intelligible. |
 | **Mechanical solidarity** | The synchronized symbolic-affective coherence produced through compatible local execution and reciprocal response. |
 | **Distributed bigOther** | The persistent network state maintained through persons, institutions, practices, artifacts, reputations, and sanctions. |
-| **Multi-mind-self** | The distributed system only when it becomes sufficiently integrated and continuous to judge, intend, own, and act as a collective agent. |
+| **Operative multi-mind-self** | The distributed system only when it becomes sufficiently integrated and continuous to judge, intend, own, and act as a collective agent. A multi-mind-self presentation remains below this threshold. |
 
 In this section, **ideological** is retained as a legacy broad, religion-inclusive
 adjective for anything pertaining to such a Culture Program. It includes
@@ -1497,7 +1509,15 @@ those who refuse to bundle, and with Ferdinand Tönnies's distinction between op
 societal association and closed community. That compound attribution still
 requires a primary-source audit. The diagram above is therefore Culture
 Mechanics' moral-closure hypothesis, not a definition attributed to Guérot,
-Tönnies, or an established general definition of fascism.
+Tönnies, or an established general definition of fascism. Moral closure is one
+possible pathway into, but is not sufficient for, the conjunctive
+[whole-polity definition of Fascism](0020-epistemic-agency.semantic-definition.md#fascism-as-a-strong-whole-polity-realization).
+When closure becomes a concrete attempt to align multiple independent societal
+domains toward one privileged ideological direction, test the separate
+[polity-scale *Gleichschaltung*
+hazard](0060-culture-program-ecology.semantic-definition.md#polity-scale-gleichschaltung-hazard).
+Do so even before a complete Culture Program can be reconstructed or attributed.
+Moral closure alone does not establish that process gate.
 
 The originating **ideology-as-hallucination hypothesis** is stronger still: an
 ideology operating as a collectively protected hallucination cannot win through a
@@ -1729,7 +1749,7 @@ norm, while countercultures are morally disarmed from defending their own order.
 This is the proposed **protection-framed jurisdictional manoeuvre**. It can emerge
 through many sincere participants without a central conspiracy. Only when the
 collective-agent threshold is met should it be attributed as an intentional
-manoeuvre of a multi-mind-self; below that threshold it remains an emergent
+manoeuvre of an operative multi-mind-self; below that threshold it remains an emergent
 operation of a program, solidarity field, and distributed bigOther.
 
 Iran is proposed not as the boundary at which the problem begins but as an
@@ -1904,11 +1924,15 @@ one another, reciprocal feedback can produce rapid alignment. A crowd may begin 
 attend, feel, chant, fear, celebrate, condemn, or act as if it were one body. This
 is the individual-to-field handoff. The field's topology, unequal transmitter
 gain, collective agency, and epistemic consequences belong to the detailed account
-in [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md).
+in [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md),
+including its [functional morphology of mechanical
+solidarity](0020-epistemic-agency.semantic-definition.md#12-functional-morphology-of-mechanical-solidarity):
+population body, distributed trusted-opinion-leader function, common field,
+directing function, reciprocal coupling, and possible collective execution.
 
 ### 12. Local bigOther, symbolic protocol, and distributed field
 
-Culture mechanics distinguishes five levels that must not be treated as synonyms:
+Culture mechanics distinguishes seven levels that must not be treated as synonyms:
 
 | Level | Meaning in culture mechanics |
 |---|---|
@@ -1916,7 +1940,9 @@ Culture mechanics distinguishes five levels that must not be treated as synonyms
 | **Local bigOther** | The individual sentiment classifier that executes one installed mythological lens and transmits and receives through the shared protocol. |
 | **Mechanical solidarity** | Emergent field coherence generated as compatible local bigOthers repeatedly produce, observe, and answer common classifications and sentiments. |
 | **Distributed bigOther** | The dynamically maintained symbolic-affective network state reproduced through local bigOthers, institutions, roles, practices, stories, and artifacts. |
-| **Multi-mind-self** | The distributed system when it becomes sufficiently integrated and continuous to perceive, remember, judge, intend, own, and act as a collective agent. Not every crowd or mechanically solidary field reaches this threshold. |
+| **Multi-mind-self presentation** | The collective represented, perceived, addressed, or incarnated as one self without yet establishing collective agency. |
+| **Operative multi-mind-self / multi-mind-self proper** | The distributed system when it becomes sufficiently integrated and continuous to perceive, remember, judge, intend, own, and act as a collective agent. Not every crowd, presentation, or mechanically solidary field reaches this threshold. |
+| **Fused multi-mind-self** | An operative collective agent that additionally displaces participating persons as independently legitimate authors across the relevant jurisdiction. |
 
 The relationship is generative rather than an equation:
 
@@ -1929,9 +1955,21 @@ SHARED SYMBOLIC PROTOCOL / LACANIAN BIG OTHER
 MECHANICAL-SOLIDARITY COHERENCE
                     ↓ maintains
 DISTRIBUTED BIGOTHER
+                    ↓ may be represented or encountered as
+MULTI-MIND-SELF PRESENTATION
                     ↓ may become sufficiently integrated as
-MULTI-MIND-SELF
+OPERATIVE MULTI-MIND-SELF
+                    ↓ may additionally absorb personal standing as
+FUSED MULTI-MIND-SELF
 ```
+
+This is not a necessary ladder. A presentation can remain below agency, an
+operative multi-mind-self can remain differentiated, and a fusion ideology can
+seek absorption without producing competent collective agency. Unqualified
+*multi-mind-self* may be used as family-level explanatory shorthand, but strict
+claims about intention, ownership, responsibility, or fusion require the
+qualified term. [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#handoff-from-the-individual-architecture)
+owns the complete register rule and threshold tests.
 
 The distributed bigOther consists of no single person or object. It is realized
 through language, expectations, public symbols, rituals, stories, institutions,
@@ -1967,7 +2005,7 @@ upon epistemic agency.
 
 #### Nested authorship, activation, and episodic multi-mind-selves
 
-A multi-mind-self is a **network-level subject**, not a second local self or a
+An operative multi-mind-self is a **network-level subject**, not a second local self or a
 second PCI card installed inside each participant. Collective and personal
 authorship can therefore coexist at different levels. The collective can
 legitimately perceive, remember, decide, own, and act as *we* while participating
@@ -2041,7 +2079,7 @@ The principal dynamics increasing absorption are called **fusion pressure**:
 **Total fusion** is the limiting case: high subjecthood absorption combines with
 comprehensive jurisdiction and closed correction or exit. The originating image
 is that persons become “drops of water in one clear pond.” It is a pole, not the
-definition of every multi-mind-self and not a biological state that humans can
+definition of every multi-mind-self presentation or operative multi-mind-self and not a biological state that humans can
 literally enter.
 
 A **fusion ideology** is a mythology or program that treats the separate person as
@@ -2378,6 +2416,17 @@ culturally learned affective expectations
 
 This is a cross-reference rather than a foundation of culture mechanics. ACT and BayesACT do not propose a separate bigOther, a single PCI slot, mythological narrative programming, or distributed synchronization. They also do not explain how mythologies initially form the mythological lens. BayesACT's instrumental action selection extends beyond the primitive sentiment-classification function assigned to the collar and overlaps with planning functions that culture mechanics assigns to the main CPU.
 
+BayesACT should not be conflated with the project's separate
+[**auxiliary-un-reality explaining-away
+cascade**](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-reality-explaining-away-cascade).
+That construct borrows the form of Bayesian *explaining away* as a diagnostic
+contrast: independently evidenced alternative causes belong to legitimate model
+revision, whereas the project-labelled counterfeit form treats an authorized
+auxiliary account as if authorization were causal evidence and uses it to protect
+an operative un-real representation. The social system need not calculate an
+explicit probability, and neither Bayesian inference nor BayesACT is thereby
+classified as un-reason.
+
 #### Stanovich's rationality framework
 
 Keith E. Stanovich, Richard F. West, and Maggie E. Toplak distinguish rationality from intelligence and describe cognition with a **tripartite model**:
@@ -2670,6 +2719,17 @@ account: mutually synchronized local bigOthers and institutional power can make
 borrowed judgment feel internally compulsory and thereby weaken the person's
 capacity to form an independent response.
 
+At whole-polity scale, Bonhoeffer's power--*Dummheit* relation is the originating
+epistemic bridge to the project's [functional definition of
+Fascism](0020-epistemic-agency.semantic-definition.md#fascism-as-a-strong-whole-polity-realization).
+Concentrated directing power cannot itself perceive, administer, reproduce, and
+act through an entire polity. It becomes socially executable when distributed
+carriers and a population deprived of inner independence repeat its formulas,
+apply its classifications, perform its administration, and enforce its direction.
+The resulting feedback strengthens the power whose field helped produce the
+population-side *Dummheit*. This is a functional dependency, not an assertion of
+equal responsibility between rulers, carriers, and coerced participants.
+
 The historical baseline and the theoretical application must remain distinct.
 The [United States Holocaust Memorial Museum's biographical account](https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer)
 documents Bonhoeffer's theological and ecumenical activity, opposition to Nazi
@@ -2891,7 +2951,7 @@ operative.
 | **Divine auditory commands** | Cultural programming experienced as bigOther-presence or bigOther-as-Thou and attributed to a god-agent | The local bigOther normally classifies affectively and need not generate auditory voices. |
 | **Commands not experienced as self-authored** | Weak personal authorship, deep capture, or possible subjecthood absorption | Obedience and presence alone do not establish total fusion. |
 | **Several gods addressing one person** | Several compatible divine agent-models held within one pantheonic mythological weave and activated by situation, ritual, role, or place | This need not install several local bigOthers or violate single-slot exclusivity. |
-| **Bach's god or top-level agent implemented across minds** | A distributed bigOther that may cross the threshold into collective perception, memory, judgment, intention, ownership, and action | Shared representation and synchronized devotion alone remain below the multi-mind-self threshold. |
+| **Bach's god or top-level agent implemented across minds** | A distributed bigOther that can produce a multi-mind-self presentation and may cross the further threshold into collective perception, memory, judgment, intention, ownership, and action | Shared representation and synchronized devotion alone remain below the operative multi-mind-self threshold. |
 | **Human alignment and collective agency** | Coupling, compatible programming, functional integration, and collective-agent formation | Alignment is not one scalar and does not establish truth, goodness, jurisdiction, corrigibility, or fusion. |
 
 The safe comparative formulation is:
@@ -2914,7 +2974,8 @@ shared mythology of a god
 → agentified Beseelung and presence as Thou
 → coordinated enactment through several persons and institutions
 → distributed bigOther
-→ possible god-as-multi-mind-self
+→ god-as-multi-mind-self presentation
+→ possible operative god-as-multi-mind-self
 → social confirmation of the god's local presence
 ```
 
@@ -2996,8 +3057,10 @@ person as another--while retaining the conflict between their explanations.
 
 Jaynes's bicameral mind and Bach's implemented multi-mind-self are neighbouring
 theories, not analogies or empirical confirmation. The term *multi-mind-self* in
-this project is taken from Bach and given the explicit functional threshold stated
-above. The bicameral-like comparison is narrower than Jaynes's historical theory
+this project is taken from Bach. Culture Mechanics adds the distinction between a
+multi-mind-self presentation, an operative multi-mind-self that crosses an
+explicit functional threshold, and a fused multi-mind-self, together with the
+family-level shorthand rule stated above. The bicameral-like comparison is narrower than Jaynes's historical theory
 and must not be used to claim that ancient people universally lacked consciousness
 or an individual mind.
 
@@ -3186,8 +3249,14 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Network operation:** reciprocal signalling through the protocol and possible synchronization.
 - **Field coherence:** mechanical solidarity.
 - **Emergent network state:** the distributed bigOther.
-- **Possible collective agent:** the multi-mind-self when integration and continuity pass the relevant threshold.
-- **Nested authorship:** a network-level multi-mind-self can add an operative
+- **Self-like representation:** a multi-mind-self presentation can organize the
+  collective as one represented, perceived, addressed, or incarnated self without
+  establishing agency.
+- **Possible collective agent:** the operative multi-mind-self or multi-mind-self proper when integration and continuity pass the relevant threshold.
+- **Family-level shorthand:** unqualified *multi-mind-self* may be used
+  explanatorily where no threshold inference depends upon it; claims of intention,
+  ownership, responsibility, or fusion require the qualified term.
+- **Nested authorship:** a network-level operative multi-mind-self can add an operative
   *we* while differentiated participating *I*s retain legitimate personal and
   subordinate jurisdictions; it does not install a second local bigOther.
 - **Episodic multi-mind-self:** a distributed bigOther that crosses the
@@ -3288,8 +3357,9 @@ Person--collective constitution:
 Agentified enactment and the Jaynes--Bach bridge:
 
 > **mythology → god-agent represented in one operative lens → agentified
-> *Beseelung* / bigOther-as-Thou → distributed enactment → possible
-> multi-mind-self; displacement of personal authorship → fusion**
+> *Beseelung* / bigOther-as-Thou → distributed enactment → multi-mind-self
+> presentation → possible operative multi-mind-self; displacement of personal
+> authorship within that agent → fused multi-mind-self**
 
 Kantian inner-tribunal comparison:
 

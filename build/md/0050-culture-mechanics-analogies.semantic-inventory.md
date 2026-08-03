@@ -86,7 +86,7 @@ The inventory uses three inclusion levels:
 | Main CPU and co-processor | Computing | Functionally non-unitary homo duplex | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Separates general cognition from culturally installed evaluation | Not literal neuroanatomy or a generic System 1/System 2 claim |
 | One PCI slot | Computing | Single-slot exclusivity with package compositionality | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Makes full occupancy and replacement under incompatibility vivid | Not a claim that the lens is simple, pure, or materially card-shaped |
 | Shared symbolic protocol | Network | Lacan's big Other as public symbolic coordination | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Separates the public protocol from each local implementation | Not a complete definition of Lacan's big Other or a literal network standard |
-| Wireless collar, Wi-Fi, and repeaters | Network | Social coupling, unequal gain, and aggregate amplification | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes ordinary transmitters, repeaters, and synchronized crowd gain | Radio range is not social authority, truth, or influence in one scalar |
+| Wireless collar, Wi-Fi, and repeater gain | Network | Social coupling, unequal gain, and aggregate amplification | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes the amplification dimension of trusted opinion leadership from synchronized crowd or infrastructural gain | Radio range is not social authority, truth, or influence in one scalar; *repeater* is an analogy, not a separate person-type |
 | Assembly language, SDK, and operating system | Computing | Cultural formation, reusable operations, and society-wide epistemic meta-order | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) and [*Epistemic Constitution of Lifted Mechanical Solidarity*](0030-epistemic-constitution.semantic-definition.md) | Distinguishes installed state, reusable operations, visible outputs, and governing permissions | People are not passive machines; the constitution is not literal software or a state monopoly |
 | Systemic skeleton and living cultural body | Organismic and organizational anatomy | Mutually dependent institutional-operational structure and symbolic-affective animation of an operative Culture Program | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#137-systemic-skeleton-and-living-cultural-body) and this inventory | Explains why institutions without animate carriers become a paper order and affective life without fitted systems remains fragile | Not two Culture Programs, two bigOthers, institution versus individual, or a test of truth or goodness |
 | Cultural immune system | Organismic defence | Distributed cultural self-maintenance, threat classification, repair, memory, adaptation, closure, capture, and autoimmunity | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#cultural-self-maintenance-and-defence) and this inventory | Distinguishes adaptive, closed, captured, autoimmune, and deficient cultural defence without requiring one controller | Dissent is not disease, cultural difference is not a pathogen, and defence establishes neither truth nor a licence to coerce |
@@ -98,7 +98,8 @@ The inventory uses three inclusion levels:
 | Pied Piper (*Rattenfänger von Hameln*) and the Stolen Future | Folklore and temporal capability loss | An attractive immediate signal can synchronize movement while hiding the loss of judgment, practice, possible selves, and posterity | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#affective-return-to-uphill-development) and this inventory | Makes foreclosed flourishing emotionally visible and links spell-breaking to discriminating inquiry, return, capability, and the Guild of Builders | The Hamelin variants also contain the town's broken promise; the analogy proves neither one deceiver, innocent followers, capture, a bandit, nor causal attribution |
 | Lifted sublimation generator | Computing and control | Meta-rules selecting binding directions that formative practice turns into character and capability | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#the-lifted-sublimation-generator-pattern) | Separates generator kernel, affective actuation, formative architecture, and correction | An effective generator is not necessarily good, and a maxim does not train a capability by itself |
 | Nuclear reactor, sublimation, and un-reason | Nuclear engineering and control, with Pageau's Grail question as a service-direction bridge | Drive transformation, constructive capability, de-binding failure, destructive sublimation, reasoning that disables its own correction system, and the question of whom or what generated power serves | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#sublimation-and-moral-formation), [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason), and this inventory | Separates loss of mediation, successful conversion toward a destructive end, epistemic safety logic captured by a protected conclusion, and output direction | A person is not a reactor; drive is not nuclear fuel; Night and the Real are not energy stocks; reactors are not atomic bombs; sublimation and un-reason are not one mechanism; the service question does not prove one master, AI consciousness, or drive valence |
-| Farming, reality-mediated education, and the secession-or-force fork | Agriculture, practical formation, and the Augsburg--Westphalia territorial settlement as a historical marker | Adult formation through voluntarily assumed reality feedback, public reason as non-coercive adjudication, the typed Pure-Ideology multi-mind-self at a severe-Babelization interface, and the choice between jurisdictional separation and imposed settlement | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#relation-to-cultural-interoperability-and-babelization), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#the-severe-babelization-fork-secession-or-force), and this inventory | Connects “arguments can lose without persons being defeated” to the way negotiated coexistence and soft secession can reduce compulsory common decisions; one continuing shell plus separate territorial jurisdictions is a bounded structural analogy | Farmers are not automatically wise; Pure-Ideology and multi-mind-self status alone do not entail force; natural necessity is not person-directed force; pain, survival, and collapse are not truth or justice oracles; ruler-prescribed confession is not the project proposal; Westphalia is neither an origin myth nor an exact implementation; secession does not remove rights, externalities, coercion, or delayed feedback |
+| *The Emperor's New Clothes*, un-reality, procession inertia, and correction nullification | Literary tale and public-performance sequence | An authorized representation acquires operative public reality-status through a self-sealing competence test, status pressure, performed assent, and apparent consensus; public disclosure can break the consensus while institutional conduct continues, while a counterfactual non-acknowledging carrier clarifies correction nullification | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#un-reality-operative-reality-status-insulated-from-reality), [Andersen's tale](https://www.gutenberg.org/files/1597/1597-h/1597-h.htm), and this inventory | Separates false content, un-real reality-status, possible un-reason, systemic performance, speakability, reception, acknowledgment, and operative correction | One visible contradiction is not a universal model of technical inquiry; the tale does not prove conscious lying by every participant, one general conspiracy, a full systemic-lying constitution, or that speaking truth automatically changes institutions |
+| Farming, reality-mediated education, and the secession-or-force fork | Agriculture, practical formation, and the Augsburg--Westphalia territorial settlement as a historical marker | Adult formation through voluntarily assumed reality feedback, public reason as non-coercive adjudication, the typed Pure-Ideology operative multi-mind-self at a severe-Babelization interface, and the choice between jurisdictional separation and imposed settlement | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#relation-to-cultural-interoperability-and-babelization), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#the-severe-babelization-fork-secession-or-force), and this inventory | Connects “arguments can lose without persons being defeated” to the way negotiated coexistence and soft secession can reduce compulsory common decisions; one continuing shell plus separate territorial jurisdictions is a bounded structural analogy | Farmers are not automatically wise; Pure-Ideology and operative multi-mind-self status alone do not entail force; natural necessity is not person-directed force; pain, survival, and collapse are not truth or justice oracles; ruler-prescribed confession is not the project proposal; Westphalia is neither an origin myth nor an exact implementation; secession does not remove rights, externalities, coercion, or delayed feedback |
 | *Leuchtturm* | Navigation | Aspirational exemplar making a valued human possibility visible | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#aspirational-exemplars-and-leuchttürme) | Connects abstract human possibility to aspiration, meaningful difficulty, and practice | A lighthouse neither commands nor propels the ship; excellence confers no general jurisdiction |
 | Press secretary | Institutional role | Reason producing a defensible account of an affectively protected verdict | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#reflective-roles-of-reason-press-secretary-interpreter-and-auditor) | Separates logical presentation from causal provenance and motivates interpretation and audit | Post-hoc origin does not make every reason false; the analogy is not a brain module |
 | Typed reconstruction of “formula” | Relational analysis and computing | A provisional disambiguation of Wegner's unusually broad *Formel* vocabulary | This inventory | Forces a choice among configuration, structure, model, process, symbol, program, and execution before drawing an inference | The reconstruction is the project author's best guess, not evidence of Wegner's intended ontology or a warrant for the full computing-and-identity stack |
@@ -107,6 +108,9 @@ The inventory uses three inclusion levels:
 | Weak-field gravity and contemporary witnesses | Physics and historical method | Observability when a collective phenomenon is absent, faint, de-animated, or culturally lost | This inventory and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Explains calm-period under-detection and why reports from strong-field periods matter | Gravity models detectability, not the ontology of a multi-mind-self; witnesses are situated observers, not calibrated instruments |
 | Sleeping, waking, and collective activation | Organismic state transition | Intermittent collective agency and identity-bearing latency between episodes | This inventory and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes a continuing variable-gain agent, an episodic multi-mind-self, and a latent distributed bigOther | A culturally lost system is not asleep, and a collective lacks one organism anchoring identity across inactivity |
 | Charged particle and field | Physics | Local source plus collective back-action | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Makes reciprocal causation and emergence visible | No social electromagnetic substance or Maxwell equations |
+| Dotted-semiconductor depiction and first-officer expression | Physics, electronics, and command roles | The complete functional morphology of mechanical solidarity: population body, distributed trusted-opinion-leader function, directing function, common field, reciprocal coupling, and possible chief-facing mediation | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#12-functional-morphology-of-mechanical-solidarity) and this inventory | Prevents the chief, broadcaster, field circuit, or population lattice from being mistaken for the whole social formation; represents distributed carriers as dots and first-officer mediation as one expression of their common function | A society is not a semiconductor; a dot is drawing notation rather than a social kind; shielding can preserve coordination or destroy correction and does not prove legitimacy or collective agency |
+| *Gleichschaltung* transition and vocabulary-migration mapping | Electrical switching, field alignment, and new labels over old wiring | Attempted cross-domain rewiring and alignment of flesh-and-blood carriers, symbols and conformity markers, and institutional-operational systems before a polity-scale mechanical-solidarity morphology or complete Culture Program is reconstructed or attributed; controlled translation from historical operative roles into current coordination vocabulary | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#polity-scale-gleichschaltung-hazard) and this inventory | Separates transformation from configured result and program attribution, incorporates top-down imposition plus bottom-up *Selbstgleichschaltung*, and tests whether *whole-of-society*, *whole-of-economy*, stakeholder, resilience, partnership, or anti-fascist language performs an older operation | Neither the electrotechnical image nor a contemporary word proves semiconductor polarization, *Gleichschaltung*, corporatism, Fascism, or hybrid war; one symbol, system, narrow coordination, or voluntary thick community is not the polity-scale hazard |
+| Public-private constitutional proxy and organizational dark matter | Delegated public function, private carrier, and Rao's invisible residue of unassigned organizational blame | Public objectives, sovereign-like burdens, gates, or sanctions routed through NGOs, contractors, platforms, standards bodies, or commercial carriers while public duties and responsibility become discontinuous | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#public-private-constitutional-proxy-hazard), Rao's [*The Gervais Principle V*](https://ribbonfarm.com/2011/10/14/the-gervais-principle-v-heads-i-win-tails-you-lose/), and this inventory | Makes the principal--carrier--affected-person chain and the loss of decision ownership visible; keeps Powertalk as a separate possible communication mechanism | Partnership, procurement, grants, NGO status, private action, or missing accountability alone does not establish legal state action, deliberate constitutional evasion, *Gleichschaltung*, a hidden organization, conspiracy, or Powertalk |
 | Photon and carrier-independence | Physics | Persistence across changing carriers | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes relative identity from one material bearer | Not disembodiment and not literal photon transmission |
 | Laser synchronization | Physics | Dynamic collective coherence | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Explains pumped, amplified, phase-like collective discharge | Synchrony is not automatically truth, solidarity, pathology, or agency |
 | Ferromagnetic domains | Physics | Durable alignment, remanence, and boundaries | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Explains persistence and locally sharp cultural patterning | Not one global quantum-coherent state or proof from regional contrast |
@@ -200,26 +204,31 @@ and collective agent.
 not identical with Lacan's public big Other, and successful decoding does not imply
 agreement or obedience.
 
-### 3.4 Wireless collar, Wi-Fi, and repeaters
+### 3.4 Wireless collar, Wi-Fi, and repeater gain
 
 **Status:** Project-developed network family  
 **Primary theoretical homes:** [*Culture Mechanics*, “The wireless
 superpower”](0010-culture-mechanics.semantic-definition.md#11-the-wireless-superpower-the-individual-coupling-interface)
-and [*Epistemic Agency under Mechanical Solidarity*, “Repeaters and
-crowds”](0020-epistemic-agency.semantic-definition.md#repeaters-and-crowds)  
+and [*Epistemic Agency under Mechanical Solidarity*, “Repeater gain and
+crowds”](0020-epistemic-agency.semantic-definition.md#repeater-gain-and-crowds)
+
 **Explanatory target:** Reception, transmission, unequal gain, and aggregate
 amplification
 
 The wireless collar adds a network interface to the local evaluator. Every local
-bigOther receives and transmits. A repeater is a node with greater reach,
-credibility, frequency, connectivity, or institutional amplification. A crowd of
-ordinary transmitters can nevertheless produce a signal stronger than one
+bigOther receives and transmits. **Repeater gain** names greater reach,
+credibility, frequency, connectivity, or institutional amplification. In the
+social morphology it is one dimension of the trusted-opinion-leader function,
+not a separate role. The same network analogy can describe nonhuman infrastructure
+or a crowd of ordinary transmitters that produces a signal stronger than one
 prestigious speaker through applause, repetition, silence, ridicule, or visible
 unanimity.
 
-**Useful inference:** Unequal gain and aggregate synchronization are different
-mechanisms. A leader, trusted opinion figure, institution, peer cluster, ritual,
-or decentralized network can each amplify culture through a different topology.
+**Useful inference:** Unequal carrier gain and aggregate synchronization are
+different mechanisms. Carriers of the trusted-opinion-leader function can have
+different gain, while institutions, peer clusters, rituals, and decentralized
+networks can create amplification without becoming a second class of social
+leader.
 
 **Non-inference:** Radio strength does not combine expertise, trust, truth,
 authority, brokerage, and correction into one quantity. Nor does the picture make
@@ -627,6 +636,381 @@ institutional memory, and sanctions alter the next round of local processing.
 
 **Non-inference:** The theory posits no electromagnetic substance, Maxwellian
 equations, inverse-square social law, or field detached from carriers.
+
+### 4.2A Dotted-semiconductor depiction and first-officer expression {#dotted-semiconductor-depiction-and-first-officer-expression}
+
+**Status:** Project-developed composite analogy preserving an originating visual
+model and command-role comparison
+
+**Prior-work neighbours:** The fictional command-role comparison is
+project-developed, but component relations have older military and corporate
+neighbours. Military examples include [Falconer's naval lieutenant
+(1769)](https://paulturnbull.org/project/southseas/refs/falc/0806.html), [von
+Steuben's distributed officer--NCO discipline and reporting
+(1779)](https://www.loc.gov/item/05030726/), [Jomini's bidirectional chief-of-staff
+relation (1862 English
+edition)](https://www.gutenberg.org/cache/epub/13549/pg13549-images.html), [the
+proposed naval executive-officer organization
+(1886)](https://www.usni.org/magazines/proceedings/1886/october/naval-reorganization), and
+[Moss's public-unity/private-criticism rule
+(1906)](https://archive.org/details/officersmanualf00mossgoog). Corporate and
+organizational neighbours include [Barnard's formal--informal organization
+(1938)](https://openlibrary.org/books/OL6381483M/The_functions_of_the_executive),
+[O'Donnell's *assistant-to*
+(1960)](https://cmr.berkeley.edu/1960/05/2-3-the-role-of-the-assistant-a-modern-business-enigma/),
+[Likert's linking pin
+(1961)](https://books.google.com/books?id=VYlqAAAAMAAJ), [Dale's general-staff
+account
+(1969)](https://books.google.com/books/about/Management_theory_and_practice.html?id=8XAtAAAAIAAJ),
+and [Kanter's critical boss--secretary analysis
+(1977)](https://openlibrary.org/books/OL21289510M/Men_and_women_of_the_corporation).
+They make the comparison less isolated but do not supply the complete analogy,
+establish its origin, or make their offices synonyms for first-officer mediation.
+
+**Primary theoretical home:** [*Epistemic Agency under Mechanical Solidarity*,
+“Functional morphology of mechanical
+solidarity”](0020-epistemic-agency.semantic-definition.md#12-functional-morphology-of-mechanical-solidarity)
+
+**Explanatory target:** The whole social formation joining a population body,
+distributed carriers of the trusted-opinion-leader function, a field-generating
+and directing function, a common field, reciprocal coupling, and possible
+collective execution
+
+The originating picture is a **dotted semiconductor lattice** exposed to an
+applied field. The undifferentiated lattice represents the ordinary population
+body. Dots distributed through it are only the drawing's marks for local instances
+or carriers of the trusted-opinion-leader function. They do not name a separate
+“dot function” or social kind. The apparatus producing the field represents the
+chief, office, broadcast stack, ritual centre, or distributed emitter function.
+The complete mapped object is all of these together. Because no single sketch
+shows every relation with equal clarity, the following four views form one
+**coordinated diagram suite**. They are projections of the same morphology, not
+four different social formations.
+
+**View 1 — whole-formation inventory**
+
+```text
+WHOLE SOCIETY / BOUNDED SOLIDARITY-BEARING FORMATION
+│
+├── broadly homogeneous population body
+│   ├── ordinary persons with relevantly aligned local bigOthers
+│   └── embedded carriers of the trusted-opinion-leader function
+│
+├── common mythology and Culture Program
+│   └── compressed symbols + decompressed narratives and practices
+│
+├── mechanical-solidarity field
+│   └── common beliefs and, especially, common sentiments
+│
+├── distributed bigOther
+│   └── may remain diffuse or integrate into an operative multi-mind-self
+│
+├── chief / field-generating and directing function
+│   └── centralized, institutional, synthetic, or distributed
+│
+└── reciprocal coupling
+    ├── society invests, authorizes, and animates (beseelt) the chief-function
+    └── chief-function perceives, directs, and acts through and for society
+```
+
+This inventory uses branches to expose analytically distinguishable positions,
+media, and relations. It does not imply that mythology, field, distributed
+bigOther, and persons are physically separable compartments. Most importantly,
+the whole includes both the dotted population body and the directing function.
+
+**View 2 — chief-facing first-officer mediation**
+
+```text
+                         CHIEF FUNCTION
+                    elevated and symbolically pure;
+                 identified with the collective whole
+                              Picard
+                                │
+         broad direction ↓      │      ↑ protected counsel,
+       delegated standing       │        sensing, and correction
+                                │
+             FIRST-OFFICER EXPRESSION OF THE
+              TRUSTED-OPINION-LEADER FUNCTION
+       visible respect; protective loyalty; confrontation
+                              Riker
+                                ↑
+            criticism, accusation, ridicule, hostility
+                                │
+                              CRITIC
+```
+
+This view isolates symbolic shielding and operational mediation. The carrier can
+intercept a challenge at the ordinary interpersonal level, so the chief need not
+enter every detail or symmetrical contest, while still routing material
+information and correction upward. It does not place the chief beyond
+answerability or make criticism illegitimate.
+
+**View 3 — field applied to the dotted population body**
+
+```text
+                    CHIEF / FIELD-GENERATING
+                      AND DIRECTING FUNCTION
+                                ↕
+        common direction ↓      │      ↑ recognition, response,
+                                │        sensing, common conscience
+                                ↕
+  ┌──────────────────────────────────────────────────────────────┐
+  │ ordinary members    • trusted carrier: priest                │
+  │ local bigOthers     • trusted carrier: official              │
+  │ ordinary members    • trusted carrier: teacher               │
+  │ local bigOthers     • trusted carrier: intellectual          │
+  │ ordinary members    • trusted carrier: organizer             │
+  │ local bigOthers     • trusted carrier: recognized interpreter│
+  └──────────────────────────────────────────────────────────────┘
+                     DOTTED POPULATION BODY
+```
+
+The dots mark trusted carriers embedded among ordinary members; they are not a
+second population or a separately named function. The directing function is
+topologically outside the population-body box in this view but remains inside the
+whole society shown in View 1.
+
+**View 4 — simultaneous coupling and gain**
+
+```text
+chief / field-generating and directing function
+        ↕  direction, recognition, sensing, and correction
+whole dotted population body
+        ↕  local reception, interpretation, modelling, and response
+embedded carriers of the trusted-opinion-leader function
+        ↕  can raise local and system-wide gain
+collective response returns through the body to the directing function
+        ↺
+```
+
+The vertical layout must not be read as a temporal pipeline or as four external
+layers. The carriers in the third line are already embedded in the population
+body in the second. The arrows depict simultaneous recursive coupling: the field
+acts locally, trusted carriers increase and interpret its gain, the population's
+response becomes mutually perceptible, and that response animates, informs,
+constrains, or destabilizes the directing function.
+
+Calling only the chief, transmitter, or control circuit the functional form would
+therefore omit the dotted crystal; calling only the population body the functional
+form would omit direction and feedback.
+
+| Physical or diagrammatic element | Culture-mechanical counterpart |
+|---|---|
+| Comparatively regular lattice | Population body whose local bigOthers share relevant classifications and sentiments |
+| Dots in the drawing | Local human or role-authorized carriers of the distributed trusted-opinion-leader function; the mark is notation, not an additional theory construct |
+| Field-generating apparatus | Central chief, office, institutional interface, media system, synthetic voice, or distributed ecology of storytellers and authorities |
+| Applied field | Common mythological-affective direction made perceptible through symbols, classifications, narratives, rhythm, exemplarity, and expected response |
+| Local orientation under the field | Changes in salience, sentiment, legitimacy, attention, judgment, and conduct inside local bigOthers |
+| Back-reaction upon the apparatus | Recognition, reverence, applause, correction, resistance, and common conscience that authorize, animate, constrain, or destabilize the directing function |
+| Macroscopic configured material | The complete functional morphology and, only if the separate threshold is met, an operative multi-mind-self |
+
+#### *Gleichschaltung* as a transition operator {#gleichschaltung-transition-mapping}
+
+The Nazi term ***Gleichschaltung*** had an
+[electrotechnical origin](https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320425/gleichschaltung/),
+but its controlled use here is a Culture Mechanics extension. It names the
+transition process rather than the completed macroscopic configuration:
+
+```text
+plural institutional domains + differently oriented local bigOthers
+        ↓ dissolution, replacement, capture, dependency, common routing
+human carriers + symbols/markers + institutional systems lose independence
+        ↓ one privileged ideological direction supplies common orientation
+field reaches and aligns the differentiated population body and its systems
+        ↓ anticipatory adaptation and Selbstgleichschaltung raise gain
+collective response returns to the directing function
+        ↓ may produce, but does not yet establish
+strong polity-scale functional morphology of mechanical solidarity
+```
+
+The external-field picture is therefore only one projection. Historical
+*Gleichschaltung* also altered the social material's wiring: organizations were
+dissolved or subordinated, independent appointments and correction routes were
+removed, and high-gain carrier positions were captured or replaced. The German
+Historical Museum describes both forced and voluntary adaptation
+([DHM](https://www.dhm.de/lemo/kapitel/ns-regime/etablierung/gleichschaltung))
+and the associated societal
+[*Selbstgleichschaltung*](https://www.dhm.de/archiv/ausstellungen/hitler-und-die-deutschen/die_deutsche_gesellschaft_und_hitler.html).
+That bottom-up component maps to local alignment and back-action, not to free
+consent by the whole population.
+
+The transition must be observed across the whole Systems Leadership installation:
+
+```text
+FLESH AND BLOOD          SYMBOLS / CONFORMITY MARKERS
+leaders · trusted       flags · emblems · uniforms · slogans
+carriers · officials    rituals · salutes · badges · displays
+          ↘                       ↙
+            COMMON DIRECTION
+          ↗                       ↖
+SYSTEMIC SKELETON       CROSS-PLANE FEEDBACK
+law · offices ·         public response · peer enforcement
+curricula · finance     institutional action · correction loss
+sanctions · exceptions
+```
+
+The common direction can become morphologically visible in convergent people,
+symbols, and systems before the analyst can reconstruct one complete Culture
+Program or assign its genealogy. Conversely, one flag, emblem, ritual, uniform,
+common information system, law, or exception mechanism does not establish the
+transition. A Fraenkelian *Maßnahmenstaat* can supply relevant system-plane
+evidence when prerogative override enforces the alignment, but it remains a
+separate typed finding and is neither necessary nor sufficient.
+
+The analogy does not assert that the original technical word meant dielectric or
+semiconductor polarization, that a society is a circuit, or that every common
+symbol, standard, system, or emergency measure applies one ideological field.
+The canonical
+[polity-scale diagnostic and voluntary-thick-community/plural-society
+boundary](0060-culture-program-ecology.semantic-definition.md#polity-scale-gleichschaltung-hazard)
+control the inference. *Gleichschaltung* is the attempted transformation;
+functional morphology is the possible result.
+
+##### New labels over old wiring
+
+The [canonical historical-to-active vocabulary
+crosswalk](0060-culture-program-ecology.semantic-definition.md#historical-to-active-vocabulary-crosswalk)
+adds a linguistic layer to this transition analogy. *Whole-of-society*,
+*whole-of-government*, and *whole-of-economy* can name the reach of a field;
+stakeholder capitalism, public-private partnership, multistakeholder governance,
+ESG, common metrics, and sustainable-finance taxonomies can name possible
+economic wiring; human-terrain and back-of-house-retaliation language can name
+possible target and enforcement models. None is a plug-compatible synonym for
+the historical term.
+
+```text
+CURRENT LABEL
+      ↓ remove benevolent or hostile wrapper
+CLAIMED OPERATION AND SCOPE
+      ↓ inspect people + symbols + systems + correction
+EVIDENCED INSTITUTIONAL WIRING
+      ↓ apply separate gates
+coordination | corporatism | Gleichschaltung | Fascism | hybrid-war strategy
+```
+
+The controlled Loki use is double-edged: the new label cannot make an evidenced
+operation innocent, and the analogy cannot make an unevidenced operation guilty.
+A disaster plan with plural authority, protected rights, bounded duration,
+independent correction, and a stopping condition may properly be
+whole-of-society without applying one ideological field. Conversely, dispersed
+public and private institutions can perform one alignative operation without
+reusing any Nazi vocabulary. The empirical question is who directs what through
+which human, symbolic, financial, technical, legal, and organizational routes;
+who absorbs error; and whether refusal, competition, appeal, correction, and
+exit remain effective.
+
+No large institution sits outside that test. WHO, NATO, the UN, a government, a
+firm, or an NGO does not receive an innocent default from its name, mission, or
+international status. In the skeleton--living-body mapping, a national or
+supranational body may already have an unusually extensive skeleton of mandates,
+funding, standards, member interfaces, data, logistics, and communication
+channels. If an alignative operation captures or uses it, the reachable
+population and blast radius may exceed those of a single polity. That warrants
+proportionately stronger vigilance and safeguards, not automatic conviction:
+installed capacity changes conditional severity, not evidence that misuse has
+occurred.
+
+###### Public-private proxy and dark-matter residue
+
+The controlled picture for outsourced public or sovereign-like functions is:
+
+```text
+PUBLIC PRINCIPAL          PRIVATE CARRIER             AFFECTED PERSON
+purpose · funds ·         NGO · contractor ·          burden · exclusion ·
+pressure · privilege  →  platform · company      →   sanction · service gate
+       │                         │                           │
+       └── “independent actor”   └── “public mandate”       └── no clear appeal
+                         ↓
+       fragmented rule · record · reason · review · remedy ownership
+                         ↓
+              ORGANIZATIONAL DARK MATTER
+               unassigned responsibility
+```
+
+The diagram does not mean that every private carrier is controlled, every public
+principal is evading law, or responsibility literally vanishes. It asks whether
+the function crosses the organizational boundary while constitutional duties,
+records, reason-giving, correction, appeal, and repair fail to cross with it.
+Formal distance is not operational independence; public money is not operational
+control.
+
+Rao's source analogy is exact only at the responsibility-residue level. In [*The
+Gervais Principle V*](https://ribbonfarm.com/2011/10/14/the-gervais-principle-v-heads-i-win-tails-you-lose/),
+organizational dark matter is blame left unaccounted for by a leaky allocation
+scheme, not a clandestine organization. The project extends the image across
+organizational boundaries. Rao's
+[Powertalk](https://ribbonfarm.com/2009/11/11/the-gervais-principle-ii-posturetalk-powertalk-babytalk-and-gametalk/)
+may describe consequential, plausibly deniable signalling between public and
+private actors, but it is not the dark matter itself and is not inferred from a
+partnership or responsibility gap.
+
+The carriers represented by the dots can be present inside an assembled crowd.
+Their visible attention, posture, speech, applause, silence, correction, or
+indignation helps interpret the event for nearby participants and makes the
+expected response mutually perceptible. Outside the assembly they translate the
+common address into local settings and preserve it across time. The
+trusted-opinion-leader function can attach partly to an institutional role, so a
+previously unknown authorized occupant can inherit trust and gain while a former
+occupant can lose them.
+
+The field generator can be centralized or distributed. A teacher before pupils is
+a relatively asymmetric case. A chief-incarnation configuration is more
+reciprocal: the population invests the chief with the represented collective
+being's elevated character, and the chief gives concentrated direction back. A
+polycentric mythology can instead be generated by many storytellers, rituals,
+offices, and media carriers without one indispensable biological chief. A
+*Volksempfänger* set is a receiver, not a sovereign emitter by itself; the mapped
+function is the wider authorized production, transmission, reception, and
+feedback stack.
+
+The field-generating and directing function is not merely another name for a
+high-gain trusted opinion leader. It remains the distinct helm-like position in
+the complete morphology. One person or office can carry both functions, however,
+and a distributed-emitter realization can arise when many carriers of the
+trusted-opinion-leader function jointly participate in field generation.
+
+The analogy is deliberately composite. Semiconductor lattices, dopants, charge
+carriers, electric dipoles, polarization, and static fields are distinct physical
+objects and processes. The picture borrows only their visual and relational
+structure. It proposes no semiconductor equation for society and does not imply
+that people are inert sites.
+
+#### Chief-facing expression: Captain Picard and Commander Riker
+
+The originating *Star Trek* comparison isolates one chief-facing expression of
+the same trusted-opinion-leader function represented by dots in the lattice
+drawing. Captain Picard represents an elevated directing position that
+ideally supplies broad direction and does not descend into every operational
+detail or personal contest. Commander Riker represents a trusted subordinate who
+approaches the captain with visible respect, translates direction into execution,
+defends the captain against direct attack, and can take the ordinary interpersonal
+force of confrontation himself.
+
+| Command-role picture | Culture-mechanical counterpart |
+|---|---|
+| Captain gives direction while remaining above routine contention | Chief or directing organ preserves a purified, dignified, or superhuman presentation |
+| First officer visibly respects and defends captain | Carrier of the trusted-opinion-leader function models recognition and validates the elevated organ for others |
+| First officer handles detail and confrontation | Carrier interprets, operationalizes, argues, enforces, and absorbs symbolic damage at the human level |
+| Several senior officers mediate different domains | Distributed trusted nodes extend direction through the population body without becoming one chief |
+| First officer reports operational reality upward | Carrier can preserve correction rather than merely insulate authority |
+
+**Useful inference:** Elevation can be relationally maintained through one
+expression of trusted opinion leadership. A directing organ need not personally
+answer every critic if trusted subordinate carriers preserve
+its distance from detail, defend its symbolic standing, and route its direction
+through the formation. The mechanism can help explain how a biological person is
+presented as the unsullied incarnation of something larger than a biological
+person.
+
+**Non-inference:** The analogy neither classifies *Star Trek* nor makes hierarchy,
+loyalty, delegation, or defence pathological. It does not prove that the elevated
+person represents a real operative multi-mind-self, that criticism is illegitimate,
+or that subordinate carriers are manipulators. Shielding activity becomes a
+correction failure when it prevents adverse evidence, blocks appeal, converts
+criticism into disloyalty, hides appropriation of the office, or makes the
+directing organ practically unanswerable. The same carriers can instead be
+indispensable truth-carriers who protect both effective direction and bounded
+correction.
 
 ### 4.3 Photons and relative carrier-independence
 
@@ -1112,6 +1496,49 @@ describes assemblies in which a “sort of electricity” forms, sentiments echo
 amplify, and movements become rhythmic and unified; the English translation also
 calls religious technique a “sort of mystic mechanics.” This is a close source
 neighbor to the laser moment, not a laser theory.
+
+#### Counterpressure against progressive preponderance
+
+Durkheim's further historical proposal is stronger than the distinction between
+the two solidarities: he says that one corresponding social type progressed as
+the other retrogressed, that the solidarities develop in inverse ratio, and that
+social organization tends toward an almost exclusively occupational basis. The
+project treats this **progressive-preponderance hypothesis as contestable and
+possibly wrong**, rather than building it into the meanings of *mechanical* and
+*organic solidarity*.
+
+```text
+strong inverse-development expectation
+organic differentiation increases
+        → mechanical-solidarity preponderance necessarily retreats
+
+military counterpressure described by Ardant du Picq
+modern arms + open formations + dispersion + more independent local action
+        → stronger need for common discipline, confidence, and moral cohesion
+
+nation-scale stress case: the Nazi experiment
+industrial specialization + bureaucracy + logistics remain operative
+        + leader incarnation + trusted carriers + ritual + synchronized media
+        → intensified mechanical-solidarity morphology
+```
+
+Ardant du Picq's nineteenth-century [*Battle
+Studies*](https://www.gutenberg.org/files/7294/7294-h/7294-h.htm) predates
+Durkheim and is therefore independent counterevidence rather than a conscious
+reply. Du Picq argues that the increased distance among arms, battlefield
+dispersion, open formation, and greater independence of local action make “moral
+cohesion” and a more binding unity increasingly necessary. The military case
+shows the combination inside a bounded, intensely differentiated organization.
+National Socialist Germany—the **Nazi experiment** in the project's shorthand—is
+the larger historical case: a modern industrial division of labour was preserved
+and recruited while a regime intensified common mythology, leader incarnation,
+ritual alignment, carrier gain, and synchronized communication.
+
+The cases do not prove that organic solidarity never becomes historically
+preponderant, that every military is a multi-mind-self, or that differentiation
+always strengthens mechanical solidarity. They challenge the necessary inverse
+relation. Durkheim's analytical distinction can remain useful even if his
+developmental expectation requires rejection or substantial revision.
 
 #### Legal provenance without etymological reduction
 
@@ -1610,7 +2037,7 @@ The controlled mapping is:
 | Containment | Law, role boundaries, responsibility, due process, refusal, and protection against uncontrolled spillover | Plural institutions, bounded jurisdiction, independent audit, appeal, correction, and preserved rival accounts |
 | Sensors, operators, alarms, and shutdown paths | Formative feedback identifies overload, damage, misdirection, or failed practice | Evidence and criticism can lower confidence, stop an inference, revise a model, or remove an interpreter |
 | Efficient plant powering a destructive project | **Destructive sublimation:** disciplined capability is successfully produced but serves domination, persecution, terminal rupture, or another destructive end | Accurate or coherent reasoning can serve a death-drive or unjust objective without thereby becoming un-reason |
-| Loss of regulation, cooling, or containment | **De-binding or desublimation:** mediation fails and drive returns as compulsive discharge, phantasmagoric disorganization, or destructive mobilization | Correction may collapse into organized unreality, but the resulting breakdown is an outcome rather than the definition of un-reason |
+| Loss of regulation, cooling, or containment | **De-binding or desublimation:** mediation fails and drive returns as compulsive discharge, phantasmagoric disorganization, or destructive mobilization | Correction may collapse into organized un-reality, but the resulting state is an outcome rather than the definition of un-reason |
 | Safety logic captured by the demand to keep operating | Disciplined capacities and institutions protect the continuation of their own harmful operation | **Un-reason:** thresholds move after challenge, inconvenient sensors are discredited, alarms are redescribed as confirmation, and the protected account controls its own inspection and shutdown conditions |
 
 The analogy therefore separates three failures that the image of one “explosion”
@@ -1681,7 +2108,221 @@ warnings remain legible, thresholds are stable and reciprocal, correction
 changes practice, and operators or interpreters cannot control their own final
 review.
 
-### 4.15 Farming, reality-mediated education, and the secession-or-force fork {#farming-reality-mediated-education-and-the-secession-or-force-fork}
+### 4.15 *The Emperor's New Clothes*: un-reality, procession inertia, and correction nullification {#the-emperors-new-clothes-un-reality-and-procession-inertia}
+
+**Status:** Source-attested literary analogy with a project-developed mapping
+
+**Primary semantic home:** [*Epistemic Constitution*, “Un-reality: operative
+reality-status insulated from
+reality”](0030-epistemic-constitution.semantic-definition.md#un-reality-operative-reality-status-insulated-from-reality)
+
+Hans Christian Andersen's [***The Emperor's New
+Clothes***](https://www.gutenberg.org/files/1597/1597-h/1597-h.htm) supplies a
+compact model of how nonexistent content can acquire operative public
+reality-status. The swindlers claim that their cloth is invisible to anyone
+unfit for office or extraordinarily foolish. Each observer sees the empty loom,
+but contrary perception threatens competence, office, and social standing. The
+minister, officers, emperor, court, and crowd therefore praise what they cannot
+see, and each public performance becomes apparent evidence for the next
+observer.
+
+The controlled sequence is:
+
+```text
+empty loom and nonexistent cloth
+        ↓
+self-sealing rule: inability to see proves stupidity or unfitness
+        ↓
+direct perception becomes personally and institutionally costly to avow
+        ↓
+officials learn and repeat descriptions of colours and patterns
+        ↓
+performed assent becomes apparent consensus and social confirmation
+        ↓
+the nonexistent clothes acquire operative public reality-status
+        ↓
+status, expenditure, office, ceremony, and conduct organize around them
+        ↓
+organized un-reality
+```
+
+The mapping separates several layers:
+
+| Tale element | Culture Mechanics mapping | Boundary |
+|---|---|---|
+| Empty looms and absent clothes | False or nonexistent represented content | Falsity alone is not un-reality. |
+| Invisibility to the foolish or unfit | Self-sealing classifier: contrary observation discredits the observer rather than the account | One hostile response to criticism is not yet a stable self-sealing system. |
+| Fear of losing competence, office, or standing | Participation pressure and public-avowal cost | Not every participant privately knows a lie; several doubt their own judgment. |
+| Officials repeat supplied colours and patterns | Distributed reconstruction and reproduction of an authorized representation | Repetition does not establish identical motive or one complete plan at every node. |
+| Court and crowd praise the clothes | Public performance produces apparent consensus and corrupts epistemic telemetry | Consensus can be genuine where avowal is free and causal routes are independent. |
+| Ceremony, expenditure, titles, and procession | The representation acquires practical jurisdiction and allocative consequences | Social consequence does not make the clothes materially exist. |
+| The child's statement | A low-status observation re-enters public speech and reopens a correction interface | Direct perception is fallible and is not a sovereign method for every technical or historical question. |
+| Crowd repeats the correction | Apparent consensus breaks; shared observation becomes publicly admissible | Speakability is necessary but not sufficient for institutional repair. |
+| Emperor and train-bearers continue | **Procession inertia:** authority recognizes the correction while institutional performance continues | Exposure does not automatically change incentives, office, resource allocation, procedure, or rule. |
+| Counterfactual emperor refuses acknowledgment and proceeds as if nobody spoke | **Correction nullification:** a speakable and independently sustained correction is denied reception, answerability, and uptake | This is a project-developed contrast, not an event attributed to Andersen's emperor. Non-acknowledgment alone does not prove the correction true, deliberate stonewalling, or one coordinated field. |
+
+The tale therefore supports the project's expressive compression:
+
+> **A lie becomes un-real when everyone must inhabit it, and un-reason begins
+> when intelligence is recruited to explain why the visible contradiction cannot
+> count.**
+
+The primary semantic definition controls the qualifiers. *Lie* is used in the
+broad systemic-lying register rather than as proof that every carrier knowingly
+deceives. *Everyone must inhabit it* means that relevant participants must orient
+consequential conduct as if the account were authoritative, not that every person
+believes it or that the reach is literally universal. *Visible contradiction*
+means independently inspectable counterevidence capable in principle of changing
+practice, not only naked-eye perception.
+
+The ending is crucial. The child makes the observation speakable; the people
+repeat it; the emperor recognizes that they are right. Yet he concludes that the
+procession must continue, and the chamberlains take still greater pains to carry
+the nonexistent train. The analogy thus distinguishes:
+
+```text
+truth privately perceived
+    ≠ truth publicly speakable
+    ≠ apparent consensus broken
+    ≠ authority publicly corrected
+    ≠ institutional operation revised
+```
+
+The source ending can be contrasted with a controlled counterfactual in which
+the emperor does **not** acknowledge the correction and the surrounding court
+continues as though it had never been uttered:
+
+```text
+TRUTH BECOMES PUBLICLY SPEAKABLE AND SURVIVES INDEPENDENT TEST
+                              │
+                              ▼
+               DEFEATED-BUT-OPERATIVE UN-REALITY
+                              │
+             ┌────────────────┴────────────────┐
+             ▼                                 ▼
+emperor recognizes                     emperor withholds acknowledgment
+the correction                         and acts as though it was not received
+             │                                 │
+             ▼                                 ▼
+ACKNOWLEDGED UN-REALITY                 CORRECTION NULLIFICATION
+             │                                 │
+             ▼                                 ▼
+PROCESSION INERTIA                      COURT-SUPPORTED CONTINUATION
+```
+
+The right-hand branch is not merely momentum when the emperor and court actively
+maintain the old classification. The child now has a transmission channel, but
+the court has learned not to receive. The [primary definition](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia)
+calls the resulting public truth a **dead-letter correction** where no answerable
+receiver can transmit it into adjudication, changed operation, or repair.
+
+**Useful inference:** An un-real representation is not defeated merely because a
+contradiction has been uttered or acknowledged. Operative correction requires a
+route from disclosure into changed confidence, classification, action, resource
+allocation, jurisdiction, remedy, personnel, or governing rule. The question is
+not only whether someone can say that the emperor is naked, but whether the
+procession stops. Where the incumbent refuses acknowledgment, correction need
+not depend on conversion: a lawful independent route can boundedly de-authorize
+the defeated representation or carrier-function at the affected interface.
+
+**Unlicensed inferences:** The analogy does not make every error, fiction,
+simulation, ceremony, expert claim, public consensus, or institutional inertia
+un-real. It does not establish that all participants knowingly lie, that one
+swindler-equivalent designed a real case, that obvious visual inspection can
+settle complex questions, that a child or dissident is automatically correct, or
+that public exposure creates durable repair. Nor does the counterfactual license
+collective punishment, cultural reprogramming, extra-legal removal, or the claim
+that every delayed or unanswered challenge is correction nullification. It
+illustrates relations among content, authority, avowal cost, telemetry,
+reception, correction, and continued operation; it does not itself diagnose a
+person, institution, programme, constitution, or population.
+
+**Possible tests:** Identify the represented content; its authorizing speakers
+and institutions; the status, office, funding, or participation costs attached to
+contrary observation; whether public assent independently reports judgment; what
+the representation classifies or allocates; which evidence should defeat it; and
+whether disclosure changes confidence, policy, resources, jurisdiction, remedy,
+personnel, or rule. The analogy weakens where observers can avow contrary evidence
+without penalty, independent routes remain visible, correction changes practice,
+and no continuing operation depends upon performing the defeated account. Where
+practice does not change, locate the break among *Speak, Record, Receive, Answer,
+Adjudicate, Change operation,* and *Repair*; distinguish reasonable testing and
+implementation time from non-reception; and ask whether a bounded,
+rights-preserving de-authorization route exists.
+
+#### Controlled extension: Bayesian explaining-away and recursive un-reality
+
+The Emperor picture can be extended beyond silence and procession. Suppose each
+collision with the empty loom produces a new authorized explanation: the observer
+is defective, the child's intervention caused the disruption, hostile spectators
+sabotaged the ceremony, or doubt itself proves unfitness. These auxiliary causal
+stories can preserve the first un-real representation while acquiring new
+operative effects of their own.
+
+```text
+reality-contact event supplies a correction threatening U0
+                         │
+                         ▼
+authorized field supplies adverse auxiliary account U1
+                         │
+                         ▼
+U1 is treated as evidence explaining the correction away
+                         │
+                         ▼
+trusted carriers give U1 credibility, translation, and routing
+                         │
+                         ▼
+correction is nullified; U0 remains operative; U1 is installed
+                         │
+                         ▼
+later collision → U2 → U3 → accumulating organized un-reality
+```
+
+The mapping borrows the shape of **Bayesian explaining away** while reversing its
+epistemic discipline. In legitimate causal inference, independently supported
+evidence for one adequate cause can lower confidence in a competing cause. In
+the project-labelled **counterfeit Bayesian updating**, authorization of U1 is
+treated as if it were independent evidence, asymmetric standards protect U1,
+and U1 is then used to cancel the correction that called it forth. The formal
+neighbour is a controlled comparison; no claim is made that the social system
+computes explicit probabilities.
+
+The layers remain distinct:
+
+```text
+UN-REASON
+constructs or accepts the auxiliary causal model protecting U0
+
+TRUSTED-CARRIER CORRECTION LOCK
+gives U1 field credibility, gain, and distributed routing
+
+CORRECTION NULLIFICATION
+prevents the sustained correction from changing operation
+
+SYSTEMIC LYING
+can recurrently generate U1, U2, U3 … at later collisions
+
+ORGANIZED UN-REALITY
+is the accumulating installed stock U0 + U1 + U2 + …
+```
+
+**Useful inference:** Reality can remain causally effective while losing the
+right to interpret its own corrective signal. The old account need not answer a
+collision directly if another authorized account can reclassify its cause,
+meaning, source, or victim.
+
+**Unlicensed inferences:** A new explanation is not un-real because it is adverse,
+post-hoc, institutionally accepted, or protective of an incumbent account.
+Competing causal hypotheses are necessary to inquiry. The stronger mapping
+requires inadequate independent support or failed reciprocal testing, operative
+authorization, protection of U0, blocked correction, and practical consequences.
+Nor does one cascade establish systemic lying, one coordinated carrier field,
+intent, or a Shadow Sovereign. The primary definition belongs to [*Epistemic
+Constitution*](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-reality-explaining-away-cascade),
+and the receiving-field morphology to [*Epistemic
+Agency*](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock).
+
+### 4.16 Farming, reality-mediated education, and the secession-or-force fork {#farming-reality-mediated-education-and-the-secession-or-force-fork}
 
 **Status:** User-originated analogy and strong thesis with a project-developed
 cross-scale mapping
@@ -1816,7 +2457,7 @@ every multi-mind-self:
 
 ```text
 Pure-Ideology finality
-+ integrated multi-mind-self agency
++ integrated operative multi-mind-self agency
 + closure against accessible defeat and reciprocal correction
 + compulsory supremacy
 + incompatible binding outputs
@@ -2154,7 +2795,7 @@ be catastrophic, scalable, recurrent, persistent, and hard to reverse
 | Proliferation | Reproduction across carriers, organizations, states, and descendants |
 | Delivery or activation | Symbols, leaders, crises, networks, rituals, and institutional triggers |
 | Production, support, and delivery infrastructure | Culture Program carrying structure: finance, formation, recruitment, communications, logistics, appointments, protection, and succession |
-| Declared intent or claimed authorization | Self-Attribution Presumption: believe the credible proclamation first as evidence of the actor's operative understanding and treat it as a program warning before testing causal scope |
+| Declared intent or claimed authorization | Self-Attribution Presumption plus Self-Description Valence Asymmetry: give a credible adverse self-attribution first-pass credence about the actor's operative understanding; favourable self-description does not exculpate operation or consequences |
 | Containment | Bounded jurisdiction, correction, exit, succession, institutional separation, and lawful restriction |
 | Attribution problem | Distinguishing parent, descendant, braid, captor, carrier, and external cause |
 | Capability-focused prevention | Map and, where a demonstrated nexus exists, interrupt hazardous flows, nodes, or functions without treating belief or membership as individual guilt |
@@ -2823,12 +3464,17 @@ mechanical-solidarity coherence
 magnetized domains and remanence
                 ↓ can supply a high-level protocol for
 organic differentiation / clockwork coordination
-                ↓ under sufficient integration may contribute to
-multi-mind-self
+                ↓ can be organized with population, carriers, and direction as
+functional morphology of mechanical solidarity
+                ↓ can produce
+multi-mind-self presentation
+                ↓ under sufficient integration may become
+operative multi-mind-self
 ```
 
-The final arrow is conditional. A mechanically solidary field or synchronized
-crowd can remain below the collective-agent threshold.
+The final arrow is conditional. A mechanically solidary field, complete
+morphology, self-presentation, or synchronized crowd can remain below the
+collective-agent threshold.
 
 The molecular, resonance-catastrophe, and Ragnarök-trajectory models do not
 extend this diagram into a universal ladder. They answer different questions:
@@ -2858,8 +3504,10 @@ compatible packages     → constituents of one operative weave
 braid                    → relations making that weave durable
 assembly language        → culturally executable operations within it
 shared protocol          → public form enabling local interoperability
-Wi-Fi/repeaters           → topology and gain of transmission
+Wi-Fi/repeater gain       → amplification dimension of trusted opinion leadership
 field                    → emergent network pattern plus back-action
+dotted lattice/emitter   → complete morphology joining population, TOL carriers,
+                            direction, field, and feedback
 operating system         → society-wide rules for authority and correction
 ```
 
@@ -3230,7 +3878,7 @@ operationalizes, narrows, or declines it.
 | **“Ethik ist eine Waffe”** and **Vierschritt der Kontrolle** | Relevant-structure-weaponization schema: my side as structural support, rival as damage or tolerated damage | Legitimate moral reasoning also examines effects on valued structures. Weaponization requires separate evidence of fabrication, selective omission, pre-emption, or coercive deployment. |
 | **“Denken tut weh”** | Cognitive-relief hypothesis for one adoption pathway under complexity, uncertainty, social exposure, and responsibility | Wegner's grandmother's phrase is situated testimony, not a prevalence estimate. The mediation model, tests, and falsifier are project-developed and do not classify people by intelligence. |
 | [***Talking Points* maxim**](https://www.dushanwegner.com/buecher/talking-points/): political language should motivate people to entrust their lives to the politician and give the politician power over them | Political language as an authorization bid; authorization-payload audit after PCP: requested power, object, jurisdiction, duration, discretion, oversight, revocation, termination evidence, opponent restrictions, and epistemic spillover | The maxim is Wegner's and the page explicitly presents *Talking Points* as a complement to *Relevante Strukturen*. The authorization-bid translation, typed payload, and audit are Culture Mechanics synthesis; the maxim is not an exhaustive law of every political utterance or a condemnation of legitimate delegation. |
-| Self-image, context-poor dilemmas, and sincere hypocrisy | Pointers to identity-protective cognition, overcompressed problem models, and distributed organized unreality | These are useful comparisons and examples rather than additional foundational constructs at present. |
+| Self-image, context-poor dilemmas, and sincere hypocrisy | Pointers to identity-protective cognition, overcompressed problem models, and distributed organized un-reality | These are useful comparisons and examples rather than additional foundational constructs at present. |
 | Stability calculus, concentric moral order, ape/philosopher picture, and broad evolutionary or historical assertions | Provenance-only material or future independent research questions | They are not canonical Culture Mechanics constructs. The concentric order is a first-order moral programme; the ape/philosopher picture does not map onto main CPU/local bigOther; historical and evolutionary claims require their own evidence. |
 
 The combined bridge is:
@@ -4132,9 +4780,12 @@ transition capacity, and the scripts made possible after victory.
    of persons remain separate axes.
 5. **Order is not truth:** Long-range coherence can amplify insight or error.
    Independent information routes and minority perception may be essential.
-6. **Order is not agency:** Coherence becomes a multi-mind-self only if the
-   distributed system has sufficient continuity and integration for perception,
-   memory, judgment, intention, ownership, and action.
+6. **Order or self-presentation is not agency:** Coherence, a complete functional
+   morphology, or representation of the collective as one self becomes an
+   operative multi-mind-self only if the distributed system has sufficient
+   continuity and integration for perception, memory, judgment, intention,
+   ownership, and action. Unqualified *multi-mind-self* can be explanatory
+   shorthand; it cannot carry a strict agency inference by itself.
 7. **Statistical scope:** Population-level regularity can coexist with dissent,
    strategic behavior, heterogeneous susceptibility, and individual exceptions.
 8. **Operational burden:** An analogy that proposes a mechanism should eventually
@@ -4246,6 +4897,20 @@ transition capacity, and the scripts made possible after victory.
     fit proves neither common origin, communist identity, intention, moral
     equivalence, totalitarian operation, nor interchangeability of territorial,
     state, legal, educational, and organizational forms.
+32. **The Emperor analogy does not make visibility or exposure sovereign:** A
+    visible contradiction can reopen public correction without settling complex
+    causal questions or changing institutional operation. The analogy requires
+    separate evidence for un-real reality-status, un-reason, organized
+    un-reality, correction nullification, systemic lying, deliberate deception,
+    and actual repair. Its non-acknowledging branch is a project counterfactual,
+    not a rewritten ending or proof that every silent authority is a bad actor.
+33. **Bayesian explaining-away is not inherently counterfeit:** Independently
+    supported alternative causes can legitimately change posterior confidence.
+    The recursive-un-reality mapping additionally requires operative U0,
+    threatening reality contact, inadequately supported or asymmetrically
+    protected U1, authorization, blocked correction, and practical consequence.
+    No explicit probability calculation, coordinated carrier field, systemic
+    lying, or Shadow Sovereign follows from the analogy.
 
 ## 9. Open questions and research programme
 
@@ -4267,6 +4932,31 @@ transition capacity, and the scripts made possible after victory.
   programme and containing order depend?
 - Which criteria distinguish a powerful laser crowd from a continuing
   multi-mind-self?
+- Which observations distinguish a multi-mind-self presentation from an operative
+  multi-mind-self, especially where an incarnating chief speaks and acts in the
+  collective's name?
+- Can centralized, institutionally mediated, synthetic, and distributed-emitter
+  realizations of the functional morphology be distinguished by observable
+  routing, feedback, succession, and correction patterns?
+- Which temporal and cross-domain signatures distinguish an early polity-scale
+  *Gleichschaltung* process from ordinary coordination, parallel institutional
+  adaptation, emergency convergence, or a completed mechanical-solidarity
+  morphology?
+- Which combinations of scope language, stakeholder intermediation, common
+  metrics, public-private routing, symbolic conformity, and correction loss best
+  distinguish vocabulary migration over an old operation from bounded plural
+  coordination using the same contemporary words?
+- Which public-nexus, constraint-delta, decision-ownership, record, review,
+  counterfactual, and remedy observations distinguish an independent contractor
+  or NGO from a constitutional proxy and unassigned responsibility from merely
+  distributed but still traceable responsibility?
+- Which effective-exit, jurisdiction, rights-shell, and captive-membership tests
+  best distinguish voluntary thick-community *Beseelung* from population-scale
+  ideological alignment?
+- When does the first-officer expression of trusted opinion leadership improve
+  translation and reality correction, and when does its shielding activity make
+  the directing organ unanswerable or conceal private appropriation of collective
+  authority?
 - Which continuity carriers distinguish an episodic multi-mind-self from several
   similar but numerically distinct crowd episodes?
 - Can agentified Beseelung, bigOther-as-Thou, distributed enactment, and authorial
@@ -4369,6 +5059,14 @@ transition capacity, and the scripts made possible after victory.
   Does Pageau's Grail question improve discrimination among declared use,
   effective beneficiary, institutional objective, competitive escalation, and
   long-run trajectory, or merely invite an unsupported hidden-master story?
+- Does the Emperor analogy help distinguish false content, un-real public
+  reality-status, possible un-reason, apparent-consensus breakdown, and operative
+  correction? Which cases continue their “procession” after public disclosure,
+  which acknowledge the correction, and which nullify it through non-reception?
+  Where does the chain from *Speak* through *Record, Receive, Answer, Adjudicate,
+  Change operation,* and *Repair* break, and which changes in confidence,
+  classification, action, resources, jurisdiction, remedy, personnel, or rule
+  establish that correction became effective?
 - Does the farming analogy identify correction loops that are materially tighter,
   more attributable, and less power-mediated than ordinary adult instruction, or
   does it conceal ownership, labour, subsidy, externality, and delayed-feedback
@@ -4393,13 +5091,53 @@ transition capacity, and the scripts made possible after victory.
 ## 10. Provenance and attribution summary
 
 - **Émile Durkheim** supplies mechanical and organic solidarity, collective
-  consciousness, collective effervescence, electricity/energy imagery, rhythmic
-  unity, and a social-force lineage. His [“Les principes de 1789 et la
+  consciousness, homogeneous and segmental structure, politico-familial
+  organization, collective personality, the common conscience acting through a
+  defined organ, the chief as organized incarnation, collective effervescence,
+  electricity/energy imagery, rhythmic unity, and a social-force lineage. His [“Les principes de 1789 et la
   sociologie”](https://education.persee.fr/doc/revin_1775-6014_1890_num_19_1_9561_t1_0450_0000_1)
   supplies situated testimony concerning aspirations, articles of faith,
   revolutionary religion, mass movement, persistence, and structural change. He
-  did not propose lasers, ferromagnetic domains, molecular binding,
+  did not propose lasers, ferromagnetic domains, a dotted-semiconductor lattice,
+  distributed emitters, the first-officer expression of trusted opinion
+  leadership, molecular binding,
   *Resonanzkatastrophe*, PCI slots, local bigOthers, or clockwork crowds.
+- **The project author** supplies the whole-society dotted-lattice picture, the
+  insistence that the population body and field-generating function belong to one
+  complete morphology, the possibility of centralized, synthetic, or distributed
+  emitters, the distributed trusted-opinion-leader carriers represented by the
+  drawing's dots, organ--body resonance, and the Captain Picard--Commander Riker
+  comparison for chief-facing mediation. The assistant formalized their typed
+  mappings, broad-versus-strict multi-mind-self register, correction boundary, and
+  source separation from Durkheim. The analogy does not attribute semiconductor
+  physics, the command-role comparison, or these terms to Durkheim or to *Star
+  Trek*'s creators.
+- **The project author** also supplies the proposal that *whole-of-society* is a
+  contemporary vocabulary candidate behind which a *Gleichschaltung*-like
+  operation may hide, together with the request to cross-map the economic plane
+  through *whole-of-economy* and corporatism. Eric Weinstein supplies the ARC
+  2025 Wh-o-S/B-R-o-S, human-terrain, hybrid-war, BOHR, and “soft fascism”
+  warning vocabulary; the supplied Malone article supplies the stakeholder-
+  capitalism/corporatism comparison. The assistant converted those leads into
+  the controlled new-labels-over-old-wiring procedure and separated coordination,
+  corporatism, *Gleichschaltung*, Fascism, and hybrid-war strategy. The mapping
+  does not attribute a common genealogy or prove an operative fit from any
+  current term. The project author's follow-up supplies the institutional-symmetry
+  and scale-capacity clarification: WHO, NATO, the UN, and other large bodies are
+  not above the gates, and a pre-existing transnational skeleton can increase the
+  conditional severity of misuse. The assistant formalized the proportional
+  safeguards and no-guilt-by-scale boundaries.
+- **Venkatesh Rao** supplies **organizational dark matter** in *The Gervais
+  Principle V* as the unaccounted blame left by a leaky organizational allocation
+  scheme, and separately supplies **Powertalk** in Part II as layered,
+  consequential communication that shifts power while enabling plausible
+  deniability. The project author supplies the public-private outsourcing concern
+  involving *hoheitliche Aufgaben*, NGOs, and commercial carriers. The assistant
+  supplies the principal--carrier--affected-person diagram, extends Rao's residue
+  image across organizational boundaries, and separates proxy hazard,
+  actor-specific constitutional evasion, legal state-action attribution, and
+  Powertalk. Neither Rao article analyzes constitutional outsourcing or proves a
+  hidden coordinator.
 - **William James** supplies the image of abstract realities polarizing and
   magnetizing human life and the felt reality of unseen presences. He did not
   propose the distributed-field mechanism.
@@ -4490,6 +5228,23 @@ transition capacity, and the scripts made possible after victory.
   developed the three-way mapping among de-binding, destructive sublimation, and
   un-reason. The DOE and NRC sources establish only the reactor-side distinctions;
   they do not validate the psychological or cultural mapping.
+- **Hans Christian Andersen** supplies the source sequence in *The Emperor's New
+  Clothes*: nonexistent cloth, the incompetence-or-stupidity classifier,
+  status-protective public praise, the child's contradiction, the crowd's changed
+  avowal, and the emperor and train-bearers continuing the procession after the
+  correction becomes public. The originating author selected the un-reality
+  extension and the expressive lie--inhabitation--intelligence formula. The
+  mapping to un-real reality-status, epistemic telemetry, un-reason, organized
+  un-reality, procession inertia, and operative correction is project-developed
+  and is not attributed to Andersen. The originating author's later
+  non-acknowledging bad-actor variant and the mappings to correction
+  nullification, dead-letter correction, the staged reception pipeline, and
+  bounded de-authorization are further project developments rather than events
+  or concepts attributed to the tale. The originating author then distinguished
+  the new adverse un-reality generated after reality contact from the contact
+  itself; the assistant formalized the U0--U1 recursive diagram and counterfeit-
+  Bayesian boundary. Neither the cascade nor trusted-carrier lock is attributed
+  to Andersen or to Bayesian theory.
 - **Jonathan Pageau's** ARC 2026 Grail question supplies an external
   service-direction bridge: technological abundance and power still require the
   question of whom or what they serve. His Grail/Lance interpretation,
@@ -4693,6 +5448,12 @@ what survives.
 - **Physical family:** Field back-action explains reciprocity, laser synchronization
   dynamic coherence, magnetization durable alignment, and domains persistent
   boundaries.
+- **Whole-formation model:** The dotted-semiconductor picture joins population
+  lattice, distributed carriers of the trusted-opinion-leader function, common
+  field, centralized or distributed directing function, and reciprocal
+  back-action; its dots are only visual notation for those carriers. The Captain
+  Picard--Commander Riker extension isolates a chief-facing expression of that
+  same function; neither mapping proves agency, legitimacy, truth, or fusion.
 - **Chemical binding model:** The molecular-compound analogy asks when durable
   integration, constrained independent movement, substitution, continuity, and
   emergent capacities make a collective the more predictive operative unit; it
@@ -4803,7 +5564,7 @@ what survives.
   implication and whole-obligation solidarity useful analytical layers, but it
   neither exhausts later meanings nor redefines Durkheim's sociological
   solidarities as joint liability.
-- **Computing family:** CPU/co-processor, one PCI slot, shared protocol, repeaters,
+- **Computing family:** CPU/co-processor, one PCI slot, shared protocol, repeater gain,
   assembly language, and operating system illuminate different levels of the
   architecture.
 - **Formation-and-audit family:** The generator maps binding output production,
@@ -4819,6 +5580,20 @@ what survives.
   and efficiency do not determine whom or what the output serves. Reactors are not
   bombs, Night and the Real are not fuel, and the analogy neither diagnoses
   madness nor licenses cultural coercion.
+- **Emperor's-new-clothes model:** A self-sealing competence test and costly
+  avowal can turn false content into an un-real representation with operative
+  public reality-status. The child's statement reopens speakability and breaks
+  apparent consensus, but the continued procession shows that disclosure is not
+  yet operative correction. Andersen's recognizing emperor maps acknowledged
+  continuation and procession inertia; the project counterfactual in which the
+  court acts as though the correction was never received maps correction
+  nullification and defeated-but-operative un-reality. The model does not make
+  direct perception infallible or establish universal conscious lying, one bad
+  actor, one coordinated choir, un-reason, or a full systemic-lying constitution
+  from one public fiction. Its Bayesian extension maps reality contact threatening
+  U0, an authorized adverse U1 explaining the correction away, trusted-carrier
+  routing, possible nullification, and recursive accumulation; independently
+  evidenced alternative causes remain legitimate rather than counterfeit.
 - **Farming and secession-or-force model:** Voluntarily assumed responsibility
   can place adult action under tight material correction without another person
   coercively teaching the lesson; public reason analogously lets arguments lose
