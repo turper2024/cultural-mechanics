@@ -154,12 +154,15 @@ the local bigOther
 
 **Useful inference:** A person can reason capably while an inherited evaluative
 module makes some conclusions feel admirable, shameful, obvious, or unthinkable.
-Reflective cognition can inspect and retrain this module without thereby proving
-that social valuation was unreal or optional.
+Reflective cognition can indirectly investigate, reconstruct, and retrain this
+module without thereby proving that social valuation was unreal or optional.
 
 **Non-inference:** The model does not locate two literal chips in the brain, equate
 the bigOther with System 1, or claim that culture is absent from general cognition.
-The distinction is functional and constitutive within this theory.
+The distinction is functional and constitutive within this theory. The ordinary
+computer topology also does not imply that conscious awareness has a transparent,
+directly addressable interface to the evaluator; that missing relation is supplied
+by the elephant--collar picture.
 
 ### 3.2 The one PCI slot and operative weave
 
@@ -207,22 +210,27 @@ agreement or obedience.
 ### 3.4 Wireless collar, Wi-Fi, and repeater gain
 
 **Status:** Project-developed network family  
-**Primary theoretical homes:** [*Culture Mechanics*, “The wireless
-superpower”](0010-culture-mechanics.semantic-definition.md#11-the-wireless-superpower-the-individual-coupling-interface)
+**Primary theoretical homes:** [*Culture Mechanics*, “Haidt's elephant with a
+wireless collar”](0010-culture-mechanics.semantic-definition.md#10-second-analogy-haidts-elephant-with-a-wireless-collar),
+[*Culture Mechanics*, “The wireless
+superpower”](0010-culture-mechanics.semantic-definition.md#11-the-wireless-superpower-the-individual-coupling-interface),
 and [*Epistemic Agency under Mechanical Solidarity*, “Repeater gain and
 crowds”](0020-epistemic-agency.semantic-definition.md#repeater-gain-and-crowds)
 
-**Explanatory target:** Reception, transmission, unequal gain, and aggregate
-amplification
+**Explanatory target:** Indirect conscious access, reception, transmission,
+unequal gain, and aggregate amplification
 
-The wireless collar adds a network interface to the local evaluator. Every local
-bigOther receives and transmits. **Repeater gain** names greater reach,
-credibility, frequency, connectivity, or institutional amplification. In the
-social morphology it is one dimension of the trusted-opinion-leader function,
-not a separate role. The same network analogy can describe nonhuman infrastructure
-or a crowd of ordinary transmitters that produces a signal stronger than one
-prestigious speaker through applause, repetition, silence, ridicule, or visible
-unanimity.
+The wireless collar attaches the local evaluator to the elephant rather than
+placing a control or read-out device in the rider's hands. The rider may perceive
+an incoming social signal and later experience the elephant's changed state while
+lacking direct access to the evaluative transformation between them. The collar
+also adds a network interface: every local bigOther receives and transmits.
+**Repeater gain** names greater reach, credibility, frequency, connectivity, or
+institutional amplification. In the social morphology it is one dimension of the
+trusted-opinion-leader function, not a separate role. The same network analogy can
+describe nonhuman infrastructure or a crowd of ordinary transmitters that
+produces a signal stronger than one prestigious speaker through applause,
+repetition, silence, ridicule, or visible unanimity.
 
 **Useful inference:** Unequal carrier gain and aggregate synchronization are
 different mechanisms. Carriers of the trusted-opinion-leader function can have
@@ -232,7 +240,8 @@ leader.
 
 **Non-inference:** Radio strength does not combine expertise, trust, truth,
 authority, brokerage, and correction into one quantity. Nor does the picture make
-people passive receivers.
+people passive receivers, posit a literal anatomical collar, or make reflective
+reconstruction of its operation impossible.
 
 ### 3.5 Assembly language, SDK, and operating system
 
@@ -1756,7 +1765,10 @@ Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/previ
 recruitment-and-suppression pattern as **ideological-form conflict**. The broader
 condition is **mythological rivalry**; rivalry becomes conflict when participants
 actively interfere with a rival mythology's transmission, authority, membership,
-or institutional embodiment.
+or institutional embodiment. [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype)
+owns the full **Minogue-ideology** source reconstruction; the generalized
+Ideology classifier is separately owned by [*Culture Program
+Ecology*](0060-culture-program-ecology.semantic-definition.md#ideology-installed-social-un-reality-defended-through-un-reason).
 
 ### 4.11 Molecular compounds, strong binding, and possible fusion
 

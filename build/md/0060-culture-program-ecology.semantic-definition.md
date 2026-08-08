@@ -32,6 +32,13 @@ This module distinguishes two principal Culture Program branches:
    decisive benefit, sacred relation, or causal promise beyond defeat by
    accessible reality on its own operative terms.
 
+It also defines **Ideology** as a stricter installed-program classifier within
+the semantic--epistemic content axis. An Ideology recurrently generates
+authorized social un-reality and recruits un-reason to defend that un-reality's
+operative authority from independent correction. This is not the ordinary broad
+use of *ideology*, not another name for every Pure-Ideology Culture Program, and
+not the morphological definition of Fascism.
+
 The branches use substantially the same culture-mechanical installation
 machinery. Both can provide meaning, identity, sacredness, warmth, duty, joy,
 belonging, and ***Beseelung***. Inner feeling therefore cannot reliably tell them
@@ -143,12 +150,17 @@ These are constitutive and normative proposals of Culture Mechanics, not claims
 of disciplinary consensus or proof that an existing liberal society successfully
 implements them.
 
-![Successor diagram for Culture Program Ecology](0060-culture-program-ecology.diagram.png)
+\begin{figure}[p]
+\centering
+\includegraphics[width=\textwidth,height=0.88\textheight,keepaspectratio]{.pdf-assets/0060-culture-program-ecology.diagram.pdf}
+\caption{Successor diagram for Culture Program Ecology.}
+\label{fig:culture-program-ecology-successor}
+\end{figure}
 
 \clearpage
 
-The [editable DOT source](0060-culture-program-ecology.diagram.dot) and
-[scalable SVG rendering](0060-culture-program-ecology.diagram.svg) accompany the
+The [editable DOT source](assets/images/0060-culture-program-ecology.diagram.dot) and
+[scalable SVG rendering](assets/images/0060-culture-program-ecology.diagram.svg) accompany the
 diagram.
 The diagram is a dense conceptual map, not a formal UML class diagram. The prose
 in this document controls where a graphical shorthand is ambiguous.
@@ -234,6 +246,12 @@ This document is the primary semantic home for:
 - **Culture Program** as the common category;
 - **Culture Strategy** and **Pure-Ideology Culture Program** as its two
   principal essence-based branches;
+- **Ideology** as a sufficiently installed Culture Program that recurrently
+  generates authorized social un-reality and defends its operative authority
+  through un-reason, together with **ideological generator** and **Systemic
+  Ideology** as its pre-installation and population--constitutional
+  qualifications;
+- the form--content separation between **Ideology** and **Fascism**;
 - **Culture-Embedded Strategy** as the narrow successor to legacy
   `Kulturstrategie`;
 - **Strategic Worldview**;
@@ -337,6 +355,10 @@ for this module.
 | **Culture Program** | Executable cultural package capable of becoming part of one operative mythological weave |
 | **Culture Strategy** | Culture Program whose load-bearing causal wager is defeasible by accessible reality |
 | **Pure-Ideology Culture Program** | Culture Program whose load-bearing authority or promise is not defeasible by accessible reality on its own terms |
+| **Ideological generator** | Reusable causal, moral, or classificatory grammar that can generate linked representations, roles, diagnoses, authorities, enemies, duties, remedies, and interpretations of challenge; it can exist before sufficient social installation and is not yet an Ideology |
+| **Ideology** | Sufficiently installed Culture Program whose reusable grammar recurrently generates authorized social un-reality and whose fitted correction relations recruit un-reason to defend that un-reality's operative authority |
+| **Systemic Ideology** | Ideology whose generative and correction-closing operation is population-scale, cross-domain, and constitutional, recurrently determining what may count as social reality across the relevant common order |
+| **Minogue-ideology** | Narrow Ideology subtype whose generator joins hidden oppression, opposed structural positions, asymmetric or false consciousness, revelatory corrected sight, mobilization, transformative power, liberation, and a terminal ideal that tends to displace ordinary political plurality |
 | **Culture Hallucination** | Controlled historical or explanatory synonym for Pure-Ideology Culture Program |
 | **Culture-Embedded Strategy** | Culture Strategy implemented substantially through culturally installed norms, virtues, duties, customs, expectations, and practices |
 | **Business Strategy** | Coordinated reality-answerable wager intended to produce cumulative organizational or market value |
@@ -404,10 +426,124 @@ for this module.
 | `privat / kollektiv / politisch / fundamental` | **private / collective / ideological form / fundamentalist form** |
 | proposed `Faktenfinder` in the legacy discussion | **Conflict-Finder** |
 
-**Ideology** remains available in its ordinary historical and political senses
-and in the existing technical phrase **ideological form**. It should not be used
-unqualified as the new common category or as an automatic synonym for
-Pure-Ideology.
+Lower-case *ideology* remains available in ordinary historical and political
+senses, and *ideological* remains available in the existing broad adjective and
+technical phrase **ideological form**. Capitalized **Ideology** now names the
+strict installed-program classifier defined in section 4.5. It is not the common
+category—**Culture Program** remains that category—and it is not an automatic
+synonym for Pure-Ideology. At the same specified program unit, the Ideology gate's
+load-bearing correction closure places that unit on the Pure-Ideology side, but
+the converse is false: a Pure-Ideology Culture Program need not generate or
+defend social un-reality. A larger mixed Culture Program Complex can contain an
+Ideology component without transferring that classification to every component.
+
+#### Ideology vocabulary: overload map and dispatch rules {#ideology-vocabulary-overload-map}
+
+The theory deliberately retains several historically layered uses of the
+*ideology* word family. They are overloaded in the programming-language sense:
+the shared word does not imply a shared type. This subsection is the canonical
+map for resolving those uses without renaming or deleting them.
+
+The principal type relation is:
+
+```text
+Culture Program
+├── Culture Strategy
+└── Pure-Ideology Culture Program
+        └── Ideology
+
+Within Ideology, two further questions can overlap:
+- generative grammar: Minogue-ideology / not Minogue-ideology
+- operative scale: Systemic Ideology / non-systemic Ideology
+
+Independent propagation-and-enforcement axis:
+private → collective → ideological form → fundamentalist form
+```
+
+The tree means subset only at the same specified program unit. Minogue-ideology
+and Systemic Ideology are intersecting refinements rather than mutually exclusive
+siblings: the former classifies generative grammar and the latter scale. The
+propagation axis asks another question altogether.
+
+| Expression | Typed meaning | What it does **not** establish |
+|---|---|---|
+| **Culture Program** | General executable package of mythology, classifications, roles, rules, values, and expected conduct | Strategy, Pure-Ideology, strict Ideology, propagation form, truth, falsity, or legitimacy |
+| **Pure-Ideology Culture Program** | Program whose load-bearing authority, promise, or sacred relation cannot be defeated by accessible reality on its own operative terms | Strict Ideology, social un-reality, un-reason, compulsory supremacy, or harmfulness |
+| **Ideological generator** | Reusable grammar producing linked representations, roles, diagnoses, authorities, enemies, duties, remedies, and interpretations of challenge | Sufficient installation or operative Ideology |
+| **Ideology** | Strict seven-gate classifier: sufficiently installed Culture Program whose reusable generator recurrently produces authorized social un-reality and whose correction relations recruit un-reason to defend its operative authority | Every Pure-Ideology program, political doctrine, false belief, ideology label, or episode of un-reason |
+| **Systemic Ideology** | Ideology whose generative and correction-closing operation is population-scale, cross-domain, and constitutional | Systemic lying by itself; the latter remains a distinct constitutional meta-order |
+| **Minogue-ideology** | Ideology whose generator joins hidden oppression, opposed positions, asymmetric or false consciousness, corrected-sight revelation, mobilization, transformative power, liberation, and a terminal anti-political ideal | Every oppression claim, structural explanation, movement, or ordinary-language ideology |
+| **Ideological form** | Propagation form characterized by active recruitment, formation, and pressure for wider adherence | Strict Ideology or Pure-Ideology; a reality-answerable program can also be propagated in this form |
+| **Ideological-form program** | Culture Program presently operating in ideological form | A separate branch or synonym for Ideology |
+| **Ideological-form conflict** | Organized recruitment, conformity testing, delegitimation, and interference with a rival program's reproduction | Minogue-ideology, strict Ideology, or physical coercion without their further gates |
+| **Ideological conflict** | Minogue's source expression for organized ideological struggle and opposition disabling | The project taxonomy; Culture Mechanics translates the relevant operation as ideological-form conflict and, where violent, fundamentalist-form conflict |
+
+Lower-case **ideological** also remains a broad, religion-inclusive legacy
+adjective meaning approximately *pertaining to a Culture Program*. Consequently,
+*cultural or ideological program*, *installed ideological program*,
+*ideological collective*, and similar expressions do not classify the object as
+strict Ideology. **Ideological Culture Program** is not a separate canonical
+type. Where it occurs or is proposed, rewrite it for analysis as either **Culture
+Program**, **Culture Program in ideological form**, or **Ideology**, according to
+the evidenced relation.
+
+Several defined compounds likewise use this broad adjective or preserve source
+language:
+
+| Compound | Controlled use |
+|---|---|
+| **Ideological symbol** | Socially legible token that activates an installed Culture Program and communicates a person's relation to it; it need not activate strict Ideology |
+| **Conformity signal** | Ideological symbol whose performance or nonperformance makes conformity and deviation publicly legible |
+| **Fusion ideology** | Broad older expression for a program seeking to absorb separate persons into one collective subject; it is not strict Ideology unless the seven gates are independently met |
+| **Ideology-as-hallucination** | Originating comparison now controlled through **Culture Hallucination**, which remains an explanatory synonym for Pure-Ideology rather than strict Ideology |
+| **Iron law of ideological projection** | Working heuristic about a closed formation attributing discrediting motives, practices, or intentions to opponents; neither one accusation nor the heuristic's name establishes strict Ideology |
+| ***Ideologische Macht* / ideological power** | Generic cultural capability to organize perception, interpretation, legitimacy, identity, and coordinated conduct; every durable culture has some such capability, so it does not imply strict Ideology |
+| **Ideological-Power Hazard Diagnostic** | Typed profile of how readily that capability could be captured or exploited and converted into unanswerable practical jurisdiction; it is not an Ideology score |
+| **Ideological direction, field, content, authorization, identity, family, label, or attitude** | Broad contextual or ordinary-language descriptions unless the text explicitly invokes the capitalized classifier and its gates |
+
+Ordinary historical, political, disciplinary, and source-owned language remains
+available. *Ideology* may therefore still mean a doctrine or system of ideas;
+empirical research may measure ideological identity, attitude, or rigidity;
+Minogue may use *ideology* for his own pure type; and sources may speak of
+*ideological subversion*. The originating *queer ideology / woke =
+postmodernism = critical constructivism* formulation remains a candidate
+application. None of these word uses inherits the strict project classifier
+without a separate seven-gate demonstration.
+
+Apply the following dispatch rules when reading or writing the theory:
+
+1. **Use the complete qualified term first.** *Pure-Ideology*, *Ideology*,
+   *Minogue-ideology*, *Systemic Ideology*, *ideological form*, and
+   *ideological power* are different typed expressions.
+2. **Read standalone capitalized Ideology strictly.** It means the seven-gate
+   social-un-reality-and-un-reason classifier unless a quotation or explicit
+   source boundary says otherwise.
+3. **Read lower-case ideology contextually.** It normally retains an ordinary,
+   historical, quoted, or broad legacy sense and cannot support a strict
+   inference by itself.
+4. **Do not rely on capitalization alone.** *Pure-Ideology* contains a capitalized
+   word without being the strict classifier, while *Minogue-ideology* uses a
+   lower-case compound element but is a strict subtype.
+5. **Do not transfer across axes.** Branch, strict Ideology status, propagation
+   form, morphology, ideological-power capability, and systemic-lying
+   constitution each require their own evidence.
+6. **Resolve ambiguity before drawing consequences.** Name the program unit,
+   period, branch, classifier, form, scale, and relevant compound rather than
+   treating the shared word stem as evidence.
+
+The most important non-equivalences are therefore:
+
+```text
+ideological program          != Ideology
+Pure-Ideology                != Ideology
+ideological generator        != Ideology
+ideological form             != Ideology
+ideological-form conflict    != Minogue-ideology
+fusion ideology              != Ideology
+ideological power            != Ideology
+Systemic Ideology            != systemic lying
+ordinary or source ideology  != project-classified Ideology
+```
 
 ### 2.3 Controlled use of “Culture Hallucination”
 
@@ -644,7 +780,292 @@ load-bearing finality protected against every accessible defeater
 → Pure-Ideology Culture Program
 ```
 
-### 4.5 Essence-based classification and heterogeneous contents
+### 4.5 Ideology: installed social un-reality defended through un-reason {#ideology-installed-social-un-reality-defended-through-un-reason}
+
+**Ideology** *noun*
+**Status:** proposed strict Culture Mechanics classifier
+
+The ordinary word *ideology* can name doctrine, political outlook, false
+consciousness, partisanship, or any socially situated system of ideas. The
+project uses the capitalized technical term more narrowly:
+
+> **An Ideology is a sufficiently installed Culture Program operating across a
+> solidarity-bearing formation whose reusable generative grammar recurrently
+> produces authorized representations of social reality, identity, causation,
+> responsibility, and remedy that organize social un-reality, and whose fitted
+> correction relations recruit un-reason to prevent independent evidence and
+> consequence from withdrawing that un-reality's operative authority.**
+
+This is a deliberately narrow, pejorative project term rather than a claim about
+disciplinary consensus. Leor Zmigrod's [cross-ideological psychological
+framework](https://doi.org/10.1177/17456916211044140), for example, treats
+ideologies more broadly as epistemically and socially organizing forces and
+defines ideological thinking through doctrinal rigidity and selective intergroup
+relations while remaining agnostic about truth and reality distortion. The
+present classifier instead selects one installed social-un-reality-and-defence
+subfamily; ordinary-language and source uses must not be silently reclassified by
+capitalization.
+
+The classification has seven jointly required gates:
+
+1. **Bearer:** identify a Culture Program rather than one proposition, slogan,
+   speaker, label, or isolated error.
+2. **Generator:** reconstruct a reusable grammar that produces a family of
+   linked representations, classifications, roles, authorities, duties,
+   enemies, or remedies. One protected mistake is insufficient.
+3. **Operative un-reality:** show that the generated representations govern
+   consequential classification or conduct—as fact, identity, guilt, standing,
+   resource, permission, sanction, remedy, or jurisdiction—under the
+   [un-reality relation](0030-epistemic-constitution.semantic-definition.md#un-reality-operative-reality-status-insulated-from-reality).
+4. **Correction closure:** identify relevant evidence, failed prediction,
+   consequence, or rival explanation that should be capable of reducing
+   authority or changing use, and show the recurrent failure of that correction.
+5. **Un-reasoned defence:** under a material reality-based challenge, show active
+   reasoning recursively protecting the load-bearing account through asymmetric
+   standards, immunizing reinterpretation, criticism-as-confirmation, moving
+   defeat conditions, or another evidenced failure of reciprocal correction.
+6. **Sufficient installation and reproduction:** identify a fitted combination
+   of carriers, meanings, formation, routines, records, incentives, authority,
+   institutional memory, and succession that reproduces the program beyond one
+   encounter. No fixed checklist of symbols, uniforms, offices, or media is
+   required.
+7. **Collective scale:** specify a durable solidarity-bearing group,
+   organization, movement, institution, population, or jurisdiction rather than
+   a private mistake, a transient agreement, or a few acquaintances sharing one
+   false belief.
+
+#### Proposed pictogram for Ideology
+
+The following figure is proposed as a compact pictogram for the strict project
+term **Ideology: installed social un-reality defended through un-reason**. It
+belongs to the general seven-gate classifier, not only to the narrower
+Minogue-ideology subtype.
+
+| Visible component | Intended meaning in the pictogram |
+|---|---|
+| **Head** | One individual human being. The three heads remain visibly separate: the picture begins with individual carriers and does not assume one literal group mind. |
+| **Interlocking puzzle pieces** | A neutral organized worldview: the person's fitted concepts, classifications, causal relations, and expectations. Coherence and organization alone are not Ideology; a corrigible worldview or Culture Program can use the same neutral structure. |
+| **Viral hazard mark inside one puzzle piece** | The Ideology pictured as an installed **mind-virus**. It is already integrated into the worldview and can appear to its carrier as an ordinary fitting part rather than as something alien arriving from outside. In the strict reading it combines a reusable generator of social un-reality with self-protecting correction relations: when the installed account is materially challenged, un-reason recruits the machinery and standing of reason to keep its load-bearing conclusion from losing. The image depicts the installed state, not the original route or moment of infection. |
+| **Three repeated virus-bearing heads** | Reproduction of the same program across several individual carriers. This supplies the population-side idea of distributed installation while preserving the persons as separate loci of perception, judgment, and action. Three drawn persons are schematic; they do not by themselves satisfy the classifier's collective-scale or durability gates. |
+| **Three separate outlined streams, beginning just beyond the faces at eye height** | Locally produced orientations. The installed mind-virus captures or redirects attention and salience—what is noticed, ignored, foregrounded, or made morally urgent—and thereby shapes perception, affect, interpretation, social classification, causal attribution, judgment, correction, and prospective action. The short white interval keeps the internal worldview distinct from its expressed output; it does not imply that the conscious person has direct reflective access to every operation producing that output. |
+| **Streams merging into one arrow** | Coupling and collective convergence. Public expression, reciprocal observation, repetition, trusted transmission, amplification, mutual monitoring, apparent consensus, conformity pressure, and feedback can bring separately generated orientations into a common mode. In the project's [laser-synchronization analogy](0020-epistemic-agency.semantic-definition.md#laser-synchronization-magnetization-and-cultural-domains), selected variables—attention, affect, interpretation, judgment, timing, or action—become dynamically aligned, yielding common attention, speed, force, rhythm, coherent action, or coordinated enforcement. The single arrow is this concentrated collective direction, not proof that every mind has become identical. |
+
+The visual sequence is therefore:
+
+```text
+neutral organized worldview in each individual
+→ infection by an Ideology pictured as an integrated mind-virus
+→ capture or redirection of attention, salience, interpretation, and correction
+→ separately produced orientations enter reciprocal social coupling
+→ laser-like synchronization into a common direction of judgment or action
+```
+
+\clearpage
+\begin{wrapfigure}{r}{0.32\textwidth}
+\centering
+\includegraphics[width=\linewidth,keepaspectratio]{.pdf-assets/ideology-three-heads-merging-arrows.pdf}
+\caption{Proposed pictogram for \mbox{Ideology}.}
+\label{fig:ideology-pictogram}
+\end{wrapfigure}
+
+Gad Saad's [*The Parasitic Mind: How Infectious Ideas Are Killing Common
+Sense*](https://www.simonandschuster.com/books/The-Parasitic-Mind/Gad-Saad/9781621579939)
+and its language of **idea pathogens** provide a nearby polemical precursor for
+the mind-virus image. The Culture Mechanics classifier is nevertheless not
+Saad's definition: *Ideology*, un-reason, social un-reality, the seven gates, and
+the exact component mapping above are project developments. The same applies to
+Minogue. His oppression--revelation--liberation pure type supplies one important
+subtype and makes capture of perception through promised corrected sight
+especially vivid; the general pictogram also covers a non-Minogue generator
+when, and only when, all seven strict gates are evidenced.
+
+The viral image is evaluative shorthand, not a claim that ideas are biological
+organisms, that every Culture Program is harmful, or that one false or
+self-propagating belief is already an Ideology. Likewise, the common arrow does
+not by itself establish coercion, *Gleichschaltung*, Fascism, an operative or
+fused multi-mind-self, systemic lying, centralized design, or person-level
+guilt. The pictogram names the proposed conjunction compactly; classification
+still requires evidence for every gate at a specified program unit and period.
+
+#### Complementary Ideology-free quality-seal pictogram
+
+The complementary figure is proposed as a compact, quality-seal-like pictogram
+for **Ideology-free**, analogous in visual function to a “sugar-free” mark. Here
+the expression is a controlled negation of the strict classifier: for the
+specified program unit, scale, and period, the seven-gate conjunction is not
+operative. It is not an eighth gate, a new constitutional orientation, or a
+general certificate of truth, health, innocence, or moral worth.
+
+\begin{wrapfigure}{r}{0.32\textwidth}
+\centering
+\includegraphics[width=\linewidth,keepaspectratio]{.pdf-assets/ideology-free.pdf}
+\caption{Proposed Ideology-free quality-seal pictogram.}
+\label{fig:ideology-free-pictogram}
+\end{wrapfigure}
+
+Its visible components negate the corresponding relations in the Ideology
+pictogram while preserving the individual persons:
+
+- The **three separate heads** still represent individual human beings. They do
+  not fuse into one literal mind.
+- Their intact **interlocking puzzle pieces** still represent neutral organized
+  worldviews. Ideology-free therefore does not mean worldview-free,
+  culture-free, concept-free, or untouched by ordinary social learning.
+- The absence of a virus from every head means that no ideological mind-virus
+  is pictured as installed within those worldviews. The single detached
+  **biohazard-virus symbol inside a prohibition ring and slash** compresses that
+  absence or exclusion into a quality-seal-like mark; it does not picture injury
+  to, cleansing of, or punishment of a person.
+- The three **outlined streams** still permit separate attention, judgment, and
+  prospective action. Their approach does not itself imply Ideology.
+- Their **jagged breaks and expanding shards** picture interruption of the
+  capture--feedback--convergence relation before it produces one
+  correction-resistant direction. The ice-like shattering is directed at the
+  synchronization structure, not at the heads.
+- The absence of a **common trunk and arrowhead** means that the figure does not
+  produce the single ideologically synchronized output pictured above.
+
+The controlled visual sequence is therefore:
+
+```text
+neutral organized worldview in each individual
+→ no Ideology pictured as installed within the worldview
+→ separate orientations remain possible
+→ the typed capture-to-convergence relation is interrupted
+→ no single correction-resistant ideological direction is produced
+```
+
+The broken convergence must not be generalized into a claim that agreement,
+solidarity, coordination, or common action is itself ideological. Voluntary,
+bounded, plural, and reality-correctable coordination remains compatible with
+the Ideology-free picture. Nor is social fragmentation intrinsically good: the
+shards negate this pictogram's specific synchronization relation rather than
+proposing fracture as a general social ideal.
+
+As with the positive pictogram, the image cannot certify its own application.
+Because strict Ideology is conjunctive, a bounded negative classification should
+identify which gate or gates are absent or defeated and supply evidence
+appropriate to the claimed unit and period. A favourable self-description,
+crossed-out virus emblem, open-discussion claim, isolated correction, or lack of
+immediately visible un-reason is not by itself sufficient evidence of an
+Ideology-free organization, program, population, or jurisdiction.
+
+An **ideological generator** is the pre-installation concept: a reusable causal,
+moral, or classificatory grammar capable of producing the linked outputs and of
+specifying how challenges should be interpreted. It can be present in a text,
+school, tradition, movement, or incipient program without satisfying the
+installation, scale, practical-jurisdiction, or defence gates. Do not diagnose an
+operative Ideology from the generator alone.
+
+The temporal order matters. Un-reality need not originate in un-reason:
+
+```text
+authorized un-real representation
+→ independent correction threatens operative authority
+→ functional demand for preservation or defence
+→ un-reason, where the response continues to claim reason's standing
+  OR non-inferential closure, where the correcting encounter is blocked
+→ possible continued operative un-reality
+```
+
+**Defence** here means an epistemic answer that retains the machinery and
+authority-claim of reason while making the protected account unable to lose.
+**Preservation** is broader. Censorship, omission, ritual assent, fear, memory
+control, synchronized incentives, trusted-carrier lock, custody failure,
+correction nullification, coercion, or openly enforced dogma can preserve
+un-reality without themselves satisfying the un-reason gate. They may coexist
+with un-reason, but they cannot substitute for evidenced un-reason in this strict
+classifier.
+
+The gate concerns operative correction rather than universal propositional
+falsity. A representation can be held un-really even if it happens to be true
+when its authority has been made incapable of losing; a false claim can remain
+ordinary corrigible error. Ideology therefore does not mean that every contained
+proposition is false, every carrier knowingly lies, or one conscious designer
+coordinates the formation.
+
+At the same specified program unit, the closure required by Ideology places its
+load-bearing protected account on the **Pure-Ideology** side of the branch test.
+The converse does not hold. A bounded religious program can retain an
+extra-empirical sacred promise beyond accessible defeat while neither generating
+social un-reality nor recruiting un-reason to defend worldly practical
+jurisdiction. Whole-program classification must also respect scale: an Ideology
+component inside a mixed Culture Program Complex does not classify every
+component or carrier.
+
+#### Systemic Ideology and systemic lying
+
+A **Systemic Ideology** is an Ideology whose generative and correction-closing
+operation has become population-scale, cross-domain, and constitutional: it
+recurrently determines what may count as social reality across the relevant
+common order. The functional threshold is not raw headcount. Ask whether the
+program:
+
+- reproduces beyond direct acquaintance with its current advocates;
+- possesses impersonal carrier roles, transmission, memory, and succession;
+- governs consequential standing or conduct for a population or jurisdiction;
+- survives turnover among individual carriers; and
+- recurs across enough linked domains that the pattern is not one local error.
+
+Systemic Ideology is one important candidate route into the
+[systemic-lying epistemic constitution](0030-epistemic-constitution.semantic-definition.md#17-systemic-lying-epistemic-constitution),
+but the classifiers remain distinct. Systemic lying is the constitutional
+meta-order that recurrently generates, selects, authorizes, protects, and
+replaces organized un-reality because independent truth has become subordinate
+to usefulness, loyalty, control, or authority. It can employ mechanisms other
+than un-reason, while localized Ideology need not constitute a whole
+constitutional meta-order. Test domain reach, recurrent replacement, public
+avowal, records, correction, and practical jurisdiction separately.
+
+#### Minogue-ideology: the oppression--revelation--liberation subtype
+
+**Minogue-ideology** is the narrower subtype whose ideological generator joins:
+
+```text
+particular grievance or limitation
+→ hidden oppressive system
+→ oppressed and oppressor positions
+→ ordinary non-recognition explained as false consciousness
+→ revelation, awakening, or corrected sight
+→ struggle and mobilization
+→ acquisition of transformative power
+→ liberation from the structure
+→ terminal harmony with comparatively underspecified institutions
+→ criticism exposed to classification as revisionism
+```
+
+The subtype therefore requires more than an oppression word or an adverse
+structural explanation. Preserve Minogue's hidden comprehensive structure,
+asymmetric consciousness, salvational revelation, mobilization, power,
+liberating terminus, and anti-political treatment of ordinary counterjudgment.
+The detailed source reconstruction, the costly-formation/effortless-perception
+relation, the clear-pond terminus, the distinction between pure type and actual
+movements, and his two separate terminal judgments are owned by
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype).
+
+#### Ideology as content axis; Fascism as form axis
+
+Ideology classifies executable semantic--epistemic **content**: generative
+grammar, authorized social world, and correction defence as embodied in a
+formation. Fascism classifies **morphological form**: the strong, whole-polity,
+jealous, subjecthood-absorptive realization of mechanical solidarity with an
+exclusive directing claim to incarnate, interpret, and act for the collective
+self.
+
+```text
+CONTENT AXIS                       FORM AXIS
+Ideology / no Ideology             Fascism / no Fascism
+```
+
+The axes are analytically distinct but operationally coupled. Ideology can be
+installed in a non-Fascist form. Fascism can operate through openly avowed
+domination without satisfying the Ideology gate. A formation can satisfy both,
+but neither classifier may be inferred from the other. The functional morphology
+of mechanical solidarity remains the generic whole-formation description
+available to Culture Programs generally; it is not a downstream layer or an
+Ideology-specific discriminator.
+
+### 4.6 Essence-based classification and heterogeneous contents
 
 The branches are essence-based ideal types that permit predominant
 whole-program classification. The classification is categorical at the proposed
@@ -678,7 +1099,8 @@ diagram:
 ```text
 Culture Program
 ├── Pure-Ideology Culture Program
-│   ├── Fascism
+│   ├── Ideology
+│   │   └── Minogue-ideology
 │   ├── Cultural Essentialism
 │   ├── Religion
 │   │   └── Sect
@@ -691,15 +1113,23 @@ Culture Program
     ├── Political Strategy
     ├── Culture-Embedded Strategy
     └── Strategic Worldview
+
+Cross-cutting morphological form axis:
+Fascism / no Fascism
 ```
 
 This is a theoretical classification proposal, not a lexical claim that every
-ordinary use of these words has the same essence.
+ordinary use of these words has the same essence. The placement of Ideology
+under Pure-Ideology applies at the same specified program unit because the strict
+Ideology gate requires load-bearing correction closure. Fascism is deliberately
+outside the inheritance tree because it asks a different morphological question.
 
 ### 5.1 Subtractive-essence hypotheses
 
 | Familiar form | Candidate load-bearing essence | Boundary warning |
 |---|---|---|
+| **Ideology** | Sufficiently installed generator of authorized social un-reality whose operative authority is defended through un-reason | Doctrine, false belief, one un-real representation, one episode of un-reason, or Pure-Ideology finality alone is insufficient; require all seven gates |
+| **Minogue-ideology** | Ideology whose generator joins hidden oppression, opposed positions, asymmetric consciousness, revelation, mobilization, transformative power, liberation, and a terminal anti-political ideal | One oppression claim, structural explanation, awakening metaphor, or political movement is insufficient; preserve the pure-type/actual-movement distinction |
 | **Religion** | Sacred or transcendent relation protected from accessible defeat | A religious institution can contain many reality-answerable practices and strategies |
 | **Sect** | More bounded and often more demanding religious descendant | Smallness, novelty, or unpopularity alone is insufficient |
 | **Cult** | Highly concentrated devotion, authority, or demanded attachment | The ordinary term is pejorative and needs operational criteria |
@@ -713,6 +1143,8 @@ ordinary use of these words has the same essence.
 | **Culture-Embedded Strategy** | Productive mechanism installed as norm, virtue, duty, custom, feeling, role, and practice | A norm's popularity or moral warmth does not establish material payoff |
 | **Strategic Worldview** | General causal orientation answerable to worldly consequences | A total worldview protected from defeat belongs on the other branch |
 
+The table retains Fascism for comparison with familiar forms, but its row is a
+cross-cutting morphological classifier rather than a Pure-Ideology descendant.
 The hierarchy allows redundant or multiple-looking legacy relations where the
 subtractive essence warrants them. Diagram neatness must not decide ontology.
 
@@ -1290,6 +1722,8 @@ be silently inferred from another.
 | Dimension | Question |
 |---|---|
 | **Branch** | Does accessible reality have the final right to defeat the load-bearing wager? |
+| **Ideology classifier** | Does a sufficiently installed generator recurrently produce authorized social un-reality and recruit un-reason to defend its operative authority? |
+| **Morphological form** | Does the complete Fascism conjunction or another specified form organize the carrier formation? |
 | **Order level** | Does shared binding force reside in concrete answers or in the generator that produces and corrects them? |
 | **Slot occupancy** | Is the one local bigOther stably occupied? Stable first-order and lifted programs both imply full capture. |
 | **Propagation and enforcement form** | Is the program private, collective, ideological, or fundamentalist in its current operation? |
@@ -6533,6 +6967,38 @@ the causal claim.
      protected U1, authorization, blocked correction, and practical consequence.
      Independently supported alternative causes and reciprocal model revision are
      ordinary truth-seeking.
+115. **A doctrine, label, false belief, or ideological generator is not yet an
+     Ideology.** Require the complete bearer, generator, operative un-reality,
+     correction-closure, un-reasoned-defence, installation, and collective-scale
+     conjunction for a specified unit and period.
+116. **Pure-Ideology does not automatically mean Ideology.** Extra-empirical
+     finality can remain bounded and non-imposing without generating social
+     un-reality or recruiting un-reason to defend worldly practical authority.
+     At the same program unit an Ideology's protected load-bearing account lies on
+     the Pure-Ideology side, but a containing Culture Program Complex can remain
+     heterogeneous.
+117. **Un-reality or un-reason alone does not establish Ideology.** One operative
+     un-real representation can remain local; one episode of self-protective
+     reasoning can remain individual and corrigible. Require reusable generation,
+     recurrent correction failure, fitted reproduction, and collective scale.
+118. **Preservation is broader than ideological defence.** Censorship, omission,
+     ritual assent, fear, memory control, incentive lock, correction
+     nullification, coercion, or open dogma can preserve un-reality. Without the
+     required reason-shaped defence they do not alone satisfy the strict Ideology
+     gate, though other classifications may apply.
+119. **Minogue-ideology is not every oppression claim.** Require the fitted hidden
+     system, opposed structural positions, asymmetric or false consciousness,
+     revelation, mobilization, transformative power, liberation, and terminal
+     anti-political relation. Preserve Minogue's pure-type/actual-movement
+     distinction.
+120. **Blindfold and awakening language is side-indeterminate.** Correction and
+     un-reality can both claim to remove blindness. Infer the relation from
+     disclosed reasoning, reciprocal standards, independent correction,
+     consequences, and revision rather than from perceptual rhetoric alone.
+121. **Ideology and Fascism occupy different axes.** Ideology is a
+     semantic--epistemic content classifier; Fascism is a morphological-form
+     classifier. Neither entails the other, and neither converts a formation-level
+     finding into automatic person or population guilt.
 
 ## 18. Open questions and research program
 
@@ -7076,6 +7542,18 @@ and correction closure. Neither the conversation nor the conjunction
 establishes a named case, conspiracy, capture, arbitrary rule,
 *Willkürherrschaft*, *Machtpolitik*, death-drive, or Ragnarök without their
 additional evidence.
+The August 2026 Minogue-ideology development generalized one part of this source
+material into the project-defined **Ideology** classifier: sufficiently installed
+Culture Program, reusable generator, authorized social un-reality, failed
+operative correction, and un-reasoned defence. Minogue supplies the source model
+for the narrower oppression--revelation--liberation subtype, not the generalized
+genus. The source audit retains his “machine for generating doctrines,” grand
+secret and revelation, circular training in corrected sight, mobilization and
+opposition-disabling operation, clear-pond terminus, pure-type/actual-movement
+distinction, and separate terminal judgments. The generalized definition, seven
+gates, Systemic Ideology level, and form--content separation from Fascism are
+Culture Mechanics developments. Their complete source reconstruction belongs to
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype).
 The subsequent *Alien Powers* discussion supplied the originating claim that
 revolutionary-left theorists may have encountered the distributed
 self-maintenance of grown cultures as oppression, progressively analyzed it, and
@@ -7298,7 +7776,12 @@ lock**; this appendix applies both to the stock--flow account of systemic lying
 and the separately gated Shadow-Sovereign diagnostic. The user then
 identified un-reason as especially relevant to the originating
 *queer ideology / woke = postmodernism = critical constructivism* picture and
-requested the sharper formulation **reason's immanent self-negation**. The
+requested the then-sharper compression **reason's immanent self-negation**. The
+later theoretical *un-* development retained that phrase as a description of
+the epistemic result but replaced it as the controlling definition: reason's
+machinery and authority-claim remain while conclusion-protection displaces
+truth-correction as governor. *Epistemic Constitution* owns that refined
+retained-form and displaced-governor account. The
 assistant initially described *queer ideology* as bounded application shorthand;
 the user corrected that wording and required the project's established
 Halperin-based definition of *queer* as a relational positionality defined through
@@ -7636,10 +8119,34 @@ term adds a third orientation to the constitutional classifier in [*Epistemic
 Constitution of Lifted Mechanical
 Solidarity*](0030-epistemic-constitution.semantic-definition.md#constitutional-classification-orientations-and-their-poles).
 
-The relation is generative and temporal. The systemic-lying constitution is the
-meta-order that can produce a recurrent **flow** of un-real representations;
-organized un-reality is the installed **stock** of classifications, procedures,
-records, offices, incentives, and allocations fitted around them. [**Correction
+The [typed epistemic
+architecture](0030-epistemic-constitution.semantic-definition.md#typed-epistemic-architecture)
+also prevents a shortcut through the communicative level. Linguistic tricks and
+instrumental untruthfulness can contribute to the systemic-lying core, but one
+trick, one strategic communicator, or even methodical actor-level deception does
+not establish organized un-reality, a systemic-lying constitution, or the full
+*Machtpolitik* composite. Conversely, sincere carriers and non-linguistic
+retention mechanisms can reproduce the systemic core without every node
+knowingly lying.
+
+The [**distributed carrier
+sequence**](0030-epistemic-constitution.semantic-definition.md#distributed-carrier-sequence)
+specifies the possible routing from originator or selector through carrier and
+recipient reconstruction into un-reason, un-reality, installed stock, and
+constitutional reproduction. Its ecological importance is that selection,
+transmission, sincere adoption, defensive reasoning, record custody, sanction,
+and reproduction can be performed by different people and structures. Intent,
+knowledge, guilt, and coordination do not propagate with the message; every
+transition requires its own evidence. The sequence is an explanatory bridge,
+not another *Machtpolitik* component or a shortcut to systemic classification.
+
+The relation is generative, preservative, and temporal. The systemic-lying
+constitution is the meta-order that recurrently generates, selects, authorizes,
+protects, and replaces a **flow** of un-real representations; organized
+un-reality is the installed **stock** of classifications, procedures, records,
+offices, incentives, and allocations fitted around them. *Recurrent* does not
+mean uninterrupted output: the correction structure can remain closed during
+quiet periods. [**Correction
 nullification**](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia)
 is one possible retention mechanism after public contradiction. Silence and
 non-reception can preserve an old account, but a systemic-lying order can also
@@ -7660,7 +8167,7 @@ operative un-real representation U0 collides with reality
 ```
 
 This gives the stock--flow relation a recursive form. Systemic lying need not
-merely preserve an old lie by silence; it can recurrently manufacture auxiliary
+merely preserve an old lie by silence; it can recurrently generate auxiliary
 un-real causal accounts whenever installed representations collide with reality.
 Organized un-reality is the accumulating stock those accounts leave in rules,
 records, classifications, offices, incentives, and remembered precedent.
@@ -7954,6 +8461,9 @@ ordinary cultural formation
 → ideological-power capability
 → concentration, capture, or opportunistic exploitation
 → mythologies and carrying structures program local bigOthers
+→ pre-reflective salience, affect, credibility, and taboo can narrow
+→ some approaching relations become difficult to see, formulate, or name
+→ authorized slogans or formulas can occupy the conceptual vacancy
 → some carriers exhibit Bonhoefferian Dummheit
   or normopathic over-adaptation
 → internal program cohesion and distributed enforcement rise
@@ -7966,6 +8476,16 @@ ordinary cultural formation
 → Machtpolitik
 → possible Willkürherrschaft
 ```
+
+The subject-side transition is specified by the [ideological-power scale
+bridge](0020-epistemic-agency.semantic-definition.md#ideological-power-local-capture-scale-bridge).
+It distinguishes the local bigOther as internalized observer from the
+individual's own imaginative-conceptual inner eye and treats blindness as the
+possible negative loss of articulation, *Dummheit* as possible positive
+occupation by authorized formulas, and returned repetition and enforcement as
+field gain. None of those local observations by itself proves the larger danger
+scenario, an upstream producer, a beneficiary, capture, Systemic Ideology,
+*Machtpolitik*, or person-level guilt.
 
 This is a multi-level correction to Carlo M. Cipolla's payoff matrix in [*The
 Basic Laws of Human
@@ -8838,7 +9358,8 @@ social mediation
 → reconstruction mandate
 → politically useful conclusions receive moral and epistemic authorization
 → critical intelligence recruited to manage standards, exceptions, and defeaters
-→ un-reason as reason's immanent self-negation
+→ un-reason: reason's machinery and authority retained while
+  conclusion-protection displaces truth-correction as governor
 → weakened independent reality correction
 → identity-dependent standards and permitted contradictions
 → strong internal program cohesion
@@ -8880,13 +9401,16 @@ progressively harder to defeat. This is more specific than calling the umbrella
 family *anti-reason*: the claim is that the powers of reasoning may be recruited
 to undermine reciprocal reasoning and independent correction from within.
 
-Within this candidate application, the sharper proposal is:
-**un-reason is reason's immanent self-negation**. Reasoning remains articulate and
-productive, but is decoupled from reciprocal non-contradiction, disclosed
-standards, and independent reality correction. It does not merely reject reason
-from outside or leave its place empty. It preserves reason's conceptual,
-interpretive, and critical operations while turning them against the conditions
-under which those operations possess epistemic authority.
+Within this candidate application, the sharper proposal follows the canonical
+[**theoretical *un-* operator**](0030-epistemic-constitution.semantic-definition.md#theoretical-un-operator).
+Reasoning remains articulate and productive and continues to claim reason's
+authority, but conclusion-protection displaces truth-correction as its governing
+principle. The resulting epistemic function is self-negating, but that phrase
+names the result rather than the full mechanism. Un-reason does not reject reason
+from outside or leave its place empty; it preserves conceptual, interpretive,
+and critical operations while redirecting them against reciprocal
+non-contradiction, disclosed standards, independent reality correction, and the
+genuine possibility of losing.
 
 This remains a **candidate application of a generic mechanism**, not a
 classification licensed by the words *woke*, *postmodernism*, *critical
@@ -8960,9 +9484,10 @@ defined in this document. It does not replace their primary definitions:
 | One institutional control plane | Separation of functions, bounded jurisdictions, and the [capture-resistant jurisdictional topology](#capture-resistant-jurisdictional-topology) |
 | Common-mode policy failure | [Parallel local SGD](#sgd-and-its-constitutional-variants), heterogeneous implementations, preserved alternatives, and rollback |
 | Metric and scorecard capture | [Sensor triangulation](#sensor-triangulation-and-conflict), preserved discrepancies, and [non-compensable sentinels](#non-compensable-constitutional-sentinels) |
-| Fusion and loss of personal standing | The [concrete person as protected object](#democracy-as-schutzbalken-gegen-die-macht) and the distinct capacities *Speak, Own, Refuse, Exit,* and *Appeal* |
+| Fusion and loss of personal standing | The [concrete person as protected object](#1321-democracy-as-schutzbalken-gegen-die-macht) and the distinct capacities *Speak, Own, Refuse, Exit,* and *Appeal* |
 | External Babelization and inability to organize | [Lifted mechanical solidarity](#lifted-mechanical-solidarity), narrative integration, defensive pluralist culture, protection of legitimate opposition, and—where common adjudication has already failed—the [secession branch rather than imposed settlement](#the-severe-babelization-fork-secession-or-force) |
 | Hidden carrying structures | [Culture Program carrying-structure mapping](#culture-program-carrying-structure) and the [causal intervention test](#carrying-structure-intervention-test) |
+| Covert, unaccountable, correction-resistant, or practically inescapable influence over evaluative and epistemic formation | [Cognitive liberty and epistemic adulthood](0020-epistemic-agency.semantic-definition.md#20-cognitive-liberty-and-epistemic-adulthood), plural trusted routes, reflective inspection, disclosed provenance and jurisdiction, protected formulation, correction, refusal, appeal, and exit |
 | Local capture | Common person-protecting shell, appeal, mobility, succession, comparison, and repair |
 | National or common-shell capture | [Bounded reversed legal priority and soft secession](#soft-secession-and-reversed-legal-priority), distributed failure domains, and surviving alternatives |
 | No material basis for refusal | [Secure Homestead Rate](#own-and-the-secure-homestead-rate) and other effective material centres of independence |
@@ -9113,8 +9638,29 @@ Culture Program Ecology adds an ecological level to Culture Mechanics:
 ```text
 Culture Program
 ├── Pure-Ideology Culture Program
+│   └── Ideology
+│       └── Minogue-ideology
 └── Culture Strategy
     └── Culture-Embedded Strategy
+
+ideological generator
+→ can exist before sufficient installation
+
+sufficiently installed Culture Program
++ reusable generative grammar
++ recurrent authorized social un-reality
++ failed operative correction
++ un-reasoned defence
++ durable collective reproduction
+→ Ideology
+
+Ideology
++ population-scale, cross-domain, constitutional operation
+→ Systemic Ideology
+→ candidate route into, but not synonym for, systemic lying
+
+Ideology content axis
+≠ Fascism morphological form axis
 
 shared installation machinery
 ≠ shared relation to correction
@@ -9526,7 +10072,8 @@ Ideological-Power Hazard Diagnostic
 originating critical-constructivist umbrella candidate
 + articulate and productive reasoning
 + protected account controls standards, exceptions, and defeaters
-→ candidate un-reason as reason's immanent self-negation
+→ candidate un-reason: reason's machinery and authority retained while
+  conclusion-protection displaces truth-correction as governor
 ≠ conclusion licensed by *woke*, *postmodernism*, *critical constructivism*,
   or any other affiliation label
 

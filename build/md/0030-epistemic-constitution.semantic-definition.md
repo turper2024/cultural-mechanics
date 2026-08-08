@@ -36,7 +36,11 @@ orientation**:
 
 > A **reality-anchored, truth-seeking epistemic constitution** makes sincere disagreement visible and keeps every person, model, authority, and institution corrigible by mind-independent reality.
 
-> A **systemic-lying epistemic constitution** organizes public speech, authority, incentives, memory, and social sanctions so that an authorized representation displaces reality and ordinary people reproduce it through conformity, concealment, and ritual participation.
+> A **systemic-lying epistemic constitution** recurrently generates, selects,
+> authorizes, protects, and replaces organized un-reality because its correction
+> relations subordinate independent truth to usefulness, loyalty, control, or
+> authority; public speech, incentives, memory, institutions, and ordinary
+> participation reproduce that inversion.
 
 The second is the **life-drive–death-drive constitutional orientation**, which
 asks what the shared order organizes motivation to reproduce:
@@ -56,13 +60,18 @@ truthful yet death-driven, or systemically lying while claiming life, peace,
 health, or flourishing. The two orientations therefore classify different
 properties and must not be collapsed.
 
+The project-specific [**theoretical *un-* operator**](#theoretical-un-operator)
+names a retained form whose ordinary governor has been displaced: X's machinery
+and authority-claim remain while a non-X principle redirects their operation.
+It is a restricted diagnostic construction, not the ordinary meaning of every
+word beginning with *un-*.
+
 Within the truth orientation, **un-reason** names a proposed internal failure
 mechanism: inferential, conceptual, interpretive, or critical intelligence remains
-active, but is organized to protect a conclusion, authority, identity, or
-programme from the reciprocal standards and independent correction that give
-reasoning epistemic authority. It explains how intellectual sophistication can
-strengthen rather than repair a self-sealing order. Un-reason is a mechanism, not
-a third constitutional orientation.
+active and retains reason's appearance and authority-claim, but
+conclusion-protection displaces truth-correction as its governor. It explains how
+intellectual sophistication can strengthen rather than repair a self-sealing
+order. Un-reason is a mechanism, not a third constitutional orientation.
 
 **Un-reality** names a related cross-scale state or output: an authorized
 representation retains operative public reality-status and continues to classify
@@ -70,7 +79,8 @@ facts, direct decisions, and allocate burdens, resources, permissions, status, o
 jurisdiction, while independent evidence and consequence can no longer reliably
 reduce its authority or revise its use. It is not a third orientation either.
 Un-reason can help produce or maintain un-reality; a systemic-lying constitution
-is the larger meta-order that recurrently produces **organized un-reality**.
+is the larger meta-order that recurrently generates, selects, authorizes,
+protects, and replaces **organized un-reality**.
 After disclosure, an acknowledged false account can remain operative through
 **procession inertia**, while an independently defeated but unacknowledged
 account can persist through **correction nullification**: the correction is
@@ -765,6 +775,360 @@ and symbolic articulation can emerge. The light names fallible, plural, and
 corrigible contact with objective truth rather than a rational subject's or
 institution's sovereign possession of it.
 
+### 9A. Cross-cutting semantic and epistemic architecture {#cross-cutting-semantic-epistemic-architecture}
+
+This section is the authoritative home for the project's restricted theoretical
+*un-* operator and for the typed relation among communicative operation,
+selection orientation, inferential mechanism, operative epistemic state,
+installed stock, and constitutional meta-order. The operator is more general
+than the truth orientation: *un-reason* and *un-reality* are its applications in
+the present document, not the whole operator. The [*Linguistic Tricks*
+inventory](0030-linguistic-tricks.semantic-inventory.md) owns the detailed
+communicative operations and **instrumental untruthfulness** as a selection
+orientation; this document owns their cross-scale relation and the complete
+positive interface joining reasonable critical discussion to independent
+reality-answerability.
+
+#### The theoretical *un-* operator: retained form and displaced governor {#theoretical-un-operator}
+
+**theoretical *un-* operator** *noun phrase*<br>
+**Status:** proposed semantic and diagnostic operator
+
+The project uses *un-* in a deliberately restricted sense. It does not mean
+simple absence or opposition. The author's controlling image is:
+
+> **Something slips into the skin of X.** The recognizable form, machinery,
+> and authorized position of X remain, but a different inner principle governs
+> their operation.
+
+The full definition is:
+
+> **Un-X is a form that continues to occupy the appearance, machinery, and
+> authorized position of X while a different inner principle takes control and
+> redirects that machinery toward a function incompatible with ordinary X.**
+
+Its compact form is:
+
+> **Un-X is X-shaped operation governed from within by a non-X principle.**
+
+The typed construction is:
+
+```text
+retained X-form
++ retained claim to X-authority
++ displaced inner governing principle
++ contrary or distorted operative result
+= un-X
+```
+
+This formulation separates a practice's machinery from the constitutive purpose
+that should govern it. It is more precise than describing *un-X* only as X's
+immanent self-negation: that phrase names the resulting inversion but does not
+identify what persists, what has been displaced, what replaces it, or how
+operation changes.
+
+The reason case makes the distinction concrete:
+
+| Form | Outer form | Governing inner function |
+|---|---|---|
+| **Reason** | Inference, explanation, evidence, distinctions | Discover and correct what is true; the conclusion can lose. |
+| **Not-reason** | No reasoning operation | Impulse, silence, sensation, pre-articulate experience, or unsupported assertion. This category is not inherently pathological. |
+| **Un-reason** | Inference, explanation, evidence, distinctions | Protect a predetermined or load-bearing conclusion; the conclusion must not lose. |
+
+For un-reason, the change can be specified exactly:
+
+- **negated:** reason's answerability to independent correction;
+- **exceeded:** explanatory ingenuity escapes the constraints that should stop
+  it; and
+- **reversed:** evidence no longer determines the conclusion; the protected
+  conclusion determines what evidence may mean.
+
+```text
+REASON
+evidence -> evaluates conclusion -> conclusion may change
+
+UN-REASON
+protected conclusion -> evaluates evidence -> evidence must change meaning
+```
+
+The substituted governor need not be a conscious lie. If a speaker knows the
+protected conclusion is false, un-reason can be reason-shaped lying. If the
+speaker sincerely believes it, the same operative relation can be
+reason-shaped rationalization or self-deception. Deliberate deception, sincere
+belief, institutional role performance, and mixed production therefore remain
+separate causal and attribution questions.
+
+This construction also separates **truth-content** from the
+**correction-relation**. A proposition can happen to be true while being held
+through un-reason or authorized un-really if its defenders or institutions have
+made it incapable of losing. A false proposition can remain outside both
+categories when it is openly testable and correction changes belief and
+operation. The pathology can lie in how a proposition is authorized, defended,
+and corrected rather than in its present truth value alone.
+
+##### Worked analogies and boundaries
+
+The operator has close functional neighbours without making them identical.
+The analogies below expose different parts of the retained-skin construction;
+they do not claim that each ordinary-language term satisfies every institutional
+condition of the theoretical operator.
+
+**Dead / not dead / undead**
+
+```text
+DEAD
+a corpse without animation
+
+NOT DEAD
+an ordinarily living being
+
+UNDEAD
+the form and condition of the corpse remain,
+but something continues to animate it
+```
+
+The undead is not simply alive again. Animation has entered the “skin” of death
+without restoring ordinary life.
+
+***Mensch* / *Nicht-Mensch* / *Unmensch***
+
+```text
+MENSCH
+a human whose capacities remain joined to recognizable humanity
+
+NICHT-MENSCH
+an animal, machine, god, or another being outside the human category
+
+UNMENSCH
+a human being whose human appearance and capacities remain,
+but whose operative relation to other persons has been occupied
+by cruelty, instrumentalization, or monstrosity
+```
+
+The *Unmensch* is disturbing precisely because it is not an alien merely
+pretending to be human. The monstrosity operates through genuinely human
+intelligence, language, organization, and agency. Ordinary German *Unmensch* is
+a pejorative noun for a cruel or inhumane person; Žižek's specialized *inhuman*
+names an excess inherent to humanity. Neither ordinary usage alone establishes
+the project's complete retained-form operator.
+
+**Reason / not-reason / un-reason**
+
+```text
+REASON
+evidence tests the conclusion;
+the conclusion can lose
+
+NOT-REASON
+no inferential process is operating:
+a sensation, scream, silence, impulse, or unsupported assertion
+
+UN-REASON
+arguments, evidence, distinctions, and explanations remain,
+but conclusion-protection governs their use;
+the conclusion cannot lose
+```
+
+A simple hypothetical shows the functional reversal:
+
+```text
+Prediction: The world will end on Tuesday.
+Tuesday passes normally.
+
+Reason:
+The prediction failed; revise or abandon the theory.
+
+Un-reason:
+Our faith prevented the catastrophe,
+so the apparent failure confirms the theory.
+```
+
+The auxiliary explanation occupies the skin of reason while preventing
+correction. Not every auxiliary hypothesis is un-reason: the classification
+requires a larger pattern in which no reciprocal evidence, failed prediction,
+or consequence is permitted to defeat the protected account.
+
+**Democracy / non-democracy / sham or “un-democracy”**
+
+*Un-democracy* is not standard English, but the contrast makes the operator
+visible:
+
+```text
+DEMOCRACY
+elections and institutions permit rulers to lose power
+
+NON-DEMOCRACY
+an openly declared monarchy or dictatorship
+
+SHAM OR “UN-DEMOCRACY”
+elections, parties, courts, parliament, and democratic language remain,
+but the system is arranged so that the ruling power cannot lose
+```
+
+Established descriptions such as *sham democracy* or *electoral
+authoritarianism* should normally be preferred in empirical classification.
+The analogy shows domination occupying democratic machinery while continuing
+to claim democratic authority; one irregularity or adverse election result is
+insufficient.
+
+**Science / non-science / pseudoscience**
+
+English uses *pseudo-* rather than *un-* here, but the construction is a close
+functional neighbour:
+
+```text
+SCIENCE
+method and evidence can defeat the theory
+
+NON-SCIENCE
+poetry, ritual, music, or another practice making no scientific claim
+
+PSEUDOSCIENCE
+experiments, graphs, citations, technical vocabulary, and experts remain,
+but the protected theory controls what every result is allowed to mean
+```
+
+Pseudoscience is not merely an absence of science. In the strongest cases it
+occupies the appearance and authority-position of science while a different
+internal rule governs correction. Error, immaturity, or later refutation does
+not by itself establish pseudoscience.
+
+**Freud's *heimlich* / *unheimlich***
+
+Freud's [*The Uncanny*](https://www.mit.edu/~allanmc/freud1.pdf) begins with the
+semantics of *heimlich* and *unheimlich*. The uncanny is not merely wholly
+external or unfamiliar: something formerly familiar, often concealed or
+repressed, returns in an estranged form. The familiar has become internally
+alien. A [scholarly
+overview](https://www.degruyter.com/document/doi/10.1515/opphil-2022-0252/html)
+supplies a modern interpretive bridge.
+
+This is not an exact instance of the project operator: *unheimlich* does not
+necessarily retain the authorized institutional position of *heimlich*. It is a
+semantic precursor to the image:
+
+> **The recognizable form remains, but something alien has appeared within it.**
+
+The compact boundary is:
+
+> **Not-X stands outside X. Un-X occupies X's form and authority-position while
+> redirecting its machinery according to a principle that ordinary X would
+> reject.**
+
+Or, in the author's image:
+
+> **Un-X is something operating inside the skin of X and speaking with X's
+> authority, although its inner rule and effective function have changed.**
+
+This is not a universal rule for words beginning with *un-*. English and German
+use the prefix for absence, opposition, deprivation, reversal, and other
+relations. *Unknown*, for example, ordinarily means only “not known.” A proposed
+theoretical *un-X* must satisfy the stronger retained-form and displaced-governor
+test.
+
+##### A compressed research programme and its safeguard
+
+The operator is intellectually productive because it creates a third category
+between X and the absence of X, reveals parasitic use of X's authority, admits
+sincere and distributed production, and makes gradual capture visible:
+
+```text
+retain X's vocabulary, ceremonies, and institutions
+-> claim X's legitimacy
+-> redirect X's machinery
+-> produce an outcome X should have prevented
+```
+
+The operator therefore directs diagnosis toward the gap between advertised and
+operative function. Un-reason needs the authority of reason; un-reality needs
+the authority of reality; pseudoscience needs the authority of science; sham
+democracy needs the authority of democracy. This is parasitic authority, not
+mere accidental resemblance.
+
+```text
+occasional exception
+-> protected exception
+-> asymmetric standard
+-> recursive explanation
+-> correction becomes threatening
+-> conclusion controls evidence
+-> mature un-reason
+```
+
+It also shifts diagnosis from inaccessible intent toward observable operation:
+Can the conclusion lose? Are standards reciprocal? Does evidence change
+practice? Who controls the defeat conditions? Does criticism become
+confirmation? Does an institution preserve the appearance of correction while
+nullifying its effects? Intent remains important, but it is investigated as a
+separate layer.
+
+The prefix consequently acts as a **compressed research programme**. It asks:
+
+- what remains recognizably X;
+- what normally governs X;
+- what has replaced that governing principle;
+- how X's authority is retained;
+- how its operation has been inverted; and
+- why participants may sincerely continue calling it X.
+
+The same research question can be applied, with its own evidence and defeat
+conditions each time, to reason, reality, science, law, democracy, care,
+education, therapy, and other authority-bearing practices: what has retained
+X's skin, machinery, and authority while replacing X's governing principle?
+
+> **The *un-* construction moves the theory from identifying bad content or
+> deceptive actors to analysing captured forms--systems whose visible machinery
+> remains intact while their governing function has been replaced.**
+
+This strengthens symmetry: every programme, including the analyst's preferred
+one, remains subject to the same test. It also suggests a functional remedy. If
+the problem is un-reason, additional arguments can supply additional defensive
+material; correction requires restoring reciprocal standards, independent
+reality contact, and a genuine possibility of losing. If the problem is
+un-reality, public contradiction is insufficient unless it can change records,
+classifications, resources, jurisdiction, and conduct.
+
+The operator must not become a magic prefix for disfavoured phenomena. Every
+proposed *un-X* diagnosis must specify:
+
+1. what recognizable form or machinery of X remains;
+2. which authority or legitimacy of X it continues to claim;
+3. what principle normally governs X;
+4. what alternative principle has taken control;
+5. which function has consequently been inverted or distorted;
+6. how un-X differs observably from both X and not-X; and
+7. what evidence would defeat the classification.
+
+If an *un-X* diagnosis cannot lose, it risks becoming an instance of what it
+purports to diagnose.
+
+##### Intellectual precedents and the project's additional step
+
+The operator combines but does not simply reproduce three semantic precedents:
+
+- **Kant's infinite or indefinite judgment** distinguishes simple predicate
+  denial from affirmation of a non-predicate and opens an indeterminate third
+  domain. The [*Stanford Encyclopedia of Philosophy* discussion of Kant's theory
+  of judgment](https://plato.stanford.edu/archives/spr2023/entries/kant-judgment/)
+  supplies the general distinction; [Mark Siebel's review](https://philpapers.org/rec/SIEKOI-3)
+  cautions that its exact logical gain and interpretation remain disputed.
+- **Žižek's undead and inhuman contrasts** in the project's [local copy of *How
+  to Read Lacan*](https://wwnorton.co.uk/books/9780393329551-how-to-read-lacan) provide the nearest direct semantic
+  precedent: *not dead* differs from *undead*, and *not human* from *inhuman*.
+  Indefinite negation reveals an excess or distortion immanent to the category,
+  but does not yet supply the complete retained-machinery and substituted-governor
+  mechanism.
+- **Freud's *unheimlich*** supplies internal estrangement of the familiar rather
+  than mere external unfamiliarity. It does not supply the full functional or
+  institutional relation.
+
+Culture Mechanics adds the operational step: X's form, machinery, and authority
+remain while a substituted governing principle reverses or distorts their
+function. The resulting audit identifies retained form, claimed authority,
+normal governor, substituted governor, operative inversion, observable defeat
+conditions, and possible restoration of correction. The complete operator must
+not be attributed to Kant, Freud, Žižek, or Hegel.
+
 #### Un-reason: reasoning that defeats the conditions of reason
 
 **un-reason** *noun*
@@ -772,34 +1136,27 @@ institution's sovereign possession of it.
 
 **Un-reason** is an internal epistemic failure mode in which inferential,
 conceptual, interpretive, or critical capacities remain active—sometimes with
-great sophistication—but are organized to protect a conclusion, authority,
-identity, or programme from reciprocal standards and independent correction. It
-is not an absence of reasoning. It is reasoning made self-negating in epistemic
-function: greater skill at explanation, distinction, criticism, and defence helps
-disable the account's capacity to lose.
+great sophistication—but conclusion-protection takes control of their
+operation. Arguments, evidence, distinctions, citations, and criticism retain
+the recognizable machinery and authority-claim of reason while a conclusion,
+authority, identity, or programme is protected from reciprocal standards and
+independent correction.
 
-> **Un-reason is reason's power operating against the conditions under which reasoning can correct itself.**
+> **Un-reason is reason-shaped operation governed by the requirement that a
+> protected conclusion survive irrespective of what independent correction
+> should do to it.**
 
-The term is constructed by extending the **indefinite-judgment pattern** Žižek
-uses immediately around the cited “Night of the World” remark in *How to Read
-Lacan*. His contrasts between *not dead* and *undead*, and between *not human* and
-*inhuman*, distinguish a simple external negation from a disturbing third domain
-in which the negated quality persists in an internally transformed form. Applied
-here:
-
-| Form | Meaning in this project |
-|---|---|
-| **Reason** | Inferential and interpretive activity held answerable to logical consistency, explicit premises, reciprocal standards, relevant evidence, alternative accounts, consequences, and correction appropriate to the question. |
-| **Not-reason** | Reasoning is absent or not currently operative: sensation, affect, impulse, silence, pre-articulate experience, incapacity, or an unsupported assertion may fall here. This category is not inherently pathological. |
-| **Un-reason** | Reasoning remains operative, but its concepts, premises, burdens, exceptions, or standards are arranged asymmetrically or revised recursively so that a protected account cannot be defeated. |
-
-The hyphen therefore marks a project-specific construction modelled on Žižek's
-semantic pattern; **un-reason is not Žižek's term, not Hegel's term, and not a
-claim that either thinker proposed this mechanism**. Nor is subjective Night
-itself un-reason. Night names the opaque, negative, and generative inward ground
-from which many forms of articulation can emerge; un-reason names one possible
-organization of articulated thought after it has entered justificatory and social
-circulation.
+Its epistemic result can still be described as self-negating: greater skill at
+explanation, distinction, criticism, and defence helps disable the account's
+capacity to lose. That is the result of the displaced governing principle, not
+the complete definition. The [theoretical *un-* operator](#theoretical-un-operator)
+owns the reason/not-reason/un-reason contrast, the retained-skin construction,
+and its Kant--Freud--Žižek precedents. **Un-reason is not Žižek's term, not
+Hegel's term, and not a claim that either thinker proposed this mechanism.** Nor
+is subjective Night itself un-reason. Night names the opaque, negative, and
+generative inward ground from which many forms of articulation can emerge;
+un-reason names one possible organization of articulated thought after it has
+entered justificatory and social circulation.
 
 A characteristic programme-level sequence is:
 
@@ -1012,6 +1369,14 @@ Useful questions are:
 This shifts the discussion from the disputed conclusion to the conditions under
 which conclusions may lose.
 
+For the specialized **person-side, neutral-to-culture-loaded comparison**, see
+[*Epistemic Agency*, “Latent Culture Program diagnosis under homo-duplex
+orthogonality”](0020-epistemic-agency.semantic-definition.md#latent-culture-program-diagnosis).
+That proposed contrastive correction-interface probe samples whether a disclosed
+causal form remains corrigibly available across differently loaded cases. It is
+not identical to this generic interface test and does not turn one failed
+exchange into a latent-program, Ideology, radicalization, or person diagnosis.
+
 If the person can name genuine defeaters and later update, the bridge remains. If
 every imaginable result confirms the account, then rational persuasion about that
 protected claim is temporarily impossible—not because communication has ceased,
@@ -1057,12 +1422,12 @@ has been made institutionally incapable of losing. A false claim can remain
 outside un-reality when it is openly testable and correction changes what the
 relevant people and institutions do.
 
-The hyphen marks a project-specific extension of the
-[**indefinite-judgment pattern**](#un-reason-reasoning-that-defeats-the-conditions-of-reason)
-used to construct *un-reason*. The extension is one level displaced. Reasoning
-itself remains active in un-reason; mind-independent reality is never transformed
-or negated by un-reality. What persists in internally inverted form is the
-representation's **socially authorized reality-function**:
+The hyphen applies the project-specific
+[**theoretical *un-* operator**](#theoretical-un-operator) one level displaced.
+Reasoning itself remains active in un-reason; mind-independent reality is never
+transformed or negated by un-reality. What persists is the representation's
+**socially authorized reality-function**, while independent reality-correction
+has been displaced as its governor:
 
 ```text
 reality-anchored order
@@ -1089,7 +1454,7 @@ The relation to neighbouring constructs is typed:
 | **Un-reason → possible un-reality mechanism** | Intelligence can supply distinctions, exceptions, revised burdens, and criticism-as-confirmation through which an authorized account survives contact with consequences. Un-reason is neither necessary nor sufficient: coercion, omission, ritual assent, memory control, synchronized incentives, or simple institutional inertia can also preserve un-reality. |
 | **Un-real representation → un-reality** | One representation can govern one office, policy, discipline, or domain un-really without constituting an entire social meta-order. Specify representation, domain, institution, population interface, and period. |
 | **Organized un-reality** | Multiple human, linguistic, symbolic, incentive, record, and institutional channels are fitted to reproduce un-real reality-status and defeat correction. Organization can be deliberate, emergent, or mixed; the term does not identify a designer. |
-| **Systemic-lying epistemic constitution → organized un-reality** | The systemic-lying pole is the full constitutional meta-order that recurrently produces and protects organized un-reality. Local or domain-specific un-reality does not establish that full ideal type. |
+| **Systemic-lying epistemic constitution → organized un-reality** | The systemic-lying pole is the full constitutional meta-order that recurrently generates, selects, authorizes, protects, and replaces organized un-reality. Local or domain-specific un-reality does not establish that full ideal type. |
 | **Un-reality ↛ conscious universal deception** | Some participants may knowingly lie, others may sincerely believe, doubt themselves, conform, compartmentalize, or follow role incentives. No inference to one conspiracy, motive, pathology, or population guilt follows. |
 | **Un-reality ↛ Babelization** | A domain can be un-real while external observers, rival institutions, shared language, and common adjudication survive. Babelization requires the separate intergroup and anti-Babel threshold. |
 
@@ -1310,30 +1675,91 @@ U0 remains operative + U1 acquires classifications and consequences
 ORGANIZED UN-REALITY EXPANDS: U0 + U1 + U2 + …
 ```
 
-The phrase **counterfeit Bayesian updating** names the project's diagnostic
-contrast, not a new kind of probability calculus. Legitimate Bayesian
-explaining-away compares causally adequate alternatives: independently supported
-evidence for one possible cause can lower confidence in another, while the model,
-priors, observations, and rival explanations remain open to reciprocal testing.
-The counterfeit form treats the authorization or usefulness of U1 as though it
-were independent evidence for U1. The auxiliary account is introduced or
-privileged after the collision, receives asymmetric evidential protection, and
-is then used to cancel the correction that occasioned it.
+###### Ordinary Bayesian explaining-away
 
-An alternative causal explanation is therefore not un-real merely because it
-protects an earlier conclusion or attributes fault. The diagnosis requires the
-full operative relation: U0 already has practical reality-status; relevant
-reality contact threatens it; U1 lacks adequate independent support or is
-shielded from reciprocal testing; authority gives U1 corrective priority; and
-U0, U1, or both continue to classify and allocate despite failed correction. A
-genuine logical contradiction cannot be dissolved merely by inventing another
-cause; premises, scope, authenticity, or the claim itself must be corrected.
+Where causes compete to explain an observation, independent evidence for one
+cause can rationally reduce the explanatory burden or probability assigned to
+another:
+
+```text
+observed outcome O
+        |
+        +--> possible cause A
+        |
+        +--> possible cause B
+
+new evidence E independently supports B
+        |
+        v
+where A and B compete for explanatory share,
+confidence in A may rationally decrease
+```
+
+Explaining-away remains reality-answerable when:
+
+- the alternative has evidence independent of its usefulness in protecting a
+  favoured account;
+- the causal model, observations, priors, and rival explanations remain
+  inspectable;
+- comparable standards apply to favoured and disfavoured causes;
+- the explanation makes predictions or otherwise exposes itself to defeat; and
+- every candidate cause and the larger model can lose when further evidence
+  warrants it.
+
+An alternative is not un-real or un-reasoned merely because it preserves an
+earlier conclusion, is proposed after an unexpected event, or attributes
+responsibility elsewhere. Legitimate causal revision is indispensable to
+truth-seeking.
+
+###### Counterfeit Bayesian explaining-away
+
+The phrase **counterfeit Bayesian updating** names the project's diagnostic
+contrast, not a new probability calculus and not a claim that participants
+compute explicit probabilities. The counterfeit form treats the authorization,
+identity fit, or programme usefulness of U1 as though it were independent
+evidence for U1. The auxiliary account is introduced or privileged after the
+collision, receives asymmetric evidential protection, and is used to cancel the
+correction that occasioned it:
+
+```text
+operative U0 collides with reality
+        |
+        v should weaken or correct U0
+U1 is introduced or privileged
+        |
+        v
+authorization or programme usefulness substitutes
+for adequate independent causal evidence
+        |
+        v
+U1 receives asymmetric evidential protection
+        |
+        v
+U1 explains the correction away
+        |
+        v
+U0 remains operative; U1 may acquire classifications,
+burdens, sanctions, and authority of its own
+```
+
+The diagnosis requires the full operative relation: U0 already has practical
+reality-status; relevant reality contact threatens it; U1 lacks adequate
+independent support or is shielded from reciprocal testing; authority gives U1
+corrective priority; and U0, U1, or both continue to classify and allocate
+despite failed correction. A merely post-hoc explanation, adverse attribution,
+weak hypothesis, disputed model, or ordinary update does not establish the
+mechanism. A genuine logical contradiction cannot be dissolved by inventing
+another cause; premises, scope, authenticity, or the claim itself must be
+corrected.
 
 The cascade types the relation among the surrounding constructs:
 
 | Construct | Role in the cascade |
 |---|---|
+| **Linguistic tricks** | Can supply the wording and reconstructive operations of U1 through selective framing, psychologizing, burden reversal, scapegoating, moral inversion, or script preactivation. |
+| **Instrumental untruthfulness** | Can select, retain, suppress, or route U1 principally for its operative effect over faithful causal representation. |
 | **Un-reason** | Constructs or accepts the auxiliary causal model that protects U0 from the meaning of the correction. |
+| **Un-real representation** | U0 retains operative reality-status through failed correction; U1 becomes another un-real representation if it acquires such authority under the same failed-correction relation. |
 | **Trusted-carrier correction lock** | Gives U1 receiving-field credibility, gain, translation, and distributed routing. |
 | **Correction nullification** | Possible result: the sustained correction cannot change operation. |
 | **Systemic lying** | Can recurrently generate U1, U2, U3, and later defensive accounts when installed representations collide with reality. |
@@ -1377,6 +1803,252 @@ The constitutional lesson is:
 > officially acknowledged, but when it is capable of altering every downstream
 > operation whose justification materially depends upon it.**
 
+#### Typed epistemic architecture: operation, orientation, mechanism, state, stock, and constitution {#typed-epistemic-architecture}
+
+The surrounding terms identify different analytical objects and must not be
+used as synonyms:
+
+| Term | Analytical type | Governing question |
+|---|---|---|
+| [**Linguistic trick**](0030-linguistic-tricks.semantic-inventory.md) | Local communicative operation | How is an audience's reconstruction steered while enough of the appearance or authority of communication remains? |
+| [**Instrumental untruthfulness**](0030-linguistic-tricks.semantic-inventory.md#instrumental-untruthfulness-as-a-communicative-orientation) | Communicative selection orientation | Is communication selected, shaped, retained, suppressed, or routed for operative effect while truth-supporting conditions become subordinate? |
+| [**Un-reason**](#un-reason-reasoning-that-defeats-the-conditions-of-reason) | Inferential, interpretive, or correction-defeating mechanism | Has conclusion-protection taken control of the machinery and standing of reason? |
+| [**Un-real representation**](#un-reality-operative-reality-status-insulated-from-reality) | Operative epistemic state or output | Does an authorized representation continue to govern consequential conduct although independent correction cannot alter its authority or use? |
+| **Organized un-reality** | Installed multi-channel stock | Have human, linguistic, symbolic, incentive, record-bearing, and institutional channels become fitted around one or more un-real representations? |
+| [**Systemic-lying epistemic constitution**](#systemic-lying-epistemic-constitution) | Constitutional meta-order and truth-orientation pole | Does the order recurrently generate, select, authorize, protect, and replace organized un-reality rather than preserve reality's authority to defeat it? |
+
+The shortest synthesis is:
+
+> **Linguistic tricks are possible communicative operations; instrumental
+> untruthfulness is the orientation that selects communication for effect over
+> truth-supporting conditions; un-reason is captured inferential control logic;
+> un-reality is a possible operative social state; organized un-reality is its
+> fitted multi-channel stock; and systemic lying is the constitutional
+> production-and-maintenance regime.**
+
+[**Ideology**](0060-culture-program-ecology.semantic-definition.md#ideology-installed-social-un-reality-defended-through-un-reason)
+is not a seventh epistemic level or another name for the sequence. It is a
+Culture Program classifier that requires a particular fitted conjunction across
+these levels: reusable generation, authorized social un-reality, failed
+operative correction, un-reasoned defence, sufficient installation and
+reproduction, and collective scale. Un-reason, organized un-reality, or systemic
+lying alone does not establish that conjunction; **Systemic Ideology** is one
+candidate route into, but not a synonym for, the systemic-lying pole.
+
+##### Distributed carrier sequence {#distributed-carrier-sequence}
+
+The **distributed carrier sequence** is a possible cross-scale pathway through
+which a selected communicative form becomes a recipient's reconstructed model,
+may recruit a person's or institution's reasoning, may acquire
+operative authority, and may eventually enter constitutional reproduction. It
+is *distributed* because different people, roles, offices, records, incentives,
+and institutions can carry different functions. No single participant must
+design, understand, believe, defend, record, enforce, and reproduce the whole
+relation.
+
+```text
+ORIGINATOR OR SELECTOR
+creates, selects, retains, suppresses, or routes a communicative form;
+instrumental untruthfulness may govern the selection
+                         |
+                         v
+CARRIER
+repeats, translates, condenses, amplifies, or performs it
+strategically, habitually, role-obediently, or sincerely
+                         |
+                         v
+RECIPIENT RECONSTRUCTION
+the recipient reconstructs a factual, causal, moral,
+identity, or authorization model rather than merely copying words
+                         |
+                         v
+POSSIBLE UN-REASON
+reasoning protects the reconstructed model when correction threatens it
+                         |
+                         v
+POSSIBLE UN-REALITY
+the model receives or retains consequential operative authority
+despite failed independent correction
+                         |
+                         v
+POSSIBLE ORGANIZED UN-REALITY
+records, classifications, procedures, offices, incentives, symbols,
+and sanctions become fitted around the operative representation
+                         |
+                         v
+POSSIBLE SYSTEMIC LYING
+a constitutional meta-order recurrently selects, authorizes,
+protects, reproduces, and replaces the installed stock
+```
+
+The first three positions concern communication and reconstruction. The later
+terms are not additional human roles: *un-reason* is a possible inferential
+mechanism, *un-reality* an operative state, *organized un-reality* an installed
+stock, and *systemic lying* a constitutional meta-order. The sequence therefore
+connects levels without collapsing them.
+
+| Position or transition | Governing question | Attribution and correction boundary |
+|---|---|---|
+| **Originator or selector** | Who created, selected, retained, suppressed, or routed this form, and why? | Deliberate instrumental selection requires actor-level evidence. A form can also originate in sincere error or be selected institutionally because it performs well without one represented design. |
+| **Carrier** | Who transmitted, translated, condensed, amplified, or publicly performed it? | Transmission does not carry the originator's intent automatically. Compare the carrier's source access, fidelity, incentives, role, private--public relation, and response to correction. |
+| **Recipient reconstruction** | Which factual, causal, moral, identity, or authorization model did the recipient actually reconstruct? | Exposure is not adoption. Test comprehension, retained distinctions, alternative readings, source trust, local-bigOther fit, and whether conduct or judgment changed. |
+| **Reconstruction → un-reason** | When challenged, does reasoning permit the reconstructed model to lose? | Belief, confidence, emotion, or one weak defence is insufficient. Require protected conclusions, asymmetric standards, recursive immunization, and failed correction for the specified unit, claim, domain, and period. |
+| **Un-reason → un-reality** | Did the protected model acquire or retain authority over consequential conduct? | Private rationalization alone is insufficient. Identify records, classifications, decisions, permissions, burdens, sanctions, resources, or jurisdiction that remain governed despite failed correction. |
+| **Un-reality → organized stock** | Did several human, symbolic, record-bearing, incentive, and institutional channels become fitted around it? | One operative error is insufficient. Require multi-channel installation, recurrence, and evidence that the channels reinforce or preserve the representation. |
+| **Organized stock → systemic lying** | Does a constitutional meta-order recurrently generate, select, authorize, protect, and replace the stock over independent correction? | Domain-specific or temporary organization is insufficient. Establish the specified order, scope, period, recurrence, correction hierarchy, and constitutional production relation. |
+
+The most important attribution rule is:
+
+> **Intent does not propagate merely because a message does.**
+
+One actor may knowingly construct a misleading frame, another may repeat it as
+a job requirement, a third may sincerely believe it, a fourth may use un-reason
+to defend it, and an office may record and enforce it without any participant
+possessing a complete model of the cycle. Conversely, a sincere originator or
+carrier does not make the resulting representation reality-answerable. The
+classification follows the evidenced operation at each position, not moral
+contagion from another position.
+
+Nor does *distributed* imply conspiracy or coordination. Selection pressure,
+prestige, role segmentation, common training, shared records, institutional
+memory, ordinary conformity, and independently similar incentives can produce
+convergent transmission. Coordination, covert design, capture, guilt, and
+person-level deception require their own evidence.
+
+A carrier may occupy the [trusted-opinion-leader
+function](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leader-function-cascades-and-cultivated-authority),
+in which case trust and gain can increase routing, uptake, translation, and
+returned reinforcement. But ordinary carriers also suffice for transmission;
+carrier status alone establishes neither trusted gain nor a
+[trusted-carrier correction
+lock](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock).
+
+A neutral worked example makes the distribution visible:
+
+```text
+An organization suffers a preventable failure.
+
+Selector:
+an external-sabotage account is selected because it protects incumbent authority.
+
+Carriers:
+officials and commentators repeat it; some may doubt it,
+some follow their role, and some believe it sincerely.
+
+Recipients:
+some reconstruct a model in which criticism itself signals hostile interference.
+
+Possible un-reason:
+contrary evidence is redescribed as proof of the saboteurs' sophistication.
+
+Possible un-reality:
+the sabotage account governs investigations, records, appointments,
+sanctions, and future policy despite failed correction.
+
+Possible organized un-reality and systemic lying:
+procedures and incentives preserve the account, and later failures
+recurrently generate authorized successor sabotage accounts.
+```
+
+Sabotage can of course be real. An independently supported, reciprocally tested,
+predictively exposed sabotage explanation is ordinary causal inquiry, not this
+pathology. One mistaken explanation, one sincere repetition, or one failed
+correction also does not establish the later stages.
+
+Every position and arrow is therefore a separate evidential and intervention
+point. At selection, inspect provenance and disclose the selection rule; during
+transmission, test carrier fidelity, refusal, and source comparison; at uptake,
+check the recipient's reconstruction and alternatives; when defence begins,
+restore reciprocal defeat conditions; when the model acquires authority, use
+operative review and bounded de-authorization; during installation, preserve
+channel independence and repair; and at constitutional scale, preserve
+pluralism, succession, and reality-answerable correction. A break at any point
+can prevent this pathway from propagating.
+
+This is one possible causal sequence, not a mandatory ladder. None of the
+following implications is valid without further evidence:
+
+```text
+one linguistic trick       -/-> instrumental untruthfulness, un-reason,
+                                  un-reality, or systemic lying
+localized un-reason        -/-> un-reality or systemic lying
+one un-real representation -/-> organized un-reality or systemic lying
+organized un-reality       -/-> whole-order systemic lying
+```
+
+A linguistic trick can be exposed and corrected. Un-reason can remain local to
+one person, argument, discipline, office, or protected claim. Un-reality can
+arise or persist without un-reason through censorship, omission, ritual assent,
+synchronized incentives, memory loss, authority, coercion, correction
+nullification, or organizational inertia. Systemic lying can preserve an
+authorized account with little sophisticated reasoning. A domain-specific stock
+of organized un-reality can remain bounded and corrigible from outside.
+
+The non-collapses are therefore strict:
+
+```text
+linguistic trick              != instrumental untruthfulness
+linguistic trick              != un-reason
+instrumental untruthfulness   != un-reason
+un-reason                     != un-reality
+un-reality                    != organized un-reality
+organized un-reality          != systemic lying
+systematic actor-level lying  != systemic lying
+systemic lying                != Ideology or another Culture Program
+                                 classification by itself
+reasonable critical discussion != established truth
+```
+
+**Systematic lying** is repeated or methodical deceptive conduct attributed to a
+specified actor or organization. **Systemic lying** is a constitutional truth
+orientation that can be reproduced by deliberate deceivers, sincere believers,
+conformists, officials, roles, incentives, and institutions together.
+Systematic lying can contribute to the systemic order but is neither necessary
+nor sufficient for it.
+
+Cross-axis comparisons must hold the **specified unit and level** constant.
+For a person, outward communication selection and the person's own correction
+logic are different objects; for an institution or programme, output-selection
+rules and institutional correction rules are different relations within that
+unit. Strategic public communication does not establish private un-reason, and
+institution-level selection does not establish actor-level instrumental intent.
+Sincerity also remains distinct from truth-content and reality-tracking.
+
+Analysis should consequently ask six separate questions:
+
+1. **Communicative form and operation:** Which linguistic or reconstructive form
+   occurred, did it operate as a trick in context, and which truth-supporting
+   condition did it affect?
+2. **Communicative selection orientation:** Was the communication selected,
+   shaped, retained, suppressed, or routed principally for operative effect, and
+   for which actor, role, programme, or institution is that attribution
+   supported?
+3. **Governing inferential logic:** Was reasoning organized so that a specified
+   conclusion, authority, identity, or programme could not lose?
+4. **Operative status:** Did the representation receive practical authority,
+   and could independent correction change its use?
+5. **Installation and scale:** Was it fitted across multiple channels and
+   recurrently reproduced by a constitutional meta-order?
+6. **Intent and attribution:** Who selected, understood, designed, repeated, or
+   inherited which operation, and with what evidence?
+
+This sequence prevents a constitutional diagnosis from being inferred from one
+euphemism, conscious lying from sincere un-reason, or un-reality from one false
+but corrigible statement.
+
+The complete relation can be stated in one sentence:
+
+> **Instrumental untruthfulness can select linguistic tricks for their
+> operative effects; those tricks can shape messages through which un-reason
+> protects an authorized account; when failed correction cannot withdraw that
+> account's operative reality-status, it is un-real; when such representations
+> accumulate across fitted channels, they form organized un-reality; and when a
+> constitutional meta-order recurrently generates, selects, authorizes,
+> protects, and replaces that stock, the order approaches or realizes systemic
+> lying. A truth-seeking alternative joins pragma-dialectically reasonable
+> discussion to independent reality-answerability so that every resulting
+> account can still lose.**
+
 ### 10. Communicative integrity and linguistic tricks
 
 The epistemic constitution is enacted at the smallest scale through ordinary speech. It matters whether communication is oriented toward mutual understanding and reality or toward operative effect while preserving the appearance of communication.
@@ -1384,6 +2056,17 @@ The epistemic constitution is enacted at the smallest scale through ordinary spe
 This distinction resembles **Jürgen Habermas's** contrast between communicative and strategic action and his differentiation of truth, normative rightness, and sincerity as validity claims in [*The Theory of Communicative Action*](https://www.suhrkamp.de/rights/book/juergen-habermas-the-theory-of-communicative-action-fr-9783518287750). The present synthesis borrows this orientation but does not adopt Habermas's entire theory or treat discursive agreement as sufficient for correspondence with reality.
 
 The detailed micro-level taxonomy is maintained separately in [*Linguistic Tricks: A Semantic Inventory*](<0030-linguistic-tricks.semantic-inventory.md>). That inventory covers the assertional, informational, semantic, dialogical, attributional, and contextual operations through which communication can obscure rather than illuminate. It also explains the relation between fallacy, sophism, sophistry, and the wider category of instrumental untruthfulness. Its entries are not reproduced here.
+
+Within the [typed architecture](#typed-epistemic-architecture), a linguistic
+trick is a possible communicative operation, while **instrumental
+untruthfulness** is the further selection orientation in which a specified
+actor, role, programme, or institution privileges operative effect over truth,
+accuracy, sincerity, shared meaning, reciprocal examination, reasonable
+resolution, or correction. One trick does not establish that orientation, and
+the orientation does not establish un-reason: a strategist can knowingly
+mislead while privately retaining a corrigible model, while a sincere believer
+can communicate exactly what the believer thinks and still defend it through
+un-reason.
 
 Constitutionally, the point is:
 
@@ -1490,7 +2173,48 @@ These comparisons concern the organizations' published formats; they do not impl
 
 The distinctive integration lies before and after the event. Existing debate producers ordinarily choose a topic and then stage it. A disagreement-sensing constitutional organ makes the detection and fair public processing of emerging consequential disagreement itself a continuing social function. After the event, it preserves the question rather than closing it with a winner.
 
-This procedure can borrow rules from **Frans H. van Eemeren and Rob Grootendorst's** [pragma-dialectical theory of critical discussion](https://www.routledge.com/Argumentation-Communication-and-Fallacies-A-Pragma-dialectical-Perspective/van-Eemeren-Grootendorst/p/book/9780805810691). The borrowing is partial. Pragma-dialectics supplies procedures for reasonably resolving differences of opinion; the epistemic constitution adds the external requirement that even procedurally reasonable conclusions remain answerable to evidence and reality.
+##### Pragma-dialectical procedure plus reality-answerability {#pragma-dialectical-reality-answerable-interface}
+
+This procedure can borrow from **Frans H. van Eemeren and Rob Grootendorst's**
+*A Systematic Theory of Argumentation: The Pragma-Dialectical Approach*.
+[Chapter 3, “A model of a critical discussion,” pp.
+42–68](https://doi.org/10.1017/CBO9780511616389.004), sets out the ideal
+discussion through confrontation, opening, argumentation, and conclusion.
+[Chapter 6, “Rules for a critical discussion,” pp.
+123–157](https://doi.org/10.1017/CBO9780511616389.007), supplies the procedural
+rules behind freedom to advance and question standpoints, disclosed burdens,
+relevant defence, faithful representation, and explicit closure. These provide
+counter-standards to several linguistic tricks.
+
+The borrowing is partial:
+
+> **Pragma-dialectics supplies internal procedural reasonableness; Culture
+> Mechanics adds external answerability to evidence and reality.**
+
+```text
+PRAGMA-DIALECTICAL CRITICAL DISCUSSION
+fair internal procedure for disagreement
+                  +
+REALITY-ANSWERABILITY
+the resulting account remains corrigible by evidence and events
+                  +
+COMMUNICATIVE INTEGRITY
+sincerity, inspectable meaning, relevance, provenance,
+reciprocal burdens, visible dialogue type, and honourable correction
+                  =
+TRUTH-SEEKING COMMUNICATIVE INTERFACE
+```
+
+A fair discussion can still reach a false conclusion. Conversely, a
+systemic-lying order can preserve the ceremonies of critical discussion while
+controlling admissibility, opponents, burdens, consequences, and the conditions
+under which its authorized account may lose. One breached discussion rule does
+not by itself establish a trick, instrumental untruthfulness, un-reason,
+un-reality, or systemic lying.
+
+> **Pragma-dialectics asks whether disagreement was conducted reasonably.
+> Reality-answerability asks whether reality is still permitted to overturn its
+> result.**
 
 The institution is deliberately not a centralized public brain:
 
@@ -2389,12 +3113,60 @@ crosswalk](0060-culture-program-ecology.semantic-definition.md#schutzbalken-cros
 
 #### Short definition
 
-A systemic-lying epistemic constitution is a social meta-order in which public communication, institutional authority, social incentives, language, memory, and routine participation are organized to reproduce an authorized representation of reality while sincere avowal, contradictory evidence, genuine disagreement, and independent correction are suppressed, distorted, ritualized, or made prohibitively costly.
+A **systemic-lying epistemic constitution** is a social meta-order that
+recurrently generates, selects, authorizes, protects, and replaces organized
+un-reality because its correction relations subordinate independent truth to
+operative usefulness, loyalty, control, or authority. Public communication,
+institutional authority, social incentives, language, memory, and routine
+participation are thereby organized to reproduce authorized representations
+while sincere avowal, contradictory evidence, genuine disagreement, and
+independent correction are suppressed, distorted, ritualized, or made
+prohibitively costly.
 
 It too is a full lifted capture and a universal meta-order. Its pathology lies in
 how its representatives and rules monopolize interpretation, block succession and
 correction, and make reality answerable to authorization—not in the mere fact that
 one second-order order governs society-wide jurisdiction rules.
+
+**Recurrent** does not mean uninterrupted output. A standing correction
+structure can remain systemically closed during quiet periods. **Generation** is
+only one operation: accurate fragments can be selectively arranged into a
+misleading model; offices and procedures can authorize it; silence, ritual
+assent, memory control, incentives, inertia, or correction nullification can
+protect it; and a successor account can inherit the defeated representation's
+classifications and utility.
+
+The stock--flow--feedback relation is:
+
+```text
+SYSTEMIC-LYING CONSTITUTION
+standing generator, selector, authorizer, protector, and replacement regime
+                         |
+                         v
+recurrent flow of authorized representations
+                         |
+                         v
+UN-REAL REPRESENTATIONS
+operative outputs that survive failed correction
+                         |
+                         v
+ORGANIZED UN-REALITY
+installed stock in classifications, records, procedures, offices,
+incentives, symbols, memories, and allocations
+                         |
+                         v
+the stock supplies premises, codebooks, roles, precedents, and incentives
+through which later evidence and correction are interpreted
+                         |
+                         +---------- feedback ---------->
+```
+
+The constitutional classification therefore does not assert that every
+proposition is false, every carrier knows it is false, or one centre designed
+the order. The system can function as though it were lying through mixtures of
+deliberate deception, sincere belief, role obedience, fragmented knowledge,
+incentives, and institutional self-protection. What is systemically inverted is
+the relation between authorized representation and independent correction.
 
 #### Constitutive properties
 
@@ -2900,7 +3672,12 @@ Ultimate contrast:
   Cognitive System”](https://doi.org/10.1177/00332941241280870) supplies the
   individual-differences operationalization. It is a narrower empirical construct
   than Orwell's political mechanism and than the project's un-reason mechanism.
-- **Critical discussion — Frans H. van Eemeren and Rob Grootendorst:** [*Argumentation, Communication, and Fallacies*](https://www.routledge.com/Argumentation-Communication-and-Fallacies-A-Pragma-dialectical-Perspective/van-Eemeren-Grootendorst/p/book/9780805810691).
+- **Critical discussion — Frans H. van Eemeren and Rob Grootendorst:** *A
+  Systematic Theory of Argumentation: The Pragma-Dialectical Approach*, [Chapter
+  3, “A model of a critical discussion,” pp.
+  42–68](https://doi.org/10.1017/CBO9780511616389.004), and [Chapter 6, “Rules for
+  a critical discussion,” pp.
+  123–157](https://doi.org/10.1017/CBO9780511616389.007).
 - **Queer positionality — David M. Halperin:** [*Saint Foucault: Towards a
   Gay Hagiography*](https://academic.oup.com/book/48907). This document uses the
   relational, anti-normative sense to distinguish queer positionality from a
@@ -2961,7 +3738,10 @@ independent source establishes otherwise:
   the allocation and limitation of first-order outputs and jurisdictions**,
   inherited from the coordinated theory project and applied constitutionally here;
 - **reality-anchored, truth-seeking epistemic constitution**;
-- **systemic-lying epistemic constitution**;
+- **systemic-lying epistemic constitution** as the constitutional meta-order
+  that recurrently generates, selects, authorizes, protects, and replaces
+  organized un-reality because independent truth has been subordinated to
+  usefulness, loyalty, control, or authority;
 - **constitutional classification orientation** and **pole** as the extensible
   multi-orientation classification structure defined here;
 - **sacred-principal allocation** as a candidate non-scalar audit retained
@@ -2988,17 +3768,26 @@ independent source establishes otherwise:
   and death-drive theoretical strand in *No Future*, not Edelman's term and not a
   classification of queer people or queer theory generally;
 - **public epistemic telemetry**;
+- the **theoretical *un-* operator**, **retained-skin formulation**, and
+  **displaced-governor test** in which X's recognizable machinery and
+  authority-claim remain while a non-X principle redirects their operation.
+  Kant's infinite judgment supplies a disputed formal third-domain precedent,
+  Freud's *unheimlich* internal estrangement of the familiar, and Žižek's
+  *undead/inhuman* contrast an immanent excess or distortion. The complete
+  retained-form, claimed-authority, substituted-governor, operative-inversion,
+  and defeat-condition test is the project's additional step and must not be
+  attributed to those authors;
 - **un-reason** as the project-specific cross-scale mechanism in which reasoning
-  remains active but is recursively organized against reciprocal standards and
-  independent correction; the assistant proposed the term during the discussion
-  of Žižek's Night passage and the originating author selected it for integration.
-  Its construction follows Žižek's *undead/inhuman* semantic pattern, but the term
-  and mechanism are not attributed to Žižek or Hegel;
+  remains active and retains reason's machinery and authority-claim while
+  conclusion-protection displaces truth-correction as governor. The assistant
+  proposed the term during the discussion of Žižek's Night passage and the
+  originating author selected it for integration. The term and mechanism are
+  not attributed to Žižek or Hegel;
 - **un-real representation**, **un-reality**, and **organized un-reality** as the
   project-specific state/output family in which socially authorized
   reality-status remains operative while independent correction loses the power
   to change authority or use. The originating author proposed extending the
-  indefinite-judgment construction from un-reason to un-reality and selected the
+  theoretical *un-* construction from un-reason to un-reality and selected the
   expressive formula “A lie becomes un-real when everyone must inhabit it, and
   un-reason begins when intelligence is recruited to explain why the visible
   contradiction cannot count.” The assistant separated state from mechanism and
@@ -3006,6 +3795,13 @@ independent source establishes otherwise:
   the broad-*lie*, practical-*everyone*, and inspectable-*visible* boundaries.
   These terms and relations are Culture Mechanics developments, not Žižek's,
   Hegel's, Arendt's, Andersen's, or Rauch's;
+- the **typed epistemic architecture** separating communicative operation,
+  communicative selection orientation, inferential mechanism, operative state,
+  installed stock, and constitutional meta-order. Its integration of linguistic
+  tricks, instrumental untruthfulness, un-reason, un-real representation,
+  organized un-reality, and systemic lying—together with the six-question
+  classification discipline and systematic/systemic-lying boundary—is a Culture
+  Mechanics synthesis;
 - **post-disclosure un-reality**, **defeated-but-operative un-reality**,
   **acknowledged un-reality**, **correction nullification**, **dead-letter
   correction**, and **bounded de-authorization** as the project-developed
@@ -3242,12 +4038,28 @@ independent source establishes otherwise:
 - **Central object:** the relationship among reality, private judgment, public
   avowal, authority, evidence, disagreement, attention, memory, correction, and
   what the shared order organizes motivation to reproduce.
+- **Theoretical *un-* operator:** un-X retains X's recognizable machinery and
+  authority-position while a displaced non-X governor reverses or distorts its
+  operation. The operator must identify retained form, claimed authority, normal
+  and substituted governors, observable inversion, and a defeat condition; it is
+  not a general rule for every word beginning with *un-*.
+- **Typed epistemic architecture:** linguistic trick, instrumental
+  untruthfulness, un-reason, un-real representation, organized un-reality, and
+  systemic lying identify respectively a communicative operation, selection
+  orientation, inferential mechanism, operative state, installed stock, and
+  constitutional meta-order. None is a synonym or automatic proof of the next.
+- **Distributed carrier sequence:** originator or selector, carrier, and
+  recipient reconstruction are separate communicative positions that may connect
+  to possible un-reason, un-reality, organized un-reality, and systemic lying.
+  Different participants can occupy each function; intent does not propagate
+  with a message, distributed reproduction does not establish conspiracy, and
+  every arrow requires separate evidence.
 - **Internal failure mechanism:** un-reason can preserve sophisticated reasoning
-  while turning its concepts, burdens, exceptions, and recursive interpretations
-  against reciprocal testing and independent correction; it is not a third
-  orientation. Doublethink is a narrower possible component in which incompatible
-  authorized beliefs cease to correct one another; neither one contradiction nor
-  an individual-differences score establishes it politically.
+  while conclusion-protection displaces truth-correction as the governor of its
+  concepts, burdens, exceptions, and recursive interpretations; it is not a
+  third orientation. Doublethink is a narrower possible component in which
+  incompatible authorized beliefs cease to correct one another; neither one
+  contradiction nor an individual-differences score establishes it politically.
 - **Cross-scale truth-orientation state:** an un-real representation retains
   operative public reality-status while observation, prediction, consequence,
   and dissent cannot reliably change its authority or use. Organized un-reality
@@ -3267,7 +4079,10 @@ independent source establishes otherwise:
   trusted carriers may route U1, correction nullification may preserve operation,
   systemic lying may generate further auxiliaries, and organized un-reality is
   the accumulating stock. Legitimate causal alternatives remain outside the
-  mechanism when independently supported and reciprocally corrigible.
+  mechanism when independently supported, inspectable, predictively exposed,
+  and reciprocally corrigible. Counterfeit Bayesian updating begins only when
+  authorization, identity fit, or programme utility substitutes for that
+  independent support while the auxiliary account is protected from losing.
 - **Candidate allocation audit, not a third orientation:** sacred-principal
   allocation asks who or what receives ultimate standing and who becomes its
   instrument. Its governing question may be independent, but its poles,

@@ -12,15 +12,230 @@ Pure-Ideology or that the speaker intended deception.
 
 ## 1. Working concept
 
-The reviewed source material uses *linguistic tricks* as a practical name for sophisticated forms of lying and truth-obscuring speech. The best analytical umbrella recovered during source development is **instrumental untruthfulness** (*instrumentelle Unwahrhaftigkeit*): communication governed primarily by the effect it is meant to produce rather than by truth, accuracy, sincerity, shared meaning, or reasonable resolution of disagreement.
-
-This inventory therefore uses *lie* in a broad normative sense. An utterance need not contain a literally false sentence to belong here. It can mislead by omission, implication, presupposition, redefinition, framing, diversion, attribution, contextual manipulation, or corruption of the dialogue itself.
+The reviewed source material uses *linguistic tricks* as a practical name for sophisticated
+forms of lying and truth-obscuring speech. The term intentionally retains a
+strategic connotation, but the inventory separates the observable form and its
+situated operation from a further attribution of knowledge or intent.
 
 The family resemblance is:
 
-> A linguistic trick subordinates one or more truth-supporting conditions of communication to operative effectiveness while preserving enough of the appearance of communication to steer an audience.
+> **A linguistic trick subordinates one or more truth-supporting conditions of
+> communication to operative effectiveness while preserving enough of the
+> appearance or authority of communication to steer an audience.**
 
-This is not a claim that every use of rhetoric, framing, conceptual innovation, ambiguity, or a fallacious argument is intentionally deceptive. The classifications below concern their manipulative uses.
+The classification has three levels:
+
+| Level | Meaning | Attribution boundary |
+|---|---|---|
+| **Linguistic-trick form** | A communicative structure capable of misleading, diverting, immunizing, or steering reconstruction. | Intent and actual situated function remain open. |
+| **Operative linguistic trick** | In context, the form actually subordinates one or more truth-supporting conditions to audience steering while retaining communicative appearance or authority. | The strategic connotation remains, but the present carrier's knowledge or design is not established. |
+| **Deliberate linguistic trick** | The operation was knowingly or strategically selected for its misleading, diversionary, immunizing, or manipulative effect. | Requires actor-level evidence beyond the operation itself. |
+
+An originator may design a trick deliberately, a later carrier may repeat it
+sincerely, an institution may select it because it works without explicitly
+representing its mechanism, and incentives may reproduce it without one
+designer. A communicative form can also have an adverse effect without
+satisfying either the operative-trick classification or an intent attribution.
+Pattern, asymmetric application, strategic retreat, hidden dialogue purpose,
+resistance to correction, internal records, or admission can strengthen the
+intent inference.
+
+This inventory uses *lie* in a broad normative sense. An utterance need not
+contain a literally false sentence to belong here. It can mislead by omission,
+implication, presupposition, redefinition, framing, diversion, attribution,
+contextual manipulation, or corruption of the dialogue itself. This does not
+make every use of rhetoric, framing, conceptual innovation, ambiguity, or a
+fallacious argument intentionally deceptive.
+
+### Instrumental untruthfulness as a communicative orientation {#instrumental-untruthfulness-as-a-communicative-orientation}
+
+The analytical umbrella recovered during source development is **instrumental
+untruthfulness** (*instrumentelle Unwahrhaftigkeit*):
+
+> **Instrumental untruthfulness is a communicative orientation in which a
+> specified actor, role, programme, or institution selects, shapes, retains,
+> suppresses, or distributes communication principally for operative effect,
+> while subordinating truth, accuracy, sincerity, shared meaning, reciprocal
+> examination, reasonable resolution, or correction.**
+
+It does not require a literally false sentence. Selective truths, omission,
+implication, framing, ambiguity, staged opposition, strategic silence, direct
+falsification, or combinations of them can serve the orientation. One trick does
+not automatically establish a stable orientation. One sufficiently clear act
+may be probative, but recurrent selection, retention after correction, and
+cross-situation consistency ordinarily provide stronger evidence.
+
+Instrumental untruthfulness answers a **selection question**:
+
+> **Why was this communication selected, shaped, retained, suppressed, or
+> routed in this way?**
+
+[**Un-reason**](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason)
+answers a different **correction question**:
+
+> **What happens to reasoning when the protected conclusion is threatened?**
+
+The two relations are orthogonal:
+
+| | Truth-corrigible reasoning | Un-reason |
+|---|---|---|
+| **Sincere, non-instrumental communication** | The speaker communicates sincerely and the account can lose. | A sincere believer does not select communication for operative effect, yet the believer's reasoning arranges every reply so that the protected account cannot lose. |
+| **Instrumental untruthfulness** | A propagandist or strategist may privately understand the relevant reality while deliberately misleading an audience; the private model need not be un-reasoned. | A person, programme, or institution both steers communication for effect and recursively protects its own account from correction. |
+
+The table must be applied to one specified unit and level at a time. For a
+person, distinguish outward communication selection from the person's own
+correction logic. For an institution or programme, compare its output-selection
+rules with its own correction rules. Do not infer private un-reason from
+strategic public communication or actor-level instrumental intent from
+institution-level selection. The row label deliberately says *sincere*, not
+*true*: sincerity and reality-tracking remain distinct.
+
+Actor-level attribution requires evidence that the actor privileged communicative
+effect over the relevant truth-supporting conditions. Private--public
+divergence, internal instructions, acknowledged corrections, audience
+segmentation, strategic retreat and later re-entry, continued use after
+exposure, or explicit concern with optics and narrative over accuracy can
+support that inference. Disagreement or adverse effect alone cannot.
+
+At institutional or programme level, the object changes:
+
+> **Institutionalized instrumental untruthfulness exists when selection,
+> reward, routing, memory, and correction patterns reliably preserve
+> effect-producing communication over more accurate or more corrigible
+> alternatives.**
+
+This does not imply that every carrier understands or intends the selection
+relation. The attribution must identify the programme, institution, domain, and
+period and provide evidence for the operative pattern.
+
+### Distributed carrier front end {#distributed-carrier-front-end}
+
+Communicative production, transmission, and uptake must be separated before any
+inference to un-reason or a systemic condition:
+
+```text
+ORIGINATOR OR SELECTOR
+creates, selects, retains, suppresses, or routes a communicative form
+                         |
+                         v
+CARRIER
+repeats, translates, condenses, amplifies, or performs it
+strategically, habitually, role-obediently, or sincerely
+                         |
+                         v
+RECIPIENT RECONSTRUCTION
+the recipient reconstructs a factual, causal, moral,
+identity, or authorization model rather than merely copying words
+```
+
+The originator's or selector's mental state does not transfer to the carrier,
+and the carrier's utterance does not determine what the recipient reconstructs.
+One participant may knowingly design a misleading operation; another may repeat
+it sincerely; a third may understand it differently or reject it. Translation,
+condensation, sloganization, contextual change, trusted-source gain, and the
+recipient's installed Culture Program can preserve, intensify, weaken, or alter
+the operative form at each transition.
+
+Analysis should therefore identify separately:
+
+1. the provenance and selection rule of the communicative form;
+2. the carrier's access, fidelity, incentives, role, and own evidential state;
+3. the recipient's actual reconstruction and any change in judgment or conduct;
+4. the evidence, if any, for deliberate selection at each position.
+
+The inventory owns this communicative front end. [*Epistemic Constitution*
+owns the complete distributed carrier
+sequence](0030-epistemic-constitution.semantic-definition.md#distributed-carrier-sequence),
+including the possible transitions from recipient reconstruction through
+un-reason, un-reality, organized un-reality, and systemic lying. None of those
+later stages follows from transmission or sincere belief alone, and each arrow
+requires separate evidence.
+
+### Where linguistic tricks sit in the epistemic architecture {#introductory-epistemic-architecture}
+
+The inventory begins at the observable communicative surface, but its entries
+must not be inflated into conclusions about reasoning, social reality, or an
+entire constitution. The canonical [**typed epistemic
+architecture**](0030-epistemic-constitution.semantic-definition.md#typed-epistemic-architecture)
+keeps six different kinds of object distinct:
+
+| Term | Type | Relation to this inventory |
+|---|---|---|
+| **Linguistic trick** | Communicative operation | The inventory's primary object. |
+| **Instrumental untruthfulness** | Communicative selection orientation | Explains why an actor, role, programme, or institution selects or preserves communication for operative effect over truth-supporting conditions. |
+| **Un-reason** | Inferential and correction-defeating mechanism | May use several tricks, but is not another inventory entry. |
+| **Un-real representation** | Operative state or output | May receive wording through tricks, but requires practical reality-status insulated from independent correction. |
+| **Organized un-reality** | Installed multi-channel stock | Requires fitted human, linguistic, symbolic, incentive, record, and institutional channels. |
+| **Systemic-lying epistemic constitution** | Constitutional meta-order | Recurrently generates, selects, authorizes, protects, and replaces organized un-reality. |
+
+[The theoretical *un-* operator](0030-epistemic-constitution.semantic-definition.md#theoretical-un-operator)
+supplies the common construction behind *un-reason* and *un-reality*: the form,
+machinery, and authority-position of X remain, while a substituted governing
+principle redirects them toward a function ordinary X would reject. This does
+not make every *un-* word an instance of that restricted theoretical operator.
+
+The possible sequence is conditional rather than a mandatory ladder:
+
+```text
+originator or selector
+  may select a trick through instrumental untruthfulness
+        |
+        v
+carrier
+  may repeat it strategically, habitually, role-obediently, or sincerely
+        |
+        v
+recipient
+  reconstructs a factual, causal, moral, identity, or authorization model
+        |
+        v
+un-reason may protect that model when correction threatens it
+        |
+        v
+un-reality arises only if the model receives or retains operative authority
+despite failed correction
+        |
+        v
+organized un-reality requires installation across coordinated channels
+        |
+        v
+systemic lying requires recurrent constitutional generation, selection,
+authorization, reproduction, protection, and replacement
+```
+
+No row or arrow proves the next. Different people, roles, and institutions can
+perform selection, transmission, reconstruction, defensive reasoning, record
+custody, sanction, and reproduction. Intent, knowledge, guilt, and coordination
+do not travel with the message. The [complete distributed carrier
+sequence](0030-epistemic-constitution.semantic-definition.md#distributed-carrier-sequence)
+therefore requires evidence for every transition.
+
+Two further boundaries prevent common category errors:
+
+- **Systematic lying** is methodical deceptive conduct attributed to a specified
+  actor or organization. **Systemic lying** is a constitutional truth orientation
+  that strategic actors, sincere believers, conformists, officials, roles,
+  incentives, and institutions can reproduce together. Neither is necessary or
+  sufficient for the other. The stock--flow relation through which a
+  systemic-lying meta-order produces organized un-reality is developed in
+  [*Culture Program Ecology*, Appendix
+  A.1](0060-culture-program-ecology.semantic-definition.md#purpose-and-categorical-separation).
+- Correction can be blocked at two different interfaces. **Un-reason** can
+  neutralize what a correction is allowed to mean; [**correction
+  nullification**](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia)
+  can prevent an understood correction from changing authority, records,
+  operation, or repair. Neither follows from one trick or one unanswered claim.
+
+Likewise, an alternative causal account is not suspect merely because it explains
+an apparent disconfirmation. Ordinary Bayesian explaining-away remains legitimate
+when the alternative is independently supported, inspectable, predictively
+exposed, reciprocally tested, and permitted to lose. The [**auxiliary-un-reality
+explaining-away
+cascade**](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-reality-explaining-away-cascade)
+becomes counterfeit when an authorized auxiliary account protects the incumbent
+representation while those correction conditions are disabled. Linguistic tricks
+can help formulate or protect that account, but they do not establish the wider
+cascade by themselves.
 
 ### Sophism and sophistry
 
@@ -780,7 +995,14 @@ Symbol displacement, pluralistic ignorance, moral fatigue, and script preactivat
 
 ## 5. Relation to the epistemic constitution
 
-This inventory is not primarily a blacklist of forbidden expressions. In a reality-anchored, truth-seeking epistemic constitution it supplies a common vocabulary—a yardstick installed in the social *big Other*—for noticing when communication departs from truth-seeking.
+This inventory is not primarily a blacklist of forbidden expressions. In a
+reality-anchored, truth-seeking epistemic constitution it supplies a common
+vocabulary—a yardstick installed in the social *big Other*—for noticing when
+communication departs from truth-seeking. The [introductory epistemic
+architecture](#introductory-epistemic-architecture) fixes the types, conditional
+sequence, and attribution boundaries. This section develops the deeper
+cross-theory interfaces and positive counterpart without redefining the
+architecture owned by *Epistemic Constitution*.
 
 The entries identify local operations; [*Epistemic Agency under Mechanical
 Solidarity*, “Audience-modelled reconstruction and
@@ -818,6 +1040,46 @@ authority without their contradiction correcting the account. The former is a
 linguistic operation; the latter is a cognitive and potentially institutional
 mechanism. Either can support un-reason or systemic lying, but neither entails the
 other and neither is established by one euphemism or contradiction.
+
+### Pragma-dialectics as prior work toward communicative truthfulness {#pragma-dialectics-as-prior-work}
+
+Frans H. van Eemeren and Rob Grootendorst's *A Systematic Theory of
+Argumentation: The Pragma-Dialectical Approach* is established prior work for the
+positive communicative side of the inventory. [Chapter 3, “A model of a critical
+discussion,” pp. 42–68](https://doi.org/10.1017/CBO9780511616389.004), sets out
+the ideal discussion through confrontation, opening, argumentation, and
+conclusion. [Chapter 6, “Rules for a critical discussion,” pp.
+123–157](https://doi.org/10.1017/CBO9780511616389.007), supplies the procedural
+rules behind freedom to advance and question standpoints, disclosed burdens,
+relevant defence, faithful representation, and explicit closure. These provide
+counter-standards to many entries here.
+
+The borrowing remains partial. [*Epistemic Constitution* owns the complete
+positive interface](0030-epistemic-constitution.semantic-definition.md#pragma-dialectical-reality-answerable-interface)
+that joins pragma-dialectically reasonable discussion to independent
+reality-answerability and communicative integrity. This inventory applies that
+interface to communicative operations and preserves the controlling distinction:
+
+> **Pragma-dialectics supplies internal procedural reasonableness; Culture
+> Mechanics adds external answerability to evidence and reality.**
+
+A procedurally fair discussion can reach a false conclusion. A systemic-lying
+order can also preserve the ceremony of critical discussion while controlling
+admissibility, opponent selection, burdens, consequences, and the conditions
+under which the authorized account may lose. One rule breach does not by itself
+establish a trick, instrumental untruthfulness, un-reason, un-reality, or
+systemic lying; perfect procedural compliance does not establish correspondence
+with reality.
+
+Habermas's communicative-action versus strategic-action distinction remains the
+neighbouring bridge for the orientation contrast between communicative integrity
+and instrumental untruthfulness. Pragma-dialectics contributes the more explicit
+procedural spine; the present project adds reality-correction, cultural
+installation, and constitutional scale.
+
+> **Pragma-dialectics asks whether disagreement was conducted reasonably.
+> Reality-answerability asks whether reality is still permitted to overturn its
+> result.**
 
 The corresponding positive virtues are:
 

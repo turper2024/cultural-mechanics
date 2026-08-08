@@ -962,7 +962,9 @@ these operations from propositional, causal-story, and classification conflicts
 and names the organized recruitment-and-suppression configuration
 **ideological-form conflict**. Physical coercion or violence marks the narrower
 **fundamentalist-form conflict**. These Culture Mechanics terms translate rather
-than reproduce Kenneth Minogue's conflict-centered use of *ideology*.
+than reproduce Kenneth Minogue's conflict-centered use of *ideology*. The later
+[Minogue-ideology subsection](#minogue-ideology-the-narrower-subtype) owns his
+full oppression--revelation--liberation subtype rather than this conflict term.
 
 Polemics is crucial because an incompatible successor mythology cannot simply be
 placed beside an incumbent that still occupies the slot. The incumbent tells
@@ -4668,7 +4670,7 @@ PCP, master signifiers, authorization payload, silent principals, metric custody
 Culture Programs, *Willkür*, or *Willkürherrschaft*. It asks a more specific
 question:
 
-> **How can an ideology function as a machine for generating doctrines that
+> **How can a Minogue-ideology function as a machine for generating doctrines that
 > converts interpretation into institutionally implemented *Willkür*?**
 
 The originating dangerous claim is:
@@ -4756,7 +4758,7 @@ mechanism:
 
 | Source or source lead | Contribution | Boundary |
 |---|---|---|
-| **Kenneth Minogue, *Alien Powers*** | Supplies the **generative domination grammar** and the reconstruction of a programme that can become metaphysically maximal, institutionally underspecified, and operationally negative. | Minogue is an adversarial source. His pure model does not classify every ideology, Critical Theory, environmental programme, or Diversity programme, establish a genealogy, or prove motive. |
+| **Kenneth Minogue, *Alien Powers*** | Supplies the **generative domination grammar** and the reconstruction of the narrower **Minogue-ideology** subtype, which can become metaphysically maximal, institutionally underspecified, and operationally negative. | Minogue is an adversarial source and does not supply the project's generalized Ideology genus. His pure model does not classify every ordinary-language ideology, Critical Theory, environmental programme, or Diversity programme, establish a genealogy, or prove motive. |
 | **Deborah A. Stone, “Causal Stories and the Formation of Policy Agendas”** | Explains how causal stories allocate sympathy, blame, responsibility, expertise, burdens, and remedies and turn a condition into a governable problem with a legitimate fixer. | Stone does not imply that structural causation is fictional, every causal story is false, or effective benefit proves intention. |
 | **Thomas Sowell, *The Quest for Cosmic Justice*, *Knowledge and Decisions*, and related work** | Supplies the surrogate-decision problem created by counterfactual or differentiated justice, the loss of dispersed practical knowledge, attenuated error feedback, and the question of who decides and who bears error. | Sowell does not supply the complete project custody chain, and his critique does not make every delegated, expert, group-sensitive, restitutive, or open-textured decision arbitrary. |
 | **David Horowitz, “From Red to Green”** | Supplies the polemical ecological-transition hypothesis and the special image of Nature as a constituency unable to reject those who claim to speak for it. | The local source is a situated polemic, not proof of a red-to-green genealogy, coordinated intent, or a classification of environmentalism as a whole. |
@@ -4788,7 +4790,8 @@ possible surrogate sovereignty and Willkür affordance
 
 Minogue calls the pure ideological idea less a doctrine than a “machine for
 generating doctrines” and gives its simplest premise as the claim that all evils
-are caused by an oppressive system
+are caused by an oppressive system. This is the generative core of the narrower
+**Minogue-ideology**, not the definition of the generalized Ideology family
 ([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), Chapter 1). The project
 translation treats **machine** as a portable grammar:
 
@@ -4820,7 +4823,7 @@ dismantled, prohibited, or overcome more clearly than it can describe the good
 replacement under scarcity, conflict, error, trade-offs, maintenance, and
 unintended consequences. The existing
 [Minogue reconstruction and critique–construction asymmetry
-analysis](#minogues-more-differentiated-sequence) supplies the full account.
+analysis](#minogue-ideology-the-narrower-subtype) supplies the full account.
 Lindsay's adversarial formulation supplies one possible delegitimation
 operation: compare a necessarily imperfect real arrangement with a purified,
 underspecified, or impossible ideal, generate a renewable supply of defects, and
@@ -7171,6 +7174,13 @@ Bernays: structured organization of symbols and public associations
 
 The symmetry is interpretive rather than a complete intellectual history. Freud did not define psychoanalysis as population-level mythological deprogramming, and Bernays's practice cannot be reduced to psychoanalytic theory. Their relationship makes tangible, however, that the ability to dissolve an installed configuration and the ability to install a successor are complementary technologies.
 
+The subject-side [guided-unbraiding
+proposal](0020-epistemic-agency.semantic-definition.md#guided-unbraiding-and-possible-deradicalization)
+uses this only as a bounded mechanism analogy: associations and defences may
+need to become speakable before a protected surface proposition can change. It
+does not make psychoanalysis the required intervention, attribute social
+deprogramming to Freud, or turn political disagreement into pathology.
+
 #### Critical Theory and cynical corrosion
 
 [Max Horkheimer's “Traditional and Critical Theory”](https://doi.org/10.5840/zfs19376265) is an early canonical statement of Frankfurt School Critical Theory. Horkheimer's stated project was not contentless negation: he connected critique to empirical disciplines and to the positive aim of giving social life a rational form.
@@ -7226,11 +7236,151 @@ Theory*. This is also not [Max
 Horkheimer's](https://doi.org/10.5840/zfs19376265) definition of his own
 programme.
 
-##### Minogue's more differentiated sequence
+<a id="minogues-more-differentiated-sequence"></a>
+
+##### Minogue-ideology: the narrower subtype and more differentiated sequence {#minogue-ideology-the-narrower-subtype}
 
 Kenneth Minogue's [*Alien Powers: The Pure Theory of
 Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf)
-develops a longer chain than the Lindsay formulation. It can be reconstructed as:
+develops a longer chain than the Lindsay formulation. The generalized
+[**Ideology** classifier](0060-culture-program-ecology.semantic-definition.md#ideology-installed-social-un-reality-defended-through-un-reason)
+is a Culture Mechanics development. **Minogue-ideology** is its narrower source-
+derived subtype:
+
+The local [*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf) transcription also contains
+Martyn P. Thompson's foreword and appended critical essays. Those voices are not
+attributed to Minogue here; the source claims below are checked against Minogue's
+own main text and 2006 introduction unless another contributor is named.
+
+> **A Minogue-ideology is an Ideology whose generator joins a hidden oppressive
+> system, opposed structural positions, asymmetric or false consciousness,
+> salvational revelation experienced as corrected sight, mobilization,
+> transformative power, liberation, and a terminal ideal that tends to displace
+> ordinary political plurality.**
+
+This subtype keeps Minogue's fitted argument rather than reducing it to one use
+of *oppressor* or *oppressed*. His own opening formulation identifies an abstract
+idea “less a doctrine than a machine for generating doctrines,” whose simplest
+rule makes the world's evils products of an oppressive system
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), Chapter 1). Chapter 6 adds the
+revelatory structure: ideology presents the “grand secret” that the culture is
+designed to conceal, can treat denial as evidence that the denier is a dupe of
+the structure, and thereby places the revelation above reciprocal judgment
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6497--6523).
+
+The perceptual form matters. Minogue distinguishes the hard intellectual labour
+of theorizing from revelation's promised “effortless form of a perception”
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6679--6686). He also exposes
+the circularity of ideological training: adherents are taught that they merely
+remove false ideas and learn to see what is already present, while correct sight
+becomes available only after they have learned the ideology
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6590--6630). Culture
+Mechanics types this as a two-stage relation:
+
+```text
+costly access
+formation, vocabulary, discipline, commitment, struggle
+                         ↓
+effortless-seeming epistemic payoff
+the learned total interpretation is experienced as direct corrected sight
+```
+
+The corresponding **blindness--revelation--binding circuit** is constitutive of
+Minogue-ideology at the functional level, even where literal eye or blindfold
+vocabulary is absent:
+
+```text
+moral field binds a group
+→ attention and credibility are filtered
+→ ordinary non-recognition is diagnosed as blindness imposed by the old order
+→ authorized formation promises awakening or removal of the blindfold
+→ learned interpretation is experienced as direct sight
+→ shared sight marks membership in the awakened group
+→ dissent is filtered or defended against through un-reason
+→ renewed binding strengthens the field
+```
+
+The generic **morality binds and blinds** antecedent and the bounded,
+methodologically contested McGinnies--Singer perceptual-defence bridge are
+recorded in [*Epistemic Agency*, “Scale bridge: ideological power, inner-eye
+blindness, and *Dummheit*”](0020-epistemic-agency.semantic-definition.md#ideological-power-local-capture-scale-bridge).
+They illuminate possible human susceptibility and pre-inferential filtering;
+they are not Minogue's claims, proof of literal perceptual blindness, or a
+definition of Minogue-ideology. Minogue supplies the more specific revelatory
+appropriation in which authorized formation claims to remove blindness and make
+a comprehensive interpretation feel like corrected sight.
+
+This circuit is not a generic test for all Ideology and its imagery is
+side-indeterminate. Reality-answerable correction and un-reality can both claim
+to remove blindness. The distinction must therefore be made through disclosed
+inference, reciprocal standards, independent correction, consequences, and
+revision—not through *awakening*, *seeing through*, *unmasking*, or *consciousness*
+language alone. The possible inversion is that a formation which claims merely
+to subtract distortion installs an interpretation whose own selection and
+correction rules become invisible; its blindness is then experienced as superior
+sight.
+
+Minogue's use of Hans Christian Andersen's *The Emperor's New Clothes* makes the
+perceptual operation more exact. The innocent observer does not appear to build a
+difficult theory; he simply sees through a socially maintained appearance.
+Ideology extends that model of innocent perception to objects that cannot
+literally be seen: historical direction, hidden causal structure, future
+contradiction, collective task, and the necessity of political transformation.
+Inference and imagination thereby acquire the authority of eyesight
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 7101--7250).
+
+Perceptual verbs can consequently compress several distinguishable operations:
+
+```text
+observation
++ causal interpretation
++ moral classification
++ practical prescription
+→ “realization,” “discovery,” “revelation,” or “seeing through”
+```
+
+Such language treats the conclusion as already present and true; the remaining
+question becomes why another person does not yet see it. Words such as *realize*
+or *discover* are not intrinsically ideological, and rapid perception can be
+reality-answerable. The warning applies where a comprehensive and consequential
+interpretation receives perceptual certainty while its inferential construction,
+cross-checks, and defeat conditions disappear from view.
+
+Minogue also compares ideology with religion. Both can use awakening,
+illumination, purification, and a faith-before-understanding sequence. His
+bounded differentiating claim is that orthodox Christianity treats human
+limitation and imperfect earthly life as permanent, whereas ideology promises
+earthly illumination joined to social transformation
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 1324--1362 and 6700--6740).
+In his Latin contrast, ideology replaces *credo ut intellegam* with *contendo ut
+intellegam*: in working paraphrase, not merely *believe so that you may
+understand*, but *enter the struggle so that you may understand*.
+
+This remains **Minogue's source claim**, not a Culture Mechanics verdict on
+Christianity, religion generally, or every political movement. Religions can
+become closed, while secular inquiry can remain corrigible. The narrower point is
+how Minogue distinguishes ideological revelation's claim to comprehensive
+worldly sight and transformative power.
+
+Minogue's image of persons becoming “drops of water in a clear pond” belongs to
+his limiting account of the ideological terminus
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around line 8027). It is a source bridge
+to subjecthood absorption, but it is not a necessary property of generalized
+Ideology: another Ideology can retain ranks, castes, offices, or differentiated
+roles. Minogue also distinguishes his pure type from actual movements, which
+must respond to constituencies and often become reformist or revisionist.
+
+Minogue retained the oppression--struggle--liberation structure in later work.
+His chapter [“Ideology Challenges
+Politics”](https://academic.oup.com/book/378/chapter-abstract/135193934)
+summarizes a tripartite movement from oppression through struggle to a fully just
+society. His post-communist analysis describes overlapping fragments of
+revelation and identity monism rather than the simple disappearance of ideology;
+see [“Ideology after the Collapse of
+Communism”](https://journals.sagepub.com/doi/10.1111/j.1467-9248.1993.tb01800.x).
+
+With those subtype conditions preserved, the longer sequence can be reconstructed
+as:
 
 ```text
 particular grievance
@@ -7361,7 +7511,7 @@ hypothesis. He describes ideology as continuous criticism, as suspicion of
 apparently free institutions, and as a politics-disabling claim that dominated
 people cannot contribute equal judgment. His account is not adopted here as a
 neutral history of Marxism or Critical Theory. The [reconstructed
-sequence](#minogues-more-differentiated-sequence) and his two terminal judgments
+sequence](#minogue-ideology-the-narrower-subtype) and his two terminal judgments
 are retained as attributed source claims, not converted into the mechanism or
 accepted as proof of intent. Culture Mechanics instead treats the persistence of
 critical operations, the abstraction of the successor, and the response to

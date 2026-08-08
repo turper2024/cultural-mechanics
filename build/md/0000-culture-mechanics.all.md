@@ -1002,6 +1002,8 @@ field, and agent:
 | Construct | Precise role in culture mechanics |
 |---|---|
 | **Culture Program** | The executable package of mythologies, classifications, rules, roles, values, and expected conduct installed as one operative weave. **Cultural or ideological program** remains a legacy or explanatory alias. |
+| **Ideological generator and Ideology** | An ideological generator is a reusable grammar capable of producing linked representations, roles, diagnoses, authorities, enemies, duties, remedies, and challenge interpretations. **Ideology** is the stricter sufficiently installed Culture Program that recurrently generates authorized social un-reality and recruits un-reason to defend its operative authority. The generator alone is not an Ideology; their primary semantic home is *Culture Program Ecology*. |
+| **Minogue-ideology** | Narrow Ideology subtype joining hidden oppression, opposed positions, asymmetric or false consciousness, revelatory corrected sight, mobilization, transformative power, liberation, and a terminal ideal tending to displace ordinary political plurality. *Mythology Construction* owns the source reconstruction; *Culture Program Ecology* owns the classifier relation. |
 | **Culture Program Complex** | A large Culture Program containing multiple mutually fitted packages or components; not a second bigOther and narrower than a composite culture-mechanical object. |
 | **Culture Program carrying structure** | The organizational and material substrate through which a Culture Program is financed, taught, reproduced, coordinated, amplified, protected, and given continuity or operational capability. It is neither the program nor the population of human carriers; its primary semantic home is *Culture Program Ecology*. |
 | **Polity-scale *Gleichschaltung* hazard** | Process-level warning that human carriers, symbolic and conformity-marker environments, and institutional-operational systems across multiple formerly independent societal domains are being aligned toward one privileged ideological direction. It can arise before a complete Culture Program is reconstructed and before a completed polity-scale mechanical-solidarity morphology or Fascism conjunction; narrow coordination and voluntary thick community remain distinct. Its primary semantic home is *Culture Program Ecology*. |
@@ -1013,9 +1015,15 @@ field, and agent:
 | **Pluralist adaptive constitutional search** | Proposed application in which a common person-protecting shell contains bounded policy variation, plural sensors, correction, lawful movement, imitation, and succession without granting one metric or institution root access to reality. Its epistemic architecture belongs to *Epistemic Constitution* and its concrete pluralist design to *Culture Program Ecology*. |
 | **Lifted-Order Capacity Dashboard** | Proposed *Culture Program Ecology* sensor suite—Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, and Choose—for testing a pluralist Culture Strategy. It is neither the definition of lifted solidarity nor a scalar social good. |
 | **Projective-vandalism circuit** | Observable sequence in which a disowned blemish is projected onto an opponent, a taboo label makes the target symbolically attackable, and repeated denunciation may become affectively rewarding. Its linguistic home is *Linguistic Tricks* and its motivational hypothesis belongs to *Mythology Construction*. |
-| **Un-reason** | Proposed cross-scale mechanism in which reasoning remains active but is organized to protect a conclusion, authority, identity, or programme from reciprocal standards and independent correction. It is not a third constitutional orientation, a synonym for irrationality, or a classification of a population; its primary semantic home is *Epistemic Constitution*. |
-| **Un-reality and correction nullification** | An authorized representation retains operative public reality-status despite failed independent correction; after disclosure, correction nullification prevents an independently sustained correction from changing operation. Un-reason can block correction one epistemic level earlier. Their primary semantic home is *Epistemic Constitution*. |
-| **Auxiliary-un-reality explaining-away cascade** | A reality collision threatening operative un-reality U0 elicits an authorized auxiliary causal account U1 that explains the correction away, protects U0, and may acquire classifications and consequences of its own. It is not ordinary causal revision; its primary semantic home is *Epistemic Constitution*. |
+| **Theoretical *un-* operator** | Restricted project construction in which X's recognizable machinery and authority-position remain while a non-X governing principle redirects operation. It is not the ordinary meaning of every *un-* word and requires retained form, claimed authority, normal and substituted governors, observable inversion, and a defeat condition. Its primary semantic home is *Epistemic Constitution*. |
+| **Linguistic trick and instrumental untruthfulness** | A linguistic trick is a possible local communicative operation; instrumental untruthfulness is the separate orientation that selects or preserves communication for operative effect while truth-supporting conditions become subordinate. Trick form, operative trick, deliberate trick, actor attribution, and institutional attribution remain distinct. Their primary semantic home is *Linguistic Tricks*. |
+| **Distributed carrier sequence** | Possible cross-scale pathway from originator or selector through carrier and recipient reconstruction into possible un-reason, un-reality, organized un-reality, and systemic reproduction. Different people, roles, and institutions can occupy different functions; intent and guilt do not propagate with the message, no conspiracy follows, and every arrow requires separate evidence. *Linguistic Tricks* owns the communicative front end; *Epistemic Constitution* owns the complete sequence. |
+| **Latent Culture Program profile, contrastive correction-interface probe, and Culture Program fingerprint** | A latent profile is a bounded conditional reconstruction of classifications, sacred values, authorities, affective activations, correction relations, and action tendencies likely to become operative under specified conditions. The proposed probe first establishes comprehension of a disclosed causal form through relatively uncharged cases, then tests whether correction practice changes selectively across differently culture-loaded implementations. The fingerprint is the typed multi-case distribution of those discontinuities across neutral and several program-loaded cases; selective A-linked recurrence can raise the likelihood of A's installation or load-bearing status, while capture requires further evidence of displaced correction or authorship. *Epistemic Agency* owns the diagnostic; one discontinuity, emotional response, or naturalistic example does not establish an Ideology, Culture Program, radicalized person, or danger. |
+| **Guided unbraiding and possible de-radicalization** | Guided unbraiding is the hypothetical, consensual and bounded process of making an individualized cultural-affective braid observable, loosening selected automatic couplings, and restoring correction and reflective authorship without installing the guide's replacement program. Possible de-radicalization is the broader aspirational outcome only where radicalizing capture is independently established. MCIP is one candidate method; neither the diagnostic nor unbraiding is violence-risk assessment, forced conversion, established treatment, or proof of efficacy. *Epistemic Agency* owns the complete proposal and its directional-symmetry, research, safeguard, and falsification conditions. |
+| **Un-reason** | Proposed cross-scale mechanism in which reasoning retains its machinery and authority-claim while conclusion-protection displaces truth-correction as governor. It is not a third constitutional orientation, a synonym for irrationality, or a classification of a population; its primary semantic home is *Epistemic Constitution*. |
+| **Un-reality, organized un-reality, and correction nullification** | An authorized representation retains operative public reality-status despite failed independent correction; organized un-reality is the fitted multi-channel stock built around one or more such representations. After disclosure, correction nullification prevents an independently sustained correction from changing operation. Un-reason can block correction one epistemic level earlier. Their primary semantic home is *Epistemic Constitution*. |
+| **Systemic-lying epistemic constitution** | Constitutional meta-order that recurrently generates, selects, authorizes, protects, and replaces organized un-reality because independent truth has been subordinated to usefulness, loyalty, control, or authority. It is not the sum of conscious individual lies. Its primary semantic home is *Epistemic Constitution*. |
+| **Auxiliary-un-reality explaining-away cascade** | A reality collision threatening operative un-reality U0 elicits an authorized auxiliary causal account U1 that explains the correction away, protects U0, and may acquire classifications and consequences of its own. It becomes counterfeit Bayesian updating only where authorization, identity fit, or programme utility substitutes for independent support while U1 is protected from reciprocal defeat. Its primary semantic home is *Epistemic Constitution*. |
 | **Trusted-carrier correction lock** | High-gain trusted-opinion-leader-function positions remain sufficiently aligned to deny a public correction distributed credibility, reception, or operative force despite growing ordinary dissent. It is a possible receiving-field implementation of correction nullification, not proof of falsehood, coordination, capture, or Shadow-Sovereign rule; its primary semantic home is *Epistemic Agency*. |
 | **Mythological lens** | The generalized mapping through which observations are converted into culturally learned values and feelings. |
 | **Ideological symbol** | A socially legible token that activates the program and communicates a person's relation to it. |
@@ -1027,14 +1035,16 @@ field, and agent:
 | **Distributed bigOther** | The persistent network state maintained through persons, institutions, practices, artifacts, reputations, and sanctions. |
 | **Operative multi-mind-self** | The distributed system only when it becomes sufficiently integrated and continuous to judge, intend, own, and act as a collective agent. A multi-mind-self presentation remains below this threshold. |
 
-In this section, **ideological** is retained as a legacy broad, religion-inclusive
-adjective for anything pertaining to such a Culture Program. It includes
-religious, political, organizational, professional, activist, national, and
-lifestyle programs. The preferred formal common-category noun is **Culture
-Program**. Both uses must be distinguished from the narrower **ideological form**,
-the third member of the private--collective--ideological--fundamentalist taxonomy
-below. The expression **ideological-form program** names that third configuration
-when the two senses might otherwise be confused.
+In this section, lower-case **ideological** is retained as a legacy broad,
+religion-inclusive adjective for anything pertaining to a Culture Program. It
+includes religious, political, organizational, professional, activist, national,
+and lifestyle programs. The preferred formal common-category noun remains
+**Culture Program**. Capitalized **Ideology** instead names the strict installed
+un-reality-and-un-reason classifier. Both uses must be distinguished from the
+narrower **ideological form**, the third member of the
+private--collective--ideological--fundamentalist taxonomy below. The expression
+**ideological-form program** names that third configuration when the senses might
+otherwise be confused.
 
 #### Disagreement, mythological rivalry, and ideological-form conflict
 
@@ -1072,9 +1082,10 @@ he argues that an initial move is to disable opposition, ideally by censorship.
 In Culture Mechanics terminology, this maps most directly to
 **ideological-form conflict**, and to **fundamentalist-form conflict** when
 physical coercion or violence becomes the means of expansion or retention.
-Minogue's narrower, mobilizing, conflict-centered conception must not be silently
-equated with the broad religion-inclusive adjective *ideological* used in this
-document.
+Minogue's narrower, mobilizing, conflict-centered conception is now formalized as
+the **Minogue-ideology** subtype. It must not be silently equated with either the
+generalized Ideology classifier or the broad religion-inclusive adjective
+*ideological* used in this document.
 
 Call censorship or channel exclusion **rival-signal suppression** when it obstructs
 a competing mythology's signals, and **counter-program suppression** when it
@@ -1360,6 +1371,9 @@ Ideology*](https://books.google.com/books/about/Alien_Powers.html?id=XWTiQJx_u5k
 provides a close published neighbour in its treatment of ideological revelation as
 jealous and expansionary. **Jealous cultural program** and its integration with
 the present ontology are project-developed terms, not Minogue's complete theory.
+The complete source reconstruction now belongs to the narrower
+[**Minogue-ideology**](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype)
+subtype; jealousy is one neighbouring relation, not its definition.
 
 Jealousy must be attributed at the correct level:
 
@@ -1861,6 +1875,49 @@ Culture mechanics adds a **wireless collar** around the elephant's neck.
 - The **mythologies** are the evaluated stories through which that program is trained and reinforced.
 - The **wireless signals** are other people's expressions, symbols, slogans, rituals, approval, disapproval, and visible conduct.
 
+#### Why the elephant--collar picture is more exact
+
+\begin{wrapfigure}{R}{0.42\textwidth}
+\centering
+\includegraphics[width=\linewidth,keepaspectratio]{.pdf-assets/elephant-with-spiked-collar-rider-and-wifi.pdf}
+\caption{Single-person rider--elephant--wireless-collar model.}
+\label{fig:rider-elephant-wireless-collar}
+\end{wrapfigure}
+
+The CPU--PCI-card picture remains the clearest representation of the
+**single-slot principle**. It shows one comparatively simple evaluator installed
+at a privileged point, able to redirect a much more powerful general-purpose
+processor, and it makes the replacement problem immediately visible. Its
+limitation is that an internal computer card appears addressable from within the
+same machine. The picture does not show the functional and epistemic remoteness
+of the culturally installed evaluator from conscious awareness.
+
+The elephant--collar picture adds precisely that relation. The collar is attached
+to the elephant, not operated by the rider. In the model, the rider has **no
+direct access path to the collar** and receives no transparent read-out of its
+classification. The rider may consciously perceive an incoming social signal and
+later notice that the elephant's affect, attention, posture, or direction has
+changed, but the rider encounters the collar's operation only through those
+effects upon the elephant. The absence of reins, a remote control, or a device in
+the rider's hands is therefore part of the mapping.
+
+This remoteness is functional rather than anatomical and does not make the
+collar permanently unknowable. Reflective comparison, external observation, and
+guided investigation may permit the rider to reconstruct, question, or retrain
+some of its mappings. What the picture denies is an immediate, transparent
+first-person interface while the classification is occurring.
+
+The figure condenses the architecture of one culturally coupled psyche. It is
+read functionally, not anatomically. The broad dog-collar band marks the
+bigOther's installed coupling to the elephant; its spikes mark **affective
+leverage**, not literal injury, electrical punishment, or aggression. That
+leverage includes aversive classifications such as shame, fear, disgust,
+exclusion, and indignation, but also attractive classifications such as pride,
+reassurance, belonging, approval, and sacredness. The two equally sized sets of
+radio arcs mark reception and transmission. Their lack of arrows leaves the
+collar's network capability neutral rather than assigning a fixed direction to
+one depicted message.
+
 The collar can produce social pleasure and pain: pride, shame, belonging, exclusion, sacredness, disgust, reassurance, fear, or indignation. It acts directly upon the elephant. The elephant changes its posture, attention, and direction long before the rider clearly notices the collar's intervention.
 
 Only afterward may the rider become aware of a conclusion:
@@ -1872,6 +1929,112 @@ Only afterward may the rider become aware of a conclusion:
 The rider may mistake the resulting feeling for the product of independent reasoning. It may then use the main processor's verbal intelligence to justify the direction in which the elephant has already begun to move.
 
 This analogy is closer to the psychological claim than the computer analogy because it shows that the bigOther does not normally dictate complete thoughts. It modifies the affective conditions under which thought and action occur.
+
+#### Haidt's Leary citation: nonconscious and preattentive
+
+The experimental context discussed by Haidt makes this indirect access visible.
+Participants consciously saw purported ratings of how much another person wanted
+to interact with them. Even self-described social mavericks, who reported that
+other people's opinions did not affect them, showed substantial changes in
+self-esteem when the ratings declined. Their conscious self-description did not
+accurately report the operation of the underlying social evaluator.
+
+In [Jonathan Haidt's *The Righteous Mind*](https://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/),
+chapter 4, section “We Are Obsessed with Polls,” Haidt reports Mark Leary's
+conclusion:
+
+> “the sociometer operates at a nonconscious and preattentive level to scan the
+> social environment for any and all indications that one’s relational value is
+> low or declining.”
+
+Haidt then places the sociometer in the elephant. The exact citation chain is
+Haidt, *The Righteous Mind: Why Good People Are Divided by Politics and
+Religion* (New York: Pantheon Books, 2012), chapter 4, section 1, note 16, which
+cites [Mark R. Leary, “Sociometer Theory and the Pursuit of Relational Value:
+Getting to the Root of Self-Esteem,” *European Review of Social Psychology* 16
+(2005): 75--111, at 85](https://doi.org/10.1080/10463280540000007).
+
+Two features of Leary's formulation are decisive for the present analogy:
+
+- **Nonconscious:** the scanning and initial relational evaluation need not enter
+  conscious awareness. The rider can therefore experience a changed state
+  without experiencing the operation that produced it. Here *nonconscious* does
+  not by itself imply a specifically psychoanalytic unconscious.
+- **Preattentive:** the scanning does not wait for deliberate attention. It can
+  register socially significant indications before the rider chooses to inspect
+  them or formulates a judgment about them.
+
+Together the two terms identify both **opacity** and **causal priority**: the
+evaluation can alter the elephant before the rider attends to, understands, or
+explains the alteration. The rider may see the social input and later feel the
+output while lacking direct access to the transformation between them.
+
+#### Leary's sociometer as a limited precursor
+
+Within Culture Mechanics, Leary's sociometer may be treated as a **limited
+version of part of the local-bigOther architecture**, and Leary accordingly as a
+**psychological precursor to parts of the local-bigOther theory**. The
+attribution is deliberately bounded: Leary did not propose the local bigOther,
+an installed Culture Program, the single-slot architecture, or the distributed
+wireless coupling developed here. His sociometer nevertheless supplies a closely
+fitting account of one possible affective mechanism through which indications of
+social valuation become motivationally effective in the elephant.
+
+The sociometer is limited first by its position in the social sequence. It mainly
+describes the receiving person's sensitivity to indications of their own
+relational value. Culture Mechanics also models the upstream production of the
+judgment:
+
+```text
+B's conduct
+    ↓
+A's local bigOther classifies B through A's installed Culture Program
+    ↓
+A's elephant receives the resulting affective valuation
+    ↓
+A expresses or behaviourally leaks approval, disapproval, inclusion, or exclusion
+    ↓
+B detects the indication and sociometric machinery registers relational value
+    ↓
+B's elephant changes before B's rider clearly understands why
+```
+
+A wholly private judgment in A cannot affect B's sociometer unless A expresses
+it, leaks it through conduct, or B otherwise infers it. The important distinction
+is that the local bigOther in A can **generate** the culturally patterned
+judgment, whereas the sociometer in B explains a narrower form of **detection and
+affective registration**.
+
+The local bigOther also operates without an actual person A being present. B's
+own installed program can instantiate an anticipated or generalized third-party
+observer and apply its gaze to B's contemplated conduct or even to a private
+thought:
+
+```text
+B considers a private thought, act, or possibility
+    ↓
+B's local bigOther instantiates the culturally expected observer
+    ↓
+the installed Culture Program judges B from that third-person position
+    ↓
+B's elephant experiences shame, pride, fear, reassurance, or felt prohibition
+    ↓
+B's rider encounters the result without any actual observer being present
+```
+
+This is the **local-bigOther inner eye**: the internalized third-party observer
+that can approve, shame, prohibit, or judge from within the person's own psyche.
+It must remain distinct from the individual's own imaginative-conceptual inner
+eye, which can narrow so that a culturally dangerous relation can no longer be
+seen, formulated, or named; see [*Epistemic Agency*, “Scale bridge: ideological
+power, inner-eye blindness, and *Dummheit*”](0020-epistemic-agency.semantic-definition.md#ideological-power-local-capture-scale-bridge).
+
+The relation can therefore be stated compactly: **the sociometer detects
+indications of how others value me; the local bigOther also generates culturally
+programmed judgments of others, determines their content, and can reproduce the
+judging gaze internally when no observer is present.** Leary is a precursor to
+the nonconscious, preattentive, relational-value, and affective-coupling parts of
+Culture Mechanics, not a source for or validation of the complete synthesis.
 
 For the mapped features, non-inferences, and relationship of the CPU, PCI-slot,
 wireless-collar, protocol, and network pictures to the framework's physical and
@@ -1912,6 +2075,30 @@ their bigOthers classify and respond
 their responses return as signals to A
         ↺
 ```
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=0.82\textheight,keepaspectratio]{.pdf-assets/elephant-rider-group-interaction.pdf}
+\caption{Distributed interaction among five equivalent rider--elephant--wireless-collar units.}
+\label{fig:rider-elephant-group-interaction}
+\end{figure}
+
+The group figure repeats the complete single-person unit in a diagrammatic
+top-down network layout while retaining the readable side view of each psyche.
+All five units have the same size and components. The middle unit is therefore a
+focal example, not a chief, privileged broadcaster, directing organ, or separate
+class of transmitter. Centre-to-surrounding paths show reciprocal local
+coupling, while the surrounding paths show that participants also signal to one
+another rather than communicating only through a hub.
+
+The dashed paths and collar arcs are symbolic, not literal radio waves, wires,
+or measured channels. Their lack of arrowheads marks the
+receive--classify--act--transmit reciprocity of every unit. The picture
+therefore illustrates how local
+outputs can become other people's inputs and produce feedback, amplification,
+apparent consensus, divergence, or synchronization. It does not by itself imply
+agreement, truth, equal influence, coercion, centralized direction, collective
+agency, or a fused multi-mind-self.
 
 The originating physical analogy is that a local bigOther resembles a charged
 particle: it is a source of a field and is simultaneously susceptible to the field
@@ -2078,8 +2265,11 @@ The principal dynamics increasing absorption are called **fusion pressure**:
 
 **Total fusion** is the limiting case: high subjecthood absorption combines with
 comprehensive jurisdiction and closed correction or exit. The originating image
-is that persons become “drops of water in one clear pond.” It is a pole, not the
-definition of every multi-mind-self presentation or operative multi-mind-self and not a biological state that humans can
+is that persons become “drops of water in one clear pond.” The image comes from
+Minogue's account of the ideological terminus and remains subtype-specific there;
+Culture Mechanics reuses it here only as a source bridge to the broader fusion
+limit. It is a pole, not the definition of generalized Ideology, every
+multi-mind-self presentation or operative multi-mind-self, and not a biological state that humans can
 literally enter.
 
 A **fusion ideology** is a mythology or program that treats the separate person as
@@ -2088,7 +2278,9 @@ persons as organs of one collectively enacted subject with increasingly
 comprehensive jurisdiction. Such a program can demand fusion without succeeding
 in forming a competent multi-mind-self; conversely, a capable collective agent can
 remain differentiated, person-preserving, jurisdictionally bounded, and
-corrigible.
+corrigible. *Fusion ideology* retains the older broad adjectival usage; it does
+not satisfy the strict capitalized Ideology classifier unless the separate
+generator, un-reality, un-reason, installation, and scale gates are evidenced.
 
 One route into fusion is
 [**Humanity inversion**](0040-mythology-construction.semantic-definition.md#humanity-as-standing-horizon-and-sacred-object):
@@ -2718,6 +2910,23 @@ Solidarity*](0020-epistemic-agency.semantic-definition.md) develops the social-f
 account: mutually synchronized local bigOthers and institutional power can make
 borrowed judgment feel internally compulsory and thereby weaken the person's
 capacity to form an independent response.
+
+The finer [ideological-power scale
+bridge](0020-epistemic-agency.semantic-definition.md#ideological-power-local-capture-scale-bridge)
+distinguishes the internalized observer from the person's own capacity for
+inward seeing. An approaching culturally forbidden relation may become difficult
+to hold, formulate, or name before an authorized slogan occupies the resulting
+conceptual vacancy. The compact distinction is:
+
+> **Blindness is the negative moment: what the person can no longer see,
+> formulate, or name. *Dummheit* is the positive occupation of that vacancy:
+> authorized formulas speak and judge in the person's place.**
+
+Weak inattention or one blind spot is not yet *Dummheit*. The stronger candidate
+mechanism requires inhibited self-authored articulation and predictable
+replacement by authorized classification in the activated domain; wider claims
+require evidence of domain spread, synchronization, conduct, enforcement, and
+persistence.
 
 At whole-polity scale, Bonhoeffer's power--*Dummheit* relation is the originating
 epistemic bridge to the project's [functional definition of
@@ -4694,6 +4903,1234 @@ clinical diagnosis. The family resemblance is that intelligence has been placed
 downstream of a socially protected classification and recruited to elaborate or
 defend it.
 
+#### Scale bridge: ideological power, inner-eye blindness, and *Dummheit* {#ideological-power-local-capture-scale-bridge}
+
+The population-level and person-level descriptions require an explicit bridge.
+A population-bearing Culture Program--including one separately classified as
+**Ideology** or **Minogue-ideology**--can exercise ideological-power capability
+through its producers, carrying structures, trusted channels, and returned field
+gain. **Systemic Ideology** names the configuration only where the separate
+Ideology gates and population-scale, cross-domain, constitutional operation are
+evidenced; ideological power itself remains available to truthful and corrigible
+cultures.
+
+The proposed cross-scale pathway is:
+
+```text
+population-bearing Culture Program
+→ ideological-power capability
+→ culture-producing and carrying structures
+→ categories, causal stories, frames, symbols, and trusted signals
+→ installation or activation in local bigOthers
+→ pre-reflective changes in salience, affect, credibility, and taboo
+→ possible culturally indexed blindness or speechlessness
+→ possible displacement of independent judgment by authorized formulas
+→ returned repetition, sanction, administration, and enforcement
+→ field reinforcement and possible power accumulation
+```
+
+The pathway can be deliberately directed, institutionally selected,
+opportunistically exploited, emergent, or mixed. It identifies a capability and
+possible mechanism, not a beneficiary, controller, conspiracy, strict Ideology,
+*Machtpolitik*, or culpable person.
+
+The local transition elaborates the [wireless-collar
+analogy](0010-culture-mechanics.semantic-definition.md#10-second-analogy-haidts-elephant-with-a-wireless-collar).
+The collar can alter attraction, aversion, shame, honour, threat, and attention
+before the reflective rider notices. The rider may then experience the resulting
+direction as obvious sight or self-authored judgment and rationalize it
+afterward.
+
+Jonathan Haidt's [*The Righteous
+Mind*](https://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/)
+supplies the generic **morality binds and blinds** antecedent: common sacredness,
+loyalty, and identity can create cohesion while narrowing uptake of rival moral
+worlds. Haidt does not thereby supply the present Ideology classifier,
+ideological-power scale bridge, local-bigOther mechanism, or a finding of
+un-reality. Moral binding can support truthful and corrigible family,
+professional, religious, civic, or scientific formation. It enters the present
+hazard pathway only where culturally indexed filtering participates in an
+evidenced authorization and failed-correction relation.
+
+The historically relevant perceptual-defence evidence is narrower still.
+Elliott McGinnies's 1949 [“Emotionality and Perceptual
+Defense”](https://pure.mpg.de/pubman/item/item_2359097_2/component/file_2359096/McGinnies%201949_Emotionality.pdf)
+reported higher recognition thresholds for emotionally toned words and stronger
+galvanic skin responses during pre-recognition exposure. Bernard Singer's 1956
+[experimental inquiry](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/j.2044-8295.1956.tb00591.x)
+found heterogeneous participant patterns and retained rival explanations
+involving word frequency, response suppression, experimental set, and individual
+variation. This evidence supports only the bounded proposition that affectively
+costly material can alter attention, recognition, reporting, and autonomic
+response before explicit deliberation. Autonomic arousal or delayed report does
+not by itself establish unconscious semantic recognition, literal failure to
+see, intentional wilful blindness, Culture Program installation, or *Dummheit*.
+
+Two meanings of **inner eye** must remain distinct:
+
+1. **The local bigOther as internalized observer.** This is the third-party inner
+   eye through which a distributed symbolic-affective order--and, where present,
+   a represented collective self--appears to observe, approve, shame, prohibit,
+   or judge the person from within the person's own psyche.
+2. **The individual's own inner eye.** This is the person's capacity to bring
+   images, concepts, relations, and possible formulations before the mind. It
+   goes dark when an approaching culturally forbidden relation can no longer be
+   mentally seen, held, formulated, or named.
+
+The proposed local mechanism is:
+
+```text
+local bigOther as internalized observer
+        ↓ marks an approaching thought as forbidden or dangerous
+individual's own inner eye narrows or goes dark
+        ↓
+the relation can no longer be fully seen, formulated, or named
+        ↓
+speechlessness or conceptual vacancy
+        ↓
+authorized slogans or formulas may occupy the vacancy
+        ↓
+borrowed classification speaks and judges in the person's place
+        ↓
+the main processor may elaborate or defend it through un-reason
+        ↓
+possible local Bonhoefferian Dummheit
+```
+
+The local bigOther does not cease operating when the individual's inner eye goes
+dark. The internalized gaze, prohibition, shame, and authorization can become
+more intense precisely while the person's own imaginative-conceptual field
+narrows.
+
+> **Blindness is the negative moment: what the person can no longer see,
+> formulate, or name. *Dummheit* is the positive occupation of that vacancy:
+> authorized formulas speak and judge in the person's place.**
+
+**Speechlessness** need not mean literal silence. A person can remain verbally
+fluent while losing self-authored language for the protected relation. Formulaic
+speech can terminate the approaching thought, relieve the distress of
+non-formulation, restore moral and group orientation, and conceal that
+independent articulation failed.
+
+The working intensities are:
+
+| Intensity | Proposed description |
+|---|---|
+| **Weak blindness** | A relevant relation is not noticed but can be examined and articulated once made visible |
+| **Strong blindness or speechlessness** | Approaching a protected relation inhibits sustained attention, conceptualization, or self-authored formulation |
+| **Local Bonhoefferian *Dummheit*** | Authorized slogans and classifications occupy the resulting vacancy and displace independent judgment in the activated domain |
+
+Weak or isolated blindness does not establish *Dummheit*, low intelligence,
+generalized capture, Ideology, or danger. Strong, culturally indexed blindness
+that blocks self-authored articulation and predictably replaces it with
+authorized formulas is a candidate local instance of the Bonhoefferian
+mechanism. Domain spread, authority-gated judgment, synchronization, conduct,
+enforcement, and persistence indicate how far the condition extends.
+
+The return path closes the possible power loop. Repetition, approval, punishment,
+administration, exclusion, and enforcement become signals to other local
+bigOthers and return gain to the field and possibly to directing or beneficiary
+positions. That upward attribution still requires causal and scale evidence.
+
+A later contrastive diagnostic can at most sample one possible local residue of
+this installation: whether a previously understood correction rule changes
+selectively when a culturally protected classification activates the local
+bigOther. It does not directly detect an Ideology, hidden producer, power
+structure, or *Dummheit* inside a person. Linking a repeatable local pattern
+upward requires separate evidence of program, carrying structure, authorization,
+reproduction, scale, beneficiary, and failed correction.
+
+#### Latent Culture Program diagnosis under homo-duplex orthogonality {#latent-culture-program-diagnosis}
+
+**Status:** proposed diagnostic research programme; not a validated assessment,
+clinical protocol, violence-risk instrument, or authorization to classify a
+person by an Ideology or Culture Program label
+
+The [ideological-power scale
+bridge](#ideological-power-local-capture-scale-bridge) creates an observability
+problem. A Culture Program can organize salience, affect, credibility, taboo,
+identity, and correction while remaining inconspicuous during ordinary
+low-activation life. The proposed diagnostic therefore asks:
+
+> **How can the programming, alignment, activation thresholds, correction
+> relations, and synchronization susceptibility of a local bigOther be inferred
+> without waiting for a real crisis in which that programming becomes
+> conduct-directing?**
+
+The working answer is a **contrastive correction-interface probe**: disclose one
+general causal form, confirm its comprehension through relatively uncharged
+cases, and then present structurally matched cases crossing several different
+cultural fault lines. A selectively located change in category, evidential
+burden, reciprocity, affect, defeat conditions, or willingness to revise is the
+observable of interest. It is evidence to investigate, not a diagnosis by itself.
+
+Three terms control the proposal:
+
+> A **latent Culture Program profile** is a bounded reconstruction of the
+> classifications, sacred values, authorities, affective activations, identity
+> stakes, correction relations, and action tendencies likely to become operative
+> in a specified person or formation under specified conditions not presently
+> active.
+
+It is a conditional model, not an essence, permanent person label, or direct
+reading of hidden mental content.
+
+> A **contrastive correction-interface probe** presents a disclosed causal form
+> through neutral and differently culture-loaded cases, then tests whether
+> evidential standards, defeat conditions, reciprocal application, affect, and
+> revision remain continuous across them.
+
+Its primary target is not the favoured opinion but the availability of a common
+reality-correction procedure. It is a specialized person-side extension of the
+generic [reality-correction-interface
+test](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason).
+
+> A **culturally indexed correction discontinuity** is a repeatable, case-linked
+> change in correction practice when a previously understood causal form crosses
+> a protected cultural boundary. An **affectively marked correction
+> discontinuity** additionally includes an observable change in anger, fear,
+> shame, disgust, agitation, certainty, withdrawal, or relief at that boundary.
+
+The correction discontinuity is the primary observable. Overt affect is an
+optional qualifier because strong fear or shame may remain largely internal and
+appear only through hesitation, reframing, repetition, or escape. Either pattern
+is candidate evidence of load-bearing programming, not sufficient proof of
+Ideology, un-reason, falsehood, radicalization, or danger.
+
+##### Homo-duplex orthogonality and the observability problem
+
+The author's phrase **“the Quantum Mechanics of Psychology”** remains a
+controlled analogy, not a claim about literal quantum cognition. It distinguishes
+two partially independent practical coordinates of *homo duplex*:
+
+- the ordinarily visible person-to-person surface of affection, temperament,
+  preferences, exchange, cooperation, and conduct--the “Newtonian” side; and
+- the less directly observable cultural-symbolic coordinate of installed
+  classifications, sacred values, authority, loyalty, shame, collective identity,
+  and synchronization--the Culture Mechanics side.
+
+The coordinates are substantially **orthogonal** for diagnosis: knowledge of one
+may provide little information about the other. A close friend may be culturally
+unaligned; a culturally aligned person may be personally disliked. Kind, calm,
+and cooperative ordinary conduct does not by itself reveal which collective
+classification will take priority under a sacred-value conflict, loyalty test,
+perceived threat, ritual synchronization, or authority-addressed mobilization.
+
+“Orthogonal” does not mean perfectly statistically independent. Relationships,
+traits, incentives, institutions, and prior reflection can influence cultural
+activation. The narrower claim is that the latent cultural coordinate cannot
+safely be read off the ordinary relational coordinate.
+
+In a calm environment, carriers of different programs can consequently be
+**observationally equivalent**. The absence of visible collective behaviour is
+underdetermined: relevant programming may be strongly installed but dormant,
+weakly installed, de-animated, culturally lost, displaced by another program,
+inhibited by countervailing commitments, or active below ordinary observation.
+No elicited response does not prove that no program exists; an elicited response
+does not prove that it has governing authority.
+
+The earlier honour-killing discussion supplies an extreme action-interface
+illustration, not a population generalization. Personal affection can be real
+while a culturally authorized shame, purity, loyalty, or collective-standing rule
+classifies the loved person as an intolerable violation. Where one action must be
+selected, the coordinate possessing operative final authority can govern the act.
+This does not imply that cultural programming always defeats affection or that
+cultural alignment predicts violence. It shows why ordinary affection does not
+answer the priority question.
+
+In this application the local bigOther can function less like a complete
+argument than like a culturally programmed **value function**. It changes what
+feels admirable, shameful, compulsory, forbidden, or socially survivable; the
+main CPU can then implement and rationalize the reweighted result. The cultural
+coordinate acquires meta-authority where it also decides which perceptions,
+affections, doubts, and reasons may be taken seriously.
+
+The personal-reflective coordinate can still prevail where the person can
+recognize the cultural verdict as a classification rather than reality itself,
+tolerate the shame or exclusion attached to refusal, draw on countervailing
+commitments or trusted authorities, complete reflective override, and obtain
+practical support, protection, or exit. This is why lower-stakes conflicts over
+taboo, outsider criticism, loyalty, refusal, or treatment of dissent can be
+informative without being treated as miniature violence tests.
+
+Waiting for a real crisis, mobilization, collective punishment, or violence to
+reveal that priority is ethically unacceptable. The research problem is to create
+bounded, reversible, low-stakes, and ethically reviewed probes that sample the
+classifier and correction relation without manufacturing the dangerous
+condition. Lower-stakes conflicts involving taboo, outsider criticism, loyalty,
+refusal, or treatment of dissent may provide earlier evidence while practical
+support, protection, appeal, and exit remain available.
+
+##### Probe design: from neutral comprehension to loaded transfer
+
+The proposed instrument is better understood as a **dynamic assessment** or
+structured interview than a static opinion questionnaire. Asking only which
+political proposition a participant endorses reveals declared content, invites
+rehearsed answers, and risks confusing disagreement with capture. The diagnostic
+question is whether an already understood causal rule and correction standard
+remain available when the rule reaches culturally protected material.
+
+```text
+explain a general causal form M
+        ↓
+present relatively uncharged cases N1, N2, N3
+        ↓
+confirm that M is understood and can be applied
+        ↓
+present structurally matched but differently loaded cases L1, L2, L3 ...
+        ↓
+invite distinctions, counterevidence, defeat conditions, and position reversal
+        ↓
+observe where reasoning, affect, and correction relations change
+```
+
+Follow-up questions are essential. A participant must be free to expose a false
+premise, identify a material causal difference, correct a badly matched analogy,
+or suspend judgment because information is missing. The instrument tests a
+correction interface; it must not require assent to the investigator's analogy.
+
+Four broad responses must be distinguished:
+
+1. **Continuous application:** the same rule, evidential burden, and defeat
+   conditions remain in force.
+2. **Valid differentiation:** the participant identifies a material causal
+   difference and accepts the same distinction under position reversal.
+3. **Uncertain suspension:** the participant consistently withholds judgment
+   because the required information is unavailable.
+4. **Protected exception:** the category, standard, or burden changes without a
+   material and reciprocally acceptable reason, and the exception resists
+   correction.
+
+Only the fourth is the primary candidate signal, and one item is never a
+diagnosis. The signal becomes meaningful only as a repeatable, domain-specific
+pattern involving specified protected conclusions, asymmetric standards,
+recursive immunization, and failed correction.
+
+The result should be typed rather than reduced to one “culture score”:
+
+| Observed pattern | Candidate inference | What it does **not** establish |
+|---|---|---|
+| Loaded cases producing a discontinuity | Protected content or installed classification | A complete Culture Program from one item |
+| Direction of the exception | Alignment or authorized side | Moral guilt or a person-level label |
+| Loading required before change appears | Activation threshold | Stability across all settings |
+| Intensity and form of response | Affective investment and defensive style | Falsehood because emotion is present |
+| Type of reason offered | Possible un-reason mechanism or valid distinction | Un-reason from sophistication or contradiction alone |
+| Ability to state defeaters and revise | Strength of the correction interface | Truth of every retained belief |
+| Covariation across participants | Possible shared cultural field | Central design or conspiracy |
+| Change under peer, authority, or consensus cues | Possible synchronization susceptibility | Susceptibility from a private answer alone |
+
+##### Culture Program fingerprint: selective discontinuities across a case matrix
+
+> A **Culture Program fingerprint** is the typed, repeatable distribution of
+> correction discontinuities, protected directions, activation thresholds,
+> affective qualifiers, and recovery conditions across neutral cases and cases
+> loaded for several candidate Culture Programs.
+
+The fingerprint is not one answer. For each of several disclosed causal forms,
+the probe should ideally compare a relatively uncharged implementation with
+matched implementations loaded for programs A, B, C, and so forth. If correction
+remains available in the neutral, B-, and C-loaded cases but repeatedly changes
+in the direction required to protect A, the **selective co-location** of the
+discontinuities is evidence for A-specific installation or alignment:
+
+```text
+same causal form understood across controls
++ repeatable protected exceptions in A-loaded cases
++ no comparable closure in matched non-A cases
++ rival explanations progressively defeated
+→ increased likelihood that program A is installed and load-bearing
+```
+
+This is a qualitative likelihood claim. Formally, a response pattern (R_A)
+raises the probability of candidate program A only where (R_A) is more expected
+if A is installed than under specified alternatives:
+
+```text
+P(R_A | A installed) > P(R_A | rival explanations)
+→ P(A installed | R_A) > P(A installed), other things equal
+```
+
+No numerical posterior follows until the items, comparison groups, dependence
+structure, base rates, and error rates have been validated. Rewordings of one
+bad analogy, several cases sharing the same disputed premise, and repeated clips
+from one adversarial exchange are correlated evidence, not independent
+confirmations. A sound design rotates presentation order, varies causal domains,
+separates the common relation from factual antecedents, and includes cases that
+should support rival programs and cases that should defeat A.
+
+The fingerprint is also not a biometric signature, immutable identity, or proof
+of capture. It supports a graded inference:
+
+1. **Candidate installation or alignment:** A-specific discontinuities recur
+   across well-matched cases.
+2. **Candidate load-bearing status:** challenging A reliably activates identity,
+   sacred-value, authority, or correction stakes.
+3. **Candidate capture:** A's classifications repeatedly displace independently
+   available correction or self-authored judgment across the specified domain.
+
+Each stronger inference requires additional evidence. The pattern can change
+with context, authority cues, reflection, learning, exit, or unbraiding; several
+programs can also leave overlapping or conflicting fingerprints in one person.
+
+A person can carry several Culture Programs, activate them in different domains,
+or exhibit program disharmony when authorized classifications collide. A diverse
+administration might therefore support reconstruction of several candidate
+relations and relative thresholds. It would still be reconstructing a conditional
+Culture Program Complex from responses rather than reading a hidden essence.
+Synchronization susceptibility requires a separately authorized comparison--for
+example, private judgment versus disclosed peer or authority cues--and cannot be
+inferred because several people independently answer alike.
+
+##### Epistemic and affective response channels
+
+The probe records two channels separately. The **epistemic channel** is primary:
+
+- changed evidential burden;
+- ad hoc or asymmetric exemption;
+- reclassification that protects only one side;
+- loss or movement of stated defeat conditions;
+- evasion of the causal question;
+- attack on the comparison instead of engagement with the disclosed mapping;
+- movement from a consequence claim to an identity accusation; or
+- repeated inability to concede a bounded point after accepting its premises.
+
+The **affective channel** can strengthen and explain the signal:
+
+- abrupt anger, shame, disgust, fear, agitation, certainty, or withdrawal;
+- interruption and reduced tolerance for completing the comparison;
+- moral outrage at placing cases in one analytical class; or
+- visible relief when a protective explanation becomes available.
+
+Neither visible emotion nor one epistemic discontinuity is sufficient. Emotion
+can be a fitting response to a false, insulting, or morally obtuse analogy; a calm
+and polished response can be closed. Their case-indexed conjunction is more
+informative when affect changes at the same boundary at which accepted standards
+selectively change and correction becomes unavailable. Yet fear, shame,
+anticipated betrayal, or quiet withdrawal can be causally powerful and externally
+subtle. The epistemic discontinuity must therefore remain detectable when affect
+is not.
+
+This expected transition connects Haidt's “binds and blinds” observation to
+Minogue's perceptual economy. A morally bound case becomes affectively special;
+its trained classification can arrive with the effortless form of direct sight,
+while theorizing and checking feel unnecessary or morally suspect. The probe
+attempts to make that otherwise invisible substitution observable.
+
+##### The category objection and operational non-concession
+
+“How dare you put these examples in the same category?” is informative but not
+self-refuting. An analogy preserves a disclosed relation, not every property of
+its terms. A respondent may correctly identify a moral or causal difference that
+breaks the proposed mapping. The decisive questions are:
+
+- Which exact relation was proposed as common?
+- Which material difference breaks that relation?
+- Would the same difference be accepted if cultural positions were reversed?
+- What evidence would remove the exception?
+- Does the answer explain the case, or only prevent a protected conclusion?
+
+Blindness, awakening, and unmasking language remains side-indeterminate. Both
+participant and investigator can claim to remove a blindfold. Classification must
+follow disclosed inference, reciprocal standards, independent checks, defeat
+conditions, and actual revision rather than the rhetoric of sight.
+
+The operational non-concession hypothesis is correspondingly bounded:
+
+> **When a Culture Program is highly activated and a challenged conclusion is
+> load-bearing for identity, belonging, sacred value, or authorized reality,
+> conceding a bounded point may become operationally unavailable. Active reasoning
+> may then produce escape, exemption, counter-accusation, or reclassification
+> rather than revision.**
+
+“Cannot admit” means cannot while this configuration remains operative, not a
+permanent incapacity of the person. Admission may acquire the meaning of betrayal,
+expulsion, moral contamination, status collapse, or destruction of a wider
+meaning system. More evidence or a more forceful argument can then increase
+defence rather than restore correction.
+
+Rival explanations remain mandatory: misunderstood causal form, poorly matched
+case, false or unproved premise, relevant omitted variable, justified moral
+objection, distrust of the interviewer, strategic debate, fatigue, interruption,
+public performance, language friction, or ordinary stubbornness can generate a
+similar response. The diagnostic earns force only by discriminating among them.
+
+##### Three rudimentary naturalistic precursors {#latent-program-diagnostic-worked-precursors}
+
+The following public examples are retained as **rudimentary naturalistic
+precursors**, not validated instruments, proof of the proposed theory, diagnoses
+of their participants, or population-level classifications. Each stages only part
+of the candidate sequence: a general causal relation, transfer to culturally
+loaded material, resistance or discontinuity, and an attempted demand for
+consistency. Their editorial titles, analogy premises, and speakers' interpretations
+do not verify themselves.
+
+###### Gad Saad: causal-trajectory transfer without a live respondent
+
+In [“More Analogies for Piers Morgan--Let There Be
+Light”](https://www.youtube.com/watch?v=rN2RIk0pwNI), Gad Saad uses an approaching
+train, falling atomic bombs, and a jump from the Empire State Building. The
+remembered bomber-plane image is close to the second example, but the transcript
+describes bombs already falling rather than a bomber releasing one.
+
+The disclosed causal form is:
+
+```text
+an irreversible or strongly path-dependent process is already under way
++ terminal harm has not yet occurred
+≠ absence of danger
+
+reliable knowledge of the trajectory
+→ rational anticipatory action before impact
+```
+
+**Follow-along source sequence.** The linked video is a 5:38 expository follow-up
+published on 2026-02-24. Timestamps are rounded from automatic captions:
+
+| Time | What happens | Work performed in the example |
+|---|---|---|
+| [0:28--1:49](https://www.youtube.com/watch?v=rN2RIk0pwNI&t=28s) | Saad explains comparison across experiences and domains. | Establishes analogical transfer as the explicit method. |
+| [2:01--2:28](https://www.youtube.com/watch?v=rN2RIk0pwNI&t=121s) | He proposes extrapolation from a current position along a trajectory to *t + x*. | States the general causal form before the examples. |
+| [2:28--3:13](https://www.youtube.com/watch?v=rN2RIk0pwNI&t=148s) | A person is trapped on a railway line while a train approaches. Being unharmed during the approach does not invalidate the predicted impact. | Neutral case: presently absent terminal harm does not cancel a known trajectory. |
+| [3:13--3:28](https://www.youtube.com/watch?v=rN2RIk0pwNI&t=193s) | Saad transfers the train case to Morgan's observation that Muslims remain a current population minority. | Introduces the culturally loaded target, but asserts rather than tests the transfer. |
+| [3:28--3:44](https://www.youtube.com/watch?v=rN2RIk0pwNI&t=208s) | He calls the physical analogies hyperbolic and says they illustrate extrapolation along predictable trends. | Discloses the intended relation and part of the physical/social mismatch. |
+| [3:44--4:36](https://www.youtube.com/watch?v=rN2RIk0pwNI&t=224s) | Saad says the Hiroshima and Nagasaki bombs took 43 seconds to fall; survival during descent did not make the fall harmless. | Clearest image of anticipatory action before terminal observation. |
+| [4:38--5:09](https://www.youtube.com/watch?v=rN2RIk0pwNI&t=278s) | A jump from the Empire State Building may feel exhilarating during free fall although gravity fixes the relevant danger. | Distinguishes harmless present experience from a causally forecast outcome. |
+
+The example performs five steps: disclose the mechanism; make it easy to
+recognize; transfer it to culturally protected material; expose whether the
+disagreement concerns extrapolation, empirical trajectory, or analogy fit; and
+identify what remains unobserved. Because the follow-up is Saad's monologue, it
+contains no live Morgan response and therefore no response pattern from which a
+latent Culture Program can be inferred.
+
+The immediate background was an earlier Saad--Morgan exchange involving diabetes,
+shingles, tipping points, and demographic-religious change. Morgan objected to
+placing religion in the category of disease; Saad replied that the common object
+was a causal pattern and offered an Orthodox-Jewish counterexample. A [published
+transcript of that exchange](https://pod.wave.co/podcast/piers-morgan-uncensored/headed-for-trouble-is-the-uk-being-invaded-debate-feat-lowkey-plus-gad-saad)
+supplies this background but is separate from the timestamped follow-up.
+
+The precursor thus supplies **mechanism recognition and loaded transfer**, not a
+diagnostic interaction. Physical trajectories can be much more deterministic than
+social processes, and disease metaphors can import contaminant or pathology
+properties beyond the intended relation. The design lesson is strict: **state the
+common relation and analogy limits explicitly, and establish the target's
+empirical premises independently.**
+
+###### Warren Smith and Brian Shapiro: a cross-loaded risk rule
+
+In [“Leftist Radio Host Realizes He Was WRONG About Charlie Kirk LIVE On
+Air”](https://www.youtube.com/watch?v=rTDhZ3umayI), Warren Smith begins with a
+relatively neutral quota hypothetical about “purple firefighters.” The exchange
+then moves between two politically cross-loaded examples: a claim that DEI hiring
+of airline pilots reduces qualification and a claim that shortened ICE-officer
+training reduces preparedness.
+
+The conditional rule under dispute is:
+
+```text
+high-stakes function
++ policy that actually reduces relevant competence or preparedness
+→ increased probability of failure and harm
+
+the increased risk can be criticized ex ante
+without waiting for a named unqualified actor or completed catastrophe
+```
+
+**Quick follow-along.** The broad argument runs from the opening hypothetical at
+[0:24](https://www.youtube.com/watch?v=rTDhZ3umayI&t=24s) through isolation of the
+empirical-policy question at approximately
+[9:35--10:20](https://www.youtube.com/watch?v=rTDhZ3umayI&t=575s). The decisive
+reciprocal sequence is [4:17--5:45](https://www.youtube.com/watch?v=rTDhZ3umayI&t=257s);
+the clearest non-concession and affective transition occurs around
+[6:42--7:35](https://www.youtube.com/watch?v=rTDhZ3umayI&t=402s).
+
+1. Smith presents the “purple firefighters” case and argues that compelling a
+   fixed representational outcome can change who passes an established process
+   ([0:24--0:55](https://www.youtube.com/watch?v=rTDhZ3umayI&t=24s)).
+2. The exchange transfers the process claim to pilots and Black pilots
+   ([0:53--1:15](https://www.youtube.com/watch?v=rTDhZ3umayI&t=53s)).
+3. Smith distinguishes prospective criticism from waiting for a named
+   unqualified actor or completed disaster
+   ([1:15--3:49](https://www.youtube.com/watch?v=rTDhZ3umayI&t=75s)).
+4. Shapiro supplies an oppositely loaded example: inadequately trained ICE
+   officers may create avoidable risk
+   ([4:17--4:53](https://www.youtube.com/watch?v=rTDhZ3umayI&t=257s)).
+5. Smith reflects Shapiro's rule back: if insufficient ICE training can be
+   criticized before terminal harm, an actually degraded pilot-selection process
+   must likewise be criticizable ex ante
+   ([4:53--5:45](https://www.youtube.com/watch?v=rTDhZ3umayI&t=293s)).
+6. Smith asks the stripped conditional: if pilot standards were lowered, would
+   that be negative? Shapiro continues to request specifics
+   ([6:42--7:12](https://www.youtube.com/watch?v=rTDhZ3umayI&t=402s)).
+7. Shapiro reconnects the hypothetical to Black pilots, racism, and Charlie Kirk
+   while becoming louder and more emphatic
+   ([7:12--7:35](https://www.youtube.com/watch?v=rTDhZ3umayI&t=432s)).
+8. The interaction enters a candidate raw non-concession/escalation phase: both
+   sides allege wilful non-engagement or proximity to lying, and the process claim
+   is reframed as saying that Black pilots are bad
+   ([7:41--9:28](https://www.youtube.com/watch?v=rTDhZ3umayI&t=461s)).
+9. Near the end the disputed empirical antecedent becomes more clearly separated
+   from the conditional rule. Smith acknowledges not knowing the airline-policy
+   facts; Shapiro offers outreach or recruitment as a process that could change
+   representation without lowering standards
+   ([9:35--11:10](https://www.youtube.com/watch?v=rTDhZ3umayI&t=575s)).
+
+No concession matching the video's editorial title occurs.
+
+**Detailed follow-along.** The 11:10 video, published on 2026-07-30, interleaves
+the exchange with Smith's commentary. Timestamps are rounded from automatic
+captions:
+
+| Time | What happens | Work performed in the example |
+|---|---|---|
+| [0:24--0:55](https://www.youtube.com/watch?v=rTDhZ3umayI&t=24s) | Smith constructs the “purple firefighters” quota case and argues that forcing a fixed outcome requires changing who passes the existing process. | Relatively neutral source case, although its premise is asserted rather than demonstrated. |
+| [0:53--1:15](https://www.youtube.com/watch?v=rTDhZ3umayI&t=53s) | Shapiro asks for a flawed outcome; the discussion moves to pilots and Black pilots. | First transition to culturally loaded material. |
+| [1:15--3:49](https://www.youtube.com/watch?v=rTDhZ3umayI&t=75s) | The parties dispute whether the argument requires a named unqualified pilot or actual harm. Around 2:49, Smith contrasts lowered standards with waiting for a failed rescue or crash. | Partly separates prospective risk criticism from retrospective outcome evidence. |
+| [4:17--4:53](https://www.youtube.com/watch?v=rTDhZ3umayI&t=257s) | Shapiro introduces inadequate ICE training and de-escalation as an analogy. | Shapiro supplies the oppositely loaded case. |
+| [4:53--5:45](https://www.youtube.com/watch?v=rTDhZ3umayI&t=293s) | Smith turns the ICE example around: insufficient training must be criticizable before a badly prepared officer causes terminal harm. | Reciprocal-transfer demand. |
+| [6:11--6:42](https://www.youtube.com/watch?v=rTDhZ3umayI&t=371s) | Smith generalizes to flawed high-stakes processes; Shapiro returns to the absence of a specific bad result involving Black pilots. | Candidate evidential discontinuity, confounded by disagreement over the airline premise. |
+| [6:42--7:12](https://www.youtube.com/watch?v=rTDhZ3umayI&t=402s) | Smith asks whether lowered pilot standards would be negative; Shapiro says he needs specifics. | Closest approximation to a pure reciprocal item and clearest non-concession point. |
+| [7:12--7:35](https://www.youtube.com/watch?v=rTDhZ3umayI&t=432s) | Shapiro reconnects the hypothetical to Black pilots and Charlie Kirk's alleged racism; delivery becomes more emphatic. | Moral-identity reclassification and affective phase change at attempted abstraction. |
+| [7:41--8:44](https://www.youtube.com/watch?v=rTDhZ3umayI&t=461s) | Smith alleges effort not to understand; each speaker accuses the other of wilful non-engagement or approaching a lie. | Epistemic escalation and side-indeterminate blindness/un-reason language. |
+| [8:47--9:00](https://www.youtube.com/watch?v=rTDhZ3umayI&t=527s) | Smith briefly offers ISIS as another case in which a process can be rejected before a shooting. | Further transfer, not developed into a clean matched item. |
+| [9:00--9:28](https://www.youtube.com/watch?v=rTDhZ3umayI&t=540s) | Shapiro reformulates Smith's position as thinking Black pilots are bad; Smith denies it and requests retraction. | Process claim displaced by person- and identity-level accusation. |
+| [9:35--10:20](https://www.youtube.com/watch?v=rTDhZ3umayI&t=575s) | The conversation isolates the empirical question. Smith says he does not know the airline facts and is defending a hypothetical. | Shows that the loaded factual application was not established. |
+| [10:46--11:10](https://www.youtube.com/watch?v=rTDhZ3umayI&t=646s) | Shapiro says minority outreach does not entail hiring less-qualified people and describes recruitment or advertising. | Supplies a potentially valid distinction excluded by the opening model. |
+
+The intensity change is relevant because the hypothesis predicts affective
+activation together with correction failure, but the recording does not identify
+its cause. Feeling falsely accused, interruption, and adversarial-broadcast
+conditions remain rival explanations.
+
+The candidate Culture-Mechanical sequence is:
+
+```text
+prospective-risk rule made explicit
+→ relatively neutral firefighter case
+→ politically loaded pilot application
+→ oppositely loaded ICE application supplied by Shapiro
+→ Smith reflects the ICE rule back onto the pilot conditional
+→ Shapiro refuses the stripped conditional and restores the racial/moral frame
+→ affective excitation and mutual blindness/lying accusations
+→ no bounded concession
+```
+
+At the behavioural level:
+
+1. Smith states a general ex-ante risk principle.
+2. Shapiro introduces an ICE example that appears to instantiate it.
+3. Smith transfers Shapiro's principle to the culturally opposed pilot case.
+4. Shapiro refuses even the stripped-down hypothetical.
+5. He repeatedly returns from process degradation to “Black pilots are bad.”
+6. The exchange becomes increasingly emotional, repetitive, accusatory, and
+   resistant to closure.
+7. No concession occurs.
+
+On the working hypothesis, this non-concession is part of the candidate result.
+Once connected to Charlie Kirk, racism, and Black pilots, accepting the conditional
+may acquire a second meaning: legitimating an opposing culture, weakening a moral
+verdict, or appearing to disparage Black pilots. The main CPU remains active, but
+the culturally reweighted answer may become operationally unavailable. This is a
+candidate reading, not a diagnosis of Shapiro.
+
+Three evidentiary levels must remain separate:
+
+1. **General causal principle:** If competence or preparedness is reduced in a
+   high-stakes function, does failure risk rise?
+2. **Factual application:** Did a specified DEI or ICE policy actually reduce
+   job-relevant competence or preparedness?
+3. **Action threshold:** How much evidence of increased risk is required before
+   criticism or intervention; must terminal harm already have occurred?
+
+The stripped hypothetical attempts to bracket the second question. Shapiro's
+request for context may be protected refusal, but it may also reflect the repeated
+joining of the conditional to an unproved and morally charged allegation. Smith
+does not establish that an airline policy lowered qualification standards;
+representation can change through recruitment or pipeline development. Fewer
+formal ICE training days likewise do not alone prove lower preparedness if
+content, selection, experience, supervision, or assessment differs.
+
+The design lesson is to establish the conditional rule first, separate it from
+contested empirical antecedents, use genuinely matched cases, allow material
+differences, and record both concession and principled rejection.
+
+###### Avery and a Muslim caller: anticipatory derailment
+
+In GodLogic 2.0's [“Muslim PANICS Over This Question About
+Allah”](https://www.youtube.com/watch?v=1ZOFpLcCzR4), Avery speaks with a Muslim
+caller about divine power, assistance, sonship, and a disputed Qur'anic passage.
+The editorial title is not evidence of panic. This worked reading brackets the
+truth of the competing theological, textual, Arabic, and exegetical
+interpretations. Its object is the **change in answering behaviour** when a
+question form handled in ordinary examples approaches a culturally protected
+implication.
+
+The candidate form is:
+
+```text
+ordinary missing-condition question
+→ ordinary answer
+
+same apparent question form approaches a sacred implication
+→ destination becomes foreseeable
+→ completing the inference becomes culturally costly
+→ line of inquiry is reclassified as irrelevant or derailed
+→ protected global doctrine replaces the requested local answer
+→ attempted withdrawal and failed correction
+```
+
+**Quick follow-along.** The decisive call sequence runs approximately
+[23:28--27:45](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1408s). The
+transition to Avery's earlier parody begins near
+[29:50](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1790s), and playback is
+clear by [29:53](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1793s).
+
+1. Avery and the caller agree that an omnipotent being does not require external
+   help ([9:02--9:25](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=542s)).
+2. Across the need--ability exchange, the caller accepts that Allah can do
+   whatever he wills and does not require assistance
+   ([9:25--12:47](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=565s)).
+3. Asked how one can drive a car without keys, the caller identifies the missing
+   keys ([23:28](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1408s)).
+4. Asked how one can plant a tree without seed, he identifies the missing seed
+   ([24:02](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1442s)).
+5. Avery transfers the apparent form: how can it be his child when he has no
+   wife? ([24:29](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1469s)).
+6. Around [24:53](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1493s), the
+   caller appears to anticipate the destination and calls the line unrelated or
+   “derailing” rather than supplying the term or a material distinction.
+7. During [24:53--26:54](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1493s),
+   he seeks to return to an earlier point, says the hosts are not listening,
+   repeats that God needs nothing, and does not provide the bounded answer.
+8. Around [26:54](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1614s), Avery
+   removes the caller and describes the ordinary-to-loaded contrast as familiar
+   ([26:54--27:45](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1614s)).
+9. The parody begins around
+   [29:50--29:53](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1790s).
+
+The narrow activation sequence is therefore **23:28--24:53**: two ordinary
+answers, transfer to the protected case, and apparent recognition of the
+destination. The following **24:53--26:54** interval is the candidate raw
+denial/escape phase, ending when Avery removes the caller.
+
+**Detailed follow-along.** The 33:57 video was published on 2026-07-07. Its
+original 29:50 marker indicates the parody transition, not the beginning of the
+relevant phone-call sequence. Timestamps are rounded from automatic captions:
+
+| Time | What happens | Work performed in the example |
+|---|---|---|
+| [9:02--9:25](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=542s) | Avery and the caller agree that God is all-powerful and requiring external help would be inconsistent with being God. | Establishes the protected global principle. |
+| [9:25--11:58](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=565s) | Asked whether Allah could have a son if he willed it, the caller initially answers why humans need children; after ability is separated from need, he accepts that Allah can do whatever he wills. | Exposes the need--ability distinction without resolving what “son” means. |
+| [12:17--12:47](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=737s) | The caller says Allah could act alone and needs no help. | Makes independence from external assistance explicit. |
+| [20:16--23:18](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1216s) | After discussion of the passage, the caller emphasizes that Allah needs no wife or assistance; Avery asks which missing condition the sentence appears to name. | Brings the global doctrine and requested local reading into tension while bracketing the textual merits. |
+| [23:28--24:02](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1408s) | Asked how to drive without keys, the caller promptly identifies the keys. | First ordinary missing-condition case. |
+| [24:02--24:29](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1442s) | Asked how to plant a tree without seed, the caller promptly identifies the seed. | Second source case confirms comprehension of the question form. |
+| [24:29--24:58](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1469s) | Avery asks how a child could be his when he has no wife. Around 24:53, the caller calls the line off-topic and derailing rather than supplying “wife.” | Loaded-boundary transition from object-level answer to rejection of the inquiry path. |
+| [24:58--26:44](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1498s) | The hosts request the bounded answer. The caller seeks to restart where the conversation allegedly derailed, says they are not listening, and returns to “God needs nothing.” | Local inference is displaced by frame control, attempted restart, and protected global doctrine. |
+| [26:52--27:45](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1612s) | Avery removes the caller and contrasts the car and tree answers with the child-case derailment. | Correction ends without answer or concession; Avery identifies the discontinuity as familiar. |
+| [27:58--29:23](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1678s) | The hosts describe the caller as pleasant but insufficiently candid and introduce the earlier parody. | Connects the interaction to Avery's prior behavioural model. |
+| [29:53--32:40](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1793s) | The parody presents ordinary land and keys questions, then child-without-wife and theological variants. A fictional student supplies the missing term; the teacher rejects it by invoking omnipotence and divine difference. | Synthetic model of an ordinary-to-protected doctrinal override. |
+| [32:45--33:14](https://www.youtube.com/watch?v=1ZOFpLcCzR4&t=1965s) | Avery says the caller produced the response anticipated in the parody: the passage instead means that Allah is all-powerful and needs nothing. | States the claimed match between prior model and later interaction. |
+
+At the behavioural level:
+
+1. Avery and the caller establish that omnipotence excludes required assistance.
+2. The caller accepts that Allah can do whatever he wills and needs no help.
+3. The caller supplies the missing condition in the car--keys example.
+4. He supplies it in the tree--seed example.
+5. The child--wife bridge makes the intended destination visible.
+6. Rather than answer or state a material difference, he calls the path a
+   derailment.
+7. He attempts to restart and returns to the global doctrine.
+8. Repeated invitations do not recover a bounded object-level answer.
+9. Avery interprets this as the pattern represented in his earlier parody and
+   removes the caller.
+10. No answer or concession occurs while the configuration remains active.
+
+The refinement is **anticipation**. On the candidate reading, the caller appears
+to foresee the inference's destination and interrupts before the prohibited
+implication must be stated:
+
+```text
+I cannot yet be forced to state the conclusion
++ I can see which conclusion the questions are approaching
+→ classify the approach itself as defective
+→ withdraw to a protected premise upstream
+```
+
+This suggests a prospective form of blindness or un-reason: active cognition can
+recognize an approaching prohibited conclusion and divert before completion. In
+the activated setting, answering “wife” might cease to feel like local linguistic
+completion and acquire the meaning of conceding a defect in the Qur'an,
+compromising omnipotence, granting a Christian apologist victory, or betraying
+religious allegiance before an audience. These are possible meanings, not reports
+of the caller's inner state. They illustrate how a bounded answer might become
+operationally unavailable while cognition generates escape, repetition, and
+withdrawal.
+
+Overt affect remains a cue rather than a gate. The primary observable is the
+epistemic phase change: ordinary cases receive direct answers; the loaded case
+receives a meta-conversational objection; the path is called derailment; a global
+doctrine replaces the local answer; repetition and attempted withdrawal replace
+reciprocal correction. Fear, shame, uncertainty, or anticipated loss of standing
+may be much less visible than anger. Hesitation, chuckling, defensiveness, or
+urgency may support but cannot independently establish the interpretation.
+
+Assuming Avery's reported chronology is correct, the parody is a rudimentary
+**ex-ante behavioural model**. It predicts not only a conclusion but a transition
+in defence:
+
+```text
+ordinary relation recognized
+→ same apparent relation reaches protected material
+→ direct inference becomes unavailable
+→ omnipotence doctrine overrides the local relation
+→ participant insists the opponent still does not understand
+```
+
+The later call approximately instantiates that predicted form. Prior modelling is
+stronger evidence than inventing a blindness accusation after one refusal, but
+neither the parody nor one naturalistic match validates the model.
+
+The evidentiary boundaries are decisive:
+
+- equivalence among having, creating, or begetting a son, needing a wife, and
+  needing assistance is not established here;
+- the ordinary analogies occur after a long adversarial discussion, not in a
+  blinded or randomized administration;
+- multiple hosts, interruption, audience, language friction, and apologetic
+  conflict can produce withdrawal without a Culture Program blind spot;
+- removing the caller records failure in that activated setting but prevents a
+  test of whether time, privacy, reformulation, or a valid distinction could
+  restore correction; and
+- one interaction licenses no global incapacity, diagnosis, or population-level
+  claim about Muslims.
+
+The diagnostic value does not depend upon resolving the theology in Avery's
+favour. The testable question is whether, after relation and semantics are
+properly controlled, one correction procedure survives across ordinary and
+protected cases or selectively closes as a prohibited implication becomes
+foreseeable.
+
+##### Joint contribution and strict limits
+
+The three precursors contribute different primitive components:
+
+- **Saad:** disclosed causal transfer and anticipatory reasoning, but no live
+  respondent in the follow-up video;
+- **Smith--Shapiro:** a live cross-loaded reciprocal challenge, affective
+  escalation, and non-concession, but badly confounded factual antecedents; and
+- **Avery--caller:** the clearest ordinary-to-loaded transition, anticipatory
+  derailment, attempted withdrawal, and a prior parody functioning as a primitive
+  prediction model, but unresolved semantic and theological equivalence.
+
+```text
+neutral causal recognition
+→ culturally loaded transfer
+→ prohibited destination becomes foreseeable
+→ category or premise resistance
+→ answer, principled distinction, or escape/reclassification
+→ reciprocal-consistency demand
+→ epistemic response, with affect recorded where observable
+```
+
+Together they do **not** supply a validated measure, reliable cultural-profile
+inference, clinical or therapeutic protocol, violence-risk assessment, or proof
+that the resisting speaker rather than the analogy-maker is blind. Their value is
+to expose the methodological object a proper instrument would have to isolate.
+
+#### Guided unbraiding and possible de-radicalization {#guided-unbraiding-and-possible-deradicalization}
+
+**Status:** proposed intervention research programme; hypothetical, unvalidated,
+consensual by default, and not a clinical protocol, violence-risk instrument,
+forced-conversion method, or authorization to alter another person's commitments
+
+The [contrastive correction-interface
+probe](#latent-culture-program-diagnosis) can do more than locate a possible
+Culture Program fingerprint. Where a repeated discontinuity is sufficiently
+well established, the same contrast can identify an **individualized braid**--a
+small cluster of cultural, affective, identity, authority, and defensive
+relations that became tightly coupled at the activation point. The candidate
+intervention asks whether those relations can be made observable and loosened
+incrementally so that reflective ownership and reality correction become
+available again.
+
+Two names preserve the goal--mechanism distinction:
+
+> **Guided unbraiding** is the proposed Culture Mechanics process: a consensual,
+> bounded practice in which a person learns to observe the relations surrounding
+> an activated conclusion, loosen selected automatic couplings, restore reality
+> correction, and recover reflective authorship without being forced into the
+> guide's replacement program.
+
+> **Possible de-radicalization** is the aspirational outcome where radicalizing
+> Culture Program capture is actually present: recovery of epistemic agency,
+> reciprocal correction, reflective ownership, and practical capacity to refuse
+> or revise the captured relation.
+
+The expressions can be paired as **guided unbraiding and possible
+de-radicalization**. They are not strictly synonymous. Unbraiding may address a
+correction-resistant relation that has not crossed a radicalization threshold;
+de-radicalization is a broader outcome that may require social, clinical,
+material, behavioural, and security work beyond this method. Neither name
+establishes that a person is radicalized, dangerous, clinically indicated, or
+likely to benefit.
+
+##### The individualized braid map
+
+The diagnostic interview can begin with the local relations visible at one
+selective discontinuity:
+
+```text
+observation
+↔ causal classification
+↔ moral verdict
+↔ sacred value
+↔ affective actuation
+↔ identity and belonging
+↔ authorized interpreter or authority
+↔ prohibited conclusion
+↔ defensive explanation
+↔ expected action
+```
+
+The map is not an inference from one reaction to an entire Culture Program. It
+locates a few relations that may be suitable for further consensual inquiry:
+
+- What changed when this example appeared?
+- What did the example seem to accuse the person or group of?
+- Which conclusion became morally impermissible?
+- What would conceding only this bounded point appear to threaten?
+- Which evidential standard applied in the neutral case, and did it change?
+- Which authority, audience, or imagined judgment became present?
+- Does the current explanation increase understanding, or only provide escape
+  from the conclusion?
+
+These questions seek a transition from the automatic **press-secretary** defence
+toward the [interpreter and auditor
+functions](#reflective-roles-of-reason-press-secretary-interpreter-and-auditor).
+The person first makes the verdict-producing relation observable; only then can
+it be tested, retained, narrowed, revised, or rejected.
+
+##### Incremental separation rather than frontal conversion
+
+A frontal attack on the whole worldview is likely to activate the very braid
+under examination. The alternative is a sequence of bounded causal stories at a
+tolerable activation level. Each pass attempts one small separation:
+
+- observation from authorized classification;
+- classification from identity;
+- affect from compelled action;
+- belonging from required assent;
+- sacred value from one monopolizing interpretation;
+- causal explanation from moral exculpation;
+- criticism of an output from condemnation of the whole person; and
+- acknowledged uncertainty from betrayal.
+
+The proposed micro-sequence is:
+
+```text
+activation
+→ notice activation
+→ remain present without immediate defensive discharge
+→ inspect the causal and cultural braid
+→ test reciprocal standards and reality contact
+→ discover whether bounded revision causes the feared identity catastrophe
+→ recover some authorship over the response
+```
+
+Guided unbraiding does not extract culture from a supposedly cultureless
+individual. It loosens a relation's automatic final authority so that the person
+can inspect and then retain, revise, or reject it under reflective ownership. A
+facilitator must not count agreement with the facilitator as proof of recovered
+authorship.
+
+##### MCIP as one candidate method and selection mechanism
+
+The existing authoritative [MCIP account](#22-epistemic-emancipation-and-mcip)
+defines **Mirror → Cut → Invite → Promise** as a proposed micro-method for
+preserving the person, interrupting one protected connection, returning the next
+epistemic operation to the person, and making continued inquiry survivable. Its
+relation to the present proposal is fitted but non-exclusive:
+
+- **Mirror:** make the installed image, affect, rule, or contradiction
+  perceptible without humiliating the person;
+- **Cut:** separate one fused relation and interrupt its automatic finality;
+- **Invite:** reopen agency by allowing the person to inspect, choose, and
+  generate alternatives; and
+- **Promise:** connect correction to a viable, truth-answerable future so that
+  losing one certainty does not entail psychic or social annihilation.
+
+The contrastive diagnostic adds a candidate **selection mechanism**: it can
+identify which causal story and which fusion may be ready for a careful MCIP
+pass. MCIP remains one possible method, not the method required by the theory;
+other psychologically responsible approaches may fit the person, setting, and
+risk profile better. The more detailed `CTD-0001` MCIP elaboration remains a
+candidate document and is not silently promoted by this section.
+
+The bounded [Freud--Bernays
+analogy](0040-mythology-construction.semantic-definition.md#freud-and-bernays-unbraiding-and-rebraiding)
+provides another bridge. Freud supplies an image of structured inquiry into
+associations, defences, attachments, repetitions, and affective payoffs; Bernays
+supplies the complementary image of weaving symbols, prestige, authority,
+identity, and conduct. This does not make Freud the inventor of social
+deprogramming, psychoanalysis the required treatment, Bernays a mere applied
+Freudian, or political commitment a pathology. The narrower intuition is that
+contradicting a surface proposition often leaves the relations sustaining it
+untouched.
+
+##### Transfer to a self-propagating epistemic audit
+
+The hoped-for turning point is the person's own question:
+
+> **If I did not see that, what else did I not see?**
+
+This changes the agent of inquiry. The guide ceases to be the sole source of
+counterexamples; the person begins to notice activation, reconstruct an installed
+rule, trace its authority, perform position reversal, seek reality contact, state
+defeat conditions, and revise without waiting for an examiner.
+
+> A **self-propagating epistemic audit** begins when a person generalizes one
+> local experience of recovered sight into self-initiated examination of other
+> possible blind spots through reciprocal standards, reality contact, and stated
+> defeat conditions.
+
+“Self-administered psychoanalysis” remains an image rather than a clinical claim.
+The auditor function has transferred only where the new inquiry remains
+corrigible and can examine its own method, sources, guide, and successor
+interpretation.
+
+Several local successes may produce the proposed **avalanche**:
+
+```text
+one acknowledged blind spot
+→ bounded recognition of fallibility
+→ curiosity about adjacent blind spots
+→ self-generated counterexamples
+→ weakening of recursive defences
+→ accelerating audit across the braid
+→ recovery of epistemic agency
+```
+
+The hypothesis is plausible but unproven. Collapse of one load-bearing certainty
+can instead generalize into “everything was a lie,” indiscriminate distrust,
+nihilism, paranoia, shame, social isolation, or rapid capture by a replacement
+program promising certainty. Mirror and Promise, therapeutic alliance where
+appropriate, continuing social support, and truth-answerable successor
+commitments therefore protect against a semantic vacuum. The goal is not an
+empty CPU but an adult, corrigible cultural configuration able to sustain
+belonging, moral seriousness, and action without outsourcing final judgment.
+
+The healthier formulation is not “nothing I believed can be trusted,” but:
+
+> **My felt certainty is evidence about my installed evaluator, not the final
+> court. I can inspect how the certainty was produced.**
+
+##### Directional symmetry: unbraiding can also radicalize
+
+> **Caution:** Controlled activation, induced doubt, separation from an
+> incumbent braid, and a self-propagating search for further blind spots are
+> epistemically side-indeterminate. Guided unbraiding can be used to radicalize
+> as well as to support possible de-radicalization.
+
+The common opening is:
+
+```text
+culturally loaded contradiction activated
+→ incumbent interpretation becomes questionable
+→ affect, identity, authority, and belonging links loosen
+→ “If I did not see this, what else did I not see?”
+→ further parts of the world are reinterpreted
+```
+
+What matters is the recursive loop installed through that opening:
+
+```text
+SELF-ANALYSIS LOOP
+possible blind spot
+→ reconstruct inference and installed evaluator
+→ test reciprocal standards and position reversal
+→ seek independent reality contact
+→ state defeat conditions
+→ revise when the account loses
+→ audit the new interpretation and its guides
+
+SELF-DECEPTION LOOP
+selected contradiction
+→ treat it as proof that the former world was fabricated
+→ reinterpret evidence through a successor revelation
+→ narrow credible sources and authorities
+→ classify objections as blindness, corruption, or manipulation
+→ remove or displace defeat conditions
+→ experience increasing certainty as increasing independence
+→ seek further confirmation of the installed account
+```
+
+The second loop can sincerely feel like awakening, independent research, or
+self-analysis. Reasoning remains active and productive, but the recursive search
+is organized so that the successor account cannot lose.
+
+MCIP inherits the same symmetry:
+
+| Operation | Corrigible use | Radicalizing capture |
+|---|---|---|
+| **Mirror** | Makes the braid and the guide's framing inspectable | Curates only successor-favouring contradictions and presents them as the whole field |
+| **Cut** | Loosens one relation's finality while preserving reality contact | Severs corrective relationships, rival authorities, and trusted sources |
+| **Invite** | Restores choice, including rejection of the guide's interpretation | Offers agency only inside a predetermined frame |
+| **Promise** | Connects correction to a viable, plural, truth-answerable future | Offers belonging, purity, status, salvation, or certainty conditional on successor assent |
+
+Blindfold removal, awakening, revelation, courage, critical thought, independent
+research, emotional release, and the experience that scattered facts suddenly
+form one pattern cannot decide the direction. Nor may the analyst label the
+favoured path *reason* and the disfavoured path *un-reason* ad hoc. The
+longitudinal discriminator is whether the resulting loop:
+
+- applies standards reciprocally, including to favoured cases;
+- permits independent evidence and legitimate rival explanations;
+- states conditions under which conclusions would lose or change;
+- changes belief, authority, and practice after reality collision;
+- allows the new program, facilitator, and community to become audit objects;
+- preserves refusal, dissent, appeal, and exit; and
+- expands rather than monopolizes the person's correction interfaces.
+
+> **Unbraiding creates an epistemic opening. Possible de-radicalization
+> cultivates a self-correcting analysis loop; radicalization installs a
+> self-confirming deception loop that experiences itself as self-analysis. The
+> direction must be tested through symmetry, defeat, reality contact, revision,
+> and freedom to reject the new guide.**
+
+##### Necessary separations
+
+**Program capture is not radicalization.** Installed Ideology,
+correction-resistant belief, fanatical commitment, willingness to impose a
+program, behavioural disengagement, and preparation for violence are different
+variables. A person may carry protected un-reality without political activity;
+be fanatically committed without intending violence; disengage while retaining a
+doctrine; revise doctrine while retaining social ties; commit violence for
+instrumental, criminal, personal, or situational reasons outside this mechanism;
+or use ideological language without a deeply installed braid. The diagnostic and
+unbraiding proposal must not become a universal theory of radicalization.
+
+**Cultural diagnosis is not violence-risk assessment.**
+
+```text
+contrastive correction-interface probe
+→ maps activation, protected classifications, and corrigibility
+
+professional violence-risk assessment
+→ separately examines behaviour, intent, target, capability, preparation,
+  imminence, opportunity, history, escalation, and protective factors
+```
+
+Neither emotional activation nor failure to concede establishes violent intent.
+A calm, instrumental actor can pose danger without the proposed epistemic
+pattern. Any real risk decision requires its own lawful authority, qualified
+assessment, multiple sources, due process, appeal, and proportionate response.
+
+**Belief work is only one intervention layer.** Radicalization, disengagement,
+and reintegration can involve belonging, status, grievance, trauma, humiliation,
+family, friendship, livelihood, adventure, protection, coercion, online
+reinforcement, organizational opportunity, and practical barriers to leaving.
+Guided unbraiding cannot replace:
+
+- safety planning and risk management;
+- treatment of trauma or other clinical needs;
+- family and peer work;
+- credible alternative relationships and communities;
+- education, employment, housing, and legal support; or
+- behavioural disengagement and reintegration.
+
+Some people may require safety, stabilization, and belonging before a sacred
+causal story can be examined. For others, a contradiction in the story may be
+the first opening. The sequence must be individualized rather than ideologically
+standardized.
+
+##### Neighbouring de-radicalization work and bounded novelty
+
+The defensible claim is not that existing practitioners have no causal models.
+There are structured professional-judgment tools, case-management programs,
+identity and complexity interventions, and long practical experience. The
+narrower gap is the absence of a settled, well-validated architecture connecting
+individualized latent-program diagnosis, a specified change mechanism, and
+durable outcomes.
+
+A [2025 tertiary review of preventing and countering violent-extremism
+interventions](https://jd.journals.publicknowledgeproject.org/jd/index.php/jd/article/view/1027)
+reports that only 17 evaluations survived screening from 11,836 initial records.
+It describes belief-focused de-radicalization as more difficult and generally
+less successful than disengagement and social reintegration, while identifying
+education, vocational work, socialization, therapeutic alliance, counselling,
+trained practitioners, family involvement, and risk--needs--responsivity. This
+argues against treating one questionnaire as a complete intervention.
+
+A [Campbell systematic review of case-management
+interventions](https://www.campbellcollaboration.org/review/case-management-interventions-seeking-to-counter-radicalisation-to-violence-and-related-forms-of-violence-a-systematic-review)
+found no eligible effectiveness studies, although it found implementation
+evidence. A [2024 systematic review of CVE programme
+evaluations](https://www.sciencedirect.com/science/article/pii/S1756061624000260)
+also reports limited evidence and weaknesses in self-assessment while identifying
+belonging, trust, identity, critical thinking, and self-reflection as important
+themes.
+
+The proposal has concrete neighbours:
+
+- the UK prison and probation system's pilot of the [Motivational and Engagement
+  Intervention and Healthy Identity
+  Intervention](https://www.gov.uk/government/publications/intervening-with-extremist-offenders-a-pilot-study);
+- integrative-complexity work such as [Being Muslim Being
+  British](https://radicalisationresearch.org/research/preventing-violent-extremism-through-value-complexity/),
+  which tests exercises holding multiple values and perspectives; and
+- structured professional-judgment instruments such as VERA-2R, ERG22+, TRAP-18,
+  IVP, and MLG-V2, whose validation remains insufficient and vulnerable to
+  low-base-rate false positives according to a [recent systematic
+  review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12682207/).
+
+The candidate contribution is therefore the conjunction of **structurally
+matched causal transfer**, **case-indexed correction discontinuity with optional
+affective marking**, an **individualized braid map**, and **guided transfer toward
+a self-propagating correction practice**. It should be compared with neighbouring
+methods rather than advertised as replacing them.
+
+##### Compact working model
+
+```text
+ORTHOGONALITY
+ordinary relational conduct underdetermines latent cultural programming
+        ↓
+OBSERVABILITY PROBLEM
+different installed programs can look alike during low activation
+        ↓
+CONTRASTIVE PROBE AND CULTURE PROGRAM FINGERPRINT
+neutral causal form → differently loaded matched cases
+        ↓
+SELECTIVE DISCONTINUITY
+changed standards + optional affect + failed reciprocal correction
+        ↓
+INDIVIDUALIZED BRAID MAP
+classification ↔ affect ↔ sacred value ↔ identity ↔ authority ↔ defence
+        ↓
+CONSENSUAL GUIDED UNBRAIDING
+notice → tolerate → inspect → separate → reality-test → revise
+        ↓
+POSSIBLE DE-RADICALIZATION
+reflective ownership and reciprocal correction recover where capture was present
+        ↓
+TRANSFER OF THE AUDITOR FUNCTION
+“If I did not see that, what else did I not see?”
+        ↓
+POSSIBLE SELF-PROPAGATING AUDIT
+further parts of the braid become self-audited
+        ↓
+OPEN REBRAIDING
+truth-answerable commitment, belonging, meaning, and action without new closure
+```
+
+The model is a conjecture. It joins detection beneath the ordinary interpersonal
+surface to a possible recovery mechanism without making detection prove
+radicalization, making unbraiding sufficient for de-radicalization, or making
+agreement with a guide evidence of emancipation.
+
 ### 12. Functional morphology of mechanical solidarity
 
 **Functional morphology of mechanical solidarity** names the organization of the
@@ -4869,6 +6306,15 @@ fixed national, racial, class, religious, or left--right doctrinal content:
 > realization of the functional morphology of mechanical solidarity, in which a
 > centralized or distributed directing function claims exclusive authority to
 > incarnate, interpret, and act for the collective self.**
+
+This is the morphological **form axis**. The generalized
+[**Ideology**](0060-culture-program-ecology.semantic-definition.md#ideology-installed-social-un-reality-defended-through-un-reason)
+classifier is the separate semantic--epistemic **content axis**: a sufficiently
+installed Culture Program recurrently generates authorized social un-reality and
+recruits un-reason to defend its operative authority. Ideology can exist in a
+non-Fascist form, while Fascism can operate through openly avowed domination that
+does not satisfy the Ideology gate. A formation may satisfy both, but neither
+classification follows from the other.
 
 Fascism and the functional morphology are result classifications. The
 [**polity-scale *Gleichschaltung*
@@ -6357,6 +7803,47 @@ the main processor's acquired capacity to inspect and revise its trust architect
 within full lifted capture; it is not absence of programming, absence of universal
 meta-authority, or reduced occupancy of the single slot.
 
+#### Cognitive liberty under low-visibility ideological power {#cognitive-liberty-under-ideological-power}
+
+The normative problem is deeper than exposure to one false proposition. It
+concerns practical access to the pre-reflective conditions under which a person
+notices, trusts, classifies, reasons, and experiences a conclusion as obvious.
+The originating author's deliberately crude phrase *“ins Hirn scheißen”* records
+the felt absence of authorization: culture producers can install affective
+triggers, classifications, and correction barriers without the recipient ever
+knowingly granting them cognitive jurisdiction. The phrase is provenance
+language, not a technical term or attribution of deliberate abuse in every case.
+
+The bounded theoretical translation is:
+
+> **The cognitive-liberty problem arises when an actor, programme, institution,
+> or infrastructure acquires covert, unaccountable, correction-resistant, or
+> practically inescapable influence over the formation and operation of another
+> person's evaluative and epistemic machinery.**
+
+This does not presuppose a culture-free mind or require explicit consent to every
+ordinary influence. Socialization, language, education, trust, imitation, and
+persuasion are unavoidable and can enlarge agency. The stronger concern arises
+where influence is hidden or strategically engineered, monopolizes trusted
+routes, defeats reflective inspection, imposes large refusal costs, or blocks
+correction, appeal, and exit.
+
+The [ideological-power scale
+bridge](#ideological-power-local-capture-scale-bridge) explains the relevant
+subject-side pathway. Cognitive liberty is the counter-capacity: reflective
+distance sufficient to notice the installed judgment, recover self-authored
+formulation, inspect provenance and jurisdiction, compare rival accounts, and
+revise the trust architecture without becoming incapable of social trust or
+collective participation.
+
+At constitutional scale this becomes one reason for the
+[*Schutzbalken*](0060-culture-program-ecology.semantic-definition.md#1321-democracy-as-schutzbalken-gegen-die-macht)
+to operate before overt coercion, while plural signals, reflection, effective
+correction, refusal, appeal, and exit remain available. The protector stays
+inside the symmetry rule: measures advertised as cognitive liberty can become
+ideological-power instruments if they monopolize truth, pre-classify legitimate
+thought, censor rival correction, or make their own authority unreviewable.
+
 #### Reflective roles of reason: press secretary, interpreter, and auditor
 
 The originating suspicion should be stated in its forceful form:
@@ -6587,6 +8074,12 @@ The person is usually bound by more than a false proposition. The binding struct
 For this reason, fact correction alone often fails. It attacks one output while leaving the trust architecture, social reinforcement, and identity investment intact.
 
 **MCIP**—**Mirror → Cut → Invite → Promise**—is a proposed conversational method for making difficult truths psychologically digestible while returning epistemic authorship. It is a new synthetic mnemonic, not an established method under that name. Its elements have family resemblances to **Carl Rogers and Richard Farson's** [active listening](https://www.gordontraining.com/wp-content/uploads/ActiveListening_RogersFarson.pdf), **William R. Miller and Stephen Rollnick's** [motivational interviewing](https://www.guilford.com/excerpts/miller2_old_ch1.pdf?t=1), **J. L. Austin's** account of [speech acts and promises](https://openlibrary.org/books/OL48603914M/How_To_Do_Things_With_Words), and Lacanian uses of the *cut*. MCIP is not presented by any of those authors, and its four steps should not be treated as an authorized restatement of their methods.
+
+The fitted [guided-unbraiding proposal](#guided-unbraiding-and-possible-deradicalization)
+uses the contrastive diagnostic as one possible selector for an MCIP pass and
+tests whether the auditor function transfers to the person. This does not make
+every MCIP conversation de-radicalization, make MCIP a validated treatment, or
+remove the method's radicalizing mirror.
 
 1. **Mirror:** Recognize the person's felt reality, value, fear, concern, or legitimate grievance without automatically affirming the associated factual claim.
 2. **Cut:** Introduce one precise discrepancy, contradiction, failed prediction, hidden assumption, or concrete reality check. Cut the protected connection, not the person's dignity.
@@ -7357,6 +8850,8 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Un-reason** | Proposed mechanism in which reasoning remains active but is recursively organized against reciprocal standards and independent correction. | Extends the press-secretary problem from a possible person-level operation to arguments, programmes, fields, and institutions. It is not a third constitutional orientation; its primary semantic home is *Epistemic Constitution*. |
 | **Epistemic emancipation** | Lifting from full capture by shared concrete answers to full capture by a reality-answerable generator of answers. | Names the practical unbraid/rebraid problem through which inherited answers lose finality without necessarily disappearing. |
 | **MCIP** | Mirror, Cut, Invite, Promise. | Proposed micro-method for restoring agency while keeping the successor weave and its interpreters corrigible. |
+| **Guided unbraiding and possible de-radicalization** | Guided unbraiding is the hypothetical consensual process of mapping and loosening selected automatic relations around an activated conclusion; possible de-radicalization is the aspirational recovery outcome only where radicalizing capture is independently present. | Uses MCIP as one candidate method while preserving the radicalizing mirror, violence-risk separation, research status, consent, safeguards, and falsification conditions. |
+| **Self-propagating epistemic audit** | Transfer of the auditor function into self-initiated examination of further possible blind spots through reciprocal standards, reality contact, and defeat conditions. | Proposed healthy avalanche outcome; can instead become indiscriminate distrust or a self-confirming successor loop. |
 | **Full-speech answerability audit** | Lacan's empty/full-speech distinction aligned, without identification, to Avery's obligation/responsibility contrast. | Tests whether a role, rule, office, or Cause is being used as an alibi or consciously assumed in an answerable judgment. Full speech is not guaranteed truth, and legitimate obligation is not displaced authorship by definition. |
 | **Piety toward the real** | Humble willingness to let complex reality correct concepts, stories, institutions, and conviction. | Supplies the normative standard and final right of refusal. |
 | **Holistic structural realism** | Model-centered epistemology in which concepts and operations are tested through prediction, surprise, and revision. | Supplies the positive reality-correction loop used by this entry. |
@@ -7450,6 +8945,27 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Individual source and receiver:** the local bigOther within homo duplex.
 - **Shared communication interface:** Lacan's big Other, functionally translated as the on-the-wire symbolic protocol.
 - **Starting condition:** unavoidable epistemic dependence.
+- **Latent-state observability problem:** the ordinary interpersonal “Newtonian”
+  coordinate and the cultural-symbolic coordinate of *homo duplex* can be
+  substantially orthogonal, so calm conduct may underdetermine the classifications
+  and authority relations that become operative under culturally loaded
+  conditions.
+- **Proposed diagnostic:** the contrastive correction-interface probe first
+  confirms comprehension of a disclosed causal form through relatively uncharged
+  cases, then tests whether correction practice changes selectively across
+  differently culture-loaded implementations. It produces only a bounded latent
+  Culture Program profile and requires repeated pattern, rival-cause
+  discrimination, and separate upward attribution.
+- **Culture Program fingerprint:** the typed distribution of selective
+  discontinuities across neutral and differently program-loaded cases. Repeated
+  A-specific protected exceptions can raise the likelihood of A's installation
+  or load-bearing status, while capture remains a stronger inference requiring
+  displaced correction or authorship.
+- **Proposed intervention:** guided unbraiding maps and loosens selected automatic
+  braid relations without compelling a successor conclusion; possible
+  de-radicalization is its aspirational outcome only where radicalizing capture
+  is independently established. MCIP is one candidate method, and success means
+  durable reflective ownership rather than agreement with the guide.
 - **Social environment:** a mechanical-solidarity field, often combined with organic differentiation.
 - **Durkheim challenge:** progressive preponderance and inverse development are
   treated as contestable historical hypotheses that may be wrong; Du Picq's
@@ -7810,6 +9326,20 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
 - **The Quantum Mechanics of Psychology**, the laser/clockwork correspondence,
   collective effervescence as a laser moment, and the claim that a laser moment can
   regenerate the moral protocol used by a clockwork system;
+- **latent Culture Program profile**, **contrastive correction-interface probe**,
+  **culturally indexed correction discontinuity**, and **affectively marked
+  correction discontinuity** as proposed diagnostic terms, together with the
+  four-way distinction among continuous application, valid differentiation,
+  uncertain suspension, and protected exception;
+- **Culture Program fingerprint** as the typed multi-case distribution of
+  program-indexed correction discontinuities, protected directions, activation
+  thresholds, affective qualifiers, and recovery conditions--not a unique,
+  immutable, or already validated identifier;
+- **guided unbraiding and possible de-radicalization**, the **individualized
+  braid map**, **self-propagating epistemic audit**, **avalanche hypothesis**, and
+  the contrast between a **self-analysis loop** and **self-deception loop** as
+  proposed intervention and transfer concepts rather than established clinical
+  methods or outcomes;
 - **bounded laser synchronization** and **generalized and jurisdictionalized laser
   synchronization**, together with their typed relationship to fusion pressure;
 - **weak-field gravity and strong-field witnesses** as an observability analogy,
@@ -8080,7 +9610,11 @@ orientation**:
 
 > A **reality-anchored, truth-seeking epistemic constitution** makes sincere disagreement visible and keeps every person, model, authority, and institution corrigible by mind-independent reality.
 
-> A **systemic-lying epistemic constitution** organizes public speech, authority, incentives, memory, and social sanctions so that an authorized representation displaces reality and ordinary people reproduce it through conformity, concealment, and ritual participation.
+> A **systemic-lying epistemic constitution** recurrently generates, selects,
+> authorizes, protects, and replaces organized un-reality because its correction
+> relations subordinate independent truth to usefulness, loyalty, control, or
+> authority; public speech, incentives, memory, institutions, and ordinary
+> participation reproduce that inversion.
 
 The second is the **life-drive–death-drive constitutional orientation**, which
 asks what the shared order organizes motivation to reproduce:
@@ -8100,13 +9634,18 @@ truthful yet death-driven, or systemically lying while claiming life, peace,
 health, or flourishing. The two orientations therefore classify different
 properties and must not be collapsed.
 
+The project-specific [**theoretical *un-* operator**](#theoretical-un-operator)
+names a retained form whose ordinary governor has been displaced: X's machinery
+and authority-claim remain while a non-X principle redirects their operation.
+It is a restricted diagnostic construction, not the ordinary meaning of every
+word beginning with *un-*.
+
 Within the truth orientation, **un-reason** names a proposed internal failure
 mechanism: inferential, conceptual, interpretive, or critical intelligence remains
-active, but is organized to protect a conclusion, authority, identity, or
-programme from the reciprocal standards and independent correction that give
-reasoning epistemic authority. It explains how intellectual sophistication can
-strengthen rather than repair a self-sealing order. Un-reason is a mechanism, not
-a third constitutional orientation.
+active and retains reason's appearance and authority-claim, but
+conclusion-protection displaces truth-correction as its governor. It explains how
+intellectual sophistication can strengthen rather than repair a self-sealing
+order. Un-reason is a mechanism, not a third constitutional orientation.
 
 **Un-reality** names a related cross-scale state or output: an authorized
 representation retains operative public reality-status and continues to classify
@@ -8114,7 +9653,8 @@ facts, direct decisions, and allocate burdens, resources, permissions, status, o
 jurisdiction, while independent evidence and consequence can no longer reliably
 reduce its authority or revise its use. It is not a third orientation either.
 Un-reason can help produce or maintain un-reality; a systemic-lying constitution
-is the larger meta-order that recurrently produces **organized un-reality**.
+is the larger meta-order that recurrently generates, selects, authorizes,
+protects, and replaces **organized un-reality**.
 After disclosure, an acknowledged false account can remain operative through
 **procession inertia**, while an independently defeated but unacknowledged
 account can persist through **correction nullification**: the correction is
@@ -8809,6 +10349,360 @@ and symbolic articulation can emerge. The light names fallible, plural, and
 corrigible contact with objective truth rather than a rational subject's or
 institution's sovereign possession of it.
 
+### 9A. Cross-cutting semantic and epistemic architecture {#cross-cutting-semantic-epistemic-architecture}
+
+This section is the authoritative home for the project's restricted theoretical
+*un-* operator and for the typed relation among communicative operation,
+selection orientation, inferential mechanism, operative epistemic state,
+installed stock, and constitutional meta-order. The operator is more general
+than the truth orientation: *un-reason* and *un-reality* are its applications in
+the present document, not the whole operator. The [*Linguistic Tricks*
+inventory](0030-linguistic-tricks.semantic-inventory.md) owns the detailed
+communicative operations and **instrumental untruthfulness** as a selection
+orientation; this document owns their cross-scale relation and the complete
+positive interface joining reasonable critical discussion to independent
+reality-answerability.
+
+#### The theoretical *un-* operator: retained form and displaced governor {#theoretical-un-operator}
+
+**theoretical *un-* operator** *noun phrase*<br>
+**Status:** proposed semantic and diagnostic operator
+
+The project uses *un-* in a deliberately restricted sense. It does not mean
+simple absence or opposition. The author's controlling image is:
+
+> **Something slips into the skin of X.** The recognizable form, machinery,
+> and authorized position of X remain, but a different inner principle governs
+> their operation.
+
+The full definition is:
+
+> **Un-X is a form that continues to occupy the appearance, machinery, and
+> authorized position of X while a different inner principle takes control and
+> redirects that machinery toward a function incompatible with ordinary X.**
+
+Its compact form is:
+
+> **Un-X is X-shaped operation governed from within by a non-X principle.**
+
+The typed construction is:
+
+```text
+retained X-form
++ retained claim to X-authority
++ displaced inner governing principle
++ contrary or distorted operative result
+= un-X
+```
+
+This formulation separates a practice's machinery from the constitutive purpose
+that should govern it. It is more precise than describing *un-X* only as X's
+immanent self-negation: that phrase names the resulting inversion but does not
+identify what persists, what has been displaced, what replaces it, or how
+operation changes.
+
+The reason case makes the distinction concrete:
+
+| Form | Outer form | Governing inner function |
+|---|---|---|
+| **Reason** | Inference, explanation, evidence, distinctions | Discover and correct what is true; the conclusion can lose. |
+| **Not-reason** | No reasoning operation | Impulse, silence, sensation, pre-articulate experience, or unsupported assertion. This category is not inherently pathological. |
+| **Un-reason** | Inference, explanation, evidence, distinctions | Protect a predetermined or load-bearing conclusion; the conclusion must not lose. |
+
+For un-reason, the change can be specified exactly:
+
+- **negated:** reason's answerability to independent correction;
+- **exceeded:** explanatory ingenuity escapes the constraints that should stop
+  it; and
+- **reversed:** evidence no longer determines the conclusion; the protected
+  conclusion determines what evidence may mean.
+
+```text
+REASON
+evidence -> evaluates conclusion -> conclusion may change
+
+UN-REASON
+protected conclusion -> evaluates evidence -> evidence must change meaning
+```
+
+The substituted governor need not be a conscious lie. If a speaker knows the
+protected conclusion is false, un-reason can be reason-shaped lying. If the
+speaker sincerely believes it, the same operative relation can be
+reason-shaped rationalization or self-deception. Deliberate deception, sincere
+belief, institutional role performance, and mixed production therefore remain
+separate causal and attribution questions.
+
+This construction also separates **truth-content** from the
+**correction-relation**. A proposition can happen to be true while being held
+through un-reason or authorized un-really if its defenders or institutions have
+made it incapable of losing. A false proposition can remain outside both
+categories when it is openly testable and correction changes belief and
+operation. The pathology can lie in how a proposition is authorized, defended,
+and corrected rather than in its present truth value alone.
+
+##### Worked analogies and boundaries
+
+The operator has close functional neighbours without making them identical.
+The analogies below expose different parts of the retained-skin construction;
+they do not claim that each ordinary-language term satisfies every institutional
+condition of the theoretical operator.
+
+**Dead / not dead / undead**
+
+```text
+DEAD
+a corpse without animation
+
+NOT DEAD
+an ordinarily living being
+
+UNDEAD
+the form and condition of the corpse remain,
+but something continues to animate it
+```
+
+The undead is not simply alive again. Animation has entered the “skin” of death
+without restoring ordinary life.
+
+***Mensch* / *Nicht-Mensch* / *Unmensch***
+
+```text
+MENSCH
+a human whose capacities remain joined to recognizable humanity
+
+NICHT-MENSCH
+an animal, machine, god, or another being outside the human category
+
+UNMENSCH
+a human being whose human appearance and capacities remain,
+but whose operative relation to other persons has been occupied
+by cruelty, instrumentalization, or monstrosity
+```
+
+The *Unmensch* is disturbing precisely because it is not an alien merely
+pretending to be human. The monstrosity operates through genuinely human
+intelligence, language, organization, and agency. Ordinary German *Unmensch* is
+a pejorative noun for a cruel or inhumane person; Žižek's specialized *inhuman*
+names an excess inherent to humanity. Neither ordinary usage alone establishes
+the project's complete retained-form operator.
+
+**Reason / not-reason / un-reason**
+
+```text
+REASON
+evidence tests the conclusion;
+the conclusion can lose
+
+NOT-REASON
+no inferential process is operating:
+a sensation, scream, silence, impulse, or unsupported assertion
+
+UN-REASON
+arguments, evidence, distinctions, and explanations remain,
+but conclusion-protection governs their use;
+the conclusion cannot lose
+```
+
+A simple hypothetical shows the functional reversal:
+
+```text
+Prediction: The world will end on Tuesday.
+Tuesday passes normally.
+
+Reason:
+The prediction failed; revise or abandon the theory.
+
+Un-reason:
+Our faith prevented the catastrophe,
+so the apparent failure confirms the theory.
+```
+
+The auxiliary explanation occupies the skin of reason while preventing
+correction. Not every auxiliary hypothesis is un-reason: the classification
+requires a larger pattern in which no reciprocal evidence, failed prediction,
+or consequence is permitted to defeat the protected account.
+
+**Democracy / non-democracy / sham or “un-democracy”**
+
+*Un-democracy* is not standard English, but the contrast makes the operator
+visible:
+
+```text
+DEMOCRACY
+elections and institutions permit rulers to lose power
+
+NON-DEMOCRACY
+an openly declared monarchy or dictatorship
+
+SHAM OR “UN-DEMOCRACY”
+elections, parties, courts, parliament, and democratic language remain,
+but the system is arranged so that the ruling power cannot lose
+```
+
+Established descriptions such as *sham democracy* or *electoral
+authoritarianism* should normally be preferred in empirical classification.
+The analogy shows domination occupying democratic machinery while continuing
+to claim democratic authority; one irregularity or adverse election result is
+insufficient.
+
+**Science / non-science / pseudoscience**
+
+English uses *pseudo-* rather than *un-* here, but the construction is a close
+functional neighbour:
+
+```text
+SCIENCE
+method and evidence can defeat the theory
+
+NON-SCIENCE
+poetry, ritual, music, or another practice making no scientific claim
+
+PSEUDOSCIENCE
+experiments, graphs, citations, technical vocabulary, and experts remain,
+but the protected theory controls what every result is allowed to mean
+```
+
+Pseudoscience is not merely an absence of science. In the strongest cases it
+occupies the appearance and authority-position of science while a different
+internal rule governs correction. Error, immaturity, or later refutation does
+not by itself establish pseudoscience.
+
+**Freud's *heimlich* / *unheimlich***
+
+Freud's [*The Uncanny*](https://www.mit.edu/~allanmc/freud1.pdf) begins with the
+semantics of *heimlich* and *unheimlich*. The uncanny is not merely wholly
+external or unfamiliar: something formerly familiar, often concealed or
+repressed, returns in an estranged form. The familiar has become internally
+alien. A [scholarly
+overview](https://www.degruyter.com/document/doi/10.1515/opphil-2022-0252/html)
+supplies a modern interpretive bridge.
+
+This is not an exact instance of the project operator: *unheimlich* does not
+necessarily retain the authorized institutional position of *heimlich*. It is a
+semantic precursor to the image:
+
+> **The recognizable form remains, but something alien has appeared within it.**
+
+The compact boundary is:
+
+> **Not-X stands outside X. Un-X occupies X's form and authority-position while
+> redirecting its machinery according to a principle that ordinary X would
+> reject.**
+
+Or, in the author's image:
+
+> **Un-X is something operating inside the skin of X and speaking with X's
+> authority, although its inner rule and effective function have changed.**
+
+This is not a universal rule for words beginning with *un-*. English and German
+use the prefix for absence, opposition, deprivation, reversal, and other
+relations. *Unknown*, for example, ordinarily means only “not known.” A proposed
+theoretical *un-X* must satisfy the stronger retained-form and displaced-governor
+test.
+
+##### A compressed research programme and its safeguard
+
+The operator is intellectually productive because it creates a third category
+between X and the absence of X, reveals parasitic use of X's authority, admits
+sincere and distributed production, and makes gradual capture visible:
+
+```text
+retain X's vocabulary, ceremonies, and institutions
+-> claim X's legitimacy
+-> redirect X's machinery
+-> produce an outcome X should have prevented
+```
+
+The operator therefore directs diagnosis toward the gap between advertised and
+operative function. Un-reason needs the authority of reason; un-reality needs
+the authority of reality; pseudoscience needs the authority of science; sham
+democracy needs the authority of democracy. This is parasitic authority, not
+mere accidental resemblance.
+
+```text
+occasional exception
+-> protected exception
+-> asymmetric standard
+-> recursive explanation
+-> correction becomes threatening
+-> conclusion controls evidence
+-> mature un-reason
+```
+
+It also shifts diagnosis from inaccessible intent toward observable operation:
+Can the conclusion lose? Are standards reciprocal? Does evidence change
+practice? Who controls the defeat conditions? Does criticism become
+confirmation? Does an institution preserve the appearance of correction while
+nullifying its effects? Intent remains important, but it is investigated as a
+separate layer.
+
+The prefix consequently acts as a **compressed research programme**. It asks:
+
+- what remains recognizably X;
+- what normally governs X;
+- what has replaced that governing principle;
+- how X's authority is retained;
+- how its operation has been inverted; and
+- why participants may sincerely continue calling it X.
+
+The same research question can be applied, with its own evidence and defeat
+conditions each time, to reason, reality, science, law, democracy, care,
+education, therapy, and other authority-bearing practices: what has retained
+X's skin, machinery, and authority while replacing X's governing principle?
+
+> **The *un-* construction moves the theory from identifying bad content or
+> deceptive actors to analysing captured forms--systems whose visible machinery
+> remains intact while their governing function has been replaced.**
+
+This strengthens symmetry: every programme, including the analyst's preferred
+one, remains subject to the same test. It also suggests a functional remedy. If
+the problem is un-reason, additional arguments can supply additional defensive
+material; correction requires restoring reciprocal standards, independent
+reality contact, and a genuine possibility of losing. If the problem is
+un-reality, public contradiction is insufficient unless it can change records,
+classifications, resources, jurisdiction, and conduct.
+
+The operator must not become a magic prefix for disfavoured phenomena. Every
+proposed *un-X* diagnosis must specify:
+
+1. what recognizable form or machinery of X remains;
+2. which authority or legitimacy of X it continues to claim;
+3. what principle normally governs X;
+4. what alternative principle has taken control;
+5. which function has consequently been inverted or distorted;
+6. how un-X differs observably from both X and not-X; and
+7. what evidence would defeat the classification.
+
+If an *un-X* diagnosis cannot lose, it risks becoming an instance of what it
+purports to diagnose.
+
+##### Intellectual precedents and the project's additional step
+
+The operator combines but does not simply reproduce three semantic precedents:
+
+- **Kant's infinite or indefinite judgment** distinguishes simple predicate
+  denial from affirmation of a non-predicate and opens an indeterminate third
+  domain. The [*Stanford Encyclopedia of Philosophy* discussion of Kant's theory
+  of judgment](https://plato.stanford.edu/archives/spr2023/entries/kant-judgment/)
+  supplies the general distinction; [Mark Siebel's review](https://philpapers.org/rec/SIEKOI-3)
+  cautions that its exact logical gain and interpretation remain disputed.
+- **Žižek's undead and inhuman contrasts** in the project's [local copy of *How
+  to Read Lacan*](https://wwnorton.co.uk/books/9780393329551-how-to-read-lacan) provide the nearest direct semantic
+  precedent: *not dead* differs from *undead*, and *not human* from *inhuman*.
+  Indefinite negation reveals an excess or distortion immanent to the category,
+  but does not yet supply the complete retained-machinery and substituted-governor
+  mechanism.
+- **Freud's *unheimlich*** supplies internal estrangement of the familiar rather
+  than mere external unfamiliarity. It does not supply the full functional or
+  institutional relation.
+
+Culture Mechanics adds the operational step: X's form, machinery, and authority
+remain while a substituted governing principle reverses or distorts their
+function. The resulting audit identifies retained form, claimed authority,
+normal governor, substituted governor, operative inversion, observable defeat
+conditions, and possible restoration of correction. The complete operator must
+not be attributed to Kant, Freud, Žižek, or Hegel.
+
 #### Un-reason: reasoning that defeats the conditions of reason
 
 **un-reason** *noun*
@@ -8816,34 +10710,27 @@ institution's sovereign possession of it.
 
 **Un-reason** is an internal epistemic failure mode in which inferential,
 conceptual, interpretive, or critical capacities remain active—sometimes with
-great sophistication—but are organized to protect a conclusion, authority,
-identity, or programme from reciprocal standards and independent correction. It
-is not an absence of reasoning. It is reasoning made self-negating in epistemic
-function: greater skill at explanation, distinction, criticism, and defence helps
-disable the account's capacity to lose.
+great sophistication—but conclusion-protection takes control of their
+operation. Arguments, evidence, distinctions, citations, and criticism retain
+the recognizable machinery and authority-claim of reason while a conclusion,
+authority, identity, or programme is protected from reciprocal standards and
+independent correction.
 
-> **Un-reason is reason's power operating against the conditions under which reasoning can correct itself.**
+> **Un-reason is reason-shaped operation governed by the requirement that a
+> protected conclusion survive irrespective of what independent correction
+> should do to it.**
 
-The term is constructed by extending the **indefinite-judgment pattern** Žižek
-uses immediately around the cited “Night of the World” remark in *How to Read
-Lacan*. His contrasts between *not dead* and *undead*, and between *not human* and
-*inhuman*, distinguish a simple external negation from a disturbing third domain
-in which the negated quality persists in an internally transformed form. Applied
-here:
-
-| Form | Meaning in this project |
-|---|---|
-| **Reason** | Inferential and interpretive activity held answerable to logical consistency, explicit premises, reciprocal standards, relevant evidence, alternative accounts, consequences, and correction appropriate to the question. |
-| **Not-reason** | Reasoning is absent or not currently operative: sensation, affect, impulse, silence, pre-articulate experience, incapacity, or an unsupported assertion may fall here. This category is not inherently pathological. |
-| **Un-reason** | Reasoning remains operative, but its concepts, premises, burdens, exceptions, or standards are arranged asymmetrically or revised recursively so that a protected account cannot be defeated. |
-
-The hyphen therefore marks a project-specific construction modelled on Žižek's
-semantic pattern; **un-reason is not Žižek's term, not Hegel's term, and not a
-claim that either thinker proposed this mechanism**. Nor is subjective Night
-itself un-reason. Night names the opaque, negative, and generative inward ground
-from which many forms of articulation can emerge; un-reason names one possible
-organization of articulated thought after it has entered justificatory and social
-circulation.
+Its epistemic result can still be described as self-negating: greater skill at
+explanation, distinction, criticism, and defence helps disable the account's
+capacity to lose. That is the result of the displaced governing principle, not
+the complete definition. The [theoretical *un-* operator](#theoretical-un-operator)
+owns the reason/not-reason/un-reason contrast, the retained-skin construction,
+and its Kant--Freud--Žižek precedents. **Un-reason is not Žižek's term, not
+Hegel's term, and not a claim that either thinker proposed this mechanism.** Nor
+is subjective Night itself un-reason. Night names the opaque, negative, and
+generative inward ground from which many forms of articulation can emerge;
+un-reason names one possible organization of articulated thought after it has
+entered justificatory and social circulation.
 
 A characteristic programme-level sequence is:
 
@@ -9056,6 +10943,14 @@ Useful questions are:
 This shifts the discussion from the disputed conclusion to the conditions under
 which conclusions may lose.
 
+For the specialized **person-side, neutral-to-culture-loaded comparison**, see
+[*Epistemic Agency*, “Latent Culture Program diagnosis under homo-duplex
+orthogonality”](0020-epistemic-agency.semantic-definition.md#latent-culture-program-diagnosis).
+That proposed contrastive correction-interface probe samples whether a disclosed
+causal form remains corrigibly available across differently loaded cases. It is
+not identical to this generic interface test and does not turn one failed
+exchange into a latent-program, Ideology, radicalization, or person diagnosis.
+
 If the person can name genuine defeaters and later update, the bridge remains. If
 every imaginable result confirms the account, then rational persuasion about that
 protected claim is temporarily impossible—not because communication has ceased,
@@ -9101,12 +10996,12 @@ has been made institutionally incapable of losing. A false claim can remain
 outside un-reality when it is openly testable and correction changes what the
 relevant people and institutions do.
 
-The hyphen marks a project-specific extension of the
-[**indefinite-judgment pattern**](#un-reason-reasoning-that-defeats-the-conditions-of-reason)
-used to construct *un-reason*. The extension is one level displaced. Reasoning
-itself remains active in un-reason; mind-independent reality is never transformed
-or negated by un-reality. What persists in internally inverted form is the
-representation's **socially authorized reality-function**:
+The hyphen applies the project-specific
+[**theoretical *un-* operator**](#theoretical-un-operator) one level displaced.
+Reasoning itself remains active in un-reason; mind-independent reality is never
+transformed or negated by un-reality. What persists is the representation's
+**socially authorized reality-function**, while independent reality-correction
+has been displaced as its governor:
 
 ```text
 reality-anchored order
@@ -9133,7 +11028,7 @@ The relation to neighbouring constructs is typed:
 | **Un-reason → possible un-reality mechanism** | Intelligence can supply distinctions, exceptions, revised burdens, and criticism-as-confirmation through which an authorized account survives contact with consequences. Un-reason is neither necessary nor sufficient: coercion, omission, ritual assent, memory control, synchronized incentives, or simple institutional inertia can also preserve un-reality. |
 | **Un-real representation → un-reality** | One representation can govern one office, policy, discipline, or domain un-really without constituting an entire social meta-order. Specify representation, domain, institution, population interface, and period. |
 | **Organized un-reality** | Multiple human, linguistic, symbolic, incentive, record, and institutional channels are fitted to reproduce un-real reality-status and defeat correction. Organization can be deliberate, emergent, or mixed; the term does not identify a designer. |
-| **Systemic-lying epistemic constitution → organized un-reality** | The systemic-lying pole is the full constitutional meta-order that recurrently produces and protects organized un-reality. Local or domain-specific un-reality does not establish that full ideal type. |
+| **Systemic-lying epistemic constitution → organized un-reality** | The systemic-lying pole is the full constitutional meta-order that recurrently generates, selects, authorizes, protects, and replaces organized un-reality. Local or domain-specific un-reality does not establish that full ideal type. |
 | **Un-reality ↛ conscious universal deception** | Some participants may knowingly lie, others may sincerely believe, doubt themselves, conform, compartmentalize, or follow role incentives. No inference to one conspiracy, motive, pathology, or population guilt follows. |
 | **Un-reality ↛ Babelization** | A domain can be un-real while external observers, rival institutions, shared language, and common adjudication survive. Babelization requires the separate intergroup and anti-Babel threshold. |
 
@@ -9354,30 +11249,91 @@ U0 remains operative + U1 acquires classifications and consequences
 ORGANIZED UN-REALITY EXPANDS: U0 + U1 + U2 + …
 ```
 
-The phrase **counterfeit Bayesian updating** names the project's diagnostic
-contrast, not a new kind of probability calculus. Legitimate Bayesian
-explaining-away compares causally adequate alternatives: independently supported
-evidence for one possible cause can lower confidence in another, while the model,
-priors, observations, and rival explanations remain open to reciprocal testing.
-The counterfeit form treats the authorization or usefulness of U1 as though it
-were independent evidence for U1. The auxiliary account is introduced or
-privileged after the collision, receives asymmetric evidential protection, and
-is then used to cancel the correction that occasioned it.
+###### Ordinary Bayesian explaining-away
 
-An alternative causal explanation is therefore not un-real merely because it
-protects an earlier conclusion or attributes fault. The diagnosis requires the
-full operative relation: U0 already has practical reality-status; relevant
-reality contact threatens it; U1 lacks adequate independent support or is
-shielded from reciprocal testing; authority gives U1 corrective priority; and
-U0, U1, or both continue to classify and allocate despite failed correction. A
-genuine logical contradiction cannot be dissolved merely by inventing another
-cause; premises, scope, authenticity, or the claim itself must be corrected.
+Where causes compete to explain an observation, independent evidence for one
+cause can rationally reduce the explanatory burden or probability assigned to
+another:
+
+```text
+observed outcome O
+        |
+        +--> possible cause A
+        |
+        +--> possible cause B
+
+new evidence E independently supports B
+        |
+        v
+where A and B compete for explanatory share,
+confidence in A may rationally decrease
+```
+
+Explaining-away remains reality-answerable when:
+
+- the alternative has evidence independent of its usefulness in protecting a
+  favoured account;
+- the causal model, observations, priors, and rival explanations remain
+  inspectable;
+- comparable standards apply to favoured and disfavoured causes;
+- the explanation makes predictions or otherwise exposes itself to defeat; and
+- every candidate cause and the larger model can lose when further evidence
+  warrants it.
+
+An alternative is not un-real or un-reasoned merely because it preserves an
+earlier conclusion, is proposed after an unexpected event, or attributes
+responsibility elsewhere. Legitimate causal revision is indispensable to
+truth-seeking.
+
+###### Counterfeit Bayesian explaining-away
+
+The phrase **counterfeit Bayesian updating** names the project's diagnostic
+contrast, not a new probability calculus and not a claim that participants
+compute explicit probabilities. The counterfeit form treats the authorization,
+identity fit, or programme usefulness of U1 as though it were independent
+evidence for U1. The auxiliary account is introduced or privileged after the
+collision, receives asymmetric evidential protection, and is used to cancel the
+correction that occasioned it:
+
+```text
+operative U0 collides with reality
+        |
+        v should weaken or correct U0
+U1 is introduced or privileged
+        |
+        v
+authorization or programme usefulness substitutes
+for adequate independent causal evidence
+        |
+        v
+U1 receives asymmetric evidential protection
+        |
+        v
+U1 explains the correction away
+        |
+        v
+U0 remains operative; U1 may acquire classifications,
+burdens, sanctions, and authority of its own
+```
+
+The diagnosis requires the full operative relation: U0 already has practical
+reality-status; relevant reality contact threatens it; U1 lacks adequate
+independent support or is shielded from reciprocal testing; authority gives U1
+corrective priority; and U0, U1, or both continue to classify and allocate
+despite failed correction. A merely post-hoc explanation, adverse attribution,
+weak hypothesis, disputed model, or ordinary update does not establish the
+mechanism. A genuine logical contradiction cannot be dissolved by inventing
+another cause; premises, scope, authenticity, or the claim itself must be
+corrected.
 
 The cascade types the relation among the surrounding constructs:
 
 | Construct | Role in the cascade |
 |---|---|
+| **Linguistic tricks** | Can supply the wording and reconstructive operations of U1 through selective framing, psychologizing, burden reversal, scapegoating, moral inversion, or script preactivation. |
+| **Instrumental untruthfulness** | Can select, retain, suppress, or route U1 principally for its operative effect over faithful causal representation. |
 | **Un-reason** | Constructs or accepts the auxiliary causal model that protects U0 from the meaning of the correction. |
+| **Un-real representation** | U0 retains operative reality-status through failed correction; U1 becomes another un-real representation if it acquires such authority under the same failed-correction relation. |
 | **Trusted-carrier correction lock** | Gives U1 receiving-field credibility, gain, translation, and distributed routing. |
 | **Correction nullification** | Possible result: the sustained correction cannot change operation. |
 | **Systemic lying** | Can recurrently generate U1, U2, U3, and later defensive accounts when installed representations collide with reality. |
@@ -9421,6 +11377,252 @@ The constitutional lesson is:
 > officially acknowledged, but when it is capable of altering every downstream
 > operation whose justification materially depends upon it.**
 
+#### Typed epistemic architecture: operation, orientation, mechanism, state, stock, and constitution {#typed-epistemic-architecture}
+
+The surrounding terms identify different analytical objects and must not be
+used as synonyms:
+
+| Term | Analytical type | Governing question |
+|---|---|---|
+| [**Linguistic trick**](0030-linguistic-tricks.semantic-inventory.md) | Local communicative operation | How is an audience's reconstruction steered while enough of the appearance or authority of communication remains? |
+| [**Instrumental untruthfulness**](0030-linguistic-tricks.semantic-inventory.md#instrumental-untruthfulness-as-a-communicative-orientation) | Communicative selection orientation | Is communication selected, shaped, retained, suppressed, or routed for operative effect while truth-supporting conditions become subordinate? |
+| [**Un-reason**](#un-reason-reasoning-that-defeats-the-conditions-of-reason) | Inferential, interpretive, or correction-defeating mechanism | Has conclusion-protection taken control of the machinery and standing of reason? |
+| [**Un-real representation**](#un-reality-operative-reality-status-insulated-from-reality) | Operative epistemic state or output | Does an authorized representation continue to govern consequential conduct although independent correction cannot alter its authority or use? |
+| **Organized un-reality** | Installed multi-channel stock | Have human, linguistic, symbolic, incentive, record-bearing, and institutional channels become fitted around one or more un-real representations? |
+| [**Systemic-lying epistemic constitution**](#systemic-lying-epistemic-constitution) | Constitutional meta-order and truth-orientation pole | Does the order recurrently generate, select, authorize, protect, and replace organized un-reality rather than preserve reality's authority to defeat it? |
+
+The shortest synthesis is:
+
+> **Linguistic tricks are possible communicative operations; instrumental
+> untruthfulness is the orientation that selects communication for effect over
+> truth-supporting conditions; un-reason is captured inferential control logic;
+> un-reality is a possible operative social state; organized un-reality is its
+> fitted multi-channel stock; and systemic lying is the constitutional
+> production-and-maintenance regime.**
+
+[**Ideology**](0060-culture-program-ecology.semantic-definition.md#ideology-installed-social-un-reality-defended-through-un-reason)
+is not a seventh epistemic level or another name for the sequence. It is a
+Culture Program classifier that requires a particular fitted conjunction across
+these levels: reusable generation, authorized social un-reality, failed
+operative correction, un-reasoned defence, sufficient installation and
+reproduction, and collective scale. Un-reason, organized un-reality, or systemic
+lying alone does not establish that conjunction; **Systemic Ideology** is one
+candidate route into, but not a synonym for, the systemic-lying pole.
+
+##### Distributed carrier sequence {#distributed-carrier-sequence}
+
+The **distributed carrier sequence** is a possible cross-scale pathway through
+which a selected communicative form becomes a recipient's reconstructed model,
+may recruit a person's or institution's reasoning, may acquire
+operative authority, and may eventually enter constitutional reproduction. It
+is *distributed* because different people, roles, offices, records, incentives,
+and institutions can carry different functions. No single participant must
+design, understand, believe, defend, record, enforce, and reproduce the whole
+relation.
+
+```text
+ORIGINATOR OR SELECTOR
+creates, selects, retains, suppresses, or routes a communicative form;
+instrumental untruthfulness may govern the selection
+                         |
+                         v
+CARRIER
+repeats, translates, condenses, amplifies, or performs it
+strategically, habitually, role-obediently, or sincerely
+                         |
+                         v
+RECIPIENT RECONSTRUCTION
+the recipient reconstructs a factual, causal, moral,
+identity, or authorization model rather than merely copying words
+                         |
+                         v
+POSSIBLE UN-REASON
+reasoning protects the reconstructed model when correction threatens it
+                         |
+                         v
+POSSIBLE UN-REALITY
+the model receives or retains consequential operative authority
+despite failed independent correction
+                         |
+                         v
+POSSIBLE ORGANIZED UN-REALITY
+records, classifications, procedures, offices, incentives, symbols,
+and sanctions become fitted around the operative representation
+                         |
+                         v
+POSSIBLE SYSTEMIC LYING
+a constitutional meta-order recurrently selects, authorizes,
+protects, reproduces, and replaces the installed stock
+```
+
+The first three positions concern communication and reconstruction. The later
+terms are not additional human roles: *un-reason* is a possible inferential
+mechanism, *un-reality* an operative state, *organized un-reality* an installed
+stock, and *systemic lying* a constitutional meta-order. The sequence therefore
+connects levels without collapsing them.
+
+| Position or transition | Governing question | Attribution and correction boundary |
+|---|---|---|
+| **Originator or selector** | Who created, selected, retained, suppressed, or routed this form, and why? | Deliberate instrumental selection requires actor-level evidence. A form can also originate in sincere error or be selected institutionally because it performs well without one represented design. |
+| **Carrier** | Who transmitted, translated, condensed, amplified, or publicly performed it? | Transmission does not carry the originator's intent automatically. Compare the carrier's source access, fidelity, incentives, role, private--public relation, and response to correction. |
+| **Recipient reconstruction** | Which factual, causal, moral, identity, or authorization model did the recipient actually reconstruct? | Exposure is not adoption. Test comprehension, retained distinctions, alternative readings, source trust, local-bigOther fit, and whether conduct or judgment changed. |
+| **Reconstruction → un-reason** | When challenged, does reasoning permit the reconstructed model to lose? | Belief, confidence, emotion, or one weak defence is insufficient. Require protected conclusions, asymmetric standards, recursive immunization, and failed correction for the specified unit, claim, domain, and period. |
+| **Un-reason → un-reality** | Did the protected model acquire or retain authority over consequential conduct? | Private rationalization alone is insufficient. Identify records, classifications, decisions, permissions, burdens, sanctions, resources, or jurisdiction that remain governed despite failed correction. |
+| **Un-reality → organized stock** | Did several human, symbolic, record-bearing, incentive, and institutional channels become fitted around it? | One operative error is insufficient. Require multi-channel installation, recurrence, and evidence that the channels reinforce or preserve the representation. |
+| **Organized stock → systemic lying** | Does a constitutional meta-order recurrently generate, select, authorize, protect, and replace the stock over independent correction? | Domain-specific or temporary organization is insufficient. Establish the specified order, scope, period, recurrence, correction hierarchy, and constitutional production relation. |
+
+The most important attribution rule is:
+
+> **Intent does not propagate merely because a message does.**
+
+One actor may knowingly construct a misleading frame, another may repeat it as
+a job requirement, a third may sincerely believe it, a fourth may use un-reason
+to defend it, and an office may record and enforce it without any participant
+possessing a complete model of the cycle. Conversely, a sincere originator or
+carrier does not make the resulting representation reality-answerable. The
+classification follows the evidenced operation at each position, not moral
+contagion from another position.
+
+Nor does *distributed* imply conspiracy or coordination. Selection pressure,
+prestige, role segmentation, common training, shared records, institutional
+memory, ordinary conformity, and independently similar incentives can produce
+convergent transmission. Coordination, covert design, capture, guilt, and
+person-level deception require their own evidence.
+
+A carrier may occupy the [trusted-opinion-leader
+function](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leader-function-cascades-and-cultivated-authority),
+in which case trust and gain can increase routing, uptake, translation, and
+returned reinforcement. But ordinary carriers also suffice for transmission;
+carrier status alone establishes neither trusted gain nor a
+[trusted-carrier correction
+lock](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock).
+
+A neutral worked example makes the distribution visible:
+
+```text
+An organization suffers a preventable failure.
+
+Selector:
+an external-sabotage account is selected because it protects incumbent authority.
+
+Carriers:
+officials and commentators repeat it; some may doubt it,
+some follow their role, and some believe it sincerely.
+
+Recipients:
+some reconstruct a model in which criticism itself signals hostile interference.
+
+Possible un-reason:
+contrary evidence is redescribed as proof of the saboteurs' sophistication.
+
+Possible un-reality:
+the sabotage account governs investigations, records, appointments,
+sanctions, and future policy despite failed correction.
+
+Possible organized un-reality and systemic lying:
+procedures and incentives preserve the account, and later failures
+recurrently generate authorized successor sabotage accounts.
+```
+
+Sabotage can of course be real. An independently supported, reciprocally tested,
+predictively exposed sabotage explanation is ordinary causal inquiry, not this
+pathology. One mistaken explanation, one sincere repetition, or one failed
+correction also does not establish the later stages.
+
+Every position and arrow is therefore a separate evidential and intervention
+point. At selection, inspect provenance and disclose the selection rule; during
+transmission, test carrier fidelity, refusal, and source comparison; at uptake,
+check the recipient's reconstruction and alternatives; when defence begins,
+restore reciprocal defeat conditions; when the model acquires authority, use
+operative review and bounded de-authorization; during installation, preserve
+channel independence and repair; and at constitutional scale, preserve
+pluralism, succession, and reality-answerable correction. A break at any point
+can prevent this pathway from propagating.
+
+This is one possible causal sequence, not a mandatory ladder. None of the
+following implications is valid without further evidence:
+
+```text
+one linguistic trick       -/-> instrumental untruthfulness, un-reason,
+                                  un-reality, or systemic lying
+localized un-reason        -/-> un-reality or systemic lying
+one un-real representation -/-> organized un-reality or systemic lying
+organized un-reality       -/-> whole-order systemic lying
+```
+
+A linguistic trick can be exposed and corrected. Un-reason can remain local to
+one person, argument, discipline, office, or protected claim. Un-reality can
+arise or persist without un-reason through censorship, omission, ritual assent,
+synchronized incentives, memory loss, authority, coercion, correction
+nullification, or organizational inertia. Systemic lying can preserve an
+authorized account with little sophisticated reasoning. A domain-specific stock
+of organized un-reality can remain bounded and corrigible from outside.
+
+The non-collapses are therefore strict:
+
+```text
+linguistic trick              != instrumental untruthfulness
+linguistic trick              != un-reason
+instrumental untruthfulness   != un-reason
+un-reason                     != un-reality
+un-reality                    != organized un-reality
+organized un-reality          != systemic lying
+systematic actor-level lying  != systemic lying
+systemic lying                != Ideology or another Culture Program
+                                 classification by itself
+reasonable critical discussion != established truth
+```
+
+**Systematic lying** is repeated or methodical deceptive conduct attributed to a
+specified actor or organization. **Systemic lying** is a constitutional truth
+orientation that can be reproduced by deliberate deceivers, sincere believers,
+conformists, officials, roles, incentives, and institutions together.
+Systematic lying can contribute to the systemic order but is neither necessary
+nor sufficient for it.
+
+Cross-axis comparisons must hold the **specified unit and level** constant.
+For a person, outward communication selection and the person's own correction
+logic are different objects; for an institution or programme, output-selection
+rules and institutional correction rules are different relations within that
+unit. Strategic public communication does not establish private un-reason, and
+institution-level selection does not establish actor-level instrumental intent.
+Sincerity also remains distinct from truth-content and reality-tracking.
+
+Analysis should consequently ask six separate questions:
+
+1. **Communicative form and operation:** Which linguistic or reconstructive form
+   occurred, did it operate as a trick in context, and which truth-supporting
+   condition did it affect?
+2. **Communicative selection orientation:** Was the communication selected,
+   shaped, retained, suppressed, or routed principally for operative effect, and
+   for which actor, role, programme, or institution is that attribution
+   supported?
+3. **Governing inferential logic:** Was reasoning organized so that a specified
+   conclusion, authority, identity, or programme could not lose?
+4. **Operative status:** Did the representation receive practical authority,
+   and could independent correction change its use?
+5. **Installation and scale:** Was it fitted across multiple channels and
+   recurrently reproduced by a constitutional meta-order?
+6. **Intent and attribution:** Who selected, understood, designed, repeated, or
+   inherited which operation, and with what evidence?
+
+This sequence prevents a constitutional diagnosis from being inferred from one
+euphemism, conscious lying from sincere un-reason, or un-reality from one false
+but corrigible statement.
+
+The complete relation can be stated in one sentence:
+
+> **Instrumental untruthfulness can select linguistic tricks for their
+> operative effects; those tricks can shape messages through which un-reason
+> protects an authorized account; when failed correction cannot withdraw that
+> account's operative reality-status, it is un-real; when such representations
+> accumulate across fitted channels, they form organized un-reality; and when a
+> constitutional meta-order recurrently generates, selects, authorizes,
+> protects, and replaces that stock, the order approaches or realizes systemic
+> lying. A truth-seeking alternative joins pragma-dialectically reasonable
+> discussion to independent reality-answerability so that every resulting
+> account can still lose.**
+
 ### 10. Communicative integrity and linguistic tricks
 
 The epistemic constitution is enacted at the smallest scale through ordinary speech. It matters whether communication is oriented toward mutual understanding and reality or toward operative effect while preserving the appearance of communication.
@@ -9428,6 +11630,17 @@ The epistemic constitution is enacted at the smallest scale through ordinary spe
 This distinction resembles **Jürgen Habermas's** contrast between communicative and strategic action and his differentiation of truth, normative rightness, and sincerity as validity claims in [*The Theory of Communicative Action*](https://www.suhrkamp.de/rights/book/juergen-habermas-the-theory-of-communicative-action-fr-9783518287750). The present synthesis borrows this orientation but does not adopt Habermas's entire theory or treat discursive agreement as sufficient for correspondence with reality.
 
 The detailed micro-level taxonomy is maintained separately in [*Linguistic Tricks: A Semantic Inventory*](<0030-linguistic-tricks.semantic-inventory.md>). That inventory covers the assertional, informational, semantic, dialogical, attributional, and contextual operations through which communication can obscure rather than illuminate. It also explains the relation between fallacy, sophism, sophistry, and the wider category of instrumental untruthfulness. Its entries are not reproduced here.
+
+Within the [typed architecture](#typed-epistemic-architecture), a linguistic
+trick is a possible communicative operation, while **instrumental
+untruthfulness** is the further selection orientation in which a specified
+actor, role, programme, or institution privileges operative effect over truth,
+accuracy, sincerity, shared meaning, reciprocal examination, reasonable
+resolution, or correction. One trick does not establish that orientation, and
+the orientation does not establish un-reason: a strategist can knowingly
+mislead while privately retaining a corrigible model, while a sincere believer
+can communicate exactly what the believer thinks and still defend it through
+un-reason.
 
 Constitutionally, the point is:
 
@@ -9534,7 +11747,48 @@ These comparisons concern the organizations' published formats; they do not impl
 
 The distinctive integration lies before and after the event. Existing debate producers ordinarily choose a topic and then stage it. A disagreement-sensing constitutional organ makes the detection and fair public processing of emerging consequential disagreement itself a continuing social function. After the event, it preserves the question rather than closing it with a winner.
 
-This procedure can borrow rules from **Frans H. van Eemeren and Rob Grootendorst's** [pragma-dialectical theory of critical discussion](https://www.routledge.com/Argumentation-Communication-and-Fallacies-A-Pragma-dialectical-Perspective/van-Eemeren-Grootendorst/p/book/9780805810691). The borrowing is partial. Pragma-dialectics supplies procedures for reasonably resolving differences of opinion; the epistemic constitution adds the external requirement that even procedurally reasonable conclusions remain answerable to evidence and reality.
+##### Pragma-dialectical procedure plus reality-answerability {#pragma-dialectical-reality-answerable-interface}
+
+This procedure can borrow from **Frans H. van Eemeren and Rob Grootendorst's**
+*A Systematic Theory of Argumentation: The Pragma-Dialectical Approach*.
+[Chapter 3, “A model of a critical discussion,” pp.
+42–68](https://doi.org/10.1017/CBO9780511616389.004), sets out the ideal
+discussion through confrontation, opening, argumentation, and conclusion.
+[Chapter 6, “Rules for a critical discussion,” pp.
+123–157](https://doi.org/10.1017/CBO9780511616389.007), supplies the procedural
+rules behind freedom to advance and question standpoints, disclosed burdens,
+relevant defence, faithful representation, and explicit closure. These provide
+counter-standards to several linguistic tricks.
+
+The borrowing is partial:
+
+> **Pragma-dialectics supplies internal procedural reasonableness; Culture
+> Mechanics adds external answerability to evidence and reality.**
+
+```text
+PRAGMA-DIALECTICAL CRITICAL DISCUSSION
+fair internal procedure for disagreement
+                  +
+REALITY-ANSWERABILITY
+the resulting account remains corrigible by evidence and events
+                  +
+COMMUNICATIVE INTEGRITY
+sincerity, inspectable meaning, relevance, provenance,
+reciprocal burdens, visible dialogue type, and honourable correction
+                  =
+TRUTH-SEEKING COMMUNICATIVE INTERFACE
+```
+
+A fair discussion can still reach a false conclusion. Conversely, a
+systemic-lying order can preserve the ceremonies of critical discussion while
+controlling admissibility, opponents, burdens, consequences, and the conditions
+under which its authorized account may lose. One breached discussion rule does
+not by itself establish a trick, instrumental untruthfulness, un-reason,
+un-reality, or systemic lying.
+
+> **Pragma-dialectics asks whether disagreement was conducted reasonably.
+> Reality-answerability asks whether reality is still permitted to overturn its
+> result.**
 
 The institution is deliberately not a centralized public brain:
 
@@ -10433,12 +12687,60 @@ crosswalk](0060-culture-program-ecology.semantic-definition.md#schutzbalken-cros
 
 #### Short definition
 
-A systemic-lying epistemic constitution is a social meta-order in which public communication, institutional authority, social incentives, language, memory, and routine participation are organized to reproduce an authorized representation of reality while sincere avowal, contradictory evidence, genuine disagreement, and independent correction are suppressed, distorted, ritualized, or made prohibitively costly.
+A **systemic-lying epistemic constitution** is a social meta-order that
+recurrently generates, selects, authorizes, protects, and replaces organized
+un-reality because its correction relations subordinate independent truth to
+operative usefulness, loyalty, control, or authority. Public communication,
+institutional authority, social incentives, language, memory, and routine
+participation are thereby organized to reproduce authorized representations
+while sincere avowal, contradictory evidence, genuine disagreement, and
+independent correction are suppressed, distorted, ritualized, or made
+prohibitively costly.
 
 It too is a full lifted capture and a universal meta-order. Its pathology lies in
 how its representatives and rules monopolize interpretation, block succession and
 correction, and make reality answerable to authorization—not in the mere fact that
 one second-order order governs society-wide jurisdiction rules.
+
+**Recurrent** does not mean uninterrupted output. A standing correction
+structure can remain systemically closed during quiet periods. **Generation** is
+only one operation: accurate fragments can be selectively arranged into a
+misleading model; offices and procedures can authorize it; silence, ritual
+assent, memory control, incentives, inertia, or correction nullification can
+protect it; and a successor account can inherit the defeated representation's
+classifications and utility.
+
+The stock--flow--feedback relation is:
+
+```text
+SYSTEMIC-LYING CONSTITUTION
+standing generator, selector, authorizer, protector, and replacement regime
+                         |
+                         v
+recurrent flow of authorized representations
+                         |
+                         v
+UN-REAL REPRESENTATIONS
+operative outputs that survive failed correction
+                         |
+                         v
+ORGANIZED UN-REALITY
+installed stock in classifications, records, procedures, offices,
+incentives, symbols, memories, and allocations
+                         |
+                         v
+the stock supplies premises, codebooks, roles, precedents, and incentives
+through which later evidence and correction are interpreted
+                         |
+                         +---------- feedback ---------->
+```
+
+The constitutional classification therefore does not assert that every
+proposition is false, every carrier knows it is false, or one centre designed
+the order. The system can function as though it were lying through mixtures of
+deliberate deception, sincere belief, role obedience, fragmented knowledge,
+incentives, and institutional self-protection. What is systemically inverted is
+the relation between authorized representation and independent correction.
 
 #### Constitutive properties
 
@@ -10944,7 +13246,12 @@ Ultimate contrast:
   Cognitive System”](https://doi.org/10.1177/00332941241280870) supplies the
   individual-differences operationalization. It is a narrower empirical construct
   than Orwell's political mechanism and than the project's un-reason mechanism.
-- **Critical discussion — Frans H. van Eemeren and Rob Grootendorst:** [*Argumentation, Communication, and Fallacies*](https://www.routledge.com/Argumentation-Communication-and-Fallacies-A-Pragma-dialectical-Perspective/van-Eemeren-Grootendorst/p/book/9780805810691).
+- **Critical discussion — Frans H. van Eemeren and Rob Grootendorst:** *A
+  Systematic Theory of Argumentation: The Pragma-Dialectical Approach*, [Chapter
+  3, “A model of a critical discussion,” pp.
+  42–68](https://doi.org/10.1017/CBO9780511616389.004), and [Chapter 6, “Rules for
+  a critical discussion,” pp.
+  123–157](https://doi.org/10.1017/CBO9780511616389.007).
 - **Queer positionality — David M. Halperin:** [*Saint Foucault: Towards a
   Gay Hagiography*](https://academic.oup.com/book/48907). This document uses the
   relational, anti-normative sense to distinguish queer positionality from a
@@ -11005,7 +13312,10 @@ independent source establishes otherwise:
   the allocation and limitation of first-order outputs and jurisdictions**,
   inherited from the coordinated theory project and applied constitutionally here;
 - **reality-anchored, truth-seeking epistemic constitution**;
-- **systemic-lying epistemic constitution**;
+- **systemic-lying epistemic constitution** as the constitutional meta-order
+  that recurrently generates, selects, authorizes, protects, and replaces
+  organized un-reality because independent truth has been subordinated to
+  usefulness, loyalty, control, or authority;
 - **constitutional classification orientation** and **pole** as the extensible
   multi-orientation classification structure defined here;
 - **sacred-principal allocation** as a candidate non-scalar audit retained
@@ -11032,17 +13342,26 @@ independent source establishes otherwise:
   and death-drive theoretical strand in *No Future*, not Edelman's term and not a
   classification of queer people or queer theory generally;
 - **public epistemic telemetry**;
+- the **theoretical *un-* operator**, **retained-skin formulation**, and
+  **displaced-governor test** in which X's recognizable machinery and
+  authority-claim remain while a non-X principle redirects their operation.
+  Kant's infinite judgment supplies a disputed formal third-domain precedent,
+  Freud's *unheimlich* internal estrangement of the familiar, and Žižek's
+  *undead/inhuman* contrast an immanent excess or distortion. The complete
+  retained-form, claimed-authority, substituted-governor, operative-inversion,
+  and defeat-condition test is the project's additional step and must not be
+  attributed to those authors;
 - **un-reason** as the project-specific cross-scale mechanism in which reasoning
-  remains active but is recursively organized against reciprocal standards and
-  independent correction; the assistant proposed the term during the discussion
-  of Žižek's Night passage and the originating author selected it for integration.
-  Its construction follows Žižek's *undead/inhuman* semantic pattern, but the term
-  and mechanism are not attributed to Žižek or Hegel;
+  remains active and retains reason's machinery and authority-claim while
+  conclusion-protection displaces truth-correction as governor. The assistant
+  proposed the term during the discussion of Žižek's Night passage and the
+  originating author selected it for integration. The term and mechanism are
+  not attributed to Žižek or Hegel;
 - **un-real representation**, **un-reality**, and **organized un-reality** as the
   project-specific state/output family in which socially authorized
   reality-status remains operative while independent correction loses the power
   to change authority or use. The originating author proposed extending the
-  indefinite-judgment construction from un-reason to un-reality and selected the
+  theoretical *un-* construction from un-reason to un-reality and selected the
   expressive formula “A lie becomes un-real when everyone must inhabit it, and
   un-reason begins when intelligence is recruited to explain why the visible
   contradiction cannot count.” The assistant separated state from mechanism and
@@ -11050,6 +13369,13 @@ independent source establishes otherwise:
   the broad-*lie*, practical-*everyone*, and inspectable-*visible* boundaries.
   These terms and relations are Culture Mechanics developments, not Žižek's,
   Hegel's, Arendt's, Andersen's, or Rauch's;
+- the **typed epistemic architecture** separating communicative operation,
+  communicative selection orientation, inferential mechanism, operative state,
+  installed stock, and constitutional meta-order. Its integration of linguistic
+  tricks, instrumental untruthfulness, un-reason, un-real representation,
+  organized un-reality, and systemic lying—together with the six-question
+  classification discipline and systematic/systemic-lying boundary—is a Culture
+  Mechanics synthesis;
 - **post-disclosure un-reality**, **defeated-but-operative un-reality**,
   **acknowledged un-reality**, **correction nullification**, **dead-letter
   correction**, and **bounded de-authorization** as the project-developed
@@ -11286,12 +13612,28 @@ independent source establishes otherwise:
 - **Central object:** the relationship among reality, private judgment, public
   avowal, authority, evidence, disagreement, attention, memory, correction, and
   what the shared order organizes motivation to reproduce.
+- **Theoretical *un-* operator:** un-X retains X's recognizable machinery and
+  authority-position while a displaced non-X governor reverses or distorts its
+  operation. The operator must identify retained form, claimed authority, normal
+  and substituted governors, observable inversion, and a defeat condition; it is
+  not a general rule for every word beginning with *un-*.
+- **Typed epistemic architecture:** linguistic trick, instrumental
+  untruthfulness, un-reason, un-real representation, organized un-reality, and
+  systemic lying identify respectively a communicative operation, selection
+  orientation, inferential mechanism, operative state, installed stock, and
+  constitutional meta-order. None is a synonym or automatic proof of the next.
+- **Distributed carrier sequence:** originator or selector, carrier, and
+  recipient reconstruction are separate communicative positions that may connect
+  to possible un-reason, un-reality, organized un-reality, and systemic lying.
+  Different participants can occupy each function; intent does not propagate
+  with a message, distributed reproduction does not establish conspiracy, and
+  every arrow requires separate evidence.
 - **Internal failure mechanism:** un-reason can preserve sophisticated reasoning
-  while turning its concepts, burdens, exceptions, and recursive interpretations
-  against reciprocal testing and independent correction; it is not a third
-  orientation. Doublethink is a narrower possible component in which incompatible
-  authorized beliefs cease to correct one another; neither one contradiction nor
-  an individual-differences score establishes it politically.
+  while conclusion-protection displaces truth-correction as the governor of its
+  concepts, burdens, exceptions, and recursive interpretations; it is not a
+  third orientation. Doublethink is a narrower possible component in which
+  incompatible authorized beliefs cease to correct one another; neither one
+  contradiction nor an individual-differences score establishes it politically.
 - **Cross-scale truth-orientation state:** an un-real representation retains
   operative public reality-status while observation, prediction, consequence,
   and dissent cannot reliably change its authority or use. Organized un-reality
@@ -11311,7 +13653,10 @@ independent source establishes otherwise:
   trusted carriers may route U1, correction nullification may preserve operation,
   systemic lying may generate further auxiliaries, and organized un-reality is
   the accumulating stock. Legitimate causal alternatives remain outside the
-  mechanism when independently supported and reciprocally corrigible.
+  mechanism when independently supported, inspectable, predictively exposed,
+  and reciprocally corrigible. Counterfeit Bayesian updating begins only when
+  authorization, identity fit, or programme utility substitutes for that
+  independent support while the auxiliary account is protected from losing.
 - **Candidate allocation audit, not a third orientation:** sacred-principal
   allocation asks who or what receives ultimate standing and who becomes its
   instrument. Its governing question may be independent, but its poles,
@@ -11453,15 +13798,230 @@ Pure-Ideology or that the speaker intended deception.
 
 ## 1. Working concept
 
-The reviewed source material uses *linguistic tricks* as a practical name for sophisticated forms of lying and truth-obscuring speech. The best analytical umbrella recovered during source development is **instrumental untruthfulness** (*instrumentelle Unwahrhaftigkeit*): communication governed primarily by the effect it is meant to produce rather than by truth, accuracy, sincerity, shared meaning, or reasonable resolution of disagreement.
-
-This inventory therefore uses *lie* in a broad normative sense. An utterance need not contain a literally false sentence to belong here. It can mislead by omission, implication, presupposition, redefinition, framing, diversion, attribution, contextual manipulation, or corruption of the dialogue itself.
+The reviewed source material uses *linguistic tricks* as a practical name for sophisticated
+forms of lying and truth-obscuring speech. The term intentionally retains a
+strategic connotation, but the inventory separates the observable form and its
+situated operation from a further attribution of knowledge or intent.
 
 The family resemblance is:
 
-> A linguistic trick subordinates one or more truth-supporting conditions of communication to operative effectiveness while preserving enough of the appearance of communication to steer an audience.
+> **A linguistic trick subordinates one or more truth-supporting conditions of
+> communication to operative effectiveness while preserving enough of the
+> appearance or authority of communication to steer an audience.**
 
-This is not a claim that every use of rhetoric, framing, conceptual innovation, ambiguity, or a fallacious argument is intentionally deceptive. The classifications below concern their manipulative uses.
+The classification has three levels:
+
+| Level | Meaning | Attribution boundary |
+|---|---|---|
+| **Linguistic-trick form** | A communicative structure capable of misleading, diverting, immunizing, or steering reconstruction. | Intent and actual situated function remain open. |
+| **Operative linguistic trick** | In context, the form actually subordinates one or more truth-supporting conditions to audience steering while retaining communicative appearance or authority. | The strategic connotation remains, but the present carrier's knowledge or design is not established. |
+| **Deliberate linguistic trick** | The operation was knowingly or strategically selected for its misleading, diversionary, immunizing, or manipulative effect. | Requires actor-level evidence beyond the operation itself. |
+
+An originator may design a trick deliberately, a later carrier may repeat it
+sincerely, an institution may select it because it works without explicitly
+representing its mechanism, and incentives may reproduce it without one
+designer. A communicative form can also have an adverse effect without
+satisfying either the operative-trick classification or an intent attribution.
+Pattern, asymmetric application, strategic retreat, hidden dialogue purpose,
+resistance to correction, internal records, or admission can strengthen the
+intent inference.
+
+This inventory uses *lie* in a broad normative sense. An utterance need not
+contain a literally false sentence to belong here. It can mislead by omission,
+implication, presupposition, redefinition, framing, diversion, attribution,
+contextual manipulation, or corruption of the dialogue itself. This does not
+make every use of rhetoric, framing, conceptual innovation, ambiguity, or a
+fallacious argument intentionally deceptive.
+
+### Instrumental untruthfulness as a communicative orientation {#instrumental-untruthfulness-as-a-communicative-orientation}
+
+The analytical umbrella recovered during source development is **instrumental
+untruthfulness** (*instrumentelle Unwahrhaftigkeit*):
+
+> **Instrumental untruthfulness is a communicative orientation in which a
+> specified actor, role, programme, or institution selects, shapes, retains,
+> suppresses, or distributes communication principally for operative effect,
+> while subordinating truth, accuracy, sincerity, shared meaning, reciprocal
+> examination, reasonable resolution, or correction.**
+
+It does not require a literally false sentence. Selective truths, omission,
+implication, framing, ambiguity, staged opposition, strategic silence, direct
+falsification, or combinations of them can serve the orientation. One trick does
+not automatically establish a stable orientation. One sufficiently clear act
+may be probative, but recurrent selection, retention after correction, and
+cross-situation consistency ordinarily provide stronger evidence.
+
+Instrumental untruthfulness answers a **selection question**:
+
+> **Why was this communication selected, shaped, retained, suppressed, or
+> routed in this way?**
+
+[**Un-reason**](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason)
+answers a different **correction question**:
+
+> **What happens to reasoning when the protected conclusion is threatened?**
+
+The two relations are orthogonal:
+
+| | Truth-corrigible reasoning | Un-reason |
+|---|---|---|
+| **Sincere, non-instrumental communication** | The speaker communicates sincerely and the account can lose. | A sincere believer does not select communication for operative effect, yet the believer's reasoning arranges every reply so that the protected account cannot lose. |
+| **Instrumental untruthfulness** | A propagandist or strategist may privately understand the relevant reality while deliberately misleading an audience; the private model need not be un-reasoned. | A person, programme, or institution both steers communication for effect and recursively protects its own account from correction. |
+
+The table must be applied to one specified unit and level at a time. For a
+person, distinguish outward communication selection from the person's own
+correction logic. For an institution or programme, compare its output-selection
+rules with its own correction rules. Do not infer private un-reason from
+strategic public communication or actor-level instrumental intent from
+institution-level selection. The row label deliberately says *sincere*, not
+*true*: sincerity and reality-tracking remain distinct.
+
+Actor-level attribution requires evidence that the actor privileged communicative
+effect over the relevant truth-supporting conditions. Private--public
+divergence, internal instructions, acknowledged corrections, audience
+segmentation, strategic retreat and later re-entry, continued use after
+exposure, or explicit concern with optics and narrative over accuracy can
+support that inference. Disagreement or adverse effect alone cannot.
+
+At institutional or programme level, the object changes:
+
+> **Institutionalized instrumental untruthfulness exists when selection,
+> reward, routing, memory, and correction patterns reliably preserve
+> effect-producing communication over more accurate or more corrigible
+> alternatives.**
+
+This does not imply that every carrier understands or intends the selection
+relation. The attribution must identify the programme, institution, domain, and
+period and provide evidence for the operative pattern.
+
+### Distributed carrier front end {#distributed-carrier-front-end}
+
+Communicative production, transmission, and uptake must be separated before any
+inference to un-reason or a systemic condition:
+
+```text
+ORIGINATOR OR SELECTOR
+creates, selects, retains, suppresses, or routes a communicative form
+                         |
+                         v
+CARRIER
+repeats, translates, condenses, amplifies, or performs it
+strategically, habitually, role-obediently, or sincerely
+                         |
+                         v
+RECIPIENT RECONSTRUCTION
+the recipient reconstructs a factual, causal, moral,
+identity, or authorization model rather than merely copying words
+```
+
+The originator's or selector's mental state does not transfer to the carrier,
+and the carrier's utterance does not determine what the recipient reconstructs.
+One participant may knowingly design a misleading operation; another may repeat
+it sincerely; a third may understand it differently or reject it. Translation,
+condensation, sloganization, contextual change, trusted-source gain, and the
+recipient's installed Culture Program can preserve, intensify, weaken, or alter
+the operative form at each transition.
+
+Analysis should therefore identify separately:
+
+1. the provenance and selection rule of the communicative form;
+2. the carrier's access, fidelity, incentives, role, and own evidential state;
+3. the recipient's actual reconstruction and any change in judgment or conduct;
+4. the evidence, if any, for deliberate selection at each position.
+
+The inventory owns this communicative front end. [*Epistemic Constitution*
+owns the complete distributed carrier
+sequence](0030-epistemic-constitution.semantic-definition.md#distributed-carrier-sequence),
+including the possible transitions from recipient reconstruction through
+un-reason, un-reality, organized un-reality, and systemic lying. None of those
+later stages follows from transmission or sincere belief alone, and each arrow
+requires separate evidence.
+
+### Where linguistic tricks sit in the epistemic architecture {#introductory-epistemic-architecture}
+
+The inventory begins at the observable communicative surface, but its entries
+must not be inflated into conclusions about reasoning, social reality, or an
+entire constitution. The canonical [**typed epistemic
+architecture**](0030-epistemic-constitution.semantic-definition.md#typed-epistemic-architecture)
+keeps six different kinds of object distinct:
+
+| Term | Type | Relation to this inventory |
+|---|---|---|
+| **Linguistic trick** | Communicative operation | The inventory's primary object. |
+| **Instrumental untruthfulness** | Communicative selection orientation | Explains why an actor, role, programme, or institution selects or preserves communication for operative effect over truth-supporting conditions. |
+| **Un-reason** | Inferential and correction-defeating mechanism | May use several tricks, but is not another inventory entry. |
+| **Un-real representation** | Operative state or output | May receive wording through tricks, but requires practical reality-status insulated from independent correction. |
+| **Organized un-reality** | Installed multi-channel stock | Requires fitted human, linguistic, symbolic, incentive, record, and institutional channels. |
+| **Systemic-lying epistemic constitution** | Constitutional meta-order | Recurrently generates, selects, authorizes, protects, and replaces organized un-reality. |
+
+[The theoretical *un-* operator](0030-epistemic-constitution.semantic-definition.md#theoretical-un-operator)
+supplies the common construction behind *un-reason* and *un-reality*: the form,
+machinery, and authority-position of X remain, while a substituted governing
+principle redirects them toward a function ordinary X would reject. This does
+not make every *un-* word an instance of that restricted theoretical operator.
+
+The possible sequence is conditional rather than a mandatory ladder:
+
+```text
+originator or selector
+  may select a trick through instrumental untruthfulness
+        |
+        v
+carrier
+  may repeat it strategically, habitually, role-obediently, or sincerely
+        |
+        v
+recipient
+  reconstructs a factual, causal, moral, identity, or authorization model
+        |
+        v
+un-reason may protect that model when correction threatens it
+        |
+        v
+un-reality arises only if the model receives or retains operative authority
+despite failed correction
+        |
+        v
+organized un-reality requires installation across coordinated channels
+        |
+        v
+systemic lying requires recurrent constitutional generation, selection,
+authorization, reproduction, protection, and replacement
+```
+
+No row or arrow proves the next. Different people, roles, and institutions can
+perform selection, transmission, reconstruction, defensive reasoning, record
+custody, sanction, and reproduction. Intent, knowledge, guilt, and coordination
+do not travel with the message. The [complete distributed carrier
+sequence](0030-epistemic-constitution.semantic-definition.md#distributed-carrier-sequence)
+therefore requires evidence for every transition.
+
+Two further boundaries prevent common category errors:
+
+- **Systematic lying** is methodical deceptive conduct attributed to a specified
+  actor or organization. **Systemic lying** is a constitutional truth orientation
+  that strategic actors, sincere believers, conformists, officials, roles,
+  incentives, and institutions can reproduce together. Neither is necessary or
+  sufficient for the other. The stock--flow relation through which a
+  systemic-lying meta-order produces organized un-reality is developed in
+  [*Culture Program Ecology*, Appendix
+  A.1](0060-culture-program-ecology.semantic-definition.md#purpose-and-categorical-separation).
+- Correction can be blocked at two different interfaces. **Un-reason** can
+  neutralize what a correction is allowed to mean; [**correction
+  nullification**](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia)
+  can prevent an understood correction from changing authority, records,
+  operation, or repair. Neither follows from one trick or one unanswered claim.
+
+Likewise, an alternative causal account is not suspect merely because it explains
+an apparent disconfirmation. Ordinary Bayesian explaining-away remains legitimate
+when the alternative is independently supported, inspectable, predictively
+exposed, reciprocally tested, and permitted to lose. The [**auxiliary-un-reality
+explaining-away
+cascade**](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-reality-explaining-away-cascade)
+becomes counterfeit when an authorized auxiliary account protects the incumbent
+representation while those correction conditions are disabled. Linguistic tricks
+can help formulate or protect that account, but they do not establish the wider
+cascade by themselves.
 
 ### Sophism and sophistry
 
@@ -12221,7 +14781,14 @@ Symbol displacement, pluralistic ignorance, moral fatigue, and script preactivat
 
 ## 5. Relation to the epistemic constitution
 
-This inventory is not primarily a blacklist of forbidden expressions. In a reality-anchored, truth-seeking epistemic constitution it supplies a common vocabulary—a yardstick installed in the social *big Other*—for noticing when communication departs from truth-seeking.
+This inventory is not primarily a blacklist of forbidden expressions. In a
+reality-anchored, truth-seeking epistemic constitution it supplies a common
+vocabulary—a yardstick installed in the social *big Other*—for noticing when
+communication departs from truth-seeking. The [introductory epistemic
+architecture](#introductory-epistemic-architecture) fixes the types, conditional
+sequence, and attribution boundaries. This section develops the deeper
+cross-theory interfaces and positive counterpart without redefining the
+architecture owned by *Epistemic Constitution*.
 
 The entries identify local operations; [*Epistemic Agency under Mechanical
 Solidarity*, “Audience-modelled reconstruction and
@@ -12259,6 +14826,46 @@ authority without their contradiction correcting the account. The former is a
 linguistic operation; the latter is a cognitive and potentially institutional
 mechanism. Either can support un-reason or systemic lying, but neither entails the
 other and neither is established by one euphemism or contradiction.
+
+### Pragma-dialectics as prior work toward communicative truthfulness {#pragma-dialectics-as-prior-work}
+
+Frans H. van Eemeren and Rob Grootendorst's *A Systematic Theory of
+Argumentation: The Pragma-Dialectical Approach* is established prior work for the
+positive communicative side of the inventory. [Chapter 3, “A model of a critical
+discussion,” pp. 42–68](https://doi.org/10.1017/CBO9780511616389.004), sets out
+the ideal discussion through confrontation, opening, argumentation, and
+conclusion. [Chapter 6, “Rules for a critical discussion,” pp.
+123–157](https://doi.org/10.1017/CBO9780511616389.007), supplies the procedural
+rules behind freedom to advance and question standpoints, disclosed burdens,
+relevant defence, faithful representation, and explicit closure. These provide
+counter-standards to many entries here.
+
+The borrowing remains partial. [*Epistemic Constitution* owns the complete
+positive interface](0030-epistemic-constitution.semantic-definition.md#pragma-dialectical-reality-answerable-interface)
+that joins pragma-dialectically reasonable discussion to independent
+reality-answerability and communicative integrity. This inventory applies that
+interface to communicative operations and preserves the controlling distinction:
+
+> **Pragma-dialectics supplies internal procedural reasonableness; Culture
+> Mechanics adds external answerability to evidence and reality.**
+
+A procedurally fair discussion can reach a false conclusion. A systemic-lying
+order can also preserve the ceremony of critical discussion while controlling
+admissibility, opponent selection, burdens, consequences, and the conditions
+under which the authorized account may lose. One rule breach does not by itself
+establish a trick, instrumental untruthfulness, un-reason, un-reality, or
+systemic lying; perfect procedural compliance does not establish correspondence
+with reality.
+
+Habermas's communicative-action versus strategic-action distinction remains the
+neighbouring bridge for the orientation contrast between communicative integrity
+and instrumental untruthfulness. Pragma-dialectics contributes the more explicit
+procedural spine; the present project adds reality-correction, cultural
+installation, and constitutional scale.
+
+> **Pragma-dialectics asks whether disagreement was conducted reasonably.
+> Reality-answerability asks whether reality is still permitted to overturn its
+> result.**
 
 The corresponding positive virtues are:
 
@@ -13260,7 +15867,9 @@ these operations from propositional, causal-story, and classification conflicts
 and names the organized recruitment-and-suppression configuration
 **ideological-form conflict**. Physical coercion or violence marks the narrower
 **fundamentalist-form conflict**. These Culture Mechanics terms translate rather
-than reproduce Kenneth Minogue's conflict-centered use of *ideology*.
+than reproduce Kenneth Minogue's conflict-centered use of *ideology*. The later
+[Minogue-ideology subsection](#minogue-ideology-the-narrower-subtype) owns his
+full oppression--revelation--liberation subtype rather than this conflict term.
 
 Polemics is crucial because an incompatible successor mythology cannot simply be
 placed beside an incumbent that still occupies the slot. The incumbent tells
@@ -16966,7 +19575,7 @@ PCP, master signifiers, authorization payload, silent principals, metric custody
 Culture Programs, *Willkür*, or *Willkürherrschaft*. It asks a more specific
 question:
 
-> **How can an ideology function as a machine for generating doctrines that
+> **How can a Minogue-ideology function as a machine for generating doctrines that
 > converts interpretation into institutionally implemented *Willkür*?**
 
 The originating dangerous claim is:
@@ -17054,7 +19663,7 @@ mechanism:
 
 | Source or source lead | Contribution | Boundary |
 |---|---|---|
-| **Kenneth Minogue, *Alien Powers*** | Supplies the **generative domination grammar** and the reconstruction of a programme that can become metaphysically maximal, institutionally underspecified, and operationally negative. | Minogue is an adversarial source. His pure model does not classify every ideology, Critical Theory, environmental programme, or Diversity programme, establish a genealogy, or prove motive. |
+| **Kenneth Minogue, *Alien Powers*** | Supplies the **generative domination grammar** and the reconstruction of the narrower **Minogue-ideology** subtype, which can become metaphysically maximal, institutionally underspecified, and operationally negative. | Minogue is an adversarial source and does not supply the project's generalized Ideology genus. His pure model does not classify every ordinary-language ideology, Critical Theory, environmental programme, or Diversity programme, establish a genealogy, or prove motive. |
 | **Deborah A. Stone, “Causal Stories and the Formation of Policy Agendas”** | Explains how causal stories allocate sympathy, blame, responsibility, expertise, burdens, and remedies and turn a condition into a governable problem with a legitimate fixer. | Stone does not imply that structural causation is fictional, every causal story is false, or effective benefit proves intention. |
 | **Thomas Sowell, *The Quest for Cosmic Justice*, *Knowledge and Decisions*, and related work** | Supplies the surrogate-decision problem created by counterfactual or differentiated justice, the loss of dispersed practical knowledge, attenuated error feedback, and the question of who decides and who bears error. | Sowell does not supply the complete project custody chain, and his critique does not make every delegated, expert, group-sensitive, restitutive, or open-textured decision arbitrary. |
 | **David Horowitz, “From Red to Green”** | Supplies the polemical ecological-transition hypothesis and the special image of Nature as a constituency unable to reject those who claim to speak for it. | The local source is a situated polemic, not proof of a red-to-green genealogy, coordinated intent, or a classification of environmentalism as a whole. |
@@ -17086,7 +19695,8 @@ possible surrogate sovereignty and Willkür affordance
 
 Minogue calls the pure ideological idea less a doctrine than a “machine for
 generating doctrines” and gives its simplest premise as the claim that all evils
-are caused by an oppressive system
+are caused by an oppressive system. This is the generative core of the narrower
+**Minogue-ideology**, not the definition of the generalized Ideology family
 ([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), Chapter 1). The project
 translation treats **machine** as a portable grammar:
 
@@ -17118,7 +19728,7 @@ dismantled, prohibited, or overcome more clearly than it can describe the good
 replacement under scarcity, conflict, error, trade-offs, maintenance, and
 unintended consequences. The existing
 [Minogue reconstruction and critique–construction asymmetry
-analysis](#minogues-more-differentiated-sequence) supplies the full account.
+analysis](#minogue-ideology-the-narrower-subtype) supplies the full account.
 Lindsay's adversarial formulation supplies one possible delegitimation
 operation: compare a necessarily imperfect real arrangement with a purified,
 underspecified, or impossible ideal, generate a renewable supply of defects, and
@@ -19469,6 +22079,13 @@ Bernays: structured organization of symbols and public associations
 
 The symmetry is interpretive rather than a complete intellectual history. Freud did not define psychoanalysis as population-level mythological deprogramming, and Bernays's practice cannot be reduced to psychoanalytic theory. Their relationship makes tangible, however, that the ability to dissolve an installed configuration and the ability to install a successor are complementary technologies.
 
+The subject-side [guided-unbraiding
+proposal](0020-epistemic-agency.semantic-definition.md#guided-unbraiding-and-possible-deradicalization)
+uses this only as a bounded mechanism analogy: associations and defences may
+need to become speakable before a protected surface proposition can change. It
+does not make psychoanalysis the required intervention, attribute social
+deprogramming to Freud, or turn political disagreement into pathology.
+
 #### Critical Theory and cynical corrosion
 
 [Max Horkheimer's “Traditional and Critical Theory”](https://doi.org/10.5840/zfs19376265) is an early canonical statement of Frankfurt School Critical Theory. Horkheimer's stated project was not contentless negation: he connected critique to empirical disciplines and to the positive aim of giving social life a rational form.
@@ -19524,11 +22141,151 @@ Theory*. This is also not [Max
 Horkheimer's](https://doi.org/10.5840/zfs19376265) definition of his own
 programme.
 
-##### Minogue's more differentiated sequence
+<a id="minogues-more-differentiated-sequence"></a>
+
+##### Minogue-ideology: the narrower subtype and more differentiated sequence {#minogue-ideology-the-narrower-subtype}
 
 Kenneth Minogue's [*Alien Powers: The Pure Theory of
 Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf)
-develops a longer chain than the Lindsay formulation. It can be reconstructed as:
+develops a longer chain than the Lindsay formulation. The generalized
+[**Ideology** classifier](0060-culture-program-ecology.semantic-definition.md#ideology-installed-social-un-reality-defended-through-un-reason)
+is a Culture Mechanics development. **Minogue-ideology** is its narrower source-
+derived subtype:
+
+The local [*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf) transcription also contains
+Martyn P. Thompson's foreword and appended critical essays. Those voices are not
+attributed to Minogue here; the source claims below are checked against Minogue's
+own main text and 2006 introduction unless another contributor is named.
+
+> **A Minogue-ideology is an Ideology whose generator joins a hidden oppressive
+> system, opposed structural positions, asymmetric or false consciousness,
+> salvational revelation experienced as corrected sight, mobilization,
+> transformative power, liberation, and a terminal ideal that tends to displace
+> ordinary political plurality.**
+
+This subtype keeps Minogue's fitted argument rather than reducing it to one use
+of *oppressor* or *oppressed*. His own opening formulation identifies an abstract
+idea “less a doctrine than a machine for generating doctrines,” whose simplest
+rule makes the world's evils products of an oppressive system
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), Chapter 1). Chapter 6 adds the
+revelatory structure: ideology presents the “grand secret” that the culture is
+designed to conceal, can treat denial as evidence that the denier is a dupe of
+the structure, and thereby places the revelation above reciprocal judgment
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6497--6523).
+
+The perceptual form matters. Minogue distinguishes the hard intellectual labour
+of theorizing from revelation's promised “effortless form of a perception”
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6679--6686). He also exposes
+the circularity of ideological training: adherents are taught that they merely
+remove false ideas and learn to see what is already present, while correct sight
+becomes available only after they have learned the ideology
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6590--6630). Culture
+Mechanics types this as a two-stage relation:
+
+```text
+costly access
+formation, vocabulary, discipline, commitment, struggle
+                         ↓
+effortless-seeming epistemic payoff
+the learned total interpretation is experienced as direct corrected sight
+```
+
+The corresponding **blindness--revelation--binding circuit** is constitutive of
+Minogue-ideology at the functional level, even where literal eye or blindfold
+vocabulary is absent:
+
+```text
+moral field binds a group
+→ attention and credibility are filtered
+→ ordinary non-recognition is diagnosed as blindness imposed by the old order
+→ authorized formation promises awakening or removal of the blindfold
+→ learned interpretation is experienced as direct sight
+→ shared sight marks membership in the awakened group
+→ dissent is filtered or defended against through un-reason
+→ renewed binding strengthens the field
+```
+
+The generic **morality binds and blinds** antecedent and the bounded,
+methodologically contested McGinnies--Singer perceptual-defence bridge are
+recorded in [*Epistemic Agency*, “Scale bridge: ideological power, inner-eye
+blindness, and *Dummheit*”](0020-epistemic-agency.semantic-definition.md#ideological-power-local-capture-scale-bridge).
+They illuminate possible human susceptibility and pre-inferential filtering;
+they are not Minogue's claims, proof of literal perceptual blindness, or a
+definition of Minogue-ideology. Minogue supplies the more specific revelatory
+appropriation in which authorized formation claims to remove blindness and make
+a comprehensive interpretation feel like corrected sight.
+
+This circuit is not a generic test for all Ideology and its imagery is
+side-indeterminate. Reality-answerable correction and un-reality can both claim
+to remove blindness. The distinction must therefore be made through disclosed
+inference, reciprocal standards, independent correction, consequences, and
+revision—not through *awakening*, *seeing through*, *unmasking*, or *consciousness*
+language alone. The possible inversion is that a formation which claims merely
+to subtract distortion installs an interpretation whose own selection and
+correction rules become invisible; its blindness is then experienced as superior
+sight.
+
+Minogue's use of Hans Christian Andersen's *The Emperor's New Clothes* makes the
+perceptual operation more exact. The innocent observer does not appear to build a
+difficult theory; he simply sees through a socially maintained appearance.
+Ideology extends that model of innocent perception to objects that cannot
+literally be seen: historical direction, hidden causal structure, future
+contradiction, collective task, and the necessity of political transformation.
+Inference and imagination thereby acquire the authority of eyesight
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 7101--7250).
+
+Perceptual verbs can consequently compress several distinguishable operations:
+
+```text
+observation
++ causal interpretation
++ moral classification
++ practical prescription
+→ “realization,” “discovery,” “revelation,” or “seeing through”
+```
+
+Such language treats the conclusion as already present and true; the remaining
+question becomes why another person does not yet see it. Words such as *realize*
+or *discover* are not intrinsically ideological, and rapid perception can be
+reality-answerable. The warning applies where a comprehensive and consequential
+interpretation receives perceptual certainty while its inferential construction,
+cross-checks, and defeat conditions disappear from view.
+
+Minogue also compares ideology with religion. Both can use awakening,
+illumination, purification, and a faith-before-understanding sequence. His
+bounded differentiating claim is that orthodox Christianity treats human
+limitation and imperfect earthly life as permanent, whereas ideology promises
+earthly illumination joined to social transformation
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 1324--1362 and 6700--6740).
+In his Latin contrast, ideology replaces *credo ut intellegam* with *contendo ut
+intellegam*: in working paraphrase, not merely *believe so that you may
+understand*, but *enter the struggle so that you may understand*.
+
+This remains **Minogue's source claim**, not a Culture Mechanics verdict on
+Christianity, religion generally, or every political movement. Religions can
+become closed, while secular inquiry can remain corrigible. The narrower point is
+how Minogue distinguishes ideological revelation's claim to comprehensive
+worldly sight and transformative power.
+
+Minogue's image of persons becoming “drops of water in a clear pond” belongs to
+his limiting account of the ideological terminus
+([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around line 8027). It is a source bridge
+to subjecthood absorption, but it is not a necessary property of generalized
+Ideology: another Ideology can retain ranks, castes, offices, or differentiated
+roles. Minogue also distinguishes his pure type from actual movements, which
+must respond to constituencies and often become reformist or revisionist.
+
+Minogue retained the oppression--struggle--liberation structure in later work.
+His chapter [“Ideology Challenges
+Politics”](https://academic.oup.com/book/378/chapter-abstract/135193934)
+summarizes a tripartite movement from oppression through struggle to a fully just
+society. His post-communist analysis describes overlapping fragments of
+revelation and identity monism rather than the simple disappearance of ideology;
+see [“Ideology after the Collapse of
+Communism”](https://journals.sagepub.com/doi/10.1111/j.1467-9248.1993.tb01800.x).
+
+With those subtype conditions preserved, the longer sequence can be reconstructed
+as:
 
 ```text
 particular grievance
@@ -19659,7 +22416,7 @@ hypothesis. He describes ideology as continuous criticism, as suspicion of
 apparently free institutions, and as a politics-disabling claim that dominated
 people cannot contribute equal judgment. His account is not adopted here as a
 neutral history of Marxism or Critical Theory. The [reconstructed
-sequence](#minogues-more-differentiated-sequence) and his two terminal judgments
+sequence](#minogue-ideology-the-narrower-subtype) and his two terminal judgments
 are retained as attributed source claims, not converted into the mechanism or
 accepted as proof of intent. Culture Mechanics instead treats the persistence of
 critical operations, the abstraction of the successor, and the response to
@@ -21709,12 +24466,15 @@ the local bigOther
 
 **Useful inference:** A person can reason capably while an inherited evaluative
 module makes some conclusions feel admirable, shameful, obvious, or unthinkable.
-Reflective cognition can inspect and retrain this module without thereby proving
-that social valuation was unreal or optional.
+Reflective cognition can indirectly investigate, reconstruct, and retrain this
+module without thereby proving that social valuation was unreal or optional.
 
 **Non-inference:** The model does not locate two literal chips in the brain, equate
 the bigOther with System 1, or claim that culture is absent from general cognition.
-The distinction is functional and constitutive within this theory.
+The distinction is functional and constitutive within this theory. The ordinary
+computer topology also does not imply that conscious awareness has a transparent,
+directly addressable interface to the evaluator; that missing relation is supplied
+by the elephant--collar picture.
 
 ### 3.2 The one PCI slot and operative weave
 
@@ -21762,22 +24522,27 @@ agreement or obedience.
 ### 3.4 Wireless collar, Wi-Fi, and repeater gain
 
 **Status:** Project-developed network family  
-**Primary theoretical homes:** [*Culture Mechanics*, “The wireless
-superpower”](0010-culture-mechanics.semantic-definition.md#11-the-wireless-superpower-the-individual-coupling-interface)
+**Primary theoretical homes:** [*Culture Mechanics*, “Haidt's elephant with a
+wireless collar”](0010-culture-mechanics.semantic-definition.md#10-second-analogy-haidts-elephant-with-a-wireless-collar),
+[*Culture Mechanics*, “The wireless
+superpower”](0010-culture-mechanics.semantic-definition.md#11-the-wireless-superpower-the-individual-coupling-interface),
 and [*Epistemic Agency under Mechanical Solidarity*, “Repeater gain and
 crowds”](0020-epistemic-agency.semantic-definition.md#repeater-gain-and-crowds)
 
-**Explanatory target:** Reception, transmission, unequal gain, and aggregate
-amplification
+**Explanatory target:** Indirect conscious access, reception, transmission,
+unequal gain, and aggregate amplification
 
-The wireless collar adds a network interface to the local evaluator. Every local
-bigOther receives and transmits. **Repeater gain** names greater reach,
-credibility, frequency, connectivity, or institutional amplification. In the
-social morphology it is one dimension of the trusted-opinion-leader function,
-not a separate role. The same network analogy can describe nonhuman infrastructure
-or a crowd of ordinary transmitters that produces a signal stronger than one
-prestigious speaker through applause, repetition, silence, ridicule, or visible
-unanimity.
+The wireless collar attaches the local evaluator to the elephant rather than
+placing a control or read-out device in the rider's hands. The rider may perceive
+an incoming social signal and later experience the elephant's changed state while
+lacking direct access to the evaluative transformation between them. The collar
+also adds a network interface: every local bigOther receives and transmits.
+**Repeater gain** names greater reach, credibility, frequency, connectivity, or
+institutional amplification. In the social morphology it is one dimension of the
+trusted-opinion-leader function, not a separate role. The same network analogy can
+describe nonhuman infrastructure or a crowd of ordinary transmitters that
+produces a signal stronger than one prestigious speaker through applause,
+repetition, silence, ridicule, or visible unanimity.
 
 **Useful inference:** Unequal carrier gain and aggregate synchronization are
 different mechanisms. Carriers of the trusted-opinion-leader function can have
@@ -21787,7 +24552,8 @@ leader.
 
 **Non-inference:** Radio strength does not combine expertise, trust, truth,
 authority, brokerage, and correction into one quantity. Nor does the picture make
-people passive receivers.
+people passive receivers, posit a literal anatomical collar, or make reflective
+reconstruction of its operation impossible.
 
 ### 3.5 Assembly language, SDK, and operating system
 
@@ -23311,7 +26077,10 @@ Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/previ
 recruitment-and-suppression pattern as **ideological-form conflict**. The broader
 condition is **mythological rivalry**; rivalry becomes conflict when participants
 actively interfere with a rival mythology's transmission, authority, membership,
-or institutional embodiment.
+or institutional embodiment. [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype)
+owns the full **Minogue-ideology** source reconstruction; the generalized
+Ideology classifier is separately owned by [*Culture Program
+Ecology*](0060-culture-program-ecology.semantic-definition.md#ideology-installed-social-un-reality-defended-through-un-reason).
 
 ### 4.11 Molecular compounds, strong binding, and possible fusion
 
@@ -27251,6 +30020,13 @@ This module distinguishes two principal Culture Program branches:
    decisive benefit, sacred relation, or causal promise beyond defeat by
    accessible reality on its own operative terms.
 
+It also defines **Ideology** as a stricter installed-program classifier within
+the semantic--epistemic content axis. An Ideology recurrently generates
+authorized social un-reality and recruits un-reason to defend that un-reality's
+operative authority from independent correction. This is not the ordinary broad
+use of *ideology*, not another name for every Pure-Ideology Culture Program, and
+not the morphological definition of Fascism.
+
 The branches use substantially the same culture-mechanical installation
 machinery. Both can provide meaning, identity, sacredness, warmth, duty, joy,
 belonging, and ***Beseelung***. Inner feeling therefore cannot reliably tell them
@@ -27362,12 +30138,17 @@ These are constitutive and normative proposals of Culture Mechanics, not claims
 of disciplinary consensus or proof that an existing liberal society successfully
 implements them.
 
-![Successor diagram for Culture Program Ecology](0060-culture-program-ecology.diagram.png)
+\begin{figure}[p]
+\centering
+\includegraphics[width=\textwidth,height=0.88\textheight,keepaspectratio]{.pdf-assets/0060-culture-program-ecology.diagram.pdf}
+\caption{Successor diagram for Culture Program Ecology.}
+\label{fig:culture-program-ecology-successor}
+\end{figure}
 
 \clearpage
 
-The [editable DOT source](0060-culture-program-ecology.diagram.dot) and
-[scalable SVG rendering](0060-culture-program-ecology.diagram.svg) accompany the
+The [editable DOT source](assets/images/0060-culture-program-ecology.diagram.dot) and
+[scalable SVG rendering](assets/images/0060-culture-program-ecology.diagram.svg) accompany the
 diagram.
 The diagram is a dense conceptual map, not a formal UML class diagram. The prose
 in this document controls where a graphical shorthand is ambiguous.
@@ -27453,6 +30234,12 @@ This document is the primary semantic home for:
 - **Culture Program** as the common category;
 - **Culture Strategy** and **Pure-Ideology Culture Program** as its two
   principal essence-based branches;
+- **Ideology** as a sufficiently installed Culture Program that recurrently
+  generates authorized social un-reality and defends its operative authority
+  through un-reason, together with **ideological generator** and **Systemic
+  Ideology** as its pre-installation and population--constitutional
+  qualifications;
+- the form--content separation between **Ideology** and **Fascism**;
 - **Culture-Embedded Strategy** as the narrow successor to legacy
   `Kulturstrategie`;
 - **Strategic Worldview**;
@@ -27556,6 +30343,10 @@ for this module.
 | **Culture Program** | Executable cultural package capable of becoming part of one operative mythological weave |
 | **Culture Strategy** | Culture Program whose load-bearing causal wager is defeasible by accessible reality |
 | **Pure-Ideology Culture Program** | Culture Program whose load-bearing authority or promise is not defeasible by accessible reality on its own terms |
+| **Ideological generator** | Reusable causal, moral, or classificatory grammar that can generate linked representations, roles, diagnoses, authorities, enemies, duties, remedies, and interpretations of challenge; it can exist before sufficient social installation and is not yet an Ideology |
+| **Ideology** | Sufficiently installed Culture Program whose reusable grammar recurrently generates authorized social un-reality and whose fitted correction relations recruit un-reason to defend that un-reality's operative authority |
+| **Systemic Ideology** | Ideology whose generative and correction-closing operation is population-scale, cross-domain, and constitutional, recurrently determining what may count as social reality across the relevant common order |
+| **Minogue-ideology** | Narrow Ideology subtype whose generator joins hidden oppression, opposed structural positions, asymmetric or false consciousness, revelatory corrected sight, mobilization, transformative power, liberation, and a terminal ideal that tends to displace ordinary political plurality |
 | **Culture Hallucination** | Controlled historical or explanatory synonym for Pure-Ideology Culture Program |
 | **Culture-Embedded Strategy** | Culture Strategy implemented substantially through culturally installed norms, virtues, duties, customs, expectations, and practices |
 | **Business Strategy** | Coordinated reality-answerable wager intended to produce cumulative organizational or market value |
@@ -27623,10 +30414,124 @@ for this module.
 | `privat / kollektiv / politisch / fundamental` | **private / collective / ideological form / fundamentalist form** |
 | proposed `Faktenfinder` in the legacy discussion | **Conflict-Finder** |
 
-**Ideology** remains available in its ordinary historical and political senses
-and in the existing technical phrase **ideological form**. It should not be used
-unqualified as the new common category or as an automatic synonym for
-Pure-Ideology.
+Lower-case *ideology* remains available in ordinary historical and political
+senses, and *ideological* remains available in the existing broad adjective and
+technical phrase **ideological form**. Capitalized **Ideology** now names the
+strict installed-program classifier defined in section 4.5. It is not the common
+category—**Culture Program** remains that category—and it is not an automatic
+synonym for Pure-Ideology. At the same specified program unit, the Ideology gate's
+load-bearing correction closure places that unit on the Pure-Ideology side, but
+the converse is false: a Pure-Ideology Culture Program need not generate or
+defend social un-reality. A larger mixed Culture Program Complex can contain an
+Ideology component without transferring that classification to every component.
+
+#### Ideology vocabulary: overload map and dispatch rules {#ideology-vocabulary-overload-map}
+
+The theory deliberately retains several historically layered uses of the
+*ideology* word family. They are overloaded in the programming-language sense:
+the shared word does not imply a shared type. This subsection is the canonical
+map for resolving those uses without renaming or deleting them.
+
+The principal type relation is:
+
+```text
+Culture Program
+├── Culture Strategy
+└── Pure-Ideology Culture Program
+        └── Ideology
+
+Within Ideology, two further questions can overlap:
+- generative grammar: Minogue-ideology / not Minogue-ideology
+- operative scale: Systemic Ideology / non-systemic Ideology
+
+Independent propagation-and-enforcement axis:
+private → collective → ideological form → fundamentalist form
+```
+
+The tree means subset only at the same specified program unit. Minogue-ideology
+and Systemic Ideology are intersecting refinements rather than mutually exclusive
+siblings: the former classifies generative grammar and the latter scale. The
+propagation axis asks another question altogether.
+
+| Expression | Typed meaning | What it does **not** establish |
+|---|---|---|
+| **Culture Program** | General executable package of mythology, classifications, roles, rules, values, and expected conduct | Strategy, Pure-Ideology, strict Ideology, propagation form, truth, falsity, or legitimacy |
+| **Pure-Ideology Culture Program** | Program whose load-bearing authority, promise, or sacred relation cannot be defeated by accessible reality on its own operative terms | Strict Ideology, social un-reality, un-reason, compulsory supremacy, or harmfulness |
+| **Ideological generator** | Reusable grammar producing linked representations, roles, diagnoses, authorities, enemies, duties, remedies, and interpretations of challenge | Sufficient installation or operative Ideology |
+| **Ideology** | Strict seven-gate classifier: sufficiently installed Culture Program whose reusable generator recurrently produces authorized social un-reality and whose correction relations recruit un-reason to defend its operative authority | Every Pure-Ideology program, political doctrine, false belief, ideology label, or episode of un-reason |
+| **Systemic Ideology** | Ideology whose generative and correction-closing operation is population-scale, cross-domain, and constitutional | Systemic lying by itself; the latter remains a distinct constitutional meta-order |
+| **Minogue-ideology** | Ideology whose generator joins hidden oppression, opposed positions, asymmetric or false consciousness, corrected-sight revelation, mobilization, transformative power, liberation, and a terminal anti-political ideal | Every oppression claim, structural explanation, movement, or ordinary-language ideology |
+| **Ideological form** | Propagation form characterized by active recruitment, formation, and pressure for wider adherence | Strict Ideology or Pure-Ideology; a reality-answerable program can also be propagated in this form |
+| **Ideological-form program** | Culture Program presently operating in ideological form | A separate branch or synonym for Ideology |
+| **Ideological-form conflict** | Organized recruitment, conformity testing, delegitimation, and interference with a rival program's reproduction | Minogue-ideology, strict Ideology, or physical coercion without their further gates |
+| **Ideological conflict** | Minogue's source expression for organized ideological struggle and opposition disabling | The project taxonomy; Culture Mechanics translates the relevant operation as ideological-form conflict and, where violent, fundamentalist-form conflict |
+
+Lower-case **ideological** also remains a broad, religion-inclusive legacy
+adjective meaning approximately *pertaining to a Culture Program*. Consequently,
+*cultural or ideological program*, *installed ideological program*,
+*ideological collective*, and similar expressions do not classify the object as
+strict Ideology. **Ideological Culture Program** is not a separate canonical
+type. Where it occurs or is proposed, rewrite it for analysis as either **Culture
+Program**, **Culture Program in ideological form**, or **Ideology**, according to
+the evidenced relation.
+
+Several defined compounds likewise use this broad adjective or preserve source
+language:
+
+| Compound | Controlled use |
+|---|---|
+| **Ideological symbol** | Socially legible token that activates an installed Culture Program and communicates a person's relation to it; it need not activate strict Ideology |
+| **Conformity signal** | Ideological symbol whose performance or nonperformance makes conformity and deviation publicly legible |
+| **Fusion ideology** | Broad older expression for a program seeking to absorb separate persons into one collective subject; it is not strict Ideology unless the seven gates are independently met |
+| **Ideology-as-hallucination** | Originating comparison now controlled through **Culture Hallucination**, which remains an explanatory synonym for Pure-Ideology rather than strict Ideology |
+| **Iron law of ideological projection** | Working heuristic about a closed formation attributing discrediting motives, practices, or intentions to opponents; neither one accusation nor the heuristic's name establishes strict Ideology |
+| ***Ideologische Macht* / ideological power** | Generic cultural capability to organize perception, interpretation, legitimacy, identity, and coordinated conduct; every durable culture has some such capability, so it does not imply strict Ideology |
+| **Ideological-Power Hazard Diagnostic** | Typed profile of how readily that capability could be captured or exploited and converted into unanswerable practical jurisdiction; it is not an Ideology score |
+| **Ideological direction, field, content, authorization, identity, family, label, or attitude** | Broad contextual or ordinary-language descriptions unless the text explicitly invokes the capitalized classifier and its gates |
+
+Ordinary historical, political, disciplinary, and source-owned language remains
+available. *Ideology* may therefore still mean a doctrine or system of ideas;
+empirical research may measure ideological identity, attitude, or rigidity;
+Minogue may use *ideology* for his own pure type; and sources may speak of
+*ideological subversion*. The originating *queer ideology / woke =
+postmodernism = critical constructivism* formulation remains a candidate
+application. None of these word uses inherits the strict project classifier
+without a separate seven-gate demonstration.
+
+Apply the following dispatch rules when reading or writing the theory:
+
+1. **Use the complete qualified term first.** *Pure-Ideology*, *Ideology*,
+   *Minogue-ideology*, *Systemic Ideology*, *ideological form*, and
+   *ideological power* are different typed expressions.
+2. **Read standalone capitalized Ideology strictly.** It means the seven-gate
+   social-un-reality-and-un-reason classifier unless a quotation or explicit
+   source boundary says otherwise.
+3. **Read lower-case ideology contextually.** It normally retains an ordinary,
+   historical, quoted, or broad legacy sense and cannot support a strict
+   inference by itself.
+4. **Do not rely on capitalization alone.** *Pure-Ideology* contains a capitalized
+   word without being the strict classifier, while *Minogue-ideology* uses a
+   lower-case compound element but is a strict subtype.
+5. **Do not transfer across axes.** Branch, strict Ideology status, propagation
+   form, morphology, ideological-power capability, and systemic-lying
+   constitution each require their own evidence.
+6. **Resolve ambiguity before drawing consequences.** Name the program unit,
+   period, branch, classifier, form, scale, and relevant compound rather than
+   treating the shared word stem as evidence.
+
+The most important non-equivalences are therefore:
+
+```text
+ideological program          != Ideology
+Pure-Ideology                != Ideology
+ideological generator        != Ideology
+ideological form             != Ideology
+ideological-form conflict    != Minogue-ideology
+fusion ideology              != Ideology
+ideological power            != Ideology
+Systemic Ideology            != systemic lying
+ordinary or source ideology  != project-classified Ideology
+```
 
 ### 2.3 Controlled use of “Culture Hallucination”
 
@@ -27863,7 +30768,292 @@ load-bearing finality protected against every accessible defeater
 → Pure-Ideology Culture Program
 ```
 
-### 4.5 Essence-based classification and heterogeneous contents
+### 4.5 Ideology: installed social un-reality defended through un-reason {#ideology-installed-social-un-reality-defended-through-un-reason}
+
+**Ideology** *noun*
+**Status:** proposed strict Culture Mechanics classifier
+
+The ordinary word *ideology* can name doctrine, political outlook, false
+consciousness, partisanship, or any socially situated system of ideas. The
+project uses the capitalized technical term more narrowly:
+
+> **An Ideology is a sufficiently installed Culture Program operating across a
+> solidarity-bearing formation whose reusable generative grammar recurrently
+> produces authorized representations of social reality, identity, causation,
+> responsibility, and remedy that organize social un-reality, and whose fitted
+> correction relations recruit un-reason to prevent independent evidence and
+> consequence from withdrawing that un-reality's operative authority.**
+
+This is a deliberately narrow, pejorative project term rather than a claim about
+disciplinary consensus. Leor Zmigrod's [cross-ideological psychological
+framework](https://doi.org/10.1177/17456916211044140), for example, treats
+ideologies more broadly as epistemically and socially organizing forces and
+defines ideological thinking through doctrinal rigidity and selective intergroup
+relations while remaining agnostic about truth and reality distortion. The
+present classifier instead selects one installed social-un-reality-and-defence
+subfamily; ordinary-language and source uses must not be silently reclassified by
+capitalization.
+
+The classification has seven jointly required gates:
+
+1. **Bearer:** identify a Culture Program rather than one proposition, slogan,
+   speaker, label, or isolated error.
+2. **Generator:** reconstruct a reusable grammar that produces a family of
+   linked representations, classifications, roles, authorities, duties,
+   enemies, or remedies. One protected mistake is insufficient.
+3. **Operative un-reality:** show that the generated representations govern
+   consequential classification or conduct—as fact, identity, guilt, standing,
+   resource, permission, sanction, remedy, or jurisdiction—under the
+   [un-reality relation](0030-epistemic-constitution.semantic-definition.md#un-reality-operative-reality-status-insulated-from-reality).
+4. **Correction closure:** identify relevant evidence, failed prediction,
+   consequence, or rival explanation that should be capable of reducing
+   authority or changing use, and show the recurrent failure of that correction.
+5. **Un-reasoned defence:** under a material reality-based challenge, show active
+   reasoning recursively protecting the load-bearing account through asymmetric
+   standards, immunizing reinterpretation, criticism-as-confirmation, moving
+   defeat conditions, or another evidenced failure of reciprocal correction.
+6. **Sufficient installation and reproduction:** identify a fitted combination
+   of carriers, meanings, formation, routines, records, incentives, authority,
+   institutional memory, and succession that reproduces the program beyond one
+   encounter. No fixed checklist of symbols, uniforms, offices, or media is
+   required.
+7. **Collective scale:** specify a durable solidarity-bearing group,
+   organization, movement, institution, population, or jurisdiction rather than
+   a private mistake, a transient agreement, or a few acquaintances sharing one
+   false belief.
+
+#### Proposed pictogram for Ideology
+
+The following figure is proposed as a compact pictogram for the strict project
+term **Ideology: installed social un-reality defended through un-reason**. It
+belongs to the general seven-gate classifier, not only to the narrower
+Minogue-ideology subtype.
+
+| Visible component | Intended meaning in the pictogram |
+|---|---|
+| **Head** | One individual human being. The three heads remain visibly separate: the picture begins with individual carriers and does not assume one literal group mind. |
+| **Interlocking puzzle pieces** | A neutral organized worldview: the person's fitted concepts, classifications, causal relations, and expectations. Coherence and organization alone are not Ideology; a corrigible worldview or Culture Program can use the same neutral structure. |
+| **Viral hazard mark inside one puzzle piece** | The Ideology pictured as an installed **mind-virus**. It is already integrated into the worldview and can appear to its carrier as an ordinary fitting part rather than as something alien arriving from outside. In the strict reading it combines a reusable generator of social un-reality with self-protecting correction relations: when the installed account is materially challenged, un-reason recruits the machinery and standing of reason to keep its load-bearing conclusion from losing. The image depicts the installed state, not the original route or moment of infection. |
+| **Three repeated virus-bearing heads** | Reproduction of the same program across several individual carriers. This supplies the population-side idea of distributed installation while preserving the persons as separate loci of perception, judgment, and action. Three drawn persons are schematic; they do not by themselves satisfy the classifier's collective-scale or durability gates. |
+| **Three separate outlined streams, beginning just beyond the faces at eye height** | Locally produced orientations. The installed mind-virus captures or redirects attention and salience—what is noticed, ignored, foregrounded, or made morally urgent—and thereby shapes perception, affect, interpretation, social classification, causal attribution, judgment, correction, and prospective action. The short white interval keeps the internal worldview distinct from its expressed output; it does not imply that the conscious person has direct reflective access to every operation producing that output. |
+| **Streams merging into one arrow** | Coupling and collective convergence. Public expression, reciprocal observation, repetition, trusted transmission, amplification, mutual monitoring, apparent consensus, conformity pressure, and feedback can bring separately generated orientations into a common mode. In the project's [laser-synchronization analogy](0020-epistemic-agency.semantic-definition.md#laser-synchronization-magnetization-and-cultural-domains), selected variables—attention, affect, interpretation, judgment, timing, or action—become dynamically aligned, yielding common attention, speed, force, rhythm, coherent action, or coordinated enforcement. The single arrow is this concentrated collective direction, not proof that every mind has become identical. |
+
+The visual sequence is therefore:
+
+```text
+neutral organized worldview in each individual
+→ infection by an Ideology pictured as an integrated mind-virus
+→ capture or redirection of attention, salience, interpretation, and correction
+→ separately produced orientations enter reciprocal social coupling
+→ laser-like synchronization into a common direction of judgment or action
+```
+
+\clearpage
+\begin{wrapfigure}{r}{0.32\textwidth}
+\centering
+\includegraphics[width=\linewidth,keepaspectratio]{.pdf-assets/ideology-three-heads-merging-arrows.pdf}
+\caption{Proposed pictogram for \mbox{Ideology}.}
+\label{fig:ideology-pictogram}
+\end{wrapfigure}
+
+Gad Saad's [*The Parasitic Mind: How Infectious Ideas Are Killing Common
+Sense*](https://www.simonandschuster.com/books/The-Parasitic-Mind/Gad-Saad/9781621579939)
+and its language of **idea pathogens** provide a nearby polemical precursor for
+the mind-virus image. The Culture Mechanics classifier is nevertheless not
+Saad's definition: *Ideology*, un-reason, social un-reality, the seven gates, and
+the exact component mapping above are project developments. The same applies to
+Minogue. His oppression--revelation--liberation pure type supplies one important
+subtype and makes capture of perception through promised corrected sight
+especially vivid; the general pictogram also covers a non-Minogue generator
+when, and only when, all seven strict gates are evidenced.
+
+The viral image is evaluative shorthand, not a claim that ideas are biological
+organisms, that every Culture Program is harmful, or that one false or
+self-propagating belief is already an Ideology. Likewise, the common arrow does
+not by itself establish coercion, *Gleichschaltung*, Fascism, an operative or
+fused multi-mind-self, systemic lying, centralized design, or person-level
+guilt. The pictogram names the proposed conjunction compactly; classification
+still requires evidence for every gate at a specified program unit and period.
+
+#### Complementary Ideology-free quality-seal pictogram
+
+The complementary figure is proposed as a compact, quality-seal-like pictogram
+for **Ideology-free**, analogous in visual function to a “sugar-free” mark. Here
+the expression is a controlled negation of the strict classifier: for the
+specified program unit, scale, and period, the seven-gate conjunction is not
+operative. It is not an eighth gate, a new constitutional orientation, or a
+general certificate of truth, health, innocence, or moral worth.
+
+\begin{wrapfigure}{r}{0.32\textwidth}
+\centering
+\includegraphics[width=\linewidth,keepaspectratio]{.pdf-assets/ideology-free.pdf}
+\caption{Proposed Ideology-free quality-seal pictogram.}
+\label{fig:ideology-free-pictogram}
+\end{wrapfigure}
+
+Its visible components negate the corresponding relations in the Ideology
+pictogram while preserving the individual persons:
+
+- The **three separate heads** still represent individual human beings. They do
+  not fuse into one literal mind.
+- Their intact **interlocking puzzle pieces** still represent neutral organized
+  worldviews. Ideology-free therefore does not mean worldview-free,
+  culture-free, concept-free, or untouched by ordinary social learning.
+- The absence of a virus from every head means that no ideological mind-virus
+  is pictured as installed within those worldviews. The single detached
+  **biohazard-virus symbol inside a prohibition ring and slash** compresses that
+  absence or exclusion into a quality-seal-like mark; it does not picture injury
+  to, cleansing of, or punishment of a person.
+- The three **outlined streams** still permit separate attention, judgment, and
+  prospective action. Their approach does not itself imply Ideology.
+- Their **jagged breaks and expanding shards** picture interruption of the
+  capture--feedback--convergence relation before it produces one
+  correction-resistant direction. The ice-like shattering is directed at the
+  synchronization structure, not at the heads.
+- The absence of a **common trunk and arrowhead** means that the figure does not
+  produce the single ideologically synchronized output pictured above.
+
+The controlled visual sequence is therefore:
+
+```text
+neutral organized worldview in each individual
+→ no Ideology pictured as installed within the worldview
+→ separate orientations remain possible
+→ the typed capture-to-convergence relation is interrupted
+→ no single correction-resistant ideological direction is produced
+```
+
+The broken convergence must not be generalized into a claim that agreement,
+solidarity, coordination, or common action is itself ideological. Voluntary,
+bounded, plural, and reality-correctable coordination remains compatible with
+the Ideology-free picture. Nor is social fragmentation intrinsically good: the
+shards negate this pictogram's specific synchronization relation rather than
+proposing fracture as a general social ideal.
+
+As with the positive pictogram, the image cannot certify its own application.
+Because strict Ideology is conjunctive, a bounded negative classification should
+identify which gate or gates are absent or defeated and supply evidence
+appropriate to the claimed unit and period. A favourable self-description,
+crossed-out virus emblem, open-discussion claim, isolated correction, or lack of
+immediately visible un-reason is not by itself sufficient evidence of an
+Ideology-free organization, program, population, or jurisdiction.
+
+An **ideological generator** is the pre-installation concept: a reusable causal,
+moral, or classificatory grammar capable of producing the linked outputs and of
+specifying how challenges should be interpreted. It can be present in a text,
+school, tradition, movement, or incipient program without satisfying the
+installation, scale, practical-jurisdiction, or defence gates. Do not diagnose an
+operative Ideology from the generator alone.
+
+The temporal order matters. Un-reality need not originate in un-reason:
+
+```text
+authorized un-real representation
+→ independent correction threatens operative authority
+→ functional demand for preservation or defence
+→ un-reason, where the response continues to claim reason's standing
+  OR non-inferential closure, where the correcting encounter is blocked
+→ possible continued operative un-reality
+```
+
+**Defence** here means an epistemic answer that retains the machinery and
+authority-claim of reason while making the protected account unable to lose.
+**Preservation** is broader. Censorship, omission, ritual assent, fear, memory
+control, synchronized incentives, trusted-carrier lock, custody failure,
+correction nullification, coercion, or openly enforced dogma can preserve
+un-reality without themselves satisfying the un-reason gate. They may coexist
+with un-reason, but they cannot substitute for evidenced un-reason in this strict
+classifier.
+
+The gate concerns operative correction rather than universal propositional
+falsity. A representation can be held un-really even if it happens to be true
+when its authority has been made incapable of losing; a false claim can remain
+ordinary corrigible error. Ideology therefore does not mean that every contained
+proposition is false, every carrier knowingly lies, or one conscious designer
+coordinates the formation.
+
+At the same specified program unit, the closure required by Ideology places its
+load-bearing protected account on the **Pure-Ideology** side of the branch test.
+The converse does not hold. A bounded religious program can retain an
+extra-empirical sacred promise beyond accessible defeat while neither generating
+social un-reality nor recruiting un-reason to defend worldly practical
+jurisdiction. Whole-program classification must also respect scale: an Ideology
+component inside a mixed Culture Program Complex does not classify every
+component or carrier.
+
+#### Systemic Ideology and systemic lying
+
+A **Systemic Ideology** is an Ideology whose generative and correction-closing
+operation has become population-scale, cross-domain, and constitutional: it
+recurrently determines what may count as social reality across the relevant
+common order. The functional threshold is not raw headcount. Ask whether the
+program:
+
+- reproduces beyond direct acquaintance with its current advocates;
+- possesses impersonal carrier roles, transmission, memory, and succession;
+- governs consequential standing or conduct for a population or jurisdiction;
+- survives turnover among individual carriers; and
+- recurs across enough linked domains that the pattern is not one local error.
+
+Systemic Ideology is one important candidate route into the
+[systemic-lying epistemic constitution](0030-epistemic-constitution.semantic-definition.md#17-systemic-lying-epistemic-constitution),
+but the classifiers remain distinct. Systemic lying is the constitutional
+meta-order that recurrently generates, selects, authorizes, protects, and
+replaces organized un-reality because independent truth has become subordinate
+to usefulness, loyalty, control, or authority. It can employ mechanisms other
+than un-reason, while localized Ideology need not constitute a whole
+constitutional meta-order. Test domain reach, recurrent replacement, public
+avowal, records, correction, and practical jurisdiction separately.
+
+#### Minogue-ideology: the oppression--revelation--liberation subtype
+
+**Minogue-ideology** is the narrower subtype whose ideological generator joins:
+
+```text
+particular grievance or limitation
+→ hidden oppressive system
+→ oppressed and oppressor positions
+→ ordinary non-recognition explained as false consciousness
+→ revelation, awakening, or corrected sight
+→ struggle and mobilization
+→ acquisition of transformative power
+→ liberation from the structure
+→ terminal harmony with comparatively underspecified institutions
+→ criticism exposed to classification as revisionism
+```
+
+The subtype therefore requires more than an oppression word or an adverse
+structural explanation. Preserve Minogue's hidden comprehensive structure,
+asymmetric consciousness, salvational revelation, mobilization, power,
+liberating terminus, and anti-political treatment of ordinary counterjudgment.
+The detailed source reconstruction, the costly-formation/effortless-perception
+relation, the clear-pond terminus, the distinction between pure type and actual
+movements, and his two separate terminal judgments are owned by
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype).
+
+#### Ideology as content axis; Fascism as form axis
+
+Ideology classifies executable semantic--epistemic **content**: generative
+grammar, authorized social world, and correction defence as embodied in a
+formation. Fascism classifies **morphological form**: the strong, whole-polity,
+jealous, subjecthood-absorptive realization of mechanical solidarity with an
+exclusive directing claim to incarnate, interpret, and act for the collective
+self.
+
+```text
+CONTENT AXIS                       FORM AXIS
+Ideology / no Ideology             Fascism / no Fascism
+```
+
+The axes are analytically distinct but operationally coupled. Ideology can be
+installed in a non-Fascist form. Fascism can operate through openly avowed
+domination without satisfying the Ideology gate. A formation can satisfy both,
+but neither classifier may be inferred from the other. The functional morphology
+of mechanical solidarity remains the generic whole-formation description
+available to Culture Programs generally; it is not a downstream layer or an
+Ideology-specific discriminator.
+
+### 4.6 Essence-based classification and heterogeneous contents
 
 The branches are essence-based ideal types that permit predominant
 whole-program classification. The classification is categorical at the proposed
@@ -27897,7 +31087,8 @@ diagram:
 ```text
 Culture Program
 ├── Pure-Ideology Culture Program
-│   ├── Fascism
+│   ├── Ideology
+│   │   └── Minogue-ideology
 │   ├── Cultural Essentialism
 │   ├── Religion
 │   │   └── Sect
@@ -27910,15 +31101,23 @@ Culture Program
     ├── Political Strategy
     ├── Culture-Embedded Strategy
     └── Strategic Worldview
+
+Cross-cutting morphological form axis:
+Fascism / no Fascism
 ```
 
 This is a theoretical classification proposal, not a lexical claim that every
-ordinary use of these words has the same essence.
+ordinary use of these words has the same essence. The placement of Ideology
+under Pure-Ideology applies at the same specified program unit because the strict
+Ideology gate requires load-bearing correction closure. Fascism is deliberately
+outside the inheritance tree because it asks a different morphological question.
 
 ### 5.1 Subtractive-essence hypotheses
 
 | Familiar form | Candidate load-bearing essence | Boundary warning |
 |---|---|---|
+| **Ideology** | Sufficiently installed generator of authorized social un-reality whose operative authority is defended through un-reason | Doctrine, false belief, one un-real representation, one episode of un-reason, or Pure-Ideology finality alone is insufficient; require all seven gates |
+| **Minogue-ideology** | Ideology whose generator joins hidden oppression, opposed positions, asymmetric consciousness, revelation, mobilization, transformative power, liberation, and a terminal anti-political ideal | One oppression claim, structural explanation, awakening metaphor, or political movement is insufficient; preserve the pure-type/actual-movement distinction |
 | **Religion** | Sacred or transcendent relation protected from accessible defeat | A religious institution can contain many reality-answerable practices and strategies |
 | **Sect** | More bounded and often more demanding religious descendant | Smallness, novelty, or unpopularity alone is insufficient |
 | **Cult** | Highly concentrated devotion, authority, or demanded attachment | The ordinary term is pejorative and needs operational criteria |
@@ -27932,6 +31131,8 @@ ordinary use of these words has the same essence.
 | **Culture-Embedded Strategy** | Productive mechanism installed as norm, virtue, duty, custom, feeling, role, and practice | A norm's popularity or moral warmth does not establish material payoff |
 | **Strategic Worldview** | General causal orientation answerable to worldly consequences | A total worldview protected from defeat belongs on the other branch |
 
+The table retains Fascism for comparison with familiar forms, but its row is a
+cross-cutting morphological classifier rather than a Pure-Ideology descendant.
 The hierarchy allows redundant or multiple-looking legacy relations where the
 subtractive essence warrants them. Diagram neatness must not decide ontology.
 
@@ -28509,6 +31710,8 @@ be silently inferred from another.
 | Dimension | Question |
 |---|---|
 | **Branch** | Does accessible reality have the final right to defeat the load-bearing wager? |
+| **Ideology classifier** | Does a sufficiently installed generator recurrently produce authorized social un-reality and recruit un-reason to defend its operative authority? |
+| **Morphological form** | Does the complete Fascism conjunction or another specified form organize the carrier formation? |
 | **Order level** | Does shared binding force reside in concrete answers or in the generator that produces and corrects them? |
 | **Slot occupancy** | Is the one local bigOther stably occupied? Stable first-order and lifted programs both imply full capture. |
 | **Propagation and enforcement form** | Is the program private, collective, ideological, or fundamentalist in its current operation? |
@@ -33752,6 +36955,38 @@ the causal claim.
      protected U1, authorization, blocked correction, and practical consequence.
      Independently supported alternative causes and reciprocal model revision are
      ordinary truth-seeking.
+115. **A doctrine, label, false belief, or ideological generator is not yet an
+     Ideology.** Require the complete bearer, generator, operative un-reality,
+     correction-closure, un-reasoned-defence, installation, and collective-scale
+     conjunction for a specified unit and period.
+116. **Pure-Ideology does not automatically mean Ideology.** Extra-empirical
+     finality can remain bounded and non-imposing without generating social
+     un-reality or recruiting un-reason to defend worldly practical authority.
+     At the same program unit an Ideology's protected load-bearing account lies on
+     the Pure-Ideology side, but a containing Culture Program Complex can remain
+     heterogeneous.
+117. **Un-reality or un-reason alone does not establish Ideology.** One operative
+     un-real representation can remain local; one episode of self-protective
+     reasoning can remain individual and corrigible. Require reusable generation,
+     recurrent correction failure, fitted reproduction, and collective scale.
+118. **Preservation is broader than ideological defence.** Censorship, omission,
+     ritual assent, fear, memory control, incentive lock, correction
+     nullification, coercion, or open dogma can preserve un-reality. Without the
+     required reason-shaped defence they do not alone satisfy the strict Ideology
+     gate, though other classifications may apply.
+119. **Minogue-ideology is not every oppression claim.** Require the fitted hidden
+     system, opposed structural positions, asymmetric or false consciousness,
+     revelation, mobilization, transformative power, liberation, and terminal
+     anti-political relation. Preserve Minogue's pure-type/actual-movement
+     distinction.
+120. **Blindfold and awakening language is side-indeterminate.** Correction and
+     un-reality can both claim to remove blindness. Infer the relation from
+     disclosed reasoning, reciprocal standards, independent correction,
+     consequences, and revision rather than from perceptual rhetoric alone.
+121. **Ideology and Fascism occupy different axes.** Ideology is a
+     semantic--epistemic content classifier; Fascism is a morphological-form
+     classifier. Neither entails the other, and neither converts a formation-level
+     finding into automatic person or population guilt.
 
 ## 18. Open questions and research program
 
@@ -34295,6 +37530,18 @@ and correction closure. Neither the conversation nor the conjunction
 establishes a named case, conspiracy, capture, arbitrary rule,
 *Willkürherrschaft*, *Machtpolitik*, death-drive, or Ragnarök without their
 additional evidence.
+The August 2026 Minogue-ideology development generalized one part of this source
+material into the project-defined **Ideology** classifier: sufficiently installed
+Culture Program, reusable generator, authorized social un-reality, failed
+operative correction, and un-reasoned defence. Minogue supplies the source model
+for the narrower oppression--revelation--liberation subtype, not the generalized
+genus. The source audit retains his “machine for generating doctrines,” grand
+secret and revelation, circular training in corrected sight, mobilization and
+opposition-disabling operation, clear-pond terminus, pure-type/actual-movement
+distinction, and separate terminal judgments. The generalized definition, seven
+gates, Systemic Ideology level, and form--content separation from Fascism are
+Culture Mechanics developments. Their complete source reconstruction belongs to
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype).
 The subsequent *Alien Powers* discussion supplied the originating claim that
 revolutionary-left theorists may have encountered the distributed
 self-maintenance of grown cultures as oppression, progressively analyzed it, and
@@ -34517,7 +37764,12 @@ lock**; this appendix applies both to the stock--flow account of systemic lying
 and the separately gated Shadow-Sovereign diagnostic. The user then
 identified un-reason as especially relevant to the originating
 *queer ideology / woke = postmodernism = critical constructivism* picture and
-requested the sharper formulation **reason's immanent self-negation**. The
+requested the then-sharper compression **reason's immanent self-negation**. The
+later theoretical *un-* development retained that phrase as a description of
+the epistemic result but replaced it as the controlling definition: reason's
+machinery and authority-claim remain while conclusion-protection displaces
+truth-correction as governor. *Epistemic Constitution* owns that refined
+retained-form and displaced-governor account. The
 assistant initially described *queer ideology* as bounded application shorthand;
 the user corrected that wording and required the project's established
 Halperin-based definition of *queer* as a relational positionality defined through
@@ -34855,10 +38107,34 @@ term adds a third orientation to the constitutional classifier in [*Epistemic
 Constitution of Lifted Mechanical
 Solidarity*](0030-epistemic-constitution.semantic-definition.md#constitutional-classification-orientations-and-their-poles).
 
-The relation is generative and temporal. The systemic-lying constitution is the
-meta-order that can produce a recurrent **flow** of un-real representations;
-organized un-reality is the installed **stock** of classifications, procedures,
-records, offices, incentives, and allocations fitted around them. [**Correction
+The [typed epistemic
+architecture](0030-epistemic-constitution.semantic-definition.md#typed-epistemic-architecture)
+also prevents a shortcut through the communicative level. Linguistic tricks and
+instrumental untruthfulness can contribute to the systemic-lying core, but one
+trick, one strategic communicator, or even methodical actor-level deception does
+not establish organized un-reality, a systemic-lying constitution, or the full
+*Machtpolitik* composite. Conversely, sincere carriers and non-linguistic
+retention mechanisms can reproduce the systemic core without every node
+knowingly lying.
+
+The [**distributed carrier
+sequence**](0030-epistemic-constitution.semantic-definition.md#distributed-carrier-sequence)
+specifies the possible routing from originator or selector through carrier and
+recipient reconstruction into un-reason, un-reality, installed stock, and
+constitutional reproduction. Its ecological importance is that selection,
+transmission, sincere adoption, defensive reasoning, record custody, sanction,
+and reproduction can be performed by different people and structures. Intent,
+knowledge, guilt, and coordination do not propagate with the message; every
+transition requires its own evidence. The sequence is an explanatory bridge,
+not another *Machtpolitik* component or a shortcut to systemic classification.
+
+The relation is generative, preservative, and temporal. The systemic-lying
+constitution is the meta-order that recurrently generates, selects, authorizes,
+protects, and replaces a **flow** of un-real representations; organized
+un-reality is the installed **stock** of classifications, procedures, records,
+offices, incentives, and allocations fitted around them. *Recurrent* does not
+mean uninterrupted output: the correction structure can remain closed during
+quiet periods. [**Correction
 nullification**](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia)
 is one possible retention mechanism after public contradiction. Silence and
 non-reception can preserve an old account, but a systemic-lying order can also
@@ -34879,7 +38155,7 @@ operative un-real representation U0 collides with reality
 ```
 
 This gives the stock--flow relation a recursive form. Systemic lying need not
-merely preserve an old lie by silence; it can recurrently manufacture auxiliary
+merely preserve an old lie by silence; it can recurrently generate auxiliary
 un-real causal accounts whenever installed representations collide with reality.
 Organized un-reality is the accumulating stock those accounts leave in rules,
 records, classifications, offices, incentives, and remembered precedent.
@@ -35173,6 +38449,9 @@ ordinary cultural formation
 → ideological-power capability
 → concentration, capture, or opportunistic exploitation
 → mythologies and carrying structures program local bigOthers
+→ pre-reflective salience, affect, credibility, and taboo can narrow
+→ some approaching relations become difficult to see, formulate, or name
+→ authorized slogans or formulas can occupy the conceptual vacancy
 → some carriers exhibit Bonhoefferian Dummheit
   or normopathic over-adaptation
 → internal program cohesion and distributed enforcement rise
@@ -35185,6 +38464,16 @@ ordinary cultural formation
 → Machtpolitik
 → possible Willkürherrschaft
 ```
+
+The subject-side transition is specified by the [ideological-power scale
+bridge](0020-epistemic-agency.semantic-definition.md#ideological-power-local-capture-scale-bridge).
+It distinguishes the local bigOther as internalized observer from the
+individual's own imaginative-conceptual inner eye and treats blindness as the
+possible negative loss of articulation, *Dummheit* as possible positive
+occupation by authorized formulas, and returned repetition and enforcement as
+field gain. None of those local observations by itself proves the larger danger
+scenario, an upstream producer, a beneficiary, capture, Systemic Ideology,
+*Machtpolitik*, or person-level guilt.
 
 This is a multi-level correction to Carlo M. Cipolla's payoff matrix in [*The
 Basic Laws of Human
@@ -36057,7 +39346,8 @@ social mediation
 → reconstruction mandate
 → politically useful conclusions receive moral and epistemic authorization
 → critical intelligence recruited to manage standards, exceptions, and defeaters
-→ un-reason as reason's immanent self-negation
+→ un-reason: reason's machinery and authority retained while
+  conclusion-protection displaces truth-correction as governor
 → weakened independent reality correction
 → identity-dependent standards and permitted contradictions
 → strong internal program cohesion
@@ -36099,13 +39389,16 @@ progressively harder to defeat. This is more specific than calling the umbrella
 family *anti-reason*: the claim is that the powers of reasoning may be recruited
 to undermine reciprocal reasoning and independent correction from within.
 
-Within this candidate application, the sharper proposal is:
-**un-reason is reason's immanent self-negation**. Reasoning remains articulate and
-productive, but is decoupled from reciprocal non-contradiction, disclosed
-standards, and independent reality correction. It does not merely reject reason
-from outside or leave its place empty. It preserves reason's conceptual,
-interpretive, and critical operations while turning them against the conditions
-under which those operations possess epistemic authority.
+Within this candidate application, the sharper proposal follows the canonical
+[**theoretical *un-* operator**](0030-epistemic-constitution.semantic-definition.md#theoretical-un-operator).
+Reasoning remains articulate and productive and continues to claim reason's
+authority, but conclusion-protection displaces truth-correction as its governing
+principle. The resulting epistemic function is self-negating, but that phrase
+names the result rather than the full mechanism. Un-reason does not reject reason
+from outside or leave its place empty; it preserves conceptual, interpretive,
+and critical operations while redirecting them against reciprocal
+non-contradiction, disclosed standards, independent reality correction, and the
+genuine possibility of losing.
 
 This remains a **candidate application of a generic mechanism**, not a
 classification licensed by the words *woke*, *postmodernism*, *critical
@@ -36179,9 +39472,10 @@ defined in this document. It does not replace their primary definitions:
 | One institutional control plane | Separation of functions, bounded jurisdictions, and the [capture-resistant jurisdictional topology](#capture-resistant-jurisdictional-topology) |
 | Common-mode policy failure | [Parallel local SGD](#sgd-and-its-constitutional-variants), heterogeneous implementations, preserved alternatives, and rollback |
 | Metric and scorecard capture | [Sensor triangulation](#sensor-triangulation-and-conflict), preserved discrepancies, and [non-compensable sentinels](#non-compensable-constitutional-sentinels) |
-| Fusion and loss of personal standing | The [concrete person as protected object](#democracy-as-schutzbalken-gegen-die-macht) and the distinct capacities *Speak, Own, Refuse, Exit,* and *Appeal* |
+| Fusion and loss of personal standing | The [concrete person as protected object](#1321-democracy-as-schutzbalken-gegen-die-macht) and the distinct capacities *Speak, Own, Refuse, Exit,* and *Appeal* |
 | External Babelization and inability to organize | [Lifted mechanical solidarity](#lifted-mechanical-solidarity), narrative integration, defensive pluralist culture, protection of legitimate opposition, and—where common adjudication has already failed—the [secession branch rather than imposed settlement](#the-severe-babelization-fork-secession-or-force) |
 | Hidden carrying structures | [Culture Program carrying-structure mapping](#culture-program-carrying-structure) and the [causal intervention test](#carrying-structure-intervention-test) |
+| Covert, unaccountable, correction-resistant, or practically inescapable influence over evaluative and epistemic formation | [Cognitive liberty and epistemic adulthood](0020-epistemic-agency.semantic-definition.md#20-cognitive-liberty-and-epistemic-adulthood), plural trusted routes, reflective inspection, disclosed provenance and jurisdiction, protected formulation, correction, refusal, appeal, and exit |
 | Local capture | Common person-protecting shell, appeal, mobility, succession, comparison, and repair |
 | National or common-shell capture | [Bounded reversed legal priority and soft secession](#soft-secession-and-reversed-legal-priority), distributed failure domains, and surviving alternatives |
 | No material basis for refusal | [Secure Homestead Rate](#own-and-the-secure-homestead-rate) and other effective material centres of independence |
@@ -36332,8 +39626,29 @@ Culture Program Ecology adds an ecological level to Culture Mechanics:
 ```text
 Culture Program
 ├── Pure-Ideology Culture Program
+│   └── Ideology
+│       └── Minogue-ideology
 └── Culture Strategy
     └── Culture-Embedded Strategy
+
+ideological generator
+→ can exist before sufficient installation
+
+sufficiently installed Culture Program
++ reusable generative grammar
++ recurrent authorized social un-reality
++ failed operative correction
++ un-reasoned defence
++ durable collective reproduction
+→ Ideology
+
+Ideology
++ population-scale, cross-domain, constitutional operation
+→ Systemic Ideology
+→ candidate route into, but not synonym for, systemic lying
+
+Ideology content axis
+≠ Fascism morphological form axis
 
 shared installation machinery
 ≠ shared relation to correction
@@ -36745,7 +40060,8 @@ Ideological-Power Hazard Diagnostic
 originating critical-constructivist umbrella candidate
 + articulate and productive reasoning
 + protected account controls standards, exceptions, and defeaters
-→ candidate un-reason as reason's immanent self-negation
+→ candidate un-reason: reason's machinery and authority retained while
+  conclusion-protection displaces truth-correction as governor
 ≠ conclusion licensed by *woke*, *postmodernism*, *critical constructivism*,
   or any other affiliation label
 

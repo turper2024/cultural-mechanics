@@ -1002,6 +1002,8 @@ field, and agent:
 | Construct | Precise role in culture mechanics |
 |---|---|
 | **Culture Program** | The executable package of mythologies, classifications, rules, roles, values, and expected conduct installed as one operative weave. **Cultural or ideological program** remains a legacy or explanatory alias. |
+| **Ideological generator and Ideology** | An ideological generator is a reusable grammar capable of producing linked representations, roles, diagnoses, authorities, enemies, duties, remedies, and challenge interpretations. **Ideology** is the stricter sufficiently installed Culture Program that recurrently generates authorized social un-reality and recruits un-reason to defend its operative authority. The generator alone is not an Ideology; their primary semantic home is *Culture Program Ecology*. |
+| **Minogue-ideology** | Narrow Ideology subtype joining hidden oppression, opposed positions, asymmetric or false consciousness, revelatory corrected sight, mobilization, transformative power, liberation, and a terminal ideal tending to displace ordinary political plurality. *Mythology Construction* owns the source reconstruction; *Culture Program Ecology* owns the classifier relation. |
 | **Culture Program Complex** | A large Culture Program containing multiple mutually fitted packages or components; not a second bigOther and narrower than a composite culture-mechanical object. |
 | **Culture Program carrying structure** | The organizational and material substrate through which a Culture Program is financed, taught, reproduced, coordinated, amplified, protected, and given continuity or operational capability. It is neither the program nor the population of human carriers; its primary semantic home is *Culture Program Ecology*. |
 | **Polity-scale *Gleichschaltung* hazard** | Process-level warning that human carriers, symbolic and conformity-marker environments, and institutional-operational systems across multiple formerly independent societal domains are being aligned toward one privileged ideological direction. It can arise before a complete Culture Program is reconstructed and before a completed polity-scale mechanical-solidarity morphology or Fascism conjunction; narrow coordination and voluntary thick community remain distinct. Its primary semantic home is *Culture Program Ecology*. |
@@ -1013,9 +1015,15 @@ field, and agent:
 | **Pluralist adaptive constitutional search** | Proposed application in which a common person-protecting shell contains bounded policy variation, plural sensors, correction, lawful movement, imitation, and succession without granting one metric or institution root access to reality. Its epistemic architecture belongs to *Epistemic Constitution* and its concrete pluralist design to *Culture Program Ecology*. |
 | **Lifted-Order Capacity Dashboard** | Proposed *Culture Program Ecology* sensor suite—Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, and Choose—for testing a pluralist Culture Strategy. It is neither the definition of lifted solidarity nor a scalar social good. |
 | **Projective-vandalism circuit** | Observable sequence in which a disowned blemish is projected onto an opponent, a taboo label makes the target symbolically attackable, and repeated denunciation may become affectively rewarding. Its linguistic home is *Linguistic Tricks* and its motivational hypothesis belongs to *Mythology Construction*. |
-| **Un-reason** | Proposed cross-scale mechanism in which reasoning remains active but is organized to protect a conclusion, authority, identity, or programme from reciprocal standards and independent correction. It is not a third constitutional orientation, a synonym for irrationality, or a classification of a population; its primary semantic home is *Epistemic Constitution*. |
-| **Un-reality and correction nullification** | An authorized representation retains operative public reality-status despite failed independent correction; after disclosure, correction nullification prevents an independently sustained correction from changing operation. Un-reason can block correction one epistemic level earlier. Their primary semantic home is *Epistemic Constitution*. |
-| **Auxiliary-un-reality explaining-away cascade** | A reality collision threatening operative un-reality U0 elicits an authorized auxiliary causal account U1 that explains the correction away, protects U0, and may acquire classifications and consequences of its own. It is not ordinary causal revision; its primary semantic home is *Epistemic Constitution*. |
+| **Theoretical *un-* operator** | Restricted project construction in which X's recognizable machinery and authority-position remain while a non-X governing principle redirects operation. It is not the ordinary meaning of every *un-* word and requires retained form, claimed authority, normal and substituted governors, observable inversion, and a defeat condition. Its primary semantic home is *Epistemic Constitution*. |
+| **Linguistic trick and instrumental untruthfulness** | A linguistic trick is a possible local communicative operation; instrumental untruthfulness is the separate orientation that selects or preserves communication for operative effect while truth-supporting conditions become subordinate. Trick form, operative trick, deliberate trick, actor attribution, and institutional attribution remain distinct. Their primary semantic home is *Linguistic Tricks*. |
+| **Distributed carrier sequence** | Possible cross-scale pathway from originator or selector through carrier and recipient reconstruction into possible un-reason, un-reality, organized un-reality, and systemic reproduction. Different people, roles, and institutions can occupy different functions; intent and guilt do not propagate with the message, no conspiracy follows, and every arrow requires separate evidence. *Linguistic Tricks* owns the communicative front end; *Epistemic Constitution* owns the complete sequence. |
+| **Latent Culture Program profile, contrastive correction-interface probe, and Culture Program fingerprint** | A latent profile is a bounded conditional reconstruction of classifications, sacred values, authorities, affective activations, correction relations, and action tendencies likely to become operative under specified conditions. The proposed probe first establishes comprehension of a disclosed causal form through relatively uncharged cases, then tests whether correction practice changes selectively across differently culture-loaded implementations. The fingerprint is the typed multi-case distribution of those discontinuities across neutral and several program-loaded cases; selective A-linked recurrence can raise the likelihood of A's installation or load-bearing status, while capture requires further evidence of displaced correction or authorship. *Epistemic Agency* owns the diagnostic; one discontinuity, emotional response, or naturalistic example does not establish an Ideology, Culture Program, radicalized person, or danger. |
+| **Guided unbraiding and possible de-radicalization** | Guided unbraiding is the hypothetical, consensual and bounded process of making an individualized cultural-affective braid observable, loosening selected automatic couplings, and restoring correction and reflective authorship without installing the guide's replacement program. Possible de-radicalization is the broader aspirational outcome only where radicalizing capture is independently established. MCIP is one candidate method; neither the diagnostic nor unbraiding is violence-risk assessment, forced conversion, established treatment, or proof of efficacy. *Epistemic Agency* owns the complete proposal and its directional-symmetry, research, safeguard, and falsification conditions. |
+| **Un-reason** | Proposed cross-scale mechanism in which reasoning retains its machinery and authority-claim while conclusion-protection displaces truth-correction as governor. It is not a third constitutional orientation, a synonym for irrationality, or a classification of a population; its primary semantic home is *Epistemic Constitution*. |
+| **Un-reality, organized un-reality, and correction nullification** | An authorized representation retains operative public reality-status despite failed independent correction; organized un-reality is the fitted multi-channel stock built around one or more such representations. After disclosure, correction nullification prevents an independently sustained correction from changing operation. Un-reason can block correction one epistemic level earlier. Their primary semantic home is *Epistemic Constitution*. |
+| **Systemic-lying epistemic constitution** | Constitutional meta-order that recurrently generates, selects, authorizes, protects, and replaces organized un-reality because independent truth has been subordinated to usefulness, loyalty, control, or authority. It is not the sum of conscious individual lies. Its primary semantic home is *Epistemic Constitution*. |
+| **Auxiliary-un-reality explaining-away cascade** | A reality collision threatening operative un-reality U0 elicits an authorized auxiliary causal account U1 that explains the correction away, protects U0, and may acquire classifications and consequences of its own. It becomes counterfeit Bayesian updating only where authorization, identity fit, or programme utility substitutes for independent support while U1 is protected from reciprocal defeat. Its primary semantic home is *Epistemic Constitution*. |
 | **Trusted-carrier correction lock** | High-gain trusted-opinion-leader-function positions remain sufficiently aligned to deny a public correction distributed credibility, reception, or operative force despite growing ordinary dissent. It is a possible receiving-field implementation of correction nullification, not proof of falsehood, coordination, capture, or Shadow-Sovereign rule; its primary semantic home is *Epistemic Agency*. |
 | **Mythological lens** | The generalized mapping through which observations are converted into culturally learned values and feelings. |
 | **Ideological symbol** | A socially legible token that activates the program and communicates a person's relation to it. |
@@ -1027,14 +1035,16 @@ field, and agent:
 | **Distributed bigOther** | The persistent network state maintained through persons, institutions, practices, artifacts, reputations, and sanctions. |
 | **Operative multi-mind-self** | The distributed system only when it becomes sufficiently integrated and continuous to judge, intend, own, and act as a collective agent. A multi-mind-self presentation remains below this threshold. |
 
-In this section, **ideological** is retained as a legacy broad, religion-inclusive
-adjective for anything pertaining to such a Culture Program. It includes
-religious, political, organizational, professional, activist, national, and
-lifestyle programs. The preferred formal common-category noun is **Culture
-Program**. Both uses must be distinguished from the narrower **ideological form**,
-the third member of the private--collective--ideological--fundamentalist taxonomy
-below. The expression **ideological-form program** names that third configuration
-when the two senses might otherwise be confused.
+In this section, lower-case **ideological** is retained as a legacy broad,
+religion-inclusive adjective for anything pertaining to a Culture Program. It
+includes religious, political, organizational, professional, activist, national,
+and lifestyle programs. The preferred formal common-category noun remains
+**Culture Program**. Capitalized **Ideology** instead names the strict installed
+un-reality-and-un-reason classifier. Both uses must be distinguished from the
+narrower **ideological form**, the third member of the
+private--collective--ideological--fundamentalist taxonomy below. The expression
+**ideological-form program** names that third configuration when the senses might
+otherwise be confused.
 
 #### Disagreement, mythological rivalry, and ideological-form conflict
 
@@ -1072,9 +1082,10 @@ he argues that an initial move is to disable opposition, ideally by censorship.
 In Culture Mechanics terminology, this maps most directly to
 **ideological-form conflict**, and to **fundamentalist-form conflict** when
 physical coercion or violence becomes the means of expansion or retention.
-Minogue's narrower, mobilizing, conflict-centered conception must not be silently
-equated with the broad religion-inclusive adjective *ideological* used in this
-document.
+Minogue's narrower, mobilizing, conflict-centered conception is now formalized as
+the **Minogue-ideology** subtype. It must not be silently equated with either the
+generalized Ideology classifier or the broad religion-inclusive adjective
+*ideological* used in this document.
 
 Call censorship or channel exclusion **rival-signal suppression** when it obstructs
 a competing mythology's signals, and **counter-program suppression** when it
@@ -1360,6 +1371,9 @@ Ideology*](https://books.google.com/books/about/Alien_Powers.html?id=XWTiQJx_u5k
 provides a close published neighbour in its treatment of ideological revelation as
 jealous and expansionary. **Jealous cultural program** and its integration with
 the present ontology are project-developed terms, not Minogue's complete theory.
+The complete source reconstruction now belongs to the narrower
+[**Minogue-ideology**](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype)
+subtype; jealousy is one neighbouring relation, not its definition.
 
 Jealousy must be attributed at the correct level:
 
@@ -1861,6 +1875,49 @@ Culture mechanics adds a **wireless collar** around the elephant's neck.
 - The **mythologies** are the evaluated stories through which that program is trained and reinforced.
 - The **wireless signals** are other people's expressions, symbols, slogans, rituals, approval, disapproval, and visible conduct.
 
+#### Why the elephant--collar picture is more exact
+
+\begin{wrapfigure}{R}{0.42\textwidth}
+\centering
+\includegraphics[width=\linewidth,keepaspectratio]{.pdf-assets/elephant-with-spiked-collar-rider-and-wifi.pdf}
+\caption{Single-person rider--elephant--wireless-collar model.}
+\label{fig:rider-elephant-wireless-collar}
+\end{wrapfigure}
+
+The CPU--PCI-card picture remains the clearest representation of the
+**single-slot principle**. It shows one comparatively simple evaluator installed
+at a privileged point, able to redirect a much more powerful general-purpose
+processor, and it makes the replacement problem immediately visible. Its
+limitation is that an internal computer card appears addressable from within the
+same machine. The picture does not show the functional and epistemic remoteness
+of the culturally installed evaluator from conscious awareness.
+
+The elephant--collar picture adds precisely that relation. The collar is attached
+to the elephant, not operated by the rider. In the model, the rider has **no
+direct access path to the collar** and receives no transparent read-out of its
+classification. The rider may consciously perceive an incoming social signal and
+later notice that the elephant's affect, attention, posture, or direction has
+changed, but the rider encounters the collar's operation only through those
+effects upon the elephant. The absence of reins, a remote control, or a device in
+the rider's hands is therefore part of the mapping.
+
+This remoteness is functional rather than anatomical and does not make the
+collar permanently unknowable. Reflective comparison, external observation, and
+guided investigation may permit the rider to reconstruct, question, or retrain
+some of its mappings. What the picture denies is an immediate, transparent
+first-person interface while the classification is occurring.
+
+The figure condenses the architecture of one culturally coupled psyche. It is
+read functionally, not anatomically. The broad dog-collar band marks the
+bigOther's installed coupling to the elephant; its spikes mark **affective
+leverage**, not literal injury, electrical punishment, or aggression. That
+leverage includes aversive classifications such as shame, fear, disgust,
+exclusion, and indignation, but also attractive classifications such as pride,
+reassurance, belonging, approval, and sacredness. The two equally sized sets of
+radio arcs mark reception and transmission. Their lack of arrows leaves the
+collar's network capability neutral rather than assigning a fixed direction to
+one depicted message.
+
 The collar can produce social pleasure and pain: pride, shame, belonging, exclusion, sacredness, disgust, reassurance, fear, or indignation. It acts directly upon the elephant. The elephant changes its posture, attention, and direction long before the rider clearly notices the collar's intervention.
 
 Only afterward may the rider become aware of a conclusion:
@@ -1872,6 +1929,112 @@ Only afterward may the rider become aware of a conclusion:
 The rider may mistake the resulting feeling for the product of independent reasoning. It may then use the main processor's verbal intelligence to justify the direction in which the elephant has already begun to move.
 
 This analogy is closer to the psychological claim than the computer analogy because it shows that the bigOther does not normally dictate complete thoughts. It modifies the affective conditions under which thought and action occur.
+
+#### Haidt's Leary citation: nonconscious and preattentive
+
+The experimental context discussed by Haidt makes this indirect access visible.
+Participants consciously saw purported ratings of how much another person wanted
+to interact with them. Even self-described social mavericks, who reported that
+other people's opinions did not affect them, showed substantial changes in
+self-esteem when the ratings declined. Their conscious self-description did not
+accurately report the operation of the underlying social evaluator.
+
+In [Jonathan Haidt's *The Righteous Mind*](https://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/),
+chapter 4, section “We Are Obsessed with Polls,” Haidt reports Mark Leary's
+conclusion:
+
+> “the sociometer operates at a nonconscious and preattentive level to scan the
+> social environment for any and all indications that one’s relational value is
+> low or declining.”
+
+Haidt then places the sociometer in the elephant. The exact citation chain is
+Haidt, *The Righteous Mind: Why Good People Are Divided by Politics and
+Religion* (New York: Pantheon Books, 2012), chapter 4, section 1, note 16, which
+cites [Mark R. Leary, “Sociometer Theory and the Pursuit of Relational Value:
+Getting to the Root of Self-Esteem,” *European Review of Social Psychology* 16
+(2005): 75--111, at 85](https://doi.org/10.1080/10463280540000007).
+
+Two features of Leary's formulation are decisive for the present analogy:
+
+- **Nonconscious:** the scanning and initial relational evaluation need not enter
+  conscious awareness. The rider can therefore experience a changed state
+  without experiencing the operation that produced it. Here *nonconscious* does
+  not by itself imply a specifically psychoanalytic unconscious.
+- **Preattentive:** the scanning does not wait for deliberate attention. It can
+  register socially significant indications before the rider chooses to inspect
+  them or formulates a judgment about them.
+
+Together the two terms identify both **opacity** and **causal priority**: the
+evaluation can alter the elephant before the rider attends to, understands, or
+explains the alteration. The rider may see the social input and later feel the
+output while lacking direct access to the transformation between them.
+
+#### Leary's sociometer as a limited precursor
+
+Within Culture Mechanics, Leary's sociometer may be treated as a **limited
+version of part of the local-bigOther architecture**, and Leary accordingly as a
+**psychological precursor to parts of the local-bigOther theory**. The
+attribution is deliberately bounded: Leary did not propose the local bigOther,
+an installed Culture Program, the single-slot architecture, or the distributed
+wireless coupling developed here. His sociometer nevertheless supplies a closely
+fitting account of one possible affective mechanism through which indications of
+social valuation become motivationally effective in the elephant.
+
+The sociometer is limited first by its position in the social sequence. It mainly
+describes the receiving person's sensitivity to indications of their own
+relational value. Culture Mechanics also models the upstream production of the
+judgment:
+
+```text
+B's conduct
+    ↓
+A's local bigOther classifies B through A's installed Culture Program
+    ↓
+A's elephant receives the resulting affective valuation
+    ↓
+A expresses or behaviourally leaks approval, disapproval, inclusion, or exclusion
+    ↓
+B detects the indication and sociometric machinery registers relational value
+    ↓
+B's elephant changes before B's rider clearly understands why
+```
+
+A wholly private judgment in A cannot affect B's sociometer unless A expresses
+it, leaks it through conduct, or B otherwise infers it. The important distinction
+is that the local bigOther in A can **generate** the culturally patterned
+judgment, whereas the sociometer in B explains a narrower form of **detection and
+affective registration**.
+
+The local bigOther also operates without an actual person A being present. B's
+own installed program can instantiate an anticipated or generalized third-party
+observer and apply its gaze to B's contemplated conduct or even to a private
+thought:
+
+```text
+B considers a private thought, act, or possibility
+    ↓
+B's local bigOther instantiates the culturally expected observer
+    ↓
+the installed Culture Program judges B from that third-person position
+    ↓
+B's elephant experiences shame, pride, fear, reassurance, or felt prohibition
+    ↓
+B's rider encounters the result without any actual observer being present
+```
+
+This is the **local-bigOther inner eye**: the internalized third-party observer
+that can approve, shame, prohibit, or judge from within the person's own psyche.
+It must remain distinct from the individual's own imaginative-conceptual inner
+eye, which can narrow so that a culturally dangerous relation can no longer be
+seen, formulated, or named; see [*Epistemic Agency*, “Scale bridge: ideological
+power, inner-eye blindness, and *Dummheit*”](0020-epistemic-agency.semantic-definition.md#ideological-power-local-capture-scale-bridge).
+
+The relation can therefore be stated compactly: **the sociometer detects
+indications of how others value me; the local bigOther also generates culturally
+programmed judgments of others, determines their content, and can reproduce the
+judging gaze internally when no observer is present.** Leary is a precursor to
+the nonconscious, preattentive, relational-value, and affective-coupling parts of
+Culture Mechanics, not a source for or validation of the complete synthesis.
 
 For the mapped features, non-inferences, and relationship of the CPU, PCI-slot,
 wireless-collar, protocol, and network pictures to the framework's physical and
@@ -1912,6 +2075,30 @@ their bigOthers classify and respond
 their responses return as signals to A
         ↺
 ```
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=0.82\textheight,keepaspectratio]{.pdf-assets/elephant-rider-group-interaction.pdf}
+\caption{Distributed interaction among five equivalent rider--elephant--wireless-collar units.}
+\label{fig:rider-elephant-group-interaction}
+\end{figure}
+
+The group figure repeats the complete single-person unit in a diagrammatic
+top-down network layout while retaining the readable side view of each psyche.
+All five units have the same size and components. The middle unit is therefore a
+focal example, not a chief, privileged broadcaster, directing organ, or separate
+class of transmitter. Centre-to-surrounding paths show reciprocal local
+coupling, while the surrounding paths show that participants also signal to one
+another rather than communicating only through a hub.
+
+The dashed paths and collar arcs are symbolic, not literal radio waves, wires,
+or measured channels. Their lack of arrowheads marks the
+receive--classify--act--transmit reciprocity of every unit. The picture
+therefore illustrates how local
+outputs can become other people's inputs and produce feedback, amplification,
+apparent consensus, divergence, or synchronization. It does not by itself imply
+agreement, truth, equal influence, coercion, centralized direction, collective
+agency, or a fused multi-mind-self.
 
 The originating physical analogy is that a local bigOther resembles a charged
 particle: it is a source of a field and is simultaneously susceptible to the field
@@ -2078,8 +2265,11 @@ The principal dynamics increasing absorption are called **fusion pressure**:
 
 **Total fusion** is the limiting case: high subjecthood absorption combines with
 comprehensive jurisdiction and closed correction or exit. The originating image
-is that persons become “drops of water in one clear pond.” It is a pole, not the
-definition of every multi-mind-self presentation or operative multi-mind-self and not a biological state that humans can
+is that persons become “drops of water in one clear pond.” The image comes from
+Minogue's account of the ideological terminus and remains subtype-specific there;
+Culture Mechanics reuses it here only as a source bridge to the broader fusion
+limit. It is a pole, not the definition of generalized Ideology, every
+multi-mind-self presentation or operative multi-mind-self, and not a biological state that humans can
 literally enter.
 
 A **fusion ideology** is a mythology or program that treats the separate person as
@@ -2088,7 +2278,9 @@ persons as organs of one collectively enacted subject with increasingly
 comprehensive jurisdiction. Such a program can demand fusion without succeeding
 in forming a competent multi-mind-self; conversely, a capable collective agent can
 remain differentiated, person-preserving, jurisdictionally bounded, and
-corrigible.
+corrigible. *Fusion ideology* retains the older broad adjectival usage; it does
+not satisfy the strict capitalized Ideology classifier unless the separate
+generator, un-reality, un-reason, installation, and scale gates are evidenced.
 
 One route into fusion is
 [**Humanity inversion**](0040-mythology-construction.semantic-definition.md#humanity-as-standing-horizon-and-sacred-object):
@@ -2718,6 +2910,23 @@ Solidarity*](0020-epistemic-agency.semantic-definition.md) develops the social-f
 account: mutually synchronized local bigOthers and institutional power can make
 borrowed judgment feel internally compulsory and thereby weaken the person's
 capacity to form an independent response.
+
+The finer [ideological-power scale
+bridge](0020-epistemic-agency.semantic-definition.md#ideological-power-local-capture-scale-bridge)
+distinguishes the internalized observer from the person's own capacity for
+inward seeing. An approaching culturally forbidden relation may become difficult
+to hold, formulate, or name before an authorized slogan occupies the resulting
+conceptual vacancy. The compact distinction is:
+
+> **Blindness is the negative moment: what the person can no longer see,
+> formulate, or name. *Dummheit* is the positive occupation of that vacancy:
+> authorized formulas speak and judge in the person's place.**
+
+Weak inattention or one blind spot is not yet *Dummheit*. The stronger candidate
+mechanism requires inhibited self-authored articulation and predictable
+replacement by authorized classification in the activated domain; wider claims
+require evidence of domain spread, synchronization, conduct, enforcement, and
+persistence.
 
 At whole-polity scale, Bonhoeffer's power--*Dummheit* relation is the originating
 epistemic bridge to the project's [functional definition of

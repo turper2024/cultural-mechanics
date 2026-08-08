@@ -27,11 +27,17 @@ The screenshots show the English ChatGPT interface available when this package w
 created. They apply to the Project option. Labels, language, or layout may change as
 the interface evolves.
 
+The knowledge guide is required in both options because the instruction profiles
+use it for source routing and interpretation. Always attach or upload
+`0000-culture-mechanics.guide.md`; neither the combined theory file nor the core
+theory file replaces it.
+
 #### Option 1 — Ordinary standalone chat
 
 1. Start a new ordinary ChatGPT chat.
 2. Choose a source setup:
    - For the simplest full-source setup, attach
+     `0000-culture-mechanics.guide.md` and
      `build/md/0000-culture-mechanics.all.md`.
    - For modular source selection, attach
      `0000-culture-mechanics.guide.md` and
@@ -120,8 +126,11 @@ hypothesis.
 
 Another optional file is
 `build/md/0060-culture-program-ecology.semantic-definition.md`. Add it for questions
-about Culture Programs, Culture Strategy versus Pure-Ideology, Culture-Embedded
-Strategy, reality testing, mixed cultural braids, program competition, fanatic or
+about Culture Programs, Culture Strategy versus Pure-Ideology, Ideology as
+installed social un-reality defended through un-reason, ideological generators,
+Systemic Ideology, Minogue-ideology and its oppression--revelation--liberation
+grammar, the content-axis separation from Fascism, Culture-Embedded Strategy,
+reality testing, mixed cultural braids, program competition, fanatic or
 fatal offspring, Culture Program capture, program disharmony, objective
 substitution, gradual or glacial capture, Culture Program carrying structure,
 money flows, teaching or recruitment infrastructure, organizational
@@ -294,11 +303,17 @@ Die Bildschirmfotos zeigen die englische ChatGPT-Benutzeroberfläche zum Zeitpun
 der Paketerstellung. Sie gelten für die Projektvariante. Beschriftung, Sprache oder
 Anordnung können sich mit der Benutzeroberfläche ändern.
 
+Der Wissensleitfaden ist für beide Möglichkeiten erforderlich, weil die
+Anweisungsprofile ihn für die Quellenauswahl und Auslegung verwenden. Hängen Sie
+`0000-culture-mechanics.guide.md` deshalb immer an oder laden Sie die Datei hoch;
+weder die zusammengefasste Theoriedatei noch die Kerntheoriedatei ersetzt sie.
+
 #### Möglichkeit 1 — Gewöhnlicher eigenständiger Chat
 
 1. Beginnen Sie einen neuen gewöhnlichen ChatGPT-Chat.
 2. Wählen Sie eine Quellenausstattung:
    - Für die einfachste Ausstattung mit allen Quellen hängen Sie
+     `0000-culture-mechanics.guide.md` und
      `build/md/0000-culture-mechanics.all.md` an.
    - Für eine modulare Quellenauswahl hängen Sie
      `0000-culture-mechanics.guide.md` und
@@ -370,13 +385,28 @@ handelt es sich um ein externes Buch, das nicht in diesem Paket enthalten ist.
 Lesen Sie das Buch, statt ChatGPT aufzufordern, seine Methode aus den
 bereitgestellten Theoriedateien zu rekonstruieren.
 
-Die maßgebliche Datei zur epistemischen Verfassung definiert **Un-Vernunft
-(*un-reason*)** als möglichen Mechanismus und **un-real representation**,
+Die maßgebliche Datei zur epistemischen Verfassung definiert zuerst den
+eingeschränkten theoretischen **Un-Operator**: Die erkennbare Form, Maschinerie
+und Autoritätsposition von X bleiben erhalten, während ein X-fremdes inneres
+Prinzip ihre Funktion umlenkt. **Un-Vernunft (*un-reason*)** ist der besondere
+Fall, in dem Schlussfolgerungsschutz an die Stelle von Wahrheitskorrektur als
+Steuerungsprinzip der weiterhin aktiven Vernunft tritt. **Un-real representation**,
 **un-reality** sowie **organized un-reality** als Zustands-/Ergebnisfamilie: Eine
 autorisierte Darstellung behält praktisch den Status öffentlicher Wirklichkeit,
 obwohl unabhängige Beobachtung und Folgen ihre Autorität oder Verwendung nicht
 mehr zuverlässig ändern können. Bloßer Irrtum, Fiktion, Un-Vernunft,
-systemisches Lügen und Babelisierung bleiben getrennt. Die Formel „Eine Lüge wird
+systemisches Lügen und Babelisierung bleiben getrennt. Die typisierte Architektur
+unterscheidet kommunikative Operation, Auswahlorientierung, Schlussmechanismus,
+operativen Zustand, installierten Bestand und Verfassungsordnung. Vergleiche
+zwischen diesen Achsen müssen Einheit und Ebene konstant halten: Aufrichtigkeit
+ist kein Wahrheitsgehalt, strategische öffentliche Kommunikation beweist keine
+private Un-Vernunft, und institutionelle Auswahl beweist keine Absicht des
+einzelnen Akteurs. Die **verteilte Trägersequenz** trennt Urheber oder Auswähler,
+Träger und Rekonstruktion beim Empfänger von möglicher nachgelagerter
+Un-Vernunft, Un-Wirklichkeit, organisierter Un-Wirklichkeit und systemischer
+Reproduktion. Verschiedene Personen oder Stellen können jede Funktion tragen;
+Absicht wandert nicht mit der Botschaft, Verteilung beweist keine Verschwörung,
+und jeder Übergang braucht eigene Belege. Die Formel „Eine Lüge wird
 un-wirklich, wenn alle sie bewohnen müssen, und Un-Vernunft beginnt, wenn
 Intelligenz dafür eingesetzt wird zu erklären, warum der sichtbare Widerspruch
 nicht zählen darf“ meint Teilnahmezwang statt buchstäblicher Einstimmigkeit und
@@ -436,7 +466,12 @@ Gegenseitigkeit und von der engen *Kommandoagent*-Hypothese.
 Eine weitere optionale Datei ist
 `build/md/0060-culture-program-ecology.semantic-definition.md`. Fügen Sie sie bei
 Fragen zu Kulturprogrammen, Kulturstrategie im Unterschied zu
-Pure-Ideology, Culture-Embedded Strategy, Realitätsprüfung, gemischten kulturellen
+Pure-Ideology, **Ideology** als installiertem Kulturprogramm, das autorisierte
+soziale Un-Wirklichkeit erzeugt und ihre praktische Autorität durch Un-Vernunft
+verteidigt, ideologischen Generatoren, **Systemic Ideology**,
+**Minogue-ideology** als engerem Untertyp aus verborgener Unterdrückung,
+Offenbarung und Befreiung, der Trennung von Ideology als Inhalt und Faschismus
+als morphologischer Form, Culture-Embedded Strategy, Realitätsprüfung, gemischten kulturellen
 Geflechten, Programmkonkurrenz, fanatischen oder tödlichen Nachkommen, Culture
 Program Capture (Übernahme eines Kulturprogramms), Programmdisharmonie,
 Zielsubstitution, schrittweiser oder „glazialer“ Übernahme, aus dem Programm
