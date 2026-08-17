@@ -60,33 +60,51 @@ truthful yet death-driven, or systemically lying while claiming life, peace,
 health, or flourishing. The two orientations therefore classify different
 properties and must not be collapsed.
 
-The project-specific [**theoretical *un-* operator**](#theoretical-un-operator)
-names a retained form whose ordinary governor has been displaced: X's machinery
-and authority-claim remain while a non-X principle redirects their operation.
+The project-specific [**theoretical *un-* family**](#theoretical-un-operator)
+marks deformations internal to X rather than simple absence or external
+opposition.
+It presently distinguishes [**constitutive-relation
+inversion**](#constitutive-relation-inversion), which directly reverses what
+answers to what, from [**pseudomorphic governor
+substitution**](#pseudomorphic-governor-substitution), in which a durable social
+bearer retains X's recognizable form, machinery, and authority while an
+incompatible principle governs consequential choice, correction, and
+reproduction or succession.
 It is a restricted diagnostic construction, not the ordinary meaning of every
 word beginning with *un-*.
 
 Within the truth orientation, **un-reason** names a proposed internal failure
 mechanism: inferential, conceptual, interpretive, or critical intelligence remains
-active and retains reason's appearance and authority-claim, but
-conclusion-protection displaces truth-correction as its governor. It explains how
-intellectual sophistication can strengthen rather than repair a self-sealing
-order. Un-reason is a mechanism, not a third constitutional orientation.
+active, but a protected conclusion governs the evidence and correction to which
+it should answer. It explains how intellectual sophistication can strengthen
+rather than repair a self-sealing order. Un-reason is a
+constitutive-relation-inversion mechanism, not a third constitutional orientation
+or a bearer-level PGS diagnosis by itself.
 
 **Un-reality** names a related cross-scale state or output: an authorized
 representation retains operative public reality-status and continues to classify
 facts, direct decisions, and allocate burdens, resources, permissions, status, or
 jurisdiction, while independent evidence and consequence can no longer reliably
 reduce its authority or revise its use. It is not a third orientation either.
+It requires social operation but not one bounded institution.
 Un-reason can help produce or maintain un-reality; a systemic-lying constitution
 is the larger meta-order that recurrently generates, selects, authorizes,
 protects, and replaces **organized un-reality**.
 After disclosure, an acknowledged false account can remain operative through
 **procession inertia**, while an independently defeated but unacknowledged
 account can persist through **correction nullification**: the correction is
-speakable but treated as though never received. **Bounded de-authorization** is
+speakable but treated as though never received. **Procedural correction
+conversion** is the distinct case in which a correction is received and recorded
+but a procedural rule converts it into no operative defeat. **Bounded de-authorization** is
 the corresponding person-preserving response that withdraws specified operative
 authority without requiring conversion or whole-person defeat.
+
+Suppression of nonviolent, evidence-bearing correction is a
+**non-localizing epistemic-constitutional fault sentinel**. It can strongly
+indicate that correction-protecting malfunction is present without identifying
+whether the cause is localized self-protection, un-reality, un-reason, organized
+un-reality, systemic lying, or another mechanism. A censorial law cannot acquit
+itself merely by making the targeted correction unlawful.
 
 The wider ecology of Culture Programs, including pluralistic classical liberalism
 as a proposed lifted Culture Strategy that contains incompatible first-order
@@ -151,7 +169,7 @@ This usage has a close contemporary neighbour in **Jonathan Rauch's** [*The Cons
 These meta-rules may govern universally at their own level while generating
 particular answers and bounded authorities. The full definition, concrete cases,
 and difficult classifications remain in [*Epistemic Agency under Mechanical
-Solidarity*](0020-epistemic-agency.semantic-definition.md#25-examples-cases-and-boundary-tests).
+Solidarity*](0020-epistemic-agency.semantic-definition.md#examples-cases-and-boundary-tests).
 
 The term should not be confused with **Michel Foucault's** *regime of truth*, developed in interviews such as “Truth and Power” in [*Power/Knowledge*](https://www.penguinrandomhouse.com/books/55032/powerknowledge-by-michel-foucault/), although there is an important family resemblance. Foucault directs attention to the procedures, institutions, sanctions, and authorized speakers through which statements function as true. The present concept asks the additional realist and normative question: **does that social regime preserve independent ways for reality to defeat its authorized claims?** An epistemic constitution is therefore evaluated not only by how truth-status is socially produced but by whether the resulting order remains reality-answerable.
 
@@ -160,6 +178,17 @@ The term should not be confused with **Michel Foucault's** *regime of truth*, de
 **Mechanical solidarity**, introduced by **Émile Durkheim** in [*De la division du travail social*](https://classiques.uqam.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html), is cohesion through shared beliefs, sentiments, and the moral force of collective consciousness. Durkheim contrasts it analytically with **organic solidarity**, which arises through differentiation, specialization, and interdependence.
 
 The present synthesis does not claim that modern society simply returns to undifferentiated mechanical solidarity. Modern society remains organically differentiated: physicians, engineers, historians, courts, laboratories, media, families, religious communities, firms, and citizens perform different functions and possess different knowledge.
+
+When reporting Durkheim, this document preserves **organic solidarity** as his
+source concept of cohesion through differentiated interdependence. Within Culture
+Mechanics, however, the source composite is analytically decomposed: **organic
+differentiation** names the topology of specialized roles and reciprocal
+dependence, while **lifted mechanical solidarity** names the common binding force
+located in the rules that constitute, allocate, and correct those differentiated
+roles. This is a project reinterpretation rather than Durkheim's own formulation;
+its authoritative treatment is in [*Epistemic Agency under Mechanical
+Solidarity*, “Durkheimian organic solidarity as a lifted
+composite”](0020-epistemic-agency.semantic-definition.md#durkheimian-organic-solidarity-as-lifted-composite).
 
 Within the coordinated theory family, [*Epistemic Agency under Mechanical
 Solidarity*](0020-epistemic-agency.semantic-definition.md) further interprets
@@ -209,7 +238,7 @@ orders to translate important meanings, recognize legitimate common procedures
 and jurisdictions, and coordinate required common action. This is a performance
 of the architecture, not the definition of lifting. [*Mythology Construction*,
 “Cultural interoperability and its breakdown
-(Babelization)”](0040-mythology-construction.semantic-definition.md#29-cultural-interoperability-and-its-breakdown-babelization)
+(Babelization)”](0040-mythology-construction.semantic-definition.md#cultural-interoperability-and-its-breakdown-babelization)
 distinguishes the meta-order's effective thickness, its span across interfaces,
 and the cultural-interoperability floor (anti-Babel floor). A lifted order may be
 nominal rather than operative, or too thin or narrow in span to keep a society
@@ -222,7 +251,9 @@ become closed and absorptive. Order level, occupancy, jurisdiction, corrigibilit
 interoperability, and subjecthood absorption must therefore be assessed
 separately.
 
-### 3. Why the concept is an operating system
+<a id="why-the-concept-is-an-operating-system"></a>
+
+### 3. Why the concept is an operating system {#why-the-concept-is-an-operating-system}
 
 The operating-system metaphor identifies the level at which the concept works. An epistemic constitution does not itself contain all social knowledge. It governs how knowledge-producing and belief-forming processes obtain access, communicate, compete, record results, handle error, and recover from failure.
 
@@ -282,7 +313,9 @@ The constitution is installed when people learn not only propositions but sentim
 - whether an accusation demands evidence or immediate alignment;
 - whether an institution's prestige supplements evidence or replaces it.
 
-#### Constitutional scripts: the meta-order made executable
+<a id="constitutional-scripts-the-meta-order-made-executable"></a>
+
+#### Constitutional scripts: the meta-order made executable {#constitutional-scripts-the-meta-order-made-executable}
 
 A written rule or verbally shared principle does not by itself make the epistemic
 constitution operative. The lifted generator becomes effective in recurring
@@ -552,7 +585,9 @@ Truth-seeking therefore does not mean that one institution already possesses Tru
 
 This is the meaning of **reality-anchored**: not that every current belief is correct, but that the social order acknowledges an external referee that cannot be finally overruled by authorization.
 
-#### Anti-gnostic adaptive constitutional learning
+<a id="anti-gnostic-adaptive-constitutional-learning"></a>
+
+#### Anti-gnostic adaptive constitutional learning {#anti-gnostic-adaptive-constitutional-learning}
 
 The originating stochastic-gradient-descent proposal supplies a candidate
 institutional form for reality's reserved right of correction. Its purpose is
@@ -621,15 +656,17 @@ epistemic architecture belongs here; its proposed implementation through bounded
 experimental jurisdictions, reversed legal priority, scorecards, and
 *Abstimmung mit den Füßen* belongs to
 [*Culture Program
-Ecology*](0060-culture-program-ecology.semantic-definition.md#138-anti-gnostic-adaptive-constitutional-search).
+Ecology*](0060-culture-program-ecology.semantic-definition.md#anti-gnostic-adaptive-constitutional-search).
 Its proposed [**Lifted-Order Capacity
-Dashboard**](0060-culture-program-ecology.semantic-definition.md#13101-the-lifted-order-capacity-dashboard)
+Dashboard**](0060-culture-program-ecology.semantic-definition.md#the-lifted-order-capacity-dashboard)
 uses *Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build,* and *Choose*
 as separable candidate sensors. The dashboard is one application of the generic
 controller, not part of the definition of epistemic constitution and not a
 literal scalar loss function.
 
-##### Model-mediated mandates and prediction exposure
+<a id="model-mediated-mandates-and-prediction-exposure"></a>
+
+##### Model-mediated mandates and prediction exposure {#model-mediated-mandates-and-prediction-exposure}
 
 The [integrated doctrine-generation and authorization
 pathway](0040-mythology-construction.semantic-definition.md#doctrine-generation-and-authorization-pathway)
@@ -668,6 +705,49 @@ sacrifice and the weaker the corrective exposure, the stronger the requirements
 for independent validation, rival models, affected-person standing, appeal,
 reversibility, repair, and predeclared stopping conditions.
 
+The elementary distinction is between a **model** and a **measurement**.
+A model calculates what should happen under stated data and assumptions.
+A measurement records what actually happened.
+
+Suppose a model predicts rain for Tuesday.
+When Tuesday arrives, measuring the rainfall tests whether the prediction came
+true.
+Running another model that also calculates rain produces another prediction; it
+does not show that rain actually fell.
+This is especially important when both models use the same or similar
+assumptions:
+
+```text
+earlier model predicts outcome X
+→ later model also calculates outcome X
+→ model agreement is presented as proof that X actually happened
+```
+
+A later model can legitimately strengthen or weaken confidence in the earlier
+prediction, especially when it uses independent data and methods.
+But until the predicted outcome is observed, the later result remains an updated
+estimate, revised forecast, alternative scenario, or agreement between models.
+It is not empirical confirmation that the original prediction came true.
+
+The audit therefore asks:
+
+- Which population or case did the original prediction concern?
+- What outcome did it predict, and by what time?
+- What can now be observed directly?
+- If a causal route was part of the prediction, was that route observed?
+- Is the claimed confirmation a measurement of the predicted outcome or another
+  model calculation?
+
+> **Models make predictions. Reality tests them. A later prediction must not be
+> presented as the observed fulfilment of an earlier one.**
+
+When public wording gives a later model output the evidential status of observed
+fulfilment, [**LT-045 — Model-to-reality
+laundering**](0030-linguistic-tricks.semantic-inventory.md#lt-045-model-to-reality-laundering)
+names the communicative operation. The label does not by itself establish that
+the model is false, that the substitution was deliberate, or that operative
+un-reality exists; those claims require their separate evidential gates.
+
 The [Sowell
 bridge](0040-mythology-construction.semantic-definition.md#sowell-decision-correction-custody-bridge)
 adds a governing-person question to this model audit: **who decides, which
@@ -685,6 +765,54 @@ oracles. The discriminating comparison concerns access to situated knowledge,
 prospective constraint, distribution of error costs, independent audit,
 affected-person standing, appeal, removal, succession, and demonstrated revision
 after failure.
+
+<a id="bounded-mechanism-and-jurisdictional-contraction"></a>
+
+##### Bounded mechanisms and jurisdictional contraction {#bounded-mechanism-and-jurisdictional-contraction}
+
+A mechanism can perform a valuable function under specified conditions without
+deserving universal jurisdiction.
+[Alexander Rüstow's critique of economic
+theology](https://www.metropolis-verlag.de/Das-Versagen-des-Wirtschaftsliberalismus/349/book.do)
+supplies the precursor: a conditionally useful market mechanism can receive
+credit for effects co-produced by law, trust, restraint, education, competition,
+and anti-capture rules until its boundary conditions disappear and non-intervention
+becomes a creed.
+The constitutional detector is general and symmetrical:
+
+```text
+bounded mechanism performs under specified conditions
+→ foreground mechanism receives disproportionate causal credit
+→ enabling conditions and inherited reserves disappear from view
+→ positively charged name becomes a master signifier
+→ programme acting in that name claims unconditional jurisdiction
+→ failure cannot reduce scope and instead authorizes expansion
+```
+
+The analysis must keep three objects separate:
+
+1. the real mechanism and the conditions under which it performs;
+2. the signifier that condenses its reputation and wider projected goods; and
+3. the institutional programme, custodians, powers, and consequences installed
+   in its name.
+
+The core correction test is **jurisdictional contraction under failure**:
+which evidence can narrow the mechanism's authorized domain, change its
+preconditions, replace its custodian, or retire the intervention?
+If every success confirms the programme and every failure proves obstruction or
+insufficient application, the mechanism no longer faces an operative domain
+boundary.
+
+The associated audit compares performance competition with obstruction
+competition, asks whether lived capability and responsible self-direction improve
+rather than only a preferred aggregate indicator, and subjects the proposed
+protector to the same capture and correction tests.
+A monopoly, captured rule, or domination layer can outlive the justification
+that first authorized it.
+None of this makes markets, diversity, state protection, expertise, or another
+bounded mechanism ideological by definition.
+The warning concerns precondition blindness plus non-contracting jurisdiction,
+not usefulness, popularity, abstraction, or moral language alone.
 
 #### Power guardrails and the bounded protector
 
@@ -717,13 +845,26 @@ The full normative proposal, its Mausfeld-derived ***Schutzbalken gegen die
 Macht*** image, public/private power taxonomy, bounded-protector recursion, and
 diagnostic dashboard belong to [*Culture Program Ecology*, “Democracy as
 *Schutzbalken gegen die
-Macht*”](0060-culture-program-ecology.semantic-definition.md#1321-democracy-as-schutzbalken-gegen-die-macht).
+Macht*”](0060-culture-program-ecology.semantic-definition.md#democracy-as-schutzbalken-gegen-die-macht).
 Its Mises-derived soft-secession application and capture-resistant Landkreis
 topology belong to [“Soft secession and reversed legal
-priority”](0060-culture-program-ecology.semantic-definition.md#1311-soft-secession-and-reversed-legal-priority).
+priority”](0060-culture-program-ecology.semantic-definition.md#soft-secession-and-reversed-legal-priority).
 Here the narrower point is epistemic: no power may monopolize the evidence,
 interpretation, adjudication, and succession mechanisms by which its own
 authority is tested.
+
+This rule applies to **meaning infrastructure** as well as visible state power.
+Education, classification, credentialing, publishing, public mediation,
+pastoral interpretation, and access to legitimate self-description can become a
+concentrated authority surface even when legislatures, executives, and courts
+remain formally separated.
+The answer is not one official counter-priesthood.
+Plural sources, independent institutions, affected-person standing, source
+access, visible interpretive disagreement, portable credentials, appeal, and
+institutionalized permanent reflection can supply counterpower without pretending
+that meaning is politically neutral or that every interpretation is equivalent.
+Concentration is a hazard to audit, not proof that one carrier ecology acts as a
+coordinated sovereign.
 
 ### 9. Piety toward the real
 
@@ -778,100 +919,239 @@ institution's sovereign possession of it.
 ### 9A. Cross-cutting semantic and epistemic architecture {#cross-cutting-semantic-epistemic-architecture}
 
 This section is the authoritative home for the project's restricted theoretical
-*un-* operator and for the typed relation among communicative operation,
+*un-* family, its constitutive-relation-inversion and
+pseudomorphic-governor-substitution morphologies, and the typed relation among
+communicative operation,
 selection orientation, inferential mechanism, operative epistemic state,
-installed stock, and constitutional meta-order. The operator is more general
-than the truth orientation: *un-reason* and *un-reality* are its applications in
-the present document, not the whole operator. The [*Linguistic Tricks*
+installed stock, and constitutional meta-order. The family is more general than
+the truth orientation: *un-reason* and *un-reality* directly apply
+constitutive-relation inversion, while pseudomorphic governor substitution is a
+thicker bearer-level morphology that may coexist with either but requires its
+own evidence. The [*Linguistic Tricks*
 inventory](0030-linguistic-tricks.semantic-inventory.md) owns the detailed
 communicative operations and **instrumental untruthfulness** as a selection
 orientation; this document owns their cross-scale relation and the complete
 positive interface joining reasonable critical discussion to independent
 reality-answerability.
 
-#### The theoretical *un-* operator: retained form and displaced governor {#theoretical-un-operator}
+<a id="theoretical-un-operator"></a>
 
-**theoretical *un-* operator** *noun phrase*<br>
-**Status:** proposed semantic and diagnostic operator
+#### The theoretical *un-* family {#theoretical-un-operator}
 
-The project uses *un-* in a deliberately restricted sense. It does not mean
-simple absence or opposition. The author's controlling image is:
+**theoretical *un-* operation** *noun phrase*<br>
+**Status:** proposed semantic and diagnostic family
+
+The project uses *un-* in a deliberately restricted sense.
+It does not mean simple absence or opposition: a theoretical *un-X* names a
+deformation in which X's constitutive relation is negated, exceeded, reversed,
+or redirected from within.
+Every theoretical *un-* operation is deformative, but the prefix alone does not
+specify the deformation's complete morphology.
+The project presently develops two non-exclusive morphologies:
+
+| Morphology | Primary deformation target | Minimum bearer |
+|---|---|---|
+| **Constitutive-relation inversion** | The direction of the relation that makes an operation or status X | An inferential, interpretive, representational, or other operation in which X's characteristic activity remains active |
+| **Pseudomorphic governor substitution** | A durable social bearer of X whose machinery and authority are governed by an incompatible principle | An established role, practice, procedure, office, profession, organization, or institution occupying a recognizable X-position |
+
+The morphologies can nest and coexist rather than forming mutually exclusive
+boxes.
+A durable institution can embody constitutive-relation inversion, and a
+pseudomorphic bearer can recruit un-reason or preserve un-reality, but none of
+those conjunctions follows from one component alone.
+
+<a id="constitutive-relation-inversion"></a>
+
+##### Constitutive-relation inversion {#constitutive-relation-inversion}
+
+**constitutive-relation inversion** *noun phrase*<br>
+**Plain-language gloss:** reversed answerability<br>
+**Status:** proposed direct relational morphology
+
+> **Constitutive-relation inversion occurs when X's characteristic operations
+> remain active, but the direction of answerability that makes them X is
+> reversed: an output, commitment, or authorized representation governs the
+> inputs or correctors to which it should answer.**
+
+This is a relation-level *un-* operation.
+It does not require a bounded institution, a stable public office, inherited
+organizational machinery, a distinct beneficiary, or control of succession.
+It must nevertheless be instantiated in a specified argument, interpretive
+practice, representation, domain, or period; an abstract doctrine or disliked
+idea is not classified merely by resemblance.
+
+The two canonical epistemic applications are:
+
+| Application | What remains active | Constitutive direction | Inverted direction |
+|---|---|---|---|
+| **Un-reason** | Inference, explanation, evidence use, distinctions, and criticism | Evidence and independent correction evaluate the conclusion; the conclusion can lose | A protected conclusion evaluates what evidence and correction may mean; the conclusion must survive |
+| **Un-reality** | A representation's socially authorized reality-function | Independent events, consequences, and correction can revise the representation's authority and practical use | The authorized representation controls how events, consequences, and correction may count while retaining practical authority |
+
+Un-reason is an inferential or correction-defeating **mechanism**.
+Un-reality is a socially operative epistemic **state** that can be preserved by
+un-reason but can also arise through coercion, omission, ritual assent, fear,
+memory control, synchronized incentives, or correction nullification.
+Mind-independent reality is not inverted; the deformed object is the
+representation's relation of answerability to it.
+
+The relation-level detector asks:
+
+1. What is the specified X-operation or status, unit, domain, and period?
+2. Which direction of answerability is constitutive of X?
+3. Which characteristic operation or standing of X remains active?
+4. In a collision, does the candidate output answer to its proper corrector, or
+   does it control how that corrector is interpreted or allowed to count?
+5. What observable result would make the output lose authority, change, or
+   cease to qualify, and does that result have its declared effect?
+
+Institutional control-surface, beneficiary, portability, and succession audits
+must not be imported merely because this relational gate is satisfied.
+They become relevant only after a durable candidate bearer has separately been
+specified.
+Conversely, a culturally distributed mythology or Culture Program can carry and
+reproduce un-reason or un-reality without one bounded institution satisfying the
+pseudomorphic-governor-substitution gate.
+
+<a id="pseudomorphic-governor-substitution"></a>
+
+##### Pseudomorphic governor substitution {#pseudomorphic-governor-substitution}
+
+**pseudomorphic governor substitution** *noun phrase*<br>
+**Plain-language gloss:** retained-form governor substitution<br>
+**Status:** proposed process and diagnostic morphology
+
+> **Pseudomorphic governor substitution occurs when a durable social bearer
+> retains X's recognizable form, machinery, and authority while an incompatible
+> principle becomes its operative governor over consequential choice,
+> correction, and reproduction or succession.**
+
+The author's controlling image is:
 
 > **Something slips into the skin of X.** The recognizable form, machinery,
 > and authorized position of X remain, but a different inner principle governs
 > their operation.
 
-The full definition is:
+The bearer can be an established role, practice, procedure, office, profession,
+organization, or institution.
+A human actor can instantiate the morphology only through a specified role and
+period; the classification attaches to that role-operation rather than becoming
+a whole-person essence.
+The process is **pseudomorphic governor substitution**.
+The resulting bearer is a **functional pseudomorph of X**.
+The notation *un-X* records the internal deformation without making the prefix
+itself the name of the process.
 
-> **Un-X is a form that continues to occupy the appearance, machinery, and
-> authorized position of X while a different inner principle takes control and
-> redirects that machinery toward a function incompatible with ordinary X.**
+The full bearer-level definition is:
+
+> **Under pseudomorphic governor substitution, a durable social bearer continues
+> to occupy the appearance, machinery, and authorized position of X while a
+> different inner principle takes control and redirects that machinery toward a
+> function incompatible with ordinary X.**
 
 Its compact form is:
 
-> **Un-X is X-shaped operation governed from within by a non-X principle.**
+> **A functional pseudomorph of X is X-shaped operation governed from within by
+> an incompatible non-X principle.**
 
 The typed construction is:
 
 ```text
-retained X-form
+durable X-bearing practice, role, or institution
++ retained X-form
 + retained claim to X-authority
 + displaced inner governing principle
 + contrary or distorted operative result
 = un-X
 ```
 
-This formulation separates a practice's machinery from the constitutive purpose
+The operative governor is the selection rule that repeatedly decides what is
+rewarded, protected, sacrificed, corrected, and reproduced when purposes
+conflict.
+It may be an explicit command, but it may also emerge through incentives,
+metrics, dependencies, status, institutional selection, or synchronized
+expectations.
+The construct therefore does not require one designer, conscious deceit, or
+private recognition of the substitution.
+
+Six components should be kept distinct:
+
+| Component | Diagnostic question |
+|---|---|
+| **Bearer** | Which continuing role, practice, procedure, office, profession, organization, or institution occupies X's social position across more than one isolated act? |
+| **Form** | Which names, roles, rituals, procedures, and professional vocabulary remain recognizable as X? |
+| **Machinery** | Which offices, methods, records, metrics, resources, and decision processes still belong to X? |
+| **Authority** | Which legitimacy, trust, prestige, access, or jurisdiction continues to be claimed in X's name? |
+| **Governor** | Which principle repeatedly controls consequential choices and sacrifices? |
+| **Correction and reproduction** | Which principle decides what can count as failure, change operation, reproduce standards and dependencies, and select future interpreters or officeholders? |
+
+The threshold is exposed in **collision cases**:
+
+> **When X's constitutive purpose conflicts with another principle, which one
+> repeatedly wins, and can X's correction machinery reverse that result?**
+
+Routine outputs can remain genuinely competent and X-like because they preserve
+legitimacy, maintain useful machinery, and conceal the hierarchy among
+governors.
+Conflict, failure, refusal, adverse evidence, resource scarcity, correction,
+transfer, and succession are more discriminating because X and the candidate
+substitute governor predict different conduct there.
+
+| Condition | Operative relation |
+|---|---|
+| **Error within X** | X's purpose still governs; failure is recognized and correction can restore performance. |
+| **Degraded X** | Performance is poor, but X's success criterion and correction relation remain intact. |
+| **Misuse of X** | X's machinery is temporarily used for another purpose, but the system can identify and reverse the misuse. |
+| **Objective drift** | A competing principle increasingly influences metrics, appointments, and decisions. |
+| **Capture** | The competing principle gains durable control over machinery, correction, and succession. |
+| **Functional pseudomorph of X** | X's retained form and authority now legitimize machinery governed by the incompatible principle. |
+
+Correction capture marks the strongest transition.
+In ordinary failure, X's standard can trigger investigation, revision, removal,
+repair, or learning.
+Under mature substitution, X-shaped correction machinery reclassifies failure
+or the corrector so that criticism cannot restore X and instead protects the
+substitute governor.
+
+The morphology is related to but narrower than several neighbours:
+
+| Neighbour | Boundary |
+|---|---|
+| **Hypocrisy** | Professing X while knowingly or strategically failing to practise it concerns inconsistency between claim and conduct; it need not capture X's real machinery, correction, or succession. |
+| **Counterfeit X** | A counterfeit may merely imitate X's appearance; a functional pseudomorph normally occupies or inherits real X machinery and authority. |
+| **Corruption** | Corruption is a broader family of degradation or improper influence; pseudomorphic governor substitution specifies retained form plus an incompatible operative governor. |
+| **Objective substitution** | Authority granted for objective A is used to institutionalize objective B. This is a central mechanism that can produce pseudomorphic governor substitution, but it does not by itself establish retained form, correction capture, or recursive succession. |
+| **Projective consensus** | An underdeterminate positive signifier lets heterogeneous participants project compatible goods before a custodian supplies executable meaning. It can widen authorization for objective substitution, but it does not establish that a real X-bearing institution has acquired an incompatible governor. |
+| **Capture** | Another principle gains durable control of machinery, correction, and succession. Capture names a control-acquisition process; it can produce pseudomorphic governor substitution and the resulting functional pseudomorph, but the concepts are not identical. |
+| **Pretext** | X may never have governed at all; an X-shaped wrapper can be pseudomorphic from inception rather than produced by later displacement. |
+| **Decoupling** | Formal structure and activity can diverge without one incompatible principle yet governing correction and succession. |
+| **Constitutive-relation inversion** | An argument, interpretation, or authorized representation can reverse its relation of answerability without a durable X-bearing institution or control of organizational reproduction. Pseudomorphic governor substitution adds that thicker bearer-level requirement. |
+| **Not-X** | X's form and authority are absent rather than occupied and redirected. |
+
+This formulation separates a social bearer's machinery from the constitutive purpose
 that should govern it. It is more precise than describing *un-X* only as X's
 immanent self-negation: that phrase names the resulting inversion but does not
 identify what persists, what has been displaced, what replaces it, or how
 operation changes.
 
-The reason case makes the distinction concrete:
+The morphologies are independent enough to require separate gates:
 
-| Form | Outer form | Governing inner function |
+| Configuration | Possible instance | Evidential boundary |
 |---|---|---|
-| **Reason** | Inference, explanation, evidence, distinctions | Discover and correct what is true; the conclusion can lose. |
-| **Not-reason** | No reasoning operation | Impulse, silence, sensation, pre-articulate experience, or unsupported assertion. This category is not inherently pathological. |
-| **Un-reason** | Inference, explanation, evidence, distinctions | Protect a predetermined or load-bearing conclusion; the conclusion must not lose. |
+| **Un-reason without PGS** | One argument or recurring interpretive regime makes a protected conclusion govern every defeater | Does not establish capture of the institution in which the reasoning occurs |
+| **Un-reality without one bounded PGS bearer** | A distributed authorized representation governs conduct across a mythology, Culture Program, professional field, media ecology, or network despite failed correction | Does not identify one substituted institution, beneficiary, or succession system |
+| **PGS without un-reason or un-reality** | A captured regulator accurately understands the relevant facts yet directs real regulatory machinery toward an improper beneficiary | Does not require self-sealing reasoning or a correction-insulated representation of reality |
+| **Conjunction** | A durable X-bearing institution serves an incompatible governor, protects that operation through un-reason, and preserves an un-real public account of its function | Requires the bearer-level, mechanism-level, and state-level gates separately |
 
-For un-reason, the change can be specified exactly:
-
-- **negated:** reason's answerability to independent correction;
-- **exceeded:** explanatory ingenuity escapes the constraints that should stop
-  it; and
-- **reversed:** evidence no longer determines the conclusion; the protected
-  conclusion determines what evidence may mean.
-
-```text
-REASON
-evidence -> evaluates conclusion -> conclusion may change
-
-UN-REASON
-protected conclusion -> evaluates evidence -> evidence must change meaning
-```
-
-The substituted governor need not be a conscious lie. If a speaker knows the
-protected conclusion is false, un-reason can be reason-shaped lying. If the
-speaker sincerely believes it, the same operative relation can be
-reason-shaped rationalization or self-deception. Deliberate deception, sincere
-belief, institutional role performance, and mixed production therefore remain
-separate causal and attribution questions.
-
-This construction also separates **truth-content** from the
-**correction-relation**. A proposition can happen to be true while being held
-through un-reason or authorized un-really if its defenders or institutions have
-made it incapable of losing. A false proposition can remain outside both
-categories when it is openly testable and correction changes belief and
-operation. The pathology can lie in how a proposition is authorized, defended,
-and corrected rather than in its present truth value alone.
+Where the morphologies coexist, their evidence can connect but must not be
+counted as though one classification proved the others.
 
 ##### Worked analogies and boundaries
 
-The operator has close functional neighbours without making them identical.
-The analogies below expose different parts of the retained-skin construction;
-they do not claim that each ordinary-language term satisfies every institutional
-condition of the theoretical operator.
+The theoretical *un-* family has close functional neighbours without making
+them identical.
+The analogies below expose either direct relation inversion, retained-skin
+bearer substitution, or looser semantic kinship; they do not claim that each
+ordinary-language term satisfies either complete technical gate.
 
 **Dead / not dead / undead**
 
@@ -910,7 +1190,7 @@ pretending to be human. The monstrosity operates through genuinely human
 intelligence, language, organization, and agency. Ordinary German *Unmensch* is
 a pejorative noun for a cruel or inhumane person; Žižek's specialized *inhuman*
 names an excess inherent to humanity. Neither ordinary usage alone establishes
-the project's complete retained-form operator.
+the project's complete pseudomorphic-governor-substitution morphology.
 
 **Reason / not-reason / un-reason**
 
@@ -943,14 +1223,15 @@ Our faith prevented the catastrophe,
 so the apparent failure confirms the theory.
 ```
 
-The auxiliary explanation occupies the skin of reason while preventing
-correction. Not every auxiliary hypothesis is un-reason: the classification
-requires a larger pattern in which no reciprocal evidence, failed prediction,
-or consequence is permitted to defeat the protected account.
+The auxiliary explanation reverses reason's correction relation by making the
+protected conclusion govern the meaning of the failed prediction.
+Not every auxiliary hypothesis is un-reason: the classification requires a
+larger pattern in which no reciprocal evidence, failed prediction, or
+consequence is permitted to defeat the protected account.
 
 **Democracy / non-democracy / sham or “un-democracy”**
 
-*Un-democracy* is not standard English, but the contrast makes the operator
+*Un-democracy* is not standard English, but the contrast makes the subtype
 visible:
 
 ```text
@@ -971,6 +1252,68 @@ The analogy shows domination occupying democratic machinery while continuing
 to claim democratic authority; one irregularity or adverse election result is
 insufficient.
 
+**Familiarity / cronyism / obligation-governed selection**
+
+The presence of a relationship does not decide whether an institutional use of
+that relationship is legitimate.
+The discriminating issue is what the relationship is permitted to govern:
+
+| Pattern | Governing use of the relationship |
+|---|---|
+| **Legitimate relational trust** | Prior work supplies relevant and corrigible evidence about role performance, reliability, judgment, temperament, or team coordination; demonstrated performance remains able to defeat the judgment. |
+| **Bounded familiarity preference** | Lower uncertainty or coordination cost receives a limited and proportionate premium, while prospective role criteria, accountability, comparison, and correction remain operative. |
+| **Cronyism** | Loyalty, comfort, membership, or personal protection becomes a private claim upon institutional authority and overrides the office's proper purpose or selection criteria. |
+| **Patronage** | Appointments or resources maintain a durable supporter network through benefits exchanged for loyalty, service, or political support and thereby reproduce the patron's position. |
+| **Favour-bank episode** | A prior benefit produces a remembered or communicated obligation that is later withdrawn through a request, responsive institutional act, routed beneficiary, and consequence. |
+| **Favour-bank cloud** | Portable obligations are recurrently routed through brokers, third parties, hierarchical control surfaces, refusal costs, and recursive placement across people or institutions. |
+
+These are not mandatory stages on one ladder.
+Cronyism requires no prior benefit or debt, while a favour-bank route can place a
+genuinely competent person.
+In the latter case the candidate defect lies in the governor and obligation the
+institutional act serves, not in incompetence by itself.
+Patronage and a favour bank can overlap, but downward benefits exchanged for
+support do not by themselves establish the prior-benefit and portable-obligation
+route.
+
+Six tests make the boundary operational:
+
+| Test | Discriminating question |
+|---|---|
+| **Relevance** | What role-relevant delivery, judgment, reliability, or cooperation did the prior relationship actually establish? |
+| **Proper principal** | Is personal knowledge being used to serve the office, organization, client, or public, or is the office being used to serve the relationship, patron, benefactor, broker, or routed third party? |
+| **Stranger counterfactual** | Would a comparably qualified person without the relationship receive the same standard, opportunity, protection, review, recovery path, and succession power, allowing only a premium proportionate to genuinely additional information? |
+| **Correction** | Which performance or conduct evidence could remove the person, protection, or future appointment power, and does such evidence have operative effect? |
+| **Refusal** | Can the person reject an unrelated later request, including a request benefiting a third party, without losing access, standing, protection, or future opportunity? |
+| **Reproduction** | Does the relation stop with one decision, or do selected and protected people acquire power to repeat the same selection, protection, and succession pattern? |
+
+The compact boundary is:
+
+> **Reputation is legitimate when it carries corrigible information about
+> performance; it becomes cronyism when relationship standing overrides the
+> office's purpose; and it becomes favour-bank currency when a prior benefit
+> creates a portable obligation that institutional power is later used to
+> repay.**
+
+An extended-order office can make a person answerable through an impersonal
+third position--law, profession, standard, office, or conscience--even when no
+concrete beneficiary is present to demand performance. Keep the immediate
+evaluator or rule carrier, the concrete protected beneficiary, and the ultimate
+principal distinct. Cronyism and favour-bank repayment can then be understood as
+one possible [moral-scale
+transposition](0040-mythology-construction.semantic-definition.md#moral-scale-transposition):
+a small-group grammar of personal loyalty occupies a jurisdiction whose proper
+operation depends upon impersonal reciprocal rules. This cross-link does not
+establish a favour-bank debt or a pseudomorphic governor substitution without
+their separate evidential gates.
+
+None of these relations alone establishes a functional pseudomorph of a
+meritocratic selection system.
+The stronger classification requires that the retained selection machinery and
+its merit authority are now durably governed by relationship preservation,
+obligation repayment, or network reproduction, especially across correction and
+succession.
+
 **Science / non-science / pseudoscience**
 
 English uses *pseudo-* rather than *un-* here, but the construction is a close
@@ -988,10 +1331,14 @@ experiments, graphs, citations, technical vocabulary, and experts remain,
 but the protected theory controls what every result is allowed to mean
 ```
 
-Pseudoscience is not merely an absence of science. In the strongest cases it
-occupies the appearance and authority-position of science while a different
-internal rule governs correction. Error, immaturity, or later refutation does
-not by itself establish pseudoscience.
+Pseudoscience is not merely an absence of science.
+At the relation level, a protected theory can control what every result means
+without establishing that an institution has been captured.
+At the bearer level, an established practice or institution can additionally
+occupy science's machinery and authority while the protected theory controls
+correction and reproduction.
+Error, immaturity, or later refutation does not by itself establish either
+classification.
 
 **Freud's *heimlich* / *unheimlich***
 
@@ -1003,13 +1350,14 @@ alien. A [scholarly
 overview](https://www.degruyter.com/document/doi/10.1515/opphil-2022-0252/html)
 supplies a modern interpretive bridge.
 
-This is not an exact instance of the project operator: *unheimlich* does not
+This is not an exact instance of pseudomorphic governor substitution:
+*unheimlich* does not
 necessarily retain the authorized institutional position of *heimlich*. It is a
 semantic precursor to the image:
 
 > **The recognizable form remains, but something alien has appeared within it.**
 
-The compact boundary is:
+For the pseudomorphic bearer-level morphology, the compact boundary is:
 
 > **Not-X stands outside X. Un-X occupies X's form and authority-position while
 > redirecting its machinery according to a principle that ordinary X would
@@ -1023,14 +1371,26 @@ Or, in the author's image:
 This is not a universal rule for words beginning with *un-*. English and German
 use the prefix for absence, opposition, deprivation, reversal, and other
 relations. *Unknown*, for example, ordinarily means only “not known.” A proposed
-theoretical *un-X* must satisfy the stronger retained-form and displaced-governor
-test.
+classification as pseudomorphic governor substitution must satisfy the stronger
+retained-form and displaced-governor test.
 
-##### A compressed research programme and its safeguard
+##### Two diagnostic programmes and their safeguard
 
-The operator is intellectually productive because it creates a third category
-between X and the absence of X, reveals parasitic use of X's authority, admits
-sincere and distributed production, and makes gradual capture visible:
+The theoretical *un-* family creates a third category between X and the absence
+of X.
+Its constitutive-relation-inversion morphology identifies a direct reversal in
+what answers to what:
+
+```text
+X-operation remains active
+-> X's proper output remains answerable to an independent corrector
+-> the direction reverses
+-> the output controls how the corrector may count
+```
+
+Its pseudomorphic-governor-substitution morphology identifies a thicker,
+bearer-level use of X's authority, admits sincere and distributed production,
+and makes gradual capture visible:
 
 ```text
 retain X's vocabulary, ceremonies, and institutions
@@ -1039,11 +1399,14 @@ retain X's vocabulary, ceremonies, and institutions
 -> produce an outcome X should have prevented
 ```
 
-The operator therefore directs diagnosis toward the gap between advertised and
-operative function. Un-reason needs the authority of reason; un-reality needs
-the authority of reality; pseudoscience needs the authority of science; sham
-democracy needs the authority of democracy. This is parasitic authority, not
-mere accidental resemblance.
+The bearer-level morphology therefore directs diagnosis toward the gap between
+advertised and operative institutional function.
+The relation-level morphology instead directs diagnosis toward reversed
+answerability even where no bounded X-bearing institution exists.
+Un-reason uses reason's operations and standing; un-reality retains an
+authorized representation's reality-function; a pseudomorphic science practice
+or sham democracy additionally occupies a durable social position and its
+machinery.
 
 ```text
 occasional exception
@@ -1062,8 +1425,20 @@ confirmation? Does an institution preserve the appearance of correction while
 nullifying its effects? Intent remains important, but it is investigated as a
 separate layer.
 
-The prefix consequently acts as a **compressed research programme**. It asks:
+Constitutive-relation inversion acts as one **compressed research programme**.
+It asks:
 
+- what operation or status remains recognizably X;
+- what should answer to what;
+- whether an output now controls the inputs or correctors to which it should
+  answer;
+- how that reversal becomes observable; and
+- what would make the output lose, change, or cease to qualify.
+
+Pseudomorphic governor substitution acts as a second, thicker research
+programme. It asks:
+
+- which durable social bearer occupies X's position;
 - what remains recognizably X;
 - what normally governs X;
 - what has replaced that governing principle;
@@ -1071,40 +1446,206 @@ The prefix consequently acts as a **compressed research programme**. It asks:
 - how its operation has been inverted; and
 - why participants may sincerely continue calling it X.
 
-The same research question can be applied, with its own evidence and defeat
-conditions each time, to reason, reality, science, law, democracy, care,
-education, therapy, and other authority-bearing practices: what has retained
-X's skin, machinery, and authority while replacing X's governing principle?
+The same family can be applied, with a morphology and defeat conditions declared
+each time, to reason, socially authorized reality, science, law, democracy,
+care, education, therapy, and other practices.
+Do not force an argument or distributed representation into an institutional
+skin test, and do not infer bearer-level capture from a relation-level inversion.
 
-> **The *un-* construction moves the theory from identifying bad content or
-> deceptive actors to analysing captured forms--systems whose visible machinery
-> remains intact while their governing function has been replaced.**
+> **Pseudomorphic governor substitution moves the theory from identifying bad
+> content or deceptive actors to analysing captured forms--systems whose visible
+> machinery remains intact while their governing function has been replaced.**
 
 This strengthens symmetry: every programme, including the analyst's preferred
-one, remains subject to the same test. It also suggests a functional remedy. If
-the problem is un-reason, additional arguments can supply additional defensive
-material; correction requires restoring reciprocal standards, independent
-reality contact, and a genuine possibility of losing. If the problem is
-un-reality, public contradiction is insufficient unless it can change records,
-classifications, resources, jurisdiction, and conduct.
+one, remains subject to the relevant test.
+It also suggests different functional remedies.
+If the problem is un-reason, additional arguments can supply additional
+defensive material; correction requires restoring reciprocal standards,
+independent reality contact, and a genuine possibility of losing.
+If the problem is un-reality, public contradiction is insufficient unless it
+can change records, classifications, resources, jurisdiction, and conduct.
+If the problem is a functional pseudomorph, correction must additionally reach
+the bearer's control surfaces, dependencies, appointments, transfer, and
+reproduction or succession.
 
-The operator must not become a magic prefix for disfavoured phenomena. Every
-proposed *un-X* diagnosis must specify:
+The theoretical *un-* family must not become a magic prefix for disfavoured
+phenomena.
+Its **shared family gate** requires every proposed *un-X* diagnosis first to
+specify:
 
-1. what recognizable form or machinery of X remains;
-2. which authority or legitimacy of X it continues to claim;
-3. what principle normally governs X;
-4. what alternative principle has taken control;
-5. which function has consequently been inverted or distorted;
-6. how un-X differs observably from both X and not-X; and
-7. what evidence would defeat the classification.
+1. the unit, domain, period, and X-operation or status;
+2. X's constitutive relation or governing function;
+3. what characteristic operation, standing, form, machinery, or authority
+   remains;
+4. which relation has been inverted or which principle has taken control;
+5. how un-X differs observably from both X and not-X; and
+6. what evidence would defeat the classification.
+
+A pseudomorphic-governor-substitution diagnosis must additionally specify the
+durable social bearer, retained X-machinery and authority, candidate substitute
+governor, discriminating collision cases, and control of correction and
+reproduction or succession.
 
 If an *un-X* diagnosis cannot lose, it risks becoming an instance of what it
 purports to diagnose.
 
+<a id="trace-poor-governor-dependent-practices"></a>
+
+##### Trace-poor governor-dependent practices and the bearer-level detector {#trace-poor-governor-dependent-practices}
+
+Pseudomorphic governor substitution is easiest to verify where X leaves
+persistent traces outside the bearer's control.
+The most vulnerable practices are **trace-poor and governor-dependent**: whether
+they remain genuine depends principally on which rule governs discretion,
+sacrifice, correction, and succession, while the institution itself controls
+much of the evidence used to classify its operation.
+
+| Practice class | Primary anchor | Relative natural resistance to substitution |
+|---|---|---|
+| **Substrate-anchored** | Persistent properties and performance of an external object or process | Higher: concealment is possible, but material traces survive. |
+| **Rule-anchored** | Compliance with determinate and inspectable rules | Intermediate: the rule can be verified, but it may itself be gamed or displaced. |
+| **Governor-dependent** | The principle actually controlling discretion, sacrifice, correction, and succession | Lower unless the exercise of entrusted power deliberately produces discriminating traces. |
+
+The highest vulnerability combines low natural trace density, high discretion,
+semantic elasticity, tacit governing relations, distributed causality, long
+latency, multicausality, endogenous evidence, evaluator dependence, correction custody,
+succession control, weak counterfactuals, privacy constraints, and low
+reversibility.
+The dangerous limit is a **self-certifying practice** in which the institution
+performs X, defines successful X, selects the evidence, accredits its evaluators,
+judges criticism, and controls appeal and succession.
+
+Trace-poor does not mean traceless.
+The social trace families are:
+
+| Trace family | Observable question |
+|---|---|
+| **Commitment** | Which purpose, principal, criteria, defeat conditions, procedures, and stopping conditions were specified before the particular case appeared? |
+| **Decision** | Who exercised authority, which information and conflicts were available, and which contemporaneous reasons and rejected alternatives were recorded? |
+| **Comparator** | How were otherwise similar insiders and outsiders, aligned and unaligned candidates, or equal-stakes mirror cases treated? |
+| **Distributional** | Across many decisions, what best predicts selection, protection, funding, correction, advancement, and burden? |
+| **Consequence** | Who receives the benefit, who bears failure or sacrifice, and whose authority, resources, or position survives? |
+| **Refusal** | What happens after a person declines an unrelated request, dissents, reports failure, appeals, or exits? |
+| **Correction** | Can adverse evidence change records, decisions, personnel, resources, prestige, jurisdiction, criteria, and repair? |
+| **Succession** | Which people, standards, dependencies, training routes, data systems, evaluators, and appeal authorities are reproduced? |
+
+Before comparing governors, specify X's protected principal, operative purpose,
+required capabilities, prohibited substitutions, success and failure conditions,
+correction mechanism, and stopping condition.
+Plausible substitute governors can include organizational survival, personal
+loyalty, revenue, prestige, ideological conformity, liability avoidance, power
+expansion, convenience, protection of prior decisions, or network reproduction.
+The bearer-level detector therefore compares a declared governor with one or more
+candidate substitute governors in cases where their predictions diverge:
+
+```text
+specify X's constitutive function and defeat conditions
+→ name plausible substitute governors
+→ select collision cases and record what each governor predicts must be sacrificed
+→ compare matched insiders, outsiders, alignments, and equal-stakes mirrors
+→ test whether adverse correction changes operation
+→ audit which governor controls succession
+```
+
+<a id="typed-machinery-routing-and-function-local-application"></a>
+
+##### Typed machinery routing and function-local application {#typed-machinery-routing-and-function-local-application}
+
+The general bearer-level detector establishes the pseudomorphic-governor-substitution
+morphology; it is not a universal substitute for the detector appropriate to the
+retained machinery.
+After identifying that machinery, route the inquiry through the specialized
+mechanism or institutional audit that can generate discriminating traces, then
+return those findings to the unchanged PGS collision, correction, and reproduction
+or succession gate:
+
+```text
+identify retained X-machinery
+→ select the detector specific to that machinery
+→ construct claim-matched collision and boundary tests
+→ trace whether correction changes consequential operation
+→ return the results to the bearer-level PGS gate
+```
+
+The routing is conditional rather than cumulative.
+Do not apply every specialized detector to every bearer, and do not let a failure
+inside one companion audit establish PGS without the durable-bearer and
+substituted-governor relations.
+Examples include:
+
+| Retained machinery | Conditional companion route | Discriminating relation exposed |
+|---|---|---|
+| Reporting, intake, monitoring, detection, classification, case aggregation, or public trend claims | [Report-to-reality laundering and endogenous observation](#report-to-reality-laundering-and-endogenous-observation); add the [moralized reporting and report-to-mandate audit](0060-culture-program-ecology.semantic-definition.md#moralized-reporting-and-report-to-mandate-loop) where reporter recruitment, operator custody, amplification, mandate, or resource feedback is present | Whether reports become verified cases, prevalence, priority, or remedy through tested bridges; whether observation growth and operator dependence govern the result |
+| Certification, education, professional capability, entrusted service, or claims of institutional performance | [Boundary-crossing reality challenges and auditability by design](0060-culture-program-ecology.semantic-definition.md#boundary-crossing-reality-challenges) | Whether the claimed function survives an externally selected, domain-valid, consequential task outside the claimant's representational custody |
+| Appointment, promotion, patronage, reciprocal access, or relationship-based selection | The familiarity--cronyism--obligation detector above; add the favour-bank audit only where a prior benefit, obligation, later withdrawal, routed act, and consequence are in question | Whether corrigible performance information or relationship preservation, obligation repayment, and network reproduction govern entrusted power |
+
+The report-production route is mandatory for a PGS application when a bearer:
+
+1. solicits, receives, or automatically detects observations;
+2. controls one or more consequential transformations from observation to category,
+   record, case, count, rate, or trend; and
+3. publishes or authorizes the result as knowledge about an external phenomenon.
+
+Add the full institutional Meldestellen audit where the same chain recruits moralized
+citizen observation, concentrates intake and evidentiary custody, routes the output
+through public authority, or converts it into mandate, sanction, jurisdiction, or
+further observation.
+Add the resource-coupled audit whenever the output can affect the bearer's funding,
+staffing, prestige, renewal, jurisdiction, or organizational survival.
+
+PGS should initially be bounded to the function for which the operative governor
+can be evidenced.
+One organization can simultaneously perform support, intake, classification,
+estimation, communication, and advocacy, and the proper governor of one function
+does not automatically classify the others.
+Broaden the bearer only when the same candidate governor demonstrably controls
+consequential collisions, correction, and reproduction across those functions.
+
+The same discipline applies to a multi-institutional pipeline.
+Audit its nodes and interfaces separately before treating the pipeline as one
+bearer.
+Repeated propagation alone shows distribution, not one governor, common intent,
+or a common PGS bearer.
+A pipeline can satisfy the bearer gate only where it operates durably as an
+X-bearing practice or procedure and the evidence shows that the candidate governor
+controls consequential selection, correction, and reproduction across its
+interfaces.
+
+Within every routed audit, distinguish a **disclosed safeguard** from an
+**operative safeguard**.
+A caveat, review channel, audit rule, conflict declaration, appeal, or formal
+independence receives operative correction weight only to the extent that it can
+change the consequential claim, decision, record, resource, authority, personnel,
+or subsequent operation it is supposed to govern.
+For claims translated across technical, executive, press, media, political, and
+funding registers, compare whether scope, uncertainty, source dependence, and
+defeat conditions travel with the claim.
+A limitation retained in a technical register while a stronger implication
+recurrently governs mass communication or institutional action is evidence of a
+collision between formal answerability and operative output, not evidence that
+correction has already succeeded.
+
+The specialized module supplies evidence about its own mechanism--for example,
+endogenous observation, inference laundering, custody concentration, metric
+gaming, capability mismatch, or obligation-governed selection.
+That evidence becomes PGS evidence only when it also shows that an incompatible
+principle repeatedly wins over X's constitutive function and controls whether
+correction changes operation and which standard is reproduced.
+
+The bearer-level protective implication is:
+
+> **Where the claimed X-function is difficult to inspect, force it to operate
+> across a consequential boundary not controlled by the suspected substitute
+> governor.**
+
+[*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#boundary-crossing-reality-challenges)
+owns the concrete boundary-crossing challenges, auditability-by-design rules,
+mandatory institutional portability, and revocation-of-trust applications.
+
 ##### Intellectual precedents and the project's additional step
 
-The operator combines but does not simply reproduce three semantic precedents:
+The theoretical *un-* family combines but does not simply reproduce three
+semantic precedents:
 
 - **Kant's infinite or indefinite judgment** distinguishes simple predicate
   denial from affirmation of a non-predicate and opens an indeterminate third
@@ -1122,14 +1663,228 @@ The operator combines but does not simply reproduce three semantic precedents:
   than mere external unfamiliarity. It does not supply the full functional or
   institutional relation.
 
-Culture Mechanics adds the operational step: X's form, machinery, and authority
-remain while a substituted governing principle reverses or distorts their
-function. The resulting audit identifies retained form, claimed authority,
-normal governor, substituted governor, operative inversion, observable defeat
-conditions, and possible restoration of correction. The complete operator must
-not be attributed to Kant, Freud, Žižek, or Hegel.
+Culture Mechanics adds two operational steps.
+Constitutive-relation inversion identifies X's proper direction of answerability,
+the characteristic operation or status that remains, its observable reversal,
+and a possible defeat condition.
+Pseudomorphic governor substitution additionally identifies a durable social
+bearer, retained form, machinery, and authority, a substituted governor,
+collision cases, and control of correction and reproduction or succession.
+Neither project morphology should be attributed to Kant, Freud, Žižek, or Hegel.
 
-#### Un-reason: reasoning that defeats the conditions of reason
+The word *pseudomorphic* is a controlled mineralogical analogy.
+A [pseudomorph](https://www.mindat.org/glossary/pseudomorph) retains the outward
+crystal form of another mineral although its material composition has been
+replaced or altered.
+The analogy supplies retained outer form under changed composition; it does not
+make institutions minerals, prove hidden replacement, or supply the governor,
+correction, and succession relations by itself.
+
+Organizational and institutional research supplies complementary parts of the
+morphology:
+
+| Predecessor or neighbouring tradition | What it discovered | Contribution to the project synthesis |
+|---|---|---|
+| [Robert Merton: goal displacement](https://www.d.umn.edu/cla/faculty/jhamlin/4111/Merton/Social%20Theory%20and%20Social%20Structure%20Bureaucratic%20Structure%20a.htm) | Rules and procedures introduced as means to an organizational purpose can become ends in themselves, so conformity to machinery obstructs achievement of the purpose. | Explains how the operative governor can change while the organizational machinery survives. |
+| [Philip Selznick: institutionalization, co-optation, and mission](https://www.ucpress.edu/flyer/books/leadership-in-administration/paper) | Informal commitments, constituencies, and power relations can redirect formal purposes; leadership must defend mission and critical values rather than merely administer efficiently. | Explains how accumulated relationships can become an organization's effective constitution and reproduce its redirection. |
+| [Robert Michels: oligarchical tendencies of organization](https://www.d.umn.edu/cla/faculty/jhamlin/4111/MichelsReading.html) | Leadership specialization, information and rule control, indispensability, long tenure, mutual nomination, and practical barriers to recall can consolidate the power of elected leaders over electors while democratic forms persist. | Explains how control of expertise, opposition, appointment, and succession can make formally representative machinery reproduce an oligarchical governor. |
+| [Meyer and Rowan: formal structure as myth and ceremony](https://doi.org/10.1086/226550) | Organizations can retain approved formal structures for legitimacy and resources while practical activity becomes decoupled from them and inspection gives way to confidence and good faith. | Explains the retained legitimate skin and why ordinary formal signals can cease to demonstrate actual function. |
+| [Nils Brunsson: organized hypocrisy](https://academic.oup.com/book/27524/chapter-abstract/197492786) | Organizational talk, formal decisions, and conduct can systematically diverge so that incompatible audiences are satisfied. | Explains how contradictory appearances and practices can persist instead of quickly collapsing. |
+| [Lawrence Lessig: institutional or dependence corruption](https://www.ethics.harvard.edu/publications/%E2%80%9Cinstitutional-corruption%E2%80%9D-defined) | An institution can be corrupted without bribery or individually corrupt members when routine and lawful relations make it dependent on something other than the dependence proper to its purpose. | Supplies the closest abstract relative: displacement of the proper governing dependence. |
+| [Regulatory-capture theory: George Stigler](https://ideas.repec.org/a/rje/bellje/v2y1971ispringp3-21.html) | A regulator can retain public office, legal authority, and public-interest language while organized interests acquire regulation for their own benefit. | Supplies a concrete political form in which the same control surface remains but its beneficiary changes. |
+| [Andrews, Pritchett, and Woolcock: isomorphic mimicry](https://bsc.hks.harvard.edu/publications/looking-like-a-state-techniques-of-persistent-failure-in-state-capability-for-implementation/) | Governments can adopt the outward structures and policies of capable institutions without their functionality, gaining legitimacy and resources while remaining in a capability trap. | Supplies the closest account of a preserved shell in which *looks like* substitutes for *does*. |
+| [Donald Campbell: indicator corruption](https://jmde.journals.publicknowledgeproject.org/index.php/jmde_1/article/download/297/292/988) | When a social indicator governs consequential decisions, adaptation pressures corrupt the indicator and distort the activity it was intended to monitor. | Explains a clear governor substitution in which the representation of the goal becomes the operative goal. |
+| [Richard Feynman: cargo-cult science](https://calteches.library.caltech.edu/51/2/CargoCult.htm) | A practice can reproduce science's visible forms while lacking the disclosure, rival testing, replicability, and correction relations that constitute scientific integrity. | Supplies a nearly literal case of un-science: the form is present while the constitutive inner relation is absent. |
+
+No one neighbour supplies the complete project morphology.
+The project synthesis joins retained form and authority, displaced governor,
+redirected benefit or objective, correction capture, and recursive succession.
+Merton and Campbell clarify governor change; Lessig and capture theory clarify
+changed dependence or beneficiary; Meyer and Rowan, Brunsson, and isomorphic
+mimicry clarify persistence of the credible shell; Michels and Selznick clarify
+institutionalization, leadership consolidation, and reproduction; Feynman
+clarifies how the constitutive correction relation can be absent despite
+recognizable practice forms.
+Michels's *iron law* is retained here as a neighbouring hazard account rather
+than adopted as inevitability: organization, leadership, tenure, or expertise
+alone establishes neither an incompatible governor nor a functional
+pseudomorph.
+
+Several neighbours also propose corrective disciplines that converge with parts
+of the project detector:
+
+| Source | Source-proposed corrective discipline | Relation to the project |
+|---|---|---|
+| [Donald Campbell](https://jmde.journals.publicknowledgeproject.org/index.php/jmde_1/article/download/297/292/988) | Competitive and independent replication, data access for critical reanalysis, competing internal and external evaluations, and invited minority reports that do not become organizational disloyalty. | Supplies source-grounded precedents for independent comparison, raw-record access, plural evaluation, and protected internal correction. |
+| [Richard Feynman](https://calteches.library.caltech.edu/51/2/CargoCult.htm) | Disclose details that could invalidate the preferred interpretation, investigate rival causes, publish results regardless of direction, and permit actual replication. | Supplies an epistemic integrity discipline for adverse evidence, rival explanation, result-independent reporting, and reality contact. |
+| [Andrews, Pritchett, and Woolcock](https://www.hks.harvard.edu/publications/escaping-capability-traps-through-problem-driven-iterative-adaptation) | Begin with locally nominated performance problems, authorize experimentation and positive deviance, use tight feedback loops, and engage broad sets of agents. | Supplies a function-first alternative to importing impressive forms and a practical route from local failure through iteration toward demonstrated capability. |
+| [Lawrence Lessig](https://harvardlawreview.org/wp-content/uploads/2012/12/forvol126_lessig.pdf) | Identify the dependence proper to the institution, then ask whether a different dependence has displaced it. | Supplies the dependence audit: whose continuing support, money, approval, information, or protection does operation actually require? |
+
+These proposals remain distinct from the project-developed synthesis.
+Culture Mechanics joins them to retained form and authority, explicit candidate
+governors, collision and sacrifice cases, correction capture, succession,
+trace-generating institutional design, and response thresholds.
+
+<a id="voegelin-untrue-existence-second-reality-and-question-space"></a>
+
+#### Voegelin: untrue existence, Second Reality, and question-space governance {#voegelin-untrue-existence-second-reality-and-question-space}
+
+Eric Voegelin's **truth of existence**, **untruth or untrue existence**,
+**Second Reality**, and ***metaxy*** belong near un-reason and un-reality but are
+not synonyms for them.
+In [“On Debate and
+Existence”](https://voegelinview.com/on-debate-and-existence/) and his wider
+experience-and-symbol inquiry, Voegelin describes human existence as finite
+participation in reality: between knowledge and ignorance, order and disorder,
+time and transcendence.
+Truth of existence is the willingness to remain answerable to this condition;
+untrue existence is a revolt against the *condicio humana* in which a constructed
+account overlays experienced reality and protects itself against the questions
+that could reopen it.
+
+The distinction is not between a perfect model and an imperfect one.
+Every human model is incomplete.
+The stronger failure occurs when the model acquires authority over what evidence,
+experience, contradiction, and questioning are permitted to mean:
+
+```text
+first reality:
+experience + finitude + uncertainty + contradiction + consequence
+
+second reality:
+a closed construction determines what those encounters are allowed to signify
+```
+
+Mind-independent reality is not abolished.
+Material, biological, interpersonal, and institutional consequences continue.
+The construction instead intercepts their interpretation, so recalcitrant events
+can be redescribed as confirmation, impurity, sabotage, backwardness, insufficient
+effort, or proof that the authorized transformation must intensify.
+
+Culture Mechanics adopts Voegelin's established vocabulary for this existential
+and interpretive layer while preserving its own typed constructs:
+
+- **untrue existence** concerns the person's, movement's, institution's, or
+  culture's operative relation to finite reality and questioning;
+- **Second Reality** names the protected interpretive construction;
+- **un-reason** names reason-shaped conclusion protection;
+- **un-reality** requires an authorized representation with socially operative
+  reality-status that survives failed correction; and
+- **Babelization** concerns loss of the common translation and adjudication
+  surface required for one shared order.
+
+The terms may be used at person or collective scale only when the construction,
+domain, excluded questions, recurrence, and correction-neutralization route are
+specified.
+They are not permanent human essences, clinical diagnoses, or licences to infer
+untruth across every domain of a person's life.
+
+<a id="question-space-governance"></a>
+
+##### Question-space governance and appealability {#question-space-governance}
+
+A closed order can govern more than accepted answers.
+It can govern whether an experience becomes an admissible question at all.
+**Question-space governance** separates at least five operations:
+
+1. **answer suppression:** the question is intelligible but a proposed answer is
+   forbidden or punished;
+2. **question prohibition:** asking the originating question is itself treated as
+   disloyal, impure, dangerous, or unintelligible;
+3. **semantic foreclosure:** available vocabulary already classifies every
+   formulation inside the authorized answer;
+4. **attentional foreclosure:** the relevant analogy, cause, bearer, consequence,
+   or contradiction reliably fails to become salient; and
+5. **institutional non-reception:** a question can be spoken but no authorized
+   record, hearing, investigation, adjudication, or correction route can receive
+   it.
+
+Internalized pre-articulation suppression can combine these operations: the
+question fails to form before an external censor needs to act.
+This relation joins the person-side negative-space fingerprint to the
+constitutional reception path without treating silence as proof of inner capture.
+
+**Appealability** asks whether a proposition, classification, office, or
+programme admits a forum not already controlled by the challenged authority:
+reciprocal reason, independent evidence, affected-person answer, institutional
+appeal, succession, or reality-mediated consequence.
+An answer need not remain permanently open in every proceeding, but the order
+must preserve the originating question, grounds, limits, and conditions of
+reopening.
+
+Voegelin's experience--symbol relation supplies a further distinction:
+
+- a **living symbol** reconnects recipients to the engendering experience and
+  keeps the originating question available;
+- a **dead formula** persists after that experience has been forgotten; and
+- an **idolized answer-symbol** acquires authority to prohibit the experiences
+  and questions that could reopen it.
+
+[Operation-bootstrapped codebook
+formation](0020-epistemic-agency.semantic-definition.md#operation-bootstrapped-codebook-formation)
+supplies a communication-level bridge without redefining Voegelin's existential
+terms. A living symbol remains capable of cueing local reconstruction of enough
+of its engendering experience, distinctions, and question to guide application
+and correction. A dead formula retains the token after that practical
+reconstruction path has been lost or detached. An idolized answer-symbol goes
+further: the surviving token and its authority prohibit the operation-rich
+inquiry that could rebuild, test, or revise its meaning. The relation is neither
+literal memory replay nor proof that every recipient reconstructs one identical
+experience.
+
+Voegelin's distinction between **compact** and more **differentiated**
+symbolization adds a comparison rule.
+Different symbolic vocabularies can articulate related structures of experienced
+existence at different degrees of differentiation without being literally
+identical or historically descended from one another.
+Comparison should therefore test the experienced tension, question, orientation,
+and correction relation carried by the symbols rather than equating words,
+institutions, or doctrines by surface resemblance.
+Functional equivalence is a hypothesis to demonstrate, not a licence to erase
+historical difference or declare every later formulation a clearer version of an
+earlier one.
+
+These are interpretive states, not a new three-step historical law.
+A stable formula can transmit hard-won knowledge efficiently, and not every
+recipient must repeat the founding experience from the beginning.
+The failure occurs when symbolic custody defeats appeal and reality correction.
+
+<a id="participation-to-mastery-inversion-and-reality-matrix-divergence"></a>
+
+##### Participation-to-mastery inversion and reality-matrix divergence {#participation-to-mastery-inversion-and-reality-matrix-divergence}
+
+**Participation-to-mastery inversion** is the proposed route by which finite
+participation in society, history, science, or humanity is redescribed as
+possession of its total logic and therefore as jurisdiction to transform its
+other participants.
+Expertise, political judgment, and ambitious reform do not satisfy the type.
+The stronger conjunction requires a totalizing claim, authorized interpreters,
+expanded jurisdiction, and loss of an external correction condition.
+
+When two parties retain grammar and formal inference but no longer admit a
+sufficiently common experienced reality capable of deciding between their
+constructions, the conflict reaches **reality-matrix divergence**.
+Lexical disagreement concerns words; inferential disagreement concerns accepted
+moves; correction-regime disagreement concerns evidence and defeaters;
+adjudicative disagreement concerns who may decide.
+Reality-matrix divergence lies beneath them: the parties no longer occupy the
+same operative relation to the reality to which those procedures were supposed
+to answer.
+This can contribute to Babelization, but one closed argument or metaphysical
+difference does not by itself put a society below the anti-Babel floor.
+
+The account must be reflexive.
+A Culture Mechanics analyst reproduces the X-ray closure when they claim
+privileged sight of another person's “real programme,” treat disagreement as
+confirmation, prohibit questions about the framework, and state no observation
+that could revise the classification.
+Critical Constructivism therefore remains subject to the same question-space,
+appealability, source-position, consequence, and reality-correction tests it
+applies elsewhere.
+
+<a id="un-reason-reasoning-that-defeats-the-conditions-of-reason"></a>
+
+#### Un-reason: reasoning that defeats the conditions of reason {#un-reason-reasoning-that-defeats-the-conditions-of-reason}
 
 **un-reason** *noun*
 **Status:** proposed cross-scale mechanism and project term
@@ -1149,9 +1904,12 @@ independent correction.
 Its epistemic result can still be described as self-negating: greater skill at
 explanation, distinction, criticism, and defence helps disable the account's
 capacity to lose. That is the result of the displaced governing principle, not
-the complete definition. The [theoretical *un-* operator](#theoretical-un-operator)
-owns the reason/not-reason/un-reason contrast, the retained-skin construction,
-and its Kant--Freud--Žižek precedents. **Un-reason is not Žižek's term, not
+the complete definition. [Constitutive-relation
+inversion](#constitutive-relation-inversion) owns the direct reversal by which a
+protected conclusion governs the evidence and correction to which it should
+answer. A durable institution can embody that reversal, but un-reason alone does
+not establish [pseudomorphic governor
+substitution](#pseudomorphic-governor-substitution). **Un-reason is not Žižek's term, not
 Hegel's term, and not a claim that either thinker proposed this mechanism.** Nor
 is subjective Night itself un-reason. Night names the opaque, negative, and
 generative inward ground from which many forms of articulation can emerge;
@@ -1223,7 +1981,9 @@ institutional correction system. Its neighbours must remain distinct:
   account, not how abstract, radical, technical, or politically unwelcome the
   account appears.
 
-##### Doublethink as a narrower contradiction-tolerance mechanism
+<a id="doublethink-as-a-narrower-contradiction-tolerance-mechanism"></a>
+
+##### Doublethink as a narrower contradiction-tolerance mechanism {#doublethink-as-a-narrower-contradiction-tolerance-mechanism}
 
 [George Orwell's *Nineteen
 Eighty-Four*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/)
@@ -1265,7 +2025,7 @@ The relations must therefore remain typed:
 The linguistic neighbour is not doublespeak. Orwellian **Newspeak** acts on the
 available symbolic vocabulary; doublethink acts on the relation among beliefs.
 The [Newspeak-style vocabulary-restriction
-mechanism](0030-linguistic-tricks.semantic-inventory.md#lt-042--newspeak-style-vocabulary-restriction)
+mechanism](0030-linguistic-tricks.semantic-inventory.md#lt-042-newspeak-style-vocabulary-restriction)
 is kept in the linguistic inventory. Neither mechanism proves the other, and one
 observed contradiction does not diagnose either.
 
@@ -1280,11 +2040,13 @@ preserved rival accounts, independent audit, acknowledged failure, and revision
 that changes practice. No conclusion about intelligence, motive, population, or
 political identity follows from the term alone.
 
-##### Relation to cultural interoperability and Babelization
+<a id="relation-to-cultural-interoperability-and-babelization"></a>
+
+##### Relation to cultural interoperability and Babelization {#relation-to-cultural-interoperability-and-babelization}
 
 **Un-reason and Babelization are not identical. Un-reason can be a mechanism that
 drives communication toward
-[Babelization](0040-mythology-construction.semantic-definition.md#29-cultural-interoperability-and-its-breakdown-babelization).**
+[Babelization](0040-mythology-construction.semantic-definition.md#cultural-interoperability-and-its-breakdown-babelization).**
 
 The crucial distinction is:
 
@@ -1305,6 +2067,75 @@ translated through the protected account:
 
 Reality still “speaks” through consequences, but no longer has an agreed language
 in which it can pronounce against the account.
+
+<a id="baader-march-through-definitions"></a>
+
+###### Baader's “march through definitions” as an upstream semantic route {#baader-march-through-definitions}
+
+[Roland Baader's *totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf)
+(2002), in the section “Marsch durch die Definitionen,” pp. 127–128, supplies a
+verified source-attested compression of one possible semantic route into this
+problem.
+The intellectual-vocation link is explicit rather than merely thematic.
+Immediately beforehand, Baader's section “Verrat der Intellektuellen,” pp.
+124–126, treats Benda's *La trahison des clercs* as a classic, describes
+moralizing theses as making prevailing opinion “immun gegen Fakten,” and
+describes intellectual prominence and apparent competence as amplifiers of
+political passions.
+Baader then moves from that [Bendaian vocation-level
+betrayal](#bendas-truth-utility-bridge) to definition hollowing and occupation as
+a further method by which error can acquire attractive public form.
+Baader describes the “inhaltliche Aushöhlung von Begriffen” followed by their
+“Besetzung” through new or changed interpretation and writes:
+
+> **„Noch ‚erfolgreicher‘ als der Marsch durch die Institutionen war der Marsch
+> durch die Definitionen.“**
+
+In the surrounding passage he argues that transformed meanings of central
+political and public terms can make mutual understanding nearly impossible and
+invokes both Orwellian Newspeak and Babylonian linguistic confusion.
+He also explicitly says that tactical falsification cannot always be clearly
+separated from longer-running changes in the *Zeitgeist*.
+The source therefore supplies the aphorism, the semantic-hollowing and
+reinterpretation observation, the institutional comparison, and the
+understanding-breakdown warning without proving one centrally directed campaign.
+
+Culture Mechanics places that source observation inside a typed cross-scale
+route:
+
+```text
+familiar term retains public authority, evaluative force, and institutional routing
+→ its definition, extension, or practical center changes
+→ observations and consequences are interpreted through the revised term
+→ possible un-reason if a protected conclusion controls whether correction counts
+→ possible un-reality if an authorized classification governs consequential practice despite correction
+→ possible semantic decoupling and Babelization if common translation and adjudication fail
+```
+
+The controlled [*Emperor's New Clothes*
+analogy](0050-culture-mechanics-analogies.semantic-inventory.md#the-emperors-new-clothes-un-reality-and-procession-inertia)
+makes the first reversal visible.
+The swindlers define inability to see the cloth as evidence that the observer is
+foolish or unfit for office, so the empty loom discredits the observer instead of
+defeating the claim.
+That compact relation illustrates a self-sealing definition; it does not make
+unaided perception sovereign in complex empirical, legal, historical, or moral
+disputes.
+
+Where a durable institution retains its recognizable machinery and authority
+while changed definitions redirect consequential operation, this semantic route
+can also contribute to pseudomorphic governor substitution.
+Neither definition change nor Baader's phrase alone establishes that thicker
+bearer-level morphology.
+
+Definitions necessarily evolve, and conceptual engineering can repair a bad
+category, clarify a mechanism, or extend standing to genuinely analogous cases.
+The source bridge therefore does not turn unfamiliar usage, political
+disagreement, or one contested definition into evidence of manipulation.
+An application must specify the term, unit, domain, period, earlier and later
+meanings, retained evaluative or institutional force, practical use, and effect
+of correction; deliberate coordination and political authorship require their
+own evidence.
 
 ###### Is that Babelization?
 
@@ -1350,7 +2181,9 @@ The pluralist application prefers soft separation where feasible because continu
 contact and a thin common shell can preserve a path toward restored
 interoperability and voluntary reunion.
 
-###### How do you reason with someone operating through un-reason?
+<a id="how-do-you-reason-with-someone-operating-through-un-reason"></a>
+
+###### How do you reason with someone operating through un-reason? {#how-do-you-reason-with-someone-operating-through-un-reason}
 
 The phrase should remain a provisional, domain-specific description rather than
 a global identity assigned to the person. The first task is to test whether any
@@ -1401,6 +2234,8 @@ It should still be diagnosed by domain and period, however—not turned into the
 claim that the entire person is permanently unreachable. Babelization requires
 the further scale and threshold evidence specified in its primary semantic home.
 
+<a id="un-reality-operative-reality-status-insulated-from-reality"></a>
+
 #### Un-reality: operative reality-status insulated from reality {#un-reality-operative-reality-status-insulated-from-reality}
 
 **un-reality** *noun*
@@ -1423,7 +2258,9 @@ outside un-reality when it is openly testable and correction changes what the
 relevant people and institutions do.
 
 The hyphen applies the project-specific
-[**theoretical *un-* operator**](#theoretical-un-operator) one level displaced.
+[**theoretical *un-* family**](#theoretical-un-operator) through
+[constitutive-relation inversion](#constitutive-relation-inversion) at the
+operative-state level rather than un-reason's mechanism level.
 Reasoning itself remains active in un-reason; mind-independent reality is never
 transformed or negated by un-reality. What persists is the representation's
 **socially authorized reality-function**, while independent reality-correction
@@ -1486,6 +2323,280 @@ Diagnosis therefore asks not merely whether a contradiction can be spoken, but
 whether disclosure can change confidence, classification, action, resource
 allocation, jurisdiction, remedy, personnel, or the governing rule. Public
 admission without operative revision can leave the procession running.
+
+<a id="representational-attention-sink"></a>
+
+##### Representational attention sinks and ensemble selection {#representational-attention-sink}
+
+A **representational attention sink** is a selected example, image, case bundle,
+or reporting ensemble that absorbs finite public attention and corrective effort
+in a direction poorly matched to the operative distribution of the represented
+harm. Every displayed instance may be possible or even authentic. The distortion
+can arise from **ensemble selection**: repeated countertypical examples,
+unreported baselines, asymmetric category resolution, or omission of the cases
+that would change priority and remedy.
+
+```text
+individually possible or authentic instances
++ selection that obscures the relevant distribution or comparator
++ institutional use that directs vigilance, burden, or remedy
+→ possible representational attention sink
+
++ correction cannot alter the ensemble's authority or practical use
+→ possible un-real representation
+```
+
+The first line does not by itself establish un-reality. Selection can reflect
+sampling error, privacy constraints, pedagogy, editorial novelty, uncertainty,
+limited data, or an attempt to correct a previously neglected case. Diagnosis
+therefore requires the relevant denominator, time and jurisdiction, measurement
+quality, the purpose of the representation, its practical consequences, and
+what happens when a valid comparator is supplied. One poster, anecdote, rare
+counterexample, or omitted statistic establishes neither falsity, intent,
+systemic lying, nor a population essence.
+
+Within [anarcho-tyranny](0060-culture-program-ecology.semantic-definition.md#anarcho-tyranny-advanced-willkur),
+an attention sink can support target substitution: the comparatively harmless
+or politically convenient proxy occupies the foreground while serious
+protection failure remains difficult to make commonly visible. This is a
+possible covering mechanism, not a required component of every
+anarcho-tyranny configuration.
+
+The [sparse Fernandes–HateAid–Hubig–ARD worked
+application](0060-culture-program-ecology.semantic-definition.md#fernandes-hateaid-hubig-ard-sparse-case)
+uses the contrast between exceptional celebrity mobilization, an unmeasured
+specific deepfake gap, and recurrent embodied-harm comparators as an attention-
+sink probe. The mobilization disparity is evidence about salience and routing,
+not by itself proof of state nonprotection.
+
+<a id="contrast-amplified-residual-salience"></a>
+
+##### Contrast-amplified residual salience and “Spencer's Law” {#contrast-amplified-residual-salience}
+
+**contrast-amplified residual salience** *noun phrase*
+
+**Status:** conditional candidate mechanism extracted from a Davies--Spencer--Baader
+source line
+
+In [“Spencer's Law: Another Reason Not to
+Worry”](https://fee.org/articles/spencers-law-another-reason-not-to-worry/)
+(2001), Stephen Davies coined **Spencer's Law** for a relation he attributed to
+Herbert Spencer: public concern about a social problem can increase as its actual
+incidence declines. [Roland Baader's
+*totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf),
+pp. 177--180, adopts Davies's name and highlights historical ignorance,
+increased contrast as a once-common problem becomes exceptional, and the media
+advantage of bad news.
+
+Culture Mechanics does not adopt the universal inverse relation as a law. It
+extracts the narrower candidate mechanism **contrast-amplified residual
+salience**: remaining cases can become more perceptually and publicly prominent
+against an improving background even while their incidence or relative severity
+falls.
+
+```text
+declining or increasingly exceptional incidence
++ weak public knowledge of the historical baseline
++ stronger contrast of each remaining case against the improved background
++ novelty, moral attention, reporting access, or bad-news selection
+→ public salience may rise while incidence falls
+```
+
+The mechanism differs from ensemble selection and salience laundering because it
+can arise without fabricated cases, a coordinated selector, or a false public
+claim. It becomes epistemically defective when increased salience is used as
+evidence that incidence, trend, or comparative priority increased while stable
+definitions, denominators, independent series, observation intensity, severity,
+and the improving baseline are withheld from practical correction. It can also
+join endogenous observation: a more visible residual problem can attract a
+larger reporting apparatus, whose changing output is then mistaken for a stable
+measure of the world.
+
+The diagnostic therefore compares:
+
+| Surface | Required comparison |
+|---|---|
+| **Definition and denominator** | Did the category, population, time unit, or severity threshold change? |
+| **Incidence and severity** | What happened to absolute count, rate, distribution, and harm, rather than attention alone? |
+| **Observation intensity** | Did detection, reporting access, publicity, staffing, or classification effort change? |
+| **Historical baseline** | Is the present case evaluated against a known longer trend or only against recent memory? |
+| **Attention-to-incidence relation** | Did coverage, campaigns, or institutional attention rise faster than independently measured incidence? |
+| **Residual contrast** | Did remaining cases become more conspicuous precisely because the surrounding norm improved? |
+| **Correction** | Can an independently supported improving trend alter the public claim, priority, remedy, funding, or jurisdiction? |
+
+Concern can rise because previously ignored harm finally becomes visible, because
+knowledge improves, because a lower but still severe residual becomes more
+tractable, or because moral standards legitimately tighten. A declining rate
+does not make the remaining victims unreal or unimportant. The candidate detects
+a divergence requiring explanation; it does not prove exaggeration, manipulation,
+pretext, un-reality, or an unwarranted remedy.
+
+<a id="report-to-reality-laundering-and-endogenous-observation"></a>
+
+##### Report-to-reality laundering and endogenous observation {#report-to-reality-laundering-and-endogenous-observation}
+
+**report-to-reality laundering** *noun phrase*
+
+**endogenous observation** *noun phrase*
+
+**ascertainment ratchet** *noun phrase*
+
+**salience laundering** *noun phrase*
+
+**Status:** proposed mechanisms and diagnostic distinctions
+
+**Report-to-reality laundering** is the loss of inferential boundaries by which
+records produced by a reporting apparatus acquire the authority of independently
+established reality without the required transformations having been tested:
+
+```text
+submission
+   → admissible report
+   → unique alleged incident
+   → plausibly classified incident
+   → verified case
+   → prevalence estimate
+   → politically material problem
+   → necessary and fitting intervention
+```
+
+Each arrow poses a separate empirical or normative question. The number of
+submissions initially measures submission activity. The number of accepted
+reports measures a product of events, observation, access, willingness to report,
+intake design, classification, operator practice, duplication control, and error.
+It does not by itself measure the underlying incidence of the named phenomenon.
+A useful qualitative schema is:
+
+```text
+observed records
+  = underlying events filtered through detection, reporting, and classification
+  + duplicates and false positives
+  - missed, rejected, or inaccessible events
+```
+
+This is **endogenous observation**: the measuring apparatus and the social roles
+around it help produce the observed series. Changing publicity, portal access,
+definitions, staffing, incentives, trust, fear, or enforcement can change the
+record count while underlying incidence is stable. Conversely, stable or falling
+counts can coexist with a worsening phenomenon if reporting or detection falls.
+The correct inference therefore needs denominators, definition stability,
+observation intensity, verification outcomes, error estimates, and rival
+explanations wherever they can be obtained.
+
+An **ascertainment ratchet** arises when apparatus growth raises recorded volume,
+the rise is read as proof that the external phenomenon grew, and that reading
+authorizes further apparatus growth:
+
+```text
+more attention, access, incentives, or intake capacity
+                    ↓
+              more submissions
+                    ↓
+ interpreted as more underlying harm
+                    ↓
+ more attention, access, incentives, or intake capacity
+```
+
+The ratchet becomes **resource-coupled** when the observed series also helps
+determine the observer's funding, staffing, prestige, jurisdiction, or continued
+existence. The measuring institution then has a material interest in the output
+whose meaning it helps define. That conflict can bias outreach, thresholds,
+classification, verification, retention, publication, and resistance to
+correction without any fabricated entry. It also increases the opportunity and
+incentive for deliberate metric manipulation. Conflict and vulnerability require
+disclosure and safeguards; they do not establish manipulation, legal fraud, or
+false incidence by themselves.
+
+The loop can begin with a real and serious problem. Its defect lies not in looking
+but in treating the results of intensified looking as though the observation
+process had remained unchanged. It becomes correction-resistant when rising
+counts justify expansion, falling counts prove success, low verification invokes
+an unknowable dark figure, and unavailable records invoke privacy in a way that
+leaves no possible result capable of counting against the apparatus or its public
+claim.
+
+**Salience laundering** is a neighbouring priority transformation:
+
+```text
+true or plausible event
+   → recurrent phenomenon
+   → large or growing problem
+   → problem deserving scarce public attention now
+   → priority over displaced problems
+   → necessity and proportionality of the proposed remedy
+```
+
+The truth of the first item cannot validate the later arrows. Attention is scarce;
+concentrated collection and repeated coverage can make selected events cognitively
+available while larger, less narrated harms recede. Multiple media repetitions of
+one release, dataset, campaign, or wire report measure propagation and visibility,
+not independent source confirmation or prevalence. This creates a route by which
+individually true stories can assemble a materially false picture of the world.
+
+Audit the claim across its full communication chain--technical report, executive
+summary, press release, journalistic or broadcast translation, political citation,
+and funding or mandate use--rather than treating the source artifact as the only
+operative statement.
+A methodological qualification has **operative correction weight** only insofar
+as it constrains the consequential comparison, headline, prevalence claim,
+priority judgment, or intervention that travels downstream.
+Where a narrow technical qualification remains available under scrutiny while an
+uncaveated larger implication repeatedly performs the mobilizing work, test the
+motte-and-bailey amplitude shift rather than counting disclosure alone as
+successful correction.
+Trace source genealogy as well: many prestigious repetitions of one
+operator-controlled dataset or release increase reach and borrowed authority, not
+source independence.
+
+The complete failure sequence can therefore combine four distinct operations:
+
+1. **moral pre-authorization** -- the protected end and virtuous reporting role
+   make scrutiny of the apparatus feel suspect;
+2. **procedural insulation** -- authentication, categorization, rejection,
+   duplication, conflict, and custody cannot be adequately inspected;
+3. **statistical or semantic laundering** -- submissions become cases, identities,
+   prevalence, or trend claims without supported bridges; and
+4. **political laundering** -- the public problem appears to compel a measure whose
+   effectiveness, proportionality, target, and opportunity cost remain unproved.
+
+None of the four is inferred merely from anonymity or confidentiality. Anonymous
+reporting can protect vulnerable people and produce verifiable evidence. Privacy
+can justifiably limit public disclosure of personal data. But **privacy for
+persons must not become secrecy for institutions**: an operator that invokes
+privacy should still support privacy-preserving independent audit of intake,
+authentication where promised, duplicates, category rules, dispositions, error,
+conflicts, source lineage, and corrections. The accused or adversely classified
+person also needs notice, an intelligible allegation, a meaningful reply route,
+and proportionate adjudication wherever sanctions or consequential public claims
+attach.
+
+The defeat conditions are correspondingly operational. A reality-anchored system
+predeclares what would reduce confidence, distinguishes allegations from findings,
+publishes stable definitions and denominators, measures observation changes,
+permits independent confidential audit, records corrections, separates collection
+from certification where feasible, and allows failed remedy predictions to change
+the policy. A system does not become un-real merely because it has false positives,
+imperfect data, moral language, or disputed priorities. Un-reality requires that
+the representation acquire operative authority while these correction routes no
+longer reliably alter its use.
+
+When this mechanism appears inside a PGS inquiry, use the [typed machinery-routing
+pass](#typed-machinery-routing-and-function-local-application) to return these
+findings to the separate bearer, governor, collision, correction, and reproduction
+or succession gate.
+The existence of a real underlying problem neither validates a particular
+submission-to-trend inference nor defeats a PGS finding about the function that
+produces or communicates that inference; conversely, a defective measurement
+route does not establish that the underlying problem is absent.
+
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#moralized-observation-to-mandate-loop)
+owns the role grammar that recruits the virtuous observer and guardian;
+[*Epistemic Agency*](0020-epistemic-agency.semantic-definition.md#moralized-citizen-sensor-and-internal-observer)
+owns the citizen-sensor and internal-observer consequences; and
+[*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#moralized-reporting-and-report-to-mandate-loop)
+owns the institutional audit, safeguards, and bounded judicial example.
+
+<a id="post-disclosure-un-reality-correction-nullification-and-procession-inertia"></a>
 
 ##### Post-disclosure un-reality: correction nullification and procession inertia {#post-disclosure-un-reality-correction-nullification-and-procession-inertia}
 
@@ -1626,6 +2737,77 @@ can become action. This is compatible with the
 including its possible [**trusted-carrier correction
 lock**](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock),
 but neither field coherence nor disagreement proves a culpable choir.
+
+<a id="procedural-correction-conversion"></a>
+
+##### Procedural correction conversion {#procedural-correction-conversion}
+
+**procedural correction conversion** *noun phrase*<br>
+**Status:** proposed correction-interface mechanism
+
+**Procedural correction conversion** occurs when an adverse correction signal is
+validly expressed, received, recorded, and perhaps accurately counted, but the
+operative procedure converts that signal into failure to revise the challenged
+rule, decision, office, authorization, or course. The correction is neither
+semantically defeated nor necessarily ignored. Its institutional effect is
+transformed:
+
+```text
+adverse correction is validly expressed and recorded
+→ threshold, default, timing, agenda, quorum, routing, expiry, or restart rule
+→ correction fails to trigger operative defeat or revision
+→ challenged operation continues
+```
+
+This is a subtype of failed consequential uptake but differs from the strict
+non-reception branch of correction nullification. The receiver may acknowledge
+the correction and count every vote correctly. The fault lies in the configured
+relation between the signal and what the signal is permitted to change:
+
+| Mechanism | Correction status | Operative failure |
+|---|---|---|
+| **Correction nullification** | Withheld from reception, answer, adjudication, or uptake; treated as though it never entered the control loop | The correction is denied an operative receiver or consequence |
+| **Procedural correction conversion** | Formally received, recorded, and processed | Procedure translates the adverse result into continuation, default, failed rejection, or a new authorization opportunity |
+| **Legitimate heightened threshold** | Received and processed under a stable, prospective, reciprocal rule serving an independently defensible constitutional allocation | No correction failure follows merely because an ordinary majority cannot alter a protected settlement |
+
+Possible conversion operators include an absolute rather than votes-cast
+majority, a strategically consequential quorum, adverse default rule, agenda
+exclusion, accelerated timetable, serial resubmission, formal repackaging that
+resets an earlier defeat, or a route that changes which body or threshold
+controls. None is pathological by form alone. Supermajority rules, bicameralism,
+judicial review, limitation periods, and agenda rules can protect persons,
+stability, deliberation, federal allocation, and minority standing.
+
+Diagnostic force rises when:
+
+- the route or threshold changes after the adverse result or its likely outcome
+  is known;
+- formally new packaging preserves substantially the same operative object;
+- timing predictably converts absence or compressed preparation into support for
+  continuation;
+- an instrument justified as accelerating implementation of the deciding body's
+  will is used to bypass or reverse that body's already expressed will;
+- repeated defeat produces procedural redesign rather than substantive revision;
+- the affected opposition can speak and be counted but cannot obtain answer,
+  ordinary deliberation, adjudication, or a route to operative change; or
+- aligned results receive ordinary-majority effect while adverse results face a
+  movable or exceptional burden.
+
+The observable conversion and the attribution of a **procedural trick** must
+remain separate. A rule can have an anti-corrective effect through stable design,
+error, inherited procedure, path dependence, or an unforeseen interaction.
+Strategic exploitation requires additional chronology, knowledge, alternative-
+route, actor, and counterfactual evidence. Accurate counting therefore defeats a
+vote-falsification allegation but does not by itself establish that the complete
+correction interface was democratic, reciprocal, or corrigible.
+
+The compact rule is:
+
+> **A correction can be counted correctly yet converted procedurally into no
+> correction. Audit not only whether the signal was registered, but what the
+> governing procedure allowed it to change.**
+
+<a id="auxiliary-un-reality-explaining-away-cascade"></a>
 
 ##### Auxiliary-un-reality explaining-away cascade {#auxiliary-un-reality-explaining-away-cascade}
 
@@ -1803,6 +2985,8 @@ The constitutional lesson is:
 > officially acknowledged, but when it is capable of altering every downstream
 > operation whose justification materially depends upon it.**
 
+<a id="typed-epistemic-architecture"></a>
+
 #### Typed epistemic architecture: operation, orientation, mechanism, state, stock, and constitution {#typed-epistemic-architecture}
 
 The surrounding terms identify different analytical objects and must not be
@@ -1834,6 +3018,8 @@ operative correction, un-reasoned defence, sufficient installation and
 reproduction, and collective scale. Un-reason, organized un-reality, or systemic
 lying alone does not establish that conjunction; **Systemic Ideology** is one
 candidate route into, but not a synonym for, the systemic-lying pole.
+
+<a id="distributed-carrier-sequence"></a>
 
 ##### Distributed carrier sequence {#distributed-carrier-sequence}
 
@@ -2080,10 +3266,10 @@ A reality-anchored constitution treats consequential disagreement first as infor
 
 Not every propositional disagreement is a conflict between mythologies. [*Culture
 Mechanics*](0010-culture-mechanics.semantic-definition.md), “Disagreement,
-mythological rivalry, and ideological-form conflict,” distinguishes propositions,
+mythological rivalry, and cultural-program conflict,” distinguishes propositions,
 causal stories, classifications, informal mythological rivalry, active
 mythological conflict, competing governing programs, and organized
-ideological-form conflict. This constitution is concerned with the correction
+propagative conflict. This constitution is concerned with the correction
 route across all of them. **Rival-signal suppression** becomes constitutionally
 dangerous when censorship, channel exclusion, or synchronized institutional
 classification removes a competing claim before independent judgment can inspect
@@ -2172,6 +3358,8 @@ These comparisons concern the organizations' published formats; they do not impl
 > **DEBATECON supplies the open conference stage; Open to Debate supplies the formal motion and mass-broadcast form; the Soho Forum supplies sustained direct engagement; Braver Angels supplies part of the non-punitive ethos. The proposed public contestability infrastructure joins these to an open disagreement sensor, distributed public judgment without an official winner, preserved evidence, and renewed correction.**
 
 The distinctive integration lies before and after the event. Existing debate producers ordinarily choose a topic and then stage it. A disagreement-sensing constitutional organ makes the detection and fair public processing of emerging consequential disagreement itself a continuing social function. After the event, it preserves the question rather than closing it with a winner.
+
+<a id="pragma-dialectical-reality-answerable-interface"></a>
 
 ##### Pragma-dialectical procedure plus reality-answerability {#pragma-dialectical-reality-answerable-interface}
 
@@ -2278,7 +3466,118 @@ without continuous antagonistic mobilization. Whether these practices are
 sufficient, and at what interval and scale, remains an empirical and
 institutional-design question.
 
-### 12. Epistemic stewardship and responsible amplification
+<a id="censorship-as-a-non-localizing-correction-closure-sentinel"></a>
+
+#### 11.6 Censorship as a non-localizing correction-closure sentinel {#censorship-as-a-non-localizing-correction-closure-sentinel}
+
+**censorship sentinel** *noun phrase*<br>
+**non-localizing epistemic-constitutional fault sentinel** *noun phrase*<br>
+**Status:** proposed diagnostic relation
+
+The **censorship sentinel** is crossed when a public or private power suppresses,
+criminalizes, makes practically undiscoverable, or disables the consequential
+uptake of nonviolent, evidence-bearing correction or opposition that does not
+itself violate a specifiable reciprocal right. It directly detects impairment of
+the correction architecture. It does not by itself identify the protected
+representation, Culture Program, mechanism, scale, actor, intention, or complete
+constitutional diagnosis.
+
+The engineering distinction among fault detection, isolation or localization,
+and diagnosis supplies the controlled source bridge: detecting a failure differs
+from locating the implicated component and identifying its failure mode. An
+[ANOVA omnibus test](https://www.itl.nist.gov/div898/handbook/prc/section4/prc47.htm)
+similarly establishes that a difference exists without identifying which means
+differ. The project applies that relation constitutionally:
+
+```text
+censorship or disabling of relevant correction
+        -> fault detected: plural correction is impaired
+        -> localization: which channel, domain, institution, or jurisdiction?
+        -> diagnosis: closure, un-reality, un-reason, systemic lying,
+                      self-protection, panic, corruption, or another mechanism?
+        -> attribution: which actor, objective, knowledge, and causal nexus?
+```
+
+This is a **high-likelihood-ratio** claim, not a validated numerical coefficient.
+A reality-anchored order ordinarily benefits from exposing consequential claims
+to strong counterevidence, whereas a correction-protecting order benefits from
+making rival judgment unavailable, dangerous, inaudible, or ineffective. Under
+the bounded definition above, censorship can therefore make
+correction-protecting epistemic malfunction substantially more probable without
+making the remaining diagnoses equiprobable or already proved:
+
+> **High detection power does not imply high localization power. Censorship can
+> sound a strong alarm while leaving the room, fuel, ignition mechanism, and
+> responsible actors unresolved.**
+
+A single censorial operation is an event sentinel rather than an aggregate
+metric. A measurement system can construct a typed profile from its breadth,
+viewpoint selectivity, target, timing, legal route, institutional recurrence,
+private-proxy use, appeal, repair, and effect on correction. The profile must not
+be collapsed into one scalar score whose aggregate hides the operative route.
+
+Current positive law cannot define the protected side of the test. A power can
+manufacture the illegality later invoked to exculpate its own suppression:
+
+```text
+correction threatens an authorized account or power
+        -> a prohibition is introduced or expanded
+        -> the correction becomes "unlawful"
+        -> suppression is defended because only unlawful speech was suppressed
+```
+
+**Bootstrap illegality**, also called **legality laundering** here, names this
+circular operation. Lawfulness is then an output of the system under diagnosis
+and cannot serve as its independent defence:
+
+> **Legality does not exculpate censorship when the censorial operation produced
+> the illegality.**
+
+The boundary instead asks whether the restriction attaches to an independently
+specified reciprocal-right violation. A credible threat, coercion, fraud,
+non-consensual disclosure of intimate material, or a seriously damaging factual
+accusation presented as established fact without an adequate evidential basis can
+be governed as conduct with a concrete rights nexus. Harsh judgment, satire,
+political criticism, evidenced accusation, good-faith reporting, and a suspicion
+whose uncertainty and basis are disclosed cannot be converted into such conduct
+merely because they damage authority or reputation. Generality, symmetry,
+prospective definition, independent adjudication, proportionality, appeal, and
+repair remain necessary safeguards, especially when the target possesses public
+or concentrated private power.
+
+The sentinel has two important temporal positions:
+
+```text
+PROPHYLACTIC CLOSURE
+opposition is disabled before it becomes correction-effective
+        -> an authorized representation is easier to install un-really
+
+CORRECTION-CAP REMOVAL
+un-reality or systemic lying is already partly operational
++ surviving opposition remains correction-effective
+        -> contradiction threatens authority or use
+        -> the surviving channel is treated as an implementation defect
+        -> censorship deepens closure and reproduction
+```
+
+Its relation to the typed epistemic architecture is correspondingly conditional:
+
+| Construct | What the censorship observation can establish |
+|---|---|
+| **Correction impairment** | Directly supported when formulation, publication, discovery, receipt, organization, adjudication, uptake, or repair is disabled because it carries relevant opposition or correction. |
+| **Un-reality** | Supported only when an identified authorized representation retains consequential reality-status through the disabled correction. Censorship can precede that successful installation. |
+| **Un-reason** | Requires further reason-shaped immunization: concepts, burdens, exceptions, or causal accounts convert the correction into confirmation, contamination, danger, disinformation, or evidence that more suppression is needed. Naked silencing does not satisfy this mechanism. |
+| **Organized un-reality** | Supported when human, linguistic, symbolic, incentive, record, platform, legal, and institutional channels recurrently preserve the protected representation together. |
+| **Systemic lying** | Requires the larger constitutional meta-order recurrently to generate, select, authorize, protect, and replace organized un-reality. One censorial episode or local cover-up is insufficient. |
+
+The [strict Ideology gate and *Schutzbalken* application](0060-culture-program-ecology.semantic-definition.md#censorship-sentinel-and-the-seven-ideology-gates)
+belongs to *Culture Program Ecology*. This generic constitutional section supplies
+the fault relation; it does not turn censorship into an additional constitutional
+orientation or make every speech restriction a systemic diagnosis.
+
+<a id="epistemic-stewardship-and-responsible-amplification"></a>
+
+### 12. Epistemic stewardship and responsible amplification {#epistemic-stewardship-and-responsible-amplification}
 
 The individual-level virtue corresponding to public contestability is **epistemic stewardship**, with **responsible amplification** as its everyday practice. Both expressions are proposed terms in this synthesis.
 
@@ -2291,6 +3590,28 @@ Its operational rule is:
 Before forwarding a consequential claim, a person performs the simplest competent check proportionate to its reach and possible harm. This can include reading beyond a headline, identifying the original proposition, checking the date and context, following the source chain, reproducing an elementary calculation, looking briefly for serious counterevidence, and distinguishing observation, inference, prediction, opinion, and satire.
 
 Nobody can verify everything. *Qualify* therefore matters. A person may say, “I have not verified this; I am sharing it as a question that deserves examination.” The constitutional failure occurs when uncertainty is silently converted into assertion and transferred to others as if someone upstream had checked it.
+
+Source evaluation must also separate rhetorical form from evidentiary content.
+Institutional actors can usually purchase legal review, press offices, editorial
+polish, repetition, and the appearance of calm, while counter-power may be
+carried by people who have borne years of financial, occupational, reputational,
+or associational cost. Polished civility is therefore not an independent truth
+signal, and anger, satire, cynicism, colloquial language, or polemic is not an
+independent falsity signal. Nor does costly or impassioned dissent prove the
+claim. Extract the proposition, evidence, uncertainty, source position,
+mechanism hypothesis, moral judgment, and rhetorical vehicle, then evaluate
+each at its own level.
+
+Attention to tone becomes correction impairment when the proposition is evaded,
+the corrector's wound or sharpness is used to discredit the witness, and the
+underlying evidence thereby escapes reception. Legitimate criticism of
+exaggeration, unsupported accusation, or abusive conduct remains available; the
+test is whether form is being used to answer the proposition or to avoid it.
+The communicative operation is typed as [**LT-046 — Civility
+shield**](0030-linguistic-tricks.semantic-inventory.md#lt-046-civility-shield)
+when polished delivery receives an evidentiary bonus, sharp delivery receives an
+evidentiary penalty, and the resulting style judgment displaces examination of
+the proposition.
 
 Forwarding is not merely self-expression:
 
@@ -2311,6 +3632,42 @@ This should remain a virtue and shared yardstick rather than an official score,
 badge, or permission system. An agency-supporting mechanical-solidarity field can
 make stewardship honourable through local bigOthers; it must not convert the norm
 into an epistemic police force or grant one institution custody of reality.
+
+<a id="science-prophecy-and-synthesis-authority-boundary"></a>
+
+#### Science, prophecy, and synthesis authority {#science-prophecy-and-synthesis-authority-boundary}
+
+Max Weber's distinction between empirical scholarship and value judgment and
+Ernst Troeltsch's attempt at a historically responsible present synthesis expose
+a permanent constitutional tension.
+Knowledge can clarify facts, causal relations, likely consequences, internal
+consistency, and conflicts among values.
+No scholarly title silently supplies authority to resolve every value conflict,
+select one civilizational future, or convert a historically situated synthesis
+into the voice of science itself.
+
+Christopher Dawson supplies a related precursor warning about a
+**discipline-to-creed transition**.
+An empirical field can begin to supply a total history, moral diagnosis,
+programme of reform, future destination, and sacred authority while continuing
+to draw upon the prestige of science.
+Interdisciplinary synthesis, moral concern, or policy advice is not such a
+transition by itself.
+The audit asks where empirical inference ends, who authors the values and future
+horizon, which jurisdiction the synthesis claims, and whether contrary evidence
+can reduce both the proposition and the authority attached to it.
+
+A scholar, intellectual, religious carrier, or public institution may openly
+propose such a synthesis.
+The constitutional requirement is to mark the transition from description and
+causal inference into authorship, selection, valuation, and political
+authorization.
+The synthesis must remain attributable, inspectable, revisable, and open to
+successor participation.
+Conversely, value conflict does not require paralysis or forbid scholarship from
+examining consequences.
+The boundary prevents empirical office from laundering prophecy, and prevents
+the fear of prophecy from disabling responsible public judgment.
 
 ### 13. Low-cost contradiction, not low-cost condemnation
 
@@ -2366,11 +3723,11 @@ other infrastructural node still burden persons and associations. They therefore
 require a specified functional nexus, legal authority, proportionality, notice,
 answer, independent review, and repair after error rather than functioning as
 indirect person-directed punishment. The
-[presumption](0060-culture-program-ecology.semantic-definition.md#164-self-attribution-presumption-and-internal-contestation),
+[presumption](0060-culture-program-ecology.semantic-definition.md#self-attribution-presumption-and-internal-contestation),
 [source
-asymmetry](0060-culture-program-ecology.semantic-definition.md#165-attribution-source-asymmetry-and-cross-audience-audit),
+asymmetry](0060-culture-program-ecology.semantic-definition.md#attribution-source-asymmetry-and-cross-audience-audit),
 and [carrying-structure definition and intervention
-ladder](0060-culture-program-ecology.semantic-definition.md#119-culture-program-carrying-structure)
+ladder](0060-culture-program-ecology.semantic-definition.md#culture-program-carrying-structure)
 belong to *Culture Program Ecology*.
 
 A systemic-lying constitution tends to reverse the proper cost structure:
@@ -2387,7 +3744,9 @@ challenging claims                       → easy
 condemning persons without tested proof  → difficult
 ```
 
-### 14. Memory, provenance, and correction
+<a id="memory-provenance-and-correction"></a>
+
+### 14. Memory, provenance, and correction {#memory-provenance-and-correction}
 
 Collective memory is part of the epistemic constitution because present judgment depends upon the evidence, alternatives, predictions, failures, and earlier dissent that the public record preserves.
 
@@ -2404,7 +3763,67 @@ A systemic-lying order instead edits memory so that the authorized account appea
 
 Correction therefore has both present and historical forms. Retraction without preserved provenance can become another memory hole. A healthy constitution makes correction visible while retaining enough of the error history for later institutional learning.
 
-## Constitutional classification orientations and their poles
+<a id="foundational-question-custody"></a>
+
+#### Foundational-question custody {#foundational-question-custody}
+
+An order does not preserve hard-won knowledge by transmitting conclusions alone.
+**Foundational-question custody** preserves the question that generated a
+conclusion, the experience that made it urgent, the serious rival answers, the
+causal record, the errors and harms through which alternatives were defeated,
+and the conditions under which new evidence should reopen the settlement.
+
+```text
+conclusion without originating question
+→ inherited formula
+→ forgotten alternatives and failure mechanisms
+→ later disagreement appears unprecedented
+→ defeated programme can return without its causal record
+
+question + evidence + rivals + consequences + reopening conditions
+→ living foundational knowledge
+```
+
+This is not a demand to keep every settled issue permanently undecided.
+Division of cognitive labour requires compression, curricula, and provisional
+closure.
+The custody duty rises with the severity, recurrence, irreversibility, and
+constitutional reach of the discarded alternative.
+The archive must preserve enough detail to distinguish a refuted mechanism from
+a changed condition, a real innovation from renamed repetition, and a causal
+offspring from an unrelated event.
+
+Foundational-question custody therefore preserves more than information for
+state transmission. It must retain enough examples, contrasts, rival accounts,
+causal sequences, practices, and correction records for later recipients to
+reconstruct the relevant codebook and perform the discriminating operations
+again. An inherited conclusion can remain compact, but the order must not destroy
+the operation path by which a new generation can decompress, apply, and challenge
+it.
+
+The history of socialist and communist programmes is a central application.
+Famine, terror, pseudoscience, coercive collectivization, censorship, and blocked
+correction should not be stored as external accidents merely because exact death
+totals, multi-actor conflicts, regional causes, and counterfactual decomposition
+remain disputed.
+Programme attribution remains warranted to the degree that doctrine,
+institutions, incentives, policy, force, or protected representations created,
+amplified, prolonged, scaled, or prevented correction of the harm.
+Quantitative allocation and double-counting remain separate evidential tasks.
+Lysenkoism and programme-driven famine are especially important because protected
+social un-reality became materially answerable to biology and agriculture only
+after the order had disabled questions and sensors that could have corrected it
+earlier.
+
+The rule is symmetrical.
+Liberal, nationalist, religious, scientific, market, and administrative orders
+must preserve the failures and dependencies of their own governing answers rather
+than treating victory, survival, or present prestige as proof that the
+foundational question has disappeared.
+
+<a id="constitutional-classification-orientations-and-their-poles"></a>
+
+## Constitutional classification orientations and their poles {#constitutional-classification-orientations-and-their-poles}
 
 ### 15. An extensible multi-orientation classification
 
@@ -2492,6 +3911,8 @@ corrigibility.
 Sections 16--19 define the truth-orientation endpoints and movement between them in
 detail.
 
+<a id="life-drive-death-drive-constitutional-orientation"></a>
+
 #### 15.2 Drive orientation: life-drive ↔ death-drive {#life-drive-death-drive-constitutional-orientation}
 
 **life-drive–death-drive constitutional orientation** *noun phrase*
@@ -2505,7 +3926,7 @@ vocabularies.
 The **life-drive–death-drive constitutional orientation** asks what the shared
 order organizes motivation to reproduce. It applies at constitutional scale the
 Lacanian drive vocabulary operationalized for mythologies in [*Mythology
-Construction*](0040-mythology-construction.semantic-definition.md#19-psychologically-downhill-and-lacanian-death-drive-mythologies).
+Construction*](0040-mythology-construction.semantic-definition.md#psychologically-downhill-and-lacanian-death-drive-mythologies).
 
 The two poles are:
 
@@ -2527,9 +3948,9 @@ ideal-typical constitutional orientations by asking whether a shared mythology,
 its scripts, and its institutions predominantly bind drive into life-supporting
 forms or into excessive repetition that persists beyond and against its stated
 purpose. The primary psychological definitions remain in [the death-drive
-section](0040-mythology-construction.semantic-definition.md#19-psychologically-downhill-and-lacanian-death-drive-mythologies)
+section](0040-mythology-construction.semantic-definition.md#psychologically-downhill-and-lacanian-death-drive-mythologies)
 and [the life-drive
-section](0040-mythology-construction.semantic-definition.md#20-psychologically-uphill-and-lacanian-life-drive-mythologies)
+section](0040-mythology-construction.semantic-definition.md#psychologically-uphill-and-lacanian-life-drive-mythologies)
 of *Mythology Construction*.
 
 For readers unfamiliar with Lacanian vocabulary, the poles have useful
@@ -2654,11 +4075,12 @@ claimed direct knowledge of the big Other's Will
 The final connection to **fanatic offspring** is a Culture Mechanics diagnostic
 synthesis rather than Žižek's terminology. Žižek's nearby source term is
 *fundamentalist*, not the project's defined *fanatic*. [*Culture Program
-Ecology*](0060-culture-program-ecology.semantic-definition.md#72-fanatic-offspring-as-an-indicator)
-therefore keeps three levels separate: perverse instrumentality as a candidate
-subject--authorization mechanism, fundamentalist form as a programme's coercive
-or eliminative mode of enforcement, and fanatic offspring as an observable
-extreme discharge. No one of them entails another without further evidence.
+Ecology*](0060-culture-program-ecology.semantic-definition.md#fanatic-offspring-as-an-indicator)
+therefore keeps four levels separate: perverse instrumentality as a candidate
+subject--authorization mechanism, fundamentalist form as a sovereign-Will
+person--programme relation, coercive or eliminative enforcement as an outward
+operation, and fanatic offspring as an observable extreme discharge. No one of
+them entails another without further evidence.
 
 A **constitutive adversary** is an opponent whose continued existence performs
 load-bearing identity and motivational work for a programme, so that eliminating
@@ -2726,7 +4148,9 @@ persons remain principals rather than instruments, and what trajectory it
 strengthens over time. This is why life-drive classification asks what the
 resulting power serves, not merely whether power was successfully produced.
 
-##### The Edelmanian queer pole as the closest real-world doctrinal limit case
+<a id="the-edelmanian-queer-pole-as-the-closest-real-world-doctrinal-limit-case"></a>
+
+##### The Edelmanian queer pole as the closest real-world doctrinal limit case {#the-edelmanian-queer-pole-as-the-closest-real-world-doctrinal-limit-case}
 
 In this section, **queer does not name a sexual orientation**. [David Halperin's
 *Saint Foucault*](https://academic.oup.com/book/48907) distinguishes gay identity,
@@ -2758,7 +4182,7 @@ strand of queer theory; an [event description centred on
 Edelman](https://www.queer-institut.de/against-survival-edelman/) explicitly
 places his work in conversation with Lacan, Derrida, and Adorno, but does not by
 itself prove a complete genealogy. The
-[critique–construction-asymmetry](0040-mythology-construction.semantic-definition.md#critique-construction-asymmetry-and-negative-operational-displacement)
+[critique–construction-asymmetry](0040-mythology-construction.semantic-definition.md#critiqueconstruction-asymmetry-and-negative-operational-displacement)
 hypothesis supplies only a candidate deeper enabling pathway: a tradition may
 develop increasingly autonomous negative operations, and one later programme may
 make refusal of positive settlement explicit. That comparison is neither a claim
@@ -2844,6 +4268,8 @@ Antinormativity*](https://dukeupress.edu/queer-theory-without-antinormativity)
 documents an explicit dispute within queer theory over whether opposition to norms
 should remain its primary commitment. **Edelmanian queer negativity** names the
 particular anti-futurist strand examined here, not the field or a population.
+
+<a id="ragnarok-trajectory"></a>
 
 ##### Ragnarök trajectory: successful reproduction toward terminal self-consumption {#ragnarok-trajectory}
 
@@ -2964,6 +4390,8 @@ Open questions include:
    successor-script competition, or become a self-sustaining script that outlives
    the failure that activated it?
 
+<a id="sacred-principal-allocation-audit"></a>
+
 #### 15.3 Candidate sacred-principal allocation audit—not yet an orientation {#sacred-principal-allocation-audit}
 
 > **Who or what receives ultimate standing, and who or what becomes its
@@ -3009,7 +4437,7 @@ work may already be performed by
 the [service-direction
 audit](0040-mythology-construction.semantic-definition.md#pageaus-grail-question-what-does-capability-serve),
 and the [*Schutzbalken*
-principle](0060-culture-program-ecology.semantic-definition.md#1321-democracy-as-schutzbalken-gegen-die-macht).
+principle](0060-culture-program-ecology.semantic-definition.md#democracy-as-schutzbalken-gegen-die-macht).
 
 **Current verdict:** use sacred-principal allocation as a non-scalar,
 cross-cutting audit; do **not** add a third row to the accepted orientation table.
@@ -3064,6 +4492,8 @@ Its lifted mechanical solidarity is not agreement on a comprehensive worldview. 
 
 > People like us say what we actually believe, examine what we most want to believe, give opponents a fair hearing, preserve evidence, and let reality correct us.
 
+<a id="truth-preserving-culture-as-a-roadblock-to-machtpolitik"></a>
+
 #### Truth-preserving culture as a roadblock to *Machtpolitik* {#truth-preserving-culture-as-a-roadblock-to-machtpolitik}
 
 **Truth-preserving culture** is the practical cultural and institutional profile
@@ -3106,7 +4536,9 @@ without constructing a systemic-lying core. The corresponding pluralist
 constitutional application belongs to the [*Schutzbalken*
 crosswalk](0060-culture-program-ecology.semantic-definition.md#schutzbalken-crosswalk).
 
-### 17. Systemic-lying epistemic constitution
+<a id="systemic-lying-epistemic-constitution"></a>
+
+### 17. Systemic-lying epistemic constitution {#systemic-lying-epistemic-constitution}
 
 **systemic-lying epistemic constitution** *noun phrase*
 **Status:** pathological ideal type and proposed synthetic term
@@ -3193,6 +4625,8 @@ correction through brute authority with little intellectual machinery, while a
 localized pocket of un-reason may remain contestable and constitutionally
 contained.
 
+<a id="bendas-truth-utility-bridge"></a>
+
 ##### Benda's truth--utility bridge {#bendas-truth-utility-bridge}
 
 [Julien Benda's *La trahison des
@@ -3254,6 +4688,18 @@ authoritarianism or naked domination in this project's usage. The full composite
 definition, morality--politics sequence, and relation to *Willkürherrschaft*
 belong to *Culture Program Ecology*.
 
+Baader supplies a direct later reception bridge from this vocation-level
+account to an operational semantic method.
+In *totgedacht*, his section “Verrat der Intellektuellen,” pp. 124–126,
+immediately precedes [“Marsch durch die
+Definitionen”](#baader-march-through-definitions), pp. 127–128.
+The sequence connects clerc-like betrayal and moral immunization against facts
+to the hollowing and reinterpretive occupation of definitions as a further
+method.
+That sequence is Baader's reception of Benda; Benda does not thereby become the
+source of the project's typed route from persuasive redefinition into possible
+un-reason, un-reality, Babelization, or institutional substitution.
+
 [Fraenkel's *Normenstaat–Maßnahmenstaat*
 distinction](0060-culture-program-ecology.semantic-definition.md#fraenkel-dual-state-bridge)
 supplies a neighbouring institutional implementation. A regime can preserve
@@ -3304,7 +4750,7 @@ every node, and the same communication tools can serve honest compression when
 uncertainty, alternatives, and correction remain available.
 
 Two mythology-construction mechanisms can help close this pipeline. [**Doctrinal
-causal omission**](0030-linguistic-tricks.semantic-inventory.md#lt-041--doctrinal-causal-omission)
+causal omission**](0030-linguistic-tricks.semantic-inventory.md#lt-041-doctrinal-causal-omission)
 offers reflective cognition an attractive public doctrine while withholding the
 affective and institutional mechanism on which its implementation relies.
 [***Herrschaftsideologie***](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction)
@@ -3395,6 +4841,25 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 15. **Truth orientation and drive orientation are independent:** factual accuracy
     does not make a circuit life-serving, and a claimed life-serving telos does not
     establish truthfulness.
+16. **Censorship of relevant correction is a fault sentinel, not a complete
+    diagnosis:** high detection power can coexist with low localization power.
+17. **Legality cannot independently validate a censorial boundary that produced
+    the illegality on which its own defence relies.** Test the concrete reciprocal
+    right, symmetry, evidence, jurisdiction, review, appeal, and repair.
+18. **No model may control which experiences are allowed to become questions
+    about that model.** Question-space and appealability are constitutional
+    infrastructure.
+19. **A bounded mechanism must be able to lose jurisdiction.** Success can widen
+    confidence; failure, changed preconditions, capture, or harm must be able to
+    narrow scope, change custody, or retire the programme.
+20. **Foundational knowledge includes the originating question, rivals, failures,
+    causal record, and reopening conditions—not only the inherited answer.**
+21. **Meaning infrastructure requires counterpower.** Formal separation of state
+    powers is incomplete where one carrier ecology monopolizes education,
+    classification, credentials, interpretation, and public reception.
+22. **Science does not silently authorize prophecy.** The transition from
+    evidence and causal inference into value selection, synthesis, and political
+    jurisdiction must be named and remain corrigible.
 
 ### 21. Diagnostic questions
 
@@ -3453,6 +4918,17 @@ The two poles must therefore be kept together conceptually. Each positive safegu
   which its expected implementation depends?
 - Does anyone claim privileged access to a hidden collective interest and convert
   that claim into jurisdiction over persons who disagree?
+- Which experiences and analogies are permitted to become questions, and which
+  answer, office, or programme controls their reception and reopening?
+- Does the challenged claim admit an appeal to reciprocal reason, independent
+  evidence, affected persons, another institution, succession, or material
+  consequence outside its own custody?
+- What failure can contract the mechanism's jurisdiction, replace its custodian,
+  restore a missing precondition, or end the intervention?
+- Does an inherited conclusion still carry its originating question, serious
+  rivals, failed alternatives, consequences, and conditions of reopening?
+- Where does empirical explanation end and authored value synthesis or political
+  prophecy begin, and is that transition visible?
 - When a participant says “I have reasoned for myself,” can they identify the
   verdict's operative rule, affective signature, provenance, framing, and
   authority—and can evidence or consequence actually change it?
@@ -3468,6 +4944,21 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 - At which correction stage does uptake fail: *Speak, Record, Receive, Answer,
   Adjudicate, Change operation,* or *Repair*? Who has custody of the next stage,
   and can an independent route displace their non-response?
+- Was the adverse signal accurately received and counted but converted by a
+  threshold, default, timing, agenda, quorum, routing, expiry, or restart rule
+  into continuation? Was that rule stable and reciprocal, or selected, moved, or
+  repurposed after the likely correction became known?
+- Is opposing correction still privately formable, publishable, discoverable,
+  receivable, organizable, and capable of consequential uptake, or has one of
+  those stages been chilled, criminalized, excluded, or routed through an
+  unreviewable private proxy?
+- Does a speech restriction attach to a predeclared reciprocal-right violation,
+  or did authority manufacture the category of unlawfulness after identifying
+  the correction, speaker, or result it wanted disabled?
+- Does the observation establish only a strong censorship sentinel, or also
+  localize a protected representation, reason-shaped immunization, recurrent
+  multi-channel installation, constitutional reproduction, and responsible
+  actors?
 - Has a representation been independently defeated but remained operative? Does
   the authority acknowledge the correction while conduct persists, or nullify it
   through silence, omission, delay, agenda control, or continued repetition?
@@ -3521,6 +5012,31 @@ Anti-gnostic adaptive learning:
 > differently vulnerable sensors → correction, rollback, or succession; no actor
 > owns the objective, evidence, implementation, aggregation, and verdict**
 
+Voegelinian existential and question-space layer:
+
+> **finite participation in reality + living foundational questions → corrigible
+> symbolization; closed construction controls what experience may signify and
+> which questions may form → Second Reality and possible untrue existence →
+> possible un-reason, un-reality, and wider reality-matrix divergence**
+
+Bounded-mechanism correction:
+
+> **real mechanism + specified preconditions + bounded jurisdiction + failure can
+> narrow scope → corrigible use; inherited credit + precondition blindness +
+> non-contracting jurisdiction + expansion after failure → candidate governing
+> theology**
+
+Foundational-question custody:
+
+> **question + experience + rival answers + causal record + defeated errors +
+> reopening conditions → living foundational knowledge**
+
+Generational symbol continuity:
+
+> **inherited token or formula + preserved operation path + recurrent formation
+> and correction → reconstructed decompression capacity → living, applicable,
+> and corrigible symbolization**
+
 Truth-orientation positive pole:
 
 > **sincere avowal → visible disagreement → plural inquiry → encounter with reality → correction → sincere revised avowal**
@@ -3528,6 +5044,18 @@ Truth-orientation positive pole:
 Truth-orientation negative pole:
 
 > **social pressure → public performance → apparent consensus → authority-gated knowledge → suppressed correction → organized un-reality**
+
+Censorship sentinel:
+
+> **nonviolent evidence-bearing correction disabled → high-confidence fault in
+> the correction interface → localization, causal diagnosis, scale test, and
+> attribution remain separate**
+
+Bootstrap illegality:
+
+> **correction threatens authority → prohibition manufactures unlawfulness →
+> manufactured unlawfulness is cited to justify suppression; legality cannot
+> independently validate the operation that produced it**
 
 Un-reason mechanism:
 
@@ -3556,6 +5084,12 @@ Correction pipeline:
 
 > **Speak → Record → Receive → Answer → Adjudicate → Change operation → Repair;
 > speech without a consequential receiver can remain a dead-letter correction**
+
+Procedural correction conversion:
+
+> **adverse correction validly received and recorded → procedural operator
+> converts it into failed rejection, continuation, or a new authorization
+> opportunity → accurate counting ≠ consequential correction**
 
 Bounded exit from carrier veto:
 
@@ -3649,6 +5183,62 @@ Ultimate contrast:
 - **Public dissimulation and acting “as if” — Lisa Wedeen:** [*Ambiguities of Domination*](https://press.uchicago.edu/ucp/books/book/chicago/A/bo22776830.html).
 - **Political lying and factual truth — Hannah Arendt:** [*On Lying and Politics*](https://www.loa.org/books/713-on-lying-and-politics-paperback/).
 - **Language as culture-forming political medium — Victor Klemperer:** [*The Language of the Third Reich*](https://www.bloomsbury.com/us/language-of-the-third-reich-9781472507211/).
+- **“Marsch durch die Definitionen” — Roland Baader:**
+  [*totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf),
+  “Verrat der Intellektuellen,” pp. 124–126, and
+  “Marsch durch die Definitionen,” pp. 127–128, supplies the verified aphorism
+  contrasting semantic change with the march through institutions, the account
+  of terms being hollowed out and then “occupied” through reinterpretation, and
+  the source-level connection to failed mutual understanding, Newspeak, and
+  Babylonian linguistic confusion.
+  The first section explicitly treats Benda's *La trahison des clercs*, calls
+  moralized opinion “immun gegen Fakten,” and immediately precedes the semantic
+  method, establishing a direct Benda--Baader reception line rather than only a
+  retrospective thematic resemblance.
+  Baader's concrete political judgments remain his own; the typed relation to
+  persuasive redefinition, un-reason, un-reality, Babelization, and
+  pseudomorphic governor substitution is a Culture Mechanics synthesis.
+- **Truth and untruth of existence, Second Reality, *metaxy*, and the
+  experience--symbol relation — Eric Voegelin:** [“On Debate and
+  Existence”](https://voegelinview.com/on-debate-and-existence/) and
+  [“Immortality: Experience and
+  Symbol”](https://watershade.net/ev/ev-immortality.html) supply the source
+  vocabulary and the relation among finite participation, closed construction,
+  prohibited questioning, and detached answer-symbols. Question-space governance,
+  its five-operation decomposition, appealability, reality-matrix divergence,
+  participation-to-mastery inversion, the three symbol states, and the typed
+  relation to operation-bootstrapped codebook formation, un-reason, un-reality,
+  and Babelization are Culture Mechanics operationalizations. Voegelin's
+  compactness--differentiation relation supplies
+  the source bridge for comparing functionally related experiential structures
+  without assuming literal identity or genealogy; the explicit comparison rule
+  and its inference limits are the present project's formulation.
+- **Economic theology and bounded validity — Alexander Rüstow:** [*Das Versagen
+  des
+  Wirtschaftsliberalismus*](https://www.metropolis-verlag.de/Das-Versagen-des-Wirtschaftsliberalismus/349/book.do)
+  supplies the source diagnosis in which a conditionally useful mechanism loses
+  its social and institutional preconditions and acquires unconditional scope.
+  Bounded-mechanism deformation, jurisdictional contraction, and the three-object
+  mechanism--signifier--programme separation are project-developed
+  generalizations applied symmetrically beyond markets.
+- **Science as vocation and responsible present synthesis — Max Weber and Ernst
+  Troeltsch:** Weber supplies the science--value and conviction--responsibility
+  tensions; Troeltsch supplies historically situated cultural synthesis and its
+  authorship problem. The constitutional science--prophecy boundary and the
+  attribution, revision, and successor-participation rules are Culture Mechanics
+  syntheses rather than a merger of their positions. Christopher Dawson supplies
+  the neighbouring discipline-to-creed warning; its evidential audit is a Culture
+  Mechanics operationalization rather than his complete sociology.
+- **“Spencer's Law” — Stephen Davies after Herbert Spencer, received through
+  Roland Baader:** [Davies's 2001
+  article](https://fee.org/articles/spencers-law-another-reason-not-to-worry/)
+  coins the name for an inverse incidence--concern relation he attributes to
+  Spencer. Baader's *totgedacht*, pp. 177--180, adopts the name and emphasizes
+  historical ignorance, residual contrast, and bad-news selection. The project
+  does not treat the inverse relation as a universal social law;
+  **contrast-amplified residual salience**, its audit surfaces, and its typed
+  relation to attention sinks, endogenous observation, and correction are
+  Culture Mechanics developments.
 - **The betrayal of the clercs — Julien Benda:** [*La trahison des
   clercs*](https://classiques.uqam.ca/classiques/benda_julien/trahison_des_clercs/benda_trahison_clercs.pdf)
   supplies the abandonment of disinterested truth, reason, and justice for
@@ -3720,8 +5310,8 @@ Ultimate contrast:
 | **Public avowal integrity** | Kuran's preference falsification and Havel's living within the lie | Extends private–public fidelity from preferences and dissident ethics to belief, doubt, uncertainty, and revision across public epistemic life. |
 | **Communicative integrity** | Habermas's communicative action and validity claims; pragma-dialectical critical discussion | Adds explicit reality-answerability and a broader inventory of semantic, contextual, and systemic failure modes. |
 | **Reality correction loop** | Holistic structural realism; fallibilist and scientific model testing | Generalizes model–prediction–surprise–revision beyond formal science to institutions, narratives, policies, and public knowledge. |
-| **Constitutive lack, desire, fantasy, demand, and jouissance** | Lacan's psychoanalytic vocabulary, with Žižek's exposition of fantasy as teaching desire and positioning the subject for others | Applies the optional motivational layer to public inquiry and authority without making lack part of processor architecture, fantasy a synonym for mythology, demand lack-free, jouissance a synonym for *Beseelung*, or private fantasy an object of constitutional rule. The primary cultural operationalization remains in [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#19-psychologically-downhill-and-lacanian-death-drive-mythologies). |
-| **Life-drive–death-drive constitutional orientation** | Lacan's intertwined life-drive and death-drive aspects, as culturally operationalized in [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#19-psychologically-downhill-and-lacanian-death-drive-mythologies), with Edelman's explicit queer-theoretical use of death drive as a source bridge | Converts the vocabulary into independent ideal-typical constitutional poles asking what a shared order organizes motivation to reproduce. This social classifier, its definitions, and its limit-case judgments are Culture Mechanics proposals, not a constitutional axis formulated by Lacan or Edelman. |
+| **Constitutive lack, desire, fantasy, demand, and jouissance** | Lacan's psychoanalytic vocabulary, with Žižek's exposition of fantasy as teaching desire and positioning the subject for others | Applies the optional motivational layer to public inquiry and authority without making lack part of processor architecture, fantasy a synonym for mythology, demand lack-free, jouissance a synonym for *Beseelung*, or private fantasy an object of constitutional rule. The primary cultural operationalization remains in [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#psychologically-downhill-and-lacanian-death-drive-mythologies). |
+| **Life-drive–death-drive constitutional orientation** | Lacan's intertwined life-drive and death-drive aspects, as culturally operationalized in [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#psychologically-downhill-and-lacanian-death-drive-mythologies), with Edelman's explicit queer-theoretical use of death drive as a source bridge | Converts the vocabulary into independent ideal-typical constitutional poles asking what a shared order organizes motivation to reproduce. This social classifier, its definitions, and its limit-case judgments are Culture Mechanics proposals, not a constitutional axis formulated by Lacan or Edelman. |
 | **Ethical responsibility–perverse instrumentality contrast** | Žižek's reading of Lacan in [*How to Read Lacan*](https://wwnorton.co.uk/books/9780393329551-how-to-read-lacan), including Bouyeri, bin Laden, Bush, fundamentalism, and Sophia Karpai | Preserves Žižek's opposition between acting as the instrument of a directly knowable big Other and an ethical act that refuses such exculpation. Its linkage to the project's drive orientation, fundamentalist form, fanatic-offspring diagnostic, accountable generativity, and democratic responsibility is a Culture Mechanics synthesis. |
 
 ### 25. Newly proposed terms and formulations
@@ -3733,6 +5323,12 @@ Arendt, Wedeen, Habermas, or van Eemeren and Grootendorst unless a later
 independent source establishes otherwise:
 
 - **epistemic constitution of lifted mechanical solidarity** in the exact sense defined here;
+- **contrast-amplified residual salience** as the conditional divergence in which
+  remaining cases become more publicly prominent against an improving background,
+  together with the definition, denominator, incidence, observation-intensity,
+  historical-baseline, attention-to-incidence, residual-contrast, and correction
+  audit; the project term is narrower than Davies's proposed “Spencer's Law” and
+  is not a universal inverse-incidence theorem;
 - **first-order full capture**, **lifted full capture**, the distinction between
   shared answers and a shared answer generator, and **universal jurisdiction over
   the allocation and limitation of first-order outputs and jurisdictions**,
@@ -3768,15 +5364,55 @@ independent source establishes otherwise:
   and death-drive theoretical strand in *No Future*, not Edelman's term and not a
   classification of queer people or queer theory generally;
 - **public epistemic telemetry**;
-- the **theoretical *un-* operator**, **retained-skin formulation**, and
-  **displaced-governor test** in which X's recognizable machinery and
-  authority-claim remain while a non-X principle redirects their operation.
+- the **theoretical *un-* family** for internal deformation beyond simple
+  absence or opposition; **constitutive-relation inversion** as the direct
+  relational morphology in which X's characteristic operation remains while
+  the direction of answerability that constitutes X is reversed; and
+  **pseudomorphic governor substitution** as the thicker bearer-level morphology
+  in which a durable role, practice, procedure, office, profession,
+  organization, or institution retains X's recognizable form, machinery, and
+  authority while an incompatible principle governs choice, correction, and
+  reproduction or succession.
+  The originating author rejected *un-deformation* as redundant, selected
+  *pseudomorphic governor substitution* from the assistant's candidates, and
+  supplied the concern with trace-poor practices, hunches, compulsory transfer,
+  and institutional capability challenges.
+  The later author--assistant exchange distinguished relation-level inversion
+  from durable bearer-level substitution and rejected applying the institutional
+  detector wholesale to un-reason and un-reality.
+  The assistant formalized the two-morphology taxonomy, shared family gate,
+  retained-skin image, process--result distinction, collision and succession
+  tests, vulnerability profile, and typed detector modules.
   Kant's infinite judgment supplies a disputed formal third-domain precedent,
-  Freud's *unheimlich* internal estrangement of the familiar, and Žižek's
-  *undead/inhuman* contrast an immanent excess or distortion. The complete
-  retained-form, claimed-authority, substituted-governor, operative-inversion,
-  and defeat-condition test is the project's additional step and must not be
-  attributed to those authors;
+  Freud's *unheimlich* internal estrangement of the familiar, Žižek's
+  *undead/inhuman* contrast an immanent excess or distortion, and mineralogical
+  pseudomorphism the controlled retained-form image.
+  Merton, Selznick, Michels, Meyer and Rowan, Brunsson, Lessig, Stigler,
+  Andrews--Pritchett--Woolcock, Campbell, and Feynman supply neighbouring
+  organizational mechanisms rather than the complete project synthesis.
+  Campbell's replication, reanalysis, and minority-report disciplines;
+  Feynman's invalidation disclosure, rival-cause, publication, and replication
+  norms; Andrews--Pritchett--Woolcock's problem-driven iterative adaptation;
+  and Lessig's proper-dependence audit are source-grounded neighbours.
+  Their integration with the project's governor, trace, collision, sacrifice,
+  correction, succession, and response architecture remains a Culture Mechanics
+  development;
+- **bounded-mechanism deformation**, **precondition blindness**, and
+  **jurisdictional contraction under failure** as project-developed constitutional
+  tests separating a real mechanism, its master signifier, and the programme
+  acting in its name;
+- **question-space governance**, its five-operation decomposition,
+  **appealability** in the defined constitutional sense,
+  **participation-to-mastery inversion**, **reality-matrix divergence**, and the
+  living-symbol / dead-formula / idolized-answer-symbol distinction together
+  with the compactness--differentiation comparison rule as Culture
+  Mechanics operationalizations around Voegelin's source vocabulary;
+- **foundational-question custody** as the project rule that conclusions remain
+  joined to originating questions, experience, rivals, causal record, defeated
+  errors, reopening conditions, and enough operation-bearing material for later
+  generational reconstruction;
+- **meaning-infrastructure counterpower** and the **science--prophecy and
+  synthesis-authority boundary** as project-developed constitutional applications;
 - **un-reason** as the project-specific cross-scale mechanism in which reasoning
   remains active and retains reason's machinery and authority-claim while
   conclusion-protection displaces truth-correction as governor. The assistant
@@ -3814,6 +5450,14 @@ independent source establishes otherwise:
   **Procession inertia** remains the controlled Andersen-derived image for
   acknowledged continuation; the new terms are not Andersen's, Lacan's, Havel's,
   Solzhenitsyn's, Wedeen's, or Arendt's;
+- **procedural correction conversion** as the project-developed mechanism in
+  which a correction is validly received, recorded, and perhaps accurately
+  counted while a threshold, default, timing, agenda, quorum, routing, expiry, or
+  restart rule converts it into no operative defeat. The August 2026 Chat-control
+  discussion supplied the majority-to-threshold application and the distinction
+  between observable conversion and the stronger *Verfahrenstrick* attribution;
+  the generic mechanism, operator inventory, and boundary against legitimate
+  stable heightened thresholds are Culture Mechanics developments;
 - **auxiliary un-real representation**, **adverse auxiliary un-real
   representation**, **auxiliary-un-reality explaining-away cascade**, and
   **counterfeit Bayesian updating** as the project-developed recursive mechanism
@@ -3828,7 +5472,22 @@ independent source establishes otherwise:
   un-reason reaches the Babelization core when the shared real world is denied as
   the final mediator; the assistant developed the threshold distinction and
   practical dialogue protocol, and the user selected that synthesis for theory
-  integration. The user then sharpened the political endpoint into the
+  integration. A later discussion of Dushan Wegner's “Sinnkrise” identified the
+  upstream semantic problem in which words and debate can retain recognizable
+  form and social force while a protected conclusion controls what they may
+  mean and what correction may do. The user recovered Roland Baader's “Marsch
+  durch die Definitionen” aphorism; source verification located the exact
+  sentence and its semantic-hollowing, failed-understanding, Newspeak, and Babel
+  context in *totgedacht* (2002), pp. 127–128. Follow-up verification found the
+  immediately preceding “Verrat der Intellektuellen” section, pp. 124–126, which
+  explicitly treats Benda and connects moral immunization against facts and the
+  political use of intellectual authority to the subsequent semantic method.
+  The typed route from persuasive
+  redefinition through possible un-reason, un-reality, semantic decoupling, and
+  bearer-level substitution is a Culture Mechanics integration rather than
+  Baader's taxonomy. The provisional labels *un-meaning*, *un-sense*, and
+  *un-discourse* were considered but are not promoted here as canonical terms.
+  The user then sharpened the political endpoint into the
   **secession-or-force thesis** and identified power deciding valid claims,
   standards, rights, and exceptions as the point where reason-mediated
   adjudication becomes power-mediated settlement. The user further identified
@@ -3872,6 +5531,21 @@ independent source establishes otherwise:
   Construction*](0040-mythology-construction.semantic-definition.md#demand-lacanian-source-term-and-operational-distinction);
 - **epistemic stewardship** and **responsible amplification**;
 - **verify, qualify, or withhold** as the stewardship formula;
+- **censorship sentinel** and **non-localizing epistemic-constitutional fault
+  sentinel** as the project-developed application of the fault-detection versus
+  localization-and-diagnosis distinction to correction-bearing speech. The
+  originating user introduced the earnings-style summary-metric problem, selected
+  fault detection without fault isolation or diagnosis, applied it to censorship,
+  and selected the fire-alarm comparison to express strong detection with weak
+  localization. Fault-management terminology and the NIST omnibus-test
+  description supply controlled external precedents, not a validated social
+  likelihood ratio;
+- **bootstrap illegality** and **legality laundering** as project names for the
+  circular operation in which suppression first manufactures a speech category's
+  unlawfulness and then treats that produced status as independent justification.
+  The originating user supplied the decisive correction that “lawful speech”
+  cannot be the anchor because introducing speech law is how the censor makes the
+  targeted speech unlawful;
 - the maxim **no person or institution receives root access to reality**;
 - **anti-gnostic adaptive constitutional learning**, **dumb public kernel**, and
   the division among proposal, sensing, decision, implementation, aggregation,
@@ -3907,6 +5581,14 @@ independent source establishes otherwise:
     low-conflict steady states are legitimate possibilities. Whether unused
     safeguards atrophy is retained as an open empirical and institutional-design
     question.
+14. **It does not infer a complete pathology from a censorship sentinel.** A
+    sentinel can strongly establish correction-system impairment while leaving
+    the protected object, program, mechanism, scale, intent, and attribution open.
+    Conversely, calling suppression legal, protective, anti-terrorist, safe, or
+    child-protective cannot establish its own reciprocal-right nexus.
+    Nor does accurate vote counting or formal receipt defeat a procedural-
+    correction-conversion diagnosis; conversely, one heightened threshold does
+    not establish manipulation, strategic selection, or a failed constitution.
 14. **It does not constitutionalize private fantasy.** Fantasy becomes relevant
     here only when its public enactment organizes claims, attention, accusation,
     authority, sanction, or jurisdiction against correction.
@@ -4038,11 +5720,40 @@ independent source establishes otherwise:
 - **Central object:** the relationship among reality, private judgment, public
   avowal, authority, evidence, disagreement, attention, memory, correction, and
   what the shared order organizes motivation to reproduce.
-- **Theoretical *un-* operator:** un-X retains X's recognizable machinery and
-  authority-position while a displaced non-X governor reverses or distorts its
-  operation. The operator must identify retained form, claimed authority, normal
-  and substituted governors, observable inversion, and a defeat condition; it is
-  not a general rule for every word beginning with *un-*.
+- **Theoretical *un-* family:** a theoretical *un-X* marks internal deformation
+  beyond simple absence or external opposition; it is not a general rule for
+  every word beginning with *un-*.
+- **Constitutive-relation inversion:** the direct relational morphology in which
+  X's characteristic operations remain active while an output, commitment, or
+  authorized representation controls the inputs or correctors to which it should
+  answer.
+  Un-reason is its inferential-mechanism application and un-reality its socially
+  operative state application; neither requires one bounded institution.
+- **Pseudomorphic governor substitution:** the thicker bearer-level morphology
+  in which a durable role, practice, procedure, office, profession,
+  organization, or institution retains recognizable X-form, machinery, and
+  authority while an incompatible governor controls consequential choice,
+  correction, and reproduction or succession.
+  The process yields a functional pseudomorph of X and is best detected in
+  collision cases, matched comparisons, correction, transfer, and succession
+  rather than from routine output or private-intent inference alone.
+- **Voegelinian existential layer:** truth and untruth of existence concern the
+  operative relation to finite participation in reality; a Second Reality is a
+  protected interpretive construction that governs what experience may signify.
+  Question-space governance, appealability, participation-to-mastery inversion,
+  symbol states, and reality-matrix divergence operationalize that layer without
+  collapsing it into un-reason, un-reality, or Babelization.
+- **Bounded-mechanism correction:** a real mechanism, its positively charged
+  signifier, and the institutional programme acting in its name remain distinct.
+  A corrigible order permits evidence to restore preconditions, contract
+  jurisdiction, change custody, or retire the programme after failure.
+- **Foundational-question custody:** living inherited knowledge preserves the
+  originating question, experience, serious rivals, causal record, defeated
+  errors, and reopening conditions rather than transmitting one detached answer.
+- **Meaning and synthesis limits:** concentrated educational, classificatory,
+  credentialing, interpretive, and public-mediation power requires counterpower;
+  empirical office must mark its transition into value synthesis, prophecy, and
+  political authorization.
 - **Typed epistemic architecture:** linguistic trick, instrumental
   untruthfulness, un-reason, un-real representation, organized un-reality, and
   systemic lying identify respectively a communicative operation, selection
@@ -4073,7 +5784,9 @@ independent source establishes otherwise:
   correction means and can prevent counterevidence from becoming authoritative
   correction; correction nullification neutralizes what an independently
   sustained correction can do and can prevent correction from becoming
-  consequence. Either mechanism can occur without the other.
+  consequence. Procedural correction conversion is the received-and-processed
+  branch in which a decision rule transforms the adverse signal into no operative
+  defeat. Any mechanism can occur without the others.
 - **Recursive defensive mechanism:** an auxiliary-un-reality explaining-away
   cascade adds an authorized U1 when reality contact threatens operative U0;
   trusted carriers may route U1, correction nullification may preserve operation,
@@ -4120,7 +5833,9 @@ independent source establishes otherwise:
   restored interoperability and voluntary reunion. Power becoming the judge of
   valid reasons and rules is open domination; it becomes *Machtpolitik* only
   when the stricter composite classification gate is also satisfied.
-- **Social form:** lifted mechanical solidarity—shared rules for generating, selecting, applying, and revising concrete answers—coexisting here with organic differentiation.
+- **Social form:** lifted mechanical solidarity—shared rules for generating,
+  selecting, applying, and revising concrete answers—constituting and correcting
+  a common order across organic differentiation.
 - **Society-wide performance:** operative lifted solidarity can support cultural
   interoperability above the anti-Babel floor; thickness and span describe that
   performance without redefining the order level.
@@ -4183,6 +5898,13 @@ independent source establishes otherwise:
   interest appoints interpreters or authorizes sacrifice.
 - **Positive interpersonal condition:** sincere avowal without immunity from correction.
 - **Positive public mechanism:** visible, equal, non-sovereign staging of consequential disagreement.
+- **Correction-closure sentinel:** disabling nonviolent, evidence-bearing
+  correction can strongly detect epistemic-constitutional malfunction while
+  leaving fault localization, exact diagnosis, scale, and attribution open.
+- **Legality boundary:** a censorial operation cannot manufacture illegality and
+  then use that endogenous classification as independent constitutional
+  justification; test reciprocal rights, symmetry, evidence, independent review,
+  appeal, and repair.
 - **Steady-state distinction:** permanent contestability, not permanent contest;
   low activated conflict can be compatible with an open order when correction and
   succession remain effective.

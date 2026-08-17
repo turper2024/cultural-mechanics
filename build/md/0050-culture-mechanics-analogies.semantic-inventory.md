@@ -28,7 +28,8 @@ analogies. It is not the primary definition of the constructs they illustrate:
   shared symbolic protocol, and culture-mechanical cycle.
 - [*Epistemic Agency under Mechanical
   Solidarity*](0020-epistemic-agency.semantic-definition.md) defines mechanical
-  and organic solidarity, the distributed bigOther, field back-action,
+  and organic solidarity, the Culture Mechanics decomposition of Durkheimian
+  organic solidarity, the distributed bigOther, field back-action,
   multi-mind-self threshold, laser synchronization, and magnetization.
 - [*Epistemic Constitution of Lifted Mechanical
   Solidarity*](0030-epistemic-constitution.semantic-definition.md) defines the
@@ -88,37 +89,41 @@ The inventory uses three inclusion levels:
 | Shared symbolic protocol | Network | Lacan's big Other as public symbolic coordination | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Separates the public protocol from each local implementation | Not a complete definition of Lacan's big Other or a literal network standard |
 | Wireless collar, Wi-Fi, and repeater gain | Network | Social coupling, unequal gain, and aggregate amplification | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes the amplification dimension of trusted opinion leadership from synchronized crowd or infrastructural gain | Radio range is not social authority, truth, or influence in one scalar; *repeater* is an analogy, not a separate person-type |
 | Assembly language, SDK, and operating system | Computing | Cultural formation, reusable operations, and society-wide epistemic meta-order | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) and [*Epistemic Constitution of Lifted Mechanical Solidarity*](0030-epistemic-constitution.semantic-definition.md) | Distinguishes installed state, reusable operations, visible outputs, and governing permissions | People are not passive machines; the constitution is not literal software or a state monopoly |
-| Systemic skeleton and living cultural body | Organismic and organizational anatomy | Mutually dependent institutional-operational structure and symbolic-affective animation of an operative Culture Program | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#137-systemic-skeleton-and-living-cultural-body) and this inventory | Explains why institutions without animate carriers become a paper order and affective life without fitted systems remains fragile | Not two Culture Programs, two bigOthers, institution versus individual, or a test of truth or goodness |
+| Systemic skeleton and living cultural body | Organismic and organizational anatomy | Mutually dependent institutional-operational structure and symbolic-affective animation of an operative Culture Program | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#systemic-skeleton-and-living-cultural-body) and this inventory | Explains why institutions without animate carriers become a paper order, why affective life without fitted systems remains fragile, and how affective-to-structural load transfer can lower per-node intensity while extending persistence, range, and activation-conditioned capacity | Not two Culture Programs, two bigOthers, institution versus individual, literal storage of affect, a physical inverse law between strength and range, or a test of truth or goodness |
 | Cultural immune system | Organismic defence | Distributed cultural self-maintenance, threat classification, repair, memory, adaptation, closure, capture, and autoimmunity | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#cultural-self-maintenance-and-defence) and this inventory | Distinguishes adaptive, closed, captured, autoimmune, and deficient cultural defence without requiring one controller | Dissent is not disease, cultural difference is not a pathogen, and defence establishes neither truth nor a licence to coerce |
-| Stochastic gradient descent and jurisdictional selection | Machine learning and evolutionary search | Bounded reality-corrected policy learning through serial updates, parallel local trials, plural sensors, foot voting, and imitation | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#anti-gnostic-adaptive-constitutional-learning), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#138-anti-gnostic-adaptive-constitutional-search), and this inventory | Separates constraint shell, proposal, variation, measurement, selection, correction, and succession without appointing an epistemic sovereign | Society has no necessary scalar loss, stable gradient, independent parameters, equal mobility, or guaranteed convergence |
-| *Schutzbalken gegen die Macht* | Architecture and structural engineering | Person-preserving constitutional guardrails against public and private concentrations of power | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#1321-democracy-as-schutzbalken-gegen-die-macht) and this inventory | Separates protected object, load-bearing principle, corrigible implementations, diagnostic sensors, and bounded-protector recursion | Power is not literal structural load; the image neither validates every safeguard nor makes every asymmetry domination |
+| Stochastic gradient descent and jurisdictional selection | Machine learning and evolutionary search | Bounded reality-corrected policy learning through serial updates, parallel local trials, plural sensors, foot voting, and imitation | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#anti-gnostic-adaptive-constitutional-learning), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#anti-gnostic-adaptive-constitutional-search), and this inventory | Separates constraint shell, proposal, variation, measurement, selection, correction, and succession without appointing an epistemic sovereign | Society has no necessary scalar loss, stable gradient, independent parameters, equal mobility, or guaranteed convergence |
+| *Schutzbalken gegen die Macht* | Architecture and structural engineering | Person-preserving constitutional guardrails against public and private concentrations of power | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#democracy-as-schutzbalken-gegen-die-macht) and this inventory | Separates protected object, load-bearing principle, corrigible implementations, diagnostic sensors, and bounded-protector recursion | Power is not literal structural load; the image neither validates every safeguard nor makes every asymmetry domination |
 | *Scherbengericht* and Athenian ostracism | Controlled historical analogy | A maximal consequence of successful popular no-confidence: temporary enforced distance, public censure, retained property, and interruption of immediate return to power | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#scherbengericht-variant) and this inventory | Separates the ancient individual, noncriminal sherd-ballot mechanism from the project author's modern government-wide ten-year country-ban proposal and its narrower political-disqualification comparator | Athens does not validate collective exile, prove criminal guilt, remove modern citizenship and movement rights, or make the proposal compatible with the person-protecting *Schutzbalken* |
 | Titanic, captain turnover, and course control | Navigation and command | Electoral replacement of visible governments without democratic correction of a strategically binding direction | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#shadow-sovereign-besatzungsmacht) and this inventory | Separates voters, elected officeholders, state, strategic course, and effective-sovereignty position; exposes the difference between personnel turnover and course corrigibility | Stable direction does not prove capture, one helmsman, conspiracy, foreign rule, Shadow-Sovereign rule, or *Machtpolitik* |
-| Favour-bank cloud | Cloud computing, banking, and distributed networks | Cultivation that creates implicit debt, brokers that route later return favours, and locally intelligible acts that can aggregate without a complete participant map | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#favour-bank-cloud) and this inventory | Separates visible institutional interfaces, partly opaque dependencies, favour deposits, implicit balances, withdrawals, third-party routing, and network recruitment | Neither cloud opacity nor ordinary reciprocity proves grooming, capture, one coordinator, a *Kommandoagent*, Shadow-Sovereign rule, conspiracy, or *Machtpolitik* |
+| Favour-bank cloud | Cloud computing, banking, and distributed networks | Cultivation that creates implicit debt, brokers that route later return favours, hierarchical placement that creates new obligations, and locally intelligible acts that can aggregate without a complete participant map | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#favour-bank-cloud) and this inventory | Separates visible institutional interfaces, partly opaque dependencies, favour deposits, implicit balances, withdrawals, third-party routing, low-friction control surfaces, recursive placement, specific episodes, and system-level profiles | Neither cloud opacity, prestige, social density, ordinary reciprocity, nor a raw deterioration trace proves grooming, capture, one coordinator, a *Kommandoagent*, Shadow-Sovereign rule, conspiracy, or *Machtpolitik* |
+| Pseudomorph and boundary-crossing transfer | Mineralogy, custody, and challenge--response | Pseudomorphic governor substitution plus the operational test that forces a difficult-to-inspect claim across an independently controlled boundary | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#pseudomorphic-governor-substitution), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#boundary-crossing-reality-challenges), and this inventory | Separates retained form from changed composition, and static self-description from transfer, succession, replication, appeal, handover, or capability performance that materializes hidden state | Institutions are not minerals; transfer failure establishes only the tested dependency or capability mismatch and does not by itself prove hostile capture, favour-bank operation, guilt, or intent |
 | Pied Piper (*Rattenfänger von Hameln*) and the Stolen Future | Folklore and temporal capability loss | An attractive immediate signal can synchronize movement while hiding the loss of judgment, practice, possible selves, and posterity | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#affective-return-to-uphill-development) and this inventory | Makes foreclosed flourishing emotionally visible and links spell-breaking to discriminating inquiry, return, capability, and the Guild of Builders | The Hamelin variants also contain the town's broken promise; the analogy proves neither one deceiver, innocent followers, capture, a bandit, nor causal attribution |
 | Lifted sublimation generator | Computing and control | Meta-rules selecting binding directions that formative practice turns into character and capability | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#the-lifted-sublimation-generator-pattern) | Separates generator kernel, affective actuation, formative architecture, and correction | An effective generator is not necessarily good, and a maxim does not train a capability by itself |
 | Nuclear reactor, sublimation, and un-reason | Nuclear engineering and control, with Pageau's Grail question as a service-direction bridge | Drive transformation, constructive capability, de-binding failure, destructive sublimation, reasoning that disables its own correction system, and the question of whom or what generated power serves | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#sublimation-and-moral-formation), [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason), and this inventory | Separates loss of mediation, successful conversion toward a destructive end, epistemic safety logic captured by a protected conclusion, and output direction | A person is not a reactor; drive is not nuclear fuel; Night and the Real are not energy stocks; reactors are not atomic bombs; sublimation and un-reason are not one mechanism; the service question does not prove one master, AI consciousness, or drive valence |
 | *The Emperor's New Clothes*, un-reality, procession inertia, and correction nullification | Literary tale and public-performance sequence | An authorized representation acquires operative public reality-status through a self-sealing competence test, status pressure, performed assent, and apparent consensus; public disclosure can break the consensus while institutional conduct continues, while a counterfactual non-acknowledging carrier clarifies correction nullification | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#un-reality-operative-reality-status-insulated-from-reality), [Andersen's tale](https://www.gutenberg.org/files/1597/1597-h/1597-h.htm), and this inventory | Separates false content, un-real reality-status, possible un-reason, systemic performance, speakability, reception, acknowledgment, and operative correction | One visible contradiction is not a universal model of technical inquiry; the tale does not prove conscious lying by every participant, one general conspiracy, a full systemic-lying constitution, or that speaking truth automatically changes institutions |
 | Farming, reality-mediated education, and the secession-or-force fork | Agriculture, practical formation, and the Augsburg--Westphalia territorial settlement as a historical marker | Adult formation through voluntarily assumed reality feedback, public reason as non-coercive adjudication, the typed Pure-Ideology operative multi-mind-self at a severe-Babelization interface, and the choice between jurisdictional separation and imposed settlement | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#relation-to-cultural-interoperability-and-babelization), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#the-severe-babelization-fork-secession-or-force), and this inventory | Connects “arguments can lose without persons being defeated” to the way negotiated coexistence and soft secession can reduce compulsory common decisions; one continuing shell plus separate territorial jurisdictions is a bounded structural analogy | Farmers are not automatically wise; Pure-Ideology and operative multi-mind-self status alone do not entail force; natural necessity is not person-directed force; pain, survival, and collapse are not truth or justice oracles; ruler-prescribed confession is not the project proposal; Westphalia is neither an origin myth nor an exact implementation; secession does not remove rights, externalities, coercion, or delayed feedback |
-| *Leuchtturm* | Navigation | Aspirational exemplar making a valued human possibility visible | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#aspirational-exemplars-and-leuchttürme) | Connects abstract human possibility to aspiration, meaningful difficulty, and practice | A lighthouse neither commands nor propels the ship; excellence confers no general jurisdiction |
+| *Leuchtturm* | Navigation | Aspirational exemplar making a valued human possibility visible | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#aspirational-exemplars-and-leuchttuerme) | Connects abstract human possibility to aspiration, meaningful difficulty, and practice | A lighthouse neither commands nor propels the ship; excellence confers no general jurisdiction |
 | Press secretary | Institutional role | Reason producing a defensible account of an affectively protected verdict | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#reflective-roles-of-reason-press-secretary-interpreter-and-auditor) | Separates logical presentation from causal provenance and motivates interpretation and audit | Post-hoc origin does not make every reason false; the analogy is not a brain module |
 | Typed reconstruction of “formula” | Relational analysis and computing | A provisional disambiguation of Wegner's unusually broad *Formel* vocabulary | This inventory | Forces a choice among configuration, structure, model, process, symbol, program, and execution before drawing an inference | The reconstruction is the project author's best guess, not evidence of Wegner's intended ontology or a warrant for the full computing-and-identity stack |
 | Lossy codec and decoder-targeted compression | Computing and communication | Audience-modelled reconstruction from finite messages | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#audience-modelled-reconstruction-and-decompression) and this inventory | Makes explicit that a communicator selects content against assumptions about the recipient's stored codebook and likely reconstruction | Compression is unavoidable and not inherently deceptive; the recipient is an interpreting person, not a deterministic decoder |
+| State/operation replication and adaptive-dictionary compression | Distributed computing and lossless compression | Operation-bootstrapped codebook formation and the transition from operation-rich formation to compressed symbolic communication | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#operation-bootstrapped-codebook-formation) and this inventory | Joins the difference between materialized state and update operations to the way accumulated shared history permits later compact references | Human recipients are not deterministic replicas; no exact state, operation, dictionary, convergence, losslessness, or semantic identity is asserted |
 | The Quantum Mechanics of Psychology | Physics umbrella | Statistical micro-to-macro cultural mechanics and its observational scale | This inventory and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Connects difficult-to-observe local processing and human capacities with exceptional macroscopic collective order | Relevant science is not uniquely quantum; no literal shared equations |
 | Weak-field gravity and contemporary witnesses | Physics and historical method | Observability when a collective phenomenon is absent, faint, de-animated, or culturally lost | This inventory and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Explains calm-period under-detection and why reports from strong-field periods matter | Gravity models detectability, not the ontology of a multi-mind-self; witnesses are situated observers, not calibrated instruments |
 | Sleeping, waking, and collective activation | Organismic state transition | Intermittent collective agency and identity-bearing latency between episodes | This inventory and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes a continuing variable-gain agent, an episodic multi-mind-self, and a latent distributed bigOther | A culturally lost system is not asleep, and a collective lacks one organism anchoring identity across inactivity |
 | Charged particle and field | Physics | Local source plus collective back-action | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Makes reciprocal causation and emergence visible | No social electromagnetic substance or Maxwell equations |
-| Dotted-semiconductor depiction and first-officer expression | Physics, electronics, and command roles | The complete functional morphology of mechanical solidarity: population body, distributed trusted-opinion-leader function, directing function, common field, reciprocal coupling, and possible chief-facing mediation | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#12-functional-morphology-of-mechanical-solidarity) and this inventory | Prevents the chief, broadcaster, field circuit, or population lattice from being mistaken for the whole social formation; represents distributed carriers as dots and first-officer mediation as one expression of their common function | A society is not a semiconductor; a dot is drawing notation rather than a social kind; shielding can preserve coordination or destroy correction and does not prove legitimacy or collective agency |
+| Dotted-semiconductor depiction and first-officer expression | Physics, electronics, and command roles | The complete functional morphology of mechanical solidarity: population body, distributed trusted-opinion-leader function, directing function, common field, reciprocal coupling, and possible chief-facing mediation | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#functional-morphology-of-mechanical-solidarity) and this inventory | Prevents the chief, broadcaster, field circuit, or population lattice from being mistaken for the whole social formation; represents distributed carriers as dots and first-officer mediation as one expression of their common function | A society is not a semiconductor; a dot is drawing notation rather than a social kind; shielding can preserve coordination or destroy correction and does not prove legitimacy or collective agency |
 | *Gleichschaltung* transition and vocabulary-migration mapping | Electrical switching, field alignment, and new labels over old wiring | Attempted cross-domain rewiring and alignment of flesh-and-blood carriers, symbols and conformity markers, and institutional-operational systems before a polity-scale mechanical-solidarity morphology or complete Culture Program is reconstructed or attributed; controlled translation from historical operative roles into current coordination vocabulary | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#polity-scale-gleichschaltung-hazard) and this inventory | Separates transformation from configured result and program attribution, incorporates top-down imposition plus bottom-up *Selbstgleichschaltung*, and tests whether *whole-of-society*, *whole-of-economy*, stakeholder, resilience, partnership, or anti-fascist language performs an older operation | Neither the electrotechnical image nor a contemporary word proves semiconductor polarization, *Gleichschaltung*, corporatism, Fascism, or hybrid war; one symbol, system, narrow coordination, or voluntary thick community is not the polity-scale hazard |
 | Public-private constitutional proxy and organizational dark matter | Delegated public function, private carrier, and Rao's invisible residue of unassigned organizational blame | Public objectives, sovereign-like burdens, gates, or sanctions routed through NGOs, contractors, platforms, standards bodies, or commercial carriers while public duties and responsibility become discontinuous | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#public-private-constitutional-proxy-hazard), Rao's [*The Gervais Principle V*](https://ribbonfarm.com/2011/10/14/the-gervais-principle-v-heads-i-win-tails-you-lose/), and this inventory | Makes the principal--carrier--affected-person chain and the loss of decision ownership visible; keeps Powertalk as a separate possible communication mechanism | Partnership, procurement, grants, NGO status, private action, or missing accountability alone does not establish legal state action, deliberate constitutional evasion, *Gleichschaltung*, a hidden organization, conspiracy, or Powertalk |
 | Photon and carrier-independence | Physics | Persistence across changing carriers | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes relative identity from one material bearer | Not disembodiment and not literal photon transmission |
 | Laser synchronization | Physics | Dynamic collective coherence | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Explains pumped, amplified, phase-like collective discharge | Synchrony is not automatically truth, solidarity, pathology, or agency |
 | Ferromagnetic domains | Physics | Durable alignment, remanence, and boundaries | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Explains persistence and locally sharp cultural patterning | Not one global quantum-coherent state or proof from regional contrast |
+| Crystallization, nucleation, annealing, and alloying | Materials science | Founderless focalization, mutual discovery, cultural plasticity, domain growth, hysteresis, and integrative synthesis | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#distributed-culture-program-formation-trunks), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#nucleation-ecology-and-reproductive-junctions), and this inventory | Organizes the distinction among ignition, reproduction, ordered domains, anti-nucleation, and a successor order created from rival contributions | No social temperature, pressure, lattice, critical exponent, automatic phase transition, homogeneous crystal, or intrinsically good alloy is implied |
 | Molecular compounds | Chemistry | Strong binding, constrained independent movement, and possible change in the operative unit | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Tests when persons become durably integrated constituents of a collective agent or absorptive subject | Not literal chemistry, a universal stage, or proof that members lose agency, responsibility, or phenomenal individuality |
 | Resonance catastrophe (*Resonanzkatastrophe*) | Physics and nonlinear dynamics | Nonlinear collective amplification producing macroscopic rupture | This inventory | Distinguishes prepared receivers, recurrent mode selection, feedback, rapid amplification, and institutional reorganization from mere crisis or diffusion | No literal oscillator, automatic moral condemnation, historical priority, or excuse for participating agents |
 | Ragnarök trajectory | Norse eschatology and terminal-system dynamics | Successful programme or conflict-system reproduction that advances terminal rupture and possible self-extinction | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#ragnarok-trajectory), [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#program-reproduction-and-ragnarok-trajectory), and this inventory | Separates short-run propagation from long-run system valence and shows how maintenance and transmission can become instruments of self-consuming terminal logic | Not the whole Norse mythology, every catastrophe, inevitable fate, conscious suicide, proof from anti-futurist rhetoric, or a denial that the source myth includes renewal |
 | Random, clockwork, and laser crowds | Collective dynamics | Modes of collective interaction | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Contrasts co-presence, differentiated coordination, and synchrony | Ideal types can mix; no single metric captures every task |
-| Durkheim's solidarities and crowd modes | Sociological correspondence | Relations among common moral coherence, differentiated interdependence, and synchronization | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Relates mechanical solidarity to laser synchrony and organic solidarity to clockwork coordination | Project correspondence, not Durkheim's terminology or an identity of process and cohesion |
+| Durkheim's solidarities and crowd modes | Sociological correspondence | Relations among common moral coherence, differentiated interdependence, and synchronization | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Relates mechanical-solidarity field formation to laser synchrony and organic differentiation to clockwork coordination while decomposing Durkheimian organic solidarity as a source composite | Project correspondence and reinterpretation, not Durkheim's terminology or an identity of process, topology, and cohesion |
+| Cross-scale duplex homomorphy | Computing and social-organization correspondence | Recurrent relation between differentiated practical activity and compressed evaluative governance at person and social scales | [*Epistemic Agency under Mechanical Solidarity*, “Durkheimian organic solidarity as a lifted composite”](0020-epistemic-agency.semantic-definition.md#durkheimian-organic-solidarity-as-lifted-composite) and this inventory | Maps main CPU to local bigOther as organic clockwork activity maps to a lifted-order distributed bigOther | A society is not a person or processor; the distributed field is emergent rather than an aggregate, and the mapping proves neither collective agency nor historical causation |
 | *Pluribus* and the Borg | Fictional boundary cases | Total-fusion endpoints of generalized and jurisdictionalized alignment | This inventory and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Separates absorptive collective architecture from the mythological and ethical program it executes | Literal biological or cybernetic hive minds are not evidence for the proposed social mechanism |
 | Coupling thermostat | Engineering | Calibration of common orientation and independence | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Frames collective design as task-sensitive regulation | A research programme, not an established social control device |
 | Positive feedback, noise, and rival signals | Physics-to-social translation | Formation of order and protection or suppression of competing inputs | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Separates random-noise reduction from rival-signal and counter-program suppression | A counter-narrative is not analytically noise merely because an incumbent opposes it |
@@ -128,10 +133,10 @@ The inventory uses three inclusion levels:
 | Tangled cables and spaghetti code | Computing/craft | Uninspectable or incompletely replaced programming | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Makes transitional contradiction and difficult revision visible | Complexity alone is not pathology or proof of several operative bigOthers |
 | Apologetic maintenance and polemical unbraiding | Craft | Defense, attack, repair, and replacement of an operative braid | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Links construction and destruction across successor formation | Apologetics is not automatically truthful and polemics is not automatically emancipatory |
 | Doctrine as parent and progeny | Genealogical | Recurring descendants as evidence about a doctrine's generative spirit | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#doctrinal-progeny-generative-spirit-and-responsibility) | Directs attention from literal propositions and preferred examples to a distribution of actual successors | Descendants do not automatically convict ancestors; relation and case independence must be established |
-| Culture Hallucination | Artificial-intelligence and epistemic | Pure-Ideology Culture Programs whose load-bearing finality is protected from accessible defeat | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#23-controlled-use-of-culture-hallucination) and this inventory | Separates coherence, popularity, reproduction, and real effects from grounding and reality-answerability | Not a clinical hallucination, literal LLM identity, automatic falsity of every claim, or denial of carrier intelligence |
-| Cultural WMD | Security and catastrophic-risk | Culture Programs with potentially catastrophic, scalable, recurrent, persistent, and hard-to-reverse hazard profiles | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#118-cultural-wmd) and this inventory | Directs attention to proliferation, carrying structure, capability, offspring, containment, reversibility, and pre-use evidence | Not a literal weapon, legal category, collective guilt, proof of deliberate weaponization, automatic prohibition, or a way to evade person-level rights through infrastructure language |
-| Glacier / glacial capture | Geophysical change | Gradual Culture Program displacement through small changes that accumulate in metrics, appointments, interpretation, correction, formation, and succession | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#114-gradual-capture-and-the-glacier-analogy) and this inventory | Directs attention to temporal accumulation, threshold avoidance, changed baselines, and inherited successor machinery | Slow change is not proof of capture, hostile intent, external command, or pathology |
-| Prostitution-policy leverage point | Intervention design | Redirect early attention from the easiest visible or vulnerable participant toward the resource-bearing demand, finance, coordination, or support structure that sustains an activity | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#123-response-calibrated-evidence-and-intervention-targets) and this inventory | Prompts identification of capability-bearing organizational leverage rather than carrier-level collective suspicion | Does not establish the empirical prostitution-policy claim, map purchasers or sellers onto Culture Program cases, assign gendered culpability, or remove person and association rights |
+| Culture Hallucination | Artificial-intelligence and epistemic | Pure-Ideology Culture Programs whose load-bearing finality is protected from accessible defeat | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#controlled-use-of-culture-hallucination) and this inventory | Separates coherence, popularity, reproduction, and real effects from grounding and reality-answerability | Not a clinical hallucination, literal LLM identity, automatic falsity of every claim, or denial of carrier intelligence |
+| Cultural WMD | Security and catastrophic-risk | Culture Programs with potentially catastrophic, scalable, recurrent, persistent, and hard-to-reverse hazard profiles | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#cultural-wmd) and this inventory | Directs attention to proliferation, carrying structure, capability, offspring, containment, reversibility, and pre-use evidence | Not a literal weapon, legal category, collective guilt, proof of deliberate weaponization, automatic prohibition, or a way to evade person-level rights through infrastructure language |
+| Glacier / glacial capture | Geophysical change | Gradual Culture Program displacement through small changes that accumulate in metrics, appointments, interpretation, correction, formation, and succession | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#gradual-capture-and-the-glacier-analogy) and this inventory | Directs attention to temporal accumulation, threshold avoidance, changed baselines, and inherited successor machinery | Slow change is not proof of capture, hostile intent, external command, or pathology |
+| Prostitution-policy leverage point | Intervention design | Redirect early attention from the easiest visible or vulnerable participant toward the resource-bearing demand, finance, coordination, or support structure that sustains an activity | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#response-calibrated-evidence-and-intervention-targets) and this inventory | Prompts identification of capability-bearing organizational leverage rather than carrier-level collective suspicion, while the inverse audit separates harmfulness from targetability, sanction leverage, and disciplinary yield | Does not establish the empirical prostitution-policy claim, map purchasers or sellers onto Culture Program cases, assign gendered culpability, treat a large sanctionable loss surface as guilt, or remove person and association rights |
 | X-ray vision | Optical | Claimed privileged access to hidden truth or collective interest | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction) and this inventory | Makes the epistemic asymmetry in a *Herrschaftsideologie* immediately visible | Superior perception may be real and does not itself confer governing jurisdiction |
 | Secular gnosis | Religious analogy | Hidden, rank-conferring knowledge available to an enlightened minority | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction) and this inventory | Shows how claimed knowledge can classify rulers and ruled as different epistemic ranks | Not a historical classification of Gnostic religions or proof that the knowledge claim is false |
 
@@ -141,7 +146,7 @@ The inventory uses three inclusion levels:
 
 **Status:** Project-developed functional analogy  
 **Primary theoretical home:** [*Culture Mechanics*, “Homo duplex: the
-dual-processing human”](0010-culture-mechanics.semantic-definition.md#2-homo-duplex-the-dual-processing-human)  
+dual-processing human”](0010-culture-mechanics.semantic-definition.md#homo-duplex-the-dual-processing-human)\
 **Explanatory target:** The distinction between the main cognitive processor and
 the local bigOther
 
@@ -168,7 +173,7 @@ by the elephant--collar picture.
 
 **Status:** Project-developed architectural analogy  
 **Primary theoretical home:** [*Culture Mechanics*, “The single-slot
-principle”](0010-culture-mechanics.semantic-definition.md#5-the-single-slot-principle)  
+principle”](0010-culture-mechanics.semantic-definition.md#the-single-slot-principle)\
 **Explanatory target:** Single-slot exclusivity with package compositionality
 
 One local bigOther occupies one PCI slot and executes one operative mythological
@@ -211,9 +216,9 @@ agreement or obedience.
 
 **Status:** Project-developed network family  
 **Primary theoretical homes:** [*Culture Mechanics*, “Haidt's elephant with a
-wireless collar”](0010-culture-mechanics.semantic-definition.md#10-second-analogy-haidts-elephant-with-a-wireless-collar),
+wireless collar”](0010-culture-mechanics.semantic-definition.md#second-analogy-haidts-elephant-with-a-wireless-collar),
 [*Culture Mechanics*, “The wireless
-superpower”](0010-culture-mechanics.semantic-definition.md#11-the-wireless-superpower-the-individual-coupling-interface),
+superpower”](0010-culture-mechanics.semantic-definition.md#the-wireless-superpower-the-individual-coupling-interface),
 and [*Epistemic Agency under Mechanical Solidarity*, “Repeater gain and
 crowds”](0020-epistemic-agency.semantic-definition.md#repeater-gain-and-crowds)
 
@@ -247,9 +252,9 @@ reconstruction of its operation impossible.
 
 **Status:** Project-developed software family  
 **Primary theoretical homes:** [*Mythology Construction*, “Semantic
-anatomy”](0040-mythology-construction.semantic-definition.md#2-semantic-anatomy) and
+anatomy”](0040-mythology-construction.semantic-definition.md#semantic-anatomy) and
 [*Epistemic Constitution of Lifted Mechanical Solidarity*, “Why the concept is an
-operating system”](0030-epistemic-constitution.semantic-definition.md#3-why-the-concept-is-an-operating-system)  
+operating system”](0030-epistemic-constitution.semantic-definition.md#why-the-concept-is-an-operating-system)\
 **Explanatory target:** Relations among cultural operations, installed rules, and
 society-wide epistemic permissions
 
@@ -377,9 +382,88 @@ with conscious intention assessed separately. The analogy does not add a
 prestige into a sovereign evaluative system, or make *Beseelung* an act of
 decoding.
 
+<a id="operation-replay-and-adaptive-dictionary-compression"></a>
+
+### 3.8 State/operation replication and adaptive-dictionary compression {#operation-replay-and-adaptive-dictionary-compression}
+
+**Status:** Project-developed linked computing analogy. [Shapiro, Preguiça,
+Baquero, and Zawirski's CRDT
+paper](https://inria.hal.science/inria-00609399) supplies the source-domain
+distinction between state-based and operation-based replicated data types. Igor
+Pavlov's official [LZMA SDK](https://www.7-zip.org/sdk.html) supplies the
+dictionary-compression source domain. The originating author proposed their
+joint application to cultural operation transmission and generational
+compression; neither source proposes the social mechanism.
+
+**Primary theoretical home:** [*Epistemic Agency under Mechanical Solidarity*,
+“Operation-bootstrapped codebook
+formation”](0020-epistemic-agency.semantic-definition.md#operation-bootstrapped-codebook-formation)
+
+**Explanatory target:** How operation-rich formation constructs locally
+executable and sufficiently compatible reconstruction resources, why later
+communication can become highly compressed, and how inherited tokens can outlive
+the capacity needed to decompress and correct them
+
+The two source domains answer different questions. The CRDT contrast asks whether
+a finished materialized state or the operations by which a state changes are
+communicated. The dictionary-compression contrast asks how accumulated prior
+material permits a later short reference to stand in for a longer recurring
+pattern. Culture Mechanics joins only those relations:
+
+| Computing picture | Culture-mechanical counterpart |
+|---|---|
+| Materialized replica state | A finished conclusion, formula, rule, symbolic package, or institutional artifact available for state transmission |
+| Update operation | Experience, example, question, contrast, prediction, practice, or correction supplied as a cue for local operation |
+| Recipient replica | A person who reconstructs locally through ordinary cognition, an installed mythological lens, local-bigOther classification, and context |
+| Accumulated decoded history or dictionary | Learned conceptual, causal, evaluative, authority, and practical mappings formed through prior experience and communication |
+| Short dictionary-backed reference | A compact phrase, story element, formula, symbol, or master signifier that activates a larger learned complex |
+| Differing replica history or dictionary | Codebook mismatch, semantic drift, shallow imitation, or heterogeneous decompression |
+| Renewed update exchange and validation | Reopened examples, practice, questions, comparison, correction, and foundational-question custody |
+
+The combined temporal picture is:
+
+```text
+operation-rich common history
+→ locally reconstructed, partly overlapping codebooks
+→ increasing relevant compression capacity
+→ short tokens evoke larger models and practices
+→ periodic operation-rich repair and generational rebootstrap
+```
+
+**Useful inference:** Rich compressed communication normally presupposes prior
+formation or an equivalent shared history. A new participant or generation can
+receive the token and archive without receiving a finished decoder. Early
+communication must therefore carry more examples, contrasts, practice, and
+correction; later communication can rely more heavily upon shared compact
+symbols. Efficient state transmission and recurrent operation transmission are
+complements rather than rivals.
+
+The analogy also separates raw dictionary size from effective compression. The
+relevant variables are overlap on the present token, fidelity of the reconstructed
+model, contextual alignment, reality contact, and correction. A very large but
+divergent codebook can make the same token expand into incompatible models. A
+highly compressed master signifier can coordinate action through a genuinely
+shared complex, support projective consensus through heterogeneous projection, or
+place executable meaning under interpreter custody; the token alone does not
+decide among those cases.
+
+**Non-inference:** State-based and operation-based CRDTs can each converge under
+their own formal conditions; the analogy does not declare state transmission
+technically or culturally inferior. Human recipients do not receive or execute
+identical updates, merge by a mathematical semilattice, or converge
+automatically. Human reconstruction is lossy, situated, affectively classified,
+reflexive, and corrigible, whereas LZMA is a lossless digital compression family.
+No mental state or operation is literally transferred, no person's mind is a
+replica, and no reconstruction codebook is a byte dictionary or third processor.
+More stored material, higher compression, common vocabulary, or behavioural
+coordination establishes neither shared meaning, truth, legitimacy, moral value,
+nor collective agency.
+
 ## 4. Physics and collective-dynamics models
 
-### 4.1 The Quantum Mechanics of Psychology
+<a id="the-quantum-mechanics-of-psychology"></a>
+
+### 4.1 The Quantum Mechanics of Psychology {#the-quantum-mechanics-of-psychology}
 
 **Status:** Originating umbrella analogy of Culture Mechanics  
 **Primary theoretical homes:** This inventory and [*Epistemic Agency under
@@ -646,6 +730,8 @@ institutional memory, and sanctions alter the next round of local processing.
 **Non-inference:** The theory posits no electromagnetic substance, Maxwellian
 equations, inverse-square social law, or field detached from carriers.
 
+<a id="dotted-semiconductor-depiction-and-first-officer-expression"></a>
+
 ### 4.2A Dotted-semiconductor depiction and first-officer expression {#dotted-semiconductor-depiction-and-first-officer-expression}
 
 **Status:** Project-developed composite analogy preserving an originating visual
@@ -678,7 +764,7 @@ establish its origin, or make their offices synonyms for first-officer mediation
 
 **Primary theoretical home:** [*Epistemic Agency under Mechanical Solidarity*,
 “Functional morphology of mechanical
-solidarity”](0020-epistemic-agency.semantic-definition.md#12-functional-morphology-of-mechanical-solidarity)
+solidarity”](0020-epistemic-agency.semantic-definition.md#functional-morphology-of-mechanical-solidarity)
 
 **Explanatory target:** The whole social formation joining a population body,
 distributed carriers of the trusted-opinion-leader function, a field-generating
@@ -1130,9 +1216,11 @@ individual conversion.
 **Non-inference:** A visible regional contrast does not prove the mechanism,
 classify every resident, make a boundary immutable, or attribute the pattern to
 geography alone. Migration, bilingual participation, institutions, media, and
-dissent can cross and reorganize domains. **Coercivity, nucleation, domain
-expansion, and competing magnetization** remain candidate extensions, not canonical
-culture-mechanical mechanisms.
+dissent can cross and reorganize domains. Coercivity, domain expansion, and
+competing magnetization remain open extensions. **Cultural nucleation** is now a
+trunk construct in its [primary semantic
+home](0040-mythology-construction.semantic-definition.md#cultural-nucleation-and-anti-nucleation);
+the physical mapping and limits are specified separately below.
 
 Durkheim did not propose ferromagnetic domains. William James supplied a closer
 psychological precursor when he described abstract realities as “polarizing and
@@ -1142,12 +1230,62 @@ used “magnetic influence” and hypnotic fascination in [*Psychologie des foul
 (1895; English translation)](https://www.gutenberg.org/cache/epub/445/pg445.html.utf8).
 The detailed moments/domains/domain-wall/remanence mapping belongs to this project.
 
+<a id="crystallization-nucleation-annealing-and-alloying"></a>
+
+### 4.5A Crystallization, nucleation, annealing, and alloying {#crystallization-nucleation-annealing-and-alloying}
+
+**Status:** User-originated analogy family with project-developed mappings and
+explicitly immature trunk mechanisms
+
+**Primary theoretical homes:** [distributed Culture Program
+formation](0040-mythology-construction.semantic-definition.md#distributed-culture-program-formation-trunks),
+[nucleation ecology](0060-culture-program-ecology.semantic-definition.md#nucleation-ecology-and-reproductive-junctions),
+and [democratic cultural
+alloying](0040-mythology-construction.semantic-definition.md#democratic-cultural-alloying-and-integrative-interoperability)
+
+**Explanatory target:** Founderless focalization, mutual discovery, domain growth,
+plastic periods, path dependence, and the difference between integrative synthesis
+and non-integrating coexistence
+
+| Materials image | Culture-mechanical counterpart |
+|---|---|
+| Supersaturated or plastic medium | Dispersed compatible dispositions and unsettled classifications before one programme becomes focal |
+| Nucleation site | Person, story, association, practice, place, or institution joining mutual discovery to recurrent coordination |
+| Crystal growth | Reproduction of mutually recognizable programme, roles, and boundaries through additional carriers and nodes |
+| Annealing or phase transition | Period of increased cultural plasticity followed by lower-energy consolidation and hysteresis |
+| Competing crystals and domain wall | Two ordered cultural programmes meeting without one automatically absorbing the other |
+| Alloy | A successor order whose integrated properties arise from contributions and corrections that remain distinct in origin |
+| Oil and water | Persistent non-integration despite procedural coexistence or repeated mixing |
+
+The useful mapping is functional rather than material.
+A cultural nucleus makes compatible people mutually discoverable, creates common
+knowledge, supplies roles and next actions, stores memory, and produces successors.
+Crystal growth represents recurrent recognition and reproduction beyond the
+first node.
+Annealing represents the hypothesis that disruption, movement, institutional
+breakdown, and lost confidence can temporarily increase plasticity before a new
+order becomes path-dependent.
+Alloying represents democratic integration in which rival knowledge and
+criticism generate a better shared result rather than mere dilution.
+
+**Unlicensed inferences:** No social temperature, pressure, energy minimum,
+lattice, critical exponent, or universal phase-transition control parameter has
+been established.
+People interpret, refuse, strategically conform, and recombine material; they do
+not copy a fixed crystal structure.
+Plasticity does not explain why one programme ignites, and disruption does not
+guarantee fusion.
+A stable cultural boundary is not impermeable, a coherent domain is not
+homogeneous, and an alloy is not intrinsically good.
+The analogies organize questions; the non-analogical mechanisms and evidence must
+be supplied in the primary semantic homes.
+
 ### 4.6 Random, clockwork, and laser crowds
 
 **Status:** Project-developed ideal-type analogy  
 **Primary theoretical home:** [*Mythology Construction*, “Coordination,
 synchronization, and the coupling
-thermostat”](0040-mythology-construction.semantic-definition.md#28-coordination-synchronization-and-the-coupling-thermostat)  
+thermostat”](0040-mythology-construction.semantic-definition.md#coordination-synchronization-and-the-coupling-thermostat)\
 **Explanatory target:** Different modes of collective interaction
 
 The word **crowd** acknowledges Gustave Le Bon's *Psychologie des foules* while
@@ -1247,7 +1385,9 @@ crowd-mode picture. It states a typed relationship between that dynamic picture
 and a separate person--collective axis defined in [*Culture
 Mechanics*](0010-culture-mechanics.semantic-definition.md#differentiated-unity-and-subjecthood-absorption-fusion).
 
-##### Fictional limit case: *Pluribus*
+<a id="fictional-limit-case-pluribus"></a>
+
+##### Fictional limit case: *Pluribus* {#fictional-limit-case-pluribus}
 
 **Status:** Fictional illustration and boundary case, not empirical evidence
 
@@ -1286,7 +1426,9 @@ limit-case thought experiment about what generalized and jurisdictionalized
 synchronization points toward, not evidence for multi-mind-selves, fusion pressure,
 or any empirical effect of mythology and media.
 
-##### Fictional limit case: the Borg
+<a id="fictional-limit-case-the-borg"></a>
+
+##### Fictional limit case: the Borg {#fictional-limit-case-the-borg}
 
 **Status:** Fictional illustration and boundary case, not empirical evidence
 
@@ -1350,7 +1492,9 @@ hive minds, that fusion architecture determines one necessary ethical program, o
 that every demand for alignment is Borg-like. Like *Pluribus*, it dramatizes an
 imagined endpoint beyond laser synchronization among differentiated persons.
 
-### 4.7 Measurement note: phase alignment and task error
+<a id="measurement-note-phase-alignment-and-task-error"></a>
+
+### 4.7 Measurement note: phase alignment and task error {#measurement-note-phase-alignment-and-task-error}
 
 The useful specialist dashboard is:
 
@@ -1491,8 +1635,9 @@ interdependence, and collective synchronization
 | Mechanical solidarity | Cohesion through shared classifications and sentiments | Social field supported or renewed by alignment |
 | Magnetization | Durable alignment, domains, and remanence | Illustrates persistence after the laser moment |
 | Clockwork coordination | Differentiated contributions routed toward a common result | Crowd-mode analogue of functional division of labour |
-| Organic solidarity | Cohesion through differentiated interdependence | Sociological structure that resembles clockwork organization |
-| Lifted mechanical solidarity | Shared rules generating, allocating, and correcting differentiated outputs | Can supply the moral and constitutional protocol enabling the clockwork system |
+| Organic differentiation | Specialized roles, interfaces, knowledge, handoffs, and reciprocal functional dependence | Topological component of Durkheimian organic solidarity that resembles clockwork organization |
+| Durkheimian organic solidarity | Source concept of cohesion through differentiated interdependence | Source composite analytically decomposed here into organic differentiation and lifted mechanically solidary common binding force |
+| Lifted mechanical solidarity | Shared rules generating, allocating, and correcting differentiated outputs | Supplies the binding role, obligation, legitimacy, and correction relations of the common clockwork order |
 | Multi-mind-self | Collective agent above an integration threshold | Possible result, not automatic consequence, of a sufficiently integrated field |
 | Coupling thermostat | Task-sensitive calibration of common orientation, synchrony, and independent judgment | Regulates movement or combination among modes without defining the solidarities or the agent |
 
@@ -1505,6 +1650,39 @@ describes assemblies in which a “sort of electricity” forms, sentiments echo
 amplify, and movements become rhythmic and unified; the English translation also
 calls religious technique a “sort of mystic mechanics.” This is a close source
 neighbor to the laser moment, not a laser theory.
+
+<a id="durkheimian-organic-solidarity-source-composite"></a>
+
+#### Durkheimian source composite and Culture Mechanics decomposition {#durkheimian-organic-solidarity-source-composite}
+
+Durkheim's organic solidarity is itself a form of cohesion: differentiated
+organs occupy special roles and partially independent spheres while becoming
+reciprocally dependent. Culture Mechanics therefore must not reduce his term to
+an economic substrate or use *organic solidarity* as a synonym for clockwork.
+
+The project instead applies this controlled decomposition:
+
+```text
+Durkheimian organic solidarity
+             maps to
+organic differentiation / clockwork coordination
+                  +
+lifted mechanical solidarity
+```
+
+The left term on the lower line names the differentiated organization. The right
+term names common binding force relocated into the rules that generate,
+constitute, limit, and correct differentiated outputs. Durkheim's source
+distinction remains necessary for responsible attribution; the decomposition and
+the claim that its solidarity component is lifted mechanical solidarity belong to
+Culture Mechanics.
+
+This relation also sharpens the historical hypothesis. Decreasing resemblance in
+occupations, conclusions, contracts, and offices does not necessarily show that
+mechanically solidary commonality has retreated. The commonality may have become
+less visible because it resides in the generator rather than its diverse outputs.
+That proposal can coexist with, revise, or fail against Durkheim's historical
+preponderance account; the mapping itself supplies no prevalence evidence.
 
 #### Counterpressure against progressive preponderance
 
@@ -1543,11 +1721,13 @@ the larger historical case: a modern industrial division of labour was preserved
 and recruited while a regime intensified common mythology, leader incarnation,
 ritual alignment, carrier gain, and synchronized communication.
 
-The cases do not prove that organic solidarity never becomes historically
-preponderant, that every military is a multi-mind-self, or that differentiation
-always strengthens mechanical solidarity. They challenge the necessary inverse
-relation. Durkheim's analytical distinction can remain useful even if his
-developmental expectation requires rejection or substantial revision.
+The cases do not prove that Durkheimian organic solidarity never became
+historically preponderant in his source sense, that every military is a
+multi-mind-self, or that differentiation always strengthens mechanical
+solidarity. They challenge the necessary inverse relation. Durkheim's source
+distinction can remain useful even if his developmental expectation requires
+rejection or substantial revision and Culture Mechanics decomposes his organic
+form differently for its own ontology.
 
 #### Legal provenance without etymological reduction
 
@@ -1578,16 +1758,18 @@ corporate-liability cases without redefining the full theory.
 The project-developed correspondence is:
 
 ```text
-mechanical solidarity ↔ laser synchronization
-organic solidarity    ↔ clockwork coordination
+mechanical-solidarity field formation or renewal ↔ laser synchronization
+organic differentiation                         ↔ clockwork coordination
 ```
 
 The symbols mean **resembles or characteristically affiliates with**, not **is
 identical to**. Mechanical solidarity is a form of cohesion; laser synchronization
-is a process. Organic solidarity is cohesion arising through differentiated
-interdependence; clockwork coordination is an organizational mode. Both
-solidarities can coexist, and a magnetized mechanically solidary field can persist
-without an active laser episode.
+is a process. Organic differentiation is a topology of specialized activity;
+clockwork coordination is an organizational mode. Durkheimian organic solidarity
+is the source composite whose common binding component the project interprets as
+lifted mechanical solidarity. Organic differentiation and a mechanically solidary
+field can coexist, and a magnetized field can persist without an active laser
+episode.
 
 The strongest dynamic synthesis is:
 
@@ -1609,12 +1791,96 @@ constitutional rules, trust, and moral commitment. Organic interdependence route
 the work; it does not by itself explain why differentiated participants recognize
 one another as members of one legitimate order.
 
-### 4.9 The coupling thermostat
+<a id="cross-scale-duplex-homomorphy"></a>
+
+#### Cross-scale duplex homomorphy {#cross-scale-duplex-homomorphy}
+
+**Status:** Project-developed controlled cross-scale mapping
+
+**Primary theoretical homes:** [*Culture Mechanics*, “Homo duplex: the
+dual-processing
+human”](0010-culture-mechanics.semantic-definition.md#homo-duplex-the-dual-processing-human)
+and [*Epistemic Agency under Mechanical Solidarity*, “Durkheimian organic
+solidarity as a lifted
+composite”](0020-epistemic-agency.semantic-definition.md#durkheimian-organic-solidarity-as-lifted-composite)
+
+**Explanatory target:** The recurrent relation between differentiated practical
+activity and compressed evaluative governance
+
+The controlled relation is:
+
+```text
+main CPU : local bigOther
+≈
+organic differentiation / clockwork coordination
+:
+lifted-order distributed bigOther
+```
+
+> **The functional duality of homo duplex reappears at social scale when
+> differentiated practical activity forms an organic clockwork order while
+> coupled local bigOthers form the lifted distributed order that governs its
+> legitimacy, obligations, and correction.**
+
+| Scale | Differentiated practical side | Evaluative and governing side |
+|---|---|---|
+| **Person** | The main CPU perceives, reasons, plans, solves problems, and produces context-sensitive conduct | The local bigOther classifies legitimacy, honour, shame, obligation, and prohibition through the installed lens |
+| **Extended social order** | Differentiated persons and institutions contribute specialized knowledge and work through roles, interfaces, and handoffs | The lifted-order distributed bigOther maintains common rules for constituting, authorizing, limiting, and correcting those roles and outputs |
+
+The mapping can be expressed compositionally without reducing the social level to
+an aggregate:
+
+```text
+many main CPUs acting through persons, roles, material systems, and interfaces
+→ organic differentiation / clockwork coordination
+
+compatible local bigOthers coupled through symbolic protocol, institutions,
+practices, artifacts, and reciprocal field back-action
+→ lifted-order distributed bigOther
+```
+
+The two social sides form a feedback relation. The lifted order constitutes roles,
+jurisdictions, legitimate interfaces, and correction rules; clockwork activity
+generates concrete outputs, dependencies, failures, and new problems that can feed
+back into revision of the order. A modern society can therefore look predominantly
+“Newtonian” because differentiated persons, incentives, contracts, and decisions
+are its visible surface while commonality resides less visibly in the generator.
+
+As a bounded mission-command illustration, chapter 10 of Philip Tetlock and Dan
+Gardner's
+[*Superforecasting*](https://www.penguinrandomhouse.com/books/227815/superforecasting-by-philip-e-tetlock-and-dan-gardner/)
+uses Moltke and *Auftragstaktik* to describe strategic purpose joined to
+decentralized judgment over execution. In the present mapping, shared objective
+and purpose, differentiated roles, local discretion, and feedback can produce
+high activation-conditioned coordination without identical minds or continuous
+emotional enthusiasm. This is a secondary illustration rather than evidence for
+the local bigOther, lifted mechanical solidarity, or the full cross-scale
+homomorphy. It also establishes neither military effectiveness in every
+environment nor the legitimacy of the objective; communication, logistics,
+interpretation, competence, correction, and the target environment remain
+independent failure surfaces. A command practice genuinely effective in one
+setting can still incur [domain-transfer
+failure](0010-culture-mechanics.semantic-definition.md#domain-transfer-failure)
+when carried into another without testing which load-bearing regularities remain
+valid.
+
+The mapping preserves a relation, not an identity. The clockwork order is not a
+social main CPU, a society is not one enlarged person, and the distributed
+bigOther is not the sum of independently formed local psychologies. Network
+emergence and back-action remain constitutive. The relation also establishes no
+multi-mind-self threshold, subjecthood absorption, historical origin, moral
+quality, or necessary degree of *Beseelung*. A comparatively cool lifted order can
+be fully installed and institutionally strong without becoming an operative
+collective self.
+
+<a id="the-coupling-thermostat"></a>
+
+### 4.9 The coupling thermostat {#the-coupling-thermostat}
 
 **Status:** Project-developed engineering analogy and research programme  
 **Primary theoretical home:** [*Mythology Construction*, “Coordination,
 synchronization, and the coupling
-thermostat”](0040-mythology-construction.semantic-definition.md#28-coordination-synchronization-and-the-coupling-thermostat)  
+thermostat”](0040-mythology-construction.semantic-definition.md#coordination-synchronization-and-the-coupling-thermostat)\
 **Explanatory target:** Task-sensitive calibration of common orientation,
 synchrony, independent perception, and correction
 
@@ -1705,7 +1971,7 @@ where transfer among domains is valid.
 **Primary theoretical homes:** [*Culture Mechanics*, “What the theory is
 disentangling”](0010-culture-mechanics.semantic-definition.md#what-the-theory-is-disentangling)
 and [*Mythology Construction*, “Mythological
-replacement”](0040-mythology-construction.semantic-definition.md#51-mythological-replacement-braiding-apologetics-and-polemics)
+replacement”](0040-mythology-construction.semantic-definition.md#mythological-replacement-braiding-apologetics-and-polemics)
 
 The originating heuristic is:
 
@@ -1762,7 +2028,7 @@ dated January 2006 (p. xvi), of [*Alien Powers: The Pure Theory of
 Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf).
 [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) preserves
 **ideological conflict** as Minogue's term and translates its organized
-recruitment-and-suppression pattern as **ideological-form conflict**. The broader
+recruitment-and-suppression pattern as **propagative conflict**. The broader
 condition is **mythological rivalry**; rivalry becomes conflict when participants
 actively interfere with a rival mythology's transmission, authority, membership,
 or institutional embodiment. [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype)
@@ -1831,7 +2097,9 @@ a necessary sequence from influence through synchrony and binding to fusion. A
 multi-mind-self can arise through differentiated clockwork organization, and a
 strongly bonded group can remain below the collective-agent threshold.
 
-### 4.12 Resonance catastrophe (*Resonanzkatastrophe*)
+<a id="resonance-catastrophe-resonanzkatastrophe"></a>
+
+### 4.12 Resonance catastrophe (*Resonanzkatastrophe*) {#resonance-catastrophe-resonanzkatastrophe}
 
 **Status:** Project-developed physical analogy preserving an originating German
 formulation
@@ -2004,6 +2272,8 @@ stopping conditions operate, transmission builds a credible habitable successor,
 or programme propagation does not predict accumulating loss of its carrying
 substrate.
 
+<a id="nuclear-reactor-sublimation-and-un-reason"></a>
+
 ### 4.14 Nuclear reactor, sublimation, and un-reason {#nuclear-reactor-sublimation-and-un-reason}
 
 **Status:** User-originated analogy with a project-developed mapping and
@@ -2119,6 +2389,8 @@ response to adverse evidence. The un-reason hypothesis weakens when independent
 warnings remain legible, thresholds are stable and reciprocal, correction
 changes practice, and operators or interpreters cannot control their own final
 review.
+
+<a id="the-emperors-new-clothes-un-reality-and-procession-inertia"></a>
 
 ### 4.15 *The Emperor's New Clothes*: un-reality, procession inertia, and correction nullification {#the-emperors-new-clothes-un-reality-and-procession-inertia}
 
@@ -2334,6 +2606,8 @@ Constitution*](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-r
 and the receiving-field morphology to [*Epistemic
 Agency*](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock).
 
+<a id="farming-reality-mediated-education-and-the-secession-or-force-fork"></a>
+
 ### 4.16 Farming, reality-mediated education, and the secession-or-force fork {#farming-reality-mediated-education-and-the-secession-or-force-fork}
 
 **Status:** User-originated analogy and strong thesis with a project-developed
@@ -2377,6 +2651,19 @@ representation of reality
 → pain, loss, failure, capability, or successful maintenance
 → opportunity for correction
 ```
+
+The [reality-mediated formation-before-capture
+trunk](0040-mythology-construction.semantic-definition.md#reality-mediated-formation-before-engineered-capture)
+adds a developmental extension.
+Farming represents a wider class of environments in which young people can
+belong, perform necessary and useful work, experience manageable risk, see
+consequence, acquire self-efficacy, and enlarge freedom through competence before
+industrialized prestige and desire systems receive unrestricted access.
+The licensed target is reality-bound participation, not rural life as a moral
+essence.
+Urban workshops, care, household contribution, craft, sport, laboratories,
+service, and other settings can instantiate it; farms can instead be coercive,
+dangerous, isolating, or ideologically enclosed.
 
 The friend's formulation supplied during the discussion compresses this as:
 
@@ -2618,7 +2905,7 @@ people, claims, or rights remain outside the settlement.
 
 **Status:** Project-developed craft analogy  
 **Primary theoretical home:** [*Mythology Construction*, “Mythological
-replacement”](0040-mythology-construction.semantic-definition.md#51-mythological-replacement-braiding-apologetics-and-polemics)  
+replacement”](0040-mythology-construction.semantic-definition.md#mythological-replacement-braiding-apologetics-and-polemics)\
 **Explanatory target:** Durability and replacement of one operative mythological
 weave
 
@@ -2667,7 +2954,7 @@ plural while remaining inspectable; a simple program can be closed and destructi
 
 **Status:** Established words with project-specific operational definitions  
 **Primary theoretical home:** [*Mythology Construction*, “Mythological
-replacement”](0040-mythology-construction.semantic-definition.md#51-mythological-replacement-braiding-apologetics-and-polemics)
+replacement”](0040-mythology-construction.semantic-definition.md#mythological-replacement-braiding-apologetics-and-polemics)
 
 - **Mythological apologetics** defends, explains, repairs, and renews an operative
   braid.
@@ -2684,6 +2971,8 @@ correction preserves a braid by severing its reality interface.
 automatically truthful, and polemics is not automatically emancipatory. Evaluate
 the successor's jurisdiction, corrigibility, evidence routes, exit, and treatment
 of persons.
+
+<a id="loki-in-gaia-costume"></a>
 
 ### 5.3A Loki in Gaia-Costume {#loki-in-gaia-costume}
 
@@ -2769,7 +3058,7 @@ rather than consumes its concrete carrying substrates.
 **Status:** Originating artificial-intelligence analogy with a controlled
 canonical use
 **Primary theoretical home:** [*Culture Program Ecology*, “Controlled use of
-‘Culture Hallucination’”](0060-culture-program-ecology.semantic-definition.md#23-controlled-use-of-culture-hallucination)
+‘Culture Hallucination’”](0060-culture-program-ecology.semantic-definition.md#controlled-use-of-culture-hallucination)
 **Explanatory target:** A Pure-Ideology Culture Program whose load-bearing
 authority, benefit, sacred relation, or causal promise is protected from defeat by
 accessible reality
@@ -2797,7 +3086,7 @@ and wrong while preserving reality's right to defeat it.
 **Status:** Originating catastrophic-risk analogy with a controlled canonical
 use
 **Primary theoretical home:** [*Culture Program Ecology*, “Cultural
-WMD”](0060-culture-program-ecology.semantic-definition.md#118-cultural-wmd)
+WMD”](0060-culture-program-ecology.semantic-definition.md#cultural-wmd)
 **Explanatory target:** A Culture Program whose offspring or capture profile may
 be catastrophic, scalable, recurrent, persistent, and hard to reverse
 
@@ -2845,7 +3134,7 @@ can use a program whose intrinsic catastrophic capacity is low.
 
 **Status:** Originating temporal analogy with a controlled canonical use<br>
 **Primary theoretical home:** [*Culture Program Ecology*, “Gradual capture and the
-glacier analogy”](0060-culture-program-ecology.semantic-definition.md#114-gradual-capture-and-the-glacier-analogy)<br>
+glacier analogy”](0060-culture-program-ecology.semantic-definition.md#gradual-capture-and-the-glacier-analogy)<br>
 **Explanatory target:** Culture Program displacement that accumulates through
 small, individually tolerable or deniable changes across time and succession
 
@@ -2875,7 +3164,7 @@ capture-inference tests must do that discriminating work.
 jurisdiction-specific verification<br>
 **Primary theoretical home:** [*Culture Program Ecology*,
 “Response-calibrated evidence and intervention
-targets”](0060-culture-program-ecology.semantic-definition.md#123-response-calibrated-evidence-and-intervention-targets)<br>
+targets”](0060-culture-program-ecology.semantic-definition.md#response-calibrated-evidence-and-intervention-targets)<br>
 **Explanatory target:** Selection of an intervention point when visible
 participants and capability-bearing support structures differ
 
@@ -2891,6 +3180,16 @@ communications, logistics, appointments, protection, succession, and
 discretionary institutional access before it produces undifferentiated suspicion
 of human carriers.
 
+The analogy also has an inverse warning. A state may select a person because the
+person is unusually reachable, possesses many valuable statuses or capacities
+that can be withdrawn, and promises a large exemplary effect. The authoritative
+[four-variable enforcement-selection
+audit](0060-culture-program-ecology.semantic-definition.md#enforcement-selection-four-variable-audit)
+therefore separates harmfulness, targetability, sanction leverage, and
+disciplinary yield. Leverage identifies an intervention point only after a
+specific causal contribution and lawful nexus are established; it cannot
+substitute for either.
+
 **Non-inference:** The analogy does not establish that the prostitution-policy
 claim generalizes across jurisdictions. It does not map a purchaser, seller, man,
 woman, demand, consent, exploitation, or culpability directly onto Culture
@@ -2905,7 +3204,7 @@ protections.
 mapping<br>
 **Primary theoretical home:** [*Culture Program Ecology*, “Systemic skeleton and
 living cultural
-body”](0060-culture-program-ecology.semantic-definition.md#137-systemic-skeleton-and-living-cultural-body)<br>
+body”](0060-culture-program-ecology.semantic-definition.md#systemic-skeleton-and-living-cultural-body)<br>
 **Explanatory target:** The mutually dependent operational and
 symbolic-affective aspects of an executable Culture Program
 
@@ -2948,7 +3247,68 @@ the analogy calls one analytical function “skeleton.” It must not imply that
 institutions are inert matter or that persons are disposable tissue attached to
 an institutional subject.
 
-#### Cultural immune-system extension
+<a id="low-loss-institutional-carrier"></a>
+
+#### Low-loss institutional carrier and affective-to-structural load transfer {#low-loss-institutional-carrier}
+
+**Status:** User-originated physical intuition with project-developed controlled
+signal-and-carrier refinement
+
+**Primary theoretical home:** [*Culture Mechanics*, “Affective-to-structural load
+transfer”](0010-culture-mechanics.semantic-definition.md#affective-to-structural-load-transfer)
+
+**Explanatory target:** How a weakly felt classification can acquire structural
+persistence, large jurisdictional range, reliable reproduction, and latent
+capacity for coherent action under activation
+
+The controlled picture is a comparatively weak signal travelling through a
+persistent low-loss carrier network or waveguide:
+
+| Signal-and-carrier picture | Culture-mechanical mapping |
+|---|---|
+| Local signal amplitude | Affective intensity or fresh salience at one carrier and moment |
+| Low-loss carrier structure | Standardized roles, interfaces, habits, records, institutions, and professional formation |
+| Repeaters and error checks | Teaching, peer expectation, audit, correction, sanction, exemplars, and succession |
+| Transmission range | Jurisdictional reach across strangers, organizations, territories, and generations |
+| Stored and recoverable pattern | Structurally sedimented rule, history, precedent, and reproduction procedure rather than literally stored affect |
+| Quiescent but intact carrier path | Latent structural coupling that remains available despite low ambient affective activity |
+| Triggered transmission through the path | Activation-conditioned coupling when an objective, authorization, resources, and command or mission relation recruit the standing structure |
+
+> **Local intensity and systemic reach are independent dimensions. A weakly felt
+> classification can govern an enormous range when it travels through a
+> persistent, low-loss institutional carrier structure.**
+
+The originating intuition associated weaker local coupling with greater scale,
+using gravitation and electromagnetism as prompts. The controlled analogy does
+not claim that weaker physical coupling generally causes longer range. Physical
+range also depends upon the field or mediator, screening, cancellation, boundary
+conditions, and the distribution of sources. The Culture Mechanics inference is
+about carrier architecture: repetition, standardization, institutional memory,
+low transmission loss, and repair can compensate for low local affective
+amplitude.
+
+**Useful inference:** Do not infer structural weakness from low *Beseelung*.
+Test slot occupancy, jurisdiction, institutional embedding, conduct reliability,
+reproduction, correction, collective-self presentation, and collective agency
+separately. A quiet professional rule can be decisive because its structure
+carries part of the load that would otherwise require recurrent emotional
+activation. Likewise, ordinary visible alignment is a poor measure of latent
+collective capacity. Test whether a demanding activation makes resources traverse
+real interfaces, differentiated roles produce interoperable output, local judgment
+handle novelty, feedback alter course, and repair or succession preserve function.
+
+**Non-inference:** The mechanism does not conserve affect, make institutions
+self-animating, prove that every cool order arose from earlier passion, or show
+that structure can replace living interpretation indefinitely. Fear, convenience,
+material incentive, technical constraint, and imposed administration can produce
+similar surface compliance. When formation, correction, repair, and succession
+fail, low-intensity structural persistence may be a de-animated remnant,
+ceremonial compliance, or machinery available to a successor rather than a
+healthy instance of load transfer.
+
+<a id="cultural-immune-system-extension"></a>
+
+#### Cultural immune-system extension {#cultural-immune-system-extension}
 
 **Status:** User-originated organismic analogy with project-developed mapping<br>
 **Primary theoretical home:** [*Culture Program Ecology*, “Cultural
@@ -3002,7 +3362,7 @@ project-developed analogy family<br>
 constitutional
 learning”](0030-epistemic-constitution.semantic-definition.md#anti-gnostic-adaptive-constitutional-learning)
 and [*Culture Program Ecology*, “Anti-gnostic adaptive constitutional
-search”](0060-culture-program-ecology.semantic-definition.md#138-anti-gnostic-adaptive-constitutional-search)<br>
+search”](0060-culture-program-ecology.semantic-definition.md#anti-gnostic-adaptive-constitutional-search)<br>
 **Explanatory target:** Reality-answerable constitutional learning without an
 office, expert, score, or institution possessing root access to reality
 <br>
@@ -3085,7 +3445,7 @@ common constraint shell
 project author and expanded into a project-developed constitutional mapping<br>
 **Primary theoretical home:** [*Culture Program Ecology*, “Democracy as
 *Schutzbalken gegen die
-Macht*”](0060-culture-program-ecology.semantic-definition.md#1321-democracy-as-schutzbalken-gegen-die-macht)<br>
+Macht*”](0060-culture-program-ecology.semantic-definition.md#democracy-as-schutzbalken-gegen-die-macht)<br>
 **Explanatory target:** The relation among the concrete person, democracy's
 proposed power-containing purpose, its fallible institutional implementations,
 and the need to constrain the protector itself
@@ -3214,6 +3574,8 @@ Shadow-Sovereign scenario into evidence sufficient for exile. The project author
 supplies the modern collective proposal; Athens supplies only the bounded
 historical source mechanism.
 
+<a id="titanic-captain-turnover-and-course-control"></a>
+
 ### 5.11 Titanic, captain turnover, and course control {#titanic-captain-turnover-and-course-control}
 
 **Status:** Konstantin Kisin-derived political-navigation image introduced by
@@ -3281,6 +3643,8 @@ alternative course would be better. Kisin supplies the comic image; the exact
 five-part mapping, course-corrigibility inference, and connection to
 Shadow-Sovereign rule are Culture Mechanics developments.
 
+<a id="favour-bank-cloud-analogy"></a>
+
 ### 5.12 Favour-bank cloud: grooming, implicit debt, and routed returns {#favour-bank-cloud-analogy}
 
 **Status:** Project-developed hybrid analogy with an explicitly bounded Tom
@@ -3300,11 +3664,12 @@ The controlled mapping combines two pictures:
 | Visible cloud-service endpoint | A respected organization, office, expert, broker, or professional interface through which access or action becomes available |
 | Partly opaque back end | Funders, patrons, employers, institutions, dependencies, and personal relations not fully visible from the interface |
 | Service user need not know the executing machine | A participant can know the local protocol—who opens doors, which requests matter, and what refusal risks—without knowing the whole network |
-| Bank deposit | Attention, access, status, protection, opportunity, introduction, appointment, grant, or other favour |
+| Bank deposit | Attention, access, status, protection, opportunity, introduction, appointment, grant, or other favour, including scarce assistance whose private value greatly exceeds its visible financial value |
 | Implicit balance | Felt reciprocal obligation or **implicit debt**, remembered socially rather than recorded as an enforceable account |
 | Withdrawal | A later request for assistance, placement, funding, protection, silence, framing, delay, local implementation, or recruitment |
 | Broker, clearing, or transfer | A fixer routes repayment toward a third party, so the original benefactor need not personally collect the return |
-| Elastic scaling | New beneficiaries incur new obligations, recruit additional participants, and create further institutional entry points |
+| Local service permission | A beneficiary repays through appointment, protection, funding, review, complaint routing, or succession inside an office or jurisdiction already under the beneficiary's control |
+| Elastic scaling | New beneficiaries incur new obligations, recruit or place additional participants, and create further institutional entry points and repayment surfaces |
 | Loss of service or account access | Hypothesized refusal costs such as lost access, protection, status, opportunity, reputation, or career progression; each requires evidence |
 
 The analogy makes a specific sequence visible:
@@ -3315,7 +3680,8 @@ cultivation and trust
 → implicit debt
 → withdrawal request
 → routed return favour
-→ recruitment and additional deposits
+→ possible hierarchical placement or protection
+→ recruitment, additional deposits, and recursive entry points
 → possible distributed scaling
 ```
 
@@ -3325,22 +3691,54 @@ sometimes reproduce a direction by transmitting locally intelligible
 obligations, rewards, sanctions, and requests. Individually ordinary-looking
 acts can therefore be investigated longitudinally and across institutions rather
 than assumed to be causally unrelated because no actor possesses the whole map.
+The picture also directs attention to a low-friction repayment surface: a
+recipient may be able to appoint, protect, fund, delay, or route a person inside
+an already controlled jurisdiction more easily than the recipient could persuade
+an independent institution. Repeated placement can create new beneficiaries and
+new control surfaces across succession.
 The picture also separates the cloud's softer carriers from the narrow
 [*Kommandoagent*](0060-culture-program-ecology.semantic-definition.md#kommandoagent)
 hypothesis: only a knowing actor executing a concrete covert operational
 assignment receives that label.
 
+The analogy supports two separately typed investigative routes rather than one
+lowered threshold. A specific episode requires a joined benefit, obligation,
+withdrawal, return, and consequence record. A system-level cloud profile may be
+circumstantially supported by a benefit ecology plus recurrent matched
+loyalty-over-competence selection, protected aligned failure, selectively burdened
+correction, cross-node recurrence, and weaker serious rivals. The second route
+does not identify a debt, broker, participant, command centre, or objective; one
+direct episode does not establish a cloud. A capable operator would prefer
+socially remembered obligations, deniable requests, redundant brokers, formally
+independent nodes, and returns executed as ordinary administrative acts. The
+absence of a written ledger or explicit central command is therefore predicted
+by the threat model rather than evidence against it.
+
 **Unlicensed inference:** Cloud computing does not prove a cloud of political
-control, and a social favour is not a literal bank asset. Mentorship,
-hospitality, generosity, grants, networking, recommendations, professional
-mobility, brokerage, and generalized reciprocity are ordinary and often
-beneficial. Dense ties, institutional prestige, policy agreement, tacit
-awareness, or a costly refusal does not alone establish staged grooming,
-transferable debt, concealment, capture, one controller, conspiracy, a
-*Kommandoagent*, Shadow-Sovereign rule, systemic lying, or *Machtpolitik*.
-Evidence must establish the proposed links: preparatory cultivation, expected
-later compliance, remembered or communicated obligation, consequential
-withdrawal, routing, benefit or sanction, recurrence, and aggregation.
+control, and a social favour is not a literal bank asset. The threat model
+expects mentorship, hospitality, grants, networking, recommendations,
+professional mobility, prestige, and ordinary institutional procedure to provide
+its usable surfaces. Their familiar or benevolent form has no independent
+defeater weight. Formal transparency, nominally plural selection, protected
+criticism, review, recusal, appeal, and exit count only when they are
+consequentially exercised and structurally independent of the candidate funding,
+personnel, credential, prestige, and dependency ecology.
+Specific-episode attribution establishes the proposed links: preparatory
+cultivation, expected later compliance, remembered or communicated obligation,
+consequential withdrawal, routing, and benefit or sanction. System-level
+classification instead completes the full matched circumstantial route above,
+including recurrence and aggregation.
+Raw scandal counts remain weak until joined to selection, protection, correction,
+and succession. Test whether benefit exposure and aligned responsiveness predict
+selection and protection better than competence through matched insiders and
+outsiders, several appointment generations, and consequential review. Require
+each alternative to make a discriminating prediction: scarcity should relax
+thresholds across alignments; weak governance should produce heterogeneous error;
+shared belief need not produce benefit chronology, broker routing, or refusal
+costs; negligence should not selectively suspend verification; and selector
+self-protection alone should not predict cross-node third-party returns. A rival
+label does not close the audit, because the named condition may be an alternative,
+an exploited vulnerability, or a downstream product of the same ecology.
 
 The source lineage is narrower than the mapping. [Mike Benz's February 2026
 interview explanation](https://podscripts.co/podcasts/the-benny-show/mike-benz-blows-the-doors-epstein-files-who-was-epstein-really-working-for-darker-than-the-cia)
@@ -3358,11 +3756,112 @@ Wolfe therefore supplies the literary **Favor Bank** image and Benz a
 contemporary critical use. The originating project author supplies the separate
 cloud of respected organizations, cultivated participants, implicit debts,
 routed return favours, recruitment, fragmentary practical knowledge, and
-possible refusal costs. The exact hybrid mapping, typed knowledge positions,
-evidential links, ordinary-reciprocity boundary, and relation to the
-one-more-layer threat model are Culture Mechanics developments. The interview is
-a source for Benz's formulation, not independent verification of its allegations
-about named people or institutions.
+possible refusal costs. Later project discussion supplies the two-route evidence
+architecture, two-sided node audit, scarce high-private-value benefit class,
+hierarchical repayment cascade, recursive meritocratic-deterioration hypothesis,
+favour-banker topology, adaptive-concealment and operational-defeater tests, and
+conditional prestige-laundering loop. The exact
+hybrid mapping, typed knowledge positions, evidential links,
+ordinary-reciprocity boundary, and relation to the one-more-layer threat model
+are Culture Mechanics developments. The interview is a source for Benz's
+formulation, not independent verification of its allegations about named people
+or institutions.
+
+<a id="pseudomorph-and-boundary-crossing-transfer"></a>
+
+### 5.12A Pseudomorph and boundary-crossing transfer {#pseudomorph-and-boundary-crossing-transfer}
+
+**Status:** Project-developed paired analogy<br>
+**Primary theoretical homes:** [*Epistemic Constitution*, “Pseudomorphic
+governor
+substitution”](0030-epistemic-constitution.semantic-definition.md#pseudomorphic-governor-substitution)
+and [*Culture Program Ecology*, “Boundary-crossing reality challenges and
+auditability by
+design”](0060-culture-program-ecology.semantic-definition.md#boundary-crossing-reality-challenges)<br>
+**Explanatory target:** The retained-form morphology and the operational method
+that converts hidden institutional state into an observable event outside the
+operator's custody
+
+Mineralogy supplies the morphology.
+A [pseudomorph](https://www.mindat.org/glossary/pseudomorph) retains the outward
+crystal form of another mineral although the composition associated with that
+form has been replaced or altered:
+
+| Mineralogical image | Institutional target |
+|---|---|
+| Retained crystal form | Recognizable name, roles, rituals, procedures, machinery, and authority of X |
+| Changed internal composition | Incompatible principle becomes the operative governor |
+| Earlier form continues to classify the specimen perceptually | Inherited institutional identity continues to attract trust, access, prestige, resources, and jurisdiction |
+| Material analysis distinguishes form from composition | Collision, correction, reproduction, and succession audits distinguish displayed identity from operative selection rule |
+
+**Useful inference:** A practice can be neither merely absent nor an external
+counterfeit.
+Real inherited machinery can persist while the principle deciding its use has
+changed.
+The process is pseudomorphic governor substitution; its result is a functional
+pseudomorph of X.
+This retained-form analogy belongs to that durable bearer-level morphology, not
+to every theoretical *un-* operation.
+Un-reason and un-reality instead directly apply constitutive-relation inversion;
+use reciprocal-defeater and authority-after-correction tests unless a durable
+social bearer is separately proposed.
+
+**Unlicensed inference:** An institution is not a mineral, and social form does
+not mechanically determine one hidden composition.
+The mineral image supplies no evidence that substitution occurred, no actor,
+and no account of incentives, correction, or succession.
+
+Custodian transfer and challenge--response supply the detector.
+A static statement remains inside the claimant's representational system;
+exercise across an independently controlled boundary requires the claimed state
+to produce an external event:
+
+| Transfer image | General institutional target |
+|---|---|
+| Custodian account statement | Internally generated grade, credential, audit, inventory, policy, or capability claim |
+| Asset allegedly held | Claimed asset, authority, knowledge, correction relation, or capability |
+| Independent destination custodian | Successor, evaluator, appeals body, replicator, user, settlement system, or physical reality outside the tested control ecology |
+| Settlement boundary | Actual transfer, handover, replication, consequential appeal, novel task, or end-to-end performance |
+| Successful transfer | The claimed function operates under independent control |
+| Failed or obstructed transfer | Dependency, encumbrance, missing state, weak capability, or non-portability becomes observable |
+
+The generalized challenge is:
+
+> **Convert a difficult-to-inspect claim into an externally selected act whose
+> successful completion requires the claimed reality to exist.**
+
+A claim-matched capability challenge applies the image to education or
+professional certification: a representative sample performs a changing,
+unfamiliar but domain-valid end-to-end task before independent evaluators and
+external constraints.
+Mandatory institutional portability applies it to succession: an independently
+selected successor must receive and exercise actual control without continuing
+predecessor permission.
+
+**Useful inference:** Boundary crossing can manufacture discriminating traces
+where ordinary observation leaves the governor hidden.
+The expected recurrence of such tests can also deter ceremonial decoupling,
+nontransferable control, and protected incapacity.
+
+**Unlicensed inference:** Failure establishes what the challenge validly tests,
+not every cause proposed for the failure.
+A transfer obstruction, weak sampled performance, or failed appeal does not by
+itself identify pseudomorphic substitution, a favour bank, hostile capture, one
+coordinator, guilt, or intent.
+The challenge must be representative, feasible, claim-matched, independently
+selected and evaluated, and resistant to rehearsal or window dressing.
+
+The originating project author supplied the custodian-transfer image, term-limit
+extension, engineering-education example, and demand that hidden claims cross a
+real boundary.
+The assistant formalized the paired mineralogical and transfer mappings,
+boundary-crossing reality challenge, claim-matched capability challenge,
+mandatory institutional portability, design conditions, and licensed and
+unlicensed inferences.
+No public-theory document attributes the originating material to the author's
+personal website.
+
+<a id="pied-piper-and-the-stolen-future"></a>
 
 ### 5.13 Pied Piper (*Rattenfänger von Hameln*) and the Stolen Future {#pied-piper-and-the-stolen-future}
 
@@ -3435,6 +3934,84 @@ flourishing, discriminating anger, affective return, and the Guild of Builders i
 a Culture Mechanics development. The analogy supplies no historical evidence for
 any modern case.
 
+<a id="gift-wrapped-control-and-moral-wrapper-selection"></a>
+
+### 5.14 Gift-wrapped control and moral-wrapper selection {#gift-wrapped-control-and-moral-wrapper-selection}
+
+**Status:** controlled mapping from an unattributed internet political cartoon<br>
+**Primary theoretical home:** [*Culture Program Ecology*, “Control-first
+moral-wrapper
+selection”](0060-culture-program-ecology.semantic-definition.md#control-first-moral-wrapper-selection)<br>
+**Explanatory target:** The possible reversal between the publicly advertised
+cause of a control policy and the causal order by which a reusable control
+capability was selected and authorized
+
+The source image shows Uncle Sam behind a counter with a package already labelled
+“CONTROL OF INTERNET SPEECH.” A figure labelled “CORPORATE MEDIA” asks how it
+should be wrapped. The available papers are labelled “ANTI-TERRORISM” and
+“PROTECT KIDS.” Ribbon, scissors, flowers, rabbits, and patriotic imagery turn
+selection of the justification into a routine packaging operation.
+
+The controlled mapping is:
+
+| Cartoon element | Culture Program Ecology target |
+|---|---|
+| Box already labelled “control” | Candidate preselected inspection, classification, restriction, or enforcement capability |
+| Control label visible before wrapping | Hypothesized temporal priority of the operative object over its public rationale |
+| Anti-terrorism paper | Emergency, danger, enemy, loyalty, and national-protection authorization field |
+| Child-protection paper | Innocence, vulnerability, care, taboo, and character-classification authorization field |
+| Interchangeable papers | Moral-wrapper variance around a possibly invariant control capability |
+| Corporate-media clerk | Possible trusted-opinion-leader carrier and translation function that makes a policy publicly saleable; not proof of media coordination or capture |
+| Gift form | Benevolent presentation that can conceal burden, jurisdiction, surveillance, and enforcement capability |
+| Absent citizen, court, opposition, and technical audit | Missing correction, authorization, proportionality, and affected-person positions in the cartoon's compressed scene |
+
+The advertised and hypothesized causal orders are opposites:
+
+```text
+ADVERTISED
+grave harm → protective necessity → control capability selected
+
+CONTROL-FIRST HYPOTHESIS
+control capability selected → morally compelling wrapper selected
+→ protection presented as the cause of control
+```
+
+**Licensed inference:** remove the wrapper and audit chronology, functional fit,
+narrower alternatives, persistence, repurposing, success criteria, and response to
+correction. Where anti-terrorism, child protection, misinformation, safety,
+public health, democracy protection, or another rationale changes while the
+requested capability remains substantially invariant, the invariant capability
+becomes a stronger candidate for the operative objective. The image also warns
+that criticism of means can be reconstructed as hostility toward the protected
+object.
+
+**Distinction from objective substitution:** the cartoon alleges divergence from
+inception. Control is already inside the box; the public objective never governs
+selection of the content. Objective substitution instead begins with one
+operative objective and later uses its authority to install another. A later
+wrapper change, mission creep, and an initially pretextual wrapper are different
+temporal hypotheses and require different evidence.
+
+**Unlicensed inference:** the image does not prove that control was the original
+objective, that anti-terrorism or child protection is insincere, that government
+and corporate media coordinated, that one hidden controller exists, or that a
+particular policy constitutes Ideology, systemic lying, *Machtpolitik*, or
+*Willkürherrschaft*. A control capability can be a sincerely selected but
+overbroad means to a genuine objective; mixed motives, bureaucratic persistence,
+technical path dependence, emergency error, and unintended capability expansion
+remain alternatives. The cartoon's placement of the word “control” inside the box
+is its main claim, not evidence for that claim.
+
+**Provenance:** The originating project author supplied the image and selected
+its temporal interpretation: the desired control object precedes the choice
+between anti-terrorism and child-protection packaging. The creator, date, and
+original publication context were not established in the source conversation.
+The names **control-first moral-wrapper selection**, **pretextual authorization
+of a preselected control capability**, and **moral-wrapper invariance test**,
+together with the mappings and evidential boundaries above, are Culture Mechanics
+developments. The image is retained through description rather than reproduced
+as a publication asset.
+
 ## 6. Index of local analogies
 
 | Local analogy | Primary home | Intended inference | Main non-inference |
@@ -3443,15 +4020,16 @@ any modern case.
 | Jealous lover | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Makes exclusive allegiance and treatment of exit as betrayal vivid | Single-slot occupancy alone is not jealousy |
 | Moral taste | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Culture educates attraction and aversion, not only explicit rules | Moral judgment is not literally gustation or beyond reflection |
 | Psychological alchemy | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Mythology can transform shame, resentment, fear, and aspiration into a new drive direction | No magical transmutation or guarantee of flourishing |
-| Cultural interoperability breakdown (Babelization) | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#29-cultural-interoperability-and-its-breakdown-babelization) | When effective lifted-solidarity thickness or span falls below the anti-Babel floor, differentiated groups can retain local coherence while translation, legitimate common procedure, and society-wide agency fail; residual interoperability scale—intuitively, Babelization grain size—may contract from mass domains through subcultures and very small groups toward the one-person limit | Linguistic or first-order diversity is not the pathology; the Tower of Babel does not prove the mechanism or make interoperability identical to fusion; loneliness is a possible consequence and sensor, not proof of breakdown |
+| Cultural interoperability breakdown (Babelization) | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#cultural-interoperability-and-its-breakdown-babelization) | When effective lifted-solidarity thickness or span falls below the anti-Babel floor, differentiated groups can retain local coherence while translation, legitimate common procedure, and society-wide agency fail; residual interoperability scale—intuitively, Babelization grain size—may contract from mass domains through subcultures and very small groups toward the one-person limit | Linguistic or first-order diversity is not the pathology; the Tower of Babel does not prove the mechanism or make interoperability identical to fusion; loneliness is a possible consequence and sensor, not proof of breakdown |
 | Orchestra | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Differentiated roles can become temporarily synchronized under a common score | Coordination and synchronization never become literal opposites in all tasks |
 | Addiction and downhill attractor | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Immediate reward and reduced agency can create self-reinforcing cultural descent | A culture or person is not clinically diagnosed by analogy alone |
 | Hairworm and wood cricket | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | A destructive program can redirect a host's action against the host's flourishing | Mythology is not a biological parasite and people are not mindless hosts |
 | Hardware/software fit | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | The same imported operation may function differently under different dispositions and installed state | Genetic incapacity or deterministic population essence is not established |
 | Cynicism as corrosive acid | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Polemics can dissolve trust faster than a successor order can form | Criticism or skepticism is not inherently corrosive |
 | Collective process as compound interest | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) | Small reality-coupled practices can accumulate while dramatic mythology wins immediate attention | Social change does not follow a fixed financial growth law |
-| Glacier / glacial capture | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#114-gradual-capture-and-the-glacier-analogy) | Small changes can accumulate across metrics, appointments, interpretation, formation, and succession until an inherited shell reproduces a successor program | Slow change does not prove capture, hostile intent, command, or pathology |
-| Prostitution-policy leverage point | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#123-response-calibrated-evidence-and-intervention-targets) | Look beyond the easiest visible or vulnerable participant to the resource-bearing demand, finance, coordination, or support structure that supplies capability | Does not establish the empirical policy claim, map genders or roles onto Culture Program cases, assign organizational guilt, or remove person and association rights |
+| Glacier / glacial capture | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#gradual-capture-and-the-glacier-analogy) | Small changes can accumulate across metrics, appointments, interpretation, formation, and succession until an inherited shell reproduces a successor program | Slow change does not prove capture, hostile intent, command, or pathology |
+| Gift-wrapped control | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#control-first-moral-wrapper-selection) | Varying morally protected rationales around an invariant control capability can expose a candidate control-first authorization order and directs audit toward chronology, fit, narrower alternatives, persistence, repurposing, and correction | The cartoon presupposes rather than proves that control came first; no pretext, media coordination, hidden controller, Ideology, systemic lying, or *Machtpolitik* follows from the image |
+| Prostitution-policy leverage point | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#response-calibrated-evidence-and-intervention-targets) | Look beyond the easiest visible or vulnerable participant to the resource-bearing demand, finance, coordination, or support structure that supplies capability; inversely, separate harmfulness from targetability, sanction leverage, and disciplinary yield | Does not establish the empirical policy claim, map genders or roles onto Culture Program cases, assign organizational guilt, treat a large sanctionable loss surface as guilt, or remove person and association rights |
 | Counterfactual unit test and label-invariance | [*Epistemic Agency under Mechanical Solidarity*, “Impersonal universality against private interest”](0020-epistemic-agency.semantic-definition.md#impersonal-universality-against-private-interest) | Exchanging personal labels or occupied positions while preserving relevant structure can expose a rule whose justification covertly depends on “because it is me or mine” | Passing the test does not establish truth, goodness, person-preservation, empirical feasibility, or actual consequences; persons and situations are not literally software variables |
 
 ## 7. Relationships among the models
@@ -3474,7 +4052,7 @@ laser synchronization / collective effervescence
 mechanical-solidarity coherence
                 ↓ can persist as
 magnetized domains and remanence
-                ↓ can supply a high-level protocol for
+                ↓ when lifted can supply a high-level protocol for
 organic differentiation / clockwork coordination
                 ↓ can be organized with population, carriers, and direction as
 functional morphology of mechanical solidarity
@@ -3563,6 +4141,8 @@ not analogies.**
 They therefore do not appear as primary entries in the master analogy map. Their
 presence here records a controlled mapping across models, with the same usefulness
 and non-inference discipline applied to the analogies proper.
+
+<a id="functional-near-synonym-panel"></a>
 
 #### Functional-near-synonym panel: Korenizatsiya, Maoist nationality policy, and strong modern Diversity {#functional-near-synonym-panel}
 
@@ -3958,7 +4538,9 @@ not make the symbolic carrier identical with sublimation or its architecture,
 prove that a changed prestige environment is the primary intrapersonal target,
 or establish a deliberate cultural attacker from observed de-animation.
 
-### 7.8 X-ray vision and secular gnosis
+<a id="x-ray-vision-and-secular-gnosis"></a>
+
+### 7.8 X-ray vision and secular gnosis {#x-ray-vision-and-secular-gnosis}
 
 **Status:** Originating project analogies
 **Primary semantic home:** [*Mythology Construction*, “*Herrschaftsideologie*:
@@ -4076,13 +4658,15 @@ for moral reasoning, while Gazzaniga's interpreter supplies a related
 explanation-producing model. None of those sources proposes this combined
 Culture Mechanics sequence.
 
-### 7.10 Torfing, Laclau, and Mouffe: articulation, hegemony, and executable cultural order
+<a id="torfing-laclau-and-mouffe-articulation-hegemony-and-executable-cultural-order"></a>
+
+### 7.10 Torfing, Laclau, and Mouffe: articulation, hegemony, and executable cultural order {#torfing-laclau-and-mouffe-articulation-hegemony-and-executable-cultural-order}
 
 **Status:** Controlled neighbouring-theory mapping, not an analogy and not an
 adoption of the complete political or social ontology.
 
 **Primary semantic homes:** [*Mythology
-Construction*](0040-mythology-construction.semantic-definition.md#12-topoi-plot-and-articulation)
+Construction*](0040-mythology-construction.semantic-definition.md#topoi-plot-and-articulation)
 for articulation, mythology, desire, fantasy, demand, drive, replacement, and
 Babelization; [*Epistemic Constitution of Lifted Mechanical
 Solidarity*](0030-epistemic-constitution.semantic-definition.md) for truth,
@@ -4325,7 +4909,7 @@ procedures produced accepted decisions, or a successor weave achieved genuine
 integration. Whether unused contestability atrophies remains an open empirical
 and institutional-design question.
 
-The [Rao script panel below](#711-venkatesh-rao-situated-scripts-unraveling-and-cultural-transition)
+The [Rao script panel below](#venkatesh-rao-situated-scripts-unraveling-and-cultural-transition)
 adds the missing implementation level. Conflictual consensus is the general
 democratic braid, while opposition, legitimate loss, succession, correction, and
 return require viable role- and institution-specific agonistic scripts. Such
@@ -4547,7 +5131,9 @@ The provisional offspring verdict is:
 8. Can a public order exercise contestability often enough to prevent atrophy
    without making continuous adversarial mobilization its purpose?
 
-### 7.11 Venkatesh Rao: situated scripts, unraveling, and cultural transition
+<a id="venkatesh-rao-situated-scripts-unraveling-and-cultural-transition"></a>
+
+### 7.11 Venkatesh Rao: situated scripts, unraveling, and cultural transition {#venkatesh-rao-situated-scripts-unraveling-and-cultural-transition}
 
 **Status:** Controlled neighbouring-concept mapping and hypothesis source, not an
 adoption of the essay's complete ontology or empirical claims.
@@ -4556,7 +5142,7 @@ adoption of the essay's complete ontology or empirical claims.
 Mechanics*](0010-culture-mechanics.semantic-definition.md#situated-cultural-scripts-executable-local-braids)
 for the situated-cultural-script definition, script viability, and cross-script
 cascade; [*Mythology
-Construction*](0040-mythology-construction.semantic-definition.md#51-mythological-replacement-braiding-apologetics-and-polemics)
+Construction*](0040-mythology-construction.semantic-definition.md#mythological-replacement-braiding-apologetics-and-polemics)
 for braid replacement, bridge scripts, embodiment, and transition responsibility;
 and [*Epistemic Constitution of Lifted Mechanical
 Solidarity*](0030-epistemic-constitution.semantic-definition.md#constitutional-scripts-the-meta-order-made-executable)
@@ -4899,10 +5485,14 @@ transition capacity, and the scripts made possible after victory.
 30. **A favour-bank cloud is not inferred from social density:** The hybrid
     image distinguishes a visible interface from partly opaque dependencies and
     tracks possible deposits, implicit balances, withdrawals, routing, and
-    scaling. It does not turn ordinary generosity, mentorship, grants,
-    introductions, professional mobility, reciprocity, or institutional
-    agreement into evidence of grooming or concealed control. Each proposed
-    transition and any sanction for refusal require its own longitudinal record.
+    scaling, including possible hierarchical placement and prestige return. It
+    does not turn ordinary generosity, mentorship, grants, introductions,
+    professional mobility, reciprocity, institutional agreement, weak
+    appointments, or raw scandal counts into evidence of grooming or concealed
+    control. A specific episode requires its joined longitudinal record. A
+    system-level profile requires the separately typed benefit-ecology and
+    recurrent matched selection/protection route and does not identify an
+    individual debt or actor.
 31. **Typed near-synonymy is not genealogy or historical identity:** The
     Korenizatsiya–Mao–modern-Diversity panel compares a strict conjunction at one
     declared resolution. A missing component defeats that classification, and a
@@ -4923,6 +5513,12 @@ transition capacity, and the scripts made possible after victory.
     protected U1, authorization, blocked correction, and practical consequence.
     No explicit probability calculation, coordinated carrier field, systemic
     lying, or Shadow Sovereign follows from the analogy.
+34. **A moral wrapper does not prove a hidden control objective:** The
+    gift-wrapped-control image reverses the advertised causal order so that
+    chronology, capability invariance, rejected narrower alternatives,
+    persistence, repurposing, and correction can be audited. Its label inside the
+    box is the hypothesis being tested, not evidence that establishes pretext,
+    coordination, intent, Ideology, systemic lying, or *Machtpolitik*.
 
 ## 9. Open questions and research programme
 
@@ -5059,7 +5655,10 @@ transition capacity, and the scripts made possible after victory.
   sanctions without generating false positives from ordinary social capital?
   Which records distinguish a loose obligation network from bilateral
   reciprocity, shared belief, career selection, opportunism, formal patronage,
-  coercion, or one centrally directed organization?
+  coercion, or one centrally directed organization? Can a two-sided node audit
+  and matched multi-generation comparison detect hierarchical repayment,
+  recursive selection, or prestige return without turning deteriorating
+  meritocracy into an attribution shortcut?
 - Does the Pied-Piper/Stolen-Future mapping help recipients identify a concrete
   loss of judgment, practice, capability, possible self, or posterity without
   preassigning one deceiver and innocent followers? Can its return-and-builder
@@ -5114,6 +5713,19 @@ transition capacity, and the scripts made possible after victory.
   distributed emitters, the first-officer expression of trusted opinion
   leadership, molecular binding,
   *Resonanzkatastrophe*, PCI slots, local bigOthers, or clockwork crowds.
+- **The project author** supplies the reinterpretive proposal that Durkheimian
+  organic solidarity can be decomposed into organic differentiation plus lifted
+  mechanically solidary common binding force, together with the cross-scale
+  relation between the main CPU and local bigOther on one level and clockwork
+  activity and the lifted-order distributed bigOther on another. The assistant
+  formalized the controlled mapping, its emergence and back-action boundaries,
+  and the provisional name **cross-scale duplex homomorphy**. None of these terms
+  or relations should be attributed to Durkheim.
+- **Philip Tetlock and Dan Gardner** supply the bounded Moltke--*Auftragstaktik*
+  mission-command illustration in *Superforecasting*, chapter 10. The project
+  uses it only to show how shared purpose and differentiated local judgment can
+  coexist; it does not make them sources for the local bigOther, lifted
+  solidarity, activation-conditioned coupling, or the cross-scale homomorphy.
 - **The project author** supplies the whole-society dotted-lattice picture, the
   insistence that the population body and field-generating function belong to one
   complete morphology, the possibility of centralized, synthetic, or distributed
@@ -5158,7 +5770,7 @@ transition capacity, and the scripts made possible after victory.
   Mechanics does not adopt his complete crowd psychology.
 - **Kenneth Minogue** supplies *ideological conflict* and the observation that
   disabling opposition, ideally by censorship, is an early ideological move.
-  **Mythological rivalry**, **ideological-form conflict**, and **rival-signal
+  **Mythological rivalry**, **propagative conflict**, and **rival-signal
   suppression** are project translations. The selection-to-censorship evidential
   ladder is project-developed and preserves the user's correction that
   unavoidable editorial selection neither proves neutrality nor excludes
@@ -5170,6 +5782,14 @@ transition capacity, and the scripts made possible after victory.
   public/private power map, bounded-protector recursion, dashboard relation, and
   institutional mapping are project developments, not claims that Mausfeld
   supplied this complete Culture Mechanics formulation.
+- **The originating project author** supplied the unattributed
+  gift-wrapped-control meme and selected its central temporal interpretation:
+  control is already the desired object when anti-terrorism and child protection
+  are offered as interchangeable authorization wrappers. The cartoon's unknown
+  creator supplies the visual arrangement, not evidence that the arrangement
+  describes a particular policy. Control-first moral-wrapper selection,
+  pretextual authorization, the moral-wrapper invariance test, and their
+  evidential boundaries are Culture Mechanics developments.
 - **Konstantin Kisin** supplies the humorous Titanic image in which passengers
   keep changing captains without changing course. The project author introduced
   the image and selected the assistant's passenger--voter, captain--government,
@@ -5188,9 +5808,24 @@ transition capacity, and the scripts made possible after victory.
   costs. The assistant formalized the hybrid cloud-computing/banking mapping,
   replaced “subconscious knowledge” with tacit or practical recognition of local
   protocols, separated its positions from the narrow *Kommandoagent*, and added
-  the ordinary-reciprocity and evidential boundaries. Wolfe and Benz do not
-  supply the full project model, and the cited interview is not independent
-  verification of its allegations about named people or institutions.
+  the ordinary-reciprocity and evidential boundaries. Later project discussion
+  supplied the observability objection, meritocratic-deterioration cross-check,
+  high-private-value assistance, hierarchical repayment, recursive placement,
+  and favour-banker role; the assistant formalized their two-route evidence,
+  node-audit, prestige-return, privacy, comparator, and attribution boundaries.
+  Wolfe and Benz do not supply the full project model, and the cited interview is
+  not independent verification of its allegations about named people or
+  institutions.
+- **Mineralogical pseudomorphism** supplies the retained-external-form image.
+  The project author selected **pseudomorphic governor substitution**, supplied
+  the custodian-transfer and engineering-capability examples, and generalized
+  term limits as transfer tests.
+  The assistant formalized the functional-pseudomorph result, paired
+  pseudomorph--transfer mapping, boundary-crossing reality challenge,
+  claim-matched capability challenge, mandatory institutional portability, and
+  their test conditions.
+  Mineralogy, custodial transfer, and challenge--response do not validate a
+  social diagnosis or identify the cause of a failed transfer.
 - **The Pied Piper / *Rattenfänger von Hameln*** supplies an inherited and
   internally complicated folklore image; variants include the town's broken
   promise as well as the removal of the rats and loss of the children. The
@@ -5232,7 +5867,22 @@ transition capacity, and the scripts made possible after victory.
   untouched. The assistant formalized the two-column skeleton/living-body
   mapping, bounded civic-shame distinction, candidate non-extendable clock,
   controlled comparison with individual Athenian ostracism, guardrail-reversal
-  test, and narrower political-disqualification comparator.
+  test, and narrower political-disqualification comparator. The project author
+  later supplied the intuition that the skeleton can take over part of the load
+  of weaker local affect and compared weaker coupling with larger-scale force.
+  The assistant formalized **affective-to-structural load transfer** and refined
+  the physical prompt into the controlled low-loss institutional-carrier mapping,
+  which treats range and local intensity as independent without proposing a
+  general inverse physical law.
+- **The project author** supplies the use of crystallization cores, cultural
+  nucleation, crystal growth, anti-nucleation, annealing, and alloying as images
+  for founderless cultural formation, counter-programme suppression, cultural
+  plasticity, domain stabilization, and integrative democratic synthesis.
+  The assistant separated the non-analogical formation, ecology, and democratic
+  trunks from the materials-science vocabulary and formalized the licensed and
+  unlicensed mappings.
+  No physical critical point, temperature, lattice, phase law, homogeneous
+  crystal, or intrinsically superior alloy is attributed to social systems.
 - **The project author** also supplies the originating comparison of sublimation
   with peaceful nuclear power and of dangerous human capacity becoming unbound
   with a failing nuclear plant. The assistant supplied the physical correction
@@ -5400,7 +6050,8 @@ transition capacity, and the scripts made possible after victory.
   ferromagnetic topology, Bavaria–Swabia example, coupling thermostat, sleeping--
   waking collective-state mapping, one-slot computing family, molecular-compound
   mapping, resonance-catastrophe definition, lossy codec and decoder-targeted
-  compression analogy, the doctrine-as-parent/progeny, X-ray-vision, and
+  compression analogy, the state/operation-replication and adaptive-dictionary-
+  compression bridge, the doctrine-as-parent/progeny, X-ray-vision, and
   secular-gnosis analogies, the Ragnarök-trajectory term and controlled mapping,
   the counterfactual-unit-test and label-invariance comparison, and the
   cross-model synthesis. The word
@@ -5451,6 +6102,12 @@ what survives.
   beneficiary, sacrifice, correction, stopping, and trajectory. The analogy
   identifies a possible wrapper–service divergence; positive language, nonhuman
   standing, posthumanism, intervention, or adverse effect does not establish it.
+- **Gift-wrapped control:** a control capability shown inside the box before
+  anti-terrorism or child protection is selected as wrapping pictures the
+  control-first hypothesis and the moral-wrapper invariance test. The image
+  directs chronology and functional-fit inquiry; it does not prove that control
+  came first, that protection was insincere, or that media, government, and one
+  hidden controller coordinated.
 - **Quantum umbrella:** Hidden local cultural processing can become observable as
   statistical, macroscopic collective order; the relevant scientific family is
   broader than quantum mechanics.
@@ -5460,6 +6117,12 @@ what survives.
 - **Physical family:** Field back-action explains reciprocity, laser synchronization
   dynamic coherence, magnetization durable alignment, and domains persistent
   boundaries.
+- **Crystallization family:** Nucleation pictures the transition from dispersed
+  compatibility to mutually visible coordination; crystal growth pictures
+  replication beyond the first core; annealing pictures renewed plasticity under
+  stress; and alloying pictures a successor order changed by rival contributions.
+  These are controlled images for separately defined trunk concepts, not social
+  laws derived from materials science.
 - **Whole-formation model:** The dotted-semiconductor picture joins population
   lattice, distributed carriers of the trusted-opinion-leader function, common
   field, centralized or distributed directing function, and reciprocal
@@ -5509,6 +6172,10 @@ what survives.
   witnessed practice, exemplars, honour, bounded civic shame, and protected
   challengers; paper compliance and unbounded mob morality are opposite failure
   modes.
+- **Role-interface failure boundary:** Reliable performance under a role can
+  indicate successful structural support or role engulfment in which authorship,
+  refusal, responsibility, and human standing have been consumed.
+  Performance alone does not distinguish the two.
 - **Cultural-immune-system model:** Distributed cultural self-maintenance can
   preserve, repair, adapt, close, become captured, misclassify sustaining
   structures, or fail. Dissent and difference are not pathogens, and defensive
@@ -5537,10 +6204,21 @@ what survives.
   prove Shadow-Sovereign rule, one helmsman, conspiracy, foreign occupation, or
   *Machtpolitik*.
 - **Favour-bank-cloud model:** Cultivation + favour + implicit debt + withdrawal
-  + third-party routing + recruitment can model distributed scaling through
-  locally intelligible obligations without one shared map. The model does not
-  make ordinary reciprocity into grooming or establish one coordinator, a
+  + third-party routing + possible hierarchical placement + recruitment can
+  model distributed scaling through locally intelligible obligations without one
+  shared map. The two evidential routes keep a directly joined episode separate
+  from a circumstantially supported system-level profile. Adaptive concealment
+  predicts deniable requests, socially remembered obligations, formally
+  independent nodes, and ordinary administrative returns; paper safeguards gain
+  defeater weight only through consequential exercise and structural
+  independence. The model does not identify one coordinator, a
   *Kommandoagent*, Shadow-Sovereign rule, conspiracy, or *Machtpolitik*.
+- **Pseudomorph--boundary-crossing-transfer model:** Retained mineral form maps
+  to persistent institutional identity under changed governor; actual transfer,
+  succession, replication, appeal, handover, or capability performance maps to
+  an independently controlled test that materializes hidden state.
+  The mapping neither makes institutions minerals nor permits a transfer failure
+  to prove hostile substitution, favour-bank operation, actor guilt, or intent.
 - **Pied-Piper/Stolen-Future model:** A beautiful tune can stand for immediate
   relief or symbolic reward, the procession for synchronized judgment, and the
   lost children for foreclosed possible selves and posterity; recognition,
@@ -5566,12 +6244,19 @@ what survives.
   shared lifted-solidarity surface; cultural interoperability breakdown
   (Babelization) occurs below the anti-Babel floor without implying that local
   solidarity or slot occupancy disappeared.
-- **Durkheim synthesis:** Mechanical solidarity resembles laser synchronization;
-  organic solidarity resembles clockwork coordination; collective effervescence
-  can renew the common moral protocol enabling differentiated work. Durkheim's
-  1890 revolutionary testimony supports inquiry into preparation,
+- **Durkheim synthesis:** Mechanical-solidarity field formation or renewal
+  resembles laser synchronization; organic differentiation resembles clockwork
+  coordination; and Durkheimian organic solidarity is retained as his source
+  composite while Culture Mechanics interprets its common binding force as
+  lifted mechanical solidarity. Collective effervescence can renew the common
+  moral protocol enabling differentiated work. Durkheim's 1890 revolutionary
+  testimony supports inquiry into preparation,
   sacralization, mass activation, and remanence without establishing the
   resonance-catastrophe mechanism.
+- **Cross-scale duplex homomorphy:** The main-CPU--local-bigOther relation is
+  mapped to the clockwork-activity--lifted-distributed-bigOther relation. This is
+  a controlled relation across levels, not a claim that society is one enlarged
+  person, that the field is an aggregate, or that collective agency is present.
 - **Solidarity provenance:** The legal *in solidum* lineage makes corporate
   implication and whole-obligation solidarity useful analytical layers, but it
   neither exhausts later meanings nor redefines Durkheim's sociological
@@ -5670,7 +6355,7 @@ what survives.
   succession, correction, and return scripts rather than abstract allegiance
   alone.
 - **Conflict translation:** Counter-narratives are not analytically noise.
-  Minoguean ideological conflict maps most directly to ideological-form conflict
+  Minoguean ideological conflict maps most directly to propagative conflict
   and rival-signal suppression.
 - **Final boundary:** Similarity guides attention and hypothesis formation; it does
   not erase human reflexivity, establish causation, or license physical identity.

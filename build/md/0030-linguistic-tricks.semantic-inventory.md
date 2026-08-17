@@ -47,6 +47,8 @@ contextual manipulation, or corruption of the dialogue itself. This does not
 make every use of rhetoric, framing, conceptual innovation, ambiguity, or a
 fallacious argument intentionally deceptive.
 
+<a id="instrumental-untruthfulness-as-a-communicative-orientation"></a>
+
 ### Instrumental untruthfulness as a communicative orientation {#instrumental-untruthfulness-as-a-communicative-orientation}
 
 The analytical umbrella recovered during source development is **instrumental
@@ -151,6 +153,8 @@ un-reason, un-reality, organized un-reality, and systemic lying. None of those
 later stages follows from transmission or sincere belief alone, and each arrow
 requires separate evidence.
 
+<a id="introductory-epistemic-architecture"></a>
+
 ### Where linguistic tricks sit in the epistemic architecture {#introductory-epistemic-architecture}
 
 The inventory begins at the observable communicative surface, but its entries
@@ -168,11 +172,18 @@ keeps six different kinds of object distinct:
 | **Organized un-reality** | Installed multi-channel stock | Requires fitted human, linguistic, symbolic, incentive, record, and institutional channels. |
 | **Systemic-lying epistemic constitution** | Constitutional meta-order | Recurrently generates, selects, authorizes, protects, and replaces organized un-reality. |
 
-[The theoretical *un-* operator](0030-epistemic-constitution.semantic-definition.md#theoretical-un-operator)
-supplies the common construction behind *un-reason* and *un-reality*: the form,
-machinery, and authority-position of X remain, while a substituted governing
-principle redirects them toward a function ordinary X would reject. This does
-not make every *un-* word an instance of that restricted theoretical operator.
+[The theoretical *un-* family](0030-epistemic-constitution.semantic-definition.md#theoretical-un-operator)
+supplies the broader internal-deformation construction behind *un-reason* and
+*un-reality*.
+Its [constitutive-relation-inversion
+morphology](0030-epistemic-constitution.semantic-definition.md#constitutive-relation-inversion)
+specifies their direct reversal of epistemic answerability.
+[Pseudomorphic governor
+substitution](0030-epistemic-constitution.semantic-definition.md#pseudomorphic-governor-substitution)
+is the separate, thicker bearer-level morphology and is not established by a
+linguistic trick, un-reason, or un-reality alone.
+This does not make every *un-* word an instance of the restricted theoretical
+family.
 
 The possible sequence is conditional rather than a mandatory ladder:
 
@@ -333,6 +344,58 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Status:** Established propaganda family; also a bridge from individual speech acts to systemic lying.
 - **Project provenance:** Source details withheld from this publication.
 
+<a id="lt-047-wall-of-text-obfuscation"></a>
+
+#### LT-047 — Wall-of-text obfuscation {#lt-047-wall-of-text-obfuscation}
+
+- **Aliases:** discursive burial; qualification flooding; context flooding;
+  originating German formulation *Textschwall als Verschleierung*.
+- **Operation:** Surround a principal claim, finding, correction, or consequence
+  with a disproportionate volume of context, caveats, remote possibilities,
+  repetitions, procedural detail, and superficially balancing considerations
+  until the reader can no longer recover the hierarchy of importance.
+  The text may contain many individually true, relevant, or defensible sentences
+  while its organization conceals what the evidence principally establishes.
+- **Integrity:** II, RI, CI, DI.
+- **Characteristic sequence:**
+
+  ```text
+  clear central finding
+  → every possible qualification and side issue receives foreground space
+  → decisive and remote considerations appear co-equal
+  → attention and working memory are consumed
+  → the reader retains complexity, uncertainty, or fatigue
+    rather than the evidence-weighted result
+  ```
+
+- **Diagnostic:** State the text's principal finding, decisive evidence,
+  necessary qualifications, and bounded conclusion in a short hierarchy.
+  Then ask whether the original makes that hierarchy easier or harder to see;
+  whether rival explanations receive space proportionate to their evidence and
+  materiality; whether a qualification changes the conclusion or merely proves
+  that another possibility can be imagined; and whether secondary detail could
+  be routed later without loss of evidential discipline.
+- **Boundary:** Length, completeness, multiple rivals, technical detail, or
+  extensive qualification do not by themselves instantiate the operation.
+  A long analysis may be necessary for reconstruction and accountability.
+  The warning applies when volume and placement predictably bury the principal
+  result or falsely flatten the evidential hierarchy.
+  Compression becomes a different defect when it removes material evidence,
+  serious rivals, uncertainty, non-inferences, or defeaters.
+- **Relation to LT-006:** Information flooding primarily overloads verification
+  through the number and speed of messages or claims.
+  Wall-of-text obfuscation primarily overloads orientation within a text by
+  denying the reader a usable hierarchy of decisional relevance.
+  One deployment can contain both.
+- **Attribution boundary:** Diagnose the communicative form before inferring
+  design.
+  Weak editing, defensive completeness, specialist habit, unresolved thought,
+  or fear of criticism can produce the same surface form.
+  Deliberate concealment requires separate evidence.
+- **Status:** Project-developed normalization from the originating author's
+  *Textschwall als Verschleierung* criticism and the present reader-edition
+  workflow.
+
 ### B. Meaning, implication, and framing
 
 #### LT-007 — Equivocation and private-definition escape
@@ -349,6 +412,20 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Integrity:** MI, DI.
 - **Examples of form:** “True freedom is obedience”; expanding a grave term so that minor or disputed cases inherit its moral force.
 - **Project provenance:** Source details withheld from this publication.
+- **External source bridge:** In [*totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf)
+  (2002), “Marsch durch die Definitionen,” pp. 127–128, Roland Baader
+  describes the semantic hollowing of terms followed by their “occupation”
+  through reinterpretation.
+  The immediately preceding section, “Verrat der Intellektuellen,” pp. 124–126,
+  explicitly treats Benda's *La trahison des clercs* and connects moral
+  immunization against facts and politically amplified intellectual authority to
+  the later semantic method; [*Epistemic Constitution*, “Benda's truth--utility
+  bridge”](0030-epistemic-constitution.semantic-definition.md#bendas-truth-utility-bridge)
+  preserves the distinct vocation-level source relation.
+  His formulation supplies a source-attested neighbour for persuasive
+  redefinition and possible core displacement; it does not by itself establish
+  manipulation, intent, un-reason, un-reality, Babelization, or institutional
+  uptake in any named case.
 
 #### LT-009 — Doublespeak and euphemistic inversion
 
@@ -357,7 +434,9 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Integrity:** MI, CI, SI.
 - **Project provenance:** Source details withheld from this publication.
 
-#### LT-042 — Newspeak-style vocabulary restriction
+<a id="lt-042-newspeak-style-vocabulary-restriction"></a>
+
+#### LT-042 — Newspeak-style vocabulary restriction {#lt-042-newspeak-style-vocabulary-restriction}
 
 - **Source term:** **Newspeak**, from [George Orwell's *Nineteen
   Eighty-Four*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/).
@@ -392,6 +471,8 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Integrity:** II, RI; sometimes MI.
 - **Boundary:** Framing is unavoidable; the trick lies in concealing consequential selections, excluding rival frames, or presenting a contestable frame as reality itself.
 - **Project provenance:** Source details withheld from this publication.
+
+<a id="lt-043-pseudo-metric-predication"></a>
 
 #### LT-043 — Pseudo-metric predication {#lt-043-pseudo-metric-predication}
 
@@ -450,9 +531,11 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Related operations:** LT-040 supplies the recognition cues of assessment
   without the corresponding function; LT-010 can presuppose that a relevant
   threshold has been crossed; LT-008 can transfer the authority of a valued term;
-  LT-011 can hide competing dimensions and trade-offs; and LT-041 can conceal
-  the implementing powers and sacrifices. When observed or predicted *change* is
-  called *deterioration*, the [Hanekamp--Wegner
+  LT-011 can hide competing dimensions and trade-offs; LT-041 can conceal
+  the implementing powers and sacrifices; and LT-045 applies when a real later
+  model exists but its output is presented as observed confirmation that an
+  earlier prediction came true. When observed or predicted *change* is called
+  *deterioration*, the [Hanekamp--Wegner
   bridge](0040-mythology-construction.semantic-definition.md#change-deterioration-moral-appraisal)
   tests the intervening relevant-structure and moral-appraisal step; the word is
   not pseudo-metric merely because it is evaluative.
@@ -479,6 +562,78 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
   communicative operation, not a finding about any phrase, field, speaker, or
   institution merely because measurement language is used.
 
+<a id="lt-045-model-to-reality-laundering"></a>
+
+#### LT-045 — Model-to-reality laundering {#lt-045-model-to-reality-laundering}
+
+- **Aliases:** forecast-as-outcome substitution; prediction-validation
+  laundering; prediction-as-measurement substitution.
+- **Operation:** Give the output of a later model the evidential status of an
+  observed fulfilment of an earlier model's prediction. Words such as
+  *confirmed*, *validated*, *vindicated*, or *borne out* then move the audience
+  from agreement among calculations to the belief that the predicted event or
+  outcome was measured in reality.
+- **Elementary rule:** **Models make predictions. Reality tests them. A later
+  prediction must not be presented as the observed fulfilment of an earlier
+  one.**
+- **Operation sequence:**
+
+  ```text
+  earlier model predicts outcome X
+  → reality should eventually test whether X occurred
+  → later model also calculates X
+  → agreement is described as confirmation or validation
+  → model agreement acquires the status of observed reality
+  → the earlier prediction escapes its outcome test
+  ```
+
+- **Integrity:** TI, II, MI, DI, XI.
+- **Diagnostic:** Recover the original prediction's population or case, outcome,
+  interval, uncertainty range, and stated causal route. Then identify what the
+  later source actually supplies: an observation of that outcome, a
+  re-estimation, an updated forecast, a scenario, a back-test, or another model
+  using partly shared assumptions. State separately what was measured, what was
+  calculated, what assumptions were carried forward, and which evidential status
+  the public wording assigns to each.
+- **Boundary:** A later model may legitimately strengthen or weaken confidence in
+  an earlier prediction, especially when it uses independent data or methods.
+  Agreement among models can be evidence of robustness, but it is not by itself
+  evidence that the predicted outcome occurred. A nowcast, data-assimilation
+  system, or model-based estimate can incorporate observations; classify its
+  measured and model-derived components precisely rather than treating the whole
+  output as either direct observation or mere speculation. Loose wording or an
+  honest category mistake establishes neither an operative trick nor deliberate
+  deception.
+- **Relations:** LT-007 can shift *confirmation* between model agreement and
+  empirical fulfilment; LT-040 can supply the cues of scientific validation
+  without its outcome-testing function; LT-037 covers false representation of
+  evidential standing; and LT-043 covers measurement-like verdicts for which no
+  stable ruler may exist. LT-045 is the narrower case in which a real later model
+  exists but its output is laundered across the model--reality boundary.
+- **Report-to-reality relation:** This operation is a model-specific sibling of
+  [report-to-reality
+  laundering](0030-epistemic-constitution.semantic-definition.md#report-to-reality-laundering-and-endogenous-observation).
+  The latter turns outputs of a reporting apparatus into independently
+  established reality without testing the intervening transformations; LT-045
+  turns a calculated output into observed fulfilment without testing the
+  predicted outcome.
+- **Un-reality relation:** LT-045 can supply a linguistic front end for
+  un-reality, but a phrase or single substitution does not establish un-reason,
+  operative un-reality, systemic lying, or design. The stronger classification
+  requires evidence that the model-derived representation acquires practical
+  authority and remains protected when outcome evidence should correct it.
+  Recurrent institutional selection after the distinction has been made explicit
+  can support an inference of operative instrumental untruthfulness or correction
+  resistance; deliberate design still requires separate actor-level evidence.
+- **General-mechanism relation:** [*Epistemic Constitution*, “Model-mediated
+  mandates and prediction
+  exposure”](0030-epistemic-constitution.semantic-definition.md#model-mediated-mandates-and-prediction-exposure)
+  owns the model-versus-measurement rule and the full correction audit. This
+  inventory owns the observable communicative substitution.
+- **Status:** Project-developed communicative operation extracted from the
+  model-versus-measurement revision. It does not classify any model, prediction,
+  publication, speaker, or institution without separate case evidence.
+
 #### LT-012 — Outcome relabeling
 
 - **Aliases:** terminus relabeling; “true X” maneuver; procedural-value substitution.
@@ -486,12 +641,32 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Integrity:** MI, DI, LI.
 - **Project provenance:** Source details withheld from this publication.
 
-#### LT-013 — Benevolent-language camouflage
+<a id="lt-013"></a>
+
+#### LT-013 — Benevolent-language camouflage {#lt-013}
 
 - **Aliases:** care-speak; safety camouflage; coercion-as-care; convenience rhetoric.
-- **Operation:** Describe expanding control, penalties, dependence, or loss of exit in the language of care, concern, safety, support, and convenience, thereby borrowing benevolent intent as a shield against structural examination.
+- **Operation:** Describe expanding control, penalties, dependence, observation,
+  reporting, or loss of exit in the language of care, concern, safety, support,
+  vigilance, responsibility, and convenience, thereby borrowing benevolent intent
+  as a shield against structural examination. The language can also recruit a
+  morally creditable actor-role: reporting becomes proof of civic concern, while
+  restraint or procedural criticism risks appearing indifferent to the protected
+  person or good.
 - **Integrity:** MI, II, LI.
-- **Boundary:** Benevolent language is not evidence of concealed coercion. The diagnostic is whether contestability, reversibility, and exit disappear behind it.
+- **Diagnostic:** Compare the favourable action-name and actor identity with the
+  installed function, custody, burdens, sanctions, contestability, reversibility,
+  exit, and consequences. Keep *reporting*, *alleging*, *verifying*, and
+  *adjudicating* distinct; ask whether moral credit from the end or reporter role
+  has spilled into epistemic credit for the resulting record.
+- **Boundary:** Benevolent language is not evidence of concealed coercion, false
+  reporting, or bad faith. Care, safety, and confidential reporting can name real
+  goods. The diagnostic is whether the wording prevents the operation from being
+  classified and corrected by what it actually does.
+- **Ecology relation:** [The moralized observation-to-mandate
+  loop](0040-mythology-construction.semantic-definition.md#moralized-observation-to-mandate-loop)
+  owns the complete role grammar; this entry owns only the local communicative
+  camouflage and recruitment operation.
 - **Project provenance:** Source details withheld from this publication.
 
 #### LT-014 — Dog-whistle double address
@@ -516,6 +691,8 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Integrity:** RI, II; sometimes MI.
 - **Boundary:** This can emerge collectively without a designing speaker; it is therefore also a culture mechanism, not only a deliberate trick.
 - **Project provenance:** Source details withheld from this publication.
+
+<a id="lt-044-deconstructive-reversal"></a>
 
 #### LT-044 — Deconstructive reversal {#lt-044-deconstructive-reversal}
 
@@ -571,6 +748,118 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
   Mechanics developments. The remembered formulation is a source lead, not a
   verified quotation from Derrida.
 
+<a id="semantic-ballooning-and-core-displacement"></a>
+
+#### Staged mechanism — Semantic ballooning and core displacement {#semantic-ballooning-and-core-displacement}
+
+- **Operation:** Expand a morally or legally charged category far beyond its
+  inherited prototype before relocating its practical center, so new or lesser
+  cases inherit emotional force, institutional attention, or sanctions built for
+  the old severe case.
+- **Sequence:**
+
+  ```text
+  inherited prototype with strong favourable or condemnatory force
+  → semantic ballooning into previously unoccupied cases
+  → inherited-force transfer to the enlarged category
+  → threshold flattening across unlike severities
+  → prototype migration toward the newly emphasized cases
+  → core displacement or practical essence replacement
+  ```
+
+- **Temporal variants:** Expansion can precede institutional uptake, or a
+  severe sanction can first be authorized while the category remains narrowly
+  anchored in an undisputed grave prototype. If the category later balloons and
+  sanction-bearing institutions adopt the enlarged meaning, the new cases can
+  inherit coercive capacity whose original authorization depended on the old
+  center. This sanction-first sequence is a chronology to audit, not evidence
+  that every severe penalty was enacted in anticipation of later redefinition.
+- **Diagnostic:** Reconstruct the category at successive dates; identify its
+  inherited prototype, constitutive mechanism, severity threshold, typical
+  example, evidence standard, remedy, and sanction. Then ask which new cases
+  entered, whether internal distinctions survived, which example now anchors
+  public understanding, and whether sanction-bearing institutions adopted the
+  enlarged meaning. Compare competence, attention, protection, and enforcement
+  at the inherited center with vigilance and sanction at the expanding
+  perimeter. Strong perimeter vigilance alongside weak recognition or
+  protection of the severe center is a priority and category-custody warning,
+  not by itself proof of semantic replacement, selective enforcement, or
+  anarcho-tyranny.
+- **Legal-uptake boundary:** Semantic movement alone does not transfer legal
+  punishment. Legislation, adjudication, administration, employment, licensing,
+  professional discipline, or another institution must attach a burden to the
+  changed category. [Anarcho-tyranny](0060-culture-program-ecology.semantic-definition.md#anarcho-tyranny-advanced-willkur)
+  owns that institutional-uptake and selective-activation question.
+- **Sparse worked application:** The
+  [Fernandes–HateAid–Hubig–ARD
+  episode](0060-culture-program-ecology.semantic-definition.md#fernandes-hateaid-hubig-ard-sparse-case)
+  tests whether “virtual rape” and “digital violence” transferred the force of
+  severe embodied prototypes into a broader representational category and a
+  prepared legal programme. It preserves the separate legal-uptake gate and does
+  not infer equivalence, replacement, or selective activation from rhetoric
+  alone.
+- **Legitimate-development boundary:** A concept can properly broaden when the
+  new cases share the relevant mechanism and the vocabulary preserves
+  distinctions of degree, evidence, culpability, remedy, and sanction. Expansion
+  is not core displacement merely because an old term gains an unfamiliar
+  application.
+- **Relations:** LT-008 supplies inherited-force transfer; LT-044 can move a new
+  case from periphery to center; LT-013 can moralize the enlarged category; and
+  LT-041 can conceal the changed threshold, enforcement machinery, and discarded
+  prototype. The staged mechanism is not reducible to any one of them.
+- **Integrity:** MI, II, DI; sometimes RI or LI.
+- **Status:** Project-developed compound mechanism reconstructed from the
+  originating discussion's “balloon before replacement” sequence. The
+  sanction-first variant and inherited-center/expanding-perimeter comparator are
+  further project developments from the same discussion. The mechanism does not
+  claim that every contested use of *abuse*, *violence*, *genocide*, *safety*,
+  *freedom*, or another high-force word performs the operation.
+
+<a id="projective-consensus-and-custodial-completion"></a>
+
+#### Staged mechanism — Projective consensus and custodial completion {#projective-consensus-and-custodial-completion}
+
+- **Operation:** A positively charged signifier loses enough particular content
+  to let heterogeneous participants project different compatible goods into it;
+  their overlapping assent appears to form a substantive consensus; an
+  authorized custodian later supplies the executable meaning, thresholds,
+  remedies, and exceptions.
+- **Sequence:**
+
+  ```text
+  particular term yields much of its determinate content
+  → heterogeneous participants project desired goods into it
+  → shared token produces apparent coalition agreement
+  → custodian translates the token into classifications and action
+  → discretion migrates from participants to interpreter
+  ```
+
+- **Source boundary:** Ernesto Laclau's [“Why Do Empty Signifiers Matter to
+  Politics?”](https://moodle2.units.it/pluginfile.php/587806/mod_resource/content/1/Ernesto%20Laclau%2C%20%E2%80%9CWhy%20do%20Empty%20Signifiers%20Matter%20to%20Politics%3F%E2%80%9D%2C%20in%20Emancipation%28s%29%2C%20London-%20New%20York%2C%201996%2C%20pp.%2036-46..pdf)
+  supplies the precursor account in which a particular signifier can represent a
+  larger heterogeneous whole or absent fullness. **Projective consensus** and
+  **custodial completion** are the project's operational additions.
+- **Diagnostic:** Ask what each coalition member believed the token committed
+  them to, what remained unspecified, who acquired authority to complete it,
+  which operational meaning was selected, whether reasonable participants could
+  foresee it, and whether they retain refusal, appeal, and revision after
+  completion.
+- **Boundaries:** Empty does not mean meaningless, fraudulent, or merely vague.
+  Political and constitutional language must compress heterogeneous purposes.
+  The hazard arises when projected agreement is counted as authorization for an
+  implementation that participants did not jointly specify and cannot later
+  correct. The mechanism establishes neither conscious deception nor one hidden
+  ruler.
+- **Relations:** LT-007 exploits incompatible meanings during exchange; LT-008
+  actively redefines; semantic ballooning enlarges category extension;
+  projective consensus instead builds coalition breadth through underdeterminate
+  positive meaning. A master signifier can carry the token, and later
+  institutional use can contribute to objective substitution or pseudomorphic
+  governor substitution, but neither follows from the communicative stage alone.
+- **Primary semantic home:** [*Mythology Construction*, “Projective consensus,
+  custodial operationalization, and governing-centre
+  displacement”](0040-mythology-construction.semantic-definition.md#projective-consensus-and-custodial-operationalization).
+
 ### C. Diversion and corruption of discussion
 
 #### LT-017 — Quibbling and irrelevant precision
@@ -595,6 +884,62 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Integrity:** RI, DI, TI.
 - **Related but distinct:** ad hominem, genetic fallacy, motive fallacy, presupposition smuggling.
 - **Project provenance:** Source details withheld from this publication.
+
+<a id="lt-046-civility-shield"></a>
+
+#### LT-046 — Civility shield {#lt-046-civility-shield}
+
+- **Aliases:** tone-to-credibility inversion; civility-as-truth cue; rhetorical
+  style tax; tone-policing redirection.
+- **Operation:** Give calm, polished, professional, or institutional language an
+  evidentiary or exculpatory bonus while treating anger, satire, cynicism,
+  colloquial language, or polemic as evidence against the speaker's proposition.
+  Attention thereby moves from the alleged conduct and supporting evidence to the
+  messenger's manner, and the effects of a long correction struggle can be used
+  to discredit the person carrying the correction.
+- **Operation sequence:**
+
+  ```text
+  power communicates through polished institutional form
+  → a materially burdened corrector speaks sharply or polemically
+  → style is treated as evidence of credibility or character
+  → the corrector rather than the proposition becomes the object of scrutiny
+  → the underlying claim escapes examination
+  ```
+
+- **Integrity:** RI, DI, II, XI.
+- **Diagnostic:** Restate the proposition without its rhetorical vehicle;
+  separate factual claim, evidence, uncertainty, mechanism hypothesis, moral
+  judgment, and style; then ask whether the response changes the proposition's
+  evidential status or merely changes the audience's attitude toward its carrier.
+  Apply the same test when polished institutional language creates an unearned
+  presumption of competence, independence, truth, or benevolence.
+- **Boundary:** Tone can matter. Threats, targeted abuse, defamation, factual
+  imprecision, obscurity, and rhetorical exaggeration can require criticism or
+  reduce the reliability of a particular assertion. Nor does outsider status,
+  personal cost, anger, or polemic prove sincerity or truth. LT-046 applies when
+  style substitutes for claim-level examination or receives evidentiary force it
+  does not possess, not whenever manner affects clarity, safety, or dialogue.
+- **Relations:** LT-018 redirects from proposition to style; LT-019 explains the
+  speaker instead of testing the thesis; LT-039 converts a signal into a
+  character accusation; and LT-040 can let the cues of institutional
+  professionalism substitute for truth-supporting function. The civility shield
+  is the asymmetric style-and-source-position configuration joining those
+  operations.
+- **Epistemic-constitution relation:** [*Epistemic Constitution*, “Epistemic
+  stewardship and responsible
+  amplification”](0030-epistemic-constitution.semantic-definition.md#epistemic-stewardship-and-responsible-amplification)
+  owns source-form neutrality, responsible claim decomposition, and the boundary
+  against treating costly dissent as truth. This inventory owns the observable
+  communicative substitution.
+- **Un-reality relation:** The shield can impair correction by preventing an
+  evidenced proposition from receiving consideration, but its presence alone
+  establishes neither un-reason, operative un-reality, systemic lying, nor actor
+  design. Those stronger classifications retain their separate gates.
+- **Status:** Project-developed operation extracted from the Loki-prior
+  discussion and normalized beyond its originating case. It classifies no source,
+  speaker, institution, or controversy merely because one side speaks more
+  sharply than another.
 
 #### LT-020 — Standpoint substitution
 
@@ -711,7 +1056,9 @@ The heuristic contains several increasingly specific phenomena:
 - **Integrity:** II, RI, SI.
 - **Project provenance:** Source details withheld from this publication.
 
-#### LT-032 — Reality-free escalation of invective
+<a id="lt-032-reality-free-escalation-of-invective"></a>
+
+#### LT-032 — Reality-free escalation of invective {#lt-032-reality-free-escalation-of-invective}
 
 - **Original coined label:** *political Tourette syndrome*.
 - **Project-developed mechanism name:** **projective-vandalism circuit**.
@@ -748,7 +1095,7 @@ The heuristic contains several increasingly specific phenomena:
   confession by itself. The target classification and any projection hypothesis
   require independent evidence. See the
   [Attribution-Source
-  Asymmetry](0060-culture-program-ecology.semantic-definition.md#165-attribution-source-asymmetry-and-cross-audience-audit).
+  Asymmetry](0060-culture-program-ecology.semantic-definition.md#attribution-source-asymmetry-and-cross-audience-audit).
 - **Motivational status:** The surplus-jouissance interpretation is a proposed
   mechanism, not an observation licensed by vocabulary alone. Strategic
   signaling, anger, conformity, media incentives, and ordinary reputation
@@ -806,7 +1153,9 @@ The heuristic contains several increasingly specific phenomena:
   Mechanics*](0010-culture-mechanics.semantic-definition.md); they are not reduced
   here to a linguistic trick.
 
-#### LT-040 — Cue–function substitution (*Wie–Was manipulation*)
+<a id="lt-040"></a>
+
+#### LT-040 — Cue–function substitution (*Wie–Was manipulation*) {#lt-040}
 
 - **Source term:** Dushan Wegner's *Wie–Was-Manipulation* in *Relevante
   Strukturen* (2019).
@@ -820,9 +1169,11 @@ The heuristic contains several increasingly specific phenomena:
 - **Integrity:** MI, II, RI; sometimes SI.
 - **Examples of the general form:** visible moral vocabulary without the
   corresponding conduct; credentials or institutional form without the claimed
-  function; symbolic compliance that substitutes for the result the symbol is
-  supposed to indicate; camouflage or decoys that elicit a learned recognition
-  response.
+  function; an orderly portal, taxonomy, dashboard, case number, database, or
+  professional report whose administrative finish is taken as proof that inputs
+  were authenticated or cases verified; symbolic compliance that substitutes for
+  the result the symbol is supposed to indicate; camouflage or decoys that elicit
+  a learned recognition response.
 - **Diagnostic:** Specify the claimed category and its constitutive function,
   list the cues that activated recognition, inspect actual operation and
   consequences, and observe what happens when cue and function are compared
@@ -837,8 +1188,15 @@ The heuristic contains several increasingly specific phenomena:
   here as a cross-domain diagnostic. It overlaps benevolent-language camouflage,
   ideological symbols, paramorality, and qualified-concept inversion without
   being reducible to any one of them.
+- **Reporting-loop relation:** The administrative-form subtype can reinforce the
+  [moralized observation-to-mandate
+  loop](0040-mythology-construction.semantic-definition.md#moralized-observation-to-mandate-loop),
+  but professional appearance alone establishes neither invalid data nor
+  manipulation.
 
-#### LT-041 — Doctrinal causal omission
+<a id="lt-041-doctrinal-causal-omission"></a>
+
+#### LT-041 — Doctrinal causal omission {#lt-041-doctrinal-causal-omission}
 
 - **Aliases:** semantic-wrapper / operational-payload concealment; undisclosed
   implementation; CPU–bigOther split address.
@@ -856,6 +1214,13 @@ The heuristic contains several increasingly specific phenomena:
   Ask whether disclosure would predictably change reasonable assent.
 - **Responsibility gradient:** intentional concealed construction → knowing
   omission → reckless omission → negligent blindness → unforeseeable emergence.
+- **Offspring-responsibility routing:** A related causal-story operation can
+  leave the material sequence intact while moving programme-amplified harm from
+  purpose or policy into mistake, impersonal mechanism, accident, nature, or an
+  enemy. The audit asks whether the programme created, amplified, prolonged,
+  scaled, or prevented correction of the consequence before accepting the new
+  grammatical subject. This is not proof of intentional design and does not
+  replace quantitative causal decomposition.
 - **Boundary:** No finite doctrine can state every causal consequence, and social
   effects often emerge without a designer. A wrapper–payload mismatch establishes
   a question, not a lie. The stronger verdict **doctrinal lying by omission**
@@ -874,11 +1239,43 @@ The heuristic contains several increasingly specific phenomena:
 
 ### E. Agenda, representation, and policy coupling
 
-#### LT-034 — Pretext trap of the harmful fix
+<a id="lt-034"></a>
+
+#### LT-034 — Pretext trap of the harmful fix {#lt-034}
 
 - **Original term:** *Vorwandfalle der Schadlösung*.
-- **Operation:** Use a real problem as the pretext for a preselected measure presented as its solution even though the measure foreseeably preserves or worsens that problem.
-- **Component operations:** Problem surfing, a causal story serving as a pretextual bridge, argumentative coupling, and concealment of the harmful or placebo character of the remedy.
+- **Operation:** Use a real, exaggerated, selected, or apparently evidenced problem
+  as the pretext for a preselected measure presented as its solution even though
+  the measure does not address the demonstrated cause and may foreseeably preserve
+  or worsen the problem. A true event can be the bait without establishing
+  frequency, priority, or remedy fit.
+- **Component operations:** Problem surfing; capture of scarce attention; a causal
+  story serving as a pretextual bridge; argumentative coupling; possible
+  report-to-reality or salience laundering; and concealment of the ineffective,
+  misdirected, harmful, or placebo character of the remedy.
+- **Recursive subtype:** The measure enlarges observation, intake, classification,
+  or enforcement; the enlarged apparatus produces more recorded instances; and
+  the new records are presented as proof that the original problem and measure
+  were necessary. This is not self-disproof, but it requires observation intensity
+  to be separated from underlying incidence.
+- **Diagnostic:** Establish the problem independently, compare its magnitude and
+  priority with displaced alternatives, reconstruct the remedy's causal target,
+  test narrower means and predicted outcomes, and ask whether the same capability
+  was selected before or persists after the offered rationale. The stronger
+  pretext claim requires chronology and actor-specific evidence; bad fit alone may
+  be error, path dependence, mixed purpose, or institutional inertia.
+- **Related mechanisms:** [Report-to-reality laundering and endogenous
+  observation](0030-epistemic-constitution.semantic-definition.md#report-to-reality-laundering-and-endogenous-observation),
+  [the moralized observation-to-mandate
+  loop](0040-mythology-construction.semantic-definition.md#moralized-observation-to-mandate-loop),
+  and [control-first moral-wrapper
+  selection](0060-culture-program-ecology.semantic-definition.md#control-first-moral-wrapper-selection).
+- **Sparse worked application:** The
+  [Fernandes–HateAid–Hubig–ARD
+  episode](0060-culture-program-ecology.semantic-definition.md#fernandes-hateaid-hubig-ard-sparse-case)
+  supplies the reconstructable chronology, case-load discontinuity, broader-
+  remedy comparison, correction test, and rival explanations needed to move
+  beyond simple bad-fit allegation.
 - **Integrity:** II, RI, TI, LI.
 - **Status:** User-selected term.
 - **Project provenance:** Source details withheld from this publication.
@@ -922,7 +1319,7 @@ condition, not a linguistic trick. Shared definition repair, trusted translation
 and legitimate common procedures can increase the effective thickness or span of
 lifted solidarity without requiring identical first-order meanings. [*Mythology
 Construction*, “Cultural interoperability and its breakdown
-(Babelization)”](0040-mythology-construction.semantic-definition.md#29-cultural-interoperability-and-its-breakdown-babelization)
+(Babelization)”](0040-mythology-construction.semantic-definition.md#cultural-interoperability-and-its-breakdown-babelization)
 defines that larger condition and its anti-Babel floor.
 
 ### Framing and conceptual engineering are not inherently dishonest
@@ -1033,7 +1430,7 @@ is independently supported, reciprocally tested, and permitted to lose.
 
 The inventory also keeps Orwell's two neighbouring mechanisms distinct.
 [**Newspeak-style vocabulary
-restriction**](#lt-042--newspeak-style-vocabulary-restriction) changes the
+restriction**](#lt-042-newspeak-style-vocabulary-restriction) changes the
 available symbolic repertoire. [**Doublethink**](0030-epistemic-constitution.semantic-definition.md#doublethink-as-a-narrower-contradiction-tolerance-mechanism)
 allows incompatible beliefs to coexist, remain compartmentalized, or switch with
 authority without their contradiction correcting the account. The former is a
@@ -1105,6 +1502,9 @@ The corresponding positive virtues are:
 15. When a new causal account explains adverse evidence away, require independent
     support, reciprocal testing, predictive exposure, and a declared condition
     under which that account would lose.
+16. Make the evidential hierarchy visible: state the principal finding, decisive
+    support, necessary qualifications, and bounded conclusion before routing
+    secondary context and remote possibilities into their proportionate place.
 
 The inventory's function is thus constitutional and formative: it helps individuals recognize and resist small acts of public untruthfulness, while their repeated resistance changes the public norm that subsequently forms other individuals.
 

@@ -86,7 +86,7 @@ such cultural formation rather than restating that practical method.
 > operative and alive.**
 
 The full semantic anatomy and its boundaries belong to [*Culture Program
-Ecology*](0060-culture-program-ecology.semantic-definition.md#137-systemic-skeleton-and-living-cultural-body).
+Ecology*](0060-culture-program-ecology.semantic-definition.md#systemic-skeleton-and-living-cultural-body).
 
 ### 2. Semantic anatomy of the term
 
@@ -129,7 +129,9 @@ the general rule from failure of its local adapter, enactment, interface, or
 resources; and, where standing and capacity permit, to interpret, repair, refuse,
 or help replace the script.
 
-#### Mechanical solidarity
+<a id="mechanical-solidarity"></a>
+
+#### Mechanical solidarity {#mechanical-solidarity}
 
 **Mechanical solidarity**, introduced by the French sociologist **Émile Durkheim** in [*De la division du travail social* (1893)](https://classiques.uqam.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html), is social cohesion produced through shared beliefs and sentiments and the felt moral authority of the collective consciousness. Durkheim contrasts it analytically with **organic solidarity**, which arises from differentiation, specialization, and interdependence in a division of labour.
 
@@ -177,7 +179,131 @@ Pluralism, division of labour, and bounded subordinate authority are therefore
 important possible consequences of lifting, not its definition. Nor must lifted
 authority be weak or local: a generator can have universal jurisdiction at its own
 level while the outputs and authorities it generates are particular and bounded.
-The cases and difficult classifications are developed in [§25](#25-examples-cases-and-boundary-tests).
+The cases and difficult classifications are developed in [§25](#examples-cases-and-boundary-tests).
+
+<a id="durkheimian-organic-solidarity-as-lifted-composite"></a>
+
+##### Durkheimian organic solidarity as a lifted composite {#durkheimian-organic-solidarity-as-lifted-composite}
+
+Durkheim's **organic solidarity** has a specific source meaning. A society is
+organized through differentiated organs with special functions and partially
+independent spheres of activity; persons are increasingly located through an
+occupational rather than a kinship milieu; and the organs become reciprocally
+dependent, including a central organ whose privileged position derives from its
+function and whose own dependence upon the others remains visible. Durkheim treats
+this division of labour as producing a form of social cohesion, not merely an
+economic substrate.
+
+Culture Mechanics preserves that source description while analytically
+decomposing its solidarity relation:
+
+```text
+Durkheimian organic solidarity
+             maps to
+organic differentiation / clockwork coordination
+                  +
+lifted mechanical solidarity
+```
+
+**Organic differentiation** names the topology of specialized roles, interfaces,
+handoffs, knowledge, and reciprocal material dependence. **Lifted mechanical
+solidarity** names the common binding force by which participants recognize the
+rules that constitute, allocate, constrain, and correct those differentiated
+roles. Functional interdependence alone can form a causal dependency chain; it
+does not by itself explain why strangers recognize contracts, offices,
+professional obligations, impartial procedures, or one another's standing as
+legitimate.
+
+A useful explanatory discriminator is the **profitable-and-unobserved deviation
+counterfactual**: if external detection, immediate sanction, and reputational
+consequence were credibly absent, would the obligation still govern because
+deviation is experienced as dishonourable or incompatible with the office or
+profession? Conduct that remains rule-bound under genuinely low-observation
+conditions supports an internalized impersonal-governor explanation more strongly
+than compliance only under direct surveillance. It does not isolate or prove the
+local-bigOther mechanism. Habit, uncertainty about discovery, long-horizon
+self-interest, private conviction, technical constraint, and misdescribed
+observation conditions remain rivals, while a person's hypothetical self-report
+is not equivalent to observed conduct.
+
+The project therefore proposes a stronger possible reinterpretation of
+Durkheim's historical transition:
+
+```text
+shared concrete classifications, roles, and answers
+                  ↓ lifting
+shared generator producing differentiated roles, duties, and answers
+```
+
+On this account, declining resemblance among visible first-order outputs need not
+mean that mechanically solidary commonality has weakened. Commonality may have
+moved into the less visible generator. Shared contract rules can generate
+millions of different contracts; constitutional rules can generate changing
+officeholders; scientific rules can generate divergent disciplines and revisable
+conclusions; and professional rules can generate different role-specific duties.
+This is a project-developed reinterpretive hypothesis, not Durkheim's own account
+and not proof of its historical prevalence.
+
+> **Organic differentiation weakens visible resemblance without necessarily
+> weakening solidarity; lifting relocates solidarity into the order that makes
+> differentiated action interoperable and mobilizable.**
+
+One important consequence is that **lifted solidarity can produce individual
+autonomy without ceasing to be solidarity**. The apparently autonomous actor on
+the ordinary “Newtonian” surface exercises a differentiated sphere whose
+property, contract, office, evidential, and correction relations may themselves
+be constituted and protected by the common lifted order. Diversity of action is
+therefore compatible with full common slot occupancy at the level of the
+generator.
+
+The same architecture permits [**affective-to-structural load
+transfer**](0010-culture-mechanics.semantic-definition.md#affective-to-structural-load-transfer).
+A professional rule may require little emotional arousal at each decision because
+formation, role expectations, peer judgment, records, audit, replication,
+sanctions, and succession already carry much of its conduct-directing load. “One
+simply does not falsify the result” can remain a quiet classification while
+governing work across distant strangers and generations. The resulting order can
+be weakly *beseelt* at most nodes yet structurally strong, broadly distributed,
+and reliable. This establishes neither collective-self presentation nor an
+operative multi-mind-self.
+
+At civilizational scale, the same mechanism produces the distinction among
+[**ambient affective coupling, latent structural coupling, and
+activation-conditioned coupling**](0010-culture-mechanics.semantic-definition.md#ambient-and-activation-conditioned-coupling).
+Low visible agreement or enthusiasm among differentiated persons may coexist with
+high latent coordination capacity when roles, standards, records, transport,
+communications, resource routing, and command or mission relations already form
+interoperable interfaces. A demanding common task can activate those interfaces
+and produce coherent output without erasing local judgment or requiring prior
+emotional unanimity. The order may therefore appear loose in ordinary life while
+remaining strongly mobilizable; realized mobilization still does not by itself
+establish subjecthood fusion, common private belief, or an operative
+multi-mind-self.
+
+The extended order also introduces an impersonal third position of
+accountability. An engineer, physician, judge, merchant, or officeholder can be
+answerable through a standard, profession, law, office, or conscience even when
+no concrete beneficiary is present to demand performance. Keep three positions
+distinct:
+
+- the **immediate evaluator or rule carrier** through which the duty is judged;
+- the **protected beneficiary**, often concrete known or unknown persons; and
+- the **ultimate principal** whose standing the order finally serves.
+
+The local bigOther makes the generalized evaluation affectively and practically
+operative; the distributed bigOther and its institutions reproduce it across
+persons and succession. A person-protecting lifted order can use impersonal
+accountability to protect strangers. Subjecthood absorption becomes possible
+when an institution or collective abstraction instead becomes the ultimate
+beneficiary and concrete persons become its instruments.
+
+This decomposition does not identify Durkheim's source distinction with the
+project's first-order--lifted axis. It types one important intersection. A family
+can use a lifted generator, a large polity can impose shared concrete answers,
+and differentiated activity can exist without a sufficiently common or
+corrigible lifted order. Organic differentiation and lifted solidarity can also
+co-develop and act back upon one another; the decomposition is not a claim that
+one historically creates the other in a single causal direction.
 
 #### Related distinction: Hyperculture and cultural essentialism
 
@@ -438,7 +564,9 @@ individual-to-field order: homo duplex supplies the local source and receiver;
 communication among many such persons produces an emergent organization; that
 organization then acts back upon the individuals who sustain it.
 
-#### Handoff from the individual architecture
+<a id="handoff-from-the-individual-architecture"></a>
+
+#### Handoff from the individual architecture {#handoff-from-the-individual-architecture}
 
 Seven constructs must remain distinct:
 
@@ -487,7 +615,9 @@ multi-mind-self**, **episodic multi-mind-self**, and **unitary ownership by the
 multi-mind-self** use the operative sense unless a passage explicitly says
 otherwise.
 
-#### Field formation and back-action
+<a id="field-formation-and-back-action"></a>
+
+#### Field formation and back-action {#field-formation-and-back-action}
 
 The originating physical analogy compares the local bigOther to a charged
 particle. A charged particle is a source of an electromagnetic field and is also
@@ -516,9 +646,10 @@ authoritative treatment of **ideological symbols**, **conformity signals**, and
 absence, refusal, substitution, imposition, or attribution can make conformity or
 target status publicly legible; the field mechanism here begins when other local
 bigOthers classify and answer that signal.
-Its private, collective, ideological-form, and fundamentalist program taxonomy,
-its separate jealousy and *Beseelung* axes, and its account of moralized character
-accusation are not repeated in this document.
+Its private, collective, ideological, and fundamentalist person--programme
+taxonomy, its separate outward propagation and enforcement profile, jealousy and
+*Beseelung* axes, and its account of moralized character accusation are not
+repeated in this document.
 
 The field is causally real within culture mechanics. It is implemented through
 persons, communication, institutions, practices, and artifacts, but its relational
@@ -540,7 +671,9 @@ These comparisons are explanatory pictures and hypothesis generators. The theory
 does not posit a social electromagnetic force, Maxwellian equations, or a physical
 identity between affective alignment and field physics.
 
-#### Laser synchronization, magnetization, and cultural domains
+<a id="laser-synchronization-magnetization-and-cultural-domains"></a>
+
+#### Laser synchronization, magnetization, and cultural domains {#laser-synchronization-magnetization-and-cultural-domains}
 
 The originating umbrella for this family is deliberately memorable:
 
@@ -652,7 +785,9 @@ relationship among the field, laser, magnet, clockwork, computing, and braiding
 pictures, see [*Analogical Models in Culture Mechanics: A Semantic
 Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md).
 
-#### Observability, cultural forgetting, and contemporary witnesses
+<a id="observability-cultural-forgetting-and-contemporary-witnesses"></a>
+
+#### Observability, cultural forgetting, and contemporary witnesses {#observability-cultural-forgetting-and-contemporary-witnesses}
 
 The analogy family carries a stronger historical hypothesis than periodic
 activation of an otherwise intact collective being:
@@ -777,7 +912,9 @@ region far from massive bodies. [*Analogical Models in Culture Mechanics: A
 Semantic Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md)
 places this limit inside the complete nested analogy.
 
-#### Activation profiles and episodic multi-mind-selves
+<a id="activation-profiles-and-episodic-multi-mind-selves"></a>
+
+#### Activation profiles and episodic multi-mind-selves {#activation-profiles-and-episodic-multi-mind-selves}
 
 Collective agency and momentary synchrony have different temporal profiles. A
 multi-mind-self can remain a continuing agent through records, roles, trained
@@ -872,13 +1009,13 @@ result performs the specified task accurately. A Kuramoto-style order parameter
 instantiate `E` where a target exists. Neither quantity defines a crowd mode or a
 form of solidarity, and MSE does not measure functional dependence. The full
 measurement note and its boundary cases are in [*Analogical Models in Culture
-Mechanics: A Semantic Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md#47-measurement-note-phase-alignment-and-task-error).
+Mechanics: A Semantic Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md#measurement-note-phase-alignment-and-task-error).
 
 The project-developed Durkheimian correspondence is:
 
 ```text
-mechanical solidarity ↔ laser synchronization
-organic solidarity    ↔ clockwork coordination
+mechanical-solidarity field formation or renewal ↔ laser synchronization
+organic differentiation                         ↔ clockwork coordination
 ```
 
 The compact relationship table prevents process, cohesion, durable state,
@@ -890,17 +1027,19 @@ organization, and meta-order from being treated as synonyms:
 | **Collective effervescence** | Intensified ritual or assembly experience | Resembles a laser moment and can carry its renewing work |
 | **Mechanical solidarity** | Cohesion through common classifications and sentiments | Can be produced or renewed by alignment and stabilized as durable field order |
 | **Magnetization** | Picture of durable aligned state, domains, and remanence | Stabilizes or preserves the orientation after an active laser episode |
-| **Clockwork coordination** | Differentiated organizational mode | Resembles the routed functional organization associated with organic solidarity |
-| **Organic solidarity** | Cohesion through differentiated interdependence | Is enabled and expressed by differentiated roles, not defined by low synchrony |
-| **Lifted mechanical solidarity** | Shared binding meta-order | Can supply the moral and constitutional protocol legitimating the clockwork system |
+| **Clockwork coordination** | Differentiated organizational mode | Resembles the organic-differentiation component of Durkheimian organic solidarity |
+| **Durkheimian organic solidarity** | Source concept of cohesion through differentiated interdependence | Is analytically decomposed here into organic differentiation and lifted mechanically solidary binding force |
+| **Lifted mechanical solidarity** | Shared binding meta-order | Constitutes and corrects the common role, obligation, and legitimacy relations of a differentiated order |
 | **Multi-mind-self** | Collective agent above an integration threshold | May emerge from sufficient continuing integration; no preceding relation makes it automatic |
 
 The relation is **resembles, supports, or renews**, not **is identical to**.
 Laser synchronization is a dynamic process; mechanical solidarity is a form of
 cohesion through common classifications and sentiments. Clockwork coordination is
-an organizational mode; organic solidarity is cohesion through differentiated
-interdependence. Mechanical and organic solidarity can coexist, and a magnetized
-mechanically solidary field can remain stable without an active laser state.
+an organizational mode; organic differentiation is a topology of specialized
+activity. Durkheimian organic solidarity remains the source composite, while the
+present theory locates its common binding force at the lifted mechanically
+solidary level. Organic differentiation and a mechanically solidary field can
+coexist, and a magnetized field can remain stable without an active laser state.
 
 The preferred term is **clockwork coordination**, not *clockwork
 synchronization*. Clockwork names differentiated contributions connected through
@@ -959,7 +1098,7 @@ space of person-preserving differentiated unity. High interoperability can also 
 closed and absorptive; low interoperability can coexist with intense local laser
 synchronization and local fusion pressure. [*Mythology Construction*, “Cultural
 interoperability and its breakdown
-(Babelization)”](0040-mythology-construction.semantic-definition.md#29-cultural-interoperability-and-its-breakdown-babelization)
+(Babelization)”](0040-mythology-construction.semantic-definition.md#cultural-interoperability-and-its-breakdown-babelization)
 defines the first axis and its relationship to lifted mechanical solidarity.
 
 Durkheim's [*Les formes élémentaires de la vie religieuse*
@@ -979,7 +1118,9 @@ legitimate and mutually intelligible:
 This recursive claim does not make every synchronized crowd a multi-mind-self or
 every mechanically solidary order epistemically captured.
 
-#### Repeater gain and crowds
+<a id="repeater-gain-and-crowds"></a>
+
+#### Repeater gain and crowds {#repeater-gain-and-crowds}
 
 Every local bigOther transmits. **Repeater** or **high-gain repeater** is the
 network analogy for greater reach, credibility, frequency, connectivity, or
@@ -997,7 +1138,9 @@ precisely because many participants enact it together. Nor is amplification alwa
 vertical. Peer groups, rituals, crowds, and decentralized networks can synchronize
 without a privileged leader.
 
-#### Trusted-opinion-leader function, cascades, and cultivated authority
+<a id="trusted-opinion-leader-function-cascades-and-cultivated-authority"></a>
+
+#### Trusted-opinion-leader function, cascades, and cultivated authority {#trusted-opinion-leader-function-cascades-and-cultivated-authority}
 
 **Trusted-opinion-leader function** is the canonical name for the distributed
 receiving-field position through which selected persons or institutionally
@@ -1078,11 +1221,19 @@ A **trusted-opinion-leader-function profile** should therefore ask at least:
 |---|---|
 | **Amplification or repeater gain** | What are the carrier's reach, frequency, connectivity, brokerage, access to common attention, and institutional or algorithmic amplification? |
 | **Authority basis** | Does reception rest on demonstrated expertise, personal trust, formal office, institutional authorization, pastoral care, familiarity, prestige, or parasocial attachment? |
+| **Competence basis and apparent competence** | Which competence has been demonstrated for this question; which confidence is instead supplied by prominence, fluency, prestige, repeated visibility, or success in another domain; and would the same claim receive comparable weight from an unknown speaker? |
 | **Routing and translation** | Does the carrier select, gatekeep, translate, interpret, model, endorse, or relay material? |
 | **Chief-facing mediation** | Does the carrier operationalize broad direction, defend or shield an elevated directing organ, absorb contention, and return criticism or operational reality upward? |
 | **Field feedback** | Can the carrier register local reception, make it visible, and return audience resistance and needs to the source or directing function? |
 | **Jurisdiction** | For which topic, audience, setting, channel, and period does the carrier actually carry authority? |
 | **Independence and correction** | Who supplied access, funding, evidence, wording, status, and amplification; are apparently plural carriers causally independent; and can the carrier, office, and message be corrected or replaced? |
+
+A [sparse Fernandes–HateAid–Hubig–ARD worked
+application](0060-culture-program-ecology.semantic-definition.md#fernandes-hateaid-hubig-ard-sparse-case)
+uses Hirschhausen's movement from a documented medical deepfake grievance into
+broader platform, legal, and democratic-risk claims as a bounded illustration of
+cross-domain authority transfer. The application does not infer falsehood,
+capture, or policy competence from trusted-opinion-leader status alone.
 
 This profiles one function and, where relevant, its human person-in-role occupant;
 it is not a psychological essence and does not imply that all dimensions covary.
@@ -1172,6 +1323,147 @@ Analysis should track the source, incentives, transformations, independent route
 field feedback, and propagation of later corrections through this lifecycle. The
 same architecture can diffuse accurate practice, repair a failed tradition, sell a
 product, or support covert capture. Influence and truth remain separate variables.
+
+<a id="professional-idea-mediation-and-apparent-competence"></a>
+
+##### Professional idea mediation and prominence-derived apparent competence {#professional-idea-mediation-and-apparent-competence}
+
+**Status:** Hayek--Baader source bridge and proposed Culture Mechanics role and
+mechanism
+
+[F. A. Hayek's “The Intellectuals and
+Socialism”](https://www.mises.ch/library/Hayek_Intellectuals%26Socialism.pdf)
+describes intellectuals broadly as professional “secondhand dealers in ideas” who
+select, translate, and circulate ideas they need not have originated or mastered
+as specialists. [Roland Baader's
+*totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf),
+especially pp. 35--40, adopts that broad functional definition and places
+producers, multipliers, media performers, and mass reception in one transmission
+problem.
+
+Culture Mechanics calls the source-side position the **professional
+idea-mediator function**: the recurrent selection, compression, translation,
+packaging, and circulation of ideas for audiences outside the mediator's original
+source or specialist domain. A **professional idea mediator** is a person or
+role occupant who presently performs that function. The position is analytically
+distinct from the trusted-opinion-leader function, which is defined from the
+receiving field's referral of judgment:
+
+```text
+idea producer or specialist source
+→ professional idea mediator selects, translates, and packages
+→ trusted-opinion-leader position supplies receiving-field trust and routing
+→ audience reconstructs, repeats, and acts
+→ institutions may convert uptake into routine, authority, and succession
+```
+
+One person can occupy several positions. A researcher can produce an idea,
+mediate it for a general audience, and already possess that audience's trust. A
+journalist or editor can mediate ideas without becoming the field's trusted
+judge. A local peer can function as a trusted opinion leader without working as a
+professional intellectual. The distinction prevents prominence, authorship,
+expertise, mediation, and receiving-field authority from being treated as one
+undifferentiated status.
+
+**Prominence-derived apparent competence** occurs when visibility, verbal
+facility, prestige, moral seriousness, institutional access, repeated media
+presence, or demonstrated competence elsewhere supplies operative confidence on
+the present question without a correspondingly demonstrated competence relation.
+Baader's “Verrat der Intellektuellen,” pp. 124--126, explicitly joins
+*Prominenz* and *Anscheinskompetenz* to the amplification of political passions.
+The project turns that observation into a domain-and-reception test. It is
+narrower than saying that a prominent speaker is incompetent and broader than
+role-conferred authority spillover: apparent competence can begin with
+presentation and prominence even where no legitimate source-domain authority
+exists.
+
+The practical audit asks:
+
+- what competence was actually demonstrated, for which question, domain, and
+  period;
+- what trust came from evidence and performance, and what came from title,
+  fluency, familiarity, celebrity, moral posture, or repetition;
+- whether the claimed jurisdiction exceeds the demonstrated one;
+- whether an unknown speaker presenting the same reasons would receive comparable
+  uptake; and
+- whether consequential forecasts, recommendations, and failures revise access,
+  jurisdiction, standing, and later selection.
+
+This last question joins Baader's pre-decision authority formation to Sowell's
+[post-decision correction and “Teflon prophets”
+problem](0040-mythology-construction.semantic-definition.md#sowell-decision-correction-custody-bridge):
+
+```text
+institutional visibility and repeated access
+→ prominence-derived apparent competence
+→ trusted-opinion-leader authority
+→ jurisdiction spillover and consequential recommendation
+→ costs of error borne mainly by others
+→ failure does not proportionately reduce standing or jurisdiction
+→ retained prominence renews apparent competence
+↺ authority reproduction across later decisions
+```
+
+Every arrow remains empirical. The lifecycle can carry sound judgment, and an
+expert may legitimately speak beyond a narrow specialty while disclosing the
+basis and limits of the inference. The warning concerns an authority relation in
+which prominence substitutes for demonstrated competence and performance ceases
+to govern later trust; it does not classify a person's intelligence, sincerity,
+motives, or complete body of work.
+
+<a id="carrier-authority-surface-audit"></a>
+
+###### Carrier-authority surface audit {#carrier-authority-surface-audit}
+
+A public intellectual, expert, priest, editor, teacher, administrator, broker,
+or professional mediator can occupy several functions at once.
+The **carrier-authority surface audit** keeps those functions separate before
+attributing one integrated power position:
+
+[Helmut Schelsky's reflection-elite and intellectual-priesthood
+analysis](https://link.springer.com/book/10.1007/978-3-322-96986-6) supplies prior
+art for distinguishing producers from professional meaning mediators and for
+asking who controls salvation goods, legitimate self-interpretation, and the
+transition from movement to salaried office.
+His contrast between physical coercion and hierocratic influence through the
+person's inner relation is a source distinction, not a finding that professional
+mediation is coercive or that interpreters form one coordinated class.
+Schelsky's earlier institutionalized permanent reflection supplies the positive
+countercase in which professional interpretation preserves reopening rather than
+fixing one authorized answer.
+
+| Surface | Operational question |
+|---|---|
+| Production | Does the carrier originate knowledge or doctrine? |
+| Selection | Which sources and questions are admitted or excluded? |
+| Translation | How are specialist claims converted into public meaning? |
+| Moral judgment | Does the carrier assign innocence, guilt, dignity, danger, or salvation? |
+| Brokerage and placement | Can the carrier route persons, resources, offices, access, or recognition? |
+| Public mediation | Does the receiving field refer judgment to the carrier? |
+| Inner-relation governance | Does access to legitimate identity, belonging, explanation of suffering, or moral repair depend upon this mediation? |
+| Liability | Who bears the material and epistemic cost when the recommendation fails? |
+
+Role multiplexing can create unusual reach, but occupation of one row does not
+establish the others.
+Sincere vocation and material dependence can coexist; income does not prove
+cynicism, and sincerity does not remove institutional interest or consequence
+responsibility.
+An **epistemic-liability gap** appears when prestige, livelihood, access, or
+authority accrues near selection and recommendation while foreseeable costs fall
+mainly upon implementers, affected persons, or successors and failure does not
+proportionately alter later standing.
+
+The corresponding safeguards are functional separation, visible provenance,
+domain-specific competence, independent routes of interpretation, prediction and
+consequence records, affected-person standing, appeal, and real revision of
+access or jurisdiction after failure.
+Professionalized interpretation can also be a counterpower when it preserves
+permanent reflection, plural sources, and reopening rather than monopolizing one
+answer.
+The audit therefore establishes neither an intellectual priesthood nor capture
+from profession, prestige, livelihood, or mediation alone.
+
+<a id="trusted-carrier-correction-lock"></a>
 
 ##### Trusted-carrier correction lock {#trusted-carrier-correction-lock}
 
@@ -1263,7 +1555,98 @@ through which the presence is classified and made conduct-directing. A reported
 religious or moral presence may have additional meanings or causes that this
 functional account neither proves nor disproves.
 
-#### The epistemic field effect
+<a id="developmental-installation-of-sovereign-righteousness"></a>
+
+##### Developmental installation of sovereign righteousness {#developmental-installation-of-sovereign-righteousness}
+
+**Status:** trunk concept; the target relation and countercases are specified,
+but developmental routes, prevalence, and discriminating evidence remain an open
+research programme.
+
+The trunk asks how a person comes to experience their judgment not merely as one
+answerable human judgment, but as the execution of a higher moral and
+jurisdictional order whose standing overrides ordinary reciprocity.
+
+```text
+I am not merely a private person
+→ I embody, interpret, or execute a higher order
+→ overriding another person becomes duty
+→ the other's reciprocal standing and appeal lose force
+```
+
+Possible installation routes include hereditary or sacred office, election,
+historical destiny, revolutionary consciousness, scientific rank,
+civilizational mission, emergency necessity, or claimed embodiment of the
+people.
+The public justification is not yet the developmental mechanism.
+The research target is the earlier formation through which asymmetric moral
+personhood becomes experientially plausible: childhood hierarchy, exemplary
+identification, ritual address, role training, selective impunity, repeated
+success, institutional deference, insulation from reciprocal judgment, or
+another evidenced path.
+
+In hereditary, dynastic, priestly, or comparably status-dense formation, a
+candidate route is cumulative rather than one discrete authorization event:
+
+```text
+qualitatively different treatment
++ ceremonial deference and restricted reciprocity
++ ancestry, office, or destiny presented as sacred necessity
++ ordinary persons encountered as subjects, dependants, or components of order
++ privilege redescribed as a burden of service
+→ exceptional status becomes affectively self-evident
+→ person, role, and higher order become tightly braided
+→ sovereign judgment feels like execution of order rather than private choice
+```
+
+Distributed recognition is part of the proposed cause.
+A court, party, movement, profession, bureaucracy, or audience that waits,
+defers, obeys, protects, and repeatedly speaks as though the bearer possesses a
+higher rank of judgment returns that identity to the bearer.
+Coronation, appointment, command, crisis, election, or succession can crystallize
+an earlier accumulation without having created it from nothing.
+
+The phenomenology need not be gleeful or crudely entitled.
+It can be solemn, burdened, sacrificial, or painful.
+Pain can even reinforce authorization when the bearer reasons that a personally
+costly decision cannot be selfish and therefore must express duty.
+The decisive transformation is the reclassification of what would otherwise
+appear as one human overriding another:
+
+```text
+harm or domination
+→ correction, education, purification, protection, civilization,
+  liberation, sacrifice, treatment, or historical necessity
+```
+
+The governed person can then cease to appear fully as another author of a life
+and instead become an administrative subject, immature dependant, diseased
+element, enemy of history, or material for a greater whole.
+In the strongest relation, the programme first absorbs the ruler as its
+instrument and then acts through that ruler to absorb the reciprocal standing of
+the governed.
+
+The construct is not required for domination.
+Cynical, sadistic, opportunistic, fear-driven, strategic, and conventionally
+obedient actors can override others without believing themselves morally
+elevated.
+Nor does office, expertise, confidence, inherited rank, strong conviction, or a
+claim of duty establish the trunk.
+Evidence would need to join formative history, self-description, reciprocal
+asymmetry, conduct under challenge, institutional reinforcement, correction, and
+the treatment of appeal.
+Retrospective public mythology must remain distinct from developmental
+phenomenology: later claims about divine placement, historical necessity,
+scientific duty, or embodiment of the people may express the operative
+experience, rationalize it after the fact, or function only as public
+legitimation.
+At the constitutional level, the corresponding question is whether the claimed
+higher order remains finite, role-bounded, corrigible, and answerable to persons
+and reality, or becomes a source of self-certifying jurisdiction.
+
+<a id="the-epistemic-field-effect"></a>
+
+#### The epistemic field effect {#the-epistemic-field-effect}
 
 The main cognitive processor can reason in detail, but field back-action can alter
 which questions feel permissible, which evidence feels contaminated, which source
@@ -1306,6 +1689,8 @@ clinical diagnosis. The family resemblance is that intelligence has been placed
 downstream of a socially protected classification and recruited to elaborate or
 defend it.
 
+<a id="ideological-power-local-capture-scale-bridge"></a>
+
 #### Scale bridge: ideological power, inner-eye blindness, and *Dummheit* {#ideological-power-local-capture-scale-bridge}
 
 The population-level and person-level descriptions require an explicit bridge.
@@ -1338,7 +1723,7 @@ possible mechanism, not a beneficiary, controller, conspiracy, strict Ideology,
 *Machtpolitik*, or culpable person.
 
 The local transition elaborates the [wireless-collar
-analogy](0010-culture-mechanics.semantic-definition.md#10-second-analogy-haidts-elephant-with-a-wireless-collar).
+analogy](0010-culture-mechanics.semantic-definition.md#second-analogy-haidts-elephant-with-a-wireless-collar).
 The collar can alter attraction, aversion, shame, honour, threat, and attention
 before the reflective rider notices. The rider may then experience the resulting
 direction as obvious sight or self-authored judgment and rationalize it
@@ -1443,6 +1828,8 @@ structure, or *Dummheit* inside a person. Linking a repeatable local pattern
 upward requires separate evidence of program, carrying structure, authorization,
 reproduction, scale, beneficiary, and failed correction.
 
+<a id="latent-culture-program-diagnosis"></a>
+
 #### Latent Culture Program diagnosis under homo-duplex orthogonality {#latent-culture-program-diagnosis}
 
 **Status:** proposed diagnostic research programme; not a validated assessment,
@@ -1518,6 +1905,40 @@ unaligned; a culturally aligned person may be personally disliked. Kind, calm,
 and cooperative ordinary conduct does not by itself reveal which collective
 classification will take priority under a sacred-value conflict, loyalty test,
 perceived threat, ritual synchronization, or authority-addressed mobilization.
+
+Orthogonality can also become publicly observable in the form of an interaction.
+Its propositional content can display explicit cultural-symbolic nonalignment
+while its interpersonal coordinate continues to carry affection, respect, trust,
+reciprocity, cooperation, or continuing association. The interaction therefore
+communicates more than two first-order positions. Its form supplies a second-order
+signal about whether cultural alignment is treated as a condition of
+interpersonal standing and relationship.
+
+This creates an observer-side relation. An audience may expect strong cultural
+disagreement to covary with personal dislike, withdrawal, or exclusion, and may
+expect durable personal regard to predict convergence or concession. Encountering
+the two coordinates visibly separated can expose that expected covariance. The
+resulting surprise arises from the observer's prior model of how tightly the
+coordinates should be coupled.
+
+Repeated interpersonal history can help preserve the separation by sustaining a
+high-resolution, person-specific representation across roles, conduct, exchanges,
+and obligations while a strong cultural-symbolic classification remains
+operative. Neither representation need become a complete proxy for the other. In
+this form, orthogonality is not only a hidden-state observability problem. It is
+also a conflict-bearing capacity of a relationship: nonconvergence on the
+cultural-symbolic coordinate need not consume cooperation, standing, or
+continuity on the interpersonal coordinate.
+
+At field scale, visible enactment can make the separated combination socially
+available:
+
+```text
+cultural-symbolic nonalignment + continuing interpersonal standing
+→ publicly legible coordinate separation
+→ revision of expected covariance
+→ wider availability of the same relational form
+```
 
 “Orthogonal” does not mean perfectly statistically independent. Relationships,
 traits, incentives, institutions, and prior reflection can influence cultural
@@ -1674,6 +2095,33 @@ of capture. It supports a graded inference:
 Each stronger inference requires additional evidence. The pattern can change
 with context, authority cues, reflection, learning, exit, or unbraiding; several
 programs can also leave overlapping or conflicting fingerprints in one person.
+
+The same method can inspect **negative space**: recurrent failures to notice,
+name, compare, or pursue an otherwise available causal relation.
+A single omission is almost empty evidence.
+A stronger pattern appears when one person or carrier reliably detects a causal
+form across neutral and differently loaded cases but stops detecting it when the
+same form would burden a protected principal, programme, authority, or
+self-classification.
+
+```text
+causal form noticed in matched controls
++ selectively absent at one protected boundary
++ recurrence across independent domains and formulations
++ ordinary explanations weakened
+→ candidate negative-space component of a Culture Program fingerprint
+```
+
+Negative space can be more informative than questionnaire agreement because a
+mythological lens may operate through salience, expectation, and immediate
+classification before the person formulates an explicit doctrine.
+It remains a comparative inference, not access to hidden mental content.
+Ignorance, specialization, fatigue, trauma, incentives, information access,
+question wording, memory, social risk, and ordinary inconsistency are mandatory
+rival explanations.
+The fingerprint gains weight only where the capacity is demonstrated in matched
+cases and the omission follows the programme boundary more reliably than those
+rivals predict.
 
 A person can carry several Culture Programs, activate them in different domains,
 or exhibit program disharmony when authorized classifications collide. A diverse
@@ -2143,6 +2591,8 @@ inference, clinical or therapeutic protocol, violence-risk assessment, or proof
 that the resisting speaker rather than the analogy-maker is blind. Their value is
 to expose the methodological object a proper instrument would have to isolate.
 
+<a id="guided-unbraiding-and-possible-deradicalization"></a>
+
 #### Guided unbraiding and possible de-radicalization {#guided-unbraiding-and-possible-deradicalization}
 
 **Status:** proposed intervention research programme; hypothetical, unvalidated,
@@ -2251,7 +2701,7 @@ authorship.
 
 ##### MCIP as one candidate method and selection mechanism
 
-The existing authoritative [MCIP account](#22-epistemic-emancipation-and-mcip)
+The existing authoritative [MCIP account](#epistemic-emancipation-and-mcip)
 defines **Mirror → Cut → Invite → Promise** as a proposed micro-method for
 preserving the person, interrupting one protected connection, returning the next
 epistemic operation to the person, and making continued inquiry survivable. Its
@@ -2534,7 +2984,9 @@ surface to a possible recovery mechanism without making detection prove
 radicalization, making unbraiding sufficient for de-radicalization, or making
 agreement with a guide evidence of emancipation.
 
-### 12. Functional morphology of mechanical solidarity
+<a id="functional-morphology-of-mechanical-solidarity"></a>
+
+### 12. Functional morphology of mechanical solidarity {#functional-morphology-of-mechanical-solidarity}
 
 **Functional morphology of mechanical solidarity** names the organization of the
 whole relevant social formation through which mechanical solidarity becomes
@@ -2682,8 +3134,11 @@ exclusively occupational. Culture Mechanics treats that inverse-development
 expectation as a historical hypothesis rather than a definitional truth and
 explicitly allows that **Durkheim may be wrong about progressive preponderance**.
 The challenged claim is the necessary or general displacement of powerful
-mechanical-solidarity organization by advanced organic differentiation, not his
-analytical distinction between the two forms.
+mechanical-solidarity organization by advanced organic differentiation, not the
+fact that Durkheim distinguished the two forms in his source theory. Culture
+Mechanics nevertheless does not adopt them as two coequal mechanisms in its own
+ontology: it decomposes the solidarity component of his organic form into lifted
+mechanically solidary common binding force.
 
 Two differently scaled cases motivate the challenge:
 
@@ -2693,14 +3148,18 @@ Two differently scaled cases motivate the challenge:
 | **National Socialist Germany—the Nazi experiment** | An industrial nation retained extensive occupational specialization, bureaucracy, technology, logistics, and divided labour while leader incarnation, distributed trusted carriers, ritual, mass assembly, synchronized broadcasting, and common national mythology intensified a mechanical-solidarity morphology. Organic machinery was not first dismantled; it was recruited into the mechanically solidary formation. | This is a bounded historical stress case, not a controlled experiment or definitional proof. Establishing the morphology still requires evidence for each position, relation, and period; the case neither makes every participant fused nor reduces the regime to this mechanism. |
 
 Together, these cases establish neither that mechanical solidarity always grows
-with technical differentiation nor that organic solidarity never becomes
-preponderant. They do show that strong mechanical solidarity and advanced
-division of labour can coexist, and that differentiation can sometimes create a
-functional demand for stronger moral cohesion. That possibility is enough to
-defeat a necessary inverse law and to keep Durkheim's broader preponderance thesis
-open to historical rejection or revision.
+with technical differentiation nor that Durkheimian organic solidarity never
+became historically preponderant in his source sense. They do show that strong
+mechanical solidarity and advanced division of labour can coexist, and that
+differentiation can sometimes create a functional demand for stronger moral
+cohesion. That possibility defeats a necessary inverse law. The further
+Culture Mechanics hypothesis is that part of the apparent transition may be a
+lifting of common binding force from shared outputs into a shared generator; that
+reinterpretation remains open to historical rejection or revision.
 
-#### Fascism as a strong whole-polity realization
+<a id="fascism-as-a-strong-whole-polity-realization"></a>
+
+#### Fascism as a strong whole-polity realization {#fascism-as-a-strong-whole-polity-realization}
 
 Within Culture Mechanics, **Fascism** is defined morphologically rather than by a
 fixed national, racial, class, religious, or left--right doctrinal content:
@@ -2818,7 +3277,7 @@ This **classification-symmetry rule** is unconditional with respect to branding:
 exchange the names, declared ideals, enemies, and historical family, then apply
 the same morphological, causal, offspring, consequence, and correction tests.
 Apply the [Self-Description Valence
-Asymmetry](0060-culture-program-ecology.semantic-definition.md#164-self-attribution-presumption-and-internal-contestation):
+Asymmetry](0060-culture-program-ecology.semantic-definition.md#self-attribution-presumption-and-internal-contestation):
 give serious adverse self-attribution first-pass credence, but give beautiful
 language and benevolent declared ends no exculpatory presumption. They remain
 evidence about a program's advertised ideal or self-understanding; they are not
@@ -3106,7 +3565,9 @@ prior lenses. Failure to produce differential retention, sentiment, coordination
 or deference would weaken the claim that this geometry has a special programming
 effect.
 
-### 13. Unitary ownership by the operative multi-mind-self
+<a id="unitary-ownership-by-the-operative-multi-mind-self"></a>
+
+### 13. Unitary ownership by the operative multi-mind-self {#unitary-ownership-by-the-operative-multi-mind-self}
 
 The originating claim is deliberately stronger than the ordinary phrase **shared
 ownership**:
@@ -3146,7 +3607,7 @@ psychological and social organization, not the legal rule.
 
 Private ownership as a protected personal jurisdiction presents a different
 question from unitary ownership by a collective agent. [*Culture Program
-Ecology*](0060-culture-program-ecology.semantic-definition.md#13104-own-and-the-secure-homestead-rate)
+Ecology*](0060-culture-program-ecology.semantic-definition.md#own-and-the-secure-homestead-rate)
 places the proposed **Secure Homestead Rate** beneath *Own* in the Lifted-Order
 Capacity Dashboard. It asks whether persons acquire and retain effective
 residential anchors through title, equity, control, infrastructural usability,
@@ -3213,7 +3674,9 @@ reciprocity, and explicit rules. The theory earns explanatory force only where t
 unitary collective perspective predicts perception, care, memory, sanction, and
 action better than those alternatives alone.
 
-#### Threshold and boundary conditions
+<a id="threshold-and-boundary-conditions"></a>
+
+#### Threshold and boundary conditions {#threshold-and-boundary-conditions}
 
 Mechanical solidarity, a distributed bigOther, and a multi-mind-self presentation
 can exist below the threshold of a collective agent. Evidence for an **operative
@@ -3351,7 +3814,114 @@ One useful analogy proposed by this entry distinguishes two communication styles
 
 This analogy resembles the difference between copying a state and reproducing the operations that generated it. It is an interpretation inspired by the American writer **David McRaney's** [*How Minds Change* (2022)](https://www.penguinrandomhouse.com/books/639563/how-minds-change-by-david-mcraney/), not McRaney's own terminology.
 
-#### Audience-modelled reconstruction and decompression
+<a id="operation-bootstrapped-codebook-formation"></a>
+
+#### Operation-bootstrapped codebook formation {#operation-bootstrapped-codebook-formation}
+
+> **Operation-bootstrapped codebook formation** is the process by which recurrent
+> operation transmission--shared experience, example, questioning, contrast,
+> prediction, practice, and correction--enables persons to construct locally
+> executable and sufficiently compatible reconstruction codebooks. Once enough
+> relevant overlap exists, short symbols and formulas can evoke much larger
+> conceptual, causal, social, moral, authorization, and action structures without
+> replaying the complete formation path in every message.
+
+Operation transmission does not literally copy a mental operation. It supplies
+representations, situations, questions, comparisons, feedback, and other assembly
+cues through which the recipient performs relevant operations locally. State
+transmission likewise means communication of a conclusion, formula, rule, or
+other finished result rather than transfer of the sender's mental state.
+
+The **reconstruction codebook** is distributed analytical shorthand, not a third
+processor. Ordinary cognition reconstructs concepts, causal relations, and
+practical sequences; the installed mythological lens supplies culturally learned
+mappings; the local bigOther executes evaluative and affective classification;
+and the shared symbolic protocol supplies publicly legible tokens. The codebook
+therefore names the recipient-side resources upon which reconstruction draws,
+not one additional mental object or perfectly shared dictionary.
+
+```text
+new recipient or generation
++ inherited texts, symbols, practices, and institutions
+                         ↓
+operation-rich formation:
+experience + example + questions + contrasts + practice + correction
+                         ↓
+locally reconstructed conceptual, causal, evaluative, and practical codebooks
+                         ↓
+sufficient relevant overlap among participants
+                         ↓
+compressed state transmission:
+short token or formula → larger locally reconstructed model and conduct
+                         ↓
+renewed practice + decompression + correction + foundational-question custody
+                         ↺
+```
+
+This sequence supplies the dynamic bridge among [Sowell's recurrent generational
+formation](0040-mythology-construction.semantic-definition.md#sublimation-and-moral-formation),
+[Voegelin's living-symbol, dead-formula, and idolized-answer
+distinction](0030-epistemic-constitution.semantic-definition.md#voegelin-untrue-existence-second-reality-and-question-space),
+and the controlled [state/operation-replication and adaptive-dictionary
+compression analogies](0050-culture-mechanics-analogies.semantic-inventory.md#operation-replay-and-adaptive-dictionary-compression).
+Sowell supplies the claim that finished cultural character is not inherited;
+Voegelin supplies the experience--symbol and question relation. The CRDT and
+LZMA families supply bounded computing images. **The compound mechanism is a
+Culture Mechanics synthesis and should not be retroactively attributed to any
+one source.**
+
+A generation can inherit compressed symbols and institutional artifacts, but it
+does not inherit a finished, locally executable decompression capacity. Recurrent
+formation must reconstruct enough of the relevant operation path for the symbols
+to remain intelligible, applicable to novel cases, and corrigible. State
+transmission is not thereby inferior: after successful formation it provides the
+compression dividend that makes education, expertise, law, coordination, and
+cultural memory tractable. Periodic operation transmission remains necessary for
+repair, semantic recalibration, transfer to new circumstances, and initiation of
+new participants.
+
+The same relation explains several master-signifier outcomes:
+
+```text
+compressed token + sufficiently aligned relevant codebooks
+→ efficient coordination
+
+underdetermined token + heterogeneous compatible projection
+→ projective consensus
+
+compressed token + exclusive interpreter custody
+→ custodian supplies executable meaning
+
+compressed token + prohibition of the generating experience or question
+→ idolized answer-symbol
+```
+
+The size of a person's vocabulary or stored knowledge is therefore not the
+decisive variable. Compression efficiency depends upon **relevant codebook
+overlap, reconstruction fidelity, contextual alignment, reality contact, and
+corrigibility**. A larger but divergent or authority-sealed codebook can increase
+misunderstanding, projective consensus, or manipulation. Compression gain does
+not establish truth, common understanding, legitimate authorization, or moral
+value.
+
+Formation is also social rather than merely dyadic. Families, schools,
+professions, rituals, media, institutions, trusted authorities, and material
+practices repeatedly select and reinforce some decompressions; visible use and
+field back-action make those mappings easier to anticipate and coordinate. This
+collective calibration does not make local codebooks identical or reduce the
+mechanism to isolated learning.
+
+The mechanism predicts that operation-rich common formation should improve
+convergence of explicit reconstructions, transfer to novel cases, and recovery of
+reasons and limits relative to token-only instruction. It predicts divergence
+where participants share a surface symbol but lack the relevant formation
+history, and repair where renewed examples, questions, practice, and correction
+restore overlap. Failure of these contrasts across well-specified messages,
+audiences, and delayed tests would weaken the proposed mechanism.
+
+<a id="audience-modelled-reconstruction-and-decompression"></a>
+
+#### Audience-modelled reconstruction and decompression {#audience-modelled-reconstruction-and-decompression}
 
 Dushan Wegner's *Relevante Strukturen* (2019; ISBN 9783739405636) describes
 language as *Komprimierung* for later *Dekomprimierung*. A finite utterance omits
@@ -3461,9 +4031,13 @@ coalition, agenda, and coordinated action
 
 The American political scientist **Deborah A. Stone** develops this concept in [“Causal Stories and the Formation of Policy Agendas” (1989)](https://www.uvm.edu/~dguber/POLS293/articles/stone.pdf) ([DOI](https://doi.org/10.2307/2151585)). Her analysis explains how political actors compete to define causation, assign responsibility, convert difficulties into governable problems, and attach proposed solutions to issues on the agenda. A causal story does more than summarize facts. It defines moral roles, distributes sympathy and blame, identifies who may intervene, and makes some remedies appear natural while rendering others invisible.
 
-#### Authorization payload
+<a id="authorization-payload"></a>
 
-##### Wegner's maxim and the Culture Mechanics translation
+#### Authorization payload {#authorization-payload}
+
+<a id="wegners-maxim-and-the-culture-mechanics-translation"></a>
+
+##### Wegner's maxim and the Culture Mechanics translation {#wegners-maxim-and-the-culture-mechanics-translation}
 
 On the official page for [*Talking
 Points*](https://www.dushanwegner.com/buecher/talking-points/), Dushan Wegner
@@ -3554,6 +4128,8 @@ where the existing grant of power enters a larger construction and runtime
 sequence. [*Culture Program Ecology* owns the later institutional-realization and
 *Willkür*
 gate](0060-culture-program-ecology.semantic-definition.md#institutional-realization-and-the-willkur-gate).
+
+<a id="silent-principal-surrogate-mechanism"></a>
 
 ##### Silent principals and surrogate authorization {#silent-principal-surrogate-mechanism}
 
@@ -3831,7 +4407,9 @@ can own, remember, and act with equal coherence while suppressing correction or
 harming outsiders. Field strength and epistemic quality must therefore be judged
 separately.
 
-### 19. Piety toward the real
+<a id="piety-toward-the-real"></a>
+
+### 19. Piety toward the real {#piety-toward-the-real}
 
 **Piety toward the real** is the normative pole of the framework. The phrase comes from the American sociologist **Robert N. Bellah's** introduction to [*Émile Durkheim on Morality and Society* (1973)](https://platypus1917.org/wp-content/uploads/The-Heritage-of-Sociology-Emile-Durkheim-On-Morality-and-Society_-Selected-Writings-University-of-Chicago-Press-1973.pdf); it is Bellah's characterization of Durkheim's attitude, not a standard technical term coined by Durkheim. This entry adopts and extends Bellah's phrase to name a disciplined respect for the complexity and resistance of what exists.
 
@@ -3846,6 +4424,9 @@ Piety toward the real means that:
 - one's own certainty remains fallible and must be externally corrigible.
 
 This piety must be paired with **moral individualism**, drawing on Durkheim's defense of the morally sacred person in [“L'individualisme et les intellectuels” (1898)](https://classiques.uqam.ca/classiques/Durkheim_emile/sc_soc_et_action/texte_3_10/individualisme.html): the unconditional dignity of persons does not depend on whether their current claims are correct. The present ethical formula is an extension, not a quotation from Durkheim. Respect for a person does not require treating every belief as equally sound. Nor does respectful attention to existing social facts sanctify existing institutions. An institution may be real, complex, and functionally important while remaining unjust or mistaken. The resulting rule is:
+
+Under the project's [inherent human-standing and recognition-only principle](0010-culture-mechanics.semantic-definition.md#inherent-human-standing-recognition-only-principle), the bearer of that unconditional dignity is every individual living human organism from the beginning of its existence until death.
+This is a Culture Mechanics normative axiom rather than a proposition attributed to Durkheim: authority may recognize the bearer and regulate capability or conduct, but it may not constitute admission to the protected human class.
 
 > **Respect persons unconditionally; evaluate propositions conditionally according to evidence; regulate actions according to justice.**
 
@@ -3874,7 +4455,9 @@ Piety toward the real also guards against self-appointed gatekeeping. Personal c
 
 > **Let truth identify the danger, let love require a response, and let epistemic humility govern the means.**
 
-#### Impersonal universality against private interest
+<a id="impersonal-universality-against-private-interest"></a>
+
+#### Impersonal universality against private interest {#impersonal-universality-against-private-interest}
 
 **Status: deliberately narrow and provisional interpretive bridge.** The
 following subsection preserves one formal similarity through which Durkheim can
@@ -3900,7 +4483,10 @@ Intellectuals,” pp. 46–47](https://platypus1917.org/wp-content/uploads/The-H
 not as a replacement for Durkheim's source term **moral individualism**:
 
 > **Humanism names what is held sacred; individualism names where that sacred
-> standing resides—in every concrete person.**
+> standing resides—in every individual living human being.**
+
+The [recognition-only principle](0010-culture-mechanics.semantic-definition.md#inherent-human-standing-recognition-only-principle) closes the admission gap that would otherwise remain inside *person*.
+Development, implantation, viability, presently exercisable rationality, autonomy, health, disability, dependency, wantedness, social recognition, conduct, and political classification may alter circumstances, capabilities, responsibilities, or remedies, but none determines whether a living human bearer enters or leaves the protected class.
 
 This is the same distinction developed more fully as
 [Humanity-as-standing and
@@ -4105,6 +4691,8 @@ For now the bridge should be used only through four discriminating questions:
 4. Who interprets “the universal” or “the common interest,” under what
    jurisdiction, and through which correction, refusal, and exit conditions?
 
+<a id="humanism-diversity-relations"></a>
+
 ##### Humanism and Diversity: nested, supplementary, and replacement relations {#humanism-diversity-relations}
 
 The ordinary word *diversity* can describe factual variation without carrying a
@@ -4159,7 +4747,9 @@ different: the distinction must be prospectively specified, causally relevant,
 reciprocal where applicable, evidence-based, reviewable, and subordinate to the
 standing the programme claims to protect.
 
-### 20. Cognitive liberty and epistemic adulthood
+<a id="cognitive-liberty-and-epistemic-adulthood"></a>
+
+### 20. Cognitive liberty and epistemic adulthood {#cognitive-liberty-and-epistemic-adulthood}
 
 In its established legal and ethical lineage, **cognitive liberty** concerns mental self-determination and freedom from unwanted interference with thought or consciousness. Important formulations include **Richard Glen Boire's** essay series [“On Cognitive Liberty” (1999–2003)](https://www.cognitiveliberty.org/on-cognitive-liberty-boire/) and the German legal scholar **Jan Christoph Bublitz's** [“My Mind Is Mine!? Cognitive Liberty as a Legal Concept” (2013)](https://doi.org/10.1007/978-94-007-6253-4_19). The specialized usage developed here explicitly extends that lineage by adding a positive developmental capacity:
 
@@ -4240,14 +4830,76 @@ revise the trust architecture without becoming incapable of social trust or
 collective participation.
 
 At constitutional scale this becomes one reason for the
-[*Schutzbalken*](0060-culture-program-ecology.semantic-definition.md#1321-democracy-as-schutzbalken-gegen-die-macht)
+[*Schutzbalken*](0060-culture-program-ecology.semantic-definition.md#democracy-as-schutzbalken-gegen-die-macht)
 to operate before overt coercion, while plural signals, reflection, effective
 correction, refusal, appeal, and exit remain available. The protector stays
 inside the symmetry rule: measures advertised as cognitive liberty can become
 ideological-power instruments if they monopolize truth, pre-classify legitimate
 thought, censor rival correction, or make their own authority unreviewable.
 
-#### Reflective roles of reason: press secretary, interpreter, and auditor
+<a id="noticing-under-anarcho-tyranny"></a>
+
+##### Noticing under anarcho-tyranny {#noticing-under-anarcho-tyranny}
+
+The [anarcho-tyranny
+configuration](0060-culture-program-ecology.semantic-definition.md#anarcho-tyranny-advanced-willkur)
+adds a specific civic use of cognitive liberty. Correction requires more than
+permission to utter a completed conclusion. A person must be able to notice
+instances, formulate a possible relation, compare it with records and rival
+accounts, state the result publicly, discover whether others independently see
+it, and associate around correction. High social, professional, or legal costs
+at the earlier links can leave formal speech intact while making the citizen
+**nearly forbidden to notice** in the practically relevant sense.
+
+The [four-variable enforcement-selection
+audit](0060-culture-program-ecology.semantic-definition.md#enforcement-selection-four-variable-audit)
+tests one route by which that condition can become selective. Harmfulness must
+remain separate from targetability, sanction leverage, and disciplinary yield.
+A licensed, employed, bank-dependent, property-bearing, locally rooted, or
+publicly reputable observer may possess a large sanctionable loss surface and
+therefore be easier to discipline than a more harmful but less reachable actor.
+That asymmetry does not prove that the observer's claim is true, that the burden
+was politically selected, or that the strict anarcho-tyranny gate is crossed.
+It identifies why one person-directed burden can suppress formulation and
+association across similarly dependent observers even without a general speech
+prohibition.
+
+Two forms of obstruction should remain distinct. **Penalty** can attach to
+formulation, comparison, articulation, or association; **occupation** can consume
+the time, attention, trust, and material margin needed to complete the chain even
+where no act is prohibited. The latter relation is specified through [civic
+surplus](0060-culture-program-ecology.semantic-definition.md#anarcho-tyranny-advanced-willkur).
+In the strongest direct coupling, an evidenced description of recurrent
+protection failure itself activates a legal, professional, employment, or
+equivalent burden: the person enters the tyranny branch by describing the
+anarchy branch. That causal relation must be demonstrated; anticipated stigma,
+ordinary disagreement, or consequences for independently wrongful conduct do
+not establish it.
+
+This pathway can involve both established meanings of *inner eye* without
+collapsing them. The local bigOther can mark a possible observation as morally
+dangerous before articulation; the person's own imaginative-conceptual inner eye
+can then lose the capacity to hold the instances together as a nameable
+relation. Neither result establishes that the suspected pattern is true.
+
+The gates remain sequential:
+
+```text
+noticing ≠ representative measurement
+representative measurement ≠ causal explanation
+causal explanation ≠ a group essence
+a group-level relation ≠ a judgment about an encountered person
+```
+
+Cognitive liberty protects the ability to cross each gate through evidence,
+criticism, uncertainty, and revision; it supplies no exemption from them. One
+chilling episode, one blind spot, one emotionally charged reaction, or one
+unpopular observation establishes neither an upstream programme, Ideology,
+anarcho-tyranny, capture, *Dummheit*, nor person-level guilt.
+
+<a id="reflective-roles-of-reason-press-secretary-interpreter-and-auditor"></a>
+
+#### Reflective roles of reason: press secretary, interpreter, and auditor {#reflective-roles-of-reason-press-secretary-interpreter-and-auditor}
 
 The originating suspicion should be stated in its forceful form:
 
@@ -4420,7 +5072,9 @@ The governing principle is not “If I am convinced, I may impose the truth.” 
 
 Love also governs method. The neighbour is not material to be reprogrammed. Even justified intervention should prefer explanation before deception, accompaniment before coercion, proportionate means, preservation of dignity, and restoration of independent judgment.
 
-### 22. Epistemic emancipation and MCIP
+<a id="epistemic-emancipation-and-mcip"></a>
+
+### 22. Epistemic emancipation and MCIP {#epistemic-emancipation-and-mcip}
 
 **Epistemic emancipation is lifting.** It is the practical process by which a full
 first-order capture is unbraided at the point where inherited concrete answers are
@@ -4501,6 +5155,8 @@ Invite returns authorship and leaves the uncertainty gap open
 Promise turns reflection into action and makes independence survivable
 ```
 
+<a id="scaffolding-courage-without-appropriating-judgment"></a>
+
 #### Scaffolding courage without appropriating judgment {#scaffolding-courage-without-appropriating-judgment}
 
 MCIP contains a central authorship paradox. If the intervener supplies the final
@@ -4543,6 +5199,8 @@ can make repeated responsible action inhabitable. At the institutional scale,
 jurisdiction, plural support, appeal, exit, correction, and repair must prevent
 the scaffold from becoming a new custodian. None of the three scales substitutes
 for the others.
+
+<a id="full-speech-empty-speech-obligation-and-responsibility"></a>
 
 #### Full speech, empty speech, obligation, and responsibility {#full-speech-empty-speech-obligation-and-responsibility}
 
@@ -4737,13 +5395,13 @@ interaction, appeal, and correction authoritative.
 An agency-supporting culture does not teach people to trust nobody. It teaches them **how to trust without surrendering the possibility of correction**.
 
 The infrastructure-directed intervention protocol is defined in
-[*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#123-response-calibrated-evidence-and-intervention-targets).
+[*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#response-calibrated-evidence-and-intervention-targets).
 Its [Self-Attribution
-Presumption](0060-culture-program-ecology.semantic-definition.md#164-self-attribution-presumption-and-internal-contestation)
+Presumption](0060-culture-program-ecology.semantic-definition.md#self-attribution-presumption-and-internal-contestation)
 means first credence and then discrimination: it does not make self-report
 infallible or convert the reported cosmology into fact.
 Its [Attribution-Source
-Asymmetry](0060-culture-program-ecology.semantic-definition.md#165-attribution-source-asymmetry-and-cross-audience-audit)
+Asymmetry](0060-culture-program-ecology.semantic-definition.md#attribution-source-asymmetry-and-cross-audience-audit)
 denies that presumption to hostile labels applied to someone else.
 It does not authorize institutions to evade person-level protections by
 redescribing indirect burdens on association, worship, employment, education,
@@ -4842,7 +5500,9 @@ The following questions help identify the configuration without assuming in adva
 
 No single answer is decisive. The pattern matters.
 
-### 25. Examples, cases, and boundary tests
+<a id="examples-cases-and-boundary-tests"></a>
+
+### 25. Examples, cases, and boundary tests {#examples-cases-and-boundary-tests}
 
 This section is the example home for the first-order/lifted distinction across the
 theory family. The cases do not prove the framework. They make its classifications
@@ -5018,7 +5678,9 @@ technology to change.
    answers are layers of one weave. Lifting does not install a second evaluator
    above a first bigOther.
 
-#### Dual religious identification and the converso hard case
+<a id="dual-religious-identification-and-the-converso-hard-case"></a>
+
+#### Dual religious identification and the converso hard case {#dual-religious-identification-and-the-converso-hard-case}
 
 “I am both Christian and Jewish” does not by itself establish two independently
 operative bigOthers. In a person exposed to conversion, persecution, family
@@ -5057,7 +5719,9 @@ persecution, outward ritual and public avowal are especially weak evidence of th
 operative architecture. This case is a theory-generated hard test, not a general
 historical classification of conversos.
 
-#### Blood feud as a corporate-subject hard case
+<a id="blood-feud-as-a-corporate-subject-hard-case"></a>
+
+#### Blood feud as a corporate-subject hard case {#blood-feud-as-a-corporate-subject-hard-case}
 
 The originating Culture Mechanics proposition is:
 
@@ -5129,6 +5793,102 @@ Millions of citizens may trust a spokesperson whom none knows personally because
 #### Political causal story
 
 A public condition is narrated as the product of a chosen culprit, a defined victim, and a remedy administered by the institution already seeking greater authority. The story may be correct, partly correct, or strategically distorted. Epistemic agency requires comparison with alternative causal models, omitted variables, base rates, predicted consequences, and the institution's incentives—not automatic rejection merely because the story is political.
+
+<a id="moralized-citizen-sensor-and-internal-observer"></a>
+
+#### Moralized citizen-sensor and internal observer {#moralized-citizen-sensor-and-internal-observer}
+
+A reporting mythology can offer the citizen a morally creditable sensor role:
+notice the incident, classify it, preserve it, and transmit it to an authorized
+custodian. This role can be indispensable where victims lack direct access to
+institutions or evidence would otherwise disappear. It supports epistemic agency
+when the reporter may preserve uncertainty, attach evidence, distinguish direct
+observation from inference, correct a submission, and learn how the report was
+adjudicated.
+
+The same interface can impair agency when reporting itself becomes a visible proof
+of virtue while restraint, doubt, contextualization, or criticism of the intake
+system becomes morally suspect. A thank-you message, badge, campaign formula,
+social approval, professional expectation, or institutional acknowledgement can
+reward the carrier before the reported claim is verified. That reward does not
+make the report false. It changes the incentive and identity environment in which
+observations are selected and expressed.
+
+At population scale, citizens can thereby become **distributed moralized
+sensors**. They need not share a central plan, and the portal operator need not
+direct each report. Common category prompts, moral roles, examples, and expected
+responses can nevertheless align what is noticed and transmitted. Aggregate
+volume then risks being mistaken for independent corroboration even when reports,
+media stories, and public reactions share one campaign, dataset, wire source, or
+classification rule. Source-lineage and dependency analysis are therefore part
+of the agency audit.
+
+A preserved fragment can also arrive with an **affective and action instruction**:
+a caption supplies the culprit category, the expected indignation, and the demand
+to share, mark, report, or contact an institution before the recipient has sought
+the complete context. Engagement-based amplification may then select the
+high-arousal package for further visibility. This is an application of
+[audience-modelled reconstruction](#audience-modelled-reconstruction-and-decompression):
+the recipient reconstructs a larger moral and factual scene from a compressed,
+preclassified packet. Visibility and emotional convergence establish neither
+context, source independence, truth, nor proportional remedy; algorithmic
+amplification likewise establishes no platform intention without further evidence.
+
+This distribution is also a **reach multiplier**. A public or private power need
+not observe every setting directly if participants preserve, forward, publicize,
+or route selected conduct to an authority. The distributed network may be vastly
+larger than the staff that receives its reports, while the receiving institution
+supplies durable memory and possible consequence. The mechanism requires neither
+an omniscient centre nor a continuously observing officer; a credible and
+uncertain possibility of observation can affect conduct before any report is
+made.
+
+The channel can also let a participant recruit third-party power into a private
+conflict. Concern, mistake, resentment, rivalry, revenge, identity performance,
+and mixed motives may produce outwardly identical submissions. Role language
+cannot identify which motive governed, and motive alone cannot determine whether
+the reported claim is true. An agency-preserving system therefore keeps reporter
+status, motive evidence, factual evidence, legal or institutional category,
+sanction, and target standing analytically separate. It must not reward an aligned
+reporter with automatic credibility or dismiss an adverse reporter solely by
+attributing a bad motive.
+
+The observer can also become internal. If a person cannot know which neighbour,
+colleague, interlocutor, platform, or automated process may report an utterance,
+the anticipated third-party gaze can be carried locally as the **local bigOther**.
+The person may pre-screen lawful formulation before any explicit order or sanction
+occurs:
+
+```text
+uncertain distributed observation
+        → anticipated classification and report
+        → anticipated institutional or social consequence
+        → self-censorship or formulaic safe speech
+```
+
+This is a capability and chilling-effect hypothesis, not proof that every person
+is intimidated or that an operator intends cognitive capture. Evidence should
+test awareness, perceived reportability, category clarity, sanction probability,
+observed speech changes, correction experience, and available exit or appeal.
+The individual's own imaginative-conceptual inner eye remains distinct: it can
+narrow if some relations become difficult to formulate, but the local bigOther
+names the internalized observer, not that loss itself.
+
+Legitimate crime reporting, whistleblowing, emergency signals, and good-faith
+complaints are not condemned by this model. The safeguard is to keep three acts
+separate: receiving an allegation, establishing a fact, and imposing or
+publicizing a consequential classification. Anonymity may protect the first;
+evidence and due process remain necessary for the latter two. The moral value of
+care for a possible victim neither licenses character assassination without
+proof nor removes the accused person's standing to receive an intelligible claim,
+answer it, and obtain independent adjudication where feasible.
+
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#moralized-observation-to-mandate-loop)
+owns the complete role grammar; [*Epistemic
+Constitution*](0030-epistemic-constitution.semantic-definition.md#report-to-reality-laundering-and-endogenous-observation)
+owns the report-to-reality and ascertainment failures; and [*Culture Program
+Ecology*](0060-culture-program-ecology.semantic-definition.md#moralized-reporting-and-report-to-mandate-loop)
+owns institutional safeguards and the bounded worked example.
 
 #### Counter-institutional capture
 
@@ -5213,9 +5973,11 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Pastoral epistemic authority** | Epistemic trust grounded in guidance, care, protection, or personal interpretation. | Can support judgment or make surrender feel like safety. |
 | **Socialization into institutional trust** | Learning which offices, credentials, institutions, and channels may certify reliable knowledge. | Installs the background trust architecture through which later claims are evaluated. |
 | **Lifted mechanical solidarity** | Shared binding rules generate, select, apply, and revise concrete answers. | Explains how one full capture can produce changing outputs and can, as one application, constitute differentiated citizens, institutions, and jurisdictions. |
+| **Profitable-and-unobserved deviation counterfactual** | Asks whether an impersonal obligation would still govern if detection, immediate sanction, and reputational consequence were credibly absent. | Conduct under genuinely low-observation conditions can discriminate an internalized governor from direct surveillance more strongly than hypothetical self-report, but does not isolate the local bigOther from habit, uncertainty, long-horizon interest, private conviction, or constraint. |
 | **Impersonal universality against private interest** | Provisional bridge in which a candidate rule loses the privileged justificatory force of “because it is me or mine” and is tested under exchanged positions. | Shows one coarse formal similarity between Kantian universalization and Rousseauian generality without equating their person–collective architectures. |
 | **Remove-the-me test** | Removes “because it is me, mine, or my group” as sufficient justification, exchanges the persons occupying the positions, and retains materially relevant context. | Supplies one possible lifted selection procedure; passing the test does not make a rule context-free, true, good, or person-preserving. |
-| **Organic solidarity** | Cohesion through specialization and interdependence. | Produces differentiated professions and institutions whose legitimacy may be supplied by lifted mechanical solidarity. |
+| **Durkheimian organic solidarity** | Source concept of cohesion through specialization, function, and reciprocal interdependence. | Is preserved as Durkheim's category and analytically decomposed here into organic differentiation plus lifted mechanically solidary common binding force. |
+| **Organic differentiation** | Specialized roles, knowledge, interfaces, handoffs, and reciprocal functional dependence. | Names the differentiated topology rather than a second Culture Mechanics solidarity mechanism. |
 | **bigOther** | Culture-mechanical sentiment classifier linking symbolic order to felt legitimacy, shame, loyalty, and belonging. | Supplies the local source and receiver through which field authority becomes affectively operative. |
 | **Mechanical-solidarity field** | Emergent coherence among compatible local bigOthers that acts back through expectations, sanctions, institutions, and apparent consensus. | Names the group effect within which epistemic agency is exercised. |
 | **Distributed bigOther** | Dynamically maintained symbolic-affective network state reproduced by local bigOthers, institutions, roles, practices, and artifacts. | Turns individual signals and enforcement into a self-reinforcing social field with memory. |
@@ -5230,17 +5992,21 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | ***Herrschaftsideologie*** | Privileged-vision mythology that converts claimed epistemic asymmetry into governing jurisdiction. | Names a possible pathological authorization of the elevated speaker position; hierarchy or expertise alone does not establish it. The primary semantic home is *Mythology Construction*. |
 | **Repeater gain** | Network analogy for greater reach, credibility, frequency, connectivity, or institutional amplification. | Names the amplification dimension of the trusted-opinion-leader function, crowds, or infrastructure; it is not a separate social position. |
 | **Trusted-opinion-leader function / trusted opinion leader** | Distributed receiving-field function to which members refer judgment, interpretation, or validation; a trusted opinion leader is its human person-in-role occupant. | Canonical function combining, in variable amounts, repeater gain, gatekeeping, authority, translation, modelling, brokerage, chief-facing mediation, representation, and feedback. |
+| **Professional idea-mediator function / professional idea mediator** | Source-side selection, translation, packaging, and circulation of ideas for audiences outside their originating or specialist domain; a professional idea mediator is its present human role occupant. | Can feed, overlap with, or remain separate from the receiving-side trusted-opinion-leader function; neither mediation nor prominence establishes trusted reception, competence, truth, or capture. |
+| **Prominence-derived apparent competence** | Operative confidence on a question supplied by visibility, fluency, prestige, repeated access, moral seriousness, or demonstrated competence elsewhere without a correspondingly demonstrated competence relation for the present claim. | Identifies a possible authority-formation mechanism and domain mismatch; it is not a judgment that the speaker lacks all competence or that the claim is false. |
 | **Trusted-carrier correction lock** | Gain-weighted morphology in which high-trust receiving-field positions remain sufficiently aligned to withhold distributed credibility, institutional reception, or operative force from a public correction despite growing ordinary dissent. | Possible implementation of correction nullification; neither carrier agreement nor the lock proves falsehood, coordination, capture, systemic lying, or Shadow-Sovereign rule. |
 | **Benda's *clerc*** | Intellectual-vocation role normatively answerable to disinterested truth, reason, and justice. | Can carry the trusted-opinion-leader function and thereby gain privileged routing and cascade, but is not its synonym; neither classification establishes betrayal or capture. |
 | **Culture Program capture** | Redirection of an incumbent Culture Program's authorities, metrics, appointments, correction routes, and reproduction machinery until they install or reproduce an incompatible successor. | Uses trusted leaders, offices, and authenticated channels as possible ingress and cascade mechanisms, but remains a distinct ecology-level hypothesis. System-level capture does not by itself identify a covert operational agent. The primary semantic home is *Culture Program Ecology*. |
 | **Master signifier / S1** | Privileged signifier organizing identities and bodies of knowledge; translated here as a compressed protocol token. | Can select and activate the common interpretive mode; becomes pathological when it terminates inquiry. |
 | **Laser synchronization** | Metaphor for dynamic alignment of attention, affect, interpretation, and action. | Describes how many local classifiers enter a coherent common mode. |
-| **Clockwork coordination** | Project-developed analogy for differentiated contributions routed toward a common result. | Resembles the organizational form associated with organic solidarity but is not identical with the cohesion organic interdependence produces. |
+| **Clockwork coordination** | Project-developed analogy for differentiated contributions routed toward a common result. | Resembles organic differentiation within Durkheimian organic solidarity; it does not by itself supply the shared binding generator or prove social cohesion. |
 | **Ideological power** | Michael Mann's category, adapted by Rainer Mausfeld for power over sense-making categories, interpretive contexts, and framing narratives. | Names a possible macro-level means of programming the interpretive and trust environment; this entry focuses more broadly on the subject-side mechanisms and their corrigibility. |
 | **Causal story** | Narrative assigning cause, responsibility, victim, fixer, and remedy. | Political-scale mechanism for organizing the distributed bigOther and forming agendas. |
 | **Doctrinal-progeny test** | Evaluation of a doctrine through the distribution and causal relations of its actual descendants. | Extends the agency audit from what recipients are told to what the doctrine, receiver architecture, interpreters, and institutions recurrently produce. The primary semantic home is *Mythology Construction*. |
 | **Classification-symmetry rule** | Exchange program names, declared ideals, enemies, and conventional ideological families, then apply the same morphology, causality, offspring, consequence, and correction tests. | Prevents both doctrinal self-exemption and hostile enemy-label inflation. The strong Durkheimian accountability rule in *Mythology Construction* supplies its consequence-facing form. |
 | **Persuasion** | Process of changing belief, evaluation, identity, or action. | Can restore or suppress agency depending on epistemic direction, reciprocity, and correction. |
+| **State transmission / operation transmission** | Communication of a finished conclusion or result versus cues through which a recipient locally reconstructs relevant generating operations. | Distinguishes compressed result transfer from operation-rich formation without claiming that a mental state or operation is literally copied. |
+| **Operation-bootstrapped codebook formation** | Recurrent operation transmission constructs locally executable and sufficiently compatible reconstruction resources, enabling later compressed communication. | Supplies the dynamic precondition for audience-modelled reconstruction and compressed master-signifier activation; relevant overlap, fidelity, reality contact, and corrigibility matter more than raw vocabulary size. |
 | **Socratic manipulation** | Questions that simulate open inquiry while steering toward a preselected conclusion. | Shows why an autonomy-flavoured method is not automatically truth-directed. |
 | **Contaminated mindware** | Learned rules or beliefs that impair rationality and may disable their own evaluation. | Supplies content and anti-correction rules that authority and identity can protect. |
 | **Motivated reasoning** | Directional use of reasoning toward a preferred conclusion. | Often occurs downstream of identity, sentiment, or authority-gated classification. |
@@ -5259,7 +6025,7 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Piety toward the real** | Humble willingness to let complex reality correct concepts, stories, institutions, and conviction. | Supplies the normative standard and final right of refusal. |
 | **Holistic structural realism** | Model-centered epistemology in which concepts and operations are tested through prediction, surprise, and revision. | Supplies the positive reality-correction loop used by this entry. |
 | **Moral individualism** | Shared commitment to the equal dignity and rights of persons. | Prevents factual correction and respect for social reality from becoming contempt for persons or worship of institutions. |
-| **Person-centred humanism** | Explanatory gloss for Durkheim's religion of the human person, not a replacement source term. | Names Humanity as the sacred object while locating its inviolable standing in every concrete person; blocks both aggregative sacrifice and subjecthood absorption. |
+| **Person-centred humanism** | Explanatory gloss for Durkheim's religion of the human person, not a replacement source term. | Names Humanity as the sacred object while locating complete and equal standing in every individual living human being under the project's recognition-only principle; blocks capability-gated admission, aggregative sacrifice, and subjecthood absorption. |
 | **Nächstenliebe** | Love of neighbour directed toward the concrete person's reality-based good. | Requires concern and sometimes intervention while forbidding instrumental dehumanization. |
 
 ### 27. Scope and terminological cautions
@@ -5353,6 +6119,11 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   substantially orthogonal, so calm conduct may underdetermine the classifications
   and authority relations that become operative under culturally loaded
   conditions.
+- **Relational observability of orthogonality:** interaction form can carry
+  second-order information about whether cultural alignment is a condition of
+  interpersonal standing; observer surprise can expose expected covariance, while
+  person-specific representation can keep the coordinates differentiated through
+  nonconvergence.
 - **Proposed diagnostic:** the contrastive correction-interface probe first
   confirms comprehension of a disclosed causal form through relatively uncharged
   cases, then tests whether correction practice changes selectively across
@@ -5364,17 +6135,31 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   A-specific protected exceptions can raise the likelihood of A's installation
   or load-bearing status, while capture remains a stronger inference requiring
   displaced correction or authorship.
+- **Negative-space fingerprint component:** recurrent selective failures to
+  notice, name, compare, or pursue a causal form can add evidence only where the
+  same capacity is demonstrated in matched cases and ignorance, specialization,
+  fatigue, trauma, incentives, access, wording, memory, and ordinary inconsistency
+  fit less well.
 - **Proposed intervention:** guided unbraiding maps and loosens selected automatic
   braid relations without compelling a successor conclusion; possible
   de-radicalization is its aspirational outcome only where radicalizing capture
   is independently established. MCIP is one candidate method, and success means
   durable reflective ownership rather than agreement with the guide.
-- **Social environment:** a mechanical-solidarity field, often combined with organic differentiation.
+- **Social environment:** a lifted mechanical-solidarity field can constitute and
+  correct a common order across organic differentiation while first-order outputs
+  remain diverse.
+- **Impersonal-obligation discriminator:** the profitable-and-unobserved deviation
+  counterfactual asks whether a role rule would remain governing when immediate
+  detection, sanction, and reputation were credibly absent. It supports but does
+  not prove an internalized-governor explanation and retains habit, uncertainty,
+  interest, conviction, and constraint as rivals.
 - **Durkheim challenge:** progressive preponderance and inverse development are
   treated as contestable historical hypotheses that may be wrong; Du Picq's
   differentiated military formation and the Nazi experiment show different
   scales at which advanced division of labour can coexist with, or intensify the
-  need for, mechanical solidarity.
+  need for, mechanical solidarity. The project further decomposes Durkheimian
+  organic solidarity into organic differentiation and lifted mechanically
+  solidary binding force without attributing that reinterpretation to Durkheim.
 - **Whole-formation topology:** functional morphology of mechanical solidarity
   comprises the population body, the distributed trusted-opinion-leader function,
   common field, field-generating and directing function, reciprocal coupling, and
@@ -5408,6 +6193,11 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   credibility, institutional reception, or operative force even while ordinary
   dissent grows; personal defection matters only when it becomes functional
   defection with retained field authority or a bypass route.
+- **Carrier-authority surface audit:** production, selection, translation, moral
+  judgment, brokerage, placement, public mediation, inner-relation governance,
+  and liability are separately mapped before one integrated power position is
+  inferred; an epistemic-liability gap appears when authority and benefit accrue
+  near recommendation while others bear costs and failure does not alter standing.
 - **Chief-facing dimension:** first-officer mediation is the command-role analogy
   for how some carriers translate direction, defend or shield the directing organ,
   absorb contention, and return operational reality upward.
@@ -5431,6 +6221,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Communication model:** audience-modelled reconstruction--finite messages are
   composed against an anticipated recipient codebook and induce a larger factual,
   causal, moral, and authorization model.
+- **Dynamic communication precondition:** operation-bootstrapped codebook
+  formation uses shared experience, example, questioning, contrast, practice, and
+  correction to build enough relevant local overlap for later compressed state
+  transmission; inherited tokens do not carry a finished decoder.
 - **Communication audits:** decompression analysis compares surface content,
   omissions, assumed recipient, predictable and actual reconstruction, alternative
   decompressions, and resulting action or authorization.
@@ -5466,6 +6260,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Self-like representation:** multi-mind-self presentation, which does not by
   itself establish collective agency.
 - **Possible collective agent:** the operative multi-mind-self or multi-mind-self proper.
+- **Sovereign-righteousness trunk:** the open developmental research question asks
+  how one human comes to experience their judgment as execution of a higher order
+  whose claimed duty overrides ordinary reciprocity; office, expertise,
+  conviction, or domination alone does not establish the relation.
 - **Family-level shorthand:** unqualified *multi-mind-self* may name the broader
   self-like family in explanatory prose, but agency, intention, ownership, and
   responsibility claims require the operative threshold.
@@ -5547,6 +6345,13 @@ Audience-modelled reconstruction:
 > **communicator's model + anticipated recipient codebook → selected facts,
 > omissions, sequence, symbols, and cues → finite message → recipient
 > reconstruction → factual, causal, moral, action, and authorization consequences**
+
+Operation-bootstrapped compression:
+
+> **inherited artifacts + recurrent experience, example, questions, contrasts,
+> practice, and correction → locally reconstructed codebooks → sufficient relevant
+> overlap → compressed tokens evoke larger models; renewed operation transmission
+> maintains transfer, correction, and generational continuity**
 
 Political language as authorization bid:
 
@@ -5645,7 +6450,7 @@ The vocabulary above does not come from one theory. The following map distinguis
 
 ### Established terms used substantially in their source sense
 
-- **Mechanical and organic solidarity — Émile Durkheim.** [*De la division du travail social* (1893)](https://classiques.uqam.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html) is the defining source. Durkheim's concepts are retained; *lifted mechanical solidarity* is the extension made by this entry.
+- **Mechanical and organic solidarity — Émile Durkheim.** [*De la division du travail social* (1893)](https://classiques.uqam.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html) is the defining source. Durkheim's distinction is retained when reporting his theory; *lifted mechanical solidarity* and the decomposition of his organic-solidarity composite into organic differentiation plus lifted common binding force are extensions made by this entry.
 - **Collective effervescence — Émile Durkheim.** [*Les formes élémentaires de la
   vie religieuse* (1912)](https://classiques.uqam.ca/classiques/Durkheim_emile/formes_vie_religieuse/formes_elementaires.html)
   describes collective excitation, reciprocal amplification, and rhythmic unity.
@@ -5687,6 +6492,7 @@ The vocabulary above does not come from one theory. The following map distinguis
 | **Laser synchronization** | Analogy with physical lasers | A heuristic metaphor for social coupling and coherent collective output, not a claim that Durkheim or Lacan proposed a laser model or that social alignment obeys laser physics. |
 | **Magnetization, remanence, domains, domain walls, charged particles, photons, and repeater gain** | Analogies with physics and network engineering; William James's magnetic phenomenology and Le Bon's magnetic crowd language are source neighbors | Project-developed models for durable alignment, persistence, boundaries, source/back-action, relative carrier-independence, and unequal gain. Repeater gain is an analogy dimension, not a separate social position. James and Le Bon did not propose this topology, and it asserts no physical identity. |
 | **Trusted-opinion-leader function / trusted opinion leader** | General opinion-leadership and diffusion research, including [Thomas W. Valente and Patchareeya Pumpuang](https://doi.org/10.1177/1090198106297855) | Adds a project-developed distributed function centred on the receiving field and a person-in-role term for its human occupant. Repeater gain, translation, modelling, representation, feedback, and first-officer mediation are varying dimensions or expressions of this one function. It is broader than the medical-marketing category *key opinion leader*. The mapping to Benda's *clerc* preserves his normative-vocational source term as distinct. |
+| **Professional idea mediation and prominence-derived apparent competence** | [F. A. Hayek, “The Intellectuals and Socialism”](https://www.mises.ch/library/Hayek_Intellectuals%26Socialism.pdf); [Roland Baader, *totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf), especially pp. 35--40 and 124--126 | Hayek supplies the broad “secondhand dealers in ideas” source-side role; Baader adopts that role and explicitly joins prominence and *Anscheinskompetenz* to political amplification. The professional-idea-mediator term, its separation from the receiving-side trusted-opinion-leader function, the unknown-speaker counterfactual, and the Baader--TOL--Sowell authority lifecycle are Culture Mechanics developments. |
 | **First-officer mediation** | Military neighbours include [Falconer on the naval lieutenant (1769)](https://paulturnbull.org/project/southseas/refs/falc/0806.html), [von Steuben's regulations (1779)](https://www.loc.gov/item/05030726/), [Jomini on the chief of staff (1862 English edition)](https://www.gutenberg.org/cache/epub/13549/pg13549-images.html), [the proposed naval executive-officer organization (1886)](https://www.usni.org/magazines/proceedings/1886/october/naval-reorganization), and [Moss's *Officers' Manual* (1906)](https://archive.org/details/officersmanualf00mossgoog). Corporate and organizational neighbours include [Barnard on formal and informal organization (1938)](https://openlibrary.org/books/OL6381483M/The_functions_of_the_executive), [O'Donnell on the *assistant-to* (1960)](https://cmr.berkeley.edu/1960/05/2-3-the-role-of-the-assistant-a-modern-business-enigma/), [Likert's linking pin (1961)](https://books.google.com/books?id=VYlqAAAAMAAJ), [Dale's general-staff account (1969)](https://books.google.com/books/about/Management_theory_and_practice.html?id=8XAtAAAAIAAJ), and [Kanter on the boss--secretary relation (1977)](https://openlibrary.org/books/OL21289510M/Men_and_women_of_the_corporation). | Synthesizes bidirectional interpretation, operational sensing, relief from detail, public unity, private correction, and possible symbolic shielding as one chief-facing expression of the trusted-opinion-leader function. The cited offices and concepts are component-neighbours, not synonyms, a demonstrated genealogy, evidence that the role was created to preserve superhuman elevation, or sources for the complete multi-mind-self morphology. |
 | **Multi-mind-self presentation, operative multi-mind-self, and unitary collective ownership** | Joscha Bach's [“Synthetic Sentience”](https://media.ccc.de/v/37c3-12167-synthetic_sentience); [Otto von Gierke on the real unity of associations](https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/otto-gierke-on-the-relationship-between-the-individual-and-the-community-1902); [F. W. Maitland on moral and legal personality](https://doi.org/10.1017/CBO9780511810435.009); [Christian List and Philip Pettit on group agency](https://doi.org/10.1093/acprof:oso/9780199591565.001.0001) | The term *multi-mind-self* is taken from Bach. The present synthesis separates self-like presentation from operative collective agency and fused agency, adds local bigOthers, mechanical-solidarity field formation, *Beseelung*, nested authorship, the episodic profile, and the claim that one operative collective self can own through many persons. The other cited authors supply group-person and group-agency neighbours, not that implementation or register rule. |
 | **Privileged authority-addressed programming topology and programming state** | Freud on group psychology; Green and Brock on transportation; Horton and Wohl on parasocial interaction; Chwe on common knowledge; Bourdieu on authorized speech; Collins on interaction rituals | Synthesizes several mechanisms into a new, testable one-to-many realization of the broader functional morphology. No source establishes the complete compound state. |
@@ -5696,7 +6502,7 @@ The vocabulary above does not come from one theory. The following map distinguis
 | **Cognitive-relief hypothesis** | Wegner's situated formulation “Denken tut weh” in *Relevante Strukturen*; neighbouring research on need for closure, cognitive effort, and authority | Turns a memorable witness formulation into a bounded, testable mediation hypothesis about relief, checking, and authority-gated acceptance. It is not a claim about intelligence, universal motivation, or prevalence, and it should not be attributed to Wegner in this operational form. |
 | **Normopathic adaptation** | [Erich Wulff, *Psychiatrie und Klassengesellschaft* (1972)](https://www.econbiz.de/Record/psychiatrie-und-klassengesellschaft-zur-begriffs-und-sozialkritik-der-psychiatrie-und-medizin-wulff-erich/10004758497); Joyce McDougall's psychoanalytic normopathy; [Hans-Joachim Maaz, *Das falsche Leben* (2017)](https://www.chbeck.de/media/2215/paperback1-17.pdf) | Uses the family of terms descriptively for adaptation to a pathological social normality without adopting any one author's clinical or political theory. The term has more than one intellectual genealogy, so a single uncontested origin should not be asserted. |
 | **Piety toward the real** | Robert N. Bellah's introduction to [*Émile Durkheim on Morality and Society* (1973)](https://platypus1917.org/wp-content/uploads/The-Heritage-of-Sociology-Emile-Durkheim-On-Morality-and-Society_-Selected-Writings-University-of-Chicago-Press-1973.pdf) | Bellah's phrase characterizes Durkheim; this entry turns it into an explicit norm of epistemic model correction. It is not Durkheim's own technical term. |
-| **Moral individualism and religion of the human person** | Durkheim, [“L'individualisme et les intellectuels” (1898)](https://classiques.uqam.ca/classiques/Durkheim_emile/sc_soc_et_action/texte_3_10/individualisme.html) ([English translation, pp. 46–47](https://platypus1917.org/wp-content/uploads/The-Heritage-of-Sociology-Emile-Durkheim-On-Morality-and-Society_-Selected-Writings-University-of-Chicago-Press-1973.pdf)) | Durkheim's moral defense of the sacred individual and contrast with aggregative utility are retained. **Person-centred humanism** is the project's explanatory gloss, not Durkheim's replacement term; the distinction between unconditional respect for persons and conditional evaluation of propositions is also added here. |
+| **Moral individualism and religion of the human person** | Durkheim, [“L'individualisme et les intellectuels” (1898)](https://classiques.uqam.ca/classiques/Durkheim_emile/sc_soc_et_action/texte_3_10/individualisme.html) ([English translation, pp. 46–47](https://platypus1917.org/wp-content/uploads/The-Heritage-of-Sociology-Emile-Durkheim-On-Morality-and-Society_-Selected-Writings-University-of-Chicago-Press-1973.pdf)) | Durkheim's moral defense of the sacred individual and contrast with aggregative utility are retained. **Person-centred humanism** is the project's explanatory gloss, not Durkheim's replacement term; the distinction between unconditional respect for persons and conditional evaluation of propositions is also added here. The recognition-only axiom and its standing-from-fertilization boundary are separate project commitments, not claims attributed to Durkheim. |
 | **Universal law, Humanity, and general will** | Kant, [*Groundwork*, AA 4:421](https://korpora.org/kant/aa04/421.html) and [AA 4:428–429](https://korpora.org/kant/aa04/429.html); Rousseau, [*The Social Contract*, II.3 and II.6](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm) | Supplies the source material for a narrow formal comparison between universalizing an actor's maxim and legislating a general law. **Impersonal universality against private interest**, the remove-the-me formula, and the person-versus-collective diagnostic are project-developed and should not be attributed to either philosopher. |
 | **Cognitive liberty** | [Richard Glen Boire, “On Cognitive Liberty”](https://www.cognitiveliberty.org/on-cognitive-liberty-boire/); [Jan Christoph Bublitz, “My Mind Is Mine!?” (2013)](https://doi.org/10.1007/978-94-007-6253-4_19) | Extends freedom from mental interference into a positive developmental capacity to inspect and revise one's socialized trust architecture. That extension is not standard in the legal literature. |
 | **Epistemic adulthood** | [Robert Kegan's constructive-developmental theory](https://mitpressbookstore.mit.edu/book/9780674445888) | Applies Kegan's subject–object and self-authorship pattern specifically to epistemic trust. The term and trust stages are new here. |
@@ -5715,6 +6521,8 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
 - **role-conferred epistemic authority spillover**;
 - **culture mechanics** in the specific sense used here;
 - **lifted mechanical solidarity**;
+- **profitable-and-unobserved deviation counterfactual** as the bounded
+  impersonal-obligation discriminator defined here;
 - **first-order full capture**, **lifted full capture**, the distinction between
   shared answers and a shared answer generator, and **universal jurisdiction over
   the allocation and limitation of first-order outputs and jurisdictions**;
@@ -5738,6 +6546,8 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   program-indexed correction discontinuities, protected directions, activation
   thresholds, affective qualifiers, and recovery conditions--not a unique,
   immutable, or already validated identifier;
+- **negative-space fingerprint component** as recurrent selective non-noticing
+  across matched causal cases, subject to explicit ordinary rival explanations;
 - **guided unbraiding and possible de-radicalization**, the **individualized
   braid map**, **self-propagating epistemic audit**, **avalanche hypothesis**, and
   the contrast between a **self-analysis loop** and **self-deception loop** as
@@ -5760,12 +6570,32 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   **trusted-opinion-leader-function profile** as its multidimensional applied
   analysis of gain, authority, routing, translation, chief-facing mediation,
   feedback, jurisdiction, independence, and corrigibility;
+- **professional idea-mediator function** as the source-side selection,
+  translation, packaging, and circulation position and **professional idea
+  mediator** as its human role occupant, kept distinct from idea producer,
+  trusted receiving-field carrier, and institutional uptake;
+- **prominence-derived apparent competence** and the Baader--trusted-opinion-
+  leader--Sowell authority lifecycle as proposed mechanisms joining prominence,
+  cross-domain deference, consequential recommendation, failure insulation, and
+  renewed apparent competence;
+- **carrier-authority surface audit**, **inner-relation governance**, and
+  **epistemic-liability gap** as project terms separating multiplex carrier
+  functions and the location of benefits and error costs, with Schelsky's
+  reflection elite, salvation-goods mediation, hierocratic inner relation, and
+  institutionalized permanent reflection as source neighbours rather than the
+  project's complete taxonomy;
 - **trusted-carrier correction lock** as the gain-weighted configuration in which
   aligned high-trust receiving-field positions prevent a sustained correction
   from acquiring distributed credibility, reception, or operative force, while
   preserving the difference between personal and functional defection;
 - **privileged authority-addressed programming topology** as one realization of
   the broader functional morphology, and the proposed **programming state**;
+- **developmental installation of sovereign righteousness** as an explicitly
+  immature trunk concept for installed asymmetrical moral personhood, including
+  distributed deference, restricted reciprocity, burdened-duty phenomenology,
+  harm reclassification, and the developmental-phenomenology versus public-myth
+  boundary, rather than a diagnosis inferred from office, confidence, cruelty,
+  or domination;
 - **multi-mind-self presentation**, **operative multi-mind-self / multi-mind-self
   proper**, **fused multi-mind-self**, their broad-versus-strict register rule,
   the present functional threshold, **nested authorship**, and state profiles,
@@ -5782,7 +6612,8 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
 - **person-centred humanism** as an explanatory gloss for Durkheim's moral
   individualism, together with the maxim **remove “because it is me,” not the
   person or the situation** and the aggregative-versus-fusion sacrifice
-  distinction;
+  distinction, while the recognition-only human-standing axiom remains a
+  project commitment rather than an attribution to Durkheim;
 - the three **Humanism–Diversity relation types**—nested, supplementary, and
   replacement—together with capitalization of *Diversity* only for the organizing
   master signifier or programmatic configuration;
@@ -5790,6 +6621,9 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   transition**, **finality cut**, and ten-step reflective audit sequence in their
   present Culture Mechanics senses;
 - **state transmission**, **operation transmission**, and **Socratic manipulation** as defined here;
+- **operation-bootstrapped codebook formation**, **reconstruction codebook** as
+  distributed analytical shorthand, and the claim that recurrent operation-rich
+  formation makes later compressed state transmission possible;
 - **audience-modelled reconstruction**, **adversarial audience-modelled
   reconstruction**, and the **decompression audit** in their present operational
   forms;

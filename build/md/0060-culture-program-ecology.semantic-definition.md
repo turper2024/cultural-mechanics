@@ -115,6 +115,15 @@ The central power-containment principle is:
 > familiar institutions are corrigible implementations of that purpose, not its
 > sufficient definition.**
 
+Its first-line speech implication is:
+
+> **Oppositional speech must remain privately formable, publicly expressible,
+> discoverable, receivable, organizable, and capable of consequential correction.
+> Censorship is a high-value, non-localizing fault sentinel: it can strongly
+> establish that this correction architecture is impaired before the exact
+> Pure-Ideology, un-reality, un-reason, systemic-lying, scale, or actor diagnosis
+> has been completed.**
+
 The central near-term public-trust proposal is:
 
 > **A politician may advocate a partisan answer to the common good; the
@@ -285,12 +294,17 @@ This document is the primary semantic home for:
 - the **Propagation–Visibility Constraint**;
 - the **systemic skeleton** and **living cultural body** of an operative Culture
   Program;
+- **mythic radiance** and the conditional **ceremonial-radiance-capture**
+  mechanism;
 - **Culture Program carrying structure** and infrastructure-directed
   countermeasures;
 - **visible conformity markers**, **conformity-marker saturation**, and the
   candidate **public symbolic-saturation ceiling**;
 - the **Core Program Alignment Audit**, staged capture inference, and
   response-calibrated evidence and intervention targets;
+- **boundary-crossing reality challenges**, **claim-matched capability
+  challenges**, and auditability by design through a **trace-generating
+  *Schutzbalken***;
 - Culture as a mixed operative braid of branch components;
 - **Strong Programmatic Diversity** as a typed content profile and the
   **identity-differentiated corrective-unity profile** used by the
@@ -314,6 +328,9 @@ This document is the primary semantic home for:
   non-extendable constitutional clock, together with the optional maximal
   ***Scherbengericht* variant** and its stricter constitutional compatibility
   test;
+- hunch or distributed anomaly sensing as trigger rather than verdict,
+  **collective de-authorization without guilt judgment**, and **mandatory
+  institutional portability**;
 - **pluralist adaptive constitutional search**, its scorecard and foot-voting
   sensors, and its serial, parallel, jurisdictional-selection, and hybrid forms;
 - the proposed **Lifted-Order Capacity Dashboard**—**Speak · Own · Refuse · Exit ·
@@ -327,7 +344,8 @@ This document is the primary semantic home for:
 It imports rather than redefines:
 
 - homo duplex, the local bigOther, the single-slot principle, full capture,
-  propagation and enforcement forms, *Beseelung*, jealousy, and subjecthood
+  person--programme forms, the outward propagation and enforcement profile,
+  *Beseelung*, jealousy, and subjecthood
   absorption from [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md);
 - first-order and lifted mechanical solidarity, epistemic capture, and the worked
   order-level boundary tests from
@@ -371,7 +389,10 @@ for this module.
 | **Culture Program capture** | Redirection of an incumbent program's authorities and reproduction machinery until they install or reproduce an incompatible successor |
 | ***Kommandoagent*** | German source term for the actor-level hypothesis of a covert actor knowingly carrying a concrete operational assignment; **covert operational agent** is the English gloss, and attribution requires actor-specific evidence beyond a system-level capture or Shadow-Sovereign profile |
 | **Implicit-debt grooming** | Project use of *grooming* for the gradual nonsexual cultivation of an adult through attention, trust, access, status, protection, opportunities, or favours in a way that prepares later compliance by creating a felt but incompletely stated reciprocal obligation; ordinary cultivation or generosity is not grooming without evidence of that preparatory function |
-| **Favour-bank cloud** | Controlled threat-model picture of a distributed, partly opaque obligation network in which benefits create implicit debts, brokers can route later requests across organizational interfaces, and many locally intelligible return favours can aggregate without every participant knowing a complete command structure; it is not a diagnosis licensed by networking, institutional prestige, or reciprocity alone |
+| **Favour-bank cloud** | Controlled threat-model picture of a distributed, partly opaque obligation network in which benefits create implicit debts, brokers can route later requests across organizational interfaces, and many locally intelligible return favours can aggregate without every participant knowing a complete command structure; a specific favour-bank episode and a circumstantially supported system-level cloud profile are separate evidential objects, while formal transparency, nominal pluralism, declared review, and benevolent programme language receive no defeater weight until their operation and structural independence are tested |
+| **Hierarchical repayment cascade** | Candidate favour-bank reproduction mechanism in which a recipient repays most cheaply through appointment, protection, funding, complaint routing, succession, or another decision inside an already controlled jurisdiction, thereby installing a new beneficiary, obligation, and institutional entry point; ordinary hierarchy, patronage, weak hiring, or aligned appointments do not establish the cascade |
+| **Favour-bank prestige-laundering loop** | Conditional downstream mechanism in which an obligation ecology helps select or elevate a responsive carrier, prestigious appointment and amplification are then treated as independent proof of merit, and the carrier's acquired trusted-opinion-leader authority returns legitimacy or protection to the programme and institutions that elevated the carrier; it requires evidence of the selection, conversion, and return relations rather than prestige or agreement alone |
+| **Adversarially validated safeguard** | Candidate defeater that has progressed from declared policy through consequential exercise to structural independence: it operates in adverse cases, survives equal-stakes testing, changes outcomes, imposes consequences on aligned insiders, and is not controlled through the same funding, personnel, credential, review, or appeal ecology whose influence it is supposed to check |
 | **Program disharmony** | Persistent actor or institutional conduct misaligned with the load-bearing objectives of the program that authorizes the role |
 | **Objective substitution** | Use of authority granted under one program to advance and institutionalize a different governing objective |
 | **Gradual capture** | Cumulative displacement through individually tolerable changes in interpretation, metrics, appointments, and practice |
@@ -389,6 +410,12 @@ for this module.
 | **Systemic skeleton** | The durable institutional-operational structure through which a Culture Program allocates roles and jurisdictions, coordinates conduct, applies incentives and sanctions, preserves accounts and memory, receives feedback, corrects action, and survives succession |
 | **Living cultural body** | The human carriers, mythologies, meanings, sacred relations, identities, affects, moral formation, *Beseelung*, and embodied habits that animate, interpret, maintain, repair, or repurpose a systemic skeleton |
 | **Mythic radiance** | Non-propositional, affectively compelling expression or output through which an installed mythological core becomes perceptible as beauty, grandeur, vitality, holiness, humour, excellence, order, courage, or another admired form without requiring explicit statement of its governing doctrine |
+| **Ceremonial radiance capture** | Conditional legitimacy-transfer mechanism in which an operative successor retains and performs an incumbent institution's prestige-bearing forms, inherited achievements, and accumulated trust, causing observers to continue attributing incumbent virtues to an organization now governed by a different programme; the mechanism requires retained radiance, changed governor, and consequential misattribution rather than ceremony or succession alone |
+| **Boundary-crossing reality challenge** | Operational test that converts a difficult-to-inspect claim into an externally selected act whose completion requires the claimed asset, capability, correction relation, or transferability to exist across a boundary outside the claimant's control |
+| **Claim-matched capability challenge** | Boundary-crossing subtype in which a representative sample must complete an externally selected, end-to-end and domain-valid task that actually requires the capability an institution claims to possess or produce |
+| **Trace-generating *Schutzbalken*** | Auditability-by-design principle requiring the exercise of entrusted, trace-poor power to generate inspectable commitments, contemporaneous reasons, comparisons, consequences, refusals, correction records, and succession records without instrumenting ordinary private friendship |
+| **Mandatory institutional portability** | Periodic requirement that a high-trust institution demonstrate that its assets, knowledge, records, authority, and essential functions can pass into the effective control of an independently selected successor or destination |
+| **Collective de-authorization without guilt judgment** | Withdrawal of a revocable mandate by the constituency from which entrusted authority derives, kept separate from factual proof of misconduct and from any further person-directed punishment or permanent disqualification |
 | ***Ideologische Macht*** | Cultural capability to organize perception, interpretation, legitimacy, identity, and coordinated conduct; a project-specific functional extension of Mausfeld's more domination-oriented ideological-power concept |
 | ***Machtpolitik*** | Project-specific composite configuration in which bandit-position beneficiaries acquire, retain, expand, or exercise discretionary power by capturing or exploiting ideological-power capability, culture-mechanically mobilizing carriers whose relevant conduct has a Cipollan-stupid payoff pattern, and maintaining a systemic-lying core that places factional usefulness above independently binding truth and reciprocal constraints |
 | ***Willkürherrschaft*** | Possible mature endpoint of *Machtpolitik* in which power can decide arbitrarily which facts, rules, rights, and judgments apply to whom without sufficient answerability to common constraints |
@@ -401,6 +428,15 @@ for this module.
 | **Hidden-principal displacement** | Failure mode in which a political party, member, officeholder, or government retains the public form of answerability to the whole people while becoming practically answerable to an undisclosed competing interest, instruction, loyalty, relationship, benefit, patron, organization, network, foreign interest, or open or implicit debt; the finding requires evidence of the displacement and does not follow from party competition, policy disagreement, association, or benefit alone |
 | ***Scherbengericht* variant** | Originating maximal extension of the popular no-confidence proposal under which a successful vote removes the government and automatically excludes every defined government member from the country for ten years while leaving money and property untouched; it is a project proposal inspired by but materially different from individual Athenian ostracism, and its inclusion as a threat-response option does not establish compatibility with the project's person-protecting *Schutzbalken* or current constitutional and human-rights law |
 | **Schutzbalken principle** | Proposed load-bearing purpose of pluralistic classical-liberal democracy: maintain bounded, answerable, reviewable, and escapable power relations that preserve the concrete person as a legitimate subject against public and private concentrations of power |
+| **Unrestricted oppositional speech** | First-line *Schutzbalken* capacity protecting private formulation, public expression, publication, discovery, receipt, organization, consequential correction, and peaceful succession against restriction by viewpoint, doctrine, official truth-status, offensiveness, or adverse effect on incumbent authority; independently specified reciprocal-right violations remain separately governable |
+| **Oppositionality** | Minogue's source term for organized public criticism capable of securing support and governing in turn; the project treats this as a political correction capacity requiring speech, discovery, association, contestation, and possible succession rather than mere permission to emit dissenting words |
+| ***Schutzbalken*-removal ratchet** | Process in which a correction-resistant program or power treats an effective person-protecting guardrail as an implementation defect and transfers its challenging uses from reciprocal normal rules into exceptional, discretionary, criminalized, or proxy-administered control |
+| **Procedural correction conversion** | Correction-interface mechanism in which an adverse signal is validly received, recorded, and perhaps accurately counted while a threshold, default, timing, agenda, quorum, routing, expiry, or restart rule converts it into no operative defeat; the observable conversion does not by itself prove strategic manipulation |
+| **Selective proceduralism** | Asymmetric rule practice in which constraints on an opposing person or local correction channel are enforced punctiliously while structural safeguards constraining the power centre are interpreted flexibly, bypassed, or functionally inverted; the conjunction and relevant comparator must be evidenced |
+| **Correction-bearer neutralization** | Operation in which power avoids answering evidence-bearing correction by attacking the corrector's credibility, standing, livelihood, eligibility, access, or safety, including through unsupported character assassination; criticism of a corrector or an evidenced adverse accusation is not neutralization by itself |
+| **Control-first moral-wrapper selection** | Candidate operation in which a reusable control capability is selected upstream and a morally compelling protective rationale is selected downstream as its authorization interface; the public rationale is hypothesized to be packaging rather than the cause of capability selection |
+| **Moral-wrapper invariance test** | Causal audit asking whether inspection, classification, restriction, or enforcement capability remains substantially invariant while the protected victim, emergency, vocabulary, or advertised causal story changes; chronology, functional fit, narrower alternatives, persistence, repurposing, and correction distinguish pretext from sincere or mixed objectives |
+| **Moralized observation-to-mandate loop** | Cross-stage mechanism in which a morally protected concern recruits virtuous observers or reporters; their submissions become custodied records; semantic upgrading and amplification turn the records into a public-problem claim; the claim authorizes an intervention; and the intervention can enlarge the observation, reporting, or enforcement surface. The generic loop establishes neither fabrication, pretext, Ideology, nor systemic lying without their separate evidence. |
 | **Pluralist adaptive constitutional search** | Proposed lifted Culture Strategy that protects persons through a common constraint shell while allowing bounded jurisdictions to test different first-order arrangements, observe consequences, and correct, abandon, imitate, or retain them |
 | **Lifted-Order Capacity Dashboard** | Proposed nine-capacity sensor suite—Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, and Choose—for diagnosing whether the pluralist Culture Strategy remains person-preserving, corrigible, interoperable, materially capable, and open to real alternatives |
 | **Secure Homestead Rate** | Candidate *Own* indicator measuring effective owner-occupied residential anchors by age through stock, generation, and retention rather than nominal title alone |
@@ -410,6 +446,8 @@ for this module.
 | **Foot-voting signal (*Abstimmung mit den Füßen*)** | Costly revealed-preference signal produced by voluntary entry, retention, and exit among genuinely different accessible jurisdictions; strong as a bundle-level comparison but weak as detailed causal diagnosis |
 | **Core Program Alignment Audit** | Method for deriving role criteria from a program's load-bearing objectives and comparing actual conduct with incumbent and candidate-successor objectives |
 | **Culture Program carrying structure** | Organizational and material substrate through which a program is financed, taught, reproduced, coordinated, amplified, protected, and given operational capability |
+| **Institutional endowment--legitimation circuit** | Candidate feedback mechanism in which an institutional ecology supplies positions, income, credentials, access, prestige, protection, and amplification to professional idea mediators or trusted carriers, whose classifications, interpretations, moral language, and public legitimacy then support the ecology's resources, jurisdiction, appointments, and succession; it can operate without personal debt, conspiracy, or insincerity |
+| **Error-custody and selection audit** | Institution-level test asking who bears the consequences of failed ideas or decisions, whether recipients can refuse and choose alternatives, whether performance changes resources and jurisdiction, and whether correction changes later review, selection, appointment, and succession |
 
 ### 2.2 Compact migration table
 
@@ -456,27 +494,33 @@ Within Ideology, two further questions can overlap:
 - generative grammar: Minogue-ideology / not Minogue-ideology
 - operative scale: Systemic Ideology / non-systemic Ideology
 
-Independent propagation-and-enforcement axis:
+Independent person--programme-form axis:
 private → collective → ideological form → fundamentalist form
+
+Separately observable outward profile:
+personal discovery → attraction → recruitment and formation
+→ retention pressure → coercive or violent enforcement
 ```
 
 The tree means subset only at the same specified program unit. Minogue-ideology
 and Systemic Ideology are intersecting refinements rather than mutually exclusive
 siblings: the former classifies generative grammar and the latter scale. The
-propagation axis asks another question altogether.
+person--programme axis and outward propagation profile ask other questions
+altogether.
 
 | Expression | Typed meaning | What it does **not** establish |
 |---|---|---|
-| **Culture Program** | General executable package of mythology, classifications, roles, rules, values, and expected conduct | Strategy, Pure-Ideology, strict Ideology, propagation form, truth, falsity, or legitimacy |
+| **Culture Program** | General executable package of mythology, classifications, roles, rules, values, and expected conduct | Strategy, Pure-Ideology, strict Ideology, person--programme form, outward propagation profile, truth, falsity, or legitimacy |
 | **Pure-Ideology Culture Program** | Program whose load-bearing authority, promise, or sacred relation cannot be defeated by accessible reality on its own operative terms | Strict Ideology, social un-reality, un-reason, compulsory supremacy, or harmfulness |
 | **Ideological generator** | Reusable grammar producing linked representations, roles, diagnoses, authorities, enemies, duties, remedies, and interpretations of challenge | Sufficient installation or operative Ideology |
 | **Ideology** | Strict seven-gate classifier: sufficiently installed Culture Program whose reusable generator recurrently produces authorized social un-reality and whose correction relations recruit un-reason to defend its operative authority | Every Pure-Ideology program, political doctrine, false belief, ideology label, or episode of un-reason |
 | **Systemic Ideology** | Ideology whose generative and correction-closing operation is population-scale, cross-domain, and constitutional | Systemic lying by itself; the latter remains a distinct constitutional meta-order |
 | **Minogue-ideology** | Ideology whose generator joins hidden oppression, opposed positions, asymmetric or false consciousness, corrected-sight revelation, mobilization, transformative power, liberation, and a terminal anti-political ideal | Every oppression claim, structural explanation, movement, or ordinary-language ideology |
-| **Ideological form** | Propagation form characterized by active recruitment, formation, and pressure for wider adherence | Strict Ideology or Pure-Ideology; a reality-answerable program can also be propagated in this form |
-| **Ideological-form program** | Culture Program presently operating in ideological form | A separate branch or synonym for Ideology |
-| **Ideological-form conflict** | Organized recruitment, conformity testing, delegitimation, and interference with a rival program's reproduction | Minogue-ideology, strict Ideology, or physical coercion without their further gates |
-| **Ideological conflict** | Minogue's source expression for organized ideological struggle and opposition disabling | The project taxonomy; Culture Mechanics translates the relevant operation as ideological-form conflict and, where violent, fundamentalist-form conflict |
+| **Ideological form** | Person--programme form in which the programme is lived as a mission the carrier should advance among others | Strict Ideology, Pure-Ideology, or any particular propagation operation; a reality-answerable programme can also be lived as a mission |
+| **Ideological-form program** | Culture Program whose load-bearing carriers predominantly occupy the ideological mission relation for the specified scope and period | A separate branch, synonym for Ideology, or conclusion from recruitment alone |
+| **Propagative conflict** | Organized recruitment, conformity testing, delegitimation, or interference with a rival programme's reproduction | Minogue-ideology, strict Ideology, an ideological or fundamentalist inward relation, or physical coercion without their further gates |
+| **Coercive conflict** | Physical coercion or violence used against persons or a rival programme's reproduction or institutional embodiment | A fundamentalist inward relation, strict Ideology, or any moral verdict without their further gates |
+| **Ideological conflict** | Minogue's source expression for organized ideological struggle and opposition disabling | The project taxonomy; Culture Mechanics decomposes the operation into person--programme form, outward propagation, correction, and any separately evidenced coercion |
 
 Lower-case **ideological** also remains a broad, religion-inclusive legacy
 adjective meaning approximately *pertaining to a Culture Program*. Consequently,
@@ -486,6 +530,11 @@ strict Ideology. **Ideological Culture Program** is not a separate canonical
 type. Where it occurs or is proposed, rewrite it for analysis as either **Culture
 Program**, **Culture Program in ideological form**, or **Ideology**, according to
 the evidenced relation.
+
+Earlier project formulations called propagative and coercive conflict
+**ideological-form conflict** and **fundamentalist-form conflict**.
+Those labels are deprecated because they allowed outward conduct to stand in for
+the inward person--programme relation.
 
 Several defined compounds likewise use this broad adjective or preserve source
 language:
@@ -524,8 +573,9 @@ Apply the following dispatch rules when reading or writing the theory:
 4. **Do not rely on capitalization alone.** *Pure-Ideology* contains a capitalized
    word without being the strict classifier, while *Minogue-ideology* uses a
    lower-case compound element but is a strict subtype.
-5. **Do not transfer across axes.** Branch, strict Ideology status, propagation
-   form, morphology, ideological-power capability, and systemic-lying
+5. **Do not transfer across axes.** Branch, strict Ideology status,
+   person--programme form, outward propagation profile, morphology,
+   ideological-power capability, and systemic-lying
    constitution each require their own evidence.
 6. **Resolve ambiguity before drawing consequences.** Name the program unit,
    period, branch, classifier, form, scale, and relevant compound rather than
@@ -538,14 +588,16 @@ ideological program          != Ideology
 Pure-Ideology                != Ideology
 ideological generator        != Ideology
 ideological form             != Ideology
-ideological-form conflict    != Minogue-ideology
+propagative conflict         != Minogue-ideology
 fusion ideology              != Ideology
 ideological power            != Ideology
 Systemic Ideology            != systemic lying
 ordinary or source ideology  != project-classified Ideology
 ```
 
-### 2.3 Controlled use of “Culture Hallucination”
+<a id="controlled-use-of-culture-hallucination"></a>
+
+### 2.3 Controlled use of “Culture Hallucination” {#controlled-use-of-culture-hallucination}
 
 The phrase preserves the originating comparison with an artificial-intelligence
 hallucination: coherent, reproducible output can be weakly grounded or ungrounded
@@ -780,6 +832,8 @@ load-bearing finality protected against every accessible defeater
 → Pure-Ideology Culture Program
 ```
 
+<a id="ideology-installed-social-un-reality-defended-through-un-reason"></a>
+
 ### 4.5 Ideology: installed social un-reality defended through un-reason {#ideology-installed-social-un-reality-defended-through-un-reason}
 
 **Ideology** *noun*
@@ -977,6 +1031,49 @@ un-reality without themselves satisfying the un-reason gate. They may coexist
 with un-reason, but they cannot substitute for evidenced un-reason in this strict
 classifier.
 
+<a id="censorship-sentinel-and-the-seven-ideology-gates"></a>
+
+##### Censorship sentinel and the seven Ideology gates {#censorship-sentinel-and-the-seven-ideology-gates}
+
+The [**censorship
+sentinel**](0030-epistemic-constitution.semantic-definition.md#censorship-as-a-non-localizing-correction-closure-sentinel)
+is a high-value fault-detection relation, not an eighth Ideology gate. It is
+crossed when a public or private power suppresses, criminalizes, makes
+practically undiscoverable, or disables consequential uptake of nonviolent,
+evidence-bearing correction or opposition that does not itself violate a
+specifiable reciprocal right. It most directly detects a fault in the correction
+architecture. The strict program diagnosis still requires all seven gates at one
+specified unit and period.
+
+The observation contributes differently to each gate:
+
+| Ideology gate | Evidential contribution of the censorship sentinel |
+|---|---|
+| **1. Bearer** | Identifies candidate enforcing actors, offices, platforms, or structures, but does not by itself reconstruct the Culture Program whose authority they carry. |
+| **2. Generator** | Recurrent use of a fitted grammar—protected object or emergency, moral authorization, exceptional control, opposition-as-complicity, and renewed power after resistance—can support a generator hypothesis. One prohibition is insufficient. |
+| **3. Operative un-reality** | Supported when an identified authorized account continues to govern fact, guilt, standing, permission, sanction, remedy, or jurisdiction through the disabled correction. Censorship can also occur before un-reality has been successfully installed. |
+| **4. Correction closure** | The strongest direct relation: relevant contradiction is prevented from becoming consequential correction, or a sustained correction is denied reception, answer, adjudication, uptake, or repair. |
+| **5. Un-reasoned defence** | Requires additional reason-shaped immunization. Criticism must be converted through asymmetric concepts, burdens, exceptions, or causal accounts into proof of danger, contamination, disinformation, hostility to the protected object, or need for more control. Naked silencing alone does not satisfy the gate. |
+| **6. Installation and reproduction** | Supported when law, procedure, platforms, records, incentives, trusted carriers, institutions, and private proxies recurrently enforce the exclusion and preserve the protected operation. |
+| **7. Collective scale** | Supported when the mechanism is durable across a solidarity-bearing organization, population, or jurisdiction rather than confined to an isolated dispute. The number of persons technically reachable is evidence of scope, not proof of the complete program. |
+
+The inference is Bayesian and staged rather than deductive:
+
+```text
+censorship of relevant correction
+→ strong evidence of correction-protecting malfunction
+→ Ideology / un-reality / un-reason / systemic-lying audit
+≠ automatic gate completion or equal probability for every diagnosis
+```
+
+If the protected account remains operative through recurrent, fitted,
+multi-channel suppression, the same observation becomes increasingly direct
+evidence of organized un-reality and movement toward systemic lying. If
+articulate rationalization makes the correction confirm the account it
+challenges, it additionally supports un-reason. If power simply silences
+opposition, the operation can remain naked domination or another non-inferential
+preservation mechanism without satisfying strict Ideology.
+
 The gate concerns operative correction rather than universal propositional
 falsity. A representation can be held un-really even if it happens to be true
 when its authority has been made incapable of losing; a false claim can remain
@@ -1008,7 +1105,7 @@ program:
 - recurs across enough linked domains that the pattern is not one local error.
 
 Systemic Ideology is one important candidate route into the
-[systemic-lying epistemic constitution](0030-epistemic-constitution.semantic-definition.md#17-systemic-lying-epistemic-constitution),
+[systemic-lying epistemic constitution](0030-epistemic-constitution.semantic-definition.md#systemic-lying-epistemic-constitution),
 but the classifiers remain distinct. Systemic lying is the constitutional
 meta-order that recurrently generates, selects, authorizes, protects, and
 replaces organized un-reality because independent truth has become subordinate
@@ -1176,6 +1273,8 @@ wrapper cannot defeat recurrent operational evidence; destructive consequences
 cannot establish program responsibility without a causal relation. There is no
 doctrinal-family exemption in either direction.
 
+<a id="polity-scale-gleichschaltung-hazard"></a>
+
 #### Polity-scale *Gleichschaltung* hazard: process before result {#polity-scale-gleichschaltung-hazard}
 
 **Functional morphology of mechanical solidarity** names a resulting social
@@ -1242,7 +1341,7 @@ public campaign, or instance of conformity. Test the conjunction:
 The diagnostic must inspect the **whole installation**, not only explicit
 doctrine or population-facing interpretive authorities. The established
 [systemic-skeleton/living-cultural-body
-anatomy](#137-systemic-skeleton-and-living-cultural-body) can be unfolded into
+anatomy](#systemic-skeleton-and-living-cultural-body) can be unfolded into
 three observation planes plus their coupling:
 
 | Observation plane | What to inspect | Diagnostic question |
@@ -1328,6 +1427,8 @@ collective punishment, compelled counter-ideology, suppression of voluntary
 thick communities, or unreviewable emergency power in the name of preventing
 alignment.
 
+<a id="historical-to-active-vocabulary-crosswalk"></a>
+
 ##### Historical-to-active vocabulary crosswalk: new names over old operations {#historical-to-active-vocabulary-crosswalk}
 
 The controlled Loki lens asks what an attractive term **does**, which authorities
@@ -1400,6 +1501,8 @@ therefore translates **operative roles**, not words:
 | **Population rendered an operational surface** | Human terrain, societal resilience, behavioural or cultural expertise, public engagement, or strategic communication | Are persons being informed and invited to cooperate, or modeled as manipulable terrain whose independent judgment, association, and dissent are obstacles to be neutralized? | Social research, public communication, and preparedness do not by themselves establish war, manipulation, or domestic targeting. |
 | **Back-stage enforcement through ordinary interfaces** | Weinstein's *back-of-house retaliation* (BOHR), administrative coordination, platform or employer enforcement, credential, finance, procurement, data, access, and compliance systems | Do seemingly separate organizations route surveillance, exclusion, retaliation, or resource denial toward the same direction while leaving no effective independent front of house? | A common vendor, safety process, moderation decision, refusal of service, or regulatory duty does not prove a coordinated retaliation system. Trace the concrete route, authority, trigger, target, remedy, and recurrence. |
 | **Aligned institutional centre versus excluded remainder** | Weinstein's *Wh-o-S* versus *B-R-o-S* cleavage; claims that dissenters are backward, benighted, irresponsible, disinformation-bearing, or enemy collaborators | Does disagreement remain legitimate inside the polity, or does the coordinated centre convert dissenting citizens into an operationally suspect remainder whose institutions must be neutralized? | Sharp rhetoric or social disagreement alone does not establish institutional exclusion, enemy treatment, or hybrid war. |
+
+<a id="public-private-constitutional-proxy-hazard"></a>
 
 ###### Public-private constitutional proxies and organizational dark matter {#public-private-constitutional-proxy-hazard}
 
@@ -1726,10 +1829,14 @@ be silently inferred from another.
 | **Morphological form** | Does the complete Fascism conjunction or another specified form organize the carrier formation? |
 | **Order level** | Does shared binding force reside in concrete answers or in the generator that produces and corrects them? |
 | **Slot occupancy** | Is the one local bigOther stably occupied? Stable first-order and lifted programs both imply full capture. |
-| **Propagation and enforcement form** | Is the program private, collective, ideological, or fundamentalist in its current operation? |
+| **Person--programme form** | Is the programme lived predominantly as bounded enrichment, shared belonging, mission, or a sovereign Will that uses the person? |
+| **Outward propagation and enforcement profile** | Does adherence spread through personal discovery, attraction, recruitment, formation, retention pressure, institutional propagation, coercion, violence, or another evidenced route? |
 | **Corrigibility** | Can claims, classifications, leaders, and outputs be corrected or replaced? |
 | **Jurisdiction** | What persons, domains, offices, institutions, and decisions does the program claim authority over? |
 | ***Beseelung* intensity** | How affectively alive and conduct-directing is the program? |
+| **Actuation profile** | Through which affects and motives—pressure, duty, aspiration, belonging, fear, grievance, joy, play, hope, or others—does the programme move carriers? |
+| **Carrier topology and animation distribution** | Through which institutional, communal, professional, networked, or anonymous structures does the programme live, and where is intense animation concentrated within them? |
+| **Receiver state and inherited capacity** | Which acute, chronic, developmental, scale, and inherited-capability conditions shape reception without determining it? |
 | **Jealousy** | How strongly does it reject rival attachments or divided allegiance? |
 | **Entrusted power** | What institutional capacity and coercive authority has it acquired? |
 | **Capture susceptibility** | How readily can destructive actors or descendants seize its machinery? |
@@ -1739,7 +1846,7 @@ be silently inferred from another.
 | **Programmatic content profile** | Which referents, groups, goods, causal stories, distributive rules, custodians, and corrective practices organize the programme? |
 | **Sacred-principal allocation audit** | Who or what receives ultimate standing, and who or what becomes its instrument? This remains an audit, not an accepted third constitutional orientation. |
 
-### 7.1 Four propagation and enforcement forms
+### 7.1 Four person--programme forms and the outward propagation profile
 
 The canonical forms are defined in
 [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md#beseelung-and-four-propagation-and-enforcement-forms):
@@ -1752,19 +1859,35 @@ private
 ```
 
 They are not necessary historical stages. A program can skip, retreat, mix, or
-operate in different forms across institutions.
+place different carrier strata in different forms across institutions.
 
-- **Private form:** personally adopted practice without required collective
-  adherence.
-- **Collective form:** voluntary shared participation and mutual reinforcement.
-- **Ideological form:** active propagation and pressure for wider adherence.
-- **Fundamentalist form:** coercive, eliminative, or violent enforcement.
+- **Private form:** the programme is a bounded enrichment within a larger life.
+- **Collective form:** the programme is a shared belonging and source of mutual
+  recognition.
+- **Ideological form:** the programme becomes a mission the carrier should
+  advance.
+- **Fundamentalist form:** the programme is treated as a sovereign Will whose
+  supposedly known demands use the carrier as an execution surface.
 
-The distinction originated partly from a burden intuition: scrutiny should rise
-as a program moves from private belief toward collective organization,
-institutional control, coercive jurisdiction, and irreversible authority.
+The outward profile is separately recorded as personal discovery, attraction,
+recruitment, formation, retention pressure, institutional propagation, coercion,
+or violence.
+These operations often correlate with the four inward forms, but they neither
+define nor prove them.
+The “salt in the soup” private relation can be intensely *beseelt* while bounded;
+a lone carrier can occupy a mission or sovereign-Will relation; and cool
+functionaries can execute coercive enforcement without personally occupying the
+fundamentalist form.
 
-### 7.2 Fanatic offspring as an indicator
+The original burden intuition remains valid as a separate constitutional rule:
+scrutiny should rise as any programme moves from personal practice toward
+collective organization, institutional control, coercive jurisdiction, and
+irreversible authority.
+That power-and-enforcement scale is not the definition of the four forms.
+
+<a id="fanatic-offspring-as-an-indicator"></a>
+
+### 7.2 Fanatic offspring as an indicator {#fanatic-offspring-as-an-indicator}
 
 The originating diagnostic defines **fanatics** by extreme discharge:
 
@@ -1808,18 +1931,20 @@ to falsify medical evidence for Stalinist necessity is presented as the ethical
 act opposed to elevation of oneself into the big Other's instrument.
 
 Žižek's *fundamentalist* principally names an epistemic and libidinal posture in
-this passage; the project's **fundamentalist form** names a programme-level mode
-of coercive, eliminative, or violent enforcement. A carrier can exhibit the
-claimed direct-knowledge posture without controlling coercive enforcement, and
-a programme can operate in fundamentalist form without establishing that every
-carrier occupies Žižek's perverse structure.
+this passage; the project's **fundamentalist form** names a person--programme
+relation in which the programme is treated as a sovereign Will and the carrier
+as its instrument. A carrier can exhibit Žižek's claimed direct-knowledge
+posture without controlling coercive enforcement, and a programme can transmit
+a fundamentalist relation through an institution without establishing that
+every executor occupies Žižek's perverse structure.
 
-Culture Mechanics separates four analytical objects:
+Culture Mechanics separates five analytical objects:
 
 | Object | Type | Governing question |
 |---|---|---|
 | **Perverse instrumentality** | Candidate subject--authorization mechanism | Does the actor claim direct knowledge of the big Other's Will and present the act as its exculpated execution? |
-| **Fundamentalist form** | Programme propagation and enforcement form | Does the programme currently authorize coercive, eliminative, or violent enforcement? |
+| **Fundamentalist form** | Person--programme form | Is the programme treated as a sovereign Will whose supposedly known demand displaces the carrier's answerable authorship? |
+| **Coercive enforcement** | Outward propagation and enforcement operation | Does the programme currently authorize coercive, eliminative, or violent enforcement? |
 | **Fanatic offspring** | Observable programme-output indicator | Does a carrier discharge extraordinary dedication, sacrifice, or violence in service of the programme? |
 | **Ethical act under extreme cost** | Rival responsibility pathway | Does the person assume an answerable judgment against the claimed necessity of the big Other, as in Žižek's Karpai example? |
 
@@ -1850,7 +1975,8 @@ The source relationship is therefore bounded:
 ```text
 perverse instrumentality
 may help generate or intensify
-fundamentalist enforcement and fanatic discharge
+fundamentalist person--programme relation, coercive enforcement,
+and fanatic discharge
 
 but
 
@@ -1867,6 +1993,8 @@ the perpetrator's own operative understanding and an immediate program-level
 warning. It does not by itself prove parent-program causation. The subsequent
 task is to compare scripts, targets, legitimation, recruitment, recurrence, base
 rates, rival causes, and counterfactual exposure.
+
+<a id="strong-programmatic-diversity"></a>
 
 ### 7.3 Strong Programmatic Diversity and the corrective-unity profile {#strong-programmatic-diversity}
 
@@ -1946,6 +2074,135 @@ communist, every category-conscious remedy an orthodoxy, the three histories
 morally equivalent, or resistance to a programme proof of chauvinism, privilege,
 or hostility to equality.
 
+<a id="diversity-dividend-laundering"></a>
+
+#### Diversity-dividend laundering {#diversity-dividend-laundering}
+
+**Diversity-dividend laundering** is the transfer of credit earned by plural,
+independent, competent viewpoints inside an integrative common order to visible
+heterogeneity whose independence, competence, translation, shared reality, or
+integration has not been demonstrated.
+
+```text
+genuinely different knowledge and criticism
++ common correction and synthesis procedure
+→ possible superior integrated result
+→ earned reputation of diversity
+
+visible category or programme heterogeneity
+→ reputation imported as if integration had already occurred
+→ input represented as superior output
+→ failure can be used to demand more of the same input
+```
+
+The mechanism matters because the classical `1 + 1 > 2` case depends upon more
+than the presence of different inputs.
+Contributors must bring relevant differences, retain enough independence to
+correct one another, communicate across the interface, and participate in a
+reality-answerable process capable of producing an alloy rather than mere
+alternation, veto, dilution, or symbolic representation.
+
+The audit compares claimed diversity with viewpoint independence, task-relevant
+competence, common evidence, translation, decision quality, error discovery,
+minority contribution, integration, and correction after failure.
+It also asks whether the output was measured independently of the input category
+and whether failure can ever reduce the programme's authorized scope.
+
+The type does not imply that demographic difference is irrelevant, that
+homogeneous groups perform better, or that every diversity programme launders a
+dividend.
+Visible heterogeneity can widen experience and discover blind spots.
+Classification requires the semantic transfer from input to already-achieved
+benefit together with missing or protected output evidence.
+Its upstream semantic routes may include [projective
+consensus](0040-mythology-construction.semantic-definition.md#projective-consensus-and-custodial-operationalization)
+and master-signifier credit; its constitutional contrast is [democratic cultural
+alloying](0040-mythology-construction.semantic-definition.md#democratic-cultural-alloying-and-integrative-interoperability).
+
+<a id="carrier-topology-and-animation-distribution"></a>
+
+### 7.4 Carrier topology and animation distribution {#carrier-topology-and-animation-distribution}
+
+**Carrier topology** asks where a programme lives and through which recurring
+relations it is transmitted, interpreted, financed, corrected, and succeeded.
+It is independent of the private, collective, ideological, and fundamentalist
+person--programme forms, which ask what position the programme occupies relative
+to the person, rival programmes, and the surrounding world.
+
+Ernst Troeltsch's church, sect, and mysticism types supply the central prior-art
+warning: universal institutional administration, selective high-intensity
+community, and inward or loosely networked authority are different social
+architectures.
+Culture Mechanics generalizes the axis without treating Troeltsch's historically
+Christian types as exhaustive:
+
+- universal or population-facing institutional administration;
+- selective high-commitment community;
+- inward, exemplary, or loosely networked authority;
+- professional office and credentialed jurisdiction;
+- associational, movement, or federated network;
+- household and intergenerational transmission;
+- market, media, platform, and audience topology; and
+- episodic crowd or event-centred activation.
+
+One programme can combine several topologies.
+It can become ideologically propagative without ceasing to use a professional
+office, or move from charismatic network to routinized institution without
+changing its treatment of outsiders.
+Conversely, two programmes can occupy similar organizational forms while
+producing different person--programme relations and correction rules.
+
+The topology must be crossed with **animation distribution**.
+A programme can be weakly *beseelt* on average while a small, strategically
+located upper tail of teachers, interpreters, appointing officers, organizers,
+editors, donors, or exemplars maintains strong animation and transmits it through
+institutional machinery to cooler executors.
+Average survey intensity can therefore understate governing capacity.
+The claim requires evidence about positions, gain, routing, selection,
+succession, and conduct; hierarchy alone does not prove concentrated animation.
+
+```text
+carrier topology × person--programme form × actuation profile
+× outward propagation and enforcement profile × animation distribution
+→ ecology-specific operative configuration
+```
+
+No row determines truth, legitimacy, hazard, or an inevitable development path.
+The matrix prevents “church,” “sect,” “network,” “profession,” “private,” and
+“fundamentalist” from being used as interchangeable labels.
+
+<a id="composite-carrier-ecology-and-renewal-cycle"></a>
+
+#### Composite carrier ecology and renewal cycle {#composite-carrier-ecology-and-renewal-cycle}
+
+One programme can distribute invention, intensification, administration, and
+population reproduction across different carrier topologies:
+
+```text
+inward or loosely networked experiential innovators
+→ selective high-Beseelung nucleus or cadre
+→ professional interpreters
+→ universal or population-facing institutional apparatus
+→ low-intensity population-wide reproduction
+```
+
+The sequence is neither necessary nor one-way.
+A routinized apparatus can lose animation; a selective reform nucleus can restore
+intensity; an inward or charismatic experience can supply renewed authority; and
+a successful movement can routinize into a successor apparatus.
+Conversely, loss of central office can leave selective enclaves or loose networks
+that preserve the programme.
+Troeltsch's church, sect, and mysticism types supply the prior-art topology;
+Culture Mechanics adds the composite lifecycle and its crossing with
+person--programme form, *Beseelung* distribution, institutional amplification,
+correction, and succession.
+
+This topology does not make every intense nucleus a sect, every institution a
+church, every inward experience mysticism, or every renewal beneficial.
+Universal scale can require compromise and office; selective intensity can be
+purchased by narrow membership and exit from wider responsibility.
+Those are recurrent trade-offs to inspect, not fixed laws or moral rankings.
+
 ## 8. Ecological mechanics
 
 ### 8.1 Programs require carriers but are not exhausted by isolated carriers
@@ -1971,7 +2228,9 @@ Relevant units include:
 
 Causal attribution fails when these units are silently exchanged.
 
-#### Cultural self-maintenance and defence
+<a id="cultural-self-maintenance-and-defence"></a>
+
+#### Cultural self-maintenance and defence {#cultural-self-maintenance-and-defence}
 
 An operative Culture Program does not persist by message repetition alone. Its
 carriers, meanings, practices, institutions, and material arrangements perform a
@@ -2010,9 +2269,9 @@ therefore requires the claimed threat, protected function, evidence path,
 proportionality, correction route, and consequences.
 
 The [systemic skeleton and living cultural
-body](#137-systemic-skeleton-and-living-cultural-body) explain how these functions
+body](#systemic-skeleton-and-living-cultural-body) explain how these functions
 become durable and animate. [Mythological apologetics and
-polemics](0040-mythology-construction.semantic-definition.md#51-mythological-replacement-braiding-apologetics-and-polemics)
+polemics](0040-mythology-construction.semantic-definition.md#mythological-replacement-braiding-apologetics-and-polemics)
 name important symbolic repair and conflict operations. Culture Program carrying
 structure identifies the concrete finance, formation, communication, logistics,
 protection, and succession substrate. None is interchangeable with the complete
@@ -2023,6 +2282,175 @@ autoimmune, and deficient cases, belongs to [*Analogical Models in Culture
 Mechanics*](0050-culture-mechanics-analogies.semantic-inventory.md#cultural-immune-system-extension).
 Dissent is not disease, cultural difference is not a pathogen, and the
 organismic image supplies no warrant for coercion.
+
+<a id="receiver-state-and-inherited-capacity-ecology"></a>
+
+#### Receiver-state and inherited-capacity ecology {#receiver-state-and-inherited-capacity-ecology}
+
+“Orientation demand” is not one receiver condition.
+Programme susceptibility and reproduction can change with temporal state,
+social scale, inherited capacity, and institutional distance.
+[Wilhelm Röpke's mass and social-crisis
+analysis](https://cdn.mises.org/The%20Social%20Crisis%20of%20Our%20Time%20%281%29.pdf)
+supplies prior art for distinguishing acute crowd activation from chronic mass
+conditions, integration hunger, society-reference closure, decision-scale
+displacement, intermediate pluralism, and consumption of inherited moral
+preconditions.
+Culture Mechanics separates those leads into testable relations rather than
+adopting Röpke's complete Christian-humanist diagnosis or treating his preferred
+human scale as a sufficient safeguard.
+The ecology must distinguish:
+
+- an **acute crowd**, in which proximity, common attention, event, and feedback
+  produce short-lived activation;
+- a **chronic mass condition**, in which isolation, uprooting, standardized
+  mediation, dependency, or loss of intelligible place persists without one
+  physical crowd;
+- **integration hunger**, in which loneliness, boredom, disorientation, or loss
+  of role increases demand for a programme able to make life socially legible;
+- **belief-ground failure**, in which an inherited world ceases to support action
+  before a credible successor exists;
+- **society-reference closure**, in which one abstraction called society,
+  history, the market, the nation, or humanity becomes the mandatory
+  justificatory reference for otherwise differentiated relations; and
+- **decision-scale displacement**, in which answerable local knowledge and
+  responsibility move toward remote anonymous authority without an adequate
+  return path for consequence and correction.
+
+These conditions can combine but do not imply one another.
+Receiver crisis can produce withdrawal, local repair, religious revival,
+entrepreneurial experimentation, destructive replacement, or no durable programme
+at all.
+An acute crowd can occur inside a healthy order; a chronic mass can remain cool
+and administratively stable.
+
+The ecology also distinguishes two intermediate pluralisms.
+**Defensive pluralism** distributes power, preserves alternatives, and lets
+bounded institutions correct one another.
+**Capture pluralism** organizes interests that use the common authority to block
+rivals, buy rules, externalize costs, or make access dependent on brokerage.
+The number of organizations does not decide which relation operates.
+
+A **thin-system advantage** can arise when one comparatively crude but coherent
+programme defeats a richer order whose carriers, memory, and institutions no
+longer coordinate.
+Explicit doctrine is only one layer: inherited tradition, tacit honesty,
+professional duty, family practice, and institutional routine can preserve
+capability after avowed belief changes, or be consumed while surface
+administration still looks progressive.
+Christopher Dawson supplies prior art for this contrast between a thin,
+coordinated system and a richer but disarticulated order; the causal mechanism
+and any historical application still require separate evidence.
+
+Christopher Dawson's further warning is that a ruling stratum can retain offices,
+resources, prestige, and control surfaces after the superpersonal duties that
+once constrained their use have weakened.
+This creates a power--responsibility lag: inherited authority can remain
+operational while its role ethic, consequence ownership, and obligation to the
+whole decay.
+The lag is a susceptibility condition, not proof of bad faith, replacement
+religion, capture, or PGS; test actual duty, beneficiary, consequence, correction,
+and succession.
+
+Christopher Dawson's four-factor precursor supplies an anti-reductionist check:
+environment, functional economy, inherited population, and symbolic psychology
+interact in historical change.
+The list is not a complete causal model, and “inherited population” is not a
+population essence.
+It prevents Culture Program explanation from swallowing material ecology,
+demography, productive organization, and communication.
+
+<a id="doctrine-organization-coformation-and-legitimacy-lifecycle"></a>
+
+#### Doctrine--organization co-formation and legitimacy lifecycle {#doctrine-organization-coformation-and-legitimacy-lifecycle}
+
+Programme content and carrier organization do not stand as message and neutral
+pipe.
+They select and reshape one another across a lifecycle:
+
+```text
+prophetic or originating articulation
+→ followers, interpreters, and selective community
+→ office, credential, livelihood, and routine
+→ universalization or specialization pressures
+→ appointment, succession, monopoly, and compromise
+→ organizational interests reshape doctrine and practice
+↺ revised doctrine legitimates the carrier form
+```
+
+Max Weber supplies the prior-art distinctions among charisma, legitimacy,
+routinization, office, vocation, livelihood, status closure, and responsibility
+for consequences.
+Ernst Troeltsch supplies the reciprocal formation of religious ethos, doctrine,
+community type, and surrounding social order, together with different compromise
+pressures in universal and selective communities.
+
+Where an organization mediates salvation goods or analogous moral and
+existential standing, the audit should also map the goods offered; rites and
+practices; credentials; gatekeepers; offices; clients or recipients; material
+supports; inclusion and exclusion powers; and routes of appeal.
+This **salvation-enterprise anatomy** operationalizes Weber's relation among
+religious goods, carriers, office, livelihood, and social closure without making
+an ordinary profession, paid religious office, or caring institution a
+replacement religion.
+
+Belief in an office's rightfulness can reproduce obedience across changes of
+occupant.
+Sincere vocation and material dependence can coexist; payment does not prove
+cynicism and sincerity does not defeat organizational interest.
+Conviction also does not remove responsibility for foreseeable consequence.
+Professional closure can monopolize opportunities without one conspiracy, while
+credentialing and succession can preserve valuable competence.
+
+The audit therefore maps legitimacy belief, programme content, carrier form,
+livelihood, credential, scale, inclusion rule, compromise, appointment,
+succession, consequence allocation, and correction together.
+Institutionalized permanent reflection and open, revisable cultural synthesis are
+positive countercases: organization can preserve questioning rather than merely
+routinize one answer.
+
+This lifecycle supplies the social installation surface for [gnostic attractor
+completion](0040-mythology-construction.semantic-definition.md#gnostic-attractor-completion).
+Hidden knowledge requires recognized interpreters; moral rank requires selection;
+transformative jurisdiction requires offices and resources; deferred fulfilment
+requires transmission and succession.
+That fit is a possible completion route, not proof that intellectuals,
+professionals, churches, universities, movements, or bureaucracies form a
+replacement religion.
+
+<a id="bounded-mechanism-ecology-and-vital-situation-audit"></a>
+
+#### Bounded-mechanism ecology and the vital-situation audit {#bounded-mechanism-ecology-and-vital-situation-audit}
+
+The constitutional [bounded-mechanism and jurisdictional-contraction
+test](0030-epistemic-constitution.semantic-definition.md#bounded-mechanism-and-jurisdictional-contraction)
+has an ecology-level implementation.
+It asks which carriers and reserves make the mechanism work, who receives credit,
+which institutions define obstruction or failure, and whether scope contracts
+when lived effects diverge from the promise.
+
+A **precondition ecology** includes law, trust, restraint, education, information,
+anti-monopoly rules, family and professional formation, material infrastructure,
+and other inherited capacities that the foreground mechanism may consume without
+regenerating.
+**Performance competition** rewards better service of the stated function;
+**obstruction competition** rewards capture of rules, access, interpretation,
+reputation, or the state so rivals cannot perform.
+
+The **vital-situation audit** therefore supplements preferred aggregate
+indicators with lived capability, dependence, responsibility, rootedness,
+security, productive participation, and the practical freedom to refuse or build.
+It is not one universal score and does not make every paternal intervention
+legitimate.
+The protector remains another capture surface and must face independent appeal,
+succession, domain boundaries, and contraction after failure.
+
+Offices, status, property, and organizational advantage can persist after the
+founding event or justification disappears; this **domination layering** is a
+historical hypothesis to evidence, not a presumption against inherited
+institutions.
+The ecology-level test remains symmetrical across market, socialist,
+nationalist, religious, Diversity, scientific, and administrative programmes.
 
 ### 8.2 Propagation–Visibility Constraint
 
@@ -2086,6 +2514,54 @@ ritual, institutional, behavioural, or sanctioning transmission channels. It
 must also be distinguished from preference falsification: carriers may conceal
 private assent from outsiders while reproducing the program through public
 ritual and mutual enforcement.
+
+<a id="nucleation-ecology-and-reproductive-junctions"></a>
+
+#### Nucleation ecology and reproductive junctions {#nucleation-ecology-and-reproductive-junctions}
+
+The [distributed-formation
+trunks](0040-mythology-construction.semantic-definition.md#distributed-culture-program-formation-trunks)
+own symbolic ignition, mutual recognition, ethnogenesis, and futurization.
+Culture Program Ecology owns the carrier and reproduction interfaces through
+which a newly focal programme can become durable.
+
+A nucleus becomes ecologically consequential when it joins mutual discovery to
+recurrent coordination, resource routing, new-carrier formation, and succession.
+The relevant observables are not crystal-like appearance but:
+
+- whether dispersed possible carriers can discover one another;
+- whether association creates common knowledge and repeated interaction;
+- whether the node transmits roles, skill, memory, and next actions;
+- whether it creates further viable nodes rather than one terminal dependency;
+- whether losses are replaced and successors acquire real jurisdiction; and
+- whether the programme survives correction, leadership change, and relocation.
+
+**Cultural reproductive jurisdiction** asks which programme classifies children,
+mixed households, converts, names, language, schooling, ritual, marriage,
+inheritance, and successor standing when several programmes make incompatible
+claims.
+**Regenerative dominance** exists when one programme replaces carriers and
+incorporates newcomers more reliably than competitors; it does not establish why
+the programme was initially attractive or legitimate.
+
+Routing and storage are distinct.
+Mobile carriers, trade, pilgrimage, military movement, media, and itinerant
+teachers can route programme content across a large area without creating dense
+settled storage.
+Households, schools, land, archives, ritual calendars, offices, and marriage
+networks can store it locally without wide routing.
+Durable domain formation may require both, followed by institutional and
+generational **hysteresis** that preserves an orientation after the initiating
+conditions recede.
+
+Anti-nucleation can lawfully challenge false claims or deny discretionary support,
+or unlawfully and destructively suppress association, speech, livelihood, or
+political competition.
+Any proposed interruption must specify the hazardous function and causal nexus,
+then satisfy rights, proportionality, alternatives, notice, appeal, and backfire
+analysis.
+Defunding a club, refusing a room, or criticizing a focal figure does not by
+itself prove a coordinated denucleation campaign.
 
 ### 8.3 Two characteristic growth logics
 
@@ -2236,6 +2712,8 @@ self-consumption**](0030-epistemic-constitution.semantic-definition.md#life-driv
 the compressed endpoints do not make material excellence, effort, democracy,
 dependency, or any other single component sufficient to determine drive valence.
 
+<a id="mythic-radiance"></a>
+
 ### 9.2 Mythic radiance: “Cultural outputs are side effects of real culture” {#mythic-radiance}
 
 The originating hypothesis is:
@@ -2352,6 +2830,59 @@ Possible discriminators include:
 - countercases of great output under weak *Beseelung*;
 - cases of intense *Beseelung* producing no excellence.
 
+<a id="ceremonial-radiance-capture"></a>
+
+### 9.2A Ceremonial radiance capture {#ceremonial-radiance-capture}
+
+An incompatible successor can inherit an institution's respected name,
+architecture, professional titles, historical achievements, rituals, moral
+vocabulary, and accumulated public trust.
+**Ceremonial radiance capture** is the conditional mechanism in which the
+successor retains and performs those prestige-bearing forms so that observers
+continue attributing the incumbent's admired qualities to an organization now
+governed by a different programme.
+
+```text
+incumbent core A
+→ capable practice and radiant achievements associated with A
+→ recognized names, offices, credentials, symbols, and ceremonies store trust
+→ actual operation becomes decoupled from those forms
+→ successor governor B controls appointments, exceptions, correction, and succession
+→ inherited forms continue to perform A
+→ observers grant B the authority accumulated under A
+→ borrowed authority protects B and helps it reproduce
+```
+
+The mechanism joins but does not collapse three distinct relations:
+
+- [formal structure as institutional myth and
+  ceremony](0040-mythology-construction.semantic-definition.md#formal-structure-as-myth-and-ceremony)
+  explains why the proper form itself confers legitimacy and how activity can
+  decouple from it;
+- **mythic radiance** explains the inherited affective attraction and prestige;
+  and
+- [pseudomorphic governor
+  substitution](0030-epistemic-constitution.semantic-definition.md#pseudomorphic-governor-substitution)
+  identifies the durable bearer-level morphology when an incompatible governor
+  controls retained machinery, correction, and reproduction or succession.
+
+Ceremonial meritocracy supplies a model case.
+An independent panel, scoring matrix, conflict rules, signed declarations,
+prestigious credentials, and solemn announcement may all remain while loyalty,
+reciprocal obligation, or narrative compatibility governs selection.
+The forms then do more than fail: machinery associated with merit certifies the
+output of another governor as meritocratic.
+
+The mechanism is present only where the current governor, retained radiance, and
+legitimacy transfer are evidenced together.
+Ceremony can remain coupled to genuine practice, and a successor can legitimately
+inherit and renew an institution.
+The discriminating test compares inherited prestige with present demonstrated
+function and asks whether consequential appeal, audit, refusal, failure, and
+succession can change the operation.
+The [boundary-crossing reality-challenge
+family](#boundary-crossing-reality-challenges) supplies the operational test.
+
 ### 9.3 Cultivated hostility
 
 The legacy phrase **sublimated forms of cultivated hostility** refers to arenas
@@ -2457,6 +2988,48 @@ established through textual, organizational, historical, and mechanism evidence.
 Preferred exemplars alone also cannot exonerate a program whose destructive
 offspring recur across independent contexts.
 
+The causal standard is broader than direct intention and narrower than temporal
+association.
+A programme is accountable to the extent that its doctrine, incentives,
+selection, institutions, policies, coercion, protected representations, or
+correction rules **create, amplify, prolong, scale, or prevent correction** of a
+recurrent consequence.
+This standard applies equally when the consequence is famine, terror,
+pseudoscience, corruption, war, productive incapacity, or a constructive
+capability.
+
+```text
+programme-generated mechanism
+× installation and power
+× exposure and recurrence
+× blocked or successful correction
+→ attributable share of offspring profile
+```
+
+Exact counts, multi-actor causation, regional variation, counterfactual baselines,
+and double-counting remain separate evidential tasks.
+Their difficulty does not reclassify programme-mediated famine or terror as an
+external accident.
+The causal-story audit must track grammatical relocation from purpose or policy
+into mistake, impersonal mechanism, nature, enemy action, or unforeseeable
+accident without allowing the relabeling to erase the material consequence chain.
+
+Socialist and communist cases make the boundary especially visible.
+Coercive collectivization, false agricultural doctrine, suppression of price and
+production signals, Lysenkoist prohibition of genetics, censorship, punishment
+of correction, and recurrent terror are programme-relevant mechanisms where the
+historical record establishes them.
+That attribution does not imply one number, equal causation in every country, or
+responsibility of every adherent.
+It preserves the stronger Durkheimian rule that a programme remains answerable
+for what its generative grammar and institutions recurrently produce, not only
+for its benevolent self-description.
+The [foundational-question custody
+rule](0030-epistemic-constitution.semantic-definition.md#foundational-question-custody)
+owns preservation of the failed alternatives and reopening conditions.
+
+<a id="culture-program-capture"></a>
+
 ### 11.2 Culture Program capture {#culture-program-capture}
 
 **Culture Program capture** is the process by which the authorities,
@@ -2490,6 +3063,8 @@ carriers, or combine these forms. Culture Program capture can therefore be a
 defensible system-level hypothesis even when no particular covert operational
 agent can be identified. That does not lower the evidential burden for accusing a
 particular person of receiving or executing a concealed assignment.
+
+<a id="kommandoagent"></a>
 
 #### *Kommandoagent*: covert operational-agent hypothesis {#kommandoagent}
 
@@ -2555,7 +3130,9 @@ An actor may sincerely believe that the successor realizes the host's true
 spirit. Conversely, private hostility without program-relevant conduct does not
 establish objective substitution.
 
-### 11.4 Gradual capture and the glacier analogy
+<a id="gradual-capture-and-the-glacier-analogy"></a>
+
+### 11.4 Gradual capture and the glacier analogy {#gradual-capture-and-the-glacier-analogy}
 
 **Gradual capture** is cumulative successor displacement through changes that are
 individually tolerable, deniable, ambiguous, or locally defensible but jointly
@@ -2686,7 +3263,9 @@ which action grammar it supplied, and whether comparable acts recur among
 similarly situated carriers. Section 16 specifies how self-attribution and
 internal contestation should be weighted.
 
-### 11.8 Cultural WMD
+<a id="cultural-wmd"></a>
+
+### 11.8 Cultural WMD {#cultural-wmd}
 
 **Cultural WMD** is a bounded analogy for a Culture Program whose hazard profile
 is plausibly:
@@ -2731,7 +3310,9 @@ instrument against a target. Yuri Bezmenov's claims about ideological subversion
 are a deferred source lead for that wider class; this module does not adopt them
 without review.
 
-### 11.9 Culture Program carrying structure
+<a id="culture-program-carrying-structure"></a>
+
+### 11.9 Culture Program carrying structure {#culture-program-carrying-structure}
 
 A **Culture Program carrying structure** is the organizational and material
 substrate through which a program acquires continuity and capability beyond one
@@ -2751,6 +3332,140 @@ human carrier. Depending on the case, it can include:
 - leadership, appointments, promotion, succession, and institutional memory;
 - transnational relationships, command routes, and protection of hazardous
   descendants.
+
+<a id="carrying-structure-authority-liability-and-counterpower"></a>
+
+#### Authority, liability, and counterpower across the carrying structure {#carrying-structure-authority-liability-and-counterpower}
+
+The carrying-structure audit must map more than money and message transmission.
+It should record which nodes control production, selection, translation, moral
+judgment, brokerage, placement, public mediation, credentials, legitimate
+self-description, explanation of suffering, inclusion, innocence, correction,
+and succession.
+The person-in-role version is the [carrier-authority surface
+audit](0020-epistemic-agency.semantic-definition.md#carrier-authority-surface-audit).
+
+At ecology scale, three relations require special attention:
+
+- **interpreter dependence:** affected persons or institutions cannot obtain
+  recognized standing, identity, access, or explanation without passing through
+  the authorized mediation layer;
+- **epistemic-liability gap:** prestige, livelihood, and authority accrue near
+  interpretation and recommendation while material and epistemic costs fall on
+  implementers, populations, or successors; and
+- **meaning-infrastructure concentration:** education, credentialing,
+  classification, pastoral interpretation, publishing, and public mediation
+  become effectively unbalanced even while visible state powers remain formally
+  separated.
+
+The positive countercase is not absence of professional interpretation.
+Plural institutions, source access, independent credentials, portable standing,
+affected-person voice, consequential prediction records, appeal, and
+institutionalized permanent reflection can make interpretation answerable and
+prevent one carrier ecology from monopolizing reopening.
+Concentration, dependence, or an error-cost gap is a hazard profile, not proof of
+conspiracy, replacement religion, capture, or one effective sovereign.
+
+<a id="institutional-endowment-legitimation-circuit"></a>
+
+#### Institutional endowment--legitimation circuit {#institutional-endowment-legitimation-circuit}
+
+**institutional endowment--legitimation circuit** *noun phrase*
+
+**Status:** proposed Culture Program ecology mechanism reconstructed through a
+Baader source bridge
+
+[Roland Baader's
+*totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf),
+especially pp. 167--172 and 188--202, describes an ecology in which publicly or
+politically dependent institutions supply careers, positions, access, security,
+prestige, and amplification while intellectual and media carriers return
+interpretation, accepted categories, public justification, and an enlarged echo
+for political language. His political and economic judgments remain his own.
+Culture Mechanics extracts the more general and intent-neutral **institutional
+endowment--legitimation circuit**:
+
+```text
+institutional ecology supplies
+position + income + credential + access + prestige + protection + amplification
+                              ↓
+professional idea mediators and trusted carriers supply
+classification + interpretation + moral language + public legitimacy
++ consent routing + defence of institution and programme
+                              ↓
+returned authority supports
+resources + jurisdiction + further appointments + continued amplification
+                              ↺
+```
+
+The circuit can emerge through selection of already aligned candidates,
+professional socialization, sincere internalization, ordinary career dependence,
+reputational self-protection, appointment practice, or deliberate cultivation.
+No personal debt, explicit bargain, conspiracy, or insincerity is required. Its
+distinctive feature is reciprocal institutional reproduction: endowments help
+form or elevate authoritative carriers, and those carriers return legitimacy and
+classification power that help preserve or enlarge the endowing ecology.
+
+The [professional idea-mediator
+function](0020-epistemic-agency.semantic-definition.md#professional-idea-mediation-and-apparent-competence)
+adds the source-side carrier, while the trusted-opinion-leader function adds the
+receiving-side referral relation. Their possible personnel-and-succession route
+is:
+
+```text
+funding, posts, appointments, and institutional access
+→ credentials, affiliation, publication, broadcasting, and repeated visibility
+→ prominence-derived apparent competence and trusted-field authority
+→ influence over definitions, priorities, admissible expertise, and remedies
+→ influence over later funding, appointments, platforms, review, and succession
+↺ reproduction of the carrier ecology and its operative selection principle
+```
+
+This route makes a general [pseudomorphic governor
+substitution](0030-epistemic-constitution.semantic-definition.md#pseudomorphic-governor-substitution)
+succession test more concrete. PGS is present only if a durable X-bearing office,
+profession, organization, or institution retains its recognizable machinery and
+authority while an incompatible principle governs consequential choice,
+correction, and reproduction or succession. Career dependence, public funding,
+political agreement, or one aligned appointment does not supply that complete
+gate.
+
+Baader's “Versuch und Irrtum,” pp. 298--300, adds an institutional application of
+the trial-and-error problem. The project converts it into an **error-custody and
+selection audit**:
+
+- do idea producers, mediators, decision custodians, and institutions bear
+  material reputational, jurisdictional, or resource consequences after failure;
+- can recipients refuse the product, choose an independent alternative, and stop
+  financing or authorizing it;
+- does performance affect funding, access, prestige, and institutional standing;
+- can affected outsiders inspect outcomes and introduce competing explanations;
+  and
+- does correction change later selection, review, appointment, and succession?
+
+This is the institution-level complement to Sowell's [decision-correction custody
+and Teflon-authority
+bridge](0040-mythology-construction.semantic-definition.md#sowell-decision-correction-custody-bridge).
+Weak error consequence is not by itself evidence that a theory is false or that
+an institution is captured; its diagnostic importance is that those authorizing
+consequences can retain authority while people outside the circuit bear much of
+the error cost.
+
+Keep the neighbouring mechanisms separate:
+
+| Neighbour | Relation to the circuit |
+|---|---|
+| **Cultivated authority** | Describes how a carrier's receiving-field position is built; the circuit additionally asks what authority and legitimacy return to the cultivating ecology. |
+| **Favour-bank cloud** | A possible micro-mechanism where a benefit creates an obligation and a routed return. The endowment circuit can operate through alignment, dependence, or socialization without any favour debt. |
+| **Pseudomorphic governor substitution** | A possible institutional result only after retained X-form, incompatible governor, collision, correction, and succession gates are met. |
+| **Anarcho-tyranny** | A possible coupled public-order configuration only after protection failure, coercive activation, severity inversion, functional coupling, and recurrence despite correction are each evidenced. |
+
+The circuit is symmetric. Universities, ministries, foundations, firms,
+churches, media systems, professional associations, movements, and counter-
+institutions of any political or religious direction can endow carriers and
+receive legitimating authority in return. The analysis concerns the specified
+flows, dependencies, outputs, correction, and succession rather than the
+institution's label or declared ideal.
 
 The carrying structure is not the Culture Program itself. It is also not the
 population of **human carriers** whose local bigOthers execute the program. An
@@ -2789,6 +3504,8 @@ interests exercised by persons. “Targeting infrastructure” must not become a
 verbal device for punishing protected belief indirectly. Legal authority,
 causal specificity, proportionality, reversibility, notice, answer, independent
 review, and protection of peaceful branches remain necessary.
+
+<a id="the-honourable-defector"></a>
 
 ### 11.9A The Honourable Defector {#the-honourable-defector}
 
@@ -2867,7 +3584,8 @@ program prescribes or strongly valorizes a visible symbol
 → the Culture Program reproduces beyond direct organizational supervision
 ```
 
-The symbol's function can change with propagation form:
+The symbol's function can change with person--programme form and outward
+propagation profile:
 
 ```text
 private form
@@ -2953,6 +3671,8 @@ ethnic, or cultural garment has the function in every context. Section 13.2.2
 develops narrative integration; section 13.2.3 states the separate normative
 proposal for a defensive pluralist response.
 
+<a id="institutional-realization-and-the-willkur-gate"></a>
+
 ### 11.11 Institutional realization and the *Willkür* gate {#institutional-realization-and-the-willkur-gate}
 
 [*Mythology Construction* owns the complete doctrine-generation and
@@ -2980,14 +3700,14 @@ installed causal, mythological, and master-signifier complex
   or are interpreted inside the same programme and renew its mandate
 ```
 
-The pathway is not a new Culture Program branch, propagation form,
+The pathway is not a new Culture Program branch, person--programme form,
 constitutional orientation, or seventh category in Appendix A. Culture Strategy
 and Pure-Ideology remain separate from private, collective, ideological, and
-fundamentalist form; carrying structure; capture; truth orientation; drive
-orientation; and constitutional hazard. A Culture Strategy can use mythology
-and delegated institutions. A Pure-Ideology programme need not possess coercive
-power. Institutional depth, expertise, discretion, and adverse consequence do
-not by themselves establish *Willkür*.
+fundamentalist form; outward propagation and enforcement; carrying structure;
+capture; truth orientation; drive orientation; and constitutional hazard. A
+Culture Strategy can use mythology and delegated institutions. A Pure-Ideology
+programme need not possess coercive power. Institutional depth, expertise,
+discretion, and adverse consequence do not by themselves establish *Willkür*.
 
 #### The institutional conjunction
 
@@ -3088,11 +3808,11 @@ comparison and affected-person evidence, and predeclare stop, rollback,
 compensation, repair, and scaling rules. A favourable pilot does not authorize
 general implementation by itself.
 
-[Strategy trial design](#168-strategy-trial-design) owns the operational
+[Strategy trial design](#strategy-trial-design) owns the operational
 definition, functional meaning and limits of “local,” person-protecting
 constraints, serial and parallel architectures, spillover audit, replication,
 and renewed-authorization rule. The [anti-gnostic adaptive constitutional
-search](#138-anti-gnostic-adaptive-constitutional-search) owns its placement
+search](#anti-gnostic-adaptive-constitutional-search) owns its placement
 inside the candidate pluralist design.
 
 #### *Schutzbalken* against the surrogate
@@ -3128,7 +3848,9 @@ changes effective custody rather than only officeholders.
 
 ## 12. Burdens of proof and entrusted power
 
-### 12.1 Program trust and state restriction are separate burdens
+<a id="program-trust-and-state-restriction-are-separate-burdens"></a>
+
+### 12.1 Program trust and state restriction are separate burdens {#program-trust-and-state-restriction-are-separate-burdens}
 
 Two questions must not be collapsed:
 
@@ -3156,12 +3878,15 @@ basic rights.
 | **Coercive political jurisdiction** | Demanding constitutional-compatibility, succession, corrigibility, and rights burden |
 | **Irreversible or monopolistic authority** | Presumptively unacceptable within the proposed pluralist order |
 
-This scale helped motivate the private, collective, ideological, and
-fundamentalist forms, but the two classifications remain distinct. A small group
-can hold a fundamentalist program without possessing state power; a large
-institution can obtain power while presenting itself as moderate.
+This scale helped motivate the expected outward consequences of the private,
+collective, ideological, and fundamentalist forms, but the two classifications
+remain distinct. A small group can carry a fundamentalist person--programme
+relation without possessing state power; a large institution can obtain and use
+power through inwardly cool personnel while presenting itself as moderate.
 
-### 12.3 Response-calibrated evidence and intervention targets
+<a id="response-calibrated-evidence-and-intervention-targets"></a>
+
+### 12.3 Response-calibrated evidence and intervention targets {#response-calibrated-evidence-and-intervention-targets}
 
 Covert capture or catastrophic program hazard may have to be investigated before
 direct command evidence exists. Liberal due process nevertheless requires the
@@ -3319,7 +4044,9 @@ The semantic core is:
 This is a normative commitment of the proposed containment strategy. It is not a
 neutral fact or proof that every existing liberal institution serves it.
 
-#### 13.2.1 Democracy as *Schutzbalken gegen die Macht*
+<a id="democracy-as-schutzbalken-gegen-die-macht"></a>
+
+#### 13.2.1 Democracy as *Schutzbalken gegen die Macht* {#democracy-as-schutzbalken-gegen-die-macht}
 
 Rainer Mausfeld's *Hybris und Nemesis* supplies the source formulation. The
 [publisher's description](https://westendverlag.de/Hybris-und-Nemesis/2048)
@@ -3361,6 +4088,10 @@ Speak · Own · Refuse · Exit · Appeal
 Correct · Cooperate · Build · Choose
 ```
 
+The protected object is governed by the [inherent human-standing and recognition-only principle](0010-culture-mechanics.semantic-definition.md#inherent-human-standing-recognition-only-principle).
+A *Schutzbalken* would be circular and defeasible at its source if the power it restrains could first decide who enters the protected human class.
+Institutions may make evidence-bound and corrigible findings about whether an individual living human organism exists and may regulate capability, role, responsibility, or conduct, but their recognition or denial is never constitutive of that human bearer's complete and equal standing.
+
 This formulation makes democratic machinery answerable to function. Elections
 are an important implementation because they can confer temporary authorization,
 make officeholders removable, and enable peaceful succession. They are not by
@@ -3382,6 +4113,363 @@ Other familiar implementations likewise perform distinct functions:
 No item in the table is validated merely by bearing a familiar democratic label.
 Its design, distribution, real accessibility, capture resistance, and outcomes
 remain open to evidence and correction.
+
+<a id="unrestricted-oppositional-speech-as-first-line-schutzbalken"></a>
+
+##### Unrestricted oppositional speech as first-line *Schutzbalken* {#unrestricted-oppositional-speech-as-first-line-schutzbalken}
+
+Kenneth Minogue's source observation that an early move in ideological conflict
+is to disable opposition, ideally through censorship, supplies the conflict
+bridge. The project extends the point constitutionally: free speech is not one
+fungible liberty among several but a first-line *Schutzbalken* protecting the
+routes through which concealed burdens, error, capture, abuse, and failed
+justification can become publicly visible and politically consequential.
+
+Minogue's later historical discussion supplies the broader source term
+**oppositionality**: organized public criticism seeks enough public support to
+govern in turn. The project therefore does not reduce opposition to the emission
+of contrary sentences. A complete political correction channel must be able to
+form a rival judgment, make it discoverable, assemble persons around it, contest
+the incumbent account and office, and become a possible successor bearer of
+public authority. A regime can tolerate expressive dissent while disabling
+oppositionality through surveillance, association barriers, ballot or agenda
+control, practical undiscoverability, institutional exclusion, or denial of
+succession. The Minogue source does not make every opposition truthful or every
+electoral loss censorial; it identifies the rival political subject and
+correction route that power has an incentive to disable.
+
+**Unrestricted oppositional speech** means unrestricted by viewpoint, doctrine,
+political tendency, official truth-status, offensiveness, or adverse effect on
+incumbent authority. The protected correction chain includes the practical
+capacities to:
+
+- formulate and test a judgment without prior inspection;
+- communicate privately with confidants, sources, counsel, journalists, and
+  potential associates;
+- publish, preserve, discover, receive, quote, and transmit rival accounts;
+- criticize an institution, policy, moral wrapper, protected objective, or
+  incumbent interpretation;
+- associate and organize around the judgment;
+- demand investigation, legal or constitutional change, and institutional
+  correction;
+- contest authority and, where the office is political, seek peaceful succession;
+- obtain answer, adjudication, uptake, and repair rather than merely nominal
+  permission to speak.
+
+The constitutional sequence is:
+
+```text
+protected private formulation and association
+→ rival signals remain available
+→ programs, evidence, burdens, and objectives can be compared
+→ opposition can organize and become correction-effective
+→ officeholders, rules, policies, and public accounts can lose
+→ power remains answerable
+```
+
+Public speech is incomplete when private formation and association are
+comprehensively inspectable. Surveillance can disable opposition before a
+message is removed:
+
+```text
+inspection and classification capability
+→ uncertainty about who receives the communication and how it will be classified
+→ anticipatory self-censorship
+→ reduced confidential thought-testing, source protection, and association
+→ fewer publicly articulable and organizable rival judgments
+→ opposition weakened before formal censorship begins
+```
+
+The principle does not guarantee amplification by every private publisher and
+does not convert independently wrongful conduct into protected opinion. A
+credible threat, coercion, fraud, non-consensual intimate disclosure, or
+unsupported seriously damaging factual allegation against a concrete person can
+be governed through a precise reciprocal-right rule. Harsh judgment, satire,
+evidenced accusation, good-faith reporting, and an explicitly qualified
+suspicion with a disclosed basis remain protected. The restriction must attach
+to the evidenced rights violation rather than the conclusion, identity, target's
+power, or moral and political viewpoint. Independent adjudication, reciprocal
+burdens, truth and evidence defences, proportionality, appeal, and repair prevent
+the exception from becoming a route for power to immunize itself.
+
+The originating normative compression is retained:
+
+> **No censorship of judgment; no immunity from evidenced accusation; no
+> character assassination without proof.**
+
+Here **proof** does not require conclusive adjudication before a person may
+speak. It requires an evidential basis and claim-status disclosure proportionate
+to the accusation's destructive certainty: evidence may support an accusation;
+incomplete evidence may support a clearly marked allegation, suspicion, or call
+for investigation; and uncertainty may not be silently converted into
+established guilt. The more seriously a factual allegation threatens standing,
+livelihood, relationships, safety, or ordinary civil participation, the more
+precise its proposition, provenance, evidence, and answerability must be. The
+[generic constitutional rule](0030-epistemic-constitution.semantic-definition.md#censorship-as-a-non-localizing-correction-closure-sentinel)
+and [low-cost-contradiction / high-process-accusation
+distinction](0030-epistemic-constitution.semantic-definition.md) control the
+institutional safeguards.
+
+Unsupported character assassination can itself become
+**correction-bearer neutralization**:
+
+```text
+evidence-bearing correction threatens authority
+→ the proposition is not answered
+→ the corrector receives an unsupported factual or moralized character attack
+→ credibility, standing, access, livelihood, or eligibility is damaged
+→ the correction loses its practical bearer and uptake
+→ correction closure deepens without direct proposition-level censorship
+```
+
+This operation is related to [moralized character accusation](0030-linguistic-tricks.semantic-inventory.md)
+and systemic lying's denunciatory-enforcement property. It is not established by
+harsh criticism of a speaker, an evidenced accusation, loss of credibility after
+demonstrated misconduct, or one false statement. Diagnose the unsupported claim,
+its correction nexus, practical effect, asymmetry, recurrence, and responsible
+actors separately.
+
+Nor can a dominant communications infrastructure become an unreviewable private
+jurisdiction that makes a correction practically inaudible everywhere. The
+*Schutzbalken* applies to the distinct public and private mechanisms by which
+publication, discovery, identity, payment, employment, credentials, or network
+access can be made conditional on orthodoxy.
+
+The [censorship sentinel and its seven-gate
+crosswalk](#censorship-sentinel-and-the-seven-ideology-gates) make loss of this
+chain non-compensable. Success in *Build, Own,* or *Cooperate* cannot purchase
+elimination of *Speak* and *Correct*. The alarm may be strong before the exact
+Ideology, un-reality, un-reason, systemic-lying, actor-intent, or
+*Machtpolitik* diagnosis is localized.
+
+<a id="schutzbalken-removal-ratchet"></a>
+
+###### *Schutzbalken*-removal ratchet {#schutzbalken-removal-ratchet}
+
+A **Schutzbalken-removal ratchet** occurs when a correction-resistant program or
+power treats the demonstrated effectiveness of a person-protecting guardrail as
+an implementation deficiency and progressively transfers its challenging uses
+from reciprocal normal rules into exceptional, discretionary, criminalized, or
+proxy-administered control.
+
+The mechanism can begin before un-reality is fully installed, or it can improve
+an already operational systemic-lying order from the program's own perspective:
+
+```text
+partly operational un-reality or systemic lying
++ surviving free speech exposes contradiction
+→ authorized account loses trust, practical effect, or succession security
+→ correction is represented as danger, contamination, manipulation, or abuse
+→ restrictions target the effective correction interface
+→ Speak and Correct lose practical operation
+→ correction closure and reproduction deepen
+```
+
+No conscious collective mind is required. Leaders may deliberately identify
+opposition as an obstacle; institutions may select practices that preserve their
+authority; platforms may anticipate state or cultural expectations; sincere
+carriers may experience contradiction as danger; or a distributed program may
+adapt through mixtures of these routes. Actor intent, coordination, and the
+operative multi-mind-self threshold remain separate questions.
+
+The Fraenkelian concern becomes material when ordinary or aligned speech retains
+formal protection while a political classification transfers selected
+correction-bearing speech into measures jurisdiction. The strict
+*Maßnahmenstaat* diagnosis still requires evidence that political classification
+can withdraw the case from effective legal guarantees; one restrictive law or
+emergency measure is insufficient. The operation becomes *Willkür*-enabling when
+definitions, burdens, exceptions, evidence, or review can be moved after the
+speaker, claim, or desired outcome is known.
+
+The [bootstrap-illegality
+test](0030-epistemic-constitution.semantic-definition.md#censorship-as-a-non-localizing-correction-closure-sentinel)
+blocks one circular defence:
+
+> **Legality does not exculpate censorship when the censorial operation produced
+> the illegality.**
+
+<a id="control-first-moral-wrapper-selection"></a>
+
+###### Control-first moral-wrapper selection {#control-first-moral-wrapper-selection}
+
+**Control-first moral-wrapper selection** is the candidate operation in which a
+control capability is selected upstream and a publicly compelling protective
+rationale is selected downstream as its authorization interface. **Pretextual
+authorization of a preselected control capability** is the more explicit name.
+
+The advertised causal order is:
+
+```text
+terrorism, danger to children, misinformation, extremism, or another grave harm
+→ necessity for control
+→ reluctantly selected protective measure
+```
+
+The hypothesized operative order is reversed:
+
+```text
+desired inspection, classification, restriction, or enforcement capability
+→ select an emotionally protected object or emergency
+→ present opposition to the means as indifference or complicity toward the harm
+→ obtain authorization
+→ install and normalize the capability
+```
+
+This is not **objective substitution** if the divergence exists from inception.
+Objective substitution uses authority initially granted under one operative
+objective to install another later. Control-first selection instead alleges an
+initial advertised-object/operative-object split: the public rationale never
+governed selection of the capability. The distinction is causal and requires
+evidence.
+
+The **moral-wrapper invariance test** asks whether the capability remains
+substantially invariant while the protected victim, emergency, vocabulary, or
+public causal story changes. Anti-terrorism activates danger, emergency, enemy,
+and loyalty; child protection activates innocence, vulnerability, taboo, and
+care. Their moral content differs, but they can perform the same authorization
+function. Wrapper variance raises the probability that the invariant capability
+is the operative object when it is joined by evidence that:
+
+- technical or legal design preceded selection of the advertised rationale;
+- substantially the same capability returns under different rationales;
+- narrower alternatives better fitted to the advertised objective are rejected;
+- the capability persists after the stated emergency, prediction, or
+  justification fails;
+- it expands into uses unrelated to the original protected object;
+- failed authorization produces repackaging, exceptional procedure, changed
+  thresholds, or repeated resubmission rather than abandonment;
+- critics are answered principally through moral classification by the wrapper;
+- control success is measured while protection success remains vague,
+  non-falsifiable, or institutionally irrelevant.
+
+The wrapper is not self-proving evidence of pretext. Child protection,
+anti-terrorism, safety, and informational integrity can name genuine objectives;
+the same capability can be selected as a sincerely believed but overbroad means;
+actors can have mixed objectives; and control can emerge as an effect rather than
+the original purpose. The meme or rhetoric that puts “control” inside the box
+illustrates the hypothesis but cannot establish temporal priority, coordination,
+intent, or systemic lying. Design chronology, internal records, rejected
+alternatives, functional fit, persistence, repurposing, response to correction,
+and actor-specific evidence carry the causal burden.
+
+The [sparse Fernandes–HateAid–Hubig–ARD worked
+application](#fernandes-hateaid-hubig-ard-sparse-case) tests this operation where
+a prepared digital-control programme acquired a celebrity exemplar, while
+retaining sincere protection, mixed objectives, and independent convergence as
+rival explanations.
+
+<a id="selective-proceduralism-and-correction-conversion"></a>
+
+###### Selective proceduralism and correction conversion {#selective-proceduralism-and-correction-conversion}
+
+**Selective proceduralism** is the asymmetric practice in which a power centre
+enforces local rules constraining an opposing person or correction channel with
+unusual exactness while treating structural rules that constrain its own route,
+jurisdiction, timing, burden, or authority as flexible, combinable, waivable, or
+functionally replaceable. Its characteristic contrast is:
+
+```text
+rules governing the dissenter's time, form, standing, or admissibility
+→ exact enforcement
+
+rules governing power's jurisdiction, deliberation, threshold, or correction
+→ elastic interpretation, exceptional routing, or functional inversion
+```
+
+One enforced time limit plus one disputed structural interpretation does not
+establish the pattern. Audit the relevant comparators, recurrence, who benefits,
+prospective rule meaning, ordinary practice, reason-giving, independent review,
+and whether the structural safeguard still performs its declared function. A
+minor rule can be neutral and a structural exception legitimate; the diagnostic
+concerns their fitted asymmetry around consequential opposition.
+
+The generic [**procedural correction conversion**
+mechanism](0030-epistemic-constitution.semantic-definition.md#procedural-correction-conversion)
+locates the downstream effect. An objection, vote, consultation, or appeal can be
+formally received and accurately counted while a threshold, default, timing,
+agenda, quorum, routing, expiry, or restart rule converts it into continuation or
+a new authorization opportunity. Selective proceduralism concerns asymmetric
+rule practice; correction conversion concerns what the configured procedure does
+to the adverse signal. Either may occur without the other.
+
+The observable effect and stronger agency claim remain separate:
+
+```text
+correction counted but converted into no operative defeat
+→ procedural-conversion finding
+
+procedure selected or moved because it would defeat that correction
++ knowledge, chronology, alternatives, and actor nexus
+→ candidate Verfahrenstrick attribution
+```
+
+<a id="expected-power-moves-against-the-schutzbalken"></a>
+
+###### Expected power moves against the *Schutzbalken* {#expected-power-moves-against-the-schutzbalken}
+
+The joined model yields a candidate **move repertoire** for what a public or
+private power may do when opposition remains capable of correcting, limiting, or
+replacing it. The repertoire is a textbook audit sequence, not a necessary order
+and not proof that every power centre, protector, or case instantiates every
+move:
+
+1. **Preselect a reusable capability.** Seek inspection, classification,
+   exclusion, sanction, or discretionary enforcement that can outlive one case.
+2. **Wrap the capability in a morally protected objective.** Present opposition
+   to the means as hostility or indifference toward children, safety, democracy,
+   truth, health, or another protected object.
+3. **Replace means scrutiny with loyalty scrutiny.** Ask what kind of person
+   resists the protection rather than whether the intervention is necessary,
+   fitted, proportionate, and corrigible.
+4. **Neutralize the correction bearer.** Substitute unsupported factual or
+   moralized character accusation, stigma, livelihood pressure, access loss, or
+   eligibility attack for an answer to the correction, so the proposition loses
+   credibility and uptake through destruction of its human bearer.
+5. **Create urgency and reduce deliberation.** Use emergency, low-attention
+   timing, shortened procedure, written circulation, repeated voting, changed
+   thresholds, or formal repackaging to convert a failed political result into a
+   new authorization opportunity.
+6. **Apply selective proceduralism and convert correction.** Enforce minor rules
+   against the objector punctiliously while treating structural safeguards
+   against power elastically; configure threshold, default, timing, agenda,
+   quorum, routing, or restart so a received adverse signal produces no operative
+   defeat.
+7. **Reverse the suspicion sequence.** Replace targeted investigation—suspicion,
+   independent authorization, bounded inspection—with population-wide
+   inspection, automated classification, and only then generated suspicion.
+8. **Manufacture unlawfulness.** Criminalize the correction or its channel and
+   cite that endogenous status as the reason ordinary speech protections no
+   longer apply.
+9. **Route control through private infrastructure.** Make platforms, employers,
+   payment systems, professional bodies, or service providers enforce outcomes
+   that direct public action would expose to stronger constitutional duties.
+10. **Preserve nominal voice while defeating uptake.** Permit a timed statement,
+   formal objection, vote, consultation, or appeal but block reception, answer,
+   adjudication, operative change, succession, or repair.
+11. **Move selected cases into exceptional jurisdiction.** Retain normal legality
+   for ordinary and aligned conduct while politically classified correction
+   receives movable burdens, secret evidence, reduced review, or discretionary
+   treatment.
+12. **Normalize, retain, and repurpose.** Treat installation as the new baseline,
+    interpret resistance or failure as evidence that implementation remains
+    incomplete, and expand the capability to successor objectives.
+
+The breadth distinction can be stated compactly:
+
+```text
+SCALPEL
+individualized suspicion → independent authorization → bounded inspection
+
+BREITSCHWERT / DRAGNET
+general population as inspection field → classification → generated suspicion
+```
+
+A broad intervention can be sincerely motivated and lawfully enacted yet still
+fail the *Schutzbalken* test because it gives a protector a reusable,
+population-scale control surface. Conversely, observing several moves raises the
+need for preservation, audit, opposition protection, and low-regret architecture
+before it establishes preselected intent, strict Ideology, Systemic Ideology,
+systemic lying, *Maßnahmenstaat*, *Machtpolitik*, or *Willkürherrschaft*.
 
 ##### Power beyond the state
 
@@ -3421,7 +4509,9 @@ The relevant distinctions are **bounded versus unbounded**, **answerable versus
 unanswerable**, **reviewable versus self-certifying**, and **exitable versus
 inescapable** power.
 
-##### The bounded-protector recursion
+<a id="the-bounded-protector-recursion"></a>
+
+##### The bounded-protector recursion {#the-bounded-protector-recursion}
 
 Protection against private or local power commonly requires public authority.
 That solution creates a recursive constitutional problem:
@@ -3440,6 +4530,8 @@ corrigible. Measures against corporate, financial, technological, religious, or
 cultural power must preserve legal authority, nexus, proportionality, due process,
 appeal, and repair after error. Otherwise the guardrail becomes a new load-bearing
 route for the power it was meant to contain.
+
+<a id="guardian-readiness-and-option-based-deservingness"></a>
 
 ##### Guardian readiness and option-based deservingness {#guardian-readiness-and-option-based-deservingness}
 
@@ -3547,6 +4639,8 @@ surrogate can move facts, classifications, rules, rights, exceptions, and
 completion conditions without reciprocal constraint or independent review.
 Persistent arbitrary rule, capture, *Willkürherrschaft*, and the stricter
 *Machtpolitik* composite each require their own additional evidence.
+
+<a id="near-term-living-public-trust-guardrails"></a>
 
 ##### Near-term living public-trust guardrails {#near-term-living-public-trust-guardrails}
 
@@ -3668,6 +4762,82 @@ guilt, preserves human dignity, and permits later repair and re-entry. Humiliati
 family punishment, deprivation of ordinary civil standing, open-ended exile, or
 social annihilation would convert a guardrail into a weapon and expose it to the
 same capture problem as the threatened institutions.
+
+<a id="mandatory-institutional-portability"></a>
+
+###### Distributed suspicion, collective de-authorization, and mandatory portability {#mandatory-institutional-portability}
+
+Trace-poor institutions need distinct routes for sensing anomaly, producing
+evidence, withdrawing a mandate, and establishing misconduct.
+Human intuition can register dispersed inconsistencies before an observer can
+state a demonstrable causal account.
+Such a hunch has **trigger weight** for a challenge, audit, or constitutionally
+authorized confidence procedure, but no automatic **verdict weight** about
+corruption, guilt, design, or intent.
+Aggregation across independently situated and directly affected observers can
+increase trigger weight without turning intuition into adjudication.
+
+Four decisions should therefore remain institutionally distinct:
+
+| Question | Proper mechanism | Immediate consequence |
+|---|---|---|
+| **Does something appear wrong?** | Complaints, protected witnesses, hunches, and anomaly aggregation | Initiate a proportionate examination or challenge. |
+| **Can the claimed system actually perform?** | [Boundary-crossing reality challenge](#boundary-crossing-reality-challenges) | Produce operational evidence outside the claimant's representational custody. |
+| **Do we still entrust this authority?** | A preconstituted confidence or no-confidence procedure | Withdraw or renew a revocable mandate. |
+| **Did a person commit misconduct?** | Investigation and an evidential procedure fitted to the consequence | Determine responsibility and any person-directed sanction. |
+
+Where authority derives from continuing confidence, an overwhelming withdrawal
+of that confidence can itself be constitutionally operative.
+**Collective de-authorization without guilt judgment** means that the relevant
+constituency removes the person or body from the entrusted position without
+representing the decision as proof of crime or misconduct.
+A high quorum, secret ballot, predeclared threshold, clearly defined mandate
+constituency, confinement to the position, and succession not controlled by the
+removed authority make the distinction practically credible.
+A substantial minority can separately be authorized to compel an independent
+challenge or extraordinary review before the higher removal threshold is met.
+The originating rapid *Volksmisstrauensvotum* above is one political design with
+its own stated majority rule and automatic clock; the generic de-authorization
+principle does not silently replace those candidate parameters.
+
+Low-visibility dependency can also be exposed by forcing actual transfer.
+**Mandatory institutional portability** requires a high-trust institution to
+demonstrate periodically that its assets, knowledge, records, authority, and
+essential functions can pass into the effective control of an independently
+selected successor or destination.
+Term limits are one partial implementation because they interrupt accumulated
+obligations, limit indefinite incumbent control of succession, force operating
+knowledge and authority to become transferable, and create a before--after
+comparison under different officeholders, but title turnover alone is not
+portability.
+
+A real transfer requires:
+
+1. the incumbent does not control selection of the successor or destination;
+2. actual control surfaces, records, assets, and operating knowledge cross the
+   boundary rather than only the title;
+3. the successor can operate without continuing predecessor permission;
+4. the predecessor loses unilateral access and decision power;
+5. records, liabilities, and unresolved commitments are reconciled against
+   independent sources; and
+6. some challenges or transfers are not predictable enough to permit temporary
+   window dressing.
+
+Obstructed transfer can materialize dependencies that static self-description
+concealed: undocumented decision channels, missing records, personally held
+credentials or contacts, third parties loyal only to the former network,
+person-dependent funding, nominal subordinates refusing the successor's
+authority, unresolved commitments, or continuing control after formal departure.
+These traces establish the dependency or transfer failure they show; any further
+classification of capture, favour-bank operation, or actor misconduct uses its
+own evidential route.
+
+The deeper constitutional principle is:
+
+> **Entrusted authority should be revocable and periodically portable, not
+> possessed until somebody proves wrongdoing.**
+
+<a id="scherbengericht-variant"></a>
 
 ###### Stronger *Scherbengericht* variant {#scherbengericht-variant}
 
@@ -4262,10 +5432,11 @@ offspring, correction, and jurisdiction.
 The strong originating proposal is:
 
 > **Above a predefined local saturation ceiling, public display of specified
-> conformity markers belonging to Culture Programs in ideological form—and
-> especially in fundamentalist form—should be prohibited. Voluntary private use
-> should remain protected. A provisional ceiling might lie near five or ten
-> percent of the relevant regional or institutional population.**
+> conformity markers belonging to Culture Programs with an evidenced outward
+> recruitment, formation, conformity-pressure, or coercive enforcement profile
+> should be prohibited. Voluntary private use should remain protected. A
+> provisional ceiling might lie near five or ten percent of the relevant regional
+> or institutional population.**
 
 This is not offered as an established empirical threshold or existing legal
 rule. It is a preventive constitutional-design candidate. Its rationale is that
@@ -4373,7 +5544,9 @@ The governing formulation is:
 > carrying capacity while preserving the standing of concrete persons,
 > including adherents, dissenters, non-wearers, and defectors.**
 
-### 13.3 Lifted mechanical solidarity
+<a id="lifted-mechanical-solidarity"></a>
+
+### 13.3 Lifted mechanical solidarity {#lifted-mechanical-solidarity}
 
 Pluralism can act as **lifted mechanical solidarity** at a society's foundation.
 Citizens need not share all first-order answers. They must share and culturally
@@ -4448,6 +5621,78 @@ This is a causal hypothesis. Tests require longitudinal and comparative measures
 of norm internalization, voluntary compliance, trust, monitoring cost, coercion,
 freedom, selection, migration, wealth, and institutional quality.
 
+<a id="functional-hypertrophy-and-capability-displacement"></a>
+
+#### Functional hypertrophy and capability displacement {#functional-hypertrophy-and-capability-displacement}
+
+**Status:** proposed ecology mechanism; measurement and comparative cases remain
+an open research programme.
+
+A necessary supporting function can expand beyond its useful range, generate the
+demand cited for its further growth, burden the primary work it was meant to
+support, capture capable people and resources, and acquire moral or prestige
+protection.
+
+```text
+necessary support function
+→ institutional growth and specialized expertise
+→ rules, reports, disputes, or failures generate more support demand
+→ talent and resources move toward the intermediary layer
+→ primary work absorbs compliance and coordination burdens
+→ productive and formative capability loses people, time, and prestige
+→ growing dependence justifies further expansion
+```
+
+The correct unit is the **marginal function and its consequence chain**, not an
+occupation treated as an essence.
+
+| Marginal function | Candidate contribution or cost |
+|---|---|
+| Production | Creates material, technical, organizational, or epistemic capability. |
+| Maintenance | Preserves infrastructure, competence, trust, and cultural reserves. |
+| Protection | Prevents fraud, coercion, predation, arbitrary power, or avoidable loss. |
+| Allocation | Routes resources and attention toward capability-producing or preserving uses. |
+| Positional contest | Helps one participant prevail while rivals expend offsetting resources, possibly with little net gain. |
+| Rent extraction | Captures transfers through privilege, artificial complexity, bottleneck control, or rule manipulation. |
+| Destruction | Damages capability, trust, institutions, or persons for private or factional gain. |
+
+A lawyer defending due process can perform a load-bearing protective function,
+while an engineer optimizing addictive manipulation can perform an extractive or
+destructive one.
+The same profession can contain several rows and move among them over time.
+William Baumol's productive, unproductive, and destructive entrepreneurship and
+Murphy, Shleifer, and Vishny's talent-allocation research supply economic prior
+art; Culture Mechanics adds cultural reserve, prestige, carrier, and formation
+effects.
+
+David Graeber's [fish-frying
+analogy](https://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/)
+provides the controlled illustration: some fish genuinely need frying, but that
+does not make unlimited fish-frying useful when skilled cabinetmakers are diverted
+from making cabinets and then morally pressured to perform unnecessary support
+work.
+The analogy does not classify an actual job or worker.
+
+Four audits discipline the mechanism:
+
+1. **disappearance:** what essential service fails, what primary work recovers,
+   and what delayed or tail risk appears if the marginal activity disappears;
+2. **opportunity cost:** which scarce capability, attention, time, and formation
+   path are displaced;
+3. **recursive demand:** how much demand is externally generated and how much is
+   created by the apparatus's own rules, failures, complexity, and protection;
+4. **reserve regeneration:** does the activity replenish the honesty, trust,
+   competence, maintenance, responsibility, and productive capacity it consumes?
+
+Maintenance, insurance, audit, readiness, and legal protection can be most
+valuable when nothing visible happens, so the disappearance test is not
+sufficient alone.
+Classification requires time horizon, substitution, counterfactual demand,
+downstream cost, and the possibility that the apparent surplus prevents rare but
+severe failure.
+Nor does high pay, financial activity, advertising, administration, law, or
+intermediation by itself establish hypertrophy.
+
 ### 13.6 Moral formation as sublimation
 
 Candidate load-bearing programs include:
@@ -4467,7 +5712,9 @@ Their point is not moral ornament. If successfully installed, they can reduce th
 amount of surveillance and force required for coordination. They are
 Culture-Embedded Strategies within the lifted order.
 
-### 13.7 Systemic skeleton and living cultural body
+<a id="systemic-skeleton-and-living-cultural-body"></a>
+
+### 13.7 Systemic skeleton and living cultural body {#systemic-skeleton-and-living-cultural-body}
 
 The originating anatomy is:
 
@@ -4526,17 +5773,54 @@ systems structure repeated experience
 → systems reproduce an operative program
 ```
 
+This reciprocal sequence permits [**affective-to-structural load
+transfer**](0010-culture-mechanics.semantic-definition.md#affective-to-structural-load-transfer).
+Repeated affectively invested practice can sediment into habits, roles,
+procedures, records, incentives, audit, and succession. Those structures can then
+preserve, route, and reproduce a classification across a greater distance and
+duration while requiring less fresh affective activation from each carrier.
+
+```text
+living conviction and formation
+→ repeated embodied practice
+→ fitted institutional structure and memory
+→ lower per-node affective demand + wider persistence and range
+→ periodic interpretation, repair, and possible reanimation by living carriers
+```
+
+The same skeleton can preserve [**latent structural and activation-conditioned
+coupling**](0010-culture-mechanics.semantic-definition.md#ambient-and-activation-conditioned-coupling)
+that is nearly invisible in ordinary affective life. Roles, interoperable
+interfaces, records, infrastructure, resource flows, and command or mission
+relations can remain standing while participants display little everyday
+enthusiasm or uniformity. A crisis, project, or mobilization order can recruit
+that structure into coherent large-scale action. Visible affective alignment is
+therefore a poor proxy for latent collective capacity, while formal organization
+without successful interface traversal, novel-case judgment, feedback, repair,
+and succession remains only a claim to such capacity.
+
+The skeleton therefore can carry part of a load formerly borne directly by
+flesh-and-blood intensity. This is not literal transfer or conservation of
+affect, and it does not make the skeleton culturally self-sufficient. Structure
+can substitute for repeated arousal, sediment an earlier investment, extend
+range, concentrate stronger commitment in custodial roles, and support periodic
+renewal. It still depends upon living judgment at ambiguous cases, correction,
+repair, formation, and succession. Without those relations, the same persistence
+can become brittle routine, compliance theatre, ceremonial decoupling, or a
+ready-made surface for objective substitution.
+
 This is the bridge from *Systems Leadership* to Culture Program Ecology.
 *Systems Leadership* remains the definitive practical source for complete culture
 implementation in the project. The anatomy developed here places that practical
 method within the wider typology and pluralist constitutional proposal.
 
-The anatomy yields four characteristic states:
+The anatomy yields five characteristic states:
 
 | Configuration | Characteristic result |
 |---|---|
 | Living cultural body with insufficient skeleton | Emotionally alive but fragile movement: enthusiasm, identity, and devotion without dependable coordination, accounting, correction, scale, or succession |
-| Skeleton with insufficient living body | Paper constitution or dead organization: procedures formally exist, but carriers do not feel bound to tell the truth, accept legitimate defeat, protect dissent, maintain records, or repair the order |
+| Low-intensity living body with load-bearing skeleton | Quiet but reliable and potentially highly mobilizable order: habits, professional standards, records, interfaces, infrastructure, resource routing, audit, incentives, command relations, and succession reduce the affective demand at each node while extending persistence, range, and activation-conditioned capacity |
+| Skeleton with insufficient living body | Paper constitution or dead organization: procedures formally exist, but too little living interpretation, obligation, correction, maintenance, or repair remains to keep them operative beyond routine cases |
 | Incumbent skeleton animated by a successor body | Formal continuity with objective substitution: inherited offices, metrics, resources, and legitimacy begin reproducing another Culture Program |
 | Strong skeleton and strongly animated closed program | Durable, capable, and affectively alive Culture Program whose vitality does not establish reality answerability, person-preservation, or moral legitimacy |
 
@@ -4567,9 +5851,13 @@ can inherit a carrying structure while changing the skeleton's operative objecti
 branches, not first-order and lifted solidarity, not institution and individual,
 and not two programs or two bigOthers. Both principal branches can be structurally
 strong or weak and culturally alive or inert. “Living” does not mean benign, and
-“systemic” does not mean culturally neutral.
+“systemic” does not mean culturally neutral. Low *Beseelung* does not by itself
+mean an insufficient living body, and structural reliability does not by itself
+establish high *Beseelung*, collective-self presentation, or collective agency.
 
-### 13.8 Anti-gnostic adaptive constitutional search
+<a id="anti-gnostic-adaptive-constitutional-search"></a>
+
+### 13.8 Anti-gnostic adaptive constitutional search {#anti-gnostic-adaptive-constitutional-search}
 
 The proposed lifted pluralist order needs more than a static constraint system. It
 must learn without appointing a seer, metric, office, or institution as sovereign
@@ -4634,7 +5922,9 @@ Or more compactly:
 This describes a desired living cultural body for the adaptive skeleton, not an
 empirical claim that liberal populations already possess it.
 
-### 13.9 SGD and its constitutional variants
+<a id="sgd-and-its-constitutional-variants"></a>
+
+### 13.9 SGD and its constitutional variants {#sgd-and-its-constitutional-variants}
 
 **Stochastic gradient descent (SGD)** is a controlled analogy for bounded,
 iterative, reality-corrected policy learning:
@@ -4815,7 +6105,9 @@ The proposed safeguards are:
 The scorecard remains a fallible diagnostic instrument. It is neither the Supreme
 Good nor a sovereign loss function.
 
-#### 13.10.1 The Lifted-Order Capacity Dashboard
+<a id="the-lifted-order-capacity-dashboard"></a>
+
+#### 13.10.1 The Lifted-Order Capacity Dashboard {#the-lifted-order-capacity-dashboard}
 
 The **Lifted-Order Capacity Dashboard** is a proposed concrete sensor suite for
 the pluralistic classical-liberal Culture Strategy:
@@ -4835,19 +6127,19 @@ The nine capacities form three diagnostic groups:
 |---|---|---|
 | **Direct person-protecting guardrails** | Speak · Own · Refuse · Exit · Appeal | Whether a person retains voice, protected material standing, refusal, mobility, and recourse against stronger actors |
 | **Anti-entrenchment and correction** | Correct · Choose | Whether evidence can defeat incumbent outputs and genuinely different accessible alternatives prevent monopoly |
-| **Sustaining cooperative and material conditions** | Cooperate · Build | Whether incompatible first-order programs can coordinate under common procedures and accumulate the capabilities and buffers that keep guardrails viable |
+| **Sustaining cooperative and material conditions** | Cooperate · Build | Whether incompatible first-order programs can coordinate under common procedures, preserve interpersonal standing across nonconvergence, and accumulate the capabilities and buffers that keep guardrails viable |
 
 The capacity definitions are:
 
 | Capacity | Lifted-order question | Illustrative candidate sensors |
 |---|---|---|
-| **Speak** | Can people state and argue their actual judgment without disproportionate punishment? | The originating “I can openly argue my real opinion” versus “It is safer to remain silent” question; experienced retaliation; remedied retaliation; sanction and chilling-effect evidence |
+| **Speak** | Can people privately formulate, confidentially test, state, publish, discover, receive, and organize around their actual judgment without prior inspection or disproportionate punishment? | The originating “I can openly argue my real opinion” versus “It is safer to remain silent” question; private-communication inspectability; experienced and anticipated retaliation; channel exclusion; practical discoverability and reach; remedied retaliation; sanction and chilling-effect evidence |
 | **Own** | Can ordinary persons acquire and preserve an independent material jurisdiction? | Secure Homestead Rate; positive housing or business equity; liquid runway; productive assets; stock, generation, retention, and dispersion of independent owners |
 | **Refuse** | Can a person reject an instruction, association, orthodoxy, or transaction without civil destruction? | Experienced and expected consequences of lawful refusal; loss of livelihood, credentials, banking, housing, services, or standing; restoration after wrongful retaliation |
 | **Exit** | Can a person leave an employer, association, provider, community, or jurisdiction? | Switching time and cost; portability of rights, credentials, pensions, benefits, records, and assets; blocked or punished exit; actual entry, retention, and departure |
 | **Appeal** | Can an ordinary person obtain timely independent review against a more powerful actor? | Cost and duration of review; access across income and status; compliance with judgments; differential treatment of connected and unconnected parties |
 | **Correct** | Can evidence, failed prediction, audit, dissent, or adverse consequence change policy, interpretation, metrics, jurisdiction, or officeholders? | Correction latency; publication of negative findings; preserved prediction and failure records; rollback, revision, appeal, and peaceful succession |
-| **Cooperate** | Can people with incompatible first-order programs coordinate through recognized common rules without compulsory conversion? | Cross-program work and exchange; reciprocal standing; acceptance of legitimate defeat; dispute resolution without exclusion or violence; monitoring and enforcement burden |
+| **Cooperate** | Can people with incompatible first-order programs coordinate and preserve interpersonal standing across explicit nonalignment through recognized common rules without compulsory conversion? | Cross-program work and exchange; reciprocal standing; continuation of voluntary association, mutual assistance, and cooperation across explicit cultural-symbolic nonalignment and unresolved nonconvergence; acceptance of legitimate defeat; dispute resolution without exclusion or violence; monitoring and enforcement burden |
 | **Build** | Does the order accumulate and maintain broadly usable material capability and resilience? | Real median and lower-distribution resources; productive asset formation; quality and maintenance; infrastructure, food, energy, housing, and crisis buffers; recovery after shocks |
 | **Choose** | Do genuinely different, accessible alternatives exist rather than merely formal permission? | Viable employers, providers, associations, and jurisdictions; concentration and switching costs; meaningful local policy variation; lawful movement, foot voting, imitation, and return |
 
@@ -4880,7 +6172,9 @@ of *Exit* or *Appeal*. *Choose* without affordable access supplies formal
 pluralism rather than operative choice. *Own* strengthens possible refusal and
 exit, but title alone does not establish either.
 
-#### 13.10.2 Sensor triangulation and conflict
+<a id="sensor-triangulation-and-conflict"></a>
+
+#### 13.10.2 Sensor triangulation and conflict {#sensor-triangulation-and-conflict}
 
 Where possible, each capacity should be observed through at least three sensor
 types:
@@ -4910,7 +6204,9 @@ raw components, distributions, uncertainty, contrary sensors, and revisions must
 remain visible. The dashboard is best treated as a dashboard, not collapsed into
 one weighted national-wellbeing number.
 
-#### 13.10.3 Non-compensable constitutional sentinels
+<a id="non-compensable-constitutional-sentinels"></a>
+
+#### 13.10.3 Non-compensable constitutional sentinels {#non-compensable-constitutional-sentinels}
 
 Some measurements diagnose the boundary of the permissible region rather than
 contribute fungibly to an aggregate score. Candidate sentinel events include:
@@ -4920,6 +6216,9 @@ contribute fungibly to an aggregate score. Candidate sentinel events include:
 - punishment of lawful exit or compulsory ideological profession;
 - destruction of due process or independent appeal;
 - refusal of peaceful succession or legitimate constitutional defeat;
+- suppression, criminalization, or population-wide prior inspection of
+  nonviolent evidence-bearing opposition under rules lacking a specifiable
+  reciprocal-right nexus, independent review, and repair;
 - elimination or capture of independent measurement and correction routes.
 
 A high result on *Build*, *Own*, or *Cooperate* does not purchase permission for
@@ -4927,7 +6226,9 @@ such events. Sentinel designation also does not make every allegation
 self-proving. Authentication, attribution, scale, context, remedy, and due
 process remain necessary.
 
-#### 13.10.4 *Own* and the Secure Homestead Rate
+<a id="own-and-the-secure-homestead-rate"></a>
+
+#### 13.10.4 *Own* and the Secure Homestead Rate {#own-and-the-secure-homestead-rate}
 
 The **Secure Homestead Rate** is a candidate headline implementation of *Own*:
 
@@ -5009,7 +6310,9 @@ than silently equated with either secure ownership or failure. The Secure
 Homestead Rate is a deliberately concrete constitutional-capacity candidate, not
 a mandate that every person must prefer or be compelled into homeownership.
 
-### 13.11 Soft secession and reversed legal priority
+<a id="soft-secession-and-reversed-legal-priority"></a>
+
+### 13.11 Soft secession and reversed legal priority {#soft-secession-and-reversed-legal-priority}
 
 #### 13.11.1 The Mises co-origin
 
@@ -5102,7 +6405,9 @@ possible scale for many real experimental spaces; it is not a theoretically
 privileged number or evidence that every district is a viable unit for every
 function.
 
-#### 13.11.3 Capture-resistant jurisdictional topology
+<a id="capture-resistant-jurisdictional-topology"></a>
+
+#### 13.11.3 Capture-resistant jurisdictional topology {#capture-resistant-jurisdictional-topology}
 
 The Landkreis topology has a security advantage in addition to experimentation,
 choice, and conflict reduction. A highly centralized order resembles a
@@ -5131,6 +6436,14 @@ common lifted rights, mobility, appeal, and externality shell
 → no single local victory installs a successor throughout the whole order
 ```
 
+The same topology supports a [trace-generating *Schutzbalken* and
+boundary-crossing challenge](#boundary-crossing-reality-challenges).
+Independent personnel, finance, raw records, evaluators, appeal routes,
+destinations, and failure domains prevent the operator under examination from
+controlling every account of itself.
+Periodic [mandatory institutional portability](#mandatory-institutional-portability)
+then tests whether nominal distribution survives an actual transfer of control.
+
 This is **capture resistance**, not capture immunity. The lifted common shell
 remains a high-value target. Central funding, shared software, common formation,
 one appointment pipeline, uniform metrics, or a monopolized appellate
@@ -5147,7 +6460,9 @@ subsidiarity, federalism, municipal home rule, and actual German constitutional
 competence require verification before the proposal is presented as existing law
 or inherited doctrine.
 
-#### 13.11.4 The severe-Babelization fork: secession or force
+<a id="the-severe-babelization-fork-secession-or-force"></a>
+
+#### 13.11.4 The severe-Babelization fork: secession or force {#the-severe-babelization-fork-secession-or-force}
 
 **Status:** originating thesis, sharpened through the un-reason--Babelization
 discussion and integrated here as a project-specific relation
@@ -5233,6 +6548,8 @@ the disputed output from compulsory common jurisdiction. Under the stated
 conditions of severe Babelization, the shared-rule branch is by definition
 unavailable; the remaining alternatives are therefore secession or force.
 
+<a id="pure-ideology-multi-mind-self-at-the-fork"></a>
+
 ##### Pure-Ideology operative multi-mind-self at the fork {#pure-ideology-multi-mind-self-at-the-fork}
 
 The legacy formulation about a multi-mind-self that cannot accept negotiated
@@ -5283,6 +6600,8 @@ accessible defeater for the load-bearing claim would instead change the branch
 classification. An operative multi-mind-self remains a neutral collective-agency category;
 neither that status nor Pure-Ideology by itself establishes closure, bad faith,
 force, or illegitimacy.
+
+<a id="westphalia-as-a-marker-of-negotiated-coexistence"></a>
 
 ##### Westphalia as a marker of negotiated coexistence {#westphalia-as-a-marker-of-negotiated-coexistence}
 
@@ -5487,6 +6806,48 @@ the pluralist proposal aims to construct peaceful jurisdictional separation
 before compulsory supremacy or violent rupture becomes the only available
 implementation.
 
+<a id="soft-secession-as-learning-architecture"></a>
+
+##### Soft secession as learning architecture {#soft-secession-as-learning-architecture}
+
+Soft secession can do more than reduce compulsory proximity.
+Under bounded conditions it can serve five positive epistemic and cultural
+functions:
+
+1. **preserve coherent alternatives** that a centralized settlement would erase;
+2. **reduce capture value at the centre** by lowering the range of decisions one
+   victory controls;
+3. **improve causal attribution** by letting more complete institutional packages
+   act and bear visible consequences;
+4. **restore internal integration** where recurrent unitary fights prevented any
+   local programme from becoming a coherent, corrigible practice; and
+5. **permit later borrowing and rebraiding** as successful elements become
+   visible without requiring immediate submission to the rival programme.
+
+```text
+bounded separation
+→ several more coherent and observable alternatives
+→ differentiated consequence, correction, imitation, and abandonment
+→ voluntary borrowing across retained interfaces
+→ possible later interoperability or reunion
+```
+
+This is a selection-and-learning hypothesis, not a theorem that smaller units
+learn better.
+Sorting effects can hide causal mechanisms; people may move rather than correct;
+local majorities can become tyrannical; public goods and harms cross boundaries;
+weak units can externalize costs or depend on transfers; and scale can be required
+for defence, infrastructure, science, insurance, and bargaining.
+The common rights shell, meaningful exit, anti-confinement rules, externality
+settlement, transparent finance, comparable records, and a credible appellate
+interface are therefore constitutive safeguards of the learning claim.
+
+The trunk of [democratic cultural
+alloying](0040-mythology-construction.semantic-definition.md#democratic-cultural-alloying-and-integrative-interoperability)
+supplies the positive return path.
+Separation need not freeze cultural domains forever; it can preserve the coherent
+alternatives from which later voluntary synthesis becomes possible.
+
 ### 13.12 *Abstimmung mit den Füßen* as a costly aggregate signal
 
 The originating strong claim is:
@@ -5568,7 +6929,9 @@ local contest, externalize costs, or use the common shell to abolish competing
 experiments. The SGD-like skeleton cannot supply by calculation the moral
 formation required to keep its own sensors and update rules operative.
 
-## 14. Containment, *Hegung*, and open conflict
+<a id="containment-hegung-and-open-conflict"></a>
+
+## 14. Containment, *Hegung*, and open conflict {#containment-hegung-and-open-conflict}
 
 ### 14.1 *Hegung*
 
@@ -5613,7 +6976,9 @@ exposed to harassment. A viable containment design needs due process,
 proportionality, moderator limits, reply rights, and protection against compelled
 performance.
 
-### 14.3 Conflict-Finders
+<a id="conflict-finders"></a>
+
+### 14.3 Conflict-Finders {#conflict-finders}
 
 A **Conflict-Finder** is a proposed institution or role that:
 
@@ -5628,7 +6993,10 @@ A **Conflict-Finder** is a proposed institution or role that:
    confrontation without compelling ordinary private carriers to perform;
 6. distinguishes fact, causal inference, value judgment, and program
    classification;
-7. reports refusal without treating refusal alone as proof of guilt.
+7. reports refusal without treating refusal alone as proof of guilt;
+8. exposes relevant intake rules, category transitions, evidence custody,
+   correction history, funding relations, and institutional conflicts instead of
+   converting their hidden output into an authoritative verdict.
 
 The proposal adopts the familiar maxim:
 
@@ -5669,6 +7037,8 @@ Conflict-Finders must not become:
 - compulsory denunciation theatre;
 - an audience-vote substitute for reality;
 - a reputational assassination service;
+- another reporting portal that turns unadjudicated allegations into public case
+  counts or person-directed sanctions;
 - a mechanism for forcing every private person into public combat.
 
 Their institutional feasibility remains open.
@@ -5722,8 +7092,9 @@ not adopted as settled population-level conclusions merely by appearing here.
 
 **Origin:** user judgment grounded in German historical experience.  
 **Proposed theoretical contribution:** paradigmatic case for historical
-disqualification, fatal offspring, fundamentalist form, closed correction, and
-catastrophic Culture Program hazard.  
+disqualification, fatal offspring, a fundamentalist person--programme relation
+in decisive carriers, coercive enforcement, closed correction, and catastrophic
+Culture Program hazard.
 **Status:** strong application judgment; legal scope and causal details require
 the constitutional and historical record.  
 **Boundary:** no inherited guilt and no automatic extension of the category to
@@ -5824,7 +7195,9 @@ Apply one morphology and progeny standard across all programs. Neither communist
 nor anti-fascist self-description defeats an evidenced Fascism classification,
 and neither official nor hostile use of *fascist* establishes one.
 
-### 15.3 Islam
+<a id="islam"></a>
+
+### 15.3 Islam {#islam}
 
 > **The Islam Culture Program—not only a detachable “jihadist Culture
 > Program”—must bear scrutiny if violent jihad, founder conduct, protected core
@@ -5902,6 +7275,670 @@ would support an objective-substitution hypothesis. Neither zero baptisms nor
 political engagement alone establishes capture; the complete Core Program
 Alignment Audit is required.
 
+<a id="chat-control-as-a-textbook-schutzbalken-warning-pattern"></a>
+
+### 15.6 Chat control as a textbook *Schutzbalken* warning pattern {#chat-control-as-a-textbook-schutzbalken-warning-pattern}
+
+> **Originating application claim:** The desired object—control—is already
+> present before its public justification is selected. Anti-terrorism and child
+> protection are not causes of the policy but interchangeable moral packaging.
+> Chat control is a *Breitschwert*, not a scalpel: the law-abiding population is
+> made inspectable before individualized suspicion exists.
+
+**Status:** bounded worked application and strong causal hypothesis, not an
+adjudicated legal finding or completed theory classification.
+
+This reconstruction intentionally adopts the factual and procedural account in
+the [Heise article “Chatkontrolle: EU-Rat trickst Parlament vor Pause
+aus”](https://www.heise.de/news/Chatkontrolle-1-0-EU-Ministerrat-will-Messenger-Scans-im-Eiltempo-durchdruecken-11353562.html),
+together with Martin Sonneborn and Sibylle Berg's public objection, at face value.
+
+The source positions are explicit:
+
+| Material | Source role in this application | Adopted use and boundary |
+|---|---|---|
+| [Heise article](https://www.heise.de/news/Chatkontrolle-1-0-EU-Ministerrat-will-Messenger-Scans-im-Eiltempo-durchdruecken-11353562.html) | Secondary journalistic account and principal factual narrative | Adopted at face value for the expired rule, replacement measure, scanning architecture, timing, procedure, vote mechanics, and data burden; it remains a secondary account rather than independent legal adjudication. |
+| [Joint Berg--Sonneborn dossier](https://parteieuropa.eu/wir-fordern-die-praesidentin-auf-chatkontrolle-1-0-stoppen) | Interested participant/opposition account containing their written objection and procedural reconstruction | Used for what they alleged, when they objected, and how they interpreted the rules; their participation gives direct access to the objection but does not make their legal or causal interpretation self-validating. |
+| [Sonneborn's recorded intervention](https://www.youtube.com/watch?v=RNKFnOJnQpY) and accompanying account | Interested participant's recorded speech act and self-interpretation | Used for the content, timing, sixty-second cutoff, and selective-proceduralism claim; it does not establish why other actors acted. |
+| [Earlier](https://www.berliner-zeitung.de/article/eu-chatkontrolle-abstimmen-bis-die-massenueberwachung-durch-ist-10027062) and [later](https://www.youtube.com/shorts/F9Hs4PGFYi8) Sonneborn statements, including his [low-attention warning](https://de.linkedin.com/posts/martin-sonneborn-058322280_chatkontrolle-aus-gr%C3%BCnden-activity-7383029220337422336-Im2P) | Public opposition chronology, including a secondary report of his March position and his own updates | Used to test whether the repeated-vote and low-attention interpretation predated the July outcome, not to prove strategic intent by the measure's supporters. |
+| “Control of Internet Speech” gift-wrapped-control meme | Unattributed visual illustration supplied in the originating conversation | Used only to model an invariant control capability under anti-terrorism and child-protection wrappers; it is not evidence that this dossier historically used both wrappers or that control-first intent is established. |
+
+The source-premise sequence is:
+
+1. Parliament had already rejected the Chat-control measure or its substantive
+   direction twice.
+2. On the Heise account, the expired “Chat Control 1.0” exception had allowed
+   service providers voluntarily to scan private communications using hash
+   comparison and AI-assisted detection. Because an expired measure could not
+   simply be extended, a formally new but substantively similar measure returned.
+3. On the Berg--Sonneborn account, the urgency request was submitted on 1 July
+   even though the Council position to which it referred did not exist until
+   2 July. They treated this sequence as evidence that the request was premature.
+4. Written circulation and an urgent procedure shortly before the summer recess
+   reduced an ordinary second-reading period of roughly three months to about one
+   week without normal committee consideration.
+5. Sonneborn and Berg alleged that combining Rules 170, 48, 64, and 80 was
+   inadmissible: urgency required an unforeseen development; Rule 170 belonged to
+   first reading; and the second-reading rules took priority in this dossier.
+6. The second-reading route made rejection depend upon an absolute majority of
+   all members rather than a majority of votes cast.
+7. The rejection motion received 314 votes, against 276 and 17 abstentions, but
+   did not reach the required 361; the measure therefore survived despite a
+   majority of participating voters opposing it.
+8. They distinguished the cited 2022 Ukraine-aid precedent by function: in their
+   account, the Council had promised to accept Parliament's text, so urgency
+   implemented Parliament's will during an emergency; here the device operated
+   against Parliament's already expressed will.
+9. They asked President Metsola, as guardian of the rules under Article 22, to reject
+   the urgency request or restore ordinary second reading. According to
+   Sonneborn, Metsola publicly assured the press that the procedure was compliant
+   while their direct written objection remained unanswered.
+10. Sonneborn's public explanation was terminated at the formally available
+   sixty-second limit—“regelkonform, wird aber selten gemacht”—while, in his
+   account, the structural rules protecting deliberation and the previously
+   expressed parliamentary will were bent or bypassed.
+11. The substantive architecture permits or enables private-message scanning
+   across ordinary service users rather than beginning from independently
+   individualized suspicion.
+12. The Heise account further reports possible retention of processed content and
+    traffic data for up to twelve months even where no concrete suspicion is
+    confirmed. The inspection burden and its residue can therefore outlive the
+    negative classification that should have ended a suspect-specific inquiry.
+
+In this bounded application, **Verfahrenstrick** names the alleged combination
+of formal repackaging, urgency, reduced deliberation, and a rejection threshold
+that converts an ordinary voting majority against the measure into failure to
+stop it. The threshold conversion is the observable procedure effect on the
+adopted account. Calling it a *trick* additionally attributes strategic selection
+or exploitation of that effect; that attribution remains part of the source
+premise unless chronology, alternatives, internal evidence, and responsible-actor
+nexus establish it independently.
+
+The [joint Berg--Sonneborn
+dossier](https://parteieuropa.eu/wir-fordern-die-praesidentin-auf-chatkontrolle-1-0-stoppen),
+Sonneborn's [recorded parliamentary
+intervention](https://www.youtube.com/watch?v=RNKFnOJnQpY), and his earlier
+[March formulation reported by the *Berliner
+Zeitung*](https://www.berliner-zeitung.de/article/eu-chatkontrolle-abstimmen-bis-die-massenueberwachung-durch-ist-10027062)—continue
+until mass surveillance passes—supply the opposition's interpretation. His
+[earlier low-attention warning](https://de.linkedin.com/posts/martin-sonneborn-058322280_chatkontrolle-aus-gr%C3%BCnden-activity-7383029220337422336-Im2P)
+predicted return when public and parliamentary attention was weaker, using a
+Christmas-period vote as the satirical example. The [post-vote Berg--Sonneborn
+short](https://www.youtube.com/shorts/F9Hs4PGFYi8) maintains the inadmissible-
+urgency and ineffective-majority account. Consistency across the March rejection,
+low-attention prediction, pre-vote written objection, microphone episode, and
+post-vote response strengthens the record that their procedural criticism
+predated the final outcome. It does not by itself establish why every supporting
+actor acted.
+
+#### Why the case is textbook-like
+
+The case condenses several moves from the [expected power
+repertoire](#expected-power-moves-against-the-schutzbalken):
+
+| Source-premise observation | Theory mapping | What remains open |
+|---|---|---|
+| Substantially similar control returns after repeated rejection | Persistence of the capability across failed authorization; candidate control-object invariance | Legitimate reconsideration, changed facts, mixed objectives, and ordinary legislative persistence remain rivals. |
+| Urgency request allegedly precedes the Council position it names | Chronology lead for procedural preselection and correction conversion | Administrative preparation, drafting sequence, and other nonstrategic explanations remain possible; exact chronology does not alone prove an impermissible route. |
+| Formally new packaging and urgent second-reading route | Procedural repackaging and exceptionalization | The source record alleges rule incompatibility; a strict legal or *Maßnahmenstaat* classification requires the complete rule, jurisdiction, review, and counterargument record. |
+| Roughly three months of ordinary consideration becomes about one week without normal committee treatment | Deliberation-cap reduction and low-attention authorization opportunity | Urgency can be legitimate; diagnose functional necessity, alternatives, foreseeability, record quality, and whether the shortened route served or defeated the deciding body's will. |
+| Ukraine-aid precedent allegedly used the same urgent form to implement Parliament's will, while the present route operates against its prior will | Cue similarity with functional inversion; precedent cannot be transferred by form alone | The bounded source supplies the distinction, not an independent legal holding. Exact precedent, institutional authority, and relevant differences remain unadjudicated here. |
+| Majority of votes cast opposes, but absolute threshold prevents rejection | Procedural conversion of a repeated political “no” into failure to stop the measure | Threshold application is not vote falsification. The diagnostic question is whether the contested route was selected to exploit the asymmetry. |
+| Last pre-recess timing and shortened deliberation | Low-attention timing and correction-cap reduction | Strategic timing requires comparative and internal evidence; calendar pressure alone proves no intent. |
+| Sixty-second microphone rule enforced while the structural objection receives no substantive answer in the bounded record | Selective proceduralism; nominal *Speak* without demonstrated *Receive, Answer, Adjudicate,* or *Change operation* | A time limit can be neutral and legitimate. The diagnostic force lies in its conjunction with the unanswered structural objection and continued exceptional process. |
+| Public assurance of compliance while the direct written objection allegedly remains unanswered | Third-audience reassurance without accountable correction uptake | A press statement may have an independent purpose or incorporate a substantive answer not present in the bounded record; the application establishes the alleged asymmetry, not total institutional silence. |
+| Providers receive authority to scan voluntarily rather than every inspection being performed directly by the state | Public-private control routing and proxy-enforcement surface | Provider discretion, actual participation, legal attribution, incentives, and technical implementation require separate evidence; “voluntary” does not by itself mean independent or coerced. |
+| Private-message scanning applies before individualized suspicion | *Breitschwert* or dragnet sequence: population as inspection field, classification, then generated suspicion | Technical scope, provider participation, exact triggers, accuracy, data handling, appeal, and actual coverage require separate evidence. |
+| Processed content and traffic data may be retained for up to twelve months where no concrete suspicion is confirmed | Burden persistence after negative classification; normalization and retention of inspection residue | Exact data categories, triggers, provider practice, access, deletion, and downstream use remain source-bounded technical questions. |
+| “Child protection” supplies the protected public objective | Candidate moral wrapper around a reusable inspection capability | The label can name a sincere objective. Pretext requires chronology, narrower-alternative, functional-fit, persistence, repurposing, and actor-specific evidence. |
+| Objection can be reframed as hostility to child protection | Opposition-as-complicity and possible un-reason route | The source record must show that this reframing actually governed reasons, classifications, or sanctions rather than merely appearing in satire or criticism. |
+
+The procedural result is more specific than “vote until the desired result
+appears”:
+
+```text
+repeated substantive rejection
+→ contested re-entry under a formally new route
+→ shortened deliberation and strategically consequential timing
+→ raised rejection threshold
+→ majority of votes cast opposes
+→ failure to reach absolute threshold
+→ measure survives without winning an affirmative voting majority
+```
+
+As a teaching case, the key operation is [**procedural correction
+conversion**](0030-epistemic-constitution.semantic-definition.md#procedural-correction-conversion): the majority
+is not necessarily miscounted or forbidden to speak; procedural configuration
+changes what the majority's repeated “no” can do. This is why formal voice,
+correct vote counting, and rule citation cannot substitute for a complete
+correction interface.
+
+#### *Breitschwert*, suspicion reversal, and speech infrastructure
+
+The substantive concern is not confined to informational privacy. A targeted
+investigative scalpel begins with a specified offence and individualized basis,
+obtains independent authorization, limits the account, data, duration, and means,
+and preserves review and repair. The broad scanning architecture reverses that
+order:
+
+```text
+targeted investigation:
+suspicion → independent authorization → bounded inspection
+
+chat-control architecture:
+general inspectability → provider scanning and automated classification
+→ suspicion → possible retention even after no concrete suspicion is confirmed
+```
+
+The law-abiding user population of the covered infrastructure is not incidental
+collateral to a suspect-specific measure; it becomes the field within which
+suspicion is generated. Even where no message is deleted, the installed
+inspection and classification surface can chill confidential thought-testing,
+source protection, intimate association, whistleblowing, opposition formation,
+and later public speech. It is therefore both a censorship-capable infrastructure
+and a first-line *Speak*/*Correct* hazard.
+
+The Heise source premise also makes the public-private route material. Providers
+receive permission to perform hash- and AI-assisted inspection “voluntarily,” so
+state authorization, provider discretion, technical custody, reporting, and data
+retention occupy different nodes. That distribution does not prove provider
+coercion or constitutional evasion, but it can make responsibility and appeal
+discontinuous while installing a reusable control surface outside direct public
+operation. Possible twelve-month retention after no concrete suspicion is
+confirmed further shows why a negative classifier result must trigger deletion
+and repair rather than leave the burden as durable surveillance residue.
+
+#### The control-first hypothesis
+
+The [gift-wrapped-control
+analogy](0050-culture-mechanics-analogies.semantic-inventory.md#gift-wrapped-control-and-moral-wrapper-selection)
+places a box already labelled “control of internet speech” upstream of two
+wrappers, anti-terrorism and child protection. Applied here, its dangerous claim
+is not merely that child protection became an objective later. It is that control
+was selected first and child protection was selected afterward to authorize it:
+
+```text
+advertised account:
+child-protection need → communication scanning
+
+originating application hypothesis:
+desired communication-control capability
+→ child protection selected as moral authorization wrapper
+```
+
+The anti-terror wrapper belongs to the general invariance comparison; this
+bounded Chat-control record directly concerns the child-protection wrapper. The
+meme demonstrates interchangeability as a model, not as historical proof that
+this dossier itself previously used anti-terrorism. Establishing control-first
+selection would require evidence that the capability or objective preceded the
+rationale, that narrower child-protection measures were rejected despite better
+fit, that control persisted across rationale failure or replacement, that the
+same infrastructure was retained or repurposed, or that responsible actors
+described the objective accordingly. Evidence that child protection governed
+design, materially narrowed the capability, supplied falsifiable success
+criteria, and caused rollback when unmet would weaken the hypothesis.
+
+If control-first selection is established, the case is not ordinary objective
+substitution. It is advertised-object/operative-object divergence from inception.
+The public causal account can then become un-real if it continues to authorize
+the measure after independent correction has defeated its claimed necessity or
+fit; reasoning becomes un-reasoned when criticism of the means is recursively
+converted into confirmation of danger or hostility to children; recurrent
+cross-institutional wrapper selection and suppression can contribute to organized
+un-reality and systemic lying.
+
+#### Classification ledger
+
+| Question | Bounded result on the adopted source account |
+|---|---|
+| **Has a *Schutzbalken* warning been triggered?** | Yes. Population-wide inspectability, chilling potential, repeated rejection, disputed urgency, threshold conversion, and nominal voice without demonstrated uptake justify a high-severity *Speak*/*Correct* audit. |
+| **Has the censorship sentinel been crossed?** | The source account strongly supports a correction-impairment sentinel. Exact technical suppression, coverage, and downstream sanctions still require localization. |
+| **Did procedural correction conversion occur?** | On the adopted account, yes in the descriptive sense: the votes were received and counted, an actual majority opposed urgency, and the absolute-majority rule converted that adverse signal into failure to reject urgency. This establishes the conversion operator and its effect, not by itself a strategically chosen *Verfahrenstrick*. |
+| **Does the record establish selective proceduralism?** | It supplies a serious candidate: exact enforcement of the sixty-second speaking limit sits beside the participant account of elastic or inverted urgency, reading, and committee rules. A completed classification still needs the normal-practice comparator, the rule text and function, consistent beneficiary, reason-giving, and independent review that this deliberately bounded source record does not adjudicate. |
+| **Was a correction bearer neutralized?** | The microphone cutoff limited Sonneborn's immediate intervention but followed a facially applicable speaking-time rule. That episode alone does not establish reputational neutralization, retaliation, or destruction of standing; the broader correction route and any person-directed attacks require separate evidence. |
+| **Does the case establish operative un-reality?** | Not from procedure or scanning alone. Identify the authorized representation, independent correction, retained practical authority, and affected jurisdiction. |
+| **Does it establish un-reason?** | Not without reason-shaped immunization that makes criticism confirm the protected conclusion. Protective language alone is insufficient. |
+| **Does it satisfy strict Ideology?** | It triggers the seven-gate audit and supplies especially relevant evidence toward correction closure, installation, and collective scale. Bearer, reusable generator, operative un-reality, and un-reasoned defence still require their own evidence. |
+| **Does it establish systemic lying?** | Not by itself. Recurrent generation, selection, authorization, protection, and replacement of organized un-reality across the constitutional meta-order must be shown. |
+| **Does it establish *Maßnahmenstaat*, *Willkür*, or *Machtpolitik*?** | The alleged exceptional route and movable political classification are relevant leads. Each stricter type retains its full institutional, systemic-lying, power-objective, carrier, beneficiary, and attribution gates. |
+| **Does it prove control-first intent or one hidden controller?** | No. Repetition, breadth, functional fit, and procedural persistence raise the hypothesis; chronology, internal evidence, rejected alternatives, actor-specific nexus, and counterevidence decide it. |
+
+The pedagogical conclusion is therefore deliberately asymmetric:
+
+> **Do not wait for a completed Ideology, systemic-lying constitution,
+> *Maßnahmenstaat*, or *Machtpolitik* diagnosis before protecting the correction
+> infrastructure. But do not convert the early warning into an attribution or
+> punishment that bypasses the very *Schutzbalken* being defended.**
+
+<a id="moralized-reporting-and-report-to-mandate-loop"></a>
+
+### 15.7 Moralized reporting and the report-to-mandate loop {#moralized-reporting-and-report-to-mandate-loop}
+
+> **A reporting statistic measures reporting acts first. It becomes evidence
+> about underlying reality only through disclosed and defeasible bridges from
+> submission to identity, incident, verification, prevalence, priority, and
+> remedy.**
+
+**Status:** generic institutional hazard model plus bounded worked example; not a
+diagnosis of every reporting portal, campaign, NGO, news organization, or public
+institution.
+
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#moralized-observation-to-mandate-loop)
+defines the portable moral-role grammar. A protected principal is placed beside a
+virtuous citizen-reporter and a competent guardian; the alleged culprit becomes
+the object of classification; and the critic of intake, inference, priority, or
+remedy can be recast as obstructing protection. [*Epistemic
+Constitution*](0030-epistemic-constitution.semantic-definition.md#report-to-reality-laundering-and-endogenous-observation)
+owns the distinct report-to-reality, ascertainment, and salience errors. At the
+ecology level, the central question is who controls the successive role and data
+transformations:
+
+```text
+PROMOTE AND RECRUIT
+define concern, examples, reporter identity, and expected vigilance
+                              ↓
+RECEIVE
+accept anonymous or identified submissions and attached evidence
+                              ↓
+CLASSIFY AND CUSTODY
+authenticate, deduplicate, code, accept, reject, retain, and correct
+                              ↓
+AGGREGATE AND INTERPRET
+turn records into identities, cases, rates, trends, causes, and priorities
+                              ↓
+AMPLIFY
+publish a report; route it through media, trusted opinion leaders, and politics
+                              ↓
+MANDATE
+authorize funding, jurisdiction, restriction, sanction, or surveillance
+                              ↓
+FEEDBACK
+expand observation and reporting, producing the next record series
+```
+
+When this chain appears as retained machinery in a
+[pseudomorphic-governor-substitution inquiry](0030-epistemic-constitution.semantic-definition.md#typed-machinery-routing-and-function-local-application),
+this section is the mandatory institutional companion audit.
+Apply it to the particular support, intake, classification, estimation,
+communication, advocacy, sanction, or funding function at issue before broadening
+the bearer to the whole organization.
+Where reports travel through several institutions, inspect each node and interface;
+source propagation alone does not turn the ecology into one PGS bearer or transmit
+intent, but a durable X-bearing cross-node practice can enter the PGS bearer gate
+where the same operative governor controls its consequential selections,
+corrections, and reproduction.
+
+The audit must also follow the public claim through the report, executive summary,
+press release, media translation, political citation, and resource or mandate use.
+A caveat or methodological limitation is a disclosed safeguard, not necessarily
+an operative one.
+It receives correction weight only where it changes the consequential comparison,
+headline, classification, priority, remedy, funding claim, or subsequent design.
+If technical prose preserves the narrow statement while downstream communication
+recurrently installs a stronger implication, record the audience-dependent claim
+scope, trace all repetitions to their evidential roots, and test LT-036's
+motte-and-bailey amplitude shift.
+Several prestigious outlets repeating one release increase distribution and
+borrowed authority; they do not supply several independent measurements.
+
+The architecture becomes especially hazardous when one party can recruit
+reporters, define the category, control the intake, inspect or withhold raw
+records, remove duplicates, verify identities, aggregate the result, announce the
+interpretation, and advocate the remedy. The problem is not that one actor must
+never perform several functions. It is that the public claim can become
+self-certified by the institution that benefits from its acceptance. If outside
+inspection is then refused under a general appeal to data protection, the
+institution approaches a sealed evidentiary oracle: it can invoke records that
+the affected public cannot test and use their untestability to preserve the
+claim.
+
+The conflict deepens when the same measured problem helps finance the measuring
+institution. A **problem-size-dependent funding loop** has the form:
+
+```text
+operator defines, receives, classifies, and publishes problem metric D
+        → D influences budget, grants, staff, prestige, jurisdiction, or survival
+        → additional resources and institutional stake expand observation and intake
+        → the operator produces the next D used to justify further resources
+```
+
+Scale-sensitive resourcing can be legitimate: an institution facing a larger
+verified workload may need more staff and money. The hazard is dependence upon a
+self-produced and weakly audited proxy, especially raw submissions or
+operator-defined “incidents.” A smaller verified problem, rigorous rejection,
+deduplication, narrow categorization, correction, or successful prevention may
+then threaten the operator's resources. The architecture can reward the appearance
+of a large persistent problem and penalize epistemic restraint.
+
+Keep an escalation ladder rather than collapsing every conflict into fraud:
+
+| Level | Observable relation | Evidentiary meaning |
+|---|---|---|
+| **Workload-responsive funding** | Independently verified workload transparently affects resources | Potentially appropriate capacity matching |
+| **Expansion bias** | Broad outreach, categories, or retention increase the funded metric while methods remain disclosed | Institutional incentive and endogenous-measurement concern, not deception |
+| **Metric gaming** | The operator selects permissive counting rules or outputs because they improve funding or mandate while remaining literally within stated rules | Stronger Goodhart-like distortion; intent and disclosure still matter |
+| **Deceptive manipulation** | Known duplicates, false categories, material exclusions, synthetic entries, or contrary evidence are deliberately concealed or misrepresented | Actor-specific untruthfulness or fabrication candidate requiring proof |
+| **Fraud** | The jurisdiction's legal elements, including any required deception, materiality, benefit, loss, and intent, are satisfied | Legal conclusion for competent investigation and adjudication, not a theory shortcut |
+
+The protected moral end can make gaming easier to rationalize as correcting
+undercounting or securing resources for victims. That is a causal hypothesis to
+test, not a motive inferred from mission language. The relevant audit asks who
+sets the funding formula, which count enters it, whether verification and rejection
+are funded rather than punished, who can inspect the records, whether success
+reduces organizational survival, and how conflicts are disclosed and corrected.
+
+This is an architectural possibility, not an allegation that an operator has
+fabricated data. Deliberate creation, deletion, relabelling, or concealment of
+records requires direct evidence of conduct and nexus. The low-regret response is
+custody design that makes both error and fabrication harder and detectable without
+exposing protected persons. Data protection and institutional answerability are
+not opposites: identifiable submissions can remain confidential while an
+independent auditor receives controlled access to methods, raw counts, duplicates,
+authentication samples, dispositions, category rules, conflicts, and correction
+logs.
+
+The full audit distinguishes at least five claims that moral urgency can otherwise
+compress:
+
+| Claim | Required bridge | Characteristic failure |
+|---|---|---|
+| **The submission is authentic** | Provenance, evidence, identity or declared anonymity, and tamper-resistant custody | Fabricated, altered, automated, or falsely attributed entry |
+| **The record represents a unique relevant occurrence** | Deduplication, category fit, time and event resolution, and disposition | Duplicate, out-of-scope, joke, hearsay, or unverified allegation counted as a case |
+| **The aggregate estimates an underlying phenomenon** | Stable definitions, denominators, observation intensity, missingness, and error | More looking or easier reporting is misread as more incidence |
+| **The phenomenon deserves this political priority** | Magnitude, severity, displacement, comparison, uncertainty, and source independence | Selected stories or repeated releases create salience without comparative scale |
+| **The proposed measure addresses it proportionately** | Causal mechanism, effectiveness, narrower alternatives, burdens, stop rule, and repair | A morally protected concern authorizes an unrelated, preselected, or self-expanding capability |
+
+The observation loop and the stronger recursive [Pretext Trap of the Harmful
+Fix](0030-linguistic-tricks.semantic-inventory.md#lt-034) must remain distinct.
+The loop can arise through sincere concern, measurement error, institutional
+incentives, path dependence, or mixed causes. The recursive pretext hypothesis
+adds a preselected measure and an advertised-object/operative-object split:
+
+```text
+P = advertised problem that the apparatus records
+Q = conduct, speech, association, resource, or jurisdiction the remedy constrains
+
+reporting machinery produces or enlarges D about P
+        → D authorizes the proposed measure
+        → the measure acts materially upon Q
+        → the measure enlarges machinery that produces further D
+```
+
+Where `P ≠ Q`, remedy fit fails unless a disclosed causal bridge explains why
+acting on Q reduces P proportionately. Establishing a **pretext** rather than a
+badly fitted remedy additionally requires chronology, capability preselection,
+knowledge, persistence, rejected alternatives, and actor-specific evidence.
+
+The friendly moral interface is operationally relevant. [“Der gute Bürger
+meldet”](https://onkelmichael.blog/2026/08/09/der-gute-burger-meldet/)
+describes the modern role not through the command “betray your neighbour” but
+through the invitation to display civic commitment: control receives a friendly
+face of care, safety, vigilance, and responsibility. Used here, the essay is a
+source for an interpretive hypothesis about recruitment and moral presentation,
+not factual evidence that every portal is a denunciation apparatus. The same
+language can accompany legitimate victim protection; favourable wording neither
+convicts nor exculpates the installed operation.
+
+<a id="law-problematicity-and-sanction-routing"></a>
+
+#### Law, problematicity, and sanction routing {#law-problematicity-and-sanction-routing}
+
+The article identifies a second route that does not depend upon aggregate
+statistics or a new public law. A report can move directly from an allegation to
+a platform, employer, university, publisher, association, client, or other
+third-party authority capable of imposing a practical consequence. The categories
+governing that route must remain separate:
+
+| Status | Governing question | What it does not establish by itself |
+|---|---|---|
+| **Criminally unlawful** | Does a pre-existing criminal rule apply with the required elements and proof? | Civil liability, contractual breach, professional misconduct, or political priority |
+| **Civilly actionable or rights-violating** | Has an enforceable private right been infringed? | Criminality or general moral badness |
+| **Platform, contractual, workplace, or professional-rule breach** | Does a disclosed rule within the institution's jurisdiction apply? | Illegality, falsity, or loss of general civic standing |
+| **Morally or politically objectionable / “problematic”** | Which evaluative standard and whose judgment are being applied? | Unlawfulness, institutional jurisdiction, or a proportionate sanction |
+| **Lawful error, offence, polemic, satire, or disagreement** | Does reciprocal freedom protect the expression despite its defects? | Truth, wisdom, civility, immunity from criticism, or immunity from evidenced accusation |
+
+These status distinctions describe claims made by an existing order; they do not
+let positive law define the protected side of the *Schutzbalken*. The relevant
+[bootstrap-illegality
+test](0030-epistemic-constitution.semantic-definition.md#censorship-as-a-non-localizing-correction-closure-sentinel)
+asks whether a restriction answers an independently specified reciprocal-right
+violation. A power cannot first prohibit correction-bearing speech and then use
+the resulting “unlawful” status as independent proof that reporting, suppression,
+or sanction was justified.
+
+A priority reporting status is likewise not an adjudication status. A trusted or
+recognized reporter may deserve prompt reception because delay is costly, yet the
+reporter's office, moral standing, or channel priority cannot establish the
+allegation, its legal classification, or the appropriate remedy. Collapsing
+*illegal*, *rule-breaking*, *harmful*, *offensive*, *problematic*, and *disfavoured*
+into one grey category allows the gravest connotation to travel without its
+evidentiary burden.
+
+The direct sanction route is:
+
+```text
+utterance, act, or archived fragment
+        → report, screenshot, allegation, or public marking
+        → audience amplification and moral classification
+        → employer, platform, university, publisher, association, or client
+        → access loss, deletion, discipline, disinvitation, exclusion, or livelihood burden
+```
+
+The route can be legitimate: institutions have bounded duties, contracts,
+safety obligations, and associational freedoms. It becomes a *Schutzbalken*
+hazard when accusation and audience pressure substitute for provenance, complete
+context, applicable rule, notice, answer, independent judgment, proportionality,
+and repair. A screenshot can preserve genuine evidence, but it can also remove
+surrounding text, speaker identity, date, irony, reply context, later correction,
+or the distinction between quotation and endorsement. Searchability and archival
+persistence can reactivate an old fragment under a new classification long after
+the original audience and context have disappeared.
+
+The institutional ecology therefore matters even where no state command exists.
+The reporter supplies the trigger; a crowd or trusted carrier supplies visibility;
+a platform or media channel supplies routing; and a separate institution imposes
+the burden. Responsibility can become discontinuous because no participant alone
+claims to have investigated, adjudicated, and punished the person. This is a
+possible instance of power routed through ordinary private interfaces, not proof
+of one director, public coercion, constitutional evasion, or unlawful conduct.
+
+Apply actor and viewpoint symmetry. An in-group report described as
+*documentation* and an out-group report described as *denunciation* face the same
+provenance, context, evidence, jurisdiction, proportionality, reply, and repair
+standards. The same is true when preferred and disfavoured targets exchange
+positions. Symmetry does not require identical outcomes where facts, duties, or
+jurisdiction differ; it requires that the difference be stated and independently
+defensible rather than supplied by the reporter's alignment.
+
+The chilling effect can arise from the credible possibility of this route rather
+than from omnipresent observation or frequent punishment. A person who cannot know
+which listener may preserve an utterance or which institution may be activated can
+begin to formulate for the anticipated screenshot and sanctioning audience. That
+is the bridge from distributed reporting into the local internal observer defined
+in [*Epistemic
+Agency*](0020-epistemic-agency.semantic-definition.md#moralized-citizen-sensor-and-internal-observer).
+
+<a id="mechanism-choice-confidential-intake-or-public-conflict"></a>
+
+#### Mechanism choice: confidential intake or public conflict? {#mechanism-choice-confidential-intake-or-public-conflict}
+
+A broad reporting office and a sovereign fact-checker share a possible design
+error: both can transform a contested public matter into an input for a privileged
+classification office. The reporting office receives allegations and emits
+incidents, trends, or sanction triggers; the fact-checker receives propositions
+and emits an authorized truth label. If inputs, category transitions, funding,
+counterevidence, and corrections remain opaque, either mechanism can replace
+public correction with office-mediated reality permission.
+
+For disputes over speech, political interpretation, causal stories, or social
+priority where no independently specified reciprocal-right violation has been
+shown, this is ordinarily the wrong mechanism. Current legality is not the anchor:
+the censorial mechanism under examination may have produced the speech category's
+unlawfulness. The default should be **sunlight plus conflict finding**:
+
+```text
+make the exact claim and scope visible
+→ preserve source, context, evidence, funding, and category transitions
+→ state the strongest genuine counterclaim and rival explanations
+→ give affected and responsible parties standing to answer
+→ publish correction, refusal, uncertainty, and unresolved conflict
+→ leave confidence defeasible rather than appointing an official winner
+```
+
+The [Conflict-Finder](#conflict-finders) is designed for that task. It makes the
+conflict, carrying structure, evidence, incentives, and missing information
+inspectable. It does not ask citizens to manufacture accusation volume, issue a
+final true/false badge, determine guilt, or activate punishment merely because a
+claim has been reported.
+
+The rule is task-specific rather than absolute:
+
+| Task | Appropriate first mechanism | Reason and boundary |
+|---|---|---|
+| **Immediate danger or concrete alleged reciprocal-right violation** | Protected intake followed by competent investigation | Credible threats, coercion, fraud, abuse, non-consensual disclosure of intimate material, or seriously damaging unsupported factual accusation supply a rights nexus to investigate; confidentiality or anonymity may preserve safety and evidence, while allegation, proof, adjudication, and sanction remain separate |
+| **Internal institutional complaint** | Bounded confidential channel with independent review, notice, reply, anti-retaliation, appeal, and repair | Publicity may harm complainants or innocent targets; the institution still may not convert raw complaints into verified public reality |
+| **Speech, proposition, interpretation, or policy priority without demonstrated reciprocal-right violation** | Public evidence, counter-speech, preserved conflict, and Conflict-Finder reconstruction | The issue concerns common judgment; no office should receive root access to reality or suppress the opposing claim, and positive law cannot validate bootstrap illegality |
+| **Mixed case** | Protect persons and sensitive evidence while publishing redacted methods, exact public claims, category transitions, aggregate audit, conflicts, and correction history | Privacy limits disclosure of persons, not answerability of the reality-producing institution |
+
+Here *sunlight* does not mean doxxing, compulsory exposure of victims or private
+citizens, release of sensitive evidence, trial by publicity, or mob punishment.
+It means that publicly consequential claims and powers carry publicly inspectable
+reasons, provenance, methods, interests, replies, and correction histories to the
+maximum extent compatible with concrete person protection. Sunlight is a
+correction condition, not an adjudicator.
+
+The design contrast can be stated compactly:
+
+```text
+MELDESTELLE / SOVEREIGN FACT-CHECKER FAILURE
+private or privileged intake → office classification → public reality-status or sanction
+
+CONFLICT-FINDER
+specified conflict → plural evidence and reply → preserved public record
+→ continuing reality correction without final office sovereignty
+```
+
+Publicity remains insufficient by itself. Selective disclosure, decontextualized
+records, algorithmic outrage, audience voting, and coordinated reputational attack
+can reproduce the same failure in daylight. The required package remains
+sunlight, source integrity, reciprocal standing, due process, plural correction,
+proportionality, and repair.
+
+#### FIE--Reuters open-letter litigation as a bounded judicial check
+
+The 2026 dispute over an open letter concerning the International Fencing
+Federation supplies a compact example of the complete category-upgrade risk. The
+[Berliner Zeitung report](https://www.berliner-zeitung.de/article/querelen-im-internationalen-fechtverband-reuters-muss-falschbehauptung-loeschen-10245180)
+states that the Hanseatic Higher Regional Court in Hamburg prohibited Reuters
+from asserting that the letter had been signed by almost 3,000 athletes and
+coaches and classified that statement as an untrue factual assertion. A
+[more detailed NIUS report](https://nius.de/nachrichten/gericht-stoppt-reuters-falschmeldung-%C3%BCber-weltfechtverband)
+identifies the preliminary-injunction order as 23 July 2026, case 7 W 94/26, and
+reports the underlying intake defects: the online form was open to anyone;
+identity and sporting status were not checked; many entries were anonymous; the
+list contained parents, fans, other third parties, duplicates, and fabricated
+entries; and some named athletes denied signing. NIUS further reports that
+Reuters removed or corrected the number and acknowledged that it had not
+independently verified the signatures.
+
+Both items are secondary reports; the underlying order and complete evidentiary
+record have not been independently reproduced here. On their shared account, the
+critical transformation was not merely the raw number of form rows. It was the
+unsupported identity attribution:
+
+```text
+entries in an open online form
+        → assumed unique signatories
+        → assumed authentic signatories
+        → attributed status as athletes or coaches
+        → “almost 3,000 athletes and coaches”
+        → global wire-service amplification
+```
+
+The judicial intervention matters because it did more than express a statistical
+preference. On the reported holding, the final factual assertion produced by the
+sequence was false and could no longer be published. The order is therefore a
+judicial defeat for the specific category upgrade and demonstrates that a polished
+numerical endpoint does not escape ordinary factual review merely because it
+emerged from an online form and was repeated by a major wire service. Media reach
+increased the claim's visibility, not its source independence or truth.
+
+Functionally, this disapproves the complete sequence as an evidentiary warrant for
+that published claim: open intake, unchecked identity and status, aggregation,
+semantic upgrading, and repetition could not jointly carry the asserted factual
+conclusion. That is the precise sense in which the case supplies a judicial check
+on the mechanism as a whole; it does not mean that every component is unlawful in
+isolation.
+
+The boundary is equally important. The reported court holding does not adopt the
+project's entire observation-to-mandate theory, separately adjudicate every
+upstream design choice, or prove that the form operator deliberately fabricated
+the entries. It rejects the legally consequential endpoint created through those
+choices. That is enough to make the example stronger than a hypothetical warning:
+weak intake, missing identity verification, semantic upgrading, and media
+amplification reportedly produced a factual representation that failed judicial
+scrutiny.
+
+The case also reveals a limit of court correction. A sufficiently identifiable
+and resourced claimant could challenge the published assertion. Subjects of an
+anonymous reporting portal may never receive notice, see the record, possess
+standing, or obtain the evidence required to contest an aggregate political
+claim. Judicial review remains a *Schutzbalken*, but portal design must preserve
+the records, notice, reply, audit, and source lineage that make review possible.
+
+#### Minimum safeguards
+
+A proportionate institutional design should, where material:
+
+1. define separately *submission*, *allegation*, *verified incident*, *unique
+   case*, *affected person*, and *prevalence estimate*;
+2. preserve provenance, evidence status, timestamps, changes, rejection reasons,
+   duplicates, corrections, and deletion without publicly exposing reporters or
+   accused persons;
+3. disclose changes in publicity, access, categories, staffing, automation,
+   incentives, and observation intensity before interpreting a time series;
+4. separate intake, aggregation, certification, advocacy, and enforcement where
+   feasible, or disclose their concentration and conflicts where not;
+5. provide confidential independent audit rather than treating data protection
+   as an exemption from institutional verification;
+6. distinguish one originating source from media repetitions and apparently
+   independent restatements;
+7. give a consequentially accused person notice, an intelligible allegation,
+   opportunity to answer, independent adjudication, proportionate action, and
+   correction or repair;
+8. compare magnitude, severity, and displaced attention before converting
+   collected stories into political priority;
+9. test whether the proposed remedy causes the claimed improvement, identify
+   narrower alternatives and collateral burdens, and predeclare failure and stop
+   conditions; and
+10. prevent recursive self-validation: rising records must not automatically
+    prove worsening, falling records must not automatically prove policy success,
+    and every possible result must not authorize further expansion;
+11. state whether a record alleges criminal illegality, civil wrong, institutional
+    rule breach, moral or political objection, or lawful disagreement, and prevent
+    connotations from a graver category from supplying the missing proof;
+12. preserve the complete evidentiary context, source, date, speaker, quoted or
+    endorsing status, relevant surrounding material, correction history, and chain
+    of custody rather than treating a decontextualized screenshot or excerpt as a
+    self-interpreting fact; and
+13. map every public and private sanction route, require notice, answer,
+    jurisdiction, independent judgment, proportionality, appeal, and repair at the
+    consequential stage, and apply the same standards across reporter and target
+    alignments; and
+14. disclose every funding, staffing, grant, prestige, jurisdiction, renewal, or
+    survival dependency upon self-produced counts; avoid allocating resources
+    solely through raw report volume; use independent budget review and stable
+    multi-year support where feasible; fund verification, rejection, correction,
+    and successful prevention rather than penalizing them; and audit whether
+    changing definitions or outreach mechanically changes the funded metric.
+
+These safeguards protect genuine complainants as well as the accused and the
+public. They improve the evidentiary value of a report and reduce the ability of
+error, moral pressure, operator interest, propaganda, or deliberate manipulation
+to turn a reporting interface into organized un-reality. Their absence triggers
+an audit; it does not alone complete the gates for Ideology, systemic lying,
+*Machtpolitik*, or person-level culpability.
+
 ## 16. Evidence and evaluation protocol
 
 ### 16.1 Minimum case record
@@ -5964,10 +8001,58 @@ Every serious program-level application should state:
     language, private--public divergence, loyalty performance, refusal, and exit;
 33. whether the case establishes only the visible state, also identifies an
     effective-sovereignty occupant, or additionally supplies actor-specific
-    evidence of coordination, benefit, objective, and causal nexus; and
+    evidence of coordination, benefit, objective, and causal nexus;
 34. the strongest explanations from voter consensus, rights-protecting
     constitutional constraint, transparent commitments, common shocks, technical
-    reality, path dependence, implementation lag, and independent convergence.
+    reality, path dependence, implementation lag, and independent convergence;
+35. where a censorship sentinel is alleged: the exact correction, its evidential
+    basis, nonviolence, reciprocal-right nexus, formulation, publication,
+    discovery, receipt, organization, uptake, and repair stages, together with
+    viewpoint and actor symmetry;
+36. where bootstrap illegality is alleged: the prior legal position, chronology
+    of prohibition, targeted speaker or claim, prospective generality, concrete
+    right, adjudicator independence, appeal, expiry, and repair;
+37. where control-first moral-wrapper selection is alleged: the capability-design
+    chronology, advertised objective, alternative wrappers, narrower means,
+    functional fit, persistence, repurposing, success and stop conditions,
+    correction response, mixed-objective rivals, and actor-specific evidence;
+38. where population-wide communication inspection is material: covered users,
+    providers, content and metadata, trigger sequence, classifier, false-positive
+    and false-negative record, human review, retention, downstream action,
+    chilling evidence, independent authorization, appeal, deletion, and repair;
+39. where procedural correction conversion is alleged: the correction signal,
+    receiver, count or record, governing threshold, default, timing, agenda,
+    quorum, route, expiry, restart rule, ordinary comparator, operative effect,
+    prospective stability, reason, alternatives, and whether the rule was selected
+    after the likely adverse result became known;
+40. where selective proceduralism is alleged: the local rule applied to the
+    objector, the structural rule constraining power, normal enforcement practice,
+    functional purpose, interpretive flexibility, beneficiary, recurrence,
+    reason-giving, review, and counterexamples; and
+41. where correction-bearer neutralization is alleged: the original correction,
+    response or non-response, adverse factual or moralized character claim, its
+    evidence and disclosed status, resulting loss of standing or access,
+    viewpoint and actor symmetry, recurrence, repair, and causal nexus to lost
+    correction uptake; and
+42. where a moralized observation-to-mandate loop is alleged: the protected
+    principal and role grammar; recruitment language and incentives; intake,
+    evidence, identity, anonymity, automation, provenance, duplication, category,
+    disposition, correction, and custody rules; the exact bridges from submission
+    to incident, verification, identity, prevalence, priority, and remedy;
+    denominators, observation intensity, source dependence, media propagation,
+    displaced attention, operator role concentration and conflicts; reporter--
+    target history and private-motive rivals; legal, civil, contractual,
+    professional, platform, moral, and political status; full context, timestamp,
+    correction history, and screenshot or excerpt integrity; every public and
+    private third-party sanction route; the funding formula and every relation
+    between counts, grants, budget, staffing, prestige, jurisdiction, renewal, or
+    organizational survival; who controls allocation and whether verification,
+    rejection, correction, and successful prevention reduce resources; actor and
+    viewpoint symmetry; privacy-
+    preserving independent audit; notice, answer, adjudication, appeal, and repair;
+    remedy fit, advertised object, operative object, causal predictions, feedback,
+    failure conditions, and stop rules; and any actor-specific evidence of error,
+    fabrication, concealment, pretext, or objective substitution.
 
 ### 16.2 Core Program Alignment Audit
 
@@ -6027,7 +8112,118 @@ measurement quality, and long causal lags matter. The stronger capture hypothesi
 would combine persistent mission failure with systematic success at replacing
 the transcendent or missionary objective by a rival institutional purpose.
 
-### 16.3 Staged capture inference and Rieck's Razor
+<a id="boundary-crossing-reality-challenges"></a>
+
+### 16.2A Boundary-crossing reality challenges and auditability by design {#boundary-crossing-reality-challenges}
+
+Static records generated inside an institution can repeat the representation
+being tested.
+A **boundary-crossing reality challenge** instead converts a difficult-to-inspect
+claim into an externally selected act whose successful completion requires the
+claimed asset, capability, correction relation, or transferability to exist
+across a boundary outside the claimant's control:
+
+> **When a claim cannot be verified adequately through observation, require the
+> claimant to exercise it across an independently controlled boundary.**
+
+| Hidden or endogenous claim | Boundary-crossing act | Externalized result |
+|---|---|---|
+| Assets are held and controllable | Transfer the assets into the effective control of an independent custodian | Settlement or transfer failure makes control and encumbrance observable. |
+| Institutional authority and knowledge are transferable | Hand records, permissions, unresolved obligations, and operating control to an independently selected successor | The successor's ability to operate exposes actual dependencies. |
+| An appeal or audit can correct the operator | Present a consequential adverse case through an independent route | Outcome-changing correction or protected noncorrection becomes observable. |
+| An institution possesses or produces capability C | Give a representative sample an externally selected, end-to-end task requiring C | Performance exposes coupling or mismatch between certification and capability. |
+
+The last subtype is a **claim-matched capability challenge**:
+
+> **When an institution claims to possess or produce capability C, require a
+> representative sample to complete an externally selected, end-to-end task
+> whose successful completion actually requires C.**
+
+For an engineering programme, a domain-valid challenge could require a sampled
+final-year team to receive unfamiliar requirements, design a bridge or unmanned
+scaled aircraft, perform calculations and simulation, build or implement a
+testable component, confront load or execution failure, correct the design,
+defend it before independent engineers, document it, and hand it to another team
+that must continue the work.
+The purpose is not theatrical difficulty.
+It is to test the complete competence chain against mathematics, materials,
+users, time, coordination, independent criticism, and handover.
+
+For a challenge to cross a real boundary:
+
+1. the institution does not select the participants, showcase case, task
+   instance, destination, or evaluator;
+2. the task instance is chosen after training and is an unknown instance of a
+   known competence class;
+3. the evaluator, raw record, and decisive constraint remain outside the tested
+   appointment, funding, credential, and prestige ecology;
+4. the challenge is difficult but realistically solvable and exposes the
+   claimed function rather than an unrelated bottleneck;
+5. physics, independent code execution, actual users, settlement, or another
+   external constraint adjudicates where feasible;
+6. results disclose the distribution rather than certifying a cohort through
+   one exceptional success;
+7. challenges recur with changed instances so rehearsal cannot become a new
+   ceremony;
+8. relative claims such as *best* use blinded cross-institutional comparison;
+   and
+9. value added is distinguished from prior selection by comparing entry and
+   exit capability where the producer claims educational contribution.
+
+The result directly establishes only the tested relation.
+High internal grades with poor external performance establish a
+certification--capability mismatch; recurring refusal of independent tests is a
+reality-answerability warning; showcase success with sampled-cohort failure
+indicates selective presentation; known-task success with novel-instance failure
+indicates weak transfer.
+Favour-bank, crony-selection, grade-inflation, or
+pseudomorphic-governor-substitution hypotheses strengthen only when the mismatch
+joins their discriminating traces, such as protected advancement, network-linked
+selection, loyalty-over-competence comparisons, captured correction, or
+succession under the candidate governor.
+
+The same architecture is preventive.
+Expected recurrent challenges make it costly to certify incapacity, preserve
+nontransferable control, or maintain a paper appeal that never changes outcomes.
+Where natural traces are weak, institutions should create **auditability by
+design**, also called a **trace-generating *Schutzbalken***:
+
+> **Structure entrusted power so that its exercise produces inspectable
+> commitments, comparisons, consequences, refusals, correction records, and
+> succession records.**
+
+Useful implementations include prospective criteria fixed before cases or
+candidates are known; contemporaneous reasons; disclosure of relevant
+dependencies; divided authority or actual recusal; preserved alternatives and
+comparators; randomized independent audit; independent custody of raw records;
+rotation of reviewers and appeal bodies; separation of selection, execution,
+evaluation, and enforcement; matched insider--outsider outcome audits; published
+correction histories; review of selectors after protected failure; protected
+refusal, reporting, appeal, and exit; multiple genuinely independent entry,
+funding, and advancement routes; reversible authorization, sunset, and mandatory
+reauthorization; and consequences reaching the institution and decision process
+rather than only a low-level operator.
+
+The privacy rule is:
+
+> **Instrument the exercise of entrusted power, not ordinary private
+> friendship.**
+
+The response threshold should track what the record establishes:
+
+| Threshold | Evidential state | Proportionate response class |
+|---|---|---|
+| **Hazard** | Trace-poor, discretion-heavy, self-certifying control surface | General prospective safeguards and periodic challenge. |
+| **Anomaly** | Recurrent mismatch or selective pattern | Enhanced independent audit and record preservation. |
+| **System** | Matched longitudinal governor-displacement pattern | Structural correction, redistribution of control, portability, or bounded de-authorization. |
+| **Punitive** | Actor-specific causal and responsibility evidence | Person-directed sanction through the applicable evidential procedure. |
+
+These tiers keep low-regret prevention available before hidden motive is provable
+while reserving punitive consequences for their separate gate.
+They also prevent a hunch, one failed challenge, or a system-level morphology
+from being converted automatically into personal guilt.
+
+### 16.3 Staged capture inference, Rieck's Razor, and the Hanlon warning
 
 Capture inference should proceed through distinguishable claims:
 
@@ -6056,6 +8252,39 @@ verdict or a rule of punishment. Where failure is persistent, selective,
 directionally coherent, resistant to correction, and productive for the same
 successor program, intentional action must be actively tested rather than
 dismissed because incompetence is socially or politically more comfortable.
+
+#### Warning---do not use Hanlon's Razor in Culture Mechanics
+
+> **“Never attribute to malice that which is adequately explained by
+> stupidity” is a prank that escaped its humorous packaging and was later
+> treated as epistemology. It is not an ancient principle, and this theory
+> rejects it as a basis for selecting, ranking, dismissing, or terminating
+> causal hypotheses.**
+
+The named formulation appeared in Arthur Bloch's 1980 humorous compilation
+[*Murphy's Law Book Two: More Reasons Why Things Go
+Wrong!*](https://search.worldcat.org/title/6103590). A provenance report gives
+the exact wording on page 52, in the chapter “Advanced Expertsmanship,” and
+describes the volume as a collection of Murphy-style
+[jokes](https://statusq.org/archives/2001/12/04/77/). Calling Hanlon's Razor a
+**prank** here identifies that humorous provenance and its later elevation into
+a supposedly authoritative rule. It does **not** assert that Robert J. Hanlon,
+Arthur Bloch, or another participant intended to deceive later readers. Older
+sentiments resembling the maxim likewise do not turn the named 1980 Murphyism
+into ancient or validated epistemology.
+
+The maxim also hides the disputed inference inside the word “adequately.”
+Whether stupidity, incompetence, accident, adverse conditions, incentive
+selection, emergent alignment, coordination, or conscious intention adequately
+explains an observed pattern is the object of investigation, not something a
+razor may settle in advance. Culture Mechanics therefore gives Hanlon's Razor no
+default, tie-breaking, exculpatory, or stopping-rule status. Relevant
+alternatives must instead be stated and discriminated by their comparative fit
+to directionality, recurrence, correction response, benefits, dependencies,
+provenance, and counterevidence. This rejection does not invert Hanlon into an
+automatic presumption of malice: Rieck's Razor requires active examination of
+the intentional hypothesis under the bounded conditions stated here, while the
+evidence still decides among the available explanations.
 
 Relevant indicators include:
 
@@ -6087,7 +8316,9 @@ it does not grant permission to assume malice, dispense with alternatives,
 reverse legal burdens, or name a person as a Kommandoagent without actor-specific
 support.
 
-### 16.4 Self-Attribution Presumption and internal contestation
+<a id="self-attribution-presumption-and-internal-contestation"></a>
+
+### 16.4 Self-Attribution Presumption and internal contestation {#self-attribution-presumption-and-internal-contestation}
 
 The originating rule is deliberately direct:
 
@@ -6140,7 +8371,7 @@ False-flag activity, identity appropriation, coercion, infiltration, and externa
 command remain possible affirmative defeaters. They must be evidenced rather
 than presumed, but when established they can block the move from actor-level
 self-attribution to parent-program causation. See the
-[Islam and terrorism application](#153-islam) and the
+[Islam and terrorism application](#islam) and the
 [source-position discriminator](#self-description-source-position-discriminator)
 below.
 
@@ -6250,6 +8481,8 @@ parent program caused the act, that every carrier shares the interpretation, or
 that an upstream command operation exists. Those conclusions require the wider
 offspring, script, authority, mechanism, comparison, and capture record.
 
+<a id="self-description-source-position-discriminator"></a>
+
 #### Source-position discriminator: leader, community, and infiltrator {#self-description-source-position-discriminator}
 
 The Hitler-at-the-height-of-power example and an infiltrating
@@ -6273,7 +8506,9 @@ communications, logistics, authority, protection, and succession routes require
 mapping, and test whether an organizational support nexus exists. It does not
 make unrelated or peaceful carriers eligible for person-directed countermeasures.
 
-### 16.5 Attribution-Source Asymmetry and cross-audience audit
+<a id="attribution-source-asymmetry-and-cross-audience-audit"></a>
+
+### 16.5 Attribution-Source Asymmetry and cross-audience audit {#attribution-source-asymmetry-and-cross-audience-audit}
 
 The originating rule distinguishing self-report from hostile attribution is:
 
@@ -6366,7 +8601,9 @@ or hostile curation; when conduct contradicts the claimed program without
 program-authorized correction; or when ostensibly hidden layers cannot be
 authenticated.
 
-### 16.6 Carrying-structure intervention test
+<a id="carrying-structure-intervention-test"></a>
+
+### 16.6 Carrying-structure intervention test {#carrying-structure-intervention-test}
 
 An infrastructure-directed response should make its complete causal claim
 inspectable:
@@ -6428,6 +8665,9 @@ carrying structure.
 | Hypothesis | Evidence that would support it | Evidence that would weaken it |
 |---|---|---|
 | A program is a Culture Strategy | Ex ante failure conditions; independent measures; actual abandonment or revision after failure | Every result reinterpreted as confirmation; benefit displaced beyond access |
+| A claim-matched capability challenge exposes the claimed function | Representative or randomly selected participants complete recurring externally selected, domain-valid, end-to-end tasks under independent evaluation and real constraints; results track claimed certification and value added | The task tests an unrelated bottleneck, is impossible or unrepresentative, remains controlled by the claimant, becomes rehearsed, or fails to distinguish entry selection from institutional contribution |
+| Mandatory institutional portability exposes real control | An independently selected successor receives records, assets, permissions, knowledge, and control surfaces, operates without predecessor permission, and reconciles liabilities against independent sources | Only titles change; the predecessor retains access, staff, funding, appointment, credential, or information control; the successor remains dependent on undisclosed channels |
+| Ceremonial radiance capture is operating | Prestige-bearing forms and inherited achievements continue to attract trust after an evidenced incompatible governor controls appointments, exceptions, correction, and succession, and observers or selectors treat inherited radiance as present proof | Ceremony remains coupled to present performance, the successor renews rather than displaces the incumbent governor, or current function is independently demonstrated rather than inferred from inherited prestige |
 | A norm is a Culture-Embedded Strategy | Repeated practice predicts material or coordination gains through the proposed mechanism | No gain, reversed gain, or gain explained by selection, coercion, wealth, or another mechanism |
 | A program is Pure-Ideology at its centre | Load-bearing authority survives every accessible counterresult by rule | Clear authoritative defeaters and actual correction of the load-bearing claim |
 | A closed Pure-Ideology operative multi-mind-self faces the secession-or-force fork | Collective agency, load-bearing finality, compulsory supremacy, an incompatible rival output, severe Babelization, and an unavoidable common decision are all evidenced at the specified interface | The programme accepts reciprocal loss or bounded jurisdiction, a legitimate common adjudicator survives, no common output is required, collective-agency integration is absent, or Pure-Ideology finality is not load-bearing at the disputed interface |
@@ -6442,6 +8682,7 @@ carrying structure.
 | Large-scale propagation requires visible or bounded code transmission | Independent convergence appears across doctrine, recruitment, formation, members, ritual, sanctions, institutions, and offspring | A large, durable, high-fidelity program reproduces without discoverable descriptive, symbolic, behavioural, institutional, or sanctioning channels |
 | A hostile third-party program attribution correctly classifies its target | Doctrine, authenticated affiliation, self-description, action grammar, organization, and offspring independently support the label | The label precedes or substitutes for evidence, expands with enemy status, or conflicts with the target's independently established program |
 | An operative program needs a fitted systemic skeleton and living cultural body | Institutional durability and correction depend jointly on viable roles, systems, succession, moral formation, affective obligation, and carrier enactment | Formal systems remain equally operative without internalized formation, or affective programs scale and survive succession without fitted institutional support |
+| Affective-to-structural load transfer extends a quiet norm's persistence and range | Across time, reduced local affective activation coincides with continued rule-consistent conduct, novel-case interpretation, correction, formation, and succession through identified habits, roles, records, interfaces, audits, incentives, and custodial commitments | The apparent transfer has no formation or sedimentation history; conduct disappears outside surveillance or immediate incentive; novel cases, correction, repair, or succession fail; or fear, convenience, technical constraint, selection, or imposed administration better explains the pattern |
 | A small scorecard improves adaptive correction | Predeclared broad outcomes, raw distributions, independent measurement, and preserved failures predict earlier detection and successful revision | Goodhart effects, weighting disputes, common-mode measurement, or causal opacity make the score worse than plural unaggregated evidence |
 | The Lifted-Order Capacity Dashboard diagnoses pluralist-order health | Independent experienced, administrative/material, and revealed-behaviour sensors for the nine capacities converge sufficiently to predict correction, person-preservation, low-coercion coordination, and retained alternatives | The capacities cannot be operationalized reliably, sensors conflict without discriminating value, the dashboard is easily captured, or simpler measures predict the relevant outcomes better |
 | Secure homestead attainment strengthens independent personal standing | Effective homestead stock, generation, and retention predict greater practical refusal, exit, planning horizon, resilience, and resistance to arbitrary dependency after accounting for income, inheritance, selection, and local conditions | Nominal or effective homeownership adds no independent capacity, predicts greater dependency or immobility, or the proposed functions are supplied equally or better by accessible substitutes |
@@ -6456,7 +8697,9 @@ carrying structure.
 | Trade transmits superior strategies | Contact precedes identifiable imitation and performance improvement | No learning, reverse diffusion, or gains caused entirely by capital transfer or coercion |
 | Mythic radiance mediates costly cultural production and recipient attraction | Core-object admiration predicts voluntary investment, excellence, retained capability, and outputs through which recipients reconstruct, admire, imitate, or enter the cultural core without first receiving a full doctrinal account | Great output occurs without relevant awe or core fit; intense awe produces no investment or capable output; recipients admire the form while rejecting or failing to reconstruct the core; or coercion, status competition, patronage, or independent craft norms explain the output better |
 
-### 16.8 Strategy trial design
+<a id="strategy-trial-design"></a>
+
+### 16.8 Strategy trial design {#strategy-trial-design}
 
 For a consequential but weakly coupled proposed Culture Strategy:
 
@@ -6583,8 +8826,8 @@ the causal claim.
 4. **Moral legitimacy does not establish causal efficacy.**
 5. **Warmth, identity, sacredness, and *Beseelung* do not identify a branch.**
 6. **Religion does not automatically mean violent fundamentalism.** A
-   programme's fundamentalist form also does not establish perverse
-   instrumentality in every carrier.
+   programme's fundamentalist person--programme form does not establish violent
+   enforcement or perverse instrumentality in every carrier.
 7. **Secular strategy does not automatically mean corrigibility or safety.**
 8. **First-order solidarity is not compulsory supremacy.**
 9. **Lifted solidarity is not an empty slot or weak capture.**
@@ -6670,9 +8913,10 @@ the causal claim.
 44. **Skeleton and living body are not separate Culture Programs or
     bigOthers.** They are analytically distinguishable aspects of one operative
     program and its implementation.
-45. **A strong skeleton does not establish a good or reality-answerable
-    program.** Closed and destructive programs can be institutionally capable,
-    durable, and culturally alive.
+45. **A strong skeleton does not establish high *Beseelung*, a good program, or a
+    reality-answerable program.** It can support affective-to-structural load
+    transfer in a quiet order, while closed and destructive programs can also be
+    institutionally capable, durable, and culturally alive.
 46. **A living cultural body is not reducible to explicit mythology.** Systems,
     symbols, leadership conduct, incentives, sanctions, habits, and repeated
     experience also form and animate it.
@@ -6881,15 +9125,23 @@ the causal claim.
     alone establishes a concealed assignment, identifies an occupant, or proves
     an Inner Party.
 102. **The favour-bank cloud is a controlled threat-model picture, not an
-     attribution engine.** Favours, mentorship, grants, introductions,
-     professional mobility, institutional prestige, dense networks, and
-     reciprocity are ordinary social phenomena. Classifying implicit-debt
-     grooming or routed obligation requires evidence of staged preparation for
+     attribution engine.** A trace-concealing ecology is expected to operate
+     through ordinary-looking favours, mentorship, grants, introductions,
+     appointments, professional mobility, prestige, and administrative acts.
+     Their familiar form is not a defeater. Test staged preparation, dependency,
      later compliance, remembered or communicated obligation, brokerage,
      institutionally consequential withdrawals, asymmetric benefit, concealment,
-     or sanctions for refusal. Even that mechanism does not by itself establish
-     a Shadow Sovereign, one command centre, a *Kommandoagent*, conspiracy,
-     systemic lying, or *Machtpolitik*.
+     and sanctions for refusal. Give formal transparency, pluralism, criticism,
+     review, appeal, and exit weight only after consequential exercise and
+     structural independence are demonstrated. Attribute a specific episode through its
+     joined benefit--obligation--return record. A separately disclosed
+     system-level profile may use a benefit ecology plus recurrent matched
+     loyalty-over-competence selection, protected failure, selectively burdened
+     correction, cross-node recurrence, and weaker rivals, but it does not
+     identify a debt, broker, participant, command centre, or objective. Even a
+     supported cloud mechanism does not by itself establish a Shadow Sovereign,
+     one command centre, a *Kommandoagent*, conspiracy, systemic lying, or
+     *Machtpolitik*.
 103. **Descriptive diversity is not Strong Programmatic Diversity.** Variation,
      plural association, minority presence, disagreement, mixed skill, or
      biodiversity does not establish a Culture Program, category-conscious
@@ -6999,6 +9251,46 @@ the causal claim.
      semantic--epistemic content classifier; Fascism is a morphological-form
      classifier. Neither entails the other, and neither converts a formation-level
      finding into automatic person or population guilt.
+122. **The censorship sentinel is strong but non-localizing.** Suppression of
+     nonviolent, evidence-bearing correction can strongly establish impairment of
+     *Speak* or *Correct* without identifying the protected representation,
+     Culture Program, mechanism, scale, intent, actor, or complete Ideology and
+     systemic-lying diagnosis. High detection power is not gate completion.
+123. **Positive law cannot exculpate bootstrap illegality.** A restriction does
+     not become constitutionally reciprocal merely because power first prohibited
+     the correction and then cited its resulting unlawfulness. Test the concrete
+     right, factual nexus, generality, symmetry, prospective rule, independent
+     adjudication, proportionality, appeal, and repair.
+124. **A moral wrapper is not proof of pretext.** Child protection,
+     anti-terrorism, safety, health, democracy protection, and informational
+     integrity can name genuine objectives. Control-first selection requires
+     evidence about chronology, invariant capability, narrower alternatives,
+     functional fit, persistence, repurposing, correction, and responsible actors;
+     one broad measure, protective label, cartoon, or adverse effect is
+     insufficient.
+125. **A textbook warning pattern is not a completed case classification.** The
+     Chat-control application adopts a bounded contested source account to show
+     how several moves can combine. It does not make that account an adjudicated
+     legal record or independently prove strict Ideology, systemic lying,
+     *Maßnahmenstaat*, *Machtpolitik*, *Willkürherrschaft*, preselected intent, or
+     one hidden controller.
+126. **Procedural correction conversion is not automatically a procedural
+     trick.** A validly received and accurately counted adverse signal can be
+     converted into continuation by a stable rule that serves a defensible
+     constitutional allocation. Strategic exploitation requires chronology,
+     knowledge, alternatives, changed or repurposed procedure, beneficiary, and
+     actor-specific nexus.
+127. **Selective proceduralism requires a rule-scale comparator.** Exact
+     enforcement against one speaker plus disagreement about one structural rule
+     is insufficient. Compare ordinary practice, prospective meaning, functional
+     purpose, flexibility, recurrence, benefit, reason-giving, and independent
+     review at both levels.
+128. **Correction-bearer neutralization is not every adverse judgment of a
+     corrector.** The diagnosis requires an unsupported or asymmetrically handled
+     character or factual attack, a correction nexus, lost credibility, standing,
+     access, livelihood, eligibility, or safety, and evidence that this impaired
+     correction uptake. Demonstrated misconduct and evidenced accusation remain
+     corrigible person-protecting judgments.
 
 ## 18. Open questions and research program
 
@@ -7261,11 +9553,19 @@ the causal claim.
 100. Which longitudinal records can distinguish ordinary generosity, mentorship,
      networking, patronage, and generalized reciprocity from implicit-debt
      grooming, routed third-party withdrawals, sanction-backed compliance, and a
-     self-expanding favour-bank cloud?
+     self-expanding favour-bank cloud? Where no direct episode survives, can a
+     benefit ecology be joined to recurrent matched loyalty-over-competence
+     selection, protected failure, selectively burdened correction, succession,
+     and weaker rival explanations without attributing an individual debt?
 101. Can cross-institutional appointment, funding, introduction, protection,
      silence, refusal, sanction, and recruitment records reveal obligation
      routing without converting network density or shared policy preference into
-     presumptive evidence of one hidden coordinator?
+     presumptive evidence of one hidden coordinator? Do two-sided ledgers expose
+     actual receiving benefits, giving-side control surfaces, hierarchical
+     repayment, broker routing, high-private-value assistance, and prestige
+     circulation across several appointment generations? Which nominal safeguards
+     survive consequential adverse cases, equal-stakes testing, and control by
+     genuinely independent funding, personnel, review, appeal, and enforcement?
 102. Does a universal party-member public-trust covenant increase recognition,
      disclosure, refusal, and internal correction of hidden-principal
      displacement, or mainly produce ritualized verbal compliance and reciprocal
@@ -7364,6 +9664,76 @@ the causal claim.
      anti-retaliation rules keep responsibility continuous when public or
      sovereign-like functions cross an NGO, contractor, platform, standards-body,
      or commercial-carrier boundary?
+129. Which typed censorship-sentinel measures distinguish nominal permission to
+     speak from private formulation, publication, discovery, receipt,
+     organization, consequential uptake, succession, and repair without creating
+     a sovereign speech score?
+130. What empirical likelihood ratios do viewpoint selectivity, post-correction
+     timing, procedural exceptionalization, private-proxy enforcement, population
+     breadth, and recursive justification contribute to un-reality, un-reason,
+     Ideology, and systemic-lying audits?
+131. Which longitudinal evidence best distinguishes control-first moral-wrapper
+     selection from sincere overbreadth, mixed objectives, mission creep,
+     bureaucratic persistence, path dependence, and later objective substitution?
+132. When does private-message inspection produce measurable self-censorship,
+     weakened source protection, reduced association, or lost succession capacity
+     before any message is blocked or speaker sanctioned?
+133. Which prospective, reciprocal-right, independent-review, appeal, expiry,
+     data-minimization, and repair conditions can keep a genuinely necessary
+     speech-adjacent intervention inside a bounded *Rechtsstaat* rather than a
+     *Schutzbalken*-removal ratchet?
+134. Which thresholds, defaults, timing rules, agenda controls, quorums, routes,
+     expiry provisions, and restart rules most often convert accurately received
+     adverse signals into continuation, and which constitutional purposes and
+     stable reciprocal applications justify them?
+135. Can independent reviewers reliably distinguish selective proceduralism from
+     ordinary rule enforcement joined to a good-faith structural disagreement?
+136. When does reputational attack on a correction bearer measurably reduce
+     discovery, reception, organization, adjudication, succession, or repair, and
+     which evidence distinguishes neutralization from accurate accountability?
+137. Which matched-case designs can distinguish an anarcho-tyrannical severity
+     inversion from lawful differentiation by evidence, culpability, legal duty,
+     case complexity, procedural posture, and available remedy?
+138. Which records make nonactivation—unaccepted reports, repeated referral,
+     queue expiry, discontinuance, noninvestigation, and unenforced remedy—as
+     observable as activated cases without destroying legitimate privacy?
+139. Under what load and capacity conditions does normative abundance create
+     universal technical vulnerability, and which priority rules keep selection
+     reciprocal, reviewable, and correction-sensitive?
+140. When do targetability, sanction leverage, or disciplinary yield predict
+     investigation, activation, burden, duration, or outcome more strongly than
+     harmfulness, and which institutional incentives, constraints, sanctionable
+     loss surfaces, matched comparators, and rival causes explain that relation?
+141. Which longitudinal indicators can detect or falsify the proposed
+     anarcho-tyranny ratchet rather than merely redescribe simultaneous crime,
+     regulation, and low institutional trust?
+142. Can civic surplus be measured without reducing it to political activism or
+     one scalar—especially its time, trust, material, competence, and associative
+     dimensions and their unequal distribution across localities and classes?
+143. When does semantic ballooning preserve a category's constitutive mechanism
+     and severity distinctions, and when do prototype migration plus
+     institutional uptake transfer sanctions to a displaced practical center?
+144. Which denominator, ensemble, and correction tests reliably distinguish a
+     representational attention sink from legitimate attention to a neglected
+     or countertypical case?
+145. Which combination of semantic elasticity, discretion, endogenous evidence,
+     evaluator dependence, correction custody, succession control, latency, and
+     low reversibility best predicts pseudomorphic-governor-substitution
+     vulnerability across institutions?
+146. Which boundary-crossing challenges remain representative, claim-matched,
+     independently controlled, difficult but solvable, and resistant to rehearsal
+     without becoming a new gameable ceremony or imposing disproportionate cost?
+147. Which succession intervals, random-transfer probes, record standards, and
+     independence conditions make mandatory institutional portability expose
+     hidden dependency without destroying valuable continuity and tacit
+     capability?
+148. Can distributed hunch and anomaly aggregation improve early detection while
+     keeping trigger weight separate from verdict weight, and which constituency,
+     quorum, secrecy, threshold, reply, and succession rules prevent a
+     collective-de-authorization mechanism from becoming a factional purge tool?
+149. Can inherited prestige, present capability, ceremonial conformity, and
+     changed operative governor be measured separately enough to identify or
+     falsify ceremonial radiance capture?
 
 ## 19. Provenance and epistemic status
 
@@ -7434,6 +9804,44 @@ The extension of dark matter across a public-principal/private-carrier chain, th
 six-part proxy audit, its crosswalk role, and the separation between observable
 hazard, deliberate evasion, and legal state-action attribution are Culture
 Mechanics developments.
+Samuel Francis's 1994 “Anarcho-Tyranny, U.S.A.” supplies the inherited
+**anarcho-tyranny** name and the source pairing of failed public protection with
+oppressive power against innocent or law-abiding people, together with the
+possible disorder--fear--demand--control authorization loop. The present
+discussion supplied the claim that it should remain distinct from Fraenkel's
+*Maßnahmenstaat* while naming a more organizationally concealed *Willkür*
+configuration. The five-part constitutional gate, case/profile/configuration
+ladder, normative--docket--procedural overload routes, activation/nonactivation
+asymmetry, protection-repair/coercive-inventory diagnostic,
+organizational-enforceability mechanism, four-variable enforcement-selection
+audit, sanctionable loss surface, cumulative cross-channel burden,
+process-as-punishment boundary, order-bearer field effect, three-level intent
+separation, **anarcho-tyranny ratchet**, **civic surplus**, downward guardian-work
+transfer, occupation mechanism, Zechariah gradient, noticing chain,
+attention-sink interface, and legal-uptake gate are Culture Mechanics
+developments. Pavel Durov's
+[Oslo Freedom Forum talk](https://www.youtube.com/watch?v=1Yq_5aDdJ24)
+is retained only as an illustrative source lead for moralized restriction,
+surveillance access, technically impossible compliance, widespread searchable
+vulnerability, conditional forbearance, selective activation, and possible
+AI-amplified search. It does not validate the general model or a named
+jurisdiction.
+The remembered Sowell attribution has now been verified primarily against *The
+Vision of the Anointed*, chapters 2 and 8. It directly supplies the expanded
+procedures--technicalities--overcrowding--bail--plea-bargaining--possible
+victimization sequence and separately alleges selective expansion and
+contraction of constitutional rights. *The Quest for Cosmic Justice*, chapter I,
+later supplies a compressed mitigation, delay, bail, and protective-capacity
+reprise. Justice White, quoted by Sowell, supplies the repeat-offending
+formulation; Herndon, Lumbard, and Fleming supply Sowell's immediate source trail
+for the court-capacity argument. The present model narrows this material to a
+general capacity externality, keeps selective proceduralism separately gated,
+and adds the further crime--caseload recursion and organizational-dark-matter
+selection account. It does not adopt all of Sowell's legal or causal
+conclusions. The originating newspaper reports, advocacy collections, proposed
+laws, comments, posters, satire, and Canadian examples remain application or
+source leads requiring their own factual and legal audits. They do not define or
+by themselves instantiate the configuration.
 The originating claim that ordinary cultural outputs are side effects of people
 investing their lives in admiration of a cultural core object preceded its name.
 During development of the affective-return candidate, **mythic radiance** was
@@ -7442,6 +9850,12 @@ cathedral example supplied the decisive compression. The term, its definition,
 the producer--output--recipient sequence, and its distinction from mythology,
 *Beseelung*, sublimation, propaganda, prestige, and cultural output generally are
 project developments rather than claims attributed to an external source.
+The later Meyer--Rowan discussion supplied formal structure as myth and ceremony
+as the institutional legitimacy-and-decoupling bridge.
+Meyer and Rowan supply formal myth, ceremony, confidence, legitimacy, and
+decoupling; **ceremonial radiance capture**, the retained-radiance sequence, its
+relation to pseudomorphic governor substitution, and the operational test are
+project developments.
 The same candidate review produced two further ecology-level integrations.
 **Guardian readiness and option-based deservingness** formalizes the originating
 claim that an unused but maintained capability can possess real value, together
@@ -7453,10 +9867,10 @@ the former does not validate self-certified threat or permanent guardian status,
 and the latter does not establish capture, truth, prior knowledge, or virtue by
 exit alone.
 The subsequent review of Žižek's *How to Read Lacan* connected the existing
-fanatic-offspring signal and fundamentalist form to perverse instrumentality as
-one candidate mechanism, while retaining ethical action under extreme cost as a
-rival pathway and keeping mechanism, programme form, and observable output
-non-identical.
+fanatic-offspring signal and fundamentalist person--programme form to perverse
+instrumentality as one candidate mechanism, while retaining ethical action under
+extreme cost as a rival pathway and keeping authorization mechanism, inward form,
+outward enforcement, and observable output non-identical.
 The subsequent capture discussion added self-attribution, internal contestation,
 program-derived performance criteria, program disharmony, objective substitution,
 gradual capture, covert operational-agent attribution, and
@@ -7571,6 +9985,14 @@ habit, and human carriers supply the flesh and blood that make it live. The
 failure images—enthusiasm without durable bones and a dead paper constitution
 without animate carriers—are originating analogies. Their exact semantic
 definitions, reciprocal loop, and capture boundaries are project-developed.
+The user subsequently proposed that the skeleton can take over part of the load
+of weaker flesh-and-blood affective intensity and connected lower local amplitude
+with larger-scale operation. `0010` owns the resulting
+**affective-to-structural load transfer** mechanism. This document supplies its
+skeleton/living-body application: functional substitution, structural
+sedimentation, range extension, concentration in custodial roles, periodic
+reanimation, and the boundary that structure cannot indefinitely replace living
+interpretation, correction, repair, formation, and succession.
 The same discussion recovered the user's earlier SGD proposal for an
 anti-gnostic political controller and joined it to an older fragment on political
 disentanglement, secession, *Abstimmung mit den Füßen*, and *umgekehrte
@@ -7598,7 +10020,11 @@ Appeal · Correct · Cooperate · Build · Choose** as a candidate dashboard; th
 explicitly selected it for integration. The **Lifted-Order Capacity Dashboard**,
 its three diagnostic groups, sensor triangulation, and non-compensable sentinel
 boundary are project-developed formalizations rather than established public
-measurement science. The user's **Secure Homestead Rate** proposal and
+measurement science. The later extension of **Cooperate** to include continued
+interpersonal standing, voluntary association, mutual assistance, and cooperation
+across explicit cultural-symbolic nonalignment and unresolved nonconvergence was
+likewise selected by the user as an orthogonality-derived sensor. The user's
+**Secure Homestead Rate** proposal and
 yeoman-farmer image supplied the stronger claim that owner-occupied property is
 not merely a wealth proxy but a literal safe space and material anchor against
 subjecthood absorption and dependency. The user's hollowing examples include
@@ -7618,6 +10044,37 @@ are project-developed syntheses. They are not presented as Mausfeld's verbatim
 definitions or as validated comparative political science. The assistant
 formalized those relationships after the user's proposal; the conversation
 itself is provenance, not authority.
+The August 2026 Chat-control discussion supplied the originating claim that
+unrestricted free speech is the first *Schutzbalken* a correction-resistant power
+will try to remove, together with the stronger temporal model in which systemic
+lying may already be operational but handicapped by surviving speech. The user
+selected **fault detection without fault isolation or diagnosis** and the fire
+alarm as the controlling sensor analogies; insisted that a censor can manufacture
+the unlawfulness later invoked against speech; characterized population-wide chat
+inspection as a *Breitschwert* rather than a scalpel; and supplied the dangerous
+control-first claim that anti-terrorism and child protection are interchangeable
+moral packaging around an already selected control object. The user also supplied
+the speech compression **“No censorship of judgment; no immunity from evidenced
+accusation; no character assassination without proof,”** with proof understood
+through proportionate evidence and disclosed claim status rather than prior
+official permission. Kenneth Minogue
+supplies the source observation that an early ideological-conflict move is to
+disable opposition, ideally through censorship, and his later oppositionality
+discussion supplies organized public criticism capable of governing in turn. The engineering fault distinction
+and statistical omnibus-test comparison supply external analogical precedents.
+The **censorship sentinel**, **bootstrap illegality / legality laundering**,
+**Schutzbalken-removal ratchet**, **procedural correction conversion**,
+**selective proceduralism**, **correction-bearer neutralization**,
+**control-first moral-wrapper selection**, **moral-wrapper invariance test**,
+seven-gate crosswalk, and expected-move repertoire are project-developed
+formalizations. The Heise article supplies the adopted secondary account,
+including provider scanning and possible post-negative-classification data
+retention; the Berg--Sonneborn dossier and recordings supply interested
+participant accounts of the procedural objection, rule combination, timing,
+majority-to-threshold conversion, and microphone episode. Section 15.6 keeps
+these source positions separate. The conversation and the meme are provenance and illustration, not
+independent legal adjudication or proof of preselected intent, Ideology, systemic
+lying, *Maßnahmenstaat*, or *Machtpolitik*.
 The later Shadow-Sovereign countermeasure discussion supplied three near-term
 originating proposals: conflict-of-interest formation for every political-party
 member, an annual retrospective form of the oath of office, and a
@@ -7742,14 +10199,81 @@ knowledge. The assistant formalized **implicit-debt grooming**, replaced
 “subconscious knowledge” with tacit or practical recognition of a local
 protocol, separated ordinary reciprocity from strategic preparation, and
 developed the **favour-bank cloud** as a controlled hybrid of cloud-computing and
-banking images. Mike Benz's February 2026 media explanation supplies the
+banking images. A later theory-development discussion identified the observability
+problem created by requiring a written or individually recoverable IOU, proposed
+society-visible meritocratic deterioration as a downstream cross-check, and added
+scarce high-private-value assistance, repayment inside an existing hierarchical
+jurisdiction, recursive placement, and the favour-banker role as generic mechanism
+leads. The assistant formalized the distinction between specific-episode and
+system-level evidence, the two-sided node audit, the hierarchical repayment
+cascade, the recursive meritocratic-deterioration hypothesis, and the conditional
+prestige-laundering loop while retaining privacy, rival-explanation, association,
+and actor-attribution fences. A subsequent adversarial review through the Loki
+perspective identified excessive credit given to formal safeguards and generic
+rival labels. The assistant therefore added the adaptive-concealment model,
+declared--exercised--structurally-independent safeguard test, rival-specific
+predictions, and the rule that ordinary institutional form and benevolent
+language carry no independent defeater weight. Mike Benz's February 2026 media explanation supplies the
 “human index of IOUs,” career-return, outside-organization, and fixer
 interpretation and explicitly traces its **Favor Bank** image to Tom Wolfe's
 1987 *The Bonfire of the Vanities*. Wolfe supplies that literary chapter and its
 deposit--withdrawal image. Neither supplies the project's cloud architecture,
-typed sequence, routability hypothesis, relation to the one-more-layer
-Inner-Party function, or a verified application to any named person or
-organization.
+typed sequence, routability hypothesis, two-route evidence architecture,
+hierarchical and prestige mechanisms, relation to the one-more-layer Inner-Party
+function, or a verified application to any named person or organization.
+The later Baader comparison added a broader ecology in which institutional
+positions, income, credentials, protection, media access, and prestige support
+professional intellectual carriers who return classifications, interpretation,
+amplification, and legitimacy. *totgedacht*, especially pp. 167--172 and
+188--202, supplies that immediate institutional source picture, while pp.
+298--300 supplies Baader's trial-and-error and weak-consequence argument for
+publicly financed intellectual production. The **institutional endowment--
+legitimation circuit**, its separation from favour debt, the general
+personnel-and-succession route into possible PGS, the error-custody and selection
+audit, and the joined but separately gated PGS--trusted-authority--anarcho-
+tyranny coupling are Culture Mechanics developments. Baader's political and
+economic conclusions are not adopted as evidence for a named present
+institution, and the circuit does not imply one motive, coordination centre, or
+knowing bargain.
+The subsequent lineage and open-discovery review added several ecology-level
+extensions.
+Schelsky supplies professional meaning mediation, salvation-goods and
+inner-relation control, movement-to-office transition, and institutionalized
+permanent reflection; Röpke supplies acute/chronic mass, integration hunger,
+decision scale, pluralisms, and inherited-precondition consumption; Troeltsch
+supplies church, sect, and mysticism as historically specific carrier types;
+Weber supplies legitimacy, vocation, office, routinization, livelihood, closure,
+and consequence responsibility; Rüstow supplies bounded economic
+mechanisms, precondition blindness, performance versus obstruction competition,
+*Vitalpolitik*, and protector-capture risk; Dawson supplies the anti-reductionist
+environment--economy--population--symbolic check and the source warning that
+power surfaces can outlive inherited responsibility, together with the
+thin-system comparison; Baumol, Murphy--Shleifer--
+Vishny, and Graeber supply neighbouring talent-allocation and functional-surplus
+problems.
+The carrier-topology matrix, animation-distribution cross, composite carrier
+ecology and renewal cycle, receiver-state bundle, doctrine--organization
+lifecycle, salvation-enterprise anatomy, gnostic installation route,
+power--responsibility lag,
+bounded-mechanism ecology, vital-situation audit, functional-hypertrophy
+mechanism, marginal-function ledger, Diversity-dividend laundering,
+soft-secession learning architecture, and nucleation/reproductive-junction audit
+are Culture Mechanics developments.
+The distributed-formation, personhood, democratic-alloying, and developmental-
+authority trunks remain owned by their linked semantic homes rather than by the
+source authors or this ecology document.
+The ensuing abstraction from favour banks supplied the originating distinction
+among hunch, operational challenge, withdrawal of trust, and misconduct
+investigation; the custodian-transfer example; term limits as partial transfer
+tests; and the engineering-education challenge.
+The assistant formalized **boundary-crossing reality challenge**,
+**claim-matched capability challenge**, **trace-generating *Schutzbalken***,
+**mandatory institutional portability**, and **collective de-authorization
+without guilt judgment**, together with their test conditions and response
+thresholds.
+These are project-developed constitutional and evaluation proposals rather than
+claims attributed to custodian practice, engineering accreditation, or an
+external political system.
 During the later discussion of Žižek's Night passage, the assistant proposed
 **un-reason** for the internal mechanism by which sophisticated reasoning can
 undermine its own correction conditions; the user selected the term and requested
@@ -8052,6 +10576,8 @@ project-specific distinctions and for the diagnostic's present form. It is not
 evidence that the complete danger scenario is operating in any particular case,
 and it does not make the candidate solution the only possible response.
 
+<a id="purpose-and-categorical-separation"></a>
+
 ### A.1 Purpose and categorical separation {#purpose-and-categorical-separation}
 
 [*Epistemic Agency under Mechanical
@@ -8188,6 +10714,8 @@ convergent non-reception through coordination, common incentives, selection,
 dependency, sincere commitment, role segmentation, or emergence; calling it a
 culpable “choir” requires the corresponding attribution evidence.
 
+<a id="bendas-morality-politics-bridge"></a>
+
 #### Benda's morality--politics bridge {#bendas-morality-politics-bridge}
 
 [Julien Benda's *La trahison des
@@ -8317,6 +10845,8 @@ correcting one another. Neither mechanism is necessary, and one contradiction,
 one useful falsehood, or one intellectual's political commitment establishes
 none of the system-level classifications.
 
+<a id="fraenkel-dual-state-bridge"></a>
+
 #### Fraenkel's dual-state bridge: *Normenstaat* and *Maßnahmenstaat* {#fraenkel-dual-state-bridge}
 
 [Ernst Fraenkel](https://www.bpb.de/themen/deutschlandarchiv/174168/fraenkels-doppelstaat-und-die-aufarbeitung-des-sed-unrechts/)
@@ -8390,6 +10920,687 @@ carrier exploitation, and systemic lying; *Willkürherrschaft* is the possible
 mature institutional endpoint in which that discretion becomes insufficiently
 answerable. The endpoint is facilitated, not made inevitable, by the
 configuration.
+
+<a id="anarcho-tyranny-advanced-willkur"></a>
+
+#### Anarcho-tyranny: advanced *Willkür* inside normative saturation {#anarcho-tyranny-advanced-willkur}
+
+[Samuel Francis's 1994 essay “Anarcho-Tyranny,
+U.S.A.”](https://www.unz.com/print/Chronicles-1994jul-00014/) supplies the
+inherited name and the original pairing: severe weakness or paralysis in the
+state's protective function can coexist with oppressive power directed at
+innocent and law-abiding people. The present section retains that paired
+structure while giving it a narrower constitutional gate and extending the
+analysis to overload, organizational concealment, un-reality, and civic
+capacity. These extensions are Culture Mechanics developments, not claims about
+the complete content or intention of Francis's theory.
+
+**Anarcho-tyranny** is a recurrent constitutional-social configuration in which
+public authority materially fails to make legally due protection against
+serious predation operative while legal, administrative, professional, or
+equivalent coercive burdens are expanded or selectively activated against
+comparatively harmless, defensive, compliant, or order-bearing persons, and the
+two branches become functionally coupled into one self-reinforcing field.
+
+The term does not mean literal stateless anarchy plus a complete dictatorship.
+The **anarchy branch** is the relative nonoperation of protection where law and
+public authority formally remain. The **tyranny branch** is not regulation as
+such, but insufficiently answerable coercion whose pattern is inverted relative
+to the same order's failure to control more serious conduct. The conjunction is
+therefore stricter than either leniency, bureaucratic burden, prosecutorial
+discretion, crime, or injustice alone:
+
+| Required relation | Diagnostic question |
+|---|---|
+| **Protection failure** | Does a named authority, jurisdiction, and period recurrently fail to investigate, adjudicate, restrain, or remedy serious predation despite a legally due protective function and practically available routes? |
+| **Coercive expansion or selective activation** | Does the same public order expand or activate sanction-bearing legal, administrative, professional, financial, or reputational machinery against comparatively harmless, defensive, compliant, or order-bearing conduct? |
+| **Severity inversion** | Do valid comparators show a recurrent mismatch in which protection against the more serious conduct becomes less operative while the lesser, symbolic, technical, or easier-to-enforce conduct receives more effective coercive attention? |
+| **Functional coupling** | Do failure, disorder, regulation, selection, and compliance burdens feed one another, even if no single actor planned the whole configuration? |
+| **Recurrence and failed correction** | Does the relation survive notice, review, appeal, exposure, personnel change, or other available correction rather than remaining one error or disputed case? |
+
+This is a **configuration**, not a seventh constitutional orientation, a synonym
+for Ideology, or an accusation that every official shares one motive. A strict
+classification requires all five relations. Before that threshold, analysts
+should report the evidenced branch, comparator, and coupling as a candidate
+**anarcho-tyranny profile** rather than convert a memorable case into a regime
+judgment.
+
+##### Relation to the *Maßnahmenstaat*: exposed and advanced forms of *Willkür*
+
+The relation to Fraenkel is overlap without collapse:
+
+| Fraenkelian *Maßnahmenstaat* | Anarcho-tyranny |
+|---|---|
+| Political authority withdraws a classified person, case, or domain from effective legal guarantees. | Formal guarantees can remain universal on paper while overload, nonactivation, differential priority, and dispersed execution make protection selectively nonoperative and coercion selectively effective. |
+| The exceptional classification or prerogative override is the central institutional operator. | The operative selection can be distributed across dockets, thresholds, queues, budgets, delegated organizations, professional discipline, and many locally defensible decisions. |
+| The boundary between norm and measure may become directly visible. | The decisive boundary can disappear into ordinary administration and leave no single exception order to contest. |
+| It can be extremely violent and legally radical. | It can be less visibly exceptional while becoming more difficult to attribute, compare, and correct. |
+
+Calling the *Maßnahmenstaat* the comparatively **old**, **exposed**, or
+“beginner” form refers only to concealment architecture, never to moral mildness,
+historical priority, or lesser destructive capacity. An openly activated
+prerogative state and an overload-mediated anarcho-tyrannical field can coexist.
+The former asks who can declare that ordinary law no longer binds; the latter
+also asks how formally universal law becomes selectively real without anyone
+having to declare an exception.
+
+##### Hiding *Willkür* in organizational dark matter
+
+Normative abundance can convert a universal rule system into a selection
+machine. The decisive transition is not simply “many laws are bad.” It is:
+
+```text
+more potentially sanction-bearing rules, duties, procedures, and claims
++ finite investigative, adjudicative, administrative, and defence capacity
+→ not every breach, claim, case, or entitlement can be processed equally
+→ activation, priority, delay, settlement, and nonactivation become decisive
+→ selective enforceability can replace the nominal universality of law
+```
+
+Several load routes can converge:
+
+| Load route | Possible contribution to selection space |
+|---|---|
+| **Normative saturation** | A sufficiently dense body of “petty law,” technical duties, licensing conditions, reporting rules, or vague standards makes complete compliance difficult and renders many ordinary actors technically vulnerable. |
+| **Docket saturation** | Case volume exceeds investigative, prosecutorial, judicial, defence, or administrative capacity, so delay, triage, discontinuance, and bargaining determine which rights become operative. |
+| **Procedural saturation** | Individually justified procedural protections, review routes, evidential duties, or participation rights can cumulatively consume more capacity than the system supplies. The diagnosis concerns the capacity relation, not a presumption that due-process rights are illegitimate. |
+| **Delegation and fragmentation** | Public functions distributed across agencies, courts, contractors, professions, platforms, and funded intermediaries make the cumulative selection pattern harder to own or review. |
+| **Capacity throttling** | Budgets, staffing, jurisdictional gaps, data systems, incentives, or leadership priorities can make nominal rights practically nonactivating without repealing them. |
+
+Finite capacity makes some prioritization unavoidable and does not itself create
+*Willkür*. Triage can remain rule-governed when seriousness, risk, evidence,
+cost, urgency, and legal duty are governed by disclosed reciprocal criteria;
+departures are recorded; nonactivation remains visible; independent review and
+appeal can change the allocation; and persistent deficits trigger capacity,
+priority, or duty repair. The warning rises when the operative rule is hidden,
+nonreciprocal, politically indexed, detached from protective seriousness,
+resistant to valid comparators, or insulated from correction.
+
+Durov's talk supplies a bounded source illustration of one path through
+normative saturation:
+
+```text
+protective moral wrapper
+→ surveillance and data access
+→ dense or impracticable regulation
+→ searchable technical breaches across much of the regulated population
+→ selective forbearance and selective activation
+→ presentation of the selected case as ordinary neutral enforcement
+```
+
+The distinctive relation is not simply that some rules are broken. General law
+creates widespread technical vulnerability while non-enforcement becomes a
+contingent and revocable forbearance. A regulated actor can therefore remain
+practically able to operate only so long as authorities decline to activate the
+available violation. Automated analysis could intensify the mechanism by
+reducing the human-capacity limit on searching communications, relationships,
+records, and conduct for selectable material. These are Durov's warnings and a
+candidate implementation path, not findings about a named jurisdiction.
+Surveillance, impracticable regulation, selective enforcement, political target
+selection, and [control-first moral-wrapper
+selection](#control-first-moral-wrapper-selection) retain separate evidential
+gates. Even their conjunction supplies only a possible tyranny branch until the
+protection failure and the remaining anarcho-tyranny relations are established.
+
+Thomas Sowell supplies two direct but bounded source relations. *The Vision of
+the Anointed* (Basic Books, 1995), especially chapters 2 and 8, is the fuller
+source for the first:
+
+```text
+expanded procedural requirements, appeals, and technicalities
+→ more work and longer disposition per case
+→ overcrowded courts and longer periods awaiting trial on bail
+→ fewer trials and pressure to plea-bargain serious charges downward
+→ possible additional victimization while protective capacity is occupied
+```
+
+Sowell presents this as a diminishing-returns and trade-off argument. He first
+locates greater concern for defendants' rights inside a wider transformation of
+criminal-justice policy, then describes detailed procedural requirements,
+expanded appeal routes, proliferating technicalities, longer case duration, and
+the costs imposed on other cases and possible victims. The especially direct
+claim that a rule could return an offender to the street to repeat a crime comes
+from Justice Byron White's *Miranda* dissent as quoted by Sowell, not from
+Sowell's own original wording. Sowell's immediate source trail for the
+court-capacity argument includes California appellate Justice Roy L. Herndon,
+federal appellate Judge J. Edward Lumbard, and Macklin Fleming's *The Price of
+Perfect Justice* (1974).
+
+The same chapter supplies a second and analytically distinct claim: Sowell argues
+that constitutional rights were stretched when consonant with the favoured
+vision but reduced or ignored when they obstructed it. That is a source lead for
+**selective proceduralism** and asymmetric rights application, not part of the
+capacity relation by definition. It requires its own two-level rule comparator
+and cannot be inferred from overload alone.
+
+Chapter I of *The Quest for Cosmic Justice* (Free Press, 1999) later gives a
+compressed reprise. It argues that expanded mitigation inquiry can occupy
+prosecutorial and judicial time, slow other cases, and leave more accused persons
+awaiting trial on bail; it also criticizes appellate-created technicalities that
+make clear cases take years and weaken protective capacity.
+
+Together these passages verify the remembered **capacity-externality
+mechanism**, not the loose formula that “defendants were simply given more
+rights so that they could commit more crimes.” Sowell's causal and normative
+judgments remain his own. The project extracts the narrower proposition that
+additional protections, mitigation inquiries, technicalities, and procedural
+work consume finite capacity and can impose delay costs on other cases. It
+retains the presumption of innocence, the legitimacy of due process, and the
+requirement to compare those costs with the errors and abuses the procedures
+prevent.
+
+Sowell reaches additional victimization but does not explicitly complete the
+recursive arrow from additional offending to additional caseload and then to
+still more overload. That feedback step, the organizational-dark-matter account
+of hidden selection, and their integration into the anarcho-tyranny ratchet are
+Culture Mechanics extensions.
+
+##### Protection repair or expansion of the coercive inventory?
+
+The motivating discussion adds a necessary diagnostic before treating new
+“petty law” as a remedy. A norm deficit exists where serious harmful conduct
+falls outside an adequate prohibition or remedy. An activation or capacity
+deficit exists where adequate law is already present but investigation,
+adjudication, enforcement, or repair does not make its protection operative.
+The distinction changes what counts as a responsive intervention:
+
+| Question | Evidence of protection repair | Warning of coercive-inventory expansion |
+|---|---|---|
+| What failed? | The measure fills an identified gap in the rule governing the serious harm. | The serious harm is already adequately governed; the demonstrated failure lies in evidence, investigation, capacity, priority, adjudication, or remedy. |
+| What does the measure change? | It addresses the evidenced bottleneck, supplies capacity, clarifies responsibility, or makes appeal and correction effective. | It adds novel, vague, contextual, technical, or low-severity violations without repairing the failed protective chain. |
+| What happens to selection space? | Clear thresholds, priorities, records, review, expiry, and matched resources make activation more reciprocal and answerable. | More complaints and discoverable violations enter the same finite system, enlarging discretion, load, and the inventory available against tractable targets. |
+| What becomes operative? | Protection against the serious conduct improves across valid comparators. | The perimeter receives visible coercive activation while the already-governed protective core remains nonoperative. |
+
+A new offence or administrative duty can be justified even where another part of
+the protection system is failing; law need not address only the gravest harm.
+The table therefore does not infer illegitimacy, pretext, or legislative intent
+from sequence alone. It tests the measure's **functional contribution** inside
+the specified capacity ecology. Failure to repair plus expansion of selectable
+coercion is evidence for a possible coupling mechanism only when actual
+activation, a valid severity comparator, recurrence, and failed correction are
+also shown.
+
+This creates a particularly well-hidden form of *Willkür*. Rules remain general;
+each local decision can cite workload, jurisdiction, evidence, procedure, policy,
+or discretion; and no office need record the cumulative comparator. An activated
+case normally generates a file, reason, demand, hearing, or sanction. A case that
+is never accepted, is repeatedly redirected, expires in a queue, or receives no
+effective follow-through may leave only a thin trace. **Activation is often more
+legible than nonactivation.** The visible record can therefore overrepresent
+what the system did and conceal what it recurrently declined to make real.
+
+The existing project term [**organizational dark
+matter**](#public-private-constitutional-proxy-hazard) names the resulting loss
+of responsibility when blame leaks across organizational boundaries. Here it
+can conceal who owns the selection rule, the capacity deficit, the abandoned
+case, and the cumulative inversion. It still does **not** mean a secret
+organization or prove that one actor designed the result. Causal attribution
+must distinguish at least:
+
+1. **emergent or poorly designed selection** under real scarcity;
+2. **knowing exploitation** of a selection space that already exists; and
+3. **deliberate construction or maintenance** of overload for selective use.
+
+Evidence for the first does not establish the second or third. Conversely, the
+absence of one central order does not make an observable recurrent selection
+pattern unreal.
+
+Selection may follow **organizational enforceability** rather than seriousness.
+Licensed professionals, employers, property owners, public employees, parents,
+or other documented and locally rooted order-bearers are visible, solvent,
+traceable, insured, and responsive to process. Dangerous, mobile, insolvent,
+uncooperative, evidentially difficult, or already disorder-producing actors may
+be harder and costlier to control. An institution rewarded for throughput,
+compliance, or risk reduction can therefore concentrate on the actor most able
+to answer the process rather than the conduct most necessary to stop. This is a
+candidate mechanism, not proof that every licensed person is innocent or every
+hard target is culpable.
+
+The decisive selection variable can thereby migrate from:
+
+```text
+What has this person actually done?
+
+to:
+
+Against whom will our machinery work most effectively?
+```
+
+That migration is an **advanced-*Willkür* mechanism**. It replaces the
+conduct-and-harm question with an enforceability-and-yield question after the
+selectable person is known. It can make the order-bearing person's compliance,
+rootedness, property, licence, livelihood, reputation, and civic standing
+reasons for concentrating coercive attention rather than *Schutzbalken* against
+arbitrary power. The mechanism can be present in one authorized pathway or
+case; the strict anarcho-tyranny classification still requires its separate
+protection branch, severity inversion, functional coupling, recurrence, and
+failed correction.
+
+<a id="enforcement-selection-four-variable-audit"></a>
+
+##### Harmfulness, targetability, sanction leverage, and disciplinary yield {#enforcement-selection-four-variable-audit}
+
+An organizational-enforceability audit must keep four variables distinct:
+
+| Variable | Question | Required separation |
+|---|---|---|
+| **Harmfulness** | How much evidenced harm has the person caused, or how much concrete prospective danger is attributable to the person's conduct, means, intent, and nexus? | Past harm, prospective risk, culpability, and evidential confidence are not one quantity. |
+| **Targetability** | How easily can the person be identified, located, served, investigated, monitored, processed, and made to answer an institution? | Registration, rootedness, documentation, compliance, and visibility make a person administratively reachable; they do not make the person harmful or culpable. |
+| **Sanction leverage** | Which valuable capacities, buffers, relations, or statuses can an authority or dependent gatekeeper credibly threaten, suspend, or remove? | The available leverage is not a justification for using it and does not establish a lawful nexus to the alleged harm. |
+| **Disciplinary yield** | How strongly is targeting the person expected to alter that person's conduct and the expectations or conduct of similarly situated observers? | Legitimate specific or general deterrence must be separated from chilling, compelled conformity, exemplary humiliation, and correction-bearer neutralization. |
+
+The person's **sanctionable loss surface** is the portfolio of valued goods and
+practical capacities exposed to withdrawal across the complete person-and-case
+timeline. For an order-bearing person it can include:
+
+```text
+liberty
++ home and property
++ bank and payment access
++ employment, office, or professional practice
++ licence, credential, or regulated authorization
++ customers, contracts, and insurability
++ reputation and social standing
++ family stability and support
++ political, electoral, and associational opportunities
+```
+
+This is a leverage map, not a measure of human worth, deservedness,
+dangerousness, guilt, or civic virtue. “Little to lose” can mean only a
+comparatively narrow set of institutionally withdrawable goods in the specified
+case; no person thereby becomes valueless or literally without liberty,
+relationships, dignity, bodily integrity, a future, or rights. Conversely, a
+large loss surface cannot lawfully substitute for evidence, personal nexus,
+necessity, proportionality, prior or prompt independent review, and repair.
+
+The distinction exposes a constitutional inversion that a severity-only audit
+can miss. A person who has built a stable, reciprocal, socially productive life
+often accumulates both *Schutzbalken* and interfaces through which those
+*Schutzbalken* can be withdrawn. Registration, employment, property, licence,
+banking, customers, family responsibility, and public standing can make the
+person unusually targetable, give the state or its downstream recipients many
+levers, and make one conspicuous case yield anticipatory compliance across an
+entire professional or civic field. Selectivity can increase rather than reduce
+the hazard: a high-yield person can be disabled without a population-wide ban,
+while low prevalence permits plausible deniability and keeps the shared
+disciplinary signal harder to measure.
+
+Targetability, sanction leverage, and disciplinary yield do not add up to
+harmfulness:
+
+```text
+targetability + sanction leverage + disciplinary yield
+≠ harmfulness, culpability, or permission to sanction
+```
+
+Nor is leverage-point selection inherently illicit. Where a person or
+organization demonstrably causes, finances, coordinates, or supplies a harmful
+capability, addressing that causally relevant node can be both effective and
+proportionate. The abuse lead arises where reachability or expected disciplinary
+return substitutes for the harm, nexus, and rights analysis, or where serious
+predation remains comparatively uncontrolled while high-yield order-bearers
+receive anticipatory, cumulative, or exemplary burdens.
+
+For each branch and matched procedural stage, therefore record the best
+available evidence for all four variables, the complete sanction portfolio,
+whether the consequence preceded independent merits review, and any observed
+peer adaptation. Then test which variable best predicts investigation,
+activation, burden, duration, and outcome. A low case count does not defeat a
+selective-capability or field-effect finding; the field effect still requires
+evidence of observation and adaptation among similarly situated persons. The
+strict anarcho-tyranny classification still requires its protection branch,
+valid severity comparator, functional coupling, recurrence, and failed
+correction.
+
+The same tractability permits burdens to accumulate across channels. One person
+can simultaneously face criminal investigation, search and seizure,
+professional discipline, licensing action, employment or contracting exclusion,
+financial restraint, disclosure duties, and reputational consequences. Each
+office may possess an independently stated remit while the affected person
+experiences one cumulative operation. Organizational dark matter can obscure
+the sequence, common trigger, duplicated evidence, burden interaction, and who
+must assess proportionality across the whole. A proper audit therefore follows
+the person and the case over time as well as reviewing each institution
+separately; it tests coordination, lawful purpose, necessity, interim review,
+double counting, appeal, termination, restoration, and repair.
+
+At case level, *process-as-punishment* describes a proceeding whose unresolved
+duration or interim burdens foreseeably disable livelihood, standing, speech,
+professional independence, or ordinary participation before a merits judgment.
+The descriptor does not establish innocence, bad faith, or an illicit charge.
+Necessary interim restraint, investigation, disclosure, and professional
+precaution can be legitimate. The stronger inference requires duration and
+burden comparators, avoidable delay, inadequate review, disproportionality,
+failure to repair after exoneration, or evidence that the disabling effect was
+selected or knowingly exploited.
+
+A conspicuous proceeding against one order-bearing professional can also change
+the expectations of many similarly dependent actors. That field effect may
+produce lawful general deterrence, or it may suppress independent judgment and
+evidence-bearing correction. Only the latter, supported by downstream adaptation
+and a correction nexus, can approach [correction-bearer
+neutralization](#democracy-as-schutzbalken-gegen-die-macht); neither a prominent
+case nor professional discipline by itself establishes it.
+
+Where the downstream field effect is evidenced, it can form a local sub-loop:
+
+```text
+selective burden against a visible order-bearer
+→ anticipatory conformity among similarly dependent carriers
+→ less independent judgment and evidence-bearing correction
+→ weaker service, trust, and error detection
+→ demand for more rules, monitoring, and centralized control
+```
+
+Each arrow needs its own longitudinal support. The sequence is not licensed by
+one prosecution, professional disagreement, or ordinary lawful deterrence.
+
+##### Supporting un-reality: target substitution and the near-prohibition on noticing
+
+The same configuration can extend beyond formal law. A poster, campaign,
+training example, news selection, or official narrative can depict an event that
+is individually possible yet arrange the public ensemble so that attention is
+systematically displaced from the operative distribution of harm. The resulting
+[**representational attention
+sink**](0030-epistemic-constitution.semantic-definition.md#representational-attention-sink)
+can direct vigilance toward a harmless or politically convenient proxy while
+more serious recurrent patterns remain comparatively difficult to formulate.
+No single countertypical depiction establishes un-reality. The stronger
+classification requires authorized practical use and failed correction.
+
+This is why the restriction can become more than a prohibition on speaking. A
+person may remain formally free to possess isolated observations while the
+social, professional, or legal cost of joining them makes the person **nearly
+forbidden to notice**. The interrupted sequence is:
+
+```text
+private perception
+→ explicit pattern formulation
+→ comparison with records and rival explanations
+→ public articulation
+→ common knowledge that others also see it
+→ association and organized correction
+```
+
+The two branches can couple directly at this interface. If an evidenced public
+description of recurrent protection failure activates legal, professional,
+employment, or equivalent burdens against the describer, a citizen can enter
+the tyranny branch by describing the anarchy branch. Anticipated stigma,
+ordinary criticism, a disputed finding, or consequences for independently
+wrongful conduct do not establish that relation. The causal nexus, proposition,
+evidence status, activated burden, comparator, review, and correction outcome
+must be shown.
+
+The phrase “war on noticing” is retained only as a source lead for this general
+problem. It does not import Steve Sailer's racial claims or convert pattern
+recognition into statistical proof, causal explanation, a group essence, or a
+licence for adverse treatment of a person. Those are separate gates. The
+relevant constitutional question is whether an observed relation can be
+formulated, checked, corrected, and organized around without a protected
+conclusion deciding in advance what may count.
+
+Semantic change can widen the same field. A condemnatory term may first be
+expanded far beyond its inherited prototype, retain its old moral force while
+thresholds flatten, and then acquire a new practical center. If law or
+institutions attach the original term's sanctions to that expanded category,
+comparatively minor or novel conduct can inherit machinery built for a severe
+prototype. The staged linguistic operation is specified as [**semantic
+ballooning and core
+displacement**](0030-linguistic-tricks.semantic-inventory.md#semantic-ballooning-and-core-displacement).
+The sequence alone does not create coercion: a separate **legal-uptake gate**
+asks whether legislation, adjudication, administration, employment, licensing,
+or another sanction-bearing institution actually imports the expanded meaning.
+Expansion can precede the sanction, or severe coercive capacity can be
+authorized while the term remains narrowly anchored and only later be inherited
+by expanded cases. That sanction-first sequence warrants a chronology audit; it
+does not prove that the original sanction was designed for later semantic use.
+
+<a id="anarcho-tyranny-ratchet"></a>
+
+##### The anarcho-tyranny ratchet {#anarcho-tyranny-ratchet}
+
+Francis's source construction supplies one possible authorization sub-loop:
+
+```text
+protection failure or tolerated disorder
+→ fear and public demand for action
+→ expanded control receives a protective mandate
+→ control is applied to tractable, compliant, defensive, minor, or disfavoured targets
+→ the original disorder persists
+→ fear and demand are renewed
+```
+
+This is one route by which the anarchy branch can authorize expansion of the
+tyranny branch. It is not required by the project definition, and it does not
+show that authorities created the original disorder, consciously preserved it,
+or intended every downstream use. Those stronger causal claims require their
+own evidence.
+
+The wider paired field can reproduce through a feedback loop:
+
+```text
+failure of serious protection or growing disorder
+→ citizens absorb more vigilance, defence, documentation, and repair work
+→ authorities add rules, procedures, reporting, and symbolic reassurance
+→ normative and organizational load increases
+→ technical vulnerability and unavoidable selection space expand
+→ enforcement follows visibility, tractability, sanction leverage,
+  disciplinary yield, or protected priorities
+→ the protection/coercion inversion becomes easier to reproduce
+→ un-real representations obscure the operative distribution
+→ civic surplus and organized correction decline
+→ protection failure and discretionary selection face less effective resistance
+```
+
+This is the **anarcho-tyranny ratchet**. A single traversal is not inevitable:
+additional capacity, repeal, clear priority rules, independent comparator review,
+effective appeal, public nonactivation records, restitution, and successful
+correction can interrupt it. The term names a recurrent positive-feedback
+hazard, not a law of history.
+
+<a id="authority-reproduction-and-anarcho-tyranny-coupling"></a>
+
+##### Authority reproduction as one possible ratchet carrier {#authority-reproduction-and-anarcho-tyranny-coupling}
+
+The [institutional endowment--legitimation
+circuit](#institutional-endowment-legitimation-circuit) supplies one candidate
+personnel and interpretation mechanism through which an evidenced
+pseudomorphic-governor substitution can persist and, in a public-order setting,
+help carry an anarcho-tyranny ratchet:
+
+```text
+evidenced institutional PGS
+→ compatible professional mediators and trusted carriers receive resources,
+  positions, prestige, access, and amplification
+→ prominence is received as apparent competence across a wider jurisdiction
+→ carriers interpret failure through the substitute governor's categories
+→ failure authorizes more funding, rules, personnel, monitoring, or jurisdiction
+→ weak protective performance persists while tractable targets absorb coercion
+→ possible anarcho-tyranny pairing and ratchet
+→ outside correctors bear costs and lose comparative routing
+→ correction and succession remain with the substitute governor
+↺ carrier authority and institutional legitimacy reproduce one another
+```
+
+This is a coupling hypothesis, not a compressed classification. A university,
+media organization, foundation, or profession can endow compatible carriers and
+return legitimacy without itself exercising public coercion or satisfying any
+anarcho-tyranny gate. Conversely, an anarcho-tyranny profile can arise through
+overload, fragmentation, electoral incentives, ordinary risk aversion, or other
+selection mechanisms without this carrier circuit. Apply the PGS, trusted-
+authority, and anarcho-tyranny gates to their own units and then evidence every
+joining arrow.
+
+##### Civic surplus and the Zechariah gradient
+
+**Civic surplus** is the residual time, attention, trust, material margin,
+practical competence, and associative energy available after ordinary needs and
+unavoidable maintenance. It is what allows people to play, care, create, learn,
+help neighbours, sustain voluntary associations, investigate public problems,
+and, when necessary, organize correction. Citizens do not owe this surplus to
+politics. A peaceful order is successful partly because people can spend it on
+living rather than continuously compensating for institutional failure.
+
+[Zechariah 8:4–5](0040-mythology-construction.semantic-definition.md#child-at-play-mastery-and-guardian)
+supplies the positive pole: old people and playing children can occupy the
+foreground because trustworthy peace lets the guardian function recede into the
+background without disappearing. Anarcho-tyranny points along the opposite
+gradient. Vulnerable people lose usable foreground space while ordinary citizens
+must keep the guardian function continuously activated, yet the same order adds
+compliance and epistemic burdens against them.
+
+The inversion is functional as well as visual. The apparatus of guardianship
+may become more conspicuous through rules, warnings, campaigns, reporting, and
+procedure while effective guardian labour is transferred downward. Victims,
+families, neighbours, professionals, and voluntary associations must provide
+vigilance, accompaniment, documentation, private protection, fact
+reconstruction, and procedural follow-through needed to make the public order's
+nominal protection operative. No conscious transfer policy is required for
+this burden shift to occur.
+
+| Civic-surplus tax | Capacity consumed |
+|---|---|
+| **Safety tax** | vigilance, avoidance, accompaniment, private defence, recovery, and replacement of failed protection |
+| **Compliance tax** | learning, documenting, reporting, licensing, defending, and anticipating selectively activated rules |
+| **Procedural tax** | repeated complaints, referrals, hearings, appeals, queues, and proof production needed to make nominal rights operative |
+| **Epistemic tax** | reconstructing omitted comparators, preserving records, checking euphemisms, and defending the legitimacy of noticing |
+| **Trust tax** | verifying institutions and counterparties that can no longer be presumed to perform their stated protective function |
+| **Coordination tax** | finding one another, establishing common knowledge, managing retaliation risk, and rebuilding organizations capable of correction |
+
+Civic-surplus depletion can neutralize correction through occupation rather
+than prohibition. The citizen remains formally able to investigate, associate,
+and oppose, but compensating for failed protection, navigating coercive
+exposure, and reconstructing the public record consumes the margin from which
+organized correction would be financed. The resulting failure to organize can
+appear as the aggregate of unrelated private exhaustion. This is a functional
+possibility, not an intent inference: poverty, care burdens, illness, ordinary
+administrative complexity, disaster, and many other causes can consume the same
+capacities. Attribution to anarcho-tyranny requires tracing the depletion to the
+specified protection and coercion branches and showing its effect on correction.
+
+The gradient is multidimensional, not one regime score. A society may retain
+high civic surplus in one locality or class while depleting it elsewhere; private
+wealth can purchase partial substitutes; an enclave can look peaceful because
+costs are displaced beyond the image. Children at play remain a sentinel rather
+than proof, and visible disorder alone does not establish the coercive branch.
+
+##### Classification and evidence discipline
+
+Use a comparison set that can survive hostile review. At minimum specify the
+jurisdiction and period, legal duty, conduct severity, evidence quality,
+reporting and detection rates where available, offender and defendant
+constraints, case complexity, resource cost, procedural posture, available
+remedy, and actual outcome. Compare like stages with like stages: report with
+report, charging decision with charging decision, trial outcome with trial
+outcome, licensing sanction with a relevant licensing comparator. A headline,
+comment, advocacy dossier, proposal, poster, or one failed prosecution is a lead,
+not the classification.
+
+Keep three evidential levels distinct:
+
+| Level | Licensed inference |
+|---|---|
+| **Case-level failure or burden** | The named case may evidence nonprotection, overreach, target substitution, process-as-punishment, or another component. Rival legal and factual accounts remain open. |
+| **Anarcho-tyranny profile** | Several cases or measures establish a directional protection/coercion asymmetry worth systematic comparator and correction audit. Functional coupling remains a hypothesis. |
+| **Anarcho-tyranny configuration** | All five relations—protection failure, coercive activation, severity inversion, functional coupling, and recurrence despite correction—are evidenced for the specified jurisdiction and period. |
+
+The classification by itself establishes neither Ideology, un-reason, systemic
+lying, *Maßnahmenstaat*, *Doppelstaat*, *Machtpolitik*, Shadow-Sovereign rule,
+*Gleichschaltung*, Fascism, nor *Willkürherrschaft*. It does not identify a
+conspiracy, upstream designer, beneficiary, actor intent, or person-level guilt.
+Each stronger attribution retains its own gate. The point of the model is to make
+advanced *Willkür* inspectable even when it is distributed and formally ordinary,
+without using invisibility as permission to invent the missing cause.
+
+<a id="fernandes-hateaid-hubig-ard-sparse-case"></a>
+
+##### Sparse worked application: the Fernandes–HateAid–Hubig–ARD episode {#fernandes-hateaid-hubig-ard-sparse-case}
+
+**Unit and status:** Germany, 2024 to 9 August 2026; a circumstantial
+institutional case about the public use of unresolved Fernandes–Ulmen
+allegations, not an adjudication of the underlying private dispute. The
+application tests a prospective tyranny-side capacity increase against a
+protection-side comparator. It does not classify Germany as a completed
+anarcho-tyranny configuration.
+
+The minimum reconstructable chronology is:
+
+| Phase | Source-anchored observation |
+|---|---|
+| **Upstream programme** | A Bundesrat deepfake proposal existed in 2024, and the government says the wider “digital violence” programme predated the celebrity case. HateAid already combined victim support, legislative lobbying, public funding, and DSA trusted-flagger status; priority handling of its notices did not give it authority to determine illegality. See [Bundestag 20/12605](https://dserver.bundestag.de/btd/20/126/2012605.pdf), [Bundestag 21/1482](https://dserver.bundestag.de/btd/21/014/2101482.pdf), and the [Federal Network Agency's role description](https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/EN/2025/20250602_TrustedFlagger.html). |
+| **Exemplar enters the policy window** | On 19 March 2026 *Spiegel* placed Fernandes's allegation story beside an interview with Justice Minister Hubig about the prepared law. Co-author Juliane Löffler later said that the pending law gave the story political relevance and helped determine publication timing. This evidences editorial orientation to the policy window, not ministry instruction. See the [recorded-statement report](https://nius.de/news/journalistin-juliane-loeffler-gibt-zu-spiegel-geschichte-ueber-collien-fernandes-war-auf-hubigs-zensur-gesetz-abgestimmt). |
+| **Official and public-media activation** | On 20 March the ministry visually sequenced Fernandes headlines and *Spiegel* imagery before Hubig promoted the law, then defended itself by noting that she had not verbally named Fernandes. Demonstrations, celebrity demands, parliamentary treatment, and an ARD talk show joining Fernandes and Hubig followed rapidly. This is evidence of multimodal case-to-policy coupling and routed public attention, not proof that all participants shared one instruction. See [Bundestag 21/5249](https://dserver.bundestag.de/btd/21/052/2105249.pdf) and the [NDR programme record](https://www.ndr.de/fernsehen/sendungen/caren-miosga/caren-miosga%2Csendung-61886.html). |
+| **Prepared capacity and coordinated media field** | The April draft reached beyond sexual deepfakes into reputational falsification, case-triggered user identification, data preservation, account blocking, and technological surveillance. It contained enumerated thresholds and judicial procedures and was not a general real-name requirement. ARD then launched the cross-format “Age of Fake” package; the paired Fernandes and Hirschhausen documentaries shared a production team, and Hirschhausen's accumulated medical and science-communication trust was carried into platform, legal, and democratic-risk claims. See the [BMJV draft](https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_GgdG.pdf?__blob=publicationFile&v=2) and [ARD campaign overview](https://www.ard.de/die-ard/presse-kontakt/ard-pressemeldungen/2026/age-of-fake-100.pdf). |
+| **Case-load discontinuity** | The government could provide no separately measured German case-load of investigations, suspects, or prosecutions corresponding to the promoted sexual-deepfake gap. Its principal prevalence item concerned the much broader category of manipulated information or images, while the draft estimated use of its civil machinery from roughly 97,000 heterogeneous internet-related offences. See [Bundestag 21/5919](https://dserver.bundestag.de/btd/21/059/2105919.pdf). |
+| **Correction without equivalent reversal** | Tagesschau corrected the attribution that Fernandes had accused Ulmen of distributing deepfake pornography. On 22 June the Hamburg Higher Regional Court held that *Spiegel* lacked the necessary minimum factual basis to imply that Ulmen had manufactured or distributed the deepfake videos. That was a press-law ruling, not a criminal acquittal and not rejection of every allegation. The policy programme nevertheless remained in place. See the [Tagesschau correction record](https://www.tagesschau.de/korrekturen) and [OLG Hamburg 7 W 72/26](https://www.aufrecht.de/urteile/medienrecht-presserecht/urteile-2024-2025-und-folgende/deepfake-video-verdacht-ohne-mindestbestand-unzulaessig-olg-hamburg-beschluss-vom-22062026-az-7-w-72/26). |
+
+The compact theory mapping is:
+
+1. **Control first and harmful-fix pretext.** The capability preceded the
+   exemplar; the exemplar supplied urgency and a favourable victim-protection
+   interface. Absence of a measured matching case-load, breadth of the remedy,
+   and persistence after correction jointly support
+   [control-first moral-wrapper
+   selection](#control-first-moral-wrapper-selection) and the
+   [*Vorwandfalle der
+   Schadlösung*](0030-linguistic-tricks.semantic-inventory.md#lt-034) as
+   hypotheses. Chronology alone does not establish concealed malicious intent.
+2. **Relational un-reality and semantic transfer.** Deepfakes depicting
+   Fernandes, pornographic representations allegedly routed through fake
+   profiles, physical allegations, “digital violence,” and the proposed law
+   were compressed into one exemplar. The load-bearing implication—that the
+   allegation against Ulmen demonstrated the proposed deepfake offence—was the
+   relation later corrected and judicially weakened. “Virtual rape” and
+   “digital violence” also carried the moral force of severe embodied
+   prototypes into a broader representational field; the applicable mechanism
+   and legal-uptake boundary are [semantic ballooning and core
+   displacement](0030-linguistic-tricks.semantic-inventory.md#semantic-ballooning-and-core-displacement).
+3. **Organizational dark matter and authority transfer.** *Spiegel*, HateAid,
+   the ministry, ARD, trusted authorities, demonstrations, and legislative
+   procedure performed complementary functions without requiring one secret
+   command centre. HateAid's role bundle raises the
+   [constitutional-proxy hazard](#public-private-constitutional-proxy-hazard),
+   while Hirschhausen illustrates cross-domain use of the
+   [trusted-opinion-leader
+   function](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leader-function-cascades-and-cultivated-authority).
+   Liber-net's advocacy-oriented [German network
+   map](https://liber-net.org/de-report-en) supplies macro-context for this
+   ecology, not proof that every mapped node censors or that it directed this
+   episode.
+4. **Severity and attention inversion.** Against the unmeasured specific gap,
+   the 2025 federal record contained 751 police-recorded group-rape cases; it
+   establishes recurrent embodied harm, not wrongful leniency by itself. ZDF's
+   attrition account and the reported Frida non-prosecution supply protection-
+   failure leads, while the celebrity mobilization supplies a possible
+   [representational attention
+   sink](0030-epistemic-constitution.semantic-definition.md#representational-attention-sink).
+   See [Bundestag 21/6858](https://dserver.bundestag.de/btd/21/068/2106858.pdf),
+   [ZDF's attrition account](https://www.zdfheute.de/panorama/vergewaltigung-gruppenvergewaltigung-jugendliche-100.html),
+   and the [Frida report](https://www.tichyseinblick.de/meinungen/taeterparadies-deutschland-justiz/).
+5. **Exemplar–capacity decoupling and civic-surplus routing.** Initial
+   saturation converted attention into prepared demands; later qualification
+   did not receive equivalent reach or reverse the reusable capacity. The case
+   therefore shows how a transient exemplar can route civic surplus into a
+   durable institutional output even when the exemplar–remedy relation weakens.
+
+The best-fitting circumstantial inference is a **distributed policy-legitimation
+operation** and candidate functional collusion: connected actors produced a
+common capacity-building output through complementary, partly disclosed roles.
+This is stronger than accidental simultaneity but weaker than proof of a
+centrally commanded conspiracy. Power-critical reporting receives elevated
+weight where it supplies recordings, documents, exact chronology, or claims
+later anchored by correction or judgment; labels such as “psyop,” “media coup,”
+and “secret operation” remain unadopted causal attributions.
+
+At the section's classification ladder, the episode supports a prospective
+**tyranny-branch capacity increase** and contributes to an
+**anarcho-tyranny profile**. It does not yet establish the complete
+configuration: selective activation of the new powers against comparatively
+harmless or politically disfavoured persons, a matched recurring protection
+failure, functional coupling over time, and survival through repeated correction
+would still have to be demonstrated. Nor does the case independently establish
+*Maßnahmenstaat*, Ideology, systemic lying, *Machtpolitik*,
+*Willkürherrschaft*, actor intent, or guilt in the underlying private dispute.
 
 The [**severe-Babelization
 fork**](#the-severe-babelization-fork-secession-or-force) identifies one pathway
@@ -8660,6 +11871,8 @@ classification itself be reviewed and reversed; and do published limits,
 records, appeal, expiry, succession, and repair actually bind the deciding
 authority?** A large domain of regular administration does not compensate for an
 unreviewable switch that can withdraw any selected target from legal protection.
+
+<a id="shadow-sovereign-besatzungsmacht"></a>
 
 #### Shadow Sovereign (*Besatzungsmacht*): visible-state diagnostic {#shadow-sovereign-besatzungsmacht}
 
@@ -9090,6 +12303,8 @@ actor-specific support defined under [Culture Program
 capture](#culture-program-capture) and does not by itself identify that person as
 the Shadow Sovereign.
 
+<a id="favour-bank-cloud"></a>
+
 ##### A separate cloud picture: grooming, implicit debt, and favour-bank routing {#favour-bank-cloud}
 
 The **favour-bank cloud** supplies a second and deliberately separate picture of
@@ -9174,6 +12389,289 @@ This gives the one-more-layer model a compact coordination principle:
 > to every participant. It needs only to transmit locally intelligible
 > obligations, rewards, sanctions, and requests.**
 
+<a id="favour-bank-two-evidential-routes"></a>
+
+###### Specific episodes and system-level profiles: two evidential routes {#favour-bank-two-evidential-routes}
+
+The observability problem must not be solved by applying one undifferentiated
+threshold to two different objects. A tacit obligation ecology may leave no IOU
+ledger, explicit request, or participant with a complete map. That does not make
+the mechanism definitionally undetectable, but it also does not permit a
+downstream pattern to be converted into a named person's debt.
+
+Use two separately bounded routes:
+
+| Evidential object | Candidate route | What the result does not establish |
+|---|---|---|
+| **Specific favour-bank episode** | identified benefit or cultivation → remembered or communicated obligation → request or practical expectation → responsive act → routed beneficiary and consequence | One episode does not establish a recurrent cloud, shared objective, knowing collaboration, or one coordinator |
+| **Circumstantially supported favour-bank-cloud profile** | evidenced benefit ecology or cultivation substrate + recurrent matched selection in which allegiance, responsiveness, or narrative fit outpredicts competence + exceptional protection of aligned failure + selectively burdened correction + recurrence across sufficiently independent nodes + serious rivals fitting worse | The profile does not identify a particular debt, request, broker, participant, command centre, or intended objective |
+
+These are not interchangeable evidential standards for the same proposition. A
+direct episode can localize one return without showing a system. A system-level
+profile can support the cloud mechanism at a disclosed confidence level without
+recovering any one participant's inner account. Use **favour-bank-compatible
+selection pattern** where the predicted downstream trace is present but the
+benefit ecology, recurrence, or rival-explanation test remains incomplete; reserve
+**circumstantially supported favour-bank-cloud profile** for the complete second
+route.
+
+A funded network, grant programme, professional association, appointment ecology,
+or capacity-building substrate establishes nodes, resources, incentives,
+dependencies, and opportunities for cultivation. It does not resolve which
+coordination mechanism is operating. An award with declared deliverables is
+direct programme and incentive evidence rather than evidence of a concealed
+withdrawal; the same relationship may also create renewal dependence, prestige,
+access, informal expectations, or later extra-contractual requests. Audit the
+direct programme mechanism and the possible favour-bank layer separately, then
+test where they combine.
+
+<a id="favour-bank-adaptive-concealment"></a>
+
+###### Adaptive concealment and operational defeaters {#favour-bank-adaptive-concealment}
+
+A capable obligation ecology can preserve the visible forms of transparency,
+pluralism, criticism, review, recusal, appeal, and exit while routing every
+consequential decision through substantially the same personnel, funding,
+credential, prestige, and dependency field. Paper safeguards and benevolent
+programme language therefore receive no independent defeater weight.
+
+Distinguish three stages:
+
+| Safeguard stage | Required observation | Evidential force |
+|---|---|---|
+| **Declared** | A policy, published deliverable, nominally plural committee, recusal rule, review body, complaint channel, dissent route, or exit right exists | Establishes the institution's claim and formal surface, not the safeguard's operation |
+| **Exercised** | The safeguard is invoked in a consequential adverse case; criticism or refusal occurs; the process reaches a recorded decision; and retaliation, informal exclusion, or silent rerouting is traced | Shows practical use, but not independence where the candidate ecology still controls intake, personnel, funding, evidence, remedy, or career consequences |
+| **Structurally independent** | Control, funding, personnel, evidence access, review, appeal, and enforcement are sufficiently outside the candidate ecology; the safeguard can reverse favoured outcomes, impose consequences on aligned insiders, preserve dissenting entry and advancement routes, and survive equal-stakes tests over time | Substantial defeater weight proportionate to demonstrated independence and effect |
+
+The hypothesis weakens only to the extent that safeguards survive adversarial
+use. Test whether plural selectors have genuinely different dependencies and
+criteria; whether deliverables exhaust the practical demands placed on a
+recipient; whether refusal preserves funding, access, standing, and career
+routes across the wider ecology; whether conflict rules force disclosure and
+recusal; whether review reaches the selectors and protectors behind failed
+appointments; and whether dissenters retain durable institutions, resources,
+publication routes, and succession opportunities outside the same field.
+
+An adaptive operator will prefer deniable requests, local protocol, redundant
+brokers, oral or socially remembered obligations, formally independent nodes,
+and ordinary administrative acts whose direction becomes visible only through
+longitudinal aggregation. Missing written debts, explicit commands, or a central
+ledger is therefore predicted under the threat model, not evidence against it.
+The system-level route exists precisely to test the recurrent downstream
+selection, protection, correction, routing, and succession pattern left by that
+architecture.
+
+<a id="favour-bank-two-sided-node-audit"></a>
+
+###### Two-sided node audit and scarce high-private-value benefits {#favour-bank-two-sided-node-audit}
+
+A favour-bank inquiry should reconstruct what a candidate node received and what
+the same node could later supply through an actual role. Keep those ledgers
+separate until chronology, relationship, routing, consequence, and rivals support
+a join:
+
+| Audit surface | Question | Boundary |
+|---|---|---|
+| **Receiving side** | What money, access, appointment, prestige, protection, scarce service, crisis assistance, introduction, or opportunity was received; from whom; when; and how replaceable was it? | Determine dependency and future access conditions; do not stop at the provider's declared purpose |
+| **Giving side** | What hiring, promotion, nomination, committee placement, funding, protection, silence, delay, exceptional treatment, introduction, or recruitment could the node later supply? | Compare aligned and unaligned beneficiaries under the same stated rule and recover who exercised actual discretion |
+| **Temporal bridge** | Did the benefit precede the responsive act through a continuing relationship or remembered obligation? | Sequence is necessary for a direct episode but is not causation by itself |
+| **Control surface** | Which return could the recipient provide inside a reporting line, budget, appointment process, committee, review jurisdiction, publication route, or professional office? | Formal title does not prove practical control; recover delegation, voting, recusal, and approval rules |
+| **Routing** | Did the later act benefit the original source, a broker, or an evidenced third node? | Network proximity cannot fill a missing beneficiary relation |
+| **Consequence and recurrence** | What followed compliance or refusal, and does the same topology recur? | One ambiguous benefit or costly refusal cannot establish a cloud |
+
+```text
+receiving-side ledger:
+benefit + source + date + scarcity + dependency + best competing mechanism
+
+giving-side ledger:
+later act + beneficiary + actual decision authority + cost or risk
++ best competing mechanism
+
+join test:
+chronology + continuing relation + request or practical expectation
++ routing + consequence + recurrence + weaker rivals
+→ specific episode or bounded contribution to a system-level profile
+```
+
+A benefit can be **scarce and high in private value** while having little visible
+financial value. Candidate classes include unusually rapid medical access,
+intervention during a serious personal crisis, immigration or administrative
+assistance, legal or reputational rescue, protection of employment or standing,
+access to an otherwise unreachable official or institution, or an introduction
+that unlocks a scarce appointment, grant, contract, audience, or credential. In
+this practical sense the benefit may be non-fungible because the recipient cannot
+readily purchase an equivalent substitute. This usage is distinct from the moral
+non-fungibility of sacred values.
+
+The lawfulness, humanitarian description, or apparent generosity of assistance
+does not resolve its simultaneous dependency-producing function. Diagnostic
+weight rises with unusual selection, preparatory cultivation, expected
+responsiveness, continued-access conditions, later withdrawal, and consequence.
+Medical, family, and crisis information requires
+consenting testimony, lawfully public authenticated records, or comparably strong
+evidence. Do not search private relatives or manufacture an undisclosed personal
+benefit to explain an otherwise puzzling professional act. Alleged suppression
+of criminal or regulatory exposure requires still stronger actor-specific primary
+evidence of the underlying matter, intervention, authority, chronology, and
+consequence.
+
+<a id="favour-bank-hierarchical-repayment"></a>
+
+###### Hierarchical repayment, recursive placement, and meritocratic deterioration {#favour-bank-hierarchical-repayment}
+
+The cheapest return favour may lie below the indebted person's existing office
+rather than laterally across an independent institution. A manager, professor,
+editor, grant holder, officeholder, or committee chair may already influence
+hiring, nomination, task assignment, evaluation, access, complaint routing,
+protection, and succession. Acting inside that constituted jurisdiction can
+require less coordination and attract less attention than persuading an unrelated
+organization.
+
+The candidate **hierarchical repayment cascade** is:
+
+```text
+scarce benefit, protection, access, status, or rescue
+→ recipient acquires an implicit obligation
+→ later return is requested or practically anticipated
+→ recipient appoints, promotes, protects, funds, or routes a person
+  inside an existing jurisdiction
+→ installed person receives opportunity or protection
+→ new obligation + new institutional entry point
+→ installed person can repeat the operation below or beside that position
+↺ recursive placement and succession
+```
+
+The original benefactor need not receive the appointment. A broker may nominate a
+third person, or the recipient may learn only that helping responsive candidates
+preserves access. A **favour banker** is the threat-model role that remembers
+needs, benefits, capabilities, vulnerabilities, and possible returns across people
+who need not know one another, then matches a later request to an institutional
+control surface. The role is not a legal or moral classification of every
+well-connected intermediary.
+
+Contact books, photographs, invitations, meetings, calendar entries, travel
+records, donations, introductions, or institutional association establish only
+the specified contact, movement, transaction, or relationship. The broker
+hypothesis requires an authenticated benefit or rescue, continuing access or
+dependency, a later responsive act or routed placement, institutional consequence,
+benefit or refusal cost, and recurrence across otherwise separate domains. It
+must explain the cross-domain conversion better than friendship, ordinary
+patronage, shared belief, independent self-interest, or coincidence.
+
+The cascade generates a conditional **recursive meritocratic-deterioration
+hypothesis**. Where responsiveness, indebtedness, ideological compatibility, or
+willingness to protect the route increasingly outpredicts competence, each
+selection generation can weaken the next selector pool while strengthening the
+local obligation protocol. The prediction is distributional across selection,
+protection, correction, and succession rather than a claim about every selected
+person.
+
+Predicted traces include:
+
+- less prospective, legible, and independently verifiable selection criteria;
+- appointment power concentrating in people who were themselves unusually
+  elevated or protected;
+- strong endorsement and rapid amplification despite weak or poorly checked
+  qualifications;
+- unusual tolerance of failed outputs, plagiarism, fabrication, misconduct, or
+  poor service among aligned insiders;
+- correction carried mainly by outsiders while internal reviewers delay,
+  fragment, or redirect responsibility;
+- failed appointees departing without consequential review of the selectors and
+  protection procedures; and
+- succession through substantially the same personnel and obligation ecology.
+
+Raw scandal, plagiarism, fraud, retraction, or resignation counts are weak until
+they are joined to selection, protection, correction, and succession. Do not let
+a rival label close the audit. Require each proposed rival to carry a
+discriminating prediction:
+
+- **labour scarcity** predicts relaxed competence thresholds across alignments,
+  not selective protection concentrated around one responsive ecology;
+- **weak governance or bureaucratic fragmentation** predicts heterogeneous error
+  and leakage, not recurrent direction with burdens concentrated on outside
+  correctors;
+- **shared belief** predicts convergence without necessarily predicting prior
+  benefit exposure, broker-routed placement, continued-access dependence, or
+  refusal consequences;
+- **prestige closure** predicts deference loops, but becomes part of the proposed
+  mechanism where the same ecology manufactured the prestige and receives its
+  returned authority;
+- **negligent verification** predicts broadly distributed checking failure,
+  whereas selective non-verification, protection, and delayed correction require
+  a directional explanation; and
+- **selector self-protection** predicts defence of the selector's own decisions,
+  whereas cross-node routing and repeated protection of third-party beneficiaries
+  require an additional relation.
+
+These conditions can be genuine alternatives, exploited vulnerabilities, or
+downstream products of the same ecology. Determine their position in the causal
+chain rather than counting their names as accumulated counterevidence. The
+discriminating comparison is whether an otherwise similar person outside the
+candidate ecology would have received the same appointment, protection, delay,
+scrutiny, recovery opportunity, and succession power. Follow several appointment
+generations and test which model predicts the benefit ecology, downstream
+selections, asymmetric protection, refusal costs, and common direction.
+
+<a id="favour-bank-prestige-laundering"></a>
+
+###### Prestige laundering and manufactured authority {#favour-bank-prestige-laundering}
+
+A favour-bank cloud may manufacture authority rather than merely purchase an
+occasional act. The conditional **favour-bank prestige-laundering loop** asks
+whether a responsive carrier selected or elevated by an obligation ecology is
+subsequently presented as independently excellent, after which the acquired
+prestige is treated as evidence validating the same programme, institutions, or
+network that supplied the position:
+
+```text
+obligation ecology selects or elevates responsive carrier
+→ prestigious appointment, credential, award, authorship, or amplification
+→ institutional signal is received as independent proof of merit
+→ role-conferred trust and jurisdiction
+→ carrier validates programme or protects the elevating institutions
+→ returned legitimacy supports further selection, amplification, and correction control
+```
+
+This loop is the obligation-governed subtype of the broader [institutional
+endowment--legitimation circuit](#institutional-endowment-legitimation-circuit).
+The broader circuit needs only a supported reciprocal relation between
+institutional endowment and returned authority. A **specific favour-bank
+episode** additionally needs the direct benefit--obligation--expectation or
+request--responsive-act--beneficiary route, while a system-level favour-bank
+profile needs its separate matched ecology. Jobs, grants, awards, speaking
+opportunities, publication, council seats, favourable review, and protection can
+be ordinary programme incentives, cultivation substrate, or favour deposits;
+the later act, chronology, refusal consequence, routing, and rival-specific
+comparison decide among them.
+
+Where obligation is evidenced, low-friction return can occur through the
+carrier's existing professional jurisdiction: endorsement, repeated definitions,
+interpretive defence, silence, nomination, appointment, protection of failure,
+or burdening of outside correction. Recursive placement can then give the next
+carrier both an endowed position and a new obligation. Where obligation is not
+evidenced, retain the endowment--legitimation or cultivated-authority
+classification rather than inferring an invisible debt merely because the same
+institution receives legitimating speech in return.
+
+The receiving field may thereby install the person in the
+[trusted-opinion-leader function](0020-epistemic-agency.semantic-definition.md#trusted-opinion-leader-function-cascades-and-cultivated-authority),
+whose authority can attach to office and institutional standing as well as personal
+reputation. References among mutually dependent carriers are then not automatically
+independent confirmations; they may be partly endogenous return signals in a
+reputation circuit. The possible downstream effect is a trusted-carrier correction
+lock in which outside evidence cannot obtain comparable routing or credibility.
+
+Institutional appointment, credentials, awards, praise, and glowing references
+receive no independent validating weight where their selection and amplification
+routes substantially overlap. Test whether the candidate obligation ecology
+materially affected elevation, whether role-conferred prestige was presented as
+independent merit, and whether the carrier's later authority returned legitimacy,
+protection, placement, or correction advantage to the same ecology. Institutional
+pride, reputational lock-in, shared doctrine, sponsorship, and defence of prior
+judgment remain competing mechanisms only to the extent that they predict the
+observed selection and return circuit without the proposed obligation relations.
+
 [Mike Benz's detailed February 2026
 explanation](https://podscripts.co/podcasts/the-benny-show/mike-benz-blows-the-doors-epstein-files-who-was-epstein-really-working-for-darker-than-the-cia)
 at approximately 27:26--32:53 explicitly invokes Tom Wolfe's 1987 novel
@@ -9190,9 +12688,14 @@ The source boundary is strict. Wolfe supplies the literary **Favor Bank** image,
 and Benz supplies a contemporary critical interpretation involving IOUs,
 career incentives, outside organizations, and fixers. Neither source supplies
 the project's cloud-computing mapping, the typed grooming sequence, routable
-third-party repayment, relation to the one-more-layer Inner-Party function, or
-Shadow-Sovereign diagnostic. Benz's interview claims are not treated here as
-independent verification of allegations about any named person or organization.
+third-party repayment, two-route evidence architecture, two-sided node audit,
+scarce high-private-value benefit class, hierarchical repayment cascade,
+recursive meritocratic-deterioration hypothesis, prestige-laundering loop,
+adaptive-concealment model, operational-defeater test, relation to the
+one-more-layer Inner-Party function, or Shadow-Sovereign
+diagnostic. Those are project developments. Benz's interview claims are not
+treated here as independent verification of allegations about any named person
+or organization.
 **Public articulation of a mechanism does not establish that it is operating.
 It does establish that the design pattern is sufficiently conceivable to enter a
 constitutional threat catalogue. That is enough to justify low-regret
@@ -9201,6 +12704,27 @@ The controlled hybrid mapping is catalogued in [*Analogical Models in Culture
 Mechanics*, “Favour-bank cloud: grooming, implicit debt, and routed
 returns”](0050-culture-mechanics-analogies.semantic-inventory.md#favour-bank-cloud-analogy).
 
+The favour-bank cloud is one possible substitute-governor system, not the
+definition of [pseudomorphic governor
+substitution](0030-epistemic-constitution.semantic-definition.md#pseudomorphic-governor-substitution).
+A specific favour-bank episode or circumstantial cloud profile does not by
+itself establish that thicker morphology.
+The additional gate requires a durable X-bearing role, practice, procedure,
+office, profession, organization, or institution whose retained machinery and
+authority are governed across correction and reproduction or succession by the
+candidate obligation ecology.
+Where a candidate obligation ecology governs selection while meritocratic forms
+remain, the [ceremonial-radiance-capture](#ceremonial-radiance-capture) hypothesis
+asks whether inherited institutional prestige makes the output appear
+independently meritorious.
+A [claim-matched capability
+challenge](#boundary-crossing-reality-challenges) can test whether certification
+still predicts actual performance, and [mandatory institutional
+portability](#mandatory-institutional-portability) can test whether control and
+knowledge survive genuinely independent succession.
+Failure strengthens the favour-bank hypothesis only when joined to its separate
+benefit, selection, protection, correction, recurrence, and routing record.
+
 The cloud picture and the *Kommandoagent* picture can meet at the hard edge, but
 they must not be collapsed. A cloud may operate through ordinary reciprocity,
 career selection, tacit compliance, brokerage, opportunism, coercion, shared
@@ -9208,6 +12732,9 @@ belief, or emergent convergence and contain no *Kommandoagent*. Conversely, a
 *Kommandoagent* can execute a concrete assignment without any large favour-bank
 cloud. Evidence of gifts, grants, introductions, dense elite networks, career
 mobility, policy agreement, or refusal costs alone proves neither picture.
+A specific favour-bank episode, a circumstantially supported system-level cloud
+profile, a knowing collaboration, and a concrete covert assignment likewise
+remain four separately gated claims.
 
 ```text
 effective-sovereignty function
@@ -9220,7 +12747,9 @@ effective-sovereignty function
  concealed assignment → Kommandoagent at an interface]
 
 [separate distributed favour-bank-cloud variant:
- cultivation → implicit debt → routed return favours → recruitment and scaling]
+ cultivation → implicit debt → routed return favours
+ → hierarchical placement or protection → recruitment and scaling
+ → possible prestige conversion and authority return]
 
 no publicly identifiable final ruler
 + each node points to another constraint
@@ -9402,7 +12931,10 @@ family *anti-reason*: the claim is that the powers of reasoning may be recruited
 to undermine reciprocal reasoning and independent correction from within.
 
 Within this candidate application, the sharper proposal follows the canonical
-[**theoretical *un-* operator**](0030-epistemic-constitution.semantic-definition.md#theoretical-un-operator).
+[**theoretical *un-* family**](0030-epistemic-constitution.semantic-definition.md#theoretical-un-operator)
+through [constitutive-relation
+inversion](0030-epistemic-constitution.semantic-definition.md#constitutive-relation-inversion),
+not pseudomorphic governor substitution by default.
 Reasoning remains articulate and productive and continues to claim reason's
 authority, but conclusion-protection displaces truth-correction as its governing
 principle. The resulting epistemic function is self-negating, but that phrase
@@ -9411,6 +12943,11 @@ from outside or leave its place empty; it preserves conceptual, interpretive,
 and critical operations while redirecting them against reciprocal
 non-contradiction, disclosed standards, independent reality correction, and the
 genuine possibility of losing.
+An institution that recurrently selects this operation may additionally become a
+functional pseudomorph of a truth-seeking practice, but that bearer-level claim
+requires separate evidence of retained machinery and authority, a substitute
+governor, collision cases, and control of correction and reproduction or
+succession.
 
 This remains a **candidate application of a generic mechanism**, not a
 classification licensed by the words *woke*, *postmodernism*, *critical
@@ -9468,6 +13005,8 @@ umbrella labels. The generic diagnostic must work equally on nationalist,
 religious, managerial, scientific, market-liberal, therapeutic, conservative,
 and explicitly anti-woke programs.
 
+<a id="schutzbalken-crosswalk"></a>
+
 ### A.7 *Schutzbalken* crosswalk {#schutzbalken-crosswalk}
 
 The risk model reveals a shared defensive function among mechanisms already
@@ -9476,18 +13015,23 @@ defined in this document. It does not replace their primary definitions:
 | Hazard or failure mode | Existing *Schutzbalken* response |
 |---|---|
 | Systemic-lying core required by *Machtpolitik* | [Truth-preserving culture](0030-epistemic-constitution.semantic-definition.md#truth-preserving-culture-as-a-roadblock-to-machtpolitik): protected harmful truth, rejection of useful error, reciprocal standards, independent evidence and observers, durable records, public dissent, and correction |
+| Censorship sentinel: nonviolent evidence-bearing correction is suppressed, criminalized, made undiscoverable, or denied consequential uptake | [Unrestricted oppositional speech](#unrestricted-oppositional-speech-as-first-line-schutzbalken), private formulation and association, practical publication and discovery, durable record, assigned receipt and answer, independent adjudication, succession, repair, and the rule that positive law cannot validate bootstrap illegality; protect **oppositionality** as the capacity of an organized rival public subject to gather support and govern in turn, not merely an individual's nominal permission to speak |
+| Procedural correction conversion or selective proceduralism: an adverse signal is counted but converted into no operative defeat, or rules are exact against challengers and elastic where they constrain power | [Procedural correction conversion](0030-epistemic-constitution.semantic-definition.md#procedural-correction-conversion) and [selective proceduralism](#selective-proceduralism-and-correction-conversion): publish stable prospective thresholds, defaults, timing, agenda, routing, expiry, and restart rules; disclose their function and ordinary comparator; require reciprocal application, recorded reasons, independent review, appeal, and a path by which a valid adverse signal can change operation |
+| Correction-bearer neutralization: the proposition is evaded while unsupported character attack, retaliation, or status loss deprives correction of a practical bearer | Preserve the proposition independently of the speaker; disclose allegation type, evidence and uncertainty; provide reply, review, appeal, anti-retaliation protection, durable record, alternative carriers, and restoration or repair. Keep the maxim: “No censorship of judgment; no immunity from evidenced accusation; no character assassination without proof.” |
+| Control-first moral-wrapper hazard: a reusable control capability may precede the protective rationale presented as its cause | [Moral-wrapper invariance test](#control-first-moral-wrapper-selection): disclose design chronology, objective, narrower alternatives, functional fit, scope, duration, success and stop conditions, repurposing, correction response, and mixed-objective rivals; bind the capability independently of the benevolent wrapper |
 | Fraenkelian dual-state override: legal normality remains while politically classified targets lose legal guarantees | Predeclared and reviewable emergency triggers, bounded jurisdiction and means, recorded reasons, independent courts, appeal, expiry, succession, equal standing, and repair; no authority may make its own political classification unreviewable |
 | Reality and interpretation captured by one authority | [Anti-gnostic adaptive constitutional search](#anti-gnostic-adaptive-constitutional-search), independent sensors, audit, public argument, and correction |
+| Trace-poor, self-certifying practice or ceremonial shell hides the operative governor | [Boundary-crossing reality challenges](#boundary-crossing-reality-challenges), claim-matched capability tests, trace-generating records, consequential adverse-case audit, and [mandatory institutional portability](#mandatory-institutional-portability) across an independently controlled destination or successor |
 | A publicly sustained correction becomes a dead letter because reception, answer, adjudication, or uptake is blocked | Durable record, assigned response custody, reason-giving deadlines, independent adjudication, automatic correction triggers, and—where lawfully authorized—bounded de-authorization of the defeated representation or specified carrier-function |
 | Doctrine-generation authorization converges into surrogate sovereignty or selective *Willkür* | The [institutional-realization gate](#institutional-realization-and-the-willkur-gate): prospective reciprocal rules, effective function separation, affected-person standing, bounded experimental authorization, independent appeal, prediction exposure, completion, rollback, compensation, repair, and renewed authorization before scaling |
 | Shadow-Sovereign course lock or hidden-principal displacement survives ordinary electoral succession | [Near-term living public-trust guardrails](#near-term-living-public-trust-guardrails): a universal party-member covenant, open-ended retrospective public account, distributed witnesses and protected challenge, and a rapid popular no-confidence vote whose automatic constitutional clock cannot be delayed beyond political relevance; the optional [*Scherbengericht* variant](#scherbengericht-variant) adds a ten-year country ban without confiscation but remains subject to the separate person-directed-coercion and rights-compatibility gate |
 | One institutional control plane | Separation of functions, bounded jurisdictions, and the [capture-resistant jurisdictional topology](#capture-resistant-jurisdictional-topology) |
 | Common-mode policy failure | [Parallel local SGD](#sgd-and-its-constitutional-variants), heterogeneous implementations, preserved alternatives, and rollback |
 | Metric and scorecard capture | [Sensor triangulation](#sensor-triangulation-and-conflict), preserved discrepancies, and [non-compensable sentinels](#non-compensable-constitutional-sentinels) |
-| Fusion and loss of personal standing | The [concrete person as protected object](#1321-democracy-as-schutzbalken-gegen-die-macht) and the distinct capacities *Speak, Own, Refuse, Exit,* and *Appeal* |
+| Fusion and loss of personal standing | The [concrete person as protected object](#democracy-as-schutzbalken-gegen-die-macht) and the distinct capacities *Speak, Own, Refuse, Exit,* and *Appeal* |
 | External Babelization and inability to organize | [Lifted mechanical solidarity](#lifted-mechanical-solidarity), narrative integration, defensive pluralist culture, protection of legitimate opposition, and—where common adjudication has already failed—the [secession branch rather than imposed settlement](#the-severe-babelization-fork-secession-or-force) |
 | Hidden carrying structures | [Culture Program carrying-structure mapping](#culture-program-carrying-structure) and the [causal intervention test](#carrying-structure-intervention-test) |
-| Covert, unaccountable, correction-resistant, or practically inescapable influence over evaluative and epistemic formation | [Cognitive liberty and epistemic adulthood](0020-epistemic-agency.semantic-definition.md#20-cognitive-liberty-and-epistemic-adulthood), plural trusted routes, reflective inspection, disclosed provenance and jurisdiction, protected formulation, correction, refusal, appeal, and exit |
+| Covert, unaccountable, correction-resistant, or practically inescapable influence over evaluative and epistemic formation | [Cognitive liberty and epistemic adulthood](0020-epistemic-agency.semantic-definition.md#cognitive-liberty-and-epistemic-adulthood), plural trusted routes, reflective inspection, disclosed provenance and jurisdiction, protected formulation, correction, refusal, appeal, and exit |
 | Local capture | Common person-protecting shell, appeal, mobility, succession, comparison, and repair |
 | National or common-shell capture | [Bounded reversed legal priority and soft secession](#soft-secession-and-reversed-legal-priority), distributed failure domains, and surviving alternatives |
 | No material basis for refusal | [Secure Homestead Rate](#own-and-the-secure-homestead-rate) and other effective material centres of independence |
@@ -9667,13 +13211,23 @@ shared installation machinery
 
 branch
 ≠ order level
-≠ propagation form
+≠ person--programme form
+≠ outward propagation and enforcement profile
 ≠ corrigibility
 ≠ jurisdiction
 ≠ Beseelung
 ≠ entrusted power
 ≠ capture susceptibility
 ≠ hazard
+
+carrier topology
+× person--programme form
+× actuation profile
+× outward propagation and enforcement profile
+× animation distribution
+→ ecology-specific operative configuration
+→ a weak average can coexist with a strongly animated high-gain carrier stratum
+≠ church, sect, network, profession, private, ideological, or fundamentalist are synonyms
 
 selected group ontology
 + constitutive pattern-good
@@ -9685,6 +13239,14 @@ selected group ontology
 → may be nested, supplementary, or replacement relative to person-centred Humanism
 ≠ descriptive diversity
 ≠ Pure-Ideology, capture, death-drive, or Willkürherrschaft by definition
+
+[Diversity-dividend laundering]
+visible heterogeneity
++ borrowed reputation of integrative plural knowledge
+- demonstrated independence, competence, translation, shared correction, or synthesis
+→ input represented as if superior output had already occurred
+→ failure may be used to demand more input
+≠ demographic difference or a diversity programme proves laundering
 
 [doctrine-generation pathway received from Mythology Construction]
 installed interpretation and authorization
@@ -9737,6 +13299,15 @@ specified protected principal + demonstrable retained capability
 → option-based deservingness may justify resources and honour
 ≠ guardian identity, self-certified threat, or non-event proves value
 
+[carrying-structure authority and liability]
+production + selection + translation + moral judgment + brokerage + placement
++ public mediation + inner-relation governance + succession
+→ map authority surfaces separately
+benefit and prestige near recommendation + costs borne elsewhere
++ failure does not alter standing
+→ epistemic-liability gap
+≠ concentrated meaning infrastructure proves conspiracy or replacement religion
+
 [optional carrier-field return role]
 credible causal chain + discriminated knowledge, constraint, and contribution
 → protected disclosure, refusal, correction, repair, reform, or exit
@@ -9753,6 +13324,45 @@ cultural self-maintenance and defence
 → transmission + memory + boundary maintenance + repair + adaptation
 → possible adaptive, closed, captured, or autoimmune profile
 ≠ truth, legitimacy, central design, or licence to treat dissent as disease
+
+[receiver and inherited-capacity ecology]
+acute crowd / chronic mass / integration hunger / belief-ground failure
+× decision scale / inherited capability / institutional distance
+→ different susceptibility and reproduction conditions
+≠ one variable called orientation demand
+
+[doctrine--organization co-formation]
+articulation → followers and interpretation → office, livelihood, credential,
+routine, appointment, succession, closure, and compromise
+↺ carrier organization reshapes doctrine and doctrine legitimates organization
+≠ income proves cynicism or sincerity defeats organizational interest
+
+[bounded mechanism ecology]
+real mechanism + specified preconditions + inherited reserves
+→ bounded performance
+disproportionate credit + precondition blindness + non-contracting jurisdiction
+→ candidate governing theology and obstruction competition
+→ apply vital-situation and protector-capture audits
+
+[functional hypertrophy]
+necessary supporting function → self-generated demand + prestige protection
+→ primary-work burden + talent and resource capture + reserve consumption
+→ disappearance + opportunity-cost + recursive-demand + regeneration audits
+≠ occupation label establishes marginal social function
+
+[offspring accountability]
+programme creates, amplifies, prolongs, scales, or prevents correction of harm
+→ attributable contribution to offspring profile
+→ exact counts and multi-actor decomposition remain separate
+≠ benevolent wrapper or causal-story relocation removes consequence responsibility
+
+[nucleation ecology]
+mutual discovery + common knowledge + recurrent coordination
++ resource routing + new-node formation + succession
+→ ecologically consequential nucleus
+reproductive jurisdiction + replacement of losses + incorporation of newcomers
+→ possible regenerative dominance
+≠ reproduction explains founderless ignition
 
 authority under incumbent A
 + program disharmony
@@ -9781,10 +13391,24 @@ attention, access, status, protection, opportunity, or favour
 → cultivation and trust
 → implicit debt
 → routed return favour
-→ recruitment, placement, protection, silence, or apparently local action
+→ recruitment, hierarchical placement, protection, silence, or apparently local action
+→ possible new obligation, recursive succession, and prestige-authority return
 → distributed capacity can expand while participants know only local protocols
 ≠ every favour, grant, introduction, career move, dense network, or shared view
 ≠ one coordinator, Shadow Sovereign, conspiracy, or *Machtpolitik*
+
+[two separately gated evidence routes]
+specific episode: joined benefit → obligation → return record
+system-level profile: benefit ecology + matched recurrent selection/protection trace
+≠ system profile identifies a participant's debt
+≠ one episode establishes a cloud
+
+[adaptive concealment and operational defeaters]
+deniable request + remembered obligation + redundant broker
++ formally independent node + ordinary administrative act
+→ missing ledger or explicit command does not weaken the system-level route
+declared safeguard → consequential exercise → structural independence
+→ defeater weight proportionate to adverse-case performance and actual effect
 
 [optional deliberately directed variant]
 concealed assignment + knowing interface actor
@@ -9887,6 +13511,14 @@ Misesian territorial self-determination
 → project translation: separate jurisdiction without necessarily separating territory
 → soft secession by changing legal priority rather than physical borders
 
+[soft secession as learning architecture]
+preserved alternatives + lower central capture value + clearer consequence
++ internal reintegration + later voluntary borrowing and rebraiding
+→ possible distributed learning and restored interoperability
+≠ smaller units, sorting, or separation guarantee truth, liberty, or improvement
+→ requires rights shell, exit, externality settlement, comparable records,
+  common-scale capacity, and protection against local tyranny
+
 publicly speakable and independently sustained correction
 + withheld reception, answer, adjudication, or uptake
 → correction nullification
@@ -9969,6 +13601,9 @@ metric and baseline custody
 Lifted-Order Capacity Dashboard
 → Speak · Own · Refuse · Exit · Appeal
   · Correct · Cooperate · Build · Choose
+→ Cooperate includes continued interpersonal standing,
+  voluntary association, mutual assistance, and cooperation
+  across explicit cultural-symbolic nonalignment and unresolved nonconvergence
 → candidate diagnosis of person-preserving,
   corrigible, materially capable pluralism
 ≠ definition of lifting
@@ -9981,6 +13616,66 @@ concrete person as legitimate subject
   rights · due process · appeal · divided jurisdiction
   public contest · property · alternatives · succession · exit
 → dashboard sensors
+
+private formulation + public expression + publication + discovery + receipt
++ association + organization + consequential correction + succession
+→ unrestricted oppositional speech as first-line Schutzbalken
+
+organized public criticism
++ practical discovery, association, electoral contest, and possible succession
+→ Minoguean oppositionality: a rival political subject can govern in turn
+≠ permission to utter dissenting words while succession is disabled
+
+no censorship of judgment
++ no immunity from evidenced accusation
++ no character assassination without proof
+→ viewpoint freedom and correction-bearer protection held together
+
+correction threatens authority
+→ proposition left unanswered
+→ unsupported factual or moralized character attack disables the corrector's
+  credibility, standing, access, livelihood, eligibility, or safety
+→ correction-bearer neutralization
+≠ evidenced accountability or harsh criticism of the corrector
+
+nonviolent evidence-bearing correction suppressed, criminalized,
+made undiscoverable, or denied uptake
+→ high-value non-localizing censorship sentinel
+→ correction-system fault strongly indicated
+→ localization + causal diagnosis + scale + attribution remain separate
+→ trigger Ideology / un-reality / un-reason / systemic-lying audit
+≠ an eighth Ideology gate or completed classification
+
+correction threatens authority
+→ prohibition manufactures unlawfulness
+→ produced unlawfulness cited to justify suppression
+→ bootstrap illegality / legality laundering
+≠ positive law independently validates its own censorial operation
+
+already operational un-reality or systemic lying
++ surviving free speech remains correction-effective
+→ guardrail treated as implementation defect
+→ exceptional, discretionary, criminalized, or proxy-administered restriction
+→ Schutzbalken-removal ratchet
+
+adverse correction validly expressed, received, recorded, and counted
+→ threshold / default / timing / agenda / quorum / routing / restart rule
+→ correction converted into continuation or a new authorization opportunity
+→ procedural correction conversion
+≠ accurate counting proves consequential correction
+
+minor rule constraining the objector enforced punctiliously
++ structural safeguard constraining power treated elastically
+→ candidate selective proceduralism
+≠ one time limit plus one good-faith rule disagreement establishes the pattern
+
+candidate control capability selected upstream
+→ anti-terrorism / child protection / safety / another protected object
+   selected downstream as authorization wrapper
+→ control-first moral-wrapper hypothesis
+→ test chronology, capability invariance, narrower alternatives,
+  functional fit, persistence, repurposing, correction, and actor nexus
+≠ the wrapper, breadth, meme, or adverse effect proves pretext or intent
 
 candidate hidden-principal countermeasures
 → universal party-member public-trust covenant
@@ -10060,6 +13755,39 @@ Fraenkelian Normenstaat
 ≠ Normenstaat inside a Doppelstaat is a Rechtsstaat
 ≠ every bounded emergency measure is a Maßnahmenstaat
 ≠ Doppelstaat, Machtpolitik, and Willkürherrschaft are synonyms
+
+recurrent nonoperation of legally due protection against serious predation
++ coercive expansion or selective activation against comparatively harmless,
+  defensive, compliant, or order-bearing persons
++ valid severity inversion
++ functional coupling
++ recurrence despite correction
+→ anarcho-tyranny configuration in a specified jurisdiction and period
+≠ one case, crime pattern, proposal, regulation, poster, or advocacy dossier
+≠ Maßnahmenstaat, Ideology, systemic lying, Machtpolitik, or Willkürherrschaft
+  without the separate gate
+
+normative, docket, procedural, delegation, or capacity saturation
++ activation decisions are more legible than nonactivation
++ responsibility leaks into organizational dark matter
+→ formally universal law can become selectively operative
+≠ organizational dark matter proves a secret actor or deliberate construction
+
+protection failure and disorder
+→ added private vigilance and repair
+→ added rules, procedures, and symbolic reassurance
+→ overload, technical vulnerability, and selective activation
+→ un-real cover and civic-surplus depletion
+→ weakened organized correction
+→ possible anarcho-tyranny ratchet
+≠ inevitable historical law
+
+time + attention + trust + material margin + practical competence
++ associative energy remaining after needs and unavoidable maintenance
+→ civic surplus
+→ ordinary life, play, care, creation, voluntary association,
+  and possible organized correction
+≠ civic duty to spend the surplus politically
 
 Ideological-Power Hazard Diagnostic
 → typed profile of capacity, concentration, answerability, reciprocity,

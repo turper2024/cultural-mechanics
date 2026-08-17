@@ -250,11 +250,12 @@ problem and hazard diagnosis, or normative solution design. Do not make
 acceptance of one layer automatically entail the next or treat the candidate
 pluralist design as the only possible or already proven solution. Then
 keep Culture Strategy versus Pure-Ideology separate from order level,
-private/collective/ideological/fundamentalist form, corrigibility, jurisdiction,
-*Beseelung*, entrusted power, Culture Program capture, capture susceptibility,
-and hazard. Preserve legacy terms before proposing migration, and distinguish a
-program, component, mixed braid, descendant, carrier, institution, population,
-and state response. For capture candidates, separate disagreement, program
+private/collective/ideological/fundamentalist person--programme form, outward
+propagation and enforcement profile, corrigibility, jurisdiction, *Beseelung*,
+entrusted power, Culture Program capture, capture susceptibility, and hazard.
+Preserve legacy terms before proposing migration, and distinguish a program,
+component, mixed braid, descendant, carrier, institution, population, and state
+response. For capture candidates, separate disagreement, program
 disharmony, objective substitution, system-level capture, coordinated-operation
 hypotheses, and actor-specific covert-command attribution; identify the proposed
 response and whether its evidential burden is proportionate. For early-warning
@@ -379,6 +380,15 @@ carriers, mythology, meaning, sacredness, identity, affect, moral formation,
 *Beseelung*, and embodied habits. Ask whether the candidate explains durability,
 coordination, succession, animation, or capture, and whether “skeleton” has been
 confused with the narrower Culture Program carrying structure.
+Where low affective intensity coexists with strong structure, test
+**affective-to-structural load transfer** rather than calling the distributed
+bigOther weak without qualification. Keep affective intensity, slot occupancy,
+jurisdiction, institutional embedding, conduct reliability, reproduction,
+correction, collective-self presentation, and collective agency separate. Look
+for formation, structural sedimentation, range extension, custodial
+concentration, and periodic renewal, while preserving fear, convenience,
+incentive, technical constraint, imposed administration, de-animation, and
+ceremonial persistence as alternatives or boundaries.
 
 For adaptive-constitutional, SGD, scorecard, local-experiment, soft-secession,
 reversed-legal-priority, or foot-voting candidates, preserve the originating
@@ -428,6 +438,41 @@ distinct. Treat elections and other familiar machinery as corrigible
 implementations rather than either the sufficient definition of democracy or
 irrelevant decoration. Test the public protector against the same principle it
 enforces, and distinguish legitimate bounded authority from domination.
+
+For free-speech, censorship, and correction-interface candidates, preserve the
+user's fire-alarm relation: suppression of correction may be a high-value fault
+signal while leaving localization, diagnosis, scale, pathway, and attribution
+open. Do not turn it into an eighth Ideology gate; audit the seven gates and the
+distinct un-reality, un-reason, systemic-lying, *Maßnahmenstaat*, *Willkür*, and
+intent requirements. Preserve Minogue's early censorship move and stronger
+**oppositionality**—organized public criticism able to gather support and govern
+in turn. Preserve the maxim **“No censorship of judgment; no immunity from
+evidenced accusation; no character assassination without proof,”** interpreting
+proof as evidence and claim-status disclosure proportionate to destructive
+certainty, not prior permission or automatic immunity for a corrector. Test
+**correction-bearer neutralization** only where unsupported attack, retaliation,
+or status loss evades the proposition and deprives correction of a practical
+carrier. Distinguish correction nullification from **procedural correction
+conversion**, in which an adverse signal is received and counted but a threshold,
+default, timing, agenda, quorum, routing, expiry, or restart rule converts it into
+no operative defeat. Separate the observed conversion from *Verfahrenstrick*
+attribution. Diagnose **selective proceduralism** only through the two-level
+comparison between rules constraining the objector and rules constraining power,
+including ordinary practice, recurrence, beneficiary, reasons, and review.
+
+For a Chat-control teaching case, retain source roles: Heise as the adopted
+secondary journalistic account; Berg and Sonneborn as interested participant and
+opposition accounts; recorded speech and chronology statements as situated
+evidence; the meme as illustration; and EU primary material as deliberately
+excluded from that bounded application. Preserve the provider-delegated hash/AI
+scanning, possible post-negative-classification retention, urgency and reading
+objections, majority-to-threshold conversion, sixty-second microphone contrast,
+and *Breitschwert* population burden as source-premise claims rather than an
+adjudicated legal or completed regime classification. For the control-first
+moral-wrapper hypothesis, reconstruct chronology and test capability invariance,
+narrower alternatives, functional fit, persistence, repurposing, correction, and
+actor-specific nexus; anti-terrorism and child protection are interchangeable
+packaging in the model, not proof that both historically governed the dossier.
 
 For constitutional-risk, *ideologische Macht*, *Machtpolitik*,
 *Willkürherrschaft*, Cipolla--Bonhoeffer--Normopathie--ponerology, AI
@@ -492,18 +537,43 @@ protocol of access, obligation, reward, and refusal cost. Replace claims of
 “subconscious knowledge” with testable tacit or practical recognition. Use
 *implicit-debt grooming* only for evidenced staged nonsexual cultivation that
 prepares later compliance; otherwise use cultivation, mentorship, networking,
-patronage, or reciprocity. Require evidence for benefit, remembered or
-communicated obligation, consequential withdrawal, routing, benefit or sanction,
-recurrence, and aggregation. Do not infer the cloud from institutional prestige,
-NGO, trust, university, research-institute, media, professional, corporate, or
-public-office affiliation, grants, introductions, career mobility, dense
-networks, agreement, or one costly refusal. Preserve Tom Wolfe's 1987 *The
+patronage, or reciprocity. Preserve the two evidential objects rather than
+lowering one undifferentiated threshold. A specific episode requires a joined
+benefit, remembered or communicated obligation, consequential withdrawal,
+routing, benefit or sanction record. A circumstantially supported system-level
+profile instead requires an evidenced benefit ecology plus recurrent matched
+loyalty-over-competence selection, protected aligned failure, selectively
+burdened correction, cross-node recurrence, and weaker serious rivals; it does
+not identify a particular debt, broker, participant, objective, or command
+centre. Use the two-sided node audit to keep receiving benefits, giving-side
+acts, chronology, actual control surfaces, routing, consequence, recurrence, and
+the strongest competing mechanism separate until a discriminating join is
+supported. Assume a capable ecology prefers deniable requests, oral or socially
+remembered obligations, redundant brokers, formally independent nodes, and
+ordinary administrative acts. Missing written debts, explicit commands, and a
+central ledger therefore do not weaken the system-level route. Give formal
+transparency, nominal pluralism, criticism, review, recusal, appeal, and exit no
+defeater weight until they progress from declared policy through consequential
+exercise to structural independence from the candidate funding, personnel,
+credential, prestige, and dependency ecology. Require each rival explanation to
+make a discriminating prediction rather than treating its label as accumulated
+counterevidence. Review
+scarce high-private-value assistance, repayment through a recipient's existing
+jurisdiction, recursive placement, recursive meritocratic deterioration, and
+prestige laundering as conditional mechanisms or predictions with privacy,
+matched-comparator and actor-attribution gates. Institutional prestige, NGO, trust, university,
+research-institute, media, professional, corporate, or public-office affiliation,
+grants, introductions, career mobility, dense networks, agreement, one costly
+refusal, weak appointments, plagiarism, fraud, retractions, and scandal counts
+enter the audit but do not alone resolve its evidential object.
+Preserve Tom Wolfe's 1987 *The
 Bonfire of the Vanities*, “The Favor Bank,” as the literary
 deposit--withdrawal source; preserve Mike Benz's later “human index of IOUs,”
 career-return, outside-organization, and fixer account as his media
 interpretation. The cloud-computing mapping, implicit-debt sequence, routability,
-and Inner-Party-function relation are project developments, and neither source
-verifies any named application. Preserve British indirect
+two-route evidence architecture, audit surfaces, hierarchical and prestige
+mechanisms, and Inner-Party-function relation are project developments, and
+neither source verifies any named application. Preserve British indirect
 rule, British-occupied Egypt, the French protectorates in Tunisia and Morocco,
 Manchukuo, and Vichy France as graded source analogues for partitioned
 sovereignty and local administration, not as interchangeable cases or automatic

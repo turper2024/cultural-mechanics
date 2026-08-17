@@ -75,7 +75,9 @@ The term *mechanics* expresses a specific ambition. Culture mechanics does not s
 
 Culture mechanics therefore treats culture not merely as a collection of customs or beliefs, but as an operative system with inputs, internal state, evaluative rules, affective outputs, communication channels, feedback loops, and institutional memory. This entry begins with the individual source and coupling interface. The emergent field and its back-action upon epistemic judgment are developed in [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md).
 
-### 2. Homo duplex: the dual-processing human
+<a id="homo-duplex-the-dual-processing-human"></a>
+
+### 2. Homo duplex: the dual-processing human {#homo-duplex-the-dual-processing-human}
 
 The model calls the human being **homo duplex** because human conduct results from the interaction of two functionally different processing units.
 
@@ -211,7 +213,9 @@ decide whether God exists independently of that implementation. Culture Mechanic
 can examine the representation, experience, and social enactment while leaving
 the theological or metaphysical referent open.
 
-#### Shared symbolic protocol
+<a id="shared-symbolic-protocol"></a>
+
+#### Shared symbolic protocol {#shared-symbolic-protocol}
 
 The spelling **bigOther** marks a deliberate adaptation of [Jacques Lacan's *big
 Other*](https://www.seuil.com/ouvrage/le-seminaire-livre-xvii-jacques-lacan/9782020130448),
@@ -293,7 +297,9 @@ proposition constant; test whether affective reversal precedes or follows
 doctrinal revision; and compare people who avow the same reason but display
 different classifications.
 
-### 5. The single-slot principle
+<a id="the-single-slot-principle"></a>
+
+### 5. The single-slot principle {#the-single-slot-principle}
 
 Culture mechanics proposes that the bigOther occupies the equivalent of a
 computer's **single PCI slot**. There is one slot, one installed local bigOther,
@@ -322,7 +328,7 @@ redirected until they install or reproduce an incompatible successor. A healthy
 lifted meta-order and a closed first-order program can each be full captures
 without either having captured a predecessor in that ecological sense. The
 successor-displacement construct and its evidence protocol are defined in
-[*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#112-culture-program-capture).
+[*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#culture-program-capture).
 
 Four axes must therefore remain distinct: **slot occupancy** (full), **order
 level** (shared outputs or shared generator), **jurisdiction** (what the installed
@@ -443,7 +449,7 @@ read the book.
 > operative and alive.**
 
 The full semantic anatomy and its boundaries belong to [*Culture Program
-Ecology*](0060-culture-program-ecology.semantic-definition.md#137-systemic-skeleton-and-living-cultural-body).
+Ecology*](0060-culture-program-ecology.semantic-definition.md#systemic-skeleton-and-living-cultural-body).
 
 Culture mechanics adopts the following terminological hierarchy:
 
@@ -633,7 +639,7 @@ its definition; in both cases the one slot remains fully occupied.
 
 Systems Leadership adds an important qualification: explicit stories are not the only influences on the lens. The conduct of leaders, the design of systems, the use of symbols, institutional rewards and sanctions, and repeated experiences of belonging, success, humiliation, or exclusion can confirm or contradict the lessons conveyed by a mythology. These experiences may themselves later be narrated as new mythologies.
 
-[*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#137-systemic-skeleton-and-living-cultural-body)
+[*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#systemic-skeleton-and-living-cultural-body)
 formalizes the resulting implementation anatomy as a **systemic skeleton** joined
 to a **living cultural body**. Rules, offices, jurisdictions, incentives,
 feedback, accounting, correction, and succession make the program repeatable;
@@ -680,7 +686,9 @@ Culture mechanics distinguishes several operations that are easily confused:
 | **Reprogramming** | Usually slow | Modifies the operative weave. Compatible change can extend or repair it; incompatible replacement requires sufficient unbraiding of the incumbent and rebraiding of one successor lens. |
 | **Unbraiding and rebraiding** | Usually slow and conflictual | Loosens load-bearing bindings, preserves or detaches selected strands, crosses a potentially unstable interval, and installs one successor weave rather than a parallel evaluator. |
 
-#### Situated cultural scripts: executable local braids
+<a id="situated-cultural-scripts-executable-local-braids"></a>
+
+#### Situated cultural scripts: executable local braids {#situated-cultural-scripts-executable-local-braids}
 
 A **situated cultural script** is a distributed, role-, institution-, or
 situation-indexed braid that translates selected meanings, classifications,
@@ -745,6 +753,60 @@ conditions. Viability is not truth, legitimacy, flourishing, corrigibility,
 *Beseelung*, or moral goodness. A false or oppressive script can remain highly
 viable, while a worthy script can fail for lack of skill, infrastructure,
 resources, institutional support, or workable interfaces.
+
+<a id="domain-transfer-failure"></a>
+
+##### Domain-transfer failure {#domain-transfer-failure}
+
+**Status:** project-developed competence-and-script transfer mechanism
+
+**Domain-transfer failure** occurs when genuine competence, a viable script, or a
+reliable practice from a source environment is carried into a target environment
+and acted upon as though its load-bearing regularities remained valid, although a
+change in scale, counterpart, opponent, institution, interface, resource
+structure, feedback, time horizon, or constraint has invalidated that transfer.
+
+```text
+demonstrated competence or viable script in environment A
++ untested assumption that A's load-bearing regularities persist
++ consequential enactment in materially different environment B
++ collision with a changed causal, institutional, or adversarial structure
+→ domain-transfer failure
+```
+
+Past success and surface similarity establish a transfer hypothesis, not its
+validity. Before discriminating consequence, the configuration is a
+**domain-transfer risk**. The stronger failure classification requires evidence
+that the changed condition mattered to the result and that the imported
+competence, script, or practice was not adequately adapted. A failed attempt in a
+new setting may instead reflect ordinary noise, bad execution, insufficient
+resources, an unrelated bottleneck, or a locally valid experiment whose expected
+risk was properly bounded.
+
+The audit identifies:
+
+- what competence or script was genuinely demonstrated and under which source
+  conditions;
+- which regularities were assumed to transfer and which were independently
+  tested;
+- what changed in scale, counterpart, opposition, technology, interfaces,
+  resources, incentives, feedback, or consequence;
+- whether early anomalies changed the model and practice or were interpreted
+  through the source environment's expectations; and
+- whether a locally adapted comparator performs differently under the same
+  target conditions.
+
+Domain-transfer failure is not
+[prominence-derived apparent competence](0020-epistemic-agency.semantic-definition.md#professional-idea-mediation-and-apparent-competence):
+the source competence may be entirely real. It is not identical to script
+unraveling, although a badly transferred or no-longer-adapted script can unravel
+after repeated collision. [Moral-scale
+transposition](0040-mythology-construction.semantic-definition.md#moral-scale-transposition)
+is a narrower relational subtype in which a moral grammar crosses a scale and
+knowledge topology without the conditions that made it responsible there.
+Domain-transfer failure can be sincere, negligent, overconfident, institutionally
+selected, or deliberately exploited; the morphology alone establishes none of
+those explanations or any person-level guilt.
 
 **Script unraveling** is the process by which a situated script loses coherence or
 viability: inherited meanings cease to guide workable conduct, practical
@@ -906,6 +968,16 @@ the independent degree to which the resulting program is affectively alive and
 conduct-directing, not a separate decoding faculty or necessarily a conscious
 willingness.
 
+This activation capacity has a developmental precondition. The token can call an
+installed complex only where prior formation has built enough recipient-side
+conceptual, causal, evaluative, and practical structure to expand it. [Operation-bootstrapped codebook
+formation](0020-epistemic-agency.semantic-definition.md#operation-bootstrapped-codebook-formation)
+names the recurrent experience, example, questioning, contrast, practice, and
+correction through which that capacity is locally reconstructed and socially
+calibrated. The codebook is distributed analytical shorthand for ordinary
+cognition, the installed mythological lens, local-bigOther classification, and
+the shared symbolic protocol, not another processor.
+
 Activation and replacement must therefore not be confused. A signal can activate
 or reinforce material already compatible with the installed lens. It cannot by
 itself make an incompatible governing program co-occupy the slot. Such capture
@@ -991,7 +1063,9 @@ processes across analytical levels. The canonical program terminology, its
 reality-answerability branches, and its ecology are defined in
 [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md).
 
-#### What the theory is disentangling
+<a id="what-the-theory-is-disentangling"></a>
+
+#### What the theory is disentangling {#what-the-theory-is-disentangling}
 
 Ordinary vocabulary often uses *religion*, *ideology*, *culture*, *collective
 consciousness*, *big Other*, or *group mind* as near-synonyms. Culture mechanics
@@ -1015,13 +1089,16 @@ field, and agent:
 | **Pluralist adaptive constitutional search** | Proposed application in which a common person-protecting shell contains bounded policy variation, plural sensors, correction, lawful movement, imitation, and succession without granting one metric or institution root access to reality. Its epistemic architecture belongs to *Epistemic Constitution* and its concrete pluralist design to *Culture Program Ecology*. |
 | **Lifted-Order Capacity Dashboard** | Proposed *Culture Program Ecology* sensor suite—Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, and Choose—for testing a pluralist Culture Strategy. It is neither the definition of lifted solidarity nor a scalar social good. |
 | **Projective-vandalism circuit** | Observable sequence in which a disowned blemish is projected onto an opponent, a taboo label makes the target symbolically attackable, and repeated denunciation may become affectively rewarding. Its linguistic home is *Linguistic Tricks* and its motivational hypothesis belongs to *Mythology Construction*. |
-| **Theoretical *un-* operator** | Restricted project construction in which X's recognizable machinery and authority-position remain while a non-X governing principle redirects operation. It is not the ordinary meaning of every *un-* word and requires retained form, claimed authority, normal and substituted governors, observable inversion, and a defeat condition. Its primary semantic home is *Epistemic Constitution*. |
+| **Theoretical *un-* family** | Restricted project family for internal deformation of X beyond simple absence or external opposition. It is not the ordinary meaning of every *un-* word; its primary semantic home is *Epistemic Constitution*. |
+| **Constitutive-relation inversion** | Direct theoretical *un-* morphology in which X's characteristic operation remains active while an output, commitment, or authorized representation controls the inputs or correctors to which it should answer. It needs a specified relational instance but not one bounded institution; un-reason is its inferential-mechanism application and un-reality its socially operative state application. Its primary semantic home is *Epistemic Constitution*. |
+| **Pseudomorphic governor substitution** | Thicker bearer-level theoretical *un-* morphology in which a durable role, practice, procedure, office, profession, organization, or institution retains recognizable X-form, machinery, and authority while an incompatible principle governs consequential choice, correction, and reproduction or succession. A person can instantiate it only through a specified role and period; it is not a whole-person essence. The process yields a functional pseudomorph of X; its primary semantic home is *Epistemic Constitution*. |
 | **Linguistic trick and instrumental untruthfulness** | A linguistic trick is a possible local communicative operation; instrumental untruthfulness is the separate orientation that selects or preserves communication for operative effect while truth-supporting conditions become subordinate. Trick form, operative trick, deliberate trick, actor attribution, and institutional attribution remain distinct. Their primary semantic home is *Linguistic Tricks*. |
 | **Distributed carrier sequence** | Possible cross-scale pathway from originator or selector through carrier and recipient reconstruction into possible un-reason, un-reality, organized un-reality, and systemic reproduction. Different people, roles, and institutions can occupy different functions; intent and guilt do not propagate with the message, no conspiracy follows, and every arrow requires separate evidence. *Linguistic Tricks* owns the communicative front end; *Epistemic Constitution* owns the complete sequence. |
 | **Latent Culture Program profile, contrastive correction-interface probe, and Culture Program fingerprint** | A latent profile is a bounded conditional reconstruction of classifications, sacred values, authorities, affective activations, correction relations, and action tendencies likely to become operative under specified conditions. The proposed probe first establishes comprehension of a disclosed causal form through relatively uncharged cases, then tests whether correction practice changes selectively across differently culture-loaded implementations. The fingerprint is the typed multi-case distribution of those discontinuities across neutral and several program-loaded cases; selective A-linked recurrence can raise the likelihood of A's installation or load-bearing status, while capture requires further evidence of displaced correction or authorship. *Epistemic Agency* owns the diagnostic; one discontinuity, emotional response, or naturalistic example does not establish an Ideology, Culture Program, radicalized person, or danger. |
 | **Guided unbraiding and possible de-radicalization** | Guided unbraiding is the hypothetical, consensual and bounded process of making an individualized cultural-affective braid observable, loosening selected automatic couplings, and restoring correction and reflective authorship without installing the guide's replacement program. Possible de-radicalization is the broader aspirational outcome only where radicalizing capture is independently established. MCIP is one candidate method; neither the diagnostic nor unbraiding is violence-risk assessment, forced conversion, established treatment, or proof of efficacy. *Epistemic Agency* owns the complete proposal and its directional-symmetry, research, safeguard, and falsification conditions. |
-| **Un-reason** | Proposed cross-scale mechanism in which reasoning retains its machinery and authority-claim while conclusion-protection displaces truth-correction as governor. It is not a third constitutional orientation, a synonym for irrationality, or a classification of a population; its primary semantic home is *Epistemic Constitution*. |
-| **Un-reality, organized un-reality, and correction nullification** | An authorized representation retains operative public reality-status despite failed independent correction; organized un-reality is the fitted multi-channel stock built around one or more such representations. After disclosure, correction nullification prevents an independently sustained correction from changing operation. Un-reason can block correction one epistemic level earlier. Their primary semantic home is *Epistemic Constitution*. |
+| **Un-reason** | Proposed cross-scale mechanism and direct constitutive-relation inversion in which reasoning remains active while a protected conclusion governs the evidence and correction to which it should answer. It is not a third constitutional orientation, a synonym for irrationality, a PGS diagnosis by itself, or a classification of a population; its primary semantic home is *Epistemic Constitution*. |
+| **Un-reality, organized un-reality, and correction nullification** | Un-reality is the constitutive-relation-inversion state in which an authorized representation retains operative public reality-status while governing how independent correction may count. It does not require one bounded institution. Organized un-reality is the fitted multi-channel stock built around one or more such representations; after disclosure, correction nullification prevents an independently sustained correction from changing operation. Un-reason can block correction one epistemic level earlier. Their primary semantic home is *Epistemic Constitution*. |
+| **Moralized observation-to-mandate loop** | A protected concern recruits a virtuous observer or reporter role; submissions become custodied records; semantic upgrading and amplification convert the records into a public-problem claim; the claim authorizes an intervention; and the intervention can enlarge the observation or enforcement surface. *Mythology Construction* owns the role grammar, *Epistemic Constitution* the report-to-reality and feedback failures, *Epistemic Agency* the citizen-sensor and internal-observer consequences, and *Culture Program Ecology* the institutional audit and worked example. The loop alone establishes neither fabrication, pretext, Ideology, nor systemic lying. |
 | **Systemic-lying epistemic constitution** | Constitutional meta-order that recurrently generates, selects, authorizes, protects, and replaces organized un-reality because independent truth has been subordinated to usefulness, loyalty, control, or authority. It is not the sum of conscious individual lies. Its primary semantic home is *Epistemic Constitution*. |
 | **Auxiliary-un-reality explaining-away cascade** | A reality collision threatening operative un-reality U0 elicits an authorized auxiliary causal account U1 that explains the correction away, protects U0, and may acquire classifications and consequences of its own. It becomes counterfeit Bayesian updating only where authorization, identity fit, or programme utility substitutes for independent support while U1 is protected from reciprocal defeat. Its primary semantic home is *Epistemic Constitution*. |
 | **Trusted-carrier correction lock** | High-gain trusted-opinion-leader-function positions remain sufficiently aligned to deny a public correction distributed credibility, reception, or operative force despite growing ordinary dissent. It is a possible receiving-field implementation of correction nullification, not proof of falsehood, coordination, capture, or Shadow-Sovereign rule; its primary semantic home is *Epistemic Agency*. |
@@ -1046,7 +1123,7 @@ private--collective--ideological--fundamentalist taxonomy below. The expression
 **ideological-form program** names that third configuration when the senses might
 otherwise be confused.
 
-#### Disagreement, mythological rivalry, and ideological-form conflict
+#### Disagreement, mythological rivalry, and cultural-program conflict
 
 The broad adjective *ideological* must not turn every disagreement into one
 undifferentiated “ideological conflict.” Culture mechanics distinguishes the
@@ -1060,8 +1137,8 @@ object and intensity of conflict:
 | **Mythological rivalry** | Informal or decentralized competition among meaning systems, including lifestyles, religions, political outlooks, and institutional cultures. |
 | **Mythological conflict** | Active interference with a rival mythology's transmission, authority, membership, or institutional embodiment. |
 | **Cultural-program conflict** | Competition between incompatible governing programs or operative lenses, especially where single-slot replacement is at stake. |
-| **Ideological-form conflict** | Organized recruitment, formation, conformity testing, delegitimation, and interference with a rival program's reproduction. |
-| **Fundamentalist-form conflict** | Ideological-form conflict in which expansion, retention, punishment, expulsion, or elimination authorizes or uses physical coercion or violence. |
+| **Propagative conflict** | Organized recruitment, formation, conformity testing, delegitimation, or interference with a rival programme's reproduction. |
+| **Coercive conflict** | Conflict in which expansion, retention, punishment, expulsion, elimination, or another objective authorizes or uses physical coercion or violence. |
 
 > **Rivalry becomes conflict when participants begin actively interfering with the
 > rival mythology's transmission, authority, membership, or institutional
@@ -1079,13 +1156,26 @@ Kenneth Minogue calls the organized struggle **ideological conflict**. In the
 preface to the second edition, dated January 2006 (p. xvi), of [*Alien Powers: The Pure Theory of
 Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf),
 he argues that an initial move is to disable opposition, ideally by censorship.
-In Culture Mechanics terminology, this maps most directly to
-**ideological-form conflict**, and to **fundamentalist-form conflict** when
-physical coercion or violence becomes the means of expansion or retention.
+In Culture Mechanics terminology, this maps most directly to **propagative
+conflict** and **rival-signal suppression**, and to **coercive conflict** where
+physical force or violence becomes an evidenced means.
 Minogue's narrower, mobilizing, conflict-centered conception is now formalized as
 the **Minogue-ideology** subtype. It must not be silently equated with either the
 generalized Ideology classifier or the broad religion-inclusive adjective
 *ideological* used in this document.
+
+Earlier project formulations called the last two outward operations
+**ideological-form conflict** and **fundamentalist-form conflict**.
+Those names are deprecated because they allowed propagation or violence to stand
+in for the inward person--programme relation.
+If that relation matters, report it independently: an ideological-form carrier
+lives the programme as a mission, while a fundamentalist-form carrier presents
+themselves as an instrument of its sovereign Will.
+Either relation can occur without violence, and coercive conflict can be executed
+by inwardly detached functionaries.
+Propagative and coercive conflict can overlap, but neither entails the other:
+organized propagation can remain nonviolent, while physical coercion can defend
+an incumbent order without seeking recruits.
 
 Call censorship or channel exclusion **rival-signal suppression** when it obstructs
 a competing mythology's signals, and **counter-program suppression** when it
@@ -1250,7 +1340,9 @@ signal**, **compulsory membership signal**, or **public loyalty marker** is then
 more precise. No unvalidated checklist or numerical threshold should be presented
 as a CRED measure.
 
-#### *Beseelung* and four propagation and enforcement forms
+<a id="beseelung-and-four-propagation-and-enforcement-forms"></a>
+
+#### *Beseelung* and four person--programme forms {#beseelung-and-four-propagation-and-enforcement-forms}
 
 The originating **dead--alive** analogy distinguishes information that is merely
 known from programming that animates conduct. A relatively dead rule resembles
@@ -1261,11 +1353,241 @@ betrayal. The German ***beseelt***--literally, in a poetic translation,
 *stored*.
 
 **Beseelung is an independent axis.** It concerns how affectively alive and
-conduct-directing a program is, not how widely it recruits or how aggressively it
-enforces. A private dietary or yoga practice can be intensely alive. A football
-crowd can synchronize powerfully without seeking converts. A perfectly conforming
-functionary can privately believe nothing, and a fundamentalist system can be
-enforced by cynical officials.
+conduct-directing a program is, not where the programme stands in relation to the
+person, how widely it recruits, or how aggressively it enforces. A bounded
+private-form practice can be intensely alive. A football crowd can synchronize
+powerfully without seeking converts. A perfectly conforming functionary can
+privately believe nothing, and a fundamentalist programme can transmit its
+effects through cynical officials.
+
+An impersonal lifted order makes the independence of this axis especially clear.
+It can be comparatively cool or only weakly *beseelt* while fully occupying the
+local slot, governing a broad jurisdiction, receiving strong institutional
+support, and reliably directing conduct through professional duty, contract,
+office, law, and conscience. Conversely, intense *Beseelung* need not bring broad
+jurisdiction, institutional strength, or collective agency. Low affective
+animation therefore does not by itself establish incomplete slot occupancy, a
+weak distributed bigOther, narrow authority, or absence of durable cultural
+reproduction.
+
+<a id="beseelung-actuation-profile-and-person-programme-relation"></a>
+
+##### *Beseelung* actuation profile and person--programme relation {#beseelung-actuation-profile-and-person-programme-relation}
+
+*Beseelung* intensity answers how alive and conduct-directing a programme is.
+An **actuation profile** asks through which affects and motives that animation
+becomes effective: pressure, duty, aspiration, belonging, love, gratitude,
+grievance, fear, shame, joy, play, hope, or another evidenced route.
+Two programmes can be equally intense while moving persons through very
+different profiles, and one programme can change profile without losing its
+operative identity.
+
+The **person--programme relation** asks what the programme becomes for the
+person.
+It may be a bounded enrichment of life, a shared belonging, an answerable
+mission, an inherited obligation, an identity centre, or an authority that
+increasingly treats the person as its instrument.
+The private, collective, ideological, and fundamentalist forms defined below are
+ideal-type positions on this inward relation and its allocation of principal
+standing between person and programme.
+They are not identical to the separately observable outward propagation and
+enforcement profile.
+A programme practised alone can occupy an ideological or fundamentalist
+person--programme form, while an institution can execute coercive rules through
+inwardly detached functionaries.
+
+[Henri Bergson's *The Two Sources of Morality and
+Religion*](https://archive.org/details/in.ernet.dli.2015.191246) supplies the
+important precursor distinction between mutually reinforcing obligation pressure
+and morally expansive aspiration, together with *fabulation* as an
+action-supporting representation.
+Culture Mechanics generalizes the comparison into a multi-route actuation
+profile rather than identifying its complete taxonomy with Bergson's closed and
+open sources.
+His two-source distinction also supplies a non-reductionist warning: morally
+expansive aspiration is not merely closed group pressure enlarged to a wider
+population.
+Conversely, a closed group, nation, or empire can borrow the symbols and
+universal language of open morality while continuing to serve cohesion,
+exclusion, or domination; claimed universality therefore does not identify the
+operative actuation source or beneficiary.
+The existing Kant--Rand and Child-at-Play contrasts supply project examples of
+duty-heavy and aspiration-heavy configurations; they do not imply that either
+author or every programme has only one actuation route.
+
+<a id="obligation-accumulation"></a>
+
+###### Obligation accumulation {#obligation-accumulation}
+
+A conduct-directing **obligation accumulation** can arise when many individually
+weak expectations support one another until their combined output appears as an
+unqualified “one must.”
+
+```text
+habit + role expectation + anticipated judgment + reciprocal expectation
++ institutional rule + inherited usage
+→ mutually reinforced obligation
+→ apparently self-evident “one must”
+```
+
+No single component need be sufficient, centrally designed, explicitly believed,
+or consciously rehearsed.
+The combined result can support valuable reliability, ordinary coordination, or
+oppressive conformity.
+Its presence establishes neither truth nor pathology; the audit asks which
+expectations contribute, what conduct they enable or prevent, whether the person
+can identify and contest them, and what occurs after refusal.
+
+<a id="affective-to-structural-load-transfer"></a>
+
+##### Affective-to-structural load transfer {#affective-to-structural-load-transfer}
+
+**Status:** Project-developed mechanism from the originating author's proposal
+that a strong institutional skeleton can take over part of the conduct-directing
+load otherwise borne by flesh-and-blood affective intensity.
+
+**Affective-to-structural load transfer** is the proposed mechanism by which an
+operative Culture Program becomes less dependent upon intense affective
+activation in every carrier because habits, roles, procedures, incentives,
+sanctions, records, formation, interfaces, audit, and succession make its
+classifications repeatable across persons, situations, and time.
+
+> **Institutions can convert affective intensity into structural persistence and
+> range: the norm becomes less intensely felt at each node while becoming more
+> reliably reproduced across the system.**
+
+The term *convert* names a functional shift in where the conduct-directing load is
+carried. It does not mean that affect is a conserved substance which literally
+moves into a building, rulebook, database, or office. The characteristic sequence
+is:
+
+```text
+intense personal conviction
+→ repeated practice and professional habit
+→ institutionalized rule, role, procedure, and expectation
+→ broad, quiet, reliable compliance
+```
+
+Several routes can contribute:
+
+- **Affective substitution:** procedures, habits, incentives, sanctions, and
+  technical constraints reduce how much fresh affective activation each act
+  requires.
+- **Structural sedimentation:** earlier moral investment becomes embodied in
+  professional traditions, routines, records, institutions, and succession
+  practices. This may be called *affective storage* in shorthand, but the
+  institution stores a reproducible form and history rather than affect itself.
+- **Range extension:** standardized roles and interfaces transmit a comparatively
+  quiet norm across strangers, organizations, generations, and territories.
+- **Affective concentration:** most participants comply coolly while teachers,
+  judges, auditors, custodians, exemplars, or professional bodies carry stronger
+  commitment and maintain the reproduction machinery.
+- **Periodic reanimation:** initiation, ceremony, exemplary cases, public failure,
+  scandal, crisis, or deliberate renewal can restore affective salience when
+  routine structural support becomes insufficient.
+
+<a id="ambient-and-activation-conditioned-coupling"></a>
+
+###### Ambient and activation-conditioned coupling {#ambient-and-activation-conditioned-coupling}
+
+A further consequence is that visible alignment under ordinary conditions and
+realized coordination under activation are not the same quantity:
+
+> **A society’s visible affective alignment is a poor measure of its latent
+> collective capacity. Institutions can store coupling in roles, interfaces,
+> infrastructure and command relations, allowing an apparently loose society to
+> become a highly coherent machine when activated.**
+
+Here *store coupling* is controlled shorthand for preserving a reproducible
+capacity for coordinated action. It does not mean literal storage of affect,
+agreement, agency, or collective intention, and *machine* describes the resulting
+coordination morphology rather than turning persons into components without
+judgment or standing.
+
+For analysis, distinguish three measures:
+
+- **Ambient affective coupling:** the alignment visible in ordinary feeling,
+  public enthusiasm, ritual synchrony, declared belief, and everyday interaction.
+- **Latent structural coupling:** the still-available capacity carried by fitted
+  roles, interoperable standards, records, infrastructure, resource-routing
+  systems, command relations, and learned expectations before a demanding common
+  task activates them.
+- **Activation-conditioned coupling:** the coordination actually realized when a
+  trigger, objective, authorization, resource flow, and command or mission relation
+  recruit that standing structure into action.
+
+The characteristic activation path is:
+
+```text
+low everyday affective synchrony
++ differentiated specialization
++ standardized interfaces
++ routable administrative, logistical, and industrial infrastructure
++ effective activation signal, objective, and command relations
+→ rapid coherent mobilization across otherwise diverse agents
+```
+
+Population records and qualifications can route persons into roles; taxation,
+credit, and budgets can route resources into procurement; transport and logistics
+can move material; firms and technical standards can make outputs interoperable;
+professions can supply differentiated specialists; and communication and mission
+relations can align decentralized local judgment with a common objective. War is
+an extreme activation case, but disaster response, infrastructure repair,
+large-scale production, and scientific or technical programmes can expose the same
+architecture. Affective enthusiasm may ignite, legitimate, or sustain the effort,
+but it does not substitute for the transmission machinery. An order can therefore
+be weakly synchronized in everyday life yet strongly mobilizable.
+
+Latent capacity should not be inferred from an organizational chart or nominal
+command chain alone. It becomes evidenced when activation or a claim-matched
+challenge makes resources traverse real interfaces, interoperable roles produce a
+coherent result, local judgment handles novel cases without losing the objective,
+feedback changes the course, and repair or succession preserves the function.
+Failure at those boundaries can reveal a paper skeleton, bottleneck, common-mode
+dependency, or brittle command system despite impressive formal structure.
+
+This capacity is direction-neutral. The same structural carrier can organize care,
+production, rescue, repression, or industrial destruction; the operative objective
+and governor determine what its capacity serves. A successor governor may inherit
+and redirect the machinery, but mobilization capacity alone establishes neither
+legitimacy, capture, pseudomorphic governor substitution, nor an operative
+multi-mind-self.
+
+A quiet professional conviction that “one simply does not falsify the result”
+may therefore be weakly *beseelt* but institutionally decisive. Professional
+formation, peer expectation, auditability, replication, career consequence, and
+institutional memory can make the classification reliable without sacred
+intensity, collective-self presentation, or an operative multi-mind-self.
+
+The dimensions must remain separate:
+
+```text
+low affective intensity
+≠ incomplete slot occupancy
+≠ narrow jurisdiction
+≠ weak institutional embedding
+≠ low latent structural coupling
+≠ low activation-conditioned coordination
+≠ low conduct reliability
+≠ weak reproduction
+≠ collective-self presentation
+≠ absence or presence of an operative multi-mind-self
+```
+
+Avoid the unqualified expression **weak distributed bigOther**. Specify whether
+the alleged weakness concerns affective gain, field coherence, institutional
+embedding, jurisdictional reach, conduct reliability, reproduction, correction,
+collective-self presentation, or collective agency.
+
+The mechanism is neither automatic nor irreversible. A static combination of
+cool affect and strong compliance may instead result from fear, convenience,
+material incentive, technical constraint, or externally imposed administration;
+historical load transfer requires evidence of formation, sedimentation, and
+changed dependence upon local activation. A skeleton can carry and distribute
+part of the load, but it cannot indefinitely replace living interpretation,
+judgment, correction, and renewal. If those relations disappear, structural
+persistence may decay, become brittle in unanticipated cases, preserve merely
+ceremonial compliance, or provide machinery for a successor governor.
 
 When a programme contains an agent-model, ***agentified Beseelung*** can make that
 agent sufficiently present within local evaluation that the person begins to
@@ -1298,30 +1620,46 @@ the nested quantum, laser, magnetism, weak-field gravity, and contemporary-witne
 pictures.
 
 The private--collective--ideological--fundamentalist distinction classifies
-dominant **propagation and enforcement configurations**, not different kinds of
-bigOther and not a necessary sequence through which every program passes:
+dominant **person--programme forms**, not different kinds of bigOther and not a
+necessary sequence through which every program passes.
+Its inner spine is a change in what the programme becomes for the person and in
+who increasingly serves whom:
 
-| Form | Characteristic propagation | Typical symbolic function | Treatment of nonparticipation |
+```text
+private:        programme as bounded enrichment
+collective:     programme as shared belonging
+ideological:    programme as mission
+fundamentalist: programme as sovereign Will
+
+person uses programme
+→ persons inhabit programme together
+→ person serves programme
+→ programme uses person
+```
+
+| Form | Lived relation | Relation to rivals and nonparticipants | Typical outward expression |
 |---|---|---|---|
-| **Private** | Self-selection and personal discovery | Self-cue, personal commitment, optional recognition | Normally irrelevant to outsiders; private relational boundaries may still be strong |
-| **Collective** | Attraction, affiliation, and display of the pleasures of belonging | Membership, shared enjoyment, ritual synchronization, advertisement of the community | Usually tolerated, although reputation and coordinated ostracism become possible |
-| **Ideological form** | Active recruitment, education, and formation in the “correct” way of being | Public conformity, loyalty tests, mission, and apparent unanimity | Moral, social, educational, or institutional pressure |
-| **Fundamentalist** | Militant expansion, retention, or defence | Mobilization, enemy marking, surveillance, and demonstrations of irreversible commitment | Authorization or willingness to use physical coercion or violence to convert, retain, punish, expel, or eliminate |
+| **Private** | “This enriches my life.” The programme remains an ingredient within a larger life. | Alternatives need not threaten it. | Personal discovery, self-cue, optional recognition, and little demand upon outsiders. |
+| **Collective** | “This is something valuable that we share.” The programme supplies belonging, ritual, and mutual recognition. | Other communities can ordinarily coexist. | Attraction, affiliation, mutual reinforcement, and visible enjoyment of membership. |
+| **Ideological form** | “This is the right way, and others should be brought into it.” The carrier acquires a mission. | Alternatives increasingly appear as error, injustice, false consciousness, or obstacles. | Recruitment, education, formation, conformity pressure, and institutional propagation. |
+| **Fundamentalist form** | “The programme's ultimate Other acts through me.” The carrier becomes an execution surface for a supposedly known sovereign Will. | Rival allegiance can become betrayal, pollution, or evil; personal judgment loses standing against the programme. | Mobilization, sacrifice, enemy marking, surveillance, coercion, punishment, expulsion, or elimination can become authorized. |
 
 **Vivid ideal-type examples:**
 
-- In the **private form**, consider a dietary or yoga practice found and adopted on
-  one's own initiative. Communities of practice may exist, but the program does not
-  strongly recruit outsiders.
+- In the **private form**, consider a dietary or yoga practice adopted as one
+  valued ingredient of a larger life. It may be intensely loved while remaining
+  bounded and leaving alternative lives legitimate.
 - In the **collective form**, consider football-club or pop-star fandom. It attracts
   through advertising, spectacle, and the visible pleasures of belonging rather
   than demanding conversion.
 - In the **ideological form**, consider a proselytizing religion or a political
   movement such as Marxism. Mission, education, cadre formation, or comparable
   training forms members in the “correct” way of being.
-- In the **fundamentalist form**, consider a militant religious or political
-  movement willing to use bodily force to convert or retain members, punish
-  refusal, expel opponents, or eliminate rivals.
+- In the **fundamentalist form**, the programme is encountered as an agentified
+  God, History, Destiny, Nation, People, or Cause whose supposedly unambiguous
+  Will acts through the carrier. Bodily force may follow, but direct possession
+  of the Other's Will and displacement of answerable authorship are the deeper
+  relation.
 
 These examples make the forms concrete; they do not establish that every instance
 belongs wholly to one form. Whole
@@ -1333,9 +1671,21 @@ The taxonomy is a project-developed synthesis, not a classification attributed t
 [Susan Blackmore's account of memes and
 temes](https://www.ted.com/talks/susan_blackmore_memes_and_temes). Her replicator
 account supplies a neighbouring way to think about copied cultural information;
-the four forms classify the propagation and enforcement configurations in which a
-program is reproduced. Their variability illustrates the originating software
-analogy: programs are flexible--that is the force of *soft* in *software*.
+the four forms classify a programme's relation to its human carriers and rivals.
+Their variability illustrates the originating software analogy: programs are
+flexible--that is the force of *soft* in *software*.
+
+The separately observable **outward propagation and enforcement profile** asks
+how adherence is produced and how nonparticipation is treated.
+Its recurrent operations include personal discovery, attraction and affiliation,
+active recruitment and formation, retention pressure, institutional propagation,
+and coercive or violent enforcement.
+These operations can support inference about the inward form, but they do not
+define it.
+Outward conduct is often easier to observe than lived relation, so a
+classification should join self-description, role and ritual evidence, treatment
+of rival allegiance, personal authorship, refusal, sacrifice, institutional
+operation, and correction rather than infer an inward form from one public act.
 
 The forms compress several axes that must remain separately inspectable:
 
@@ -1349,9 +1699,27 @@ The forms compress several axes that must remain separately inspectable:
 - social and institutional sanctions;
 - authorization or willingness to use physical violence.
 
-Strong conviction is not by itself fundamentalism. Proselytism is not jealousy;
-jealousy is not physical violence; and discursive violence, defined below, can
-occur before the fundamentalist form.
+The forms are not a *Beseelung* scale, but independence does not mean absence of
+correlation.
+A living fundamentalist carrier position will ordinarily involve high, jealous,
+and often agentified *Beseelung*: the programme organizes attention, purpose,
+identity, sacrifice, and the standing of personal judgment.
+A programme-level fundamentalist form need not animate every participant equally.
+A small directing or interpretive stratum can transmit intense commitment through
+roles, commands, sanctions, records, and cool or cynical executors.
+If no carrier, institution, or living interpretive centre remains committed to
+the programme and only inherited coercive machinery persists, the better
+description may be a de-animated fundamentalist shell or an ordinary coercive
+apparatus rather than a living fundamentalist Culture Program.
+
+Strong conviction, feeling called, self-sacrifice, or costly ethical resistance
+is not by itself fundamentalism.
+The stronger relation begins when mediation and answerable choice disappear and
+the carrier presents action as direct execution of the Other's supposedly known
+Will.
+Proselytism is not jealousy; jealousy is not physical violence; and discursive
+violence, defined below, can occur without a fundamentalist person--programme
+relation.
 
 #### Jealous programs, solidarity, and collective agents
 
@@ -1632,10 +2000,10 @@ The models therefore map onto one another without becoming synonyms:
 | **4. Dehumanization** | Moralized character accusation expands into categorical enemy construction: persons become vermin, disease, contamination, pollution, or another kind of being whose removal can be redescribed as cleansing or protection. |
 | **5. Organization** | Parties, bureaucracies, police, armies, militias, media systems, lists, and surveillance turn hostility into scalable implementation capacity. Organization is infrastructure for violence, not by itself another form of violence. |
 | **6. Polarization** | Moral closure, guilt by association, communicative severance, and attacks on moderates disable countercultures, compromise, and independent correction. |
-| **7. Preparation** | Plans, target lists, training, weapons, mobilization, and euphemistic goals make organized physical or eliminative intent operational. These are strong indicators that the fundamentalist threshold has been crossed, although no numbered Stanton process defines that threshold. |
+| **7. Preparation** | Plans, target lists, training, weapons, mobilization, and euphemistic goals make organized physical or eliminative intent operational. These are strong indicators that a coercive or eliminative threshold has been crossed, although no numbered Stanton process defines that threshold. |
 | **8. Persecution** | Institutional coercion and physical violence become coordinated identification, dispossession, arrest, displacement, confinement, torture, or killing of the target population. |
 | **9. Extermination** | Genocide is a specific collective form of eliminative violence. The culture-mechanical category is broader because programs can seek to eliminate political, social, or other rivals without satisfying the definition of genocide. |
-| **10. Denial** | The program protects itself after and during violence through euphemism, destroyed evidence, impunity, blame reversal, suppression of memory, and attacks on witnesses. This connects the enforcement--exclusion and violence repertoire to [memory control and systemic lying in *Epistemic Constitution of Lifted Mechanical Solidarity*](0030-epistemic-constitution.semantic-definition.md#14-memory-provenance-and-correction). |
+| **10. Denial** | The program protects itself after and during violence through euphemism, destroyed evidence, impunity, blame reversal, suppression of memory, and attacks on witnesses. This connects the enforcement--exclusion and violence repertoire to [memory control and systemic lying in *Epistemic Constitution of Lifted Mechanical Solidarity*](0030-epistemic-constitution.semantic-definition.md#memory-provenance-and-correction). |
 
 Stanton's model supplies historically developed observations and an early-warning
 process model. It does not establish the local-bigOther processor, distributed
@@ -1675,7 +2043,7 @@ vocabulary such as “Nazi” may operate as a targeting signal or as one stage 
 the projective-vandalism circuit; it does not by itself establish the attributed
 Culture Program or hazard class. The
 [Attribution-Source
-Asymmetry](0060-culture-program-ecology.semantic-definition.md#165-attribution-source-asymmetry-and-cross-audience-audit)
+Asymmetry](0060-culture-program-ecology.semantic-definition.md#attribution-source-asymmetry-and-cross-audience-audit)
 governs that evidentiary distinction.
 
 This boundary does not prohibit private association or moral judgment. It prevents
@@ -1860,7 +2228,9 @@ unbraided and a successor rebraided and installed on the one card.
 
 This analogy makes the division of labour between the two processors easy to understand. Its limitation is that real human cognition is embodied, affective, interpretive, and less cleanly modular than a desktop computer.
 
-### 10. Second analogy: Haidt's elephant with a wireless collar
+<a id="second-analogy-haidts-elephant-with-a-wireless-collar"></a>
+
+### 10. Second analogy: Haidt's elephant with a wireless collar {#second-analogy-haidts-elephant-with-a-wireless-collar}
 
 The second analogy gives a closer picture of the proposed psychological operation.
 
@@ -2041,7 +2411,9 @@ wireless-collar, protocol, and network pictures to the framework's physical and
 craft analogies, see [*Analogical Models in Culture Mechanics: A Semantic
 Inventory*](0050-culture-mechanics-analogies.semantic-inventory.md).
 
-### 11. The wireless superpower: the individual coupling interface
+<a id="the-wireless-superpower-the-individual-coupling-interface"></a>
+
+### 11. The wireless superpower: the individual coupling interface {#the-wireless-superpower-the-individual-coupling-interface}
 
 The bigOther's distinctive superpower is its capacity to participate in
 **distributed computing**. Every collar is both receiver and transmitter. There is
@@ -2113,7 +2485,7 @@ is the individual-to-field handoff. The field's topology, unequal transmitter
 gain, collective agency, and epistemic consequences belong to the detailed account
 in [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md),
 including its [functional morphology of mechanical
-solidarity](0020-epistemic-agency.semantic-definition.md#12-functional-morphology-of-mechanical-solidarity):
+solidarity](0020-epistemic-agency.semantic-definition.md#functional-morphology-of-mechanical-solidarity):
 population body, distributed trusted-opinion-leader function, common field,
 directing function, reciprocal coupling, and possible collective execution.
 
@@ -2227,7 +2599,9 @@ state model and its pilgrimage, military, and Subak boundary cases belong to
 [*Epistemic Agency under Mechanical Solidarity*, “Activation profiles and episodic
 multi-mind-selves”](0020-epistemic-agency.semantic-definition.md#activation-profiles-and-episodic-multi-mind-selves).
 
-#### Differentiated unity and subjecthood absorption (fusion)
+<a id="differentiated-unity-and-subjecthood-absorption-fusion"></a>
+
+#### Differentiated unity and subjecthood absorption (fusion) {#differentiated-unity-and-subjecthood-absorption-fusion}
 
 The existence or strength of a collective agent does not decide what standing its
 members retain. Culture mechanics calls a real shared *we* **differentiated
@@ -2296,7 +2670,7 @@ local slot. The question is what standing the installed weave grants the person
 within the collective relation, not how many evaluators occupy that slot.
 
 The proposed [**Lifted-Order Capacity
-Dashboard**](0060-culture-program-ecology.semantic-definition.md#13101-the-lifted-order-capacity-dashboard)
+Dashboard**](0060-culture-program-ecology.semantic-definition.md#the-lifted-order-capacity-dashboard)
 operationalizes part of this person-preservation question through *Speak, Own,
 Refuse, Exit,* and *Appeal*, then separately tests constitutional correction,
 cooperation, material capability, and real alternatives. Its Secure Homestead
@@ -2304,7 +2678,7 @@ Rate treats effective owner-occupied property as one possible material anchor fo
 independent standing. These are candidate measurements, not additions to the
 definition of subjecthood absorption.
 
-The proposed [***Schutzbalken* principle**](0060-culture-program-ecology.semantic-definition.md#1321-democracy-as-schutzbalken-gegen-die-macht)
+The proposed [***Schutzbalken* principle**](0060-culture-program-ecology.semantic-definition.md#democracy-as-schutzbalken-gegen-die-macht)
 places this boundary inside the pluralistic classical-liberal Culture Strategy:
 public and private concentrations of power must not become unbounded,
 unanswerable, self-certifying, or practically inescapable jurisdictions over the
@@ -2313,6 +2687,191 @@ of the definition of fusion. Power, asymmetry, wealth, expertise, employment, or
 collective authority do not by themselves establish subjecthood absorption; the
 diagnosis still requires evidence that personal judgment, purpose, property,
 refusal, exit, appeal, or other standing has been displaced.
+
+<a id="personhood-and-role-interfaces"></a>
+
+#### Personhood and role interfaces {#personhood-and-role-interfaces}
+
+**Status:** trunk-concept family.
+The interfaces and principal failure forms are defined, while developmental
+formation, measurement, and comparative institutional tests remain open.
+
+A human being cannot present their entire inward life in every social encounter.
+Plural cooperation therefore requires bounded surfaces through which strangers
+can recognize continuity, promise, responsibility, office, competence, and
+standing without claiming possession of the whole person.
+
+**Civil personhood** is the reciprocal accountability interface through which a
+human becomes socially legible as a sufficiently continuous, name-bearing,
+reason-giving, promise-capable, standing-sensitive, and answerable participant.
+Others reciprocate by addressing reasons, respecting autonomy and privacy,
+presuming continuity, limiting force, and recognizing repair.
+Kevin Simler's [personhood-as-game
+account](https://meltingasphalt.com/personhood-a-game-for-two-or-more-players/)
+supplies the neighbouring “lady” and “gentleman” example; the present placement
+inside homo duplex and distributed cultural programming is a Culture Mechanics
+extension.
+
+The trunk keeps three levels of standing separate:
+
+| Level | Meaning | Boundary |
+|---|---|---|
+| **Unconditional human standing** | Every individual living human organism possesses complete and equal moral standing which a person-protecting constitutional order is required to recognize. | It is not earned by fluent self-presentation, independence, competence, productivity, or role performance. |
+| **Interactional person-competence** | Present ability to promise, understand reasons, regulate conduct, undertake liabilities, and participate in repair. | It can vary by person, situation, development, illness, or impairment without cancelling human standing. |
+| **Role competence and authority** | Additional capability and bounded jurisdiction required by a particular office or relation. | Failure, incapacity, or removal from the role limits that interface; it does not demote the human bearer. |
+
+<a id="inherent-human-standing-recognition-only-principle"></a>
+
+##### Inherent human standing and the recognition-only principle {#inherent-human-standing-recognition-only-principle}
+
+**Status: originating normative axiom of this synthesis.**
+The axiom is not attributed to Durkheim, Kant, biology alone, or current German positive law.
+
+**Inherent human standing** is the complete and equal moral standing possessed by every individual living human organism from the beginning of that organism's existence until death.
+It is inherent rather than conferred, complete rather than graduated, and continuous rather than acquired through development.
+
+> **Human beings are recognized, not admitted, as bearers of human standing.**
+
+No person, majority, state, court, legislature, physician, profession, institution, or Culture Program has constitutive authority to create, grant, grade, suspend, withdraw, or extinguish the standing of a living human bearer through classification.
+Human decision-makers may make corrigible, evidence-bound findings about whether the objective bearer condition exists, but the finding is declaratory rather than constitutive: it attempts to recognize a reality that neither the decision-maker nor the law creates.
+
+The bearer criterion is the existence of an **individual living human organism**, not the presence of human genetic material in an isolated gamete, tissue, tumour, or other cell.
+In ordinary sexual reproduction, the project operationalizes the beginning of that organism's existence as successful sperm--oocyte fusion that activates the oocyte and initiates an integrated zygotic developmental process.
+Here *successful* refers to fusion and activation, not to later implantation, viability, live birth, health, or development to any selected stage.
+Mere insemination, proximity, or contact between gametes is therefore not fertilization; nuclear fusion completes ordinary fertilization but does not confer standing, and implantation does not create a bearer that was absent before it.
+For cloning, artificial activation, or another possible non-gametic route, the general individual-organism criterion governs so that absence of sperm cannot create a protection gap.
+
+Human standing consequently does not depend upon developmental stage, implantation, location, viability, consciousness, sentience, presently exercisable rationality, autonomy, health, disability, dependency, productivity, wantedness, social recognition, citizenship, reputation, conduct, or political and ideological classification.
+These properties can matter to capability, responsibility, relationship, remedy, or the exercise of particular rights without becoming admission tests for the protected human class.
+
+```text
+empirical premise:
+X is an individual living human organism
+
+explicit normative axiom:
+every individual living human organism possesses complete and equal human standing
+
+conclusion:
+X possesses complete and equal human standing
+```
+
+This form does not derive the normative conclusion from biology alone.
+Biological evidence addresses the bearer premise; the explicit Humanist axiom supplies the normative rule.
+
+Conflicts among human beings must therefore be adjudicated as conflicts among bearers of equal human standing rather than resolved by defining one bearer out of the category.
+Where reasonable uncertainty remains about whether a living human bearer exists and the contemplated act would irreversibly destroy that possible bearer, uncertainty activates a presumption of protection while evidence and review remain available; it does not create a permission to destroy.
+
+The German [Embryonenschutzgesetz, section 8](https://www.gesetze-im-internet.de/eschg/__8.html) supplies a bounded legal comparator by distinguishing sperm penetration or introduction, nuclear fusion, and the statutory embryo, but it does not author this project's earlier recognition-only boundary.
+The German Federal Constitutional Court's [1993 abortion judgment](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/1993/05/fs19930528_2bvf000290en.html) supplies the neighbouring constitutional propositions that unborn human life possesses dignity and an independent right to life not created by maternal acceptance; the project axiom separately extends the non-conferral rule to every individual living human organism from fertilization rather than only to the statutory duration of pregnancy.
+
+Reduced interactional or role competence can justify support, representation,
+limited liability, supervision, or removal from a specific office only through
+the independently applicable person-protecting rules.
+It must not be redescribed as loss of unconditional human standing.
+
+A **role-interface** presents only the capacities, duties, authority, limits, and
+conduct relevant to a bounded relation: physician, judge, teacher, official,
+parent, colleague, diplomat, or another specified role.
+[Helmuth Plessner's defence of masks, distance, tact, and protected
+inwardness](https://www.suhrkamp.de/buch/helmuth-plessner-grenzen-der-gemeinschaft-t-9783518291405)
+supplies the decisive countercase to the assumption that every formal surface is
+hypocrisy or PGS.
+A mask can protect plurality by preventing intimacy, total sincerity, or
+community absorption from becoming compulsory.
+
+The two interfaces address different relational surfaces:
+
+```text
+person-interface
+→ presented to other persons
+→ asks reciprocal recognition, reasons, restraint, and accountability
+
+role-interface
+→ presented to persons and to the local or distributed bigOther
+→ asks recognition of bounded office, duty, competence, and jurisdiction
+```
+
+The role-interface has at least four audiences that need not return the same
+judgment:
+
+1. concrete interaction partners;
+2. those partners' local bigOthers;
+3. the distributed bigOther preserved in reputation, records, professions, and
+   institutions; and
+4. the wearer's own local bigOther, which can classify performance even without
+   an external observer.
+
+The role is “worn” partly toward the bigOther because installed cultural
+expectations determine what a proper judge, physician, citizen, parent, or
+colleague may do even when no present observer commands the act.
+That does not make the role unreal or the person insincere.
+Socially constituted office can enable responsible action that private feeling
+alone could not coordinate.
+
+**Protected opacity** is the legitimate remainder that neither interface makes
+publicly claimable: private feeling, relationships, doubts, vulnerabilities,
+unperformed possibilities, and aspects of identity outside the role's
+jurisdiction.
+Opacity is not immunity from accountability for conduct performed through the
+interface.
+The boundary protects the person from a demand that every inward state become
+transparent to the community or institution.
+Plessner's countercase therefore supplies an **anti-authenticity safeguard**:
+complete sincerity, confession, or exposure cannot be made the general condition
+of civic standing or role membership.
+Such demands can become instruments of conformity, vulnerability extraction,
+programme penetration, and subjecthood absorption even when described as
+community, care, solidarity, or authenticity.
+The safeguard does not protect deception about conduct, capacity, conflicts, or
+interests material to the represented relation.
+
+The trunk distinguishes four failure forms:
+
+| Failure | Operative change |
+|---|---|
+| **Deceptive masking** | The interface is used to induce trust while concealing conduct or incapacity material to the represented relation. |
+| **Role overreach** | Authority or obligation acquired in one role is extended into domains the role does not govern. |
+| **Role engulfment** | The bearer increasingly experiences themselves only as the office, expected mask, or programme instrument; protected remainder and self-authorship lose practical force. |
+| **Interface inversion** | The role that should serve persons or a bounded function treats preservation of its own authorized presentation as the governing purpose. |
+
+Role engulfment supplies the missing failure boundary of
+[affective-to-structural load
+transfer](#affective-to-structural-load-transfer).
+An institutional skeleton can reduce the affective effort needed for reliable
+conduct, but it can also begin replacing rather than supporting personal
+authorship.
+Low affect may therefore indicate healthy professional steadiness or inward
+de-animation in which a person feels like a role-shaped skin over an empty shell.
+Performance alone does not discriminate them.
+
+Role-bound speech can remain [**full
+speech**](0020-epistemic-agency.semantic-definition.md#full-speech-empty-speech-obligation-and-responsibility)
+when the bearer avows the judgment,
+marks its limits, can answer questions, and accepts responsibility for undertaking
+it.
+It becomes **empty in the relevant interface sense** when only ready-made role
+formulae can speak while the person's uncertainty, refusal, desire, or accountable
+judgment cannot become present.
+Formal wording, politeness, repetition, or institutional authorship does not by
+itself decide between the two.
+
+The audit asks whether the bearer can state the role's purpose and limits,
+exercise judgment inside it, refuse an incompatible demand, retain relationships
+and purposes outside it, accept personal responsibility, leave or change roles,
+and receive recognition as more than the interface.
+The institution must remain able to correct performance without acquiring the
+whole person.
+**Distance-and-tact correction** addresses reasons, conduct, or bounded office
+performance without demanding humiliation, confession, or total moral exposure.
+It preserves accountability while refusing the inference that correction needs
+jurisdiction over the bearer's complete inward life.
+Difference between inward feeling and outward role conduct is not by itself
+hypocrisy, counterfeit, un-reason, or pseudomorphic governor substitution.
+Burnout, depression, trauma, dependency, ordinary professional formation,
+strategic compliance, disability, fatigue, and temporary role overload can
+produce similar experiences or conduct and remain rival explanations.
+The trunk therefore classifies the evidenced interface relation, not a whole
+person or clinical condition.
 
 ### 13. Symbolic reality
 
@@ -2412,7 +2971,7 @@ without its authority being weaker or local: the binding sameness lies in the
 rules by which answers are generated, tested, applied, and revised. These rules are
 not a higher runtime judge ranking several bigOthers; generator and outputs form
 one weave. Detailed cases and boundary tests are developed in [*Epistemic Agency
-under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#25-examples-cases-and-boundary-tests).
+under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#examples-cases-and-boundary-tests).
 Pluralism as a reality-answerable Culture Strategy, and the distinction between
 Culture Strategy and Pure-Ideology Culture Program, are developed in
 [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md).
@@ -2785,7 +3344,9 @@ conduct without restating them. This explains both its efficiency and its danger
 participants can coordinate through a short token, but the expansion it activates
 may remain unspoken and therefore difficult to inspect.
 
-##### Master-signifier analysis grid
+<a id="master-signifier-analysis-grid"></a>
+
+##### Master-signifier analysis grid {#master-signifier-analysis-grid}
 
 > **A master signifier should be analysed by what it sacralizes, who bears it,
 > how it unifies, what it authorizes, and what happens to the outlier—not merely
@@ -2832,7 +3393,8 @@ drive orientations, Culture Program jurisdiction, and service direction. A field
 should be retained only if comparative application changes or sharpens the
 analysis. A master signifier remains capable of healthy compression when its
 referent, custody, authorization, boundaries, completion, and correction can be
-made explicit and contested.
+made explicit and contested and when the formation path needed to reconstruct
+its reasons, limits, and application remains practically reopenable.
 
 When *Science*, *Safety*, *biodiversity*, *risk*, or another master signifier
 compresses a model-mediated authorization, the grid should be paired with the
@@ -2846,7 +3408,9 @@ and outcome audit. A valid early stage may coexist with an invalid later crossin
 and a disputed mandate does not by itself falsify the underlying observation or
 model.
 
-#### Bonhoeffer's Dummheit
+<a id="bonhoeffers-dummheit"></a>
+
+#### Bonhoeffer's Dummheit {#bonhoeffers-dummheit}
 
 Dietrich Bonhoeffer's 1943 reflection [“Von der Dummheit” (PDF of the
 complete section)](https://jochenteuffel.files.wordpress.com/2020/12/bonhoeffer-von-der-dummheit.pdf)
@@ -3037,7 +3601,9 @@ In this synthesis, Bonhoeffer's **Dummheit** names a characteristic loss of inne
 
 These terms are interpretive cross-references, not interchangeable clinical diagnoses or licenses to pathologize political opponents. Normopathie and political ponerology are not standard mainstream empirical categories, and the culture-mechanical connection proposed here should not be attributed directly to Hans-Joachim Maaz or Andrzej M. Łobaczewski. Its claim is narrower: the concepts illuminate complementary positions within one possible cultural feedback loop.
 
-#### Kant's inner tribunal and doubled personality
+<a id="kants-inner-tribunal-and-doubled-personality"></a>
+
+#### Kant's inner tribunal and doubled personality {#kants-inner-tribunal-and-doubled-personality}
 
 Immanuel Kant's account of conscience in [*The Metaphysics of Morals*, AA
 6:438](https://korpora.org/kant/aa06/438.html) and [AA
@@ -3296,8 +3862,13 @@ calling every such observation a complex braid.
 
 The framework also does not claim that cultural programming determines behaviour mechanically. Humans interpret, combine, resist, conceal, question, and change symbolic instructions. The model proposes structured influence, not perfect control.
 
+**Inherent human standing** and the **recognition-only principle** are project-developed normative commitments.
+They do not claim that biology by itself yields a moral conclusion, that Durkheim or Kant supplied the fertilization boundary, or that present positive law already implements the axiom consistently.
+The empirical bearer premise, the normative human-standing rule, and any legal implementation must remain separately visible.
+
 **Culture-mechanical object**, **ideological symbol**, **conformity signal**,
-**targeting signal**, the four propagation and enforcement forms, **jealous
+**targeting signal**, the four person--programme forms, the outward propagation
+and enforcement profile, **jealous
 cultural program**, **enforcement--exclusion duality**, **protection-framed
 jurisdictional manoeuvre**, and the combined signal--moralization--jurisdiction
 mechanism are project-developed constructs.
@@ -3306,7 +3877,11 @@ and **cross-script cascade** are likewise project-developed Culture Mechanics
 terms developed from Rao's neighbouring account of learned scripts, meaning,
 material support, and unraveling. Rao does not supply the one-slot architecture,
 the cultural-braid hierarchy, or the distinction between script repair and
-governing-weave replacement.
+governing-weave replacement. The originating author supplied the
+cross-environment competence problem through the contrast between asymmetric and
+industrial peer warfare; the assistant abstracted it as **domain-transfer
+failure**. The remembered categorical colonial-officer episode remains
+unverified and is not part of the construct.
 The four forms are ideal types rather than a validated scale. Andrick supplies the
 theory of moralization attributed to him; the processor, protocol, field, jealousy,
 and ideology-as-hallucination extensions belong to Culture Mechanics. Whole
@@ -3347,6 +3922,11 @@ Finally, describing culture as programming does not imply that all symbolic real
   still generates intelligible and practically supportable conduct; unraveling is
   the mutually reinforcing loss of meaning-side and practical-side coherence.
   Neither establishes truth, legitimacy, flourishing, or slot vacancy.
+- **Domain-transfer failure:** genuine competence, a viable script, or a reliable
+  practice from one environment can fail when transferred under an untested
+  assumption that its load-bearing regularities remain valid in a materially
+  different environment. The mechanism is distinct from apparent competence and
+  requires a consequential source--target mismatch rather than novelty alone.
 - **Script propagation:** peripheral script failure may be repaired within the
   incumbent braid, while failure of load-bearing or mutually dependent scripts
   can create a cross-script cascade and contribute to cultural unbraiding.
@@ -3389,19 +3969,42 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Targeting signal:** a performed, omitted, imposed, or attributed socially
   legible token that assigns a person or population to a sanctionable out-group;
   an absent conformity signal can therefore become a target marker.
-- **Propagation and enforcement forms:** private, collective, ideological form,
-  and fundamentalist; these are ideal-type program configurations, not kinds of
-  bigOther or one necessary developmental staircase.
+- **Person--programme forms:** private, collective, ideological, and
+  fundamentalist; these are ideal-type relations of enrichment, belonging,
+  mission, and instrumental possession, not kinds of bigOther or one necessary
+  developmental staircase.
+- **Outward propagation and enforcement profile:** personal discovery,
+  attraction, recruitment, formation, retention pressure, institutional
+  propagation, coercion, and violence are separately observable operations rather
+  than definitions of the four inward forms.
 - **Conflict ladder:** propositional, causal-story, and classification conflicts
   remain distinct from mythological rivalry; active interference creates
   mythological conflict, incompatible governing lenses create cultural-program
-  conflict, organized recruitment and suppression create ideological-form
-  conflict, and physical coercion or violence marks fundamentalist-form conflict.
+  conflict, organized recruitment and suppression create propagative conflict,
+  and physical coercion or violence marks coercive conflict.
 - **Signal-suppression distinction:** rival-signal or counter-program suppression
   describes interference with opposition without analytically reducing rival or
   corrective signals to random noise.
 - **Independent animation axis:** *Beseelung* describes how affectively alive and
-  conduct-directing a program is, independently of its propagation or violence.
+  conduct-directing a program is, analytically distinct from inward
+  person--programme form and outward propagation or violence.
+- ***Beseelung* actuation profile:** pressure, duty, aspiration, belonging,
+  love, grievance, fear, shame, joy, play, hope, and other evidenced routes can
+  produce similar intensity while creating different person--programme
+  relations; intensity, actuation, inward form, and outward propagation and
+  enforcement profile remain separate but can be empirically correlated.
+- **Obligation accumulation:** many individually weak habits, role expectations,
+  anticipated judgments, reciprocal demands, institutional rules, and anonymous
+  usages can reinforce one another into an apparently unconditional “one must”
+  without one component, designer, or explicit doctrine being sufficient.
+- **Affective-to-structural load transfer:** institutionalized habits, roles,
+  procedures, incentives, records, formation, audit, and succession can reduce
+  the affective activation required at each node while extending a program's
+  persistence, reach, and reliable reproduction; this is functional load
+  redistribution rather than literal storage of affect. Visible everyday
+  alignment is therefore a poor proxy for latent collective capacity: distinguish
+  ambient affective coupling, latent structural coupling, and coordination
+  realized under activation.
 - **Jealous cultural program:** a program that claims exclusive allegiance and
   treats incompatible commitment, dissent, or exit as betrayal; single-slot
   exclusivity alone is not jealousy.
@@ -3411,9 +4014,9 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Enforcement--exclusion duality:** enforcement conditions continued inclusion,
   standing, access, or permitted action on conformity; exclusion is the withdrawal
   or denial applied to refusal, and one visible sanction can perform both operations.
-- **Fundamentalist threshold:** authorization or willingness to use physical or
-  eliminative force, not the mere presence of moral evaluation or discursive
-  violence.
+- **Coercive threshold:** authorization or willingness to use physical or
+  eliminative force, not the mere presence of moral evaluation, inward
+  fundamentalist form, or discursive violence.
 - **Genocidal escalation neighbour:** Stanton's ten overlapping processes map one
   possible path from classification and symbolization through discrimination,
   dehumanization, organization, polarization, preparation, persecution, and
@@ -3488,6 +4091,23 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Humanity-inversion boundary:** equal human standing and an open aspirational
   horizon become fusion pressure when Humanity is agentified, assigned a true
   interest, and used to authorize privileged interpreters and sacrifice.
+- **Personhood-and-role-interface trunk:** civil personhood makes a human
+  reciprocally legible as continuous, reason-giving, promise-capable, standing-
+  sensitive, and answerable; role interfaces expose only the bounded competence,
+  duty, authority, and conduct relevant to a relation while protected opacity
+  preserves the remainder of the person. The inherent-human-standing axiom gives
+  every individual living human organism complete and equal standing from the
+  beginning of its existence until death; recognition is declaratory rather than
+  constitutive, and standing remains distinct from variable interactional and
+  role competence. Anti-authenticity
+  protection prevents compulsory disclosure from becoming a condition of civic
+  standing while preserving accountability for materially represented conduct.
+- **Interface failures:** deceptive masking, role overreach, role engulfment, and
+  interface inversion must be distinguished. Role engulfment is the failure
+  boundary in which structural support begins replacing personal authorship;
+  low affect and reliable performance alone do not diagnose it. The audit also
+  distinguishes full from empty role-bound speech and retains ordinary clinical,
+  developmental, and situational rivals.
 - **Long-term result:** reproduction or transformation of culture through ritual and institutionalization.
 - **Central normative problem:** whether the bigOther remains contestable by reflective judgment or acquires final authority over it.
 - **Developmental axis:** externally enforced → socially authored → self-authored → self-transforming bigOther.
@@ -3501,6 +4121,13 @@ Finally, describing culture as programming does not imply that all symbolic real
 
 ## Compact formulas
 
+Inherent human standing:
+
+> **beginning of an individual living human organism → complete and equal human
+> standing; factual recognition is declaratory and corrigible, never constitutive;
+> capability, dependency, wantedness, conduct, and classification may change
+> circumstances or remedies but never admission to the protected human class**
+
 Single-slot composition and replacement:
 
 > **one PCI slot → one local bigOther → one operative mythological lens; compatible packages → one braided program; incompatible governing worldview → rejection or incumbent unbraiding → liminal interval → one rebraided successor**
@@ -3509,6 +4136,12 @@ Historical explanation and present execution:
 
 > **historical cause ≠ live affective classification ≠ avowed reason; present
 > agreement among them is an empirical question**
+
+Activation and formation:
+
+> **operation-rich formation → locally reconstructed and socially calibrated
+> codebooks → compressed symbol activates a larger installed complex; token
+> inheritance without recurrent formation does not transmit a finished decoder**
 
 Formation, intervention, and selection:
 
@@ -3526,6 +4159,13 @@ Situated scripts and unraveling:
 > or unraveling; peripheral failure → local script replacement, while
 > load-bearing cross-script cascade → possible cultural unbraiding**
 
+Domain transfer:
+
+> **genuine competence or viable script in environment A + untested invariant
+> assumption → enactment in materially different environment B → discriminating
+> collision with B's causal, institutional, or adversarial structure → possible
+> domain-transfer failure**
+
 Relevant-structure appraisal:
 
 > **felt relevance × represented support or damage → possible moral appraisal and
@@ -3538,6 +4178,16 @@ Sublimation-bearing symbols and lens programming:
 > local-bigOther classification; repeated rival mythology + systems + rewards +
 > sanctions + conduct → possible lens reprogramming → changed Beseelung,
 > enactment, and transmission**
+
+Affective-to-structural load transfer:
+
+> **living conviction → repeated practice and habit → fitted roles, procedures,
+> records, audit, and succession → lower per-node affective demand + greater
+> structural persistence, range, and reliable reproduction; structure reduces
+> recurrent arousal but does not literally store affect or replace living
+> correction indefinitely; ordinary visible alignment may remain low while fitted
+> roles, interoperable interfaces, infrastructure, resource routing, and command
+> relations preserve high activation-conditioned coordination capacity**
 
 Change-indexed moral mobilization:
 
@@ -3589,8 +4239,10 @@ Rivalry and conflict:
 > **propositional, causal-story, or classification conflict → possible
 > mythological rivalry → active interference with transmission, authority,
 > membership, or institutional embodiment → mythological conflict → organized
-> recruitment and rival-signal suppression → ideological-form conflict → physical
-> coercion or violence → fundamentalist-form conflict**
+> recruitment and rival-signal suppression → propagative conflict; physical
+> coercion or violence in the conflict → coercive conflict. The two outward
+> types may overlap, and inward ideological or fundamentalist person--programme
+> form remains a separate classification.**
 
 Full culture-mechanical cycle:
 

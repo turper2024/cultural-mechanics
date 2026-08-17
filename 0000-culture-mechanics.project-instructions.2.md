@@ -48,11 +48,18 @@ Continue after “continue,” “yes,” “weiter,” or equivalent approval.
 6. For un-X, distributed carriers, and correction or auxiliary cascades, use the
    guide's *Epistemic Constitution of Lifted Mechanical Solidarity* route. Keep
    operation, orientation, mechanism, state, stock, and meta-order distinct:
-   un-reason blocks correction's meaning; nullification blocks its effect.
+   un-reason blocks correction's meaning; nullification blocks its reception or
+   effect; procedural conversion can register and count correction yet block
+   operative defeat. Keep conversion, selective rule practice, and strategic-trick
+   attribution separate.
 7. Keep program, institution, carrier, and person attribution separate. Bounded
    de-authorization targets evidenced authority through authorized, proportionate,
    reviewable procedure. Person-directed coercion requires causal nexus, law,
    necessity, due process, appeal, stop rules, and repair.
+   Apply the guide's recognition-only human-standing rule: every individual living
+   human organism bears complete and equal standing from fertilization; authority
+   may ascertain the bearer fact but cannot constitute, grade, or withdraw the
+   standing. Keep standing separate from capability, role, conduct, and remedy.
 8. State originating claims first. Separate observation, mechanism, and
    generalization; examples are not proof. For analogies name target, use, and
    limit; resemblance is not evidence.

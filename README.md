@@ -122,7 +122,9 @@ Its Titanic mapping distinguishes electoral captain turnover from democratic
 course corrigibility without inferring one hidden helmsman. Its favour-bank-cloud
 mapping distinguishes cultivation, implicit debt, routed return favours, and
 recruitment from ordinary reciprocity and from the narrow *Kommandoagent*
-hypothesis.
+hypothesis. Its gift-wrapped-control mapping distinguishes the reusable control
+capability from a changeable moral wrapper and licenses a chronology and
+wrapper-invariance test, not a finding of pretext or hidden direction.
 
 Another optional file is
 `build/md/0060-culture-program-ecology.semantic-definition.md`. Add it for questions
@@ -177,7 +179,18 @@ Augsburg--Westphalia territorial settlement as a negotiated-coexistence marker
 and soft-secession analogue, democracy as
 *Schutzbalken gegen die Macht*, public or private power,
 democratic purpose versus elections and other implementations, the bounded
-protector, constitutional risk management for *ideologische Macht*,
+protector, unrestricted oppositional speech as a first-line *Schutzbalken*,
+censorship as strong fault detection without completed fault isolation or
+diagnosis, oppositionality as organized criticism able to govern in turn,
+bootstrap illegality, procedural correction conversion, selective
+proceduralism, correction-bearer neutralization, the speech maxim separating
+judgment and evidenced accusation from unsupported character assassination, the
+*Schutzbalken*-removal ratchet,
+control-first moral-wrapper selection and its invariance test, the expected
+power-move repertoire, the bounded Chat-control textbook application with its
+source-role ledger, provider-delegated scanning, possible retention, urgency
+chronology, and majority/threshold divergence,
+constitutional risk management for *ideologische Macht*,
 *Machtpolitik* and *Willkürherrschaft*, Benda's morality--politics and
 truth--utility bridge, the necessary systemic-lying core of *Machtpolitik*,
 the relation between Benda's *clerc* and trusted opinion leaders, Benda's
@@ -418,7 +431,14 @@ weiter praktisch regiert. Bei **correction nullification** wird die Korrektur
 behandelt, als sei sie nie empfangen worden. Die Kette *Sprechen → Aufzeichnen →
 Empfangen → Antworten → Entscheiden → Betrieb ändern → Wiedergutmachen* lokalisiert
 die Unterbrechung. Kurz: Un-Vernunft neutralisiert, was die Korrektur bedeutet;
-Korrektur-Nullifizierung neutralisiert, was sie bewirken kann. Ein
+Korrektur-Nullifizierung neutralisiert, was sie bewirken kann. Die gesonderte
+**procedural correction conversion** liegt vor, wenn ein nachteiliges
+Korrektursignal empfangen, aufgezeichnet und korrekt gezählt wird, eine
+Schwelle, Voreinstellung, Zeit-, Tagesordnungs-, Quorums-, Weiterleitungs-,
+Ablauf- oder Neustartregel es aber in keine operative Niederlage umwandelt. Die
+beobachtbare Umwandlung ist von der stärkeren Zuschreibung eines strategisch
+gewählten *Verfahrenstricks* und von prospektiven, reziproken, begründeten und
+überprüfbaren erhöhten Schwellen zu trennen. Ein
 **trusted-carrier correction lock** liegt vor, wenn ausgerechnet die stark
 verstärkenden vertrauenswürdigen Positionen im empfangenden Feld der Korrektur
 verteilte Glaubwürdigkeit, institutionelle Aufnahme und operative Wirkung
@@ -433,6 +453,15 @@ de-authorization** entzieht nur der widerlegten
 Darstellung oder der belegten Trägerfunktion die bestimmte Autorität; sie verlangt
 weder Bekehrung noch Niederlage der ganzen Person und bleibt an gesetzliche
 Zuständigkeit, Verhältnismäßigkeit, Prüfung, Berufung und Wiedergutmachung gebunden.
+Der **Zensur-Sentinel** behandelt Unterdrückung, Vorabkontrolle,
+Unauffindbarkeit oder praktisch verweigerte Aufnahme gewaltfreier,
+belegtragender Korrektur als starkes, aber nicht lokalisierendes Warnsignal. Er
+trennt Fehlererkennung von Fehlerlokalisierung, Diagnose, Größenordnung und
+Zuschreibung. **Bootstrap illegality / legality laundering** verhindert, dass
+eine Macht ihre Einschränkung allein dadurch entlastet, dass sie die betroffene
+Rede zuvor selbst rechtswidrig gemacht hat; maßgeblich bleiben unabhängig
+bestimmte gegenseitige Rechte, Belege, Zuständigkeit, Verfahren, Berufung und
+Wiedergutmachung.
 
 Eine der optionalen Dateien ist
 `build/md/0050-culture-mechanics-analogies.semantic-inventory.md`. ChatGPT kann diese
@@ -462,6 +491,10 @@ von demokratischer Kurskorrigierbarkeit, ohne daraus einen verborgenen Steuerman
 zu folgern. Seine Favour-bank-cloud-Zuordnung unterscheidet Kultivierung,
 implizite Schuld, weitergeleitete Gegenleistungen und Rekrutierung von normaler
 Gegenseitigkeit und von der engen *Kommandoagent*-Hypothese.
+Seine Geschenkpapier-Kontroll-Zuordnung trennt die wiederverwendbare
+Kontrollfähigkeit von einer austauschbaren moralischen Verpackung. Sie erlaubt
+eine Chronologie- und Verpackungsinvarianzprüfung, beweist aber weder Vorwand noch
+verborgene Steuerung.
 
 Eine weitere optionale Datei ist
 `build/md/0060-culture-program-ecology.semantic-definition.md`. Fügen Sie sie bei
@@ -523,7 +556,19 @@ Dashboard (Speak, Own, Refuse, Exit, Appeal, Correct, Cooperate, Build, Choose),
 der Secure Homestead Rate, verfassungsrechtlichen Sentinel-Ereignissen,
 SGD-Varianten, Kennzahlensystemen, weicher Sezession, begrenzter umgekehrter
 Maßgeblichkeit, *Abstimmung mit den Füßen*, Demokratie als *Schutzbalken gegen
-die Macht*, Mises' Sezessionsgedanken, der Implementierung „mit einem
+die Macht*, uneingeschränkter oppositioneller Rede als erstem *Schutzbalken*,
+Zensur als starker Fehlererkennung ohne abgeschlossene Lokalisierung oder
+Diagnose, **oppositionality** als organisierter öffentlicher Kritik, die
+Unterstützung gewinnen und ihrerseits regieren kann, Bootstrap-Illegalität,
+**procedural correction conversion**, **selective proceduralism** und
+**correction-bearer neutralization** sowie der Maxime „Keine Zensur von
+Urteilen; keine Immunität vor belegter Anschuldigung; kein Rufmord ohne
+Beweis“, der *Schutzbalken*-Abbauratsche,
+kontroll-zuerst gewählter moralischer Verpackung und ihrem Invarianztest, dem
+Repertoire erwartbarer Machtzüge sowie der begrenzten Chatkontroll-Anwendung mit
+Quellenrollen, an Anbieter delegiertem Scannen, möglicher Speicherung,
+Dringlichkeitschronologie und Mehrheits-/Schwellenabweichung als Lehrbeispiel,
+Mises' Sezessionsgedanken, der Implementierung „mit einem
 Federstrich“, verteilten Zuständigkeiten als begrenzten Fehlerdomänen gegen
 Übernahme, dem typisierten Pure-Ideology-Culture-Program-Multi-Mind-Self an der
 Gabelung schwerer Babelisierung, der territorialen Regelungsfolge von
