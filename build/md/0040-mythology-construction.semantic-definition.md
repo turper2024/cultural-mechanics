@@ -679,7 +679,7 @@ ignition event.
 
 <a id="cultural-nucleation-and-anti-nucleation"></a>
 
-##### Cultural nucleation and anti-nucleation {#cultural-nucleation-and-anti-nucleation}
+##### Cultural nucleation and anti-nucleation (*Zersetzung*) {#cultural-nucleation-and-anti-nucleation}
 
 **Cultural nucleation** is the candidate transition through which dispersed
 compatible dispositions or isolated carriers become mutually visible,
@@ -696,21 +696,109 @@ performs enough of the following functions:
 - produces additional centres rather than remaining one charismatic dependency;
 - survives succession, correction, and ordinary loss.
 
+Two analytically distinct nucleating functions can reinforce one another without
+becoming two separate kinds of Culture Program:
+
+- **social nucleation** makes possible co-bearers mutually visible and lowers the
+  first-mover risk of contact, association, and recurrent coordination; and
+- **epistemic nucleation** is controlled shorthand for a human and institutional
+  operation through which previously isolated observations become retrievable,
+  comparable, and mutually intelligible as a possible pattern.
+
+The compact relation is **a person can nucleate people; a fact can nucleate other
+facts**. The second clause attributes no agency to information. A fact, concept,
+case, archive, comparison, or named pattern can supply an address through which
+human observers join other observations and recognize one another's recognition.
+This epistemic function interfaces with [collective
+reindexing](0020-epistemic-agency.semantic-definition.md#epistemic-reindexing),
+which remains the corrective operation's primary semantic home. Neither a social
+meeting nor an epistemic join alone establishes a Culture Program nucleus: the
+stronger classification still requires recurrent coordination and a centre able
+to propagate, correct, and survive succession.
+
 The crystal image is controlled.
 People interpret, refuse, alter, and recombine what they receive; cultural growth
 does not mechanically copy a fixed lattice.
 The non-analogical mechanism is mutual discovery plus recurrent coordination and
 succession.
 
-**Anti-nucleation** targets those functions before a counter-programme becomes
-self-sustaining: defunding associations, denying rooms, breaking communication,
-discrediting prospective focal figures, isolating carriers, capturing a nucleus,
-or making association too costly.
+**Anti-nucleation** and ***Zersetzung*** are co-canonical Culture Mechanics terms
+for the same generic structural operation.
+**Anti-nucleation (*Zersetzung*)** targets those functions so that a prospective
+or existing counter-programme cannot create, maintain, reproduce, or replace
+successor-bearing nuclei: defunding associations, denying rooms, breaking
+communication, discrediting prospective focal figures, isolating carriers,
+capturing a nucleus, attacking succession, or making association too costly.
+Generic *Zersetzung* classifies the operation; it does not by itself assert an
+MfS actor, command chain, genealogy, legal classification, or exact historical
+method.
+***Maßnahmen der Zersetzung*** remains the narrower name for the documented MfS
+doctrine and operation discussed in [*Culture Program
+Ecology*](0060-culture-program-ecology.semantic-definition.md#mfs-zersetzung-as-anti-nucleation).
 The same description covers lawful criticism, ordinary funding choice, or
 legitimate exclusion only after purpose, nexus, proportionality, alternatives,
 and rights are examined.
 Suppression can also backfire by producing martyrdom, publicity, secondary
 seeding, or a more decentralized topology.
+
+**Mutual-discovery suppression** is the earliest anti-nucleation subtype. It
+keeps compatible persons, commitments, or observations from becoming mutually
+visible and from producing common knowledge that possible co-bearers and joined
+evidence exist:
+
+```text
+private judgment, compatible disposition, or local anomaly
+→ possible public address or connector
+→ mutual recognition and common knowledge
+→ lower first-mover risk
+→ association, recurrent coordination, and possible nucleus
+```
+
+The operation interrupts this sequence before an organization becomes sufficiently
+imaginable to form. It can act socially by isolating prospective connectors,
+preventing repeated contact, obscuring compatible people, or attaching uncertain
+cost to association. It can act epistemically by degrading search, comparison,
+preservation, naming, publication, indexing, or joining. Public silence or a
+missing organization does not establish suppression: absent compatibility,
+ordinary dispersion, weak interest, failed persuasion, privacy, poor records,
+scarce resources, and independent platform or venue choices remain alternatives.
+
+Anti-nucleation can also proceed after a group has formed by inducing the group
+to execute the severance itself:
+
+```text
+external operator manufactures or selectively arranges signs of betrayal
+→ members' hidden-threat vigilance activates
+→ members withdraw trust, avoid one another, expel carriers,
+  or disable coordinating centres
+→ the group severs its own coordination and succession relations
+```
+
+**Induced self-denucleation** names this anti-nucleation outcome-form.
+**Detector-capture anti-nucleation** names the same operation at its psychological
+entry point rather than a second construct. It is one application of the wider
+[captured hidden-threat-detector
+family](#hidden-threat-detection-and-detector-capture): the detector can be fed
+counterfeit or selectively arranged signals even when the people reasoning from
+those signals are not irrational. The classification requires evidence for the
+signal intervention, the resulting internal trust severance, and impaired
+coordination, continuity, or succession. It does not follow from ordinary
+factional conflict, accurate exposure of betrayal, prudent withdrawal of trust,
+or one informant's presence. Nothing in the mechanism requires ressentiment;
+state strategy, rivalry, coercive control, and other motives remain possible.
+
+The stages are analytically ordered but need not occur in every case:
+
+| Stage | Principal object of anti-nucleation |
+|---|---|
+| Mutual-discovery suppression | Possible co-bearers and observations before common knowledge |
+| Emerging-core suppression | A first person, text, venue, archive, case, or event capable of focalizing recognition |
+| Established-ecology denucleation | Trust, communication, resources, memory, continuity, and succession after formation |
+| Induced self-denucleation | The group's own betrayal vigilance and relation-severing conduct |
+
+The [ecology-level account](0060-culture-program-ecology.semantic-definition.md#nucleation-ecology-and-reproductive-junctions)
+owns the comparative pre-nucleation cost-advantage hypothesis and the documented
+MfS *Maßnahmen der Zersetzung* application.
 
 This trunk predicts that influence on a few high-function nuclei can have larger
 effects than uniform message exposure, but it does not establish that every
@@ -1529,6 +1617,198 @@ Human beings share broadly similar evolved capacities that make mythology possib
 The culinary image captures both commonality and difference. People may possess broadly similar taste receptors while preferring different cuisines, intensities, and combinations because receptor sensitivity, development, and learning differ. A mythology constructor is therefore like a cook who must understand both the available receptors and the formed palate. The dish that produces the strongest first sensation is not necessarily the one that nourishes, and a familiar recipe may fail when transported unchanged into another culinary culture.
 
 [Melanie Green and Timothy Brock's work on narrative transportation](https://pubmed.ncbi.nlm.nih.gov/11079236/) helps explain how attention, emotion, and imagery can temporarily organize recipients inside a narrative world. Transportation is one mechanism of entry, not the entire resonance process.
+
+<a id="archetypal-compression-and-hidden-ingroup-threat-preparedness"></a>
+
+##### Archetypal compression and hidden-ingroup-threat preparedness {#archetypal-compression-and-hidden-ingroup-threat-preparedness}
+
+Culture Mechanics proposes **archetypal compression** as an intermediate layer
+between prepared human sensitivities and one historically specific mythology.
+An archetype in this restricted operational sense is a recurrent
+relation-and-role grammar distilled from many situations and capable of receiving
+different persons, symbols, causal ontologies, and costumes.
+It need not presuppose a strong Jungian metaphysics or a literally inherited
+complete story.
+
+The phrase **more real than real** means more pattern-revealing, not more
+factually accurate than a documented event:
+
+```text
+many historical episodes
+→ remove names, dates, costumes, and contingent detail
+→ preserve recurrent roles, relations, transformations, and consequences
+→ distilled archetype
+```
+
+An archetype can therefore compress a danger topology that no one episode
+perfectly realizes.
+It can also be false in a particular application, culturally captured, or
+attached to an imaginary operator even where the general topology is real.
+
+The **Tyrant** and **Hexe/Brunnenvergifter** are proposed complementary
+archetypes of endogenous social danger:
+
+| Tyrant | Hexe/Brunnenvergifter |
+|---|---|
+| Overt domination | Covert betrayal |
+| Shadow-yang | Shadow-yin |
+| Force from above | Weaponized access from within |
+| Visible concentration of power | Distributed and deniable harm |
+| Coalition and courage problem | Epistemic-integration problem |
+
+Shadow-yang and shadow-yin name modes of operation, not demographic sex
+categories.
+A woman can instantiate the Tyrant relation and a man the Hexe relation.
+Cross-cultural variation in the sex of accused witches is therefore compatible
+with, and can help test, the operation-centred account; it does not make every
+historical accusation evidentially valid.
+
+The labels also name corrupted functions rather than merely overt and covert
+techniques:
+
+```text
+LIFE-SERVING INWARD FUNCTION
+receive → contain → nourish → protect and release life
+
+SHADOW-YIN INVERSION
+gain intimate or entrusted access
+→ contain concealed hostility
+→ contaminate or consume what the relation should sustain
+```
+
+The corruption lies in turning inward reception, care, or entrusted access
+against its object, not in inwardness, receptivity, care, women, or concealment
+as such.
+The two archetypes are complementary ideal types rather than mutually exclusive
+classes.
+One person or office can join visible authority or domination to concealed
+predation; the comparative corpus's Tiv material supplies one example of that
+combined topology.
+
+The Tyrant possesses visible superior force, so defence requires the many to
+overcome fear and coordinate.
+The Hexe or Brunnenvergifter possesses less overt force than the group but uses
+proximity, trust, knowledge, or access to a life-sustaining channel while keeping
+hostility and causal authorship concealed.
+The well is the compressed image because it is internal to the settlement,
+shared, life-supporting, vulnerable to a small intervention, and capable of
+distributing one hidden act through the community.
+Modern functional counterparts can include care, medicine, kinship, reputation,
+records, communication, conflict resolution, or productive infrastructure.
+
+Anti-Tyrant mythology can itself be captured.
+Haidt supplies the source-side claim that the Liberty/oppression foundation is
+prepared for attempted domination and that culturally current triggers can
+expand toward accumulated wealth; Culture Mechanics adds the following capture
+hypothesis:
+
+```text
+demonstrated coercion or attempted domination
+→ culturally salient dominance cue
+→ superiority, possession, competence, or success inherits the cue
+→ the flourishing person is cast as Tyrant
+→ punitive diminution is cast as protection of the weak
+→ guardian identity, jurisdiction, or reward requires renewed oppressor discovery
+```
+
+A healthy anti-Tyrant application identifies evidenced coercion, restrains it,
+restores reciprocal standing, and releases emergency mobilization.
+The captured application protects the threat category from completion, or makes
+mere flourishing carry the accusation after the causal domination claim fails.
+This is one possible guardian-capture route into ressentiment and renewable
+negation, not a claim that wealth, hierarchy, unequal outcome, protection, or
+anti-dominance concern is inherently captured.
+
+The distilled Hexe/Brunnenvergifter relation is:
+
+> **A familiar or proximate person secretly withdraws from reciprocity and turns
+> a life-sustaining or trust-bearing channel into a channel of harm.**
+
+In compact form:
+
+```text
+trusted access
++ concealed hostility
++ deniable harm
+→ betrayal from within
+```
+
+The proposed **prepared hidden-ingroup-threat detector** is not a dedicated
+“witch gene.”
+It is a culturally organized composite alert:
+
+```text
+harm detection
++ betrayal sensitivity
++ cheater detection
++ contamination sensitivity
++ agency attribution
++ reputation tracking
++ attention to concealed hostility
++ vigilance toward anomalous misfortune
+→ prepared hidden-ingroup-threat detector
+```
+
+[Manvir Singh's cross-cultural survey of witchcraft
+beliefs](https://doi.org/10.1086/713111) supports a strong recurrent cultural
+attractor around malicious group-mates and unexplained misfortune.
+[Niek Koning](https://pubmed.ncbi.nlm.nih.gov/23649744/) supplies a neighbouring
+evolutionary hypothesis centred on deceit and envy.
+These sources support neither one dedicated genetic module nor the truth of a
+particular supernatural accusation.
+The Culture Mechanics hypothesis is instead that prepared harm, betrayal,
+contamination, agency, and reputation sensitivities interact with culturally
+selected causal ontologies and memorable hidden-enemy stories.
+
+A comparative corpus supports the recurrent topology while preserving different
+historical casts:
+
+| Tradition or figure | Recurrent contribution to the topology |
+|---|---|
+| Azande *mangu* | A familiar group-mate is associated with otherwise unexplained misfortune; attributed causal capacity and conscious hostile intent remain distinct. |
+| Akan *obayifo* | Kinship and proximity supply the route by which a necessary relationship can be imagined as hidden harm. |
+| Tiv concealed predation | Socially necessary authority and alleged hidden consumption can occupy the same role, showing that Tyrant and Hexe modes can combine rather than forming exclusive actor classes. |
+| Chinese *gu* | Malicious poison introduced through food makes ingestion and trusted provision the attack channel. |
+| Evil-eye traditions | Envy is represented as dangerous reach toward beauty, fertility, children, prosperity, or another conspicuous good. |
+| Japanese fox-owning-family traditions | Prosperity can itself be read as evidence of occult predation or stolen good, showing how flourishing may be made to prove concealed harm; the accusation does not establish actual predation. |
+| Early-modern European *maleficium* | A slight, quarrel, or refusal followed by illness or failed production supplies the retrospective grievance--harm sequence. |
+| Medieval well-poisoning accusations | Catastrophe is falsely localized onto an alleged conspiring minority, showing that the detector and archetype can become instruments of scapegoat persecution. |
+
+The larger comparison also includes Inuit, Navajo, Trobriand, Japanese, and
+Mesoamerican hidden-harm figures whose actors, sex, technique, and cosmology vary.
+A [cross-cultural study of witch accusations in Bantu and Bantoid
+societies](https://www.nature.com/articles/s41598-022-10315-8) found a majority of
+accused persons in its sample were male, further defeating a reduction of the
+archetype to biological sex.
+The comparison establishes recurrent cultural material and variation; it does
+not certify supernatural causation or the guilt of any accused person.
+
+The gene--culture ladder is therefore:
+
+```text
+species-typical moral and social sensitivities
+→ culturally formed moral palate
+→ archetypal relation-and-role grammar
+→ historically specific mythology
+→ installed Culture Program
+→ mechanical-solidarity field
+→ coordinated investigation, protection, or persecution
+```
+
+The archetype preserves a reason to investigate; it does not supply a verdict.
+Its healthy use joins dispersed observations without preassigning the actor and
+permits the allegation to lose.
+Its captured use assigns concealed guilt by identity, treats contrary evidence as
+camouflage, or makes accusation itself a source of guardian authority and social
+reward.
+Ressentiment is one possible ignition mechanism, not the archetype's universal
+definition.
+Gain, ideology, external command, domination, excitement, fear, mercy
+rationalization, incompetence concealed through deception, or mixed motives can
+produce parts of the same topology and require their own evidence.
+The relevant alert, diagnosis, attribution, sanction, and capture boundaries are
+developed below under [hidden-threat detection and detector
+capture](#hidden-threat-detection-and-detector-capture).
 
 #### 7.2 Heritable dispositional configuration
 
@@ -2937,6 +3217,462 @@ pleasure. Pain is not required by the definition, however, and jouissance should
 not be made synonymous with sadism or masochism. Those are particular
 organizations of drive, law, pain, and the Other.
 
+<a id="ressentiment-conversion-pathway"></a>
+
+#### Ressentiment conversion: one pathway into renewable negation {#ressentiment-conversion-pathway}
+
+**Ressentiment conversion** is a proposed Culture Mechanics mechanism in which
+another person's flourishing changes from an independently valuable good or an
+exemplar of possibility into evidence or the supposed cause of one's wrongful
+exclusion, so that diminishing that flourishing begins to substitute for
+acquiring, recovering, or constructing a good of one's own.
+
+The definition joins a person-side affective and evaluative transition to the
+mythology-level machinery that can name a culprit, authorize an operation, and
+make that operation socially renewable.
+It does not make ressentiment the source of every death-drive Culture Program or
+identify every envy, grievance, redistributive claim, opposition, or destructive
+act as ressentiment.
+
+The originating miniature came from Nana Mouskouri's German *Die Rose* and the
+experience of a world that appears to make **only other people** happy; the
+[performer's lyric page](https://www.nanamouskouri.de/dierose.htm) records the
+source, while the present use paraphrases only its relational image rather than
+assigning the song a philosophical doctrine:
+
+```text
+I suffer
+→ others visibly flourish
+→ their flourishing makes my deprivation legible
+→ the difference is interpreted as wrongful exclusion
+→ parallel flourishing no longer appears possible
+```
+
+The relation can sometimes identify a real barrier.
+A person may actually have been cheated, dispossessed, excluded, abused, or
+denied a feasible developmental path.
+The discriminating questions concern the supported cause, the operative object,
+the remedy, and whether fulfilment may terminate the conflict.
+
+The stages must remain distinct:
+
+```text
+deprivation
+→ envy or mimetic desire
+→ grievance
+→ ressentiment conversion
+→ negative goal substitution
+→ adversary dependence
+→ possible death-drive circuit
+```
+
+- **Deprivation** is the absence of a valued good or possibility and need not
+  contain comparison or blame.
+- **Envy or mimetic desire** can remain positive-good oriented: “I also want the
+  good that I see you possess.”
+- **Grievance** adds an account of wrongful injury or obstruction whose truth and
+  causal scope remain to be established.
+- **Ressentiment conversion** makes the other's possession, enjoyment, success,
+  competence, beauty, relationship, fertility, recognition, or achievement
+  morally incriminating.
+- **Negative goal substitution** begins when the other's loss counts as progress
+  even without improvement in the subject's condition.
+- **Adversary dependence** arises when the opponent becomes load-bearing for
+  identity, motivation, role, status, or solidarity.
+- **Death-drive conversion** is the further transition at which resolution
+  threatens the rewarding circuit and repetition becomes the destination.
+
+Each arrow is contingent and requires its own evidence.
+A bounded destructive operation can protect an independently valuable good by
+stopping an actual aggressor or removing a demonstrated barrier.
+The stronger diagnosis begins where negative operations outlive their object,
+replace defeated targets, prevent fulfilment from counting as fulfilment, or
+consume the goods and carriers they originally claimed to serve.
+
+The principal operational contrast is:
+
+```text
+positive-good path
+another has X
+→ X discloses a possible good
+→ identify the actual obstacle and developmental price
+→ acquire, build, repair, share, or protect X
+→ completion can release the conflict
+
+ressentiment path
+another has X
+→ possession of X exposes my lack
+→ their flourishing is reclassified as wrongful obstruction
+→ their diminution supplies relief, status, or vindication
+→ the negative operation can survive my unchanged condition
+```
+
+At programme scale, mythology can convert this relation into a renewable social
+machine:
+
+```text
+private injury or painful comparison
+→ “we are the injured”
+→ causal story identifies “them” as the obstruction
+→ victim, villain, witness, guardian, and remedy roles become intelligible
+→ the local bigOther authorizes accusation or diminution
+→ visible attack supplies belonging, innocence, status, and immediate agency
+→ the mechanical-solidarity field reinforces the classification
+→ grievance and target renewal
+↺
+```
+
+Ressentiment thereby supplies one possible affective entry into [renewable
+demand](#demand-lacanian-source-term-and-operational-distinction),
+[projective vandalism](#projective-vandalism-and-denunciatory-jouissance),
+[negative-operational
+displacement](#critiqueconstruction-asymmetry-and-negative-operational-displacement),
+and the constitutional [death-drive
+pole](0030-epistemic-constitution.semantic-definition.md#life-drive-death-drive-constitutional-orientation).
+Those existing constructs remain wider than this route.
+
+<a id="effort-price-compression-and-effort-entitlement"></a>
+
+##### Effort-price compression and effort-entitlement conversion {#effort-price-compression-and-effort-entitlement}
+
+**Effort-price compression** is a proposed mythology-construction
+operation in which a narrative preserves visible arrival, recognition, or
+mastery while radically abbreviating the duration, repetition, prerequisites,
+failure, maintenance, scarcity, support, chance, and embodied limits involved in
+producing it.
+The perceived causal price of the good can then fall far below the price that
+reality would require from this person in this situation.
+
+```text
+visible success
+- hidden apprenticeship, selection, failure, maintenance, and luck
+→ compressed represented price
+→ encounter with the real price
+→ effort shock
+```
+
+Jason Pargin's [“How ‘The Karate Kid’ Ruined the Modern
+World”](https://www.cracked.com/article_18544_how-the-karate-kid-ruined-modern-world.html),
+originally published under the name David Wong, supplies the popular source term
+**effort shock** and the training-montage image.
+The Culture Mechanics term names the prior representational operation rather
+than every mistaken estimate of difficulty.
+A concise fictional transformation can transparently compress years without
+claiming that the represented achievement is easy; the operation matters here
+when the compressed price is reconstructed as a practical expectation.
+
+**Effort-entitlement conversion** is a distinct evaluative operation:
+
+```text
+I suffered or exerted myself
+→ therefore I paid the relevant price
+→ therefore the outcome is owed to me
+→ its absence requires a guilty blocker
+```
+
+Experienced effort is real evidence about cost borne by the actor, but it is not
+a complete measurement of aptitude, method, prerequisites, comparative
+performance, scarcity, timing, maintenance, chance, or the causal requirements
+of the outcome.
+Nor does the operation imply that merit, promises, contracts, procedural
+fairness, discrimination, corruption, inherited advantage, or arbitrary
+selection are unreal.
+A person can have paid a substantial price and still face an evidenced injustice;
+the error is converting subjective cost alone into proof both of entitlement to
+the result and of a culpable external blocker.
+
+Effort shock can therefore branch in at least three directions:
+
+1. **Developmental update:** revise the price model, improve method, acquire
+   prerequisites, seek feedback, accept a limit, or choose another valuable good.
+2. **Finite justice claim:** identify and repair a demonstrated barrier, then
+   permit completion to count as completion.
+3. **Ressentiment conversion:** preserve the compressed price, make a successful
+   comparator morally incriminating, and reclassify the standard, competence,
+   or rival as the cause of non-attainment.
+
+The complete candidate route is:
+
+```text
+formal permission to attempt a good
+→ success mythology compresses its developmental price
+→ effort becomes evidence of deserved arrival
+→ hierarchy, scarcity, chance, or real cost defeats the expectation
+→ non-attainment is experienced as broken promise
+→ culprit search
+→ possible ressentiment conversion
+```
+
+This route is neither necessary nor sufficient for ressentiment.
+Its positive counterpart is an operation-rich apprenticeship story in which
+practice, correction, failure, maintenance, and realistic alternatives remain
+visible.
+The generic practice and codebook mechanisms belong to [*Epistemic
+Agency*](0020-epistemic-agency.semantic-definition.md#domain-contact-and-symbolic-addressing),
+while [*Culture Program
+Ecology*](0060-culture-program-ecology.semantic-definition.md#contemporary-schelerian-social-ecology)
+owns the modern comparison, status, institutional, and social-media application
+family.
+
+##### Scheler: psychic self-poisoning and organic mendacity
+
+Max Scheler's *Das Ressentiment im Aufbau der Moralen*, first published in a
+shorter form as *Über Ressentiment und moralisches Werturteil: Ein Beitrag zur
+Pathopsychologie der Kultur*, supplies the closest source bridge for the
+affective deformation of value-perception.
+The [1912 German text is available from Heidelberg University
+Library](https://digi.ub.uni-heidelberg.de/diglit/pathopsychologie1912/0272/text_ocr),
+and the current German edition is Manfred S. Frings's third edition for
+[Klostermann](https://www.klostermann.de/Das-Ressentiment-im-Aufbau-der-Moralen/3465043049).
+Scheler adopts Nietzsche's discovery of ressentiment as an important source of
+moral valuation while disputing Nietzsche's genealogy of authentic Christian
+love.
+
+Scheler describes ressentiment as a psychic self-poisoning in which repeatedly
+inhibited revenge, envy, spite, hatred, or humiliation becomes a durable
+orientation.
+His **organic mendacity** locates possible falsification before an ordinary
+conscious report: in the selective admission of impressions and value-feelings
+and again in reproduction and recollection.
+
+```text
+inhibited hostility, envy, revenge, or humiliation
+→ repeated reliving without effective answer or release
+→ psychic self-poisoning
+→ selective admission of impressions and value-feelings
+→ selective reproduction and recollection
+→ sincerely distorted value-perception
+```
+
+The result need not be the conscious proposition “I know this rival is good but
+will call the rival evil.”
+The rival may already appear, within available experience, as corrupt or
+dangerous while the subject experiences the inverted judgment as sincere moral
+insight.
+Sincerity therefore does not establish reality correspondence.
+
+Organic mendacity and conscious deception can also coexist:
+
+```text
+globally inhabited value-world:
+“the rival is fundamentally dangerous”
+
++
+
+local conscious manipulation:
+“this evidence must be sharpened or manufactured
+so that others can see the deeper truth”
+```
+
+This mixed form is a candidate relation, not a licence to infer deception from
+conviction or conviction from deception.
+The exact false statement, speaker knowledge, selected evidence, correction
+history, operative value-world, and serious rivals remain separate evidential
+objects.
+The general semantic-access and selective-retrieval problem remains owned by
+[*Epistemic Agency*](0020-epistemic-agency.semantic-definition.md#collar-conditioned-semantic-access);
+this section owns only the ressentiment-conditioned mythology and motivational
+route.
+
+Organic mendacity can support a two-way moral reattribution stronger than
+negative projection alone:
+
+```text
+MY EVIL → YOUR IDENTITY
+YOUR GOOD → MY IDENTITY
+```
+
+The first movement places the subject's disowned hostility, aggression, or
+destructive operation in the rival.
+The second appropriates the rival's care, justice, protection, courage, or other
+positive standing for the attacking subject.
+The combined operation can make the actor appear as guardian against the very
+harm the actor performs or desires.
+Its observable linguistic forms remain catalogued as [positive moral
+appropriation and strategic moral
+reattribution](0030-linguistic-tricks.semantic-inventory.md#lt-029-strategic-moral-reattribution),
+while the present section owns the ressentiment-conditioned motivational bridge.
+Neither sincerity nor accusation proves either direction of transfer.
+
+Scheler also supplies an unusually direct actor-side bridge to the
+Hexe/Brunnenvergifter topology by associating recurring ressentiment situations
+with concealed vindictiveness, detraction, indirect aggression, hostile readings
+of otherwise innocent conduct, and the witch image.
+The source-side sequence is approximately:
+
+```text
+injury or frustrated claim
++ inability to retaliate openly
++ compulsory concealment of hostility
+→ revenge generalizes into vindictiveness
+→ attention searches for occasions and targets
+→ innocent conduct is experienced as injurious
+→ covert aggression or detraction supplies substitute satisfaction
+```
+
+Scheler's period-bound attempt to make the witch figure lack a masculine
+counterpart is not retained.
+It confuses an inward, indirect, archetypally shadow-yin mode with the biological
+sex of its bearer and is contradicted by the cross-cultural variation reviewed
+under [archetypal compression](#archetypal-compression-and-hidden-ingroup-threat-preparedness).
+The continuous poison image is nevertheless analytically useful:
+
+```text
+psychic self-poisoning
+→ poisoned value-perception
+→ poisoned reputations and relationships
+→ possible poisoning of a shared social substrate
+```
+
+The last transition is a Culture Mechanics extension rather than Scheler's own
+complete social mechanism.
+
+Scheler also identifies a social configuration favourable to accumulated
+ressentiment:
+
+```text
+formal equality
++ permission to compare oneself widely
++ large factual differences in power, property, education, capability, and opportunity
++ practical inability to attain comparable standing
+→ structurally accumulated ressentiment
+```
+
+This is a risk configuration, not a verdict on equality, unequal outcome,
+political criticism, or any person exposed to it.
+Actual barriers, scarcity, aptitude, inheritance, health, developmental history,
+luck, and conflicting goods must remain available as causal explanations.
+
+Scheler's account of criticism that receives identity and satisfaction from
+continued opposition also supplies prior art for a transition already represented
+here:
+
+```text
+evil is identified
+→ criticism supplies identity and reward
+→ part of the demand is fulfilled
+→ improvement threatens the oppositional role
+→ fulfilment is discounted
+→ a deeper grievance or successor object appears
+```
+
+Culture Mechanics does not attribute **renewable demand**, **negative-operational
+displacement**, or its death-drive taxonomy to Scheler.
+It uses his pathopsychology as an affective and value-perceptual predecessor and
+adds mythology packages, local bigOthers, institutional execution, field
+back-action, operational reward, correction gates, and drive direction.
+The link becomes strongest where an ideal functions prosecutorially against every
+real and therefore imperfect state, achieved improvement is discounted through
+comparison with the unchanged ideal, and criticism is cheaper and more
+repeatable than constructing a viable successor.
+That conjunction is a possible bridge into the existing [critique--construction
+asymmetry](#critiqueconstruction-asymmetry-and-negative-operational-displacement),
+not a definition of ideals, criticism, or Scheler's complete moral philosophy.
+
+The present integration retains **regulative ideal** and **prosecutorial ideal**
+as a working contrast rather than two exhaustive kinds of ideals.
+A regulative ideal guides feasible improvement, admits scarcity and trade-offs,
+recognizes partial achievement, revises its causal model, and makes the proposed
+successor bear institutions, maintenance, correction, and consequences.
+A prosecutorial ideal is used primarily as a costless standard of accusation:
+every embodied order is culpable because it remains imperfect, achieved repair
+is discounted against the unchanged abstraction, and the ideal itself need not
+enter reality under comparable constraints.
+The [equal-incarnation audit](#critiqueconstruction-asymmetry-and-negative-operational-displacement)
+is the discriminator.
+Neither aspiration, radical criticism, disappointment, nor failure to reach an
+ideal establishes the prosecutorial use; the classification requires asymmetric
+burdens, refusal of achieved correction, and renewable accusatory operation.
+
+##### Complementary source bridges without collapse
+
+The neighbouring sources explain different joints:
+
+| Source | Principal contribution | Non-equivalence |
+|---|---|---|
+| **Nietzsche** | Ressentiment can become value-productive: blocked retaliation can generate a morality beginning from an evil enemy and revalue involuntary weakness as virtue. | Nietzsche does not supply Scheler's phenomenology of selective value-perception or the Culture Mechanics execution architecture. |
+| **Scheler** | Psychic self-poisoning and organic mendacity can make value inversion sincerely experienced and culturally productive. | Scheler does not supply local bigOthers, programme installation, field back-action, or the project's drive taxonomy. |
+| **Lacan** | *Invidia* can concern the painful image of the other's apparent satisfaction rather than practical desire for the other's object. | The political conversion from intolerable enjoyment to organized diminution is an extension, not Lacan's complete social theory. |
+| **Girard** | The other indicates the desirable object, becomes a model-obstacle under rivalry, and can eclipse the object as defeating the rival becomes primary. | Mimetic rivalry is not Lacanian desire, Schelerian value-perception, or a necessary route to destruction. |
+| **Culture Mechanics** | Mythology can install villain, victim, guardian, cause, and remedy roles while reward and field back-action make the operation renewable. | Representability does not establish that a particular motive, programme, or case is present. |
+
+[Nietzsche's *On the Genealogy of
+Morality*](https://www.gutenberg.org/ebooks/52319) supplies the genealogical
+value-inversion source.
+Lacan's [*Seminar
+XI*](https://www.seuil.com/ouvrage/le-seminaire-livre-xi-jacques-lacan/9782020027618)
+supplies *invidia* and the spectacle of the other's satisfaction.
+The René Girard Association's account of [mimetic desire and
+rivalry](https://www.rene-girard.fr/le-desir-et-la-rivalite-mimetiques) supplies
+the model--obstacle bridge.
+The combined chain is a Culture Mechanics synthesis rather than a theory jointly
+asserted by those authors.
+
+Girard's further scapegoat mechanism concerns convergence of heterogeneous
+conflicts upon a victim whose persecution can temporarily reunify the group.
+It is not a synonym for envy or ressentiment.
+The [National Socialist detector-capture
+application](0060-culture-program-ecology.semantic-definition.md#national-socialist-capture-of-the-hidden-threat-detector)
+uses it only after preserving the separate affective, mythological, racial,
+institutional, and state-execution layers.
+
+Shakespeare's Iago is retained as a controlled literary miniature in
+[*Analogical
+Models*](0050-culture-mechanics-analogies.semantic-inventory.md#iago-rival-displacement-and-detector-capture).
+His function is to make visible the transition from recognizable grievance
+through rival displacement into a destructive project, and then the stronger
+operation of poisoning a relationship while presenting himself as its loyal
+betrayal detector.
+The figure illustrates a topology; it supplies no population evidence.
+
+##### Discriminators and defeat conditions
+
+The following tests distinguish positive repair, ressentiment conversion,
+adversary dependence, and death-drive renewal:
+
+1. **Flourishing versus diminution:** Would the subject prefer to improve while
+   the other continues to flourish, or remain unchanged while the other loses?
+2. **Fulfilment:** May an achieved remedy count as completion and release the
+   grievance?
+3. **Independent good:** What valuable activity remains if the adversary
+   disappears?
+4. **Noncausality:** Does evidence that the other's flourishing did not cause the
+   deprivation reduce hostility?
+5. **Stopping condition:** Can the programme name an observable condition under
+   which the conflict ends and allow that condition to occur?
+6. **Target substitution:** Does each defeated grievance produce a successor
+   target carrying the same negative operation?
+7. **Carrier consumption:** Does repetition consume competence, trust,
+   production, relationship, inheritance, or institutional capacity without a
+   viable successor?
+
+A stable preference for another's loss while one's own condition remains
+unchanged supports negative goal substitution, but does not alone prove a
+death-drive circuit.
+The latter requires evidence that resolution threatens the circuit, repetition
+outlives its stated purpose, or defeated targets and demands are renewed.
+
+The life-drive-compatible counter-movement is:
+
+```text
+present deprivation
+→ grief and discriminating anger
+→ supported causal discrimination
+→ preserved standing and future possibility
+→ development, contribution, relationship, protection, or repair
+→ independently valuable flourishing
+→ completion and renewed possibility
+```
+
+Another person's flourishing can again become evidence that a good exists and
+may be learnable, sharable, protectable, or constructible rather than proof that
+parallel flourishing is impossible.
+The song's seed-beneath-winter image supplies the originating life-drive
+countermovement: present deprivation need not define the final future.
+This is one application of the [affective return to uphill development
+mechanism](#affective-return-to-uphill-development), not a denial of injury or a
+requirement to accept an evidenced aggressor.
+
 <a id="program-reproduction-and-ragnarok-trajectory"></a>
 
 #### Program reproduction and the Ragnarök trajectory {#program-reproduction-and-ragnarok-trajectory}
@@ -3042,6 +3778,294 @@ Program without defining how installed or conduct-directing that program is.
 culture-mechanical causal hypothesis; not an established diagnosis of speakers
 or movements.
 
+<a id="hidden-threat-detection-and-detector-capture"></a>
+
+#### Hidden-threat detection, explaining-away, and detector capture {#hidden-threat-detection-and-detector-capture}
+
+The Hexe/Brunnenvergifter topology presents a different recognition problem from
+the Tyrant:
+
+```text
+TYRANT
+many can see the threat,
+but no individual dares to coordinate
+
+HEXE
+many may see one fragment,
+but no observer or institution assembles the fragments
+```
+
+A covert ingroup attack can appear as weak, distributed, individually ambiguous
+traces:
+
+```text
+unexplained failure
++ unusual access
++ misleading statement
++ damaged relationship
++ recurrence around one carrier or function
++ resistance to independent inspection
+→ possible hidden-ingroup-threat pattern
+```
+
+The detector may register an adverse common denominator before it can identify
+the mechanism, actor, intention, or membership of each event in the pattern.
+Culture Mechanics therefore preserves the sequence:
+
+```text
+DETECTION
+Is something adverse occurring?
+
+LOCALIZATION
+Where and around which functions or carriers does it recur?
+
+DIAGNOSIS
+Sabotage, deceit, incompetence, conflict of interest,
+capture, ressentiment, process failure—or what?
+
+ATTRIBUTION
+Who knew, intended, enabled, concealed, or failed to correct what?
+
+SANCTION OR REMEDY
+What response is supported, proportionate, answerable, and corrigible?
+```
+
+Uncertainty at a later gate must not erase an earlier supported finding.
+Conversely, an alert or recurring anomaly does not establish hostile intent,
+identify a culprit, or authorize punishment.
+This is the mythology-level application of the staged detection and attribution
+discipline owned by [*Epistemic
+Constitution*](0030-epistemic-constitution.semantic-definition.md#censorship-as-a-non-localizing-correction-closure-sentinel)
+and the response-calibrated evidence tiers in [*Culture Program
+Ecology*](0060-culture-program-ecology.semantic-definition.md#boundary-crossing-reality-challenges).
+
+**Legitimate explaining-away** is an evidential update:
+
+```text
+observation O supports cause A
++ independently supported competing cause B
+→ probability of A rationally decreases
+```
+
+**Exculpatory explaining-away** is the candidate failure mode in which a merely
+imaginable benign cause is treated as though it were evidence:
+
+```text
+observation O supports investigation
++ benign cause B can be imagined
+→ B is treated as independently supported
+→ O is reset
+→ dispersed traces never accumulate
+```
+
+This mechanism is narrower than the [auxiliary-un-reality explaining-away
+cascade](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-reality-explaining-away-cascade).
+It requires no socially operative authorized representation and can occur through
+ordinary reluctance to accuse, loyalty, harmony preference, diffusion of
+responsibility, or avoidance of investigative cost.
+Plausible benign explanations must be tested, not suppressed; mere ambiguity is
+not evidence of hostile agency.
+
+The conversation also produced a candidate concealment--detection arms-race
+hypothesis:
+
+```text
+overt ingroup aggression is readily detected and punished
+→ recurrently successful hostility becomes more concealed, indirect, or deniable
+→ group defence becomes sensitive to weak and distributed traces
+→ successful concealment supplies an innocent-looking account for each trace
+→ observers complete the camouflage when mere possibility resets every warning
+```
+
+On this hypothesis the Hexe/Brunnenvergifter archetype functions as cultural
+anti-explaining-away memory: hidden harm can arrive through familiar hands,
+ordinary access, dispersed misfortunes, and individually plausible accidents.
+The hypothesis does not imply that concealment must evolve, that every ambiguous
+event belongs to one actor, or that a hostile explanation deserves weight without
+evidence.
+It predicts only that detector sensitivity, cultural memory, concealment, and
+benign reconstruction can adapt to one another over repeated social conflict.
+
+The detector requires two deliberately different thresholds:
+
+| Threshold | Function | Appropriate burden |
+|---|---|---|
+| **Alert and preservation** | Join anomalies, preserve records, compare access and timing, and initiate independent examination. | Recurrent or serious anomaly sufficient to justify low-regret investigation. |
+| **Attribution, restriction, and sanction** | Assign causal responsibility or impose a person-directed consequence. | Causal linkage, corroboration, rival comparison, answerable procedure, proportionality, and appeal fitted to the consequence. |
+
+Making both thresholds high allows covert serial harm to remain invisible.
+Making both thresholds low converts every anomaly into a possible witch hunt.
+The detector must be able both to accuse and to acquit.
+
+The documented **healthcare serial killer** or German *Todesengel* is a
+non-supernatural limit case of the topology:
+
+```text
+trusted caregiver
++ vulnerable population
++ expected illness or death
++ divided records and rotating observers
++ locally plausible explanations
+→ severe harm with weak diagnostic visibility
+```
+
+The case demonstrates the operational possibility of betrayal through
+weaponized entrusted access and institutional failure to integrate fragments.
+It does not establish one universal motive or justify suspicion of caregivers as
+a class.
+It also exposes a role-based exculpatory inference:
+
+```text
+caregiver role
+→ warranted baseline trust and legitimate intimate access
+→ role identity treated as evidence against operational anomalies
+→ “a caregiver would not do that”
+→ investigation or cross-case integration is deferred
+```
+
+This is a domain-specific application of
+[role-conferred epistemic authority
+spillover](0020-epistemic-agency.semantic-definition.md#forms-of-authority-and-epistemic-spillover):
+the ordinary goodness of the role can supply both necessary trust and exceptional
+camouflage when role identity substitutes for examination of conduct.
+The prior remains rational at baseline; its self-sealing use against joined
+counterevidence is the failure.
+
+Some documented healthcare-killer cases also motivate a narrower
+manufacture--rescue branch:
+
+```text
+create or intensify danger
+→ appear when the danger becomes visible
+→ participate in rescue
+→ receive excitement, attention, control, recognition, or guardian standing
+→ repeat
+```
+
+This branch shares the “steal both the wound and the cure” topology without
+requiring a false accusation against a rival.
+Its presence, motive, reward, and recurrence must be established case by case;
+the healthcare role, one failed rescue, or suspicious access proves none of them.
+Reviews of [healthcare serial-killer detection and
+prevention](https://pmc.ncbi.nlm.nih.gov/articles/PMC10518281/) and [German,
+Austrian, and Swiss forensic
+cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC9489338/) supply the empirical
+bridge; the mythology construct remains the more general relation.
+
+##### Poison-and-accuse and materialized projective vandalism
+
+**Poison-and-accuse** is a proposed compound operation in which a covert actor
+produces real harm, attributes that harm to a rival, captures the community's
+hidden-threat detector, appropriates the guardian role, and recruits collective
+force against the rival while concealing the originating operation.
+
+```text
+ressentiment or another motive
+→ covertly damage a shared or life-sustaining good
+→ ensure that the damage appears anomalous
+→ attribute the damage to a rival
+→ activate and localize the hidden-threat detector
+→ appear as witness, victim, or guardian
+→ cause the group to strike the rival
+→ receive vindication, status, trust, jurisdiction, or possible jouissance
+→ preserve access for renewed operation
+```
+
+The compound can solve several problems at once for a weak covert actor: harm
+the group, destroy a rival without direct confrontation, divert attribution, and
+convert private hostility into public moral authority.
+The actor occupies the actual-poisoner and apparent-guardian positions while the
+group sees only the latter.
+
+The compact archetypal image is that the actor **steals both the wound and the
+cure**: create the injury, name its supposed author, lead the hunt or rescue, and
+receive the standing generated by protection from the manufactured threat.
+
+The harm is real but the actor attribution is false:
+
+```text
+REAL HARM H
++ FALSE ATTRIBUTION “R caused H”
+→ correct alarm
++ false localization
+```
+
+The mechanism therefore differs from fabrication of an event that never
+occurred.
+Anyone who checks whether H occurred finds that it did; the operation attempts
+to transfer the reality of the effect to a false account of its source.
+
+**Materialized projective vandalism** adds that actor-produced footprint to the
+earlier circuit:
+
+```text
+externalize the blemish
+→ materialize its footprint
+→ appropriate the virtue
+→ mobilize against the blemish
+→ strike from the stolen guardian position
+→ enjoy the strike
+```
+
+It can join three separately owned operations:
+
+1. [Accusation in a Mirror](0030-linguistic-tricks.semantic-inventory.md#lt-027-accusation-in-a-mirror)
+   attributes the actor's aggression to the prospective victim.
+2. Projective vandalism makes the stained target a repeatable object of attack.
+3. Captured threat detection uses real harm to mobilize protection while the
+   saboteur controls localization.
+
+Strategic moral reattribution can complete the exchange:
+
+```text
+envy or hostility  → vigilance
+revenge             → protection
+sabotage            → evidence of enemy activity
+rivalry             → public duty
+private attack      → moral courage
+```
+
+Schelerian organic mendacity supplies one candidate explanation for how the
+larger accusation may be sincerely inhabited even where a local item of evidence
+is knowingly manipulated.
+It is not necessary to the operation and must not be inferred from it.
+
+Evidence for poison-and-accuse requires the produced harm, causal means and
+opportunity, the false localization, the guardian-role appropriation, and the
+resulting mobilization to be separately established.
+Evidence for ressentiment, conscious design, affective reward, recurrent intent,
+or death-drive renewal requires still further gates.
+
+A paired evidence asymmetry can supply a warning profile for investigation:
+
+```text
+evidence adverse to the candidate guardian
+→ isolate each item
+→ explain it away separately
+→ demand complete proof before integration
+
+evidence adverse to the accused rival
+→ join weak items aggressively
+→ interpret ambiguity adversely
+→ treat denial or acquittal as further concealment
+```
+
+The profile does not establish poison-and-accuse, guilt, or conscious deception.
+It must itself be demonstrated through matched cases, and a material causal
+difference can justify different evidential treatment.
+Its use is to direct a symmetric audit of integration, rival causes, correction,
+and genuine defeaters rather than to reverse the accusation automatically.
+The principal defeaters include an independently supported source of harm,
+accurate attribution to the accused, absence of an actor-produced footprint,
+correction after contrary evidence, and a bounded protective operation that ends
+when the demonstrated threat is removed.
+
+Iago supplies the controlled literary compression: he poisons the relational
+well, manufactures signs of betrayal, presents himself as the reluctant loyal
+detector, and uses Othello as the overt striking force.
+The analogy clarifies the role topology but cannot establish that a real person,
+group, or institution occupies it.
+
 **Catharsis without transformation**
 
 ```text
@@ -3064,9 +4088,18 @@ display → recognition → repeat display
 
 The term is borrowed from [Andrew M. Łobaczewski's *Political Ponerology*](https://books.google.com/books/about/Political_Ponerology_A_Science_on_the_Na.html?id=H1GYNFhCYvYC), where *paramoralism* names morally suggestive language that serves pathological or deceptive ends. Łobaczewski's wider theory is controversial and is not adopted here. **Paramorality** is used more narrowly for an observable semantic operation: aggression, envy, irresponsibility, or vandalism is reclassified as care, justice, liberation, authenticity, or resistance. The drive receives gratification while the bigOther supplies moral approval.
 
-**Effort concealment**
+**Effort concealment (legacy shorthand)**
 
-Stories display achievement while omitting training, repetition, failure, compromise, and maintenance. Recipients then experience effort shock when reality refuses the promised ease.
+Stories can display achievement while omitting training, repetition, failure,
+compromise, and maintenance, after which recipients experience effort shock when
+reality refuses the reconstructed ease.
+The typed mechanism is now [**effort-price
+compression**](#effort-price-compression-and-effort-entitlement).
+Compression does not require deliberate concealment: narrative economy,
+selection, convention, recipient reconstruction, or transparent fictional
+abbreviation can produce it.
+Use *effort concealment* only when evidence separately supports knowing omission
+intended to preserve the misleading price model.
 
 **Collective downhillness**
 
@@ -5949,10 +6982,10 @@ mechanism:
 
 | Source or source lead | Contribution | Boundary |
 |---|---|---|
-| **Kenneth Minogue, *Alien Powers*** | Supplies the **generative domination grammar** and the reconstruction of the narrower **Minogue-ideology** subtype, which can become metaphysically maximal, institutionally underspecified, and operationally negative. | Minogue is an adversarial source and does not supply the project's generalized Ideology genus. His pure model does not classify every ordinary-language ideology, Critical Theory, environmental programme, or Diversity programme, establish a genealogy, or prove motive. |
+| **Kenneth Minogue, *Alien Powers*** | Supplies the **generative domination grammar** and the reconstruction of the narrower **Minogue-ideology** subtype, including praxis as the claimed unity of theory and transformative action, struggle as corrected sight and education of the struggler, ideological truth conditions converging in result with adherence, contradiction-guided navigation, vanguard fabrication, and the terminal destruction-of-practice paradox. | Minogue is an adversarial source and does not supply the project's generalized Ideology genus, generic joint-codebook-formation mechanism, or the complete constituency-production loop reconstructed by Culture Mechanics. His pure model does not classify every ordinary-language ideology, Critical Theory, environmental programme, or Diversity programme, establish a genealogy, prove motive, or show that participation guarantees truth. |
 | **Deborah A. Stone, “Causal Stories and the Formation of Policy Agendas”** | Explains how causal stories allocate sympathy, blame, responsibility, expertise, burdens, and remedies and turn a condition into a governable problem with a legitimate fixer. | Stone does not imply that structural causation is fictional, every causal story is false, or effective benefit proves intention. |
 | **Thomas Sowell, *The Quest for Cosmic Justice*, *Knowledge and Decisions*, and related work** | Supplies the surrogate-decision problem created by counterfactual or differentiated justice, the loss of dispersed practical knowledge, attenuated error feedback, and the question of who decides and who bears error. | Sowell does not supply the complete project custody chain, and his critique does not make every delegated, expert, group-sensitive, restitutive, or open-textured decision arbitrary. |
-| **David Horowitz, “From Red to Green”** | Supplies the polemical ecological-transition hypothesis and the special image of Nature as a constituency unable to reject those who claim to speak for it. | The local source is a situated polemic, not proof of a red-to-green genealogy, coordinated intent, or a classification of environmentalism as a whole. |
+| **David Horowitz, “From Red to Green”** | Supplies the polemical ecological-transition hypothesis and the special image of Nature as a constituency unable to reject those who claim to speak for it. | Horowitz's essay is a situated polemic, not proof of a red-to-green genealogy, coordinated intent, or a classification of environmentalism as a whole. |
 
 The project synthesis is:
 
@@ -5983,7 +7016,7 @@ Minogue calls the pure ideological idea less a doctrine than a “machine for
 generating doctrines” and gives its simplest premise as the claim that all evils
 are caused by an oppressive system. This is the generative core of the narrower
 **Minogue-ideology**, not the definition of the generalized Ideology family
-([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), Chapter 1). The project
+([*Alien Powers*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf)). The project
 translation treats **machine** as a portable grammar:
 
 ```text
@@ -6910,7 +7943,9 @@ That definition requires evidence of conduct, method, knowledge, incentive, and 
 
 Defence requires more than correcting isolated claims. A destructive actor can change the claim while retaining the same psychological and rhetorical mechanism.
 
-#### Covert trusted-opinion-leader capture and trusted-channel rebraiding
+<a id="covert-trusted-opinion-leader-capture-and-trusted-channel-rebraiding"></a>
+
+#### Covert trusted-opinion-leader capture and trusted-channel rebraiding {#covert-trusted-opinion-leader-capture-and-trusted-channel-rebraiding}
 
 The originating defensive threat model can be stated plainly:
 
@@ -7068,6 +8103,19 @@ causally independent; separate pastoral, coordinative, normative, and epistemic
 authority; keep appointment and succession processes inspectable; protect internal
 dissent and external evidence routes; and make corrections travel through the same
 cascade as the original claim.
+
+At movement or polity scale, captured trusted carriers can affect two distinct
+interfaces.
+If their feedback, interpretation, or correction function is disabled, the field
+can run blind.
+If they retain implementation authority beneath a captured directing function,
+the field can use its own trust and coordinated capacity to execute a substituted
+direction.
+[*Culture Program Ecology* calls the intervening helm-level mechanism
+**directing-organ capture** and its full retained-form result a **pseudomorphic
+chief**](0060-culture-program-ecology.semantic-definition.md#directing-organ-capture-and-pseudomorphic-chief).
+Trusted-opinion-leader capture, directing-organ capture, and implementation
+capture can occur separately; none requires ressentiment.
 
 Where a program-level hazard is suspected, the same map identifies the
 **Culture Program carrying structure**: finance, organizations, formation,
@@ -8471,10 +9519,10 @@ develops a longer chain than the Lindsay formulation. The generalized
 is a Culture Mechanics development. **Minogue-ideology** is its narrower source-
 derived subtype:
 
-The local [*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf) transcription also contains
-Martyn P. Thompson's foreword and appended critical essays. Those voices are not
-attributed to Minogue here; the source claims below are checked against Minogue's
-own main text and 2006 introduction unless another contributor is named.
+The cited edition also contains Martyn P. Thompson's foreword and appended
+critical essays. Those contributions are not attributed to Minogue here: the
+source claims below are checked against his main text and 2006 introduction
+unless another contributor is named.
 
 > **A Minogue-ideology is an Ideology whose generator joins a hidden oppressive
 > system, opposed structural positions, asymmetric or false consciousness,
@@ -8485,20 +9533,17 @@ own main text and 2006 introduction unless another contributor is named.
 This subtype keeps Minogue's fitted argument rather than reducing it to one use
 of *oppressor* or *oppressed*. His own opening formulation identifies an abstract
 idea “less a doctrine than a machine for generating doctrines,” whose simplest
-rule makes the world's evils products of an oppressive system
-([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), Chapter 1). Chapter 6 adds the
+rule makes the world's evils products of an oppressive system. Chapter 6 adds the
 revelatory structure: ideology presents the “grand secret” that the culture is
 designed to conceal, can treat denial as evidence that the denier is a dupe of
-the structure, and thereby places the revelation above reciprocal judgment
-([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6497--6523).
+the structure, and thereby places the revelation above reciprocal judgment.
 
 The perceptual form matters. Minogue distinguishes the hard intellectual labour
-of theorizing from revelation's promised “effortless form of a perception”
-([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6679--6686). He also exposes
+of theorizing from revelation's promised “effortless form of a perception”.
+He also exposes
 the circularity of ideological training: adherents are taught that they merely
 remove false ideas and learn to see what is already present, while correct sight
-becomes available only after they have learned the ideology
-([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 6590--6630). Culture
+becomes available only after they have learned the ideology. Culture
 Mechanics types this as a two-stage relation:
 
 ```text
@@ -8550,8 +9595,7 @@ difficult theory; he simply sees through a socially maintained appearance.
 Ideology extends that model of innocent perception to objects that cannot
 literally be seen: historical direction, hidden causal structure, future
 contradiction, collective task, and the necessity of political transformation.
-Inference and imagination thereby acquire the authority of eyesight
-([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 7101--7250).
+Inference and imagination thereby acquire the authority of eyesight.
 
 Perceptual verbs can consequently compress several distinguishable operations:
 
@@ -8574,8 +9618,7 @@ Minogue also compares ideology with religion. Both can use awakening,
 illumination, purification, and a faith-before-understanding sequence. His
 bounded differentiating claim is that orthodox Christianity treats human
 limitation and imperfect earthly life as permanent, whereas ideology promises
-earthly illumination joined to social transformation
-([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around lines 1324--1362 and 6700--6740).
+earthly illumination joined to social transformation.
 In his Latin contrast, ideology replaces *credo ut intellegam* with *contendo ut
 intellegam*: in working paraphrase, not merely *believe so that you may
 understand*, but *enter the struggle so that you may understand*.
@@ -8586,13 +9629,88 @@ become closed, while secular inquiry can remain corrigible. The narrower point i
 how Minogue distinguishes ideological revelation's claim to comprehensive
 worldly sight and transformative power.
 
+**Praxis is the operative hinge in that claim.**
+Minogue does not present it as merely putting an independently completed theory
+into practice.
+Praxis gathers human activities into one dialectical development, joins
+interpretation to transformative struggle, and claims that involvement corrects
+the static perception available to an observer standing outside the struggle.
+Those involved in emancipation are therefore supposed to see concealed
+contradictions and historical movement with a clarity otherwise unavailable.
+
+Praxis also forms the participant.
+Minogue's account of the underspecified ideological terminus says that change and
+human response remain reciprocal: “the struggle itself will educate the response
+of the strugglers”.
+The future society need not be operationally specified in advance because the
+struggle is expected to produce persons with the consciousness appropriate to
+it.
+Theorizing then becomes an aspect of praxis that converts perceived
+contradictions into navigational beacons; after victory, this orientation gives
+way to unavoidable fabrication and a vanguard's tutorial task of shaping the
+required population.
+
+The source sequence is:
+
+```text
+theory interprets the incumbent order through contradiction
+→ participation enters and changes the struggle
+→ struggle changes circumstances and educates the struggler
+→ the learned interpretation is experienced as corrected sight
+→ new contradictions guide further theory and action
+→ victory exposes the missing operational terminus
+→ vanguard fabrication substitutes for the promised education of praxis
+```
+
+One recursive branch within that sequence requires a source--synthesis
+distinction.
+Minogue supplies the premise that praxis is supposed to correct perception and
+that, in the ideological revelation, the conditions of truth converge in their
+results with adherence to the ideology.
+Culture Mechanics reconstructs the further constituency-production loop:
+
+```text
+doctrine identifies an oppressed subject and hidden structure
+→ formation teaches candidates to interpret themselves through that category
+→ participation produces a mobilized constituency and transformed consciousness
+→ the produced constituency and consciousness are read as confirmation
+→ the guiding doctrine gains authority from evidence it helped to generate
+```
+
+The production of carriers, solidarity, and coordinated action can be a real
+social consequence without independently validating the doctrine that organized
+their formation.
+The relevant checks are whether the category predicted independently available
+evidence, whether participants can reject it without having rejection
+preclassified as false consciousness, and whether mobilization is being counted
+as truth by stipulation.
+
+The chain's terminal boundary is the destruction-of-practice paradox
+distinguished below.
+
+Culture Mechanics accepts neither the promised epistemic privilege nor the
+closure as a generic property of practice.
+It uses Minogue's account as a source case for [**joint codebook
+formation**](0020-epistemic-agency.semantic-definition.md#joint-codebook-formation-and-coordination):
+consequential participation can reconstruct conceptual, evaluative, role, and
+action codebooks, make compressed movement language executable, and transform
+what participants readily perceive and coordinate.
+Whether this produces competence or a self-confirming programme depends upon the
+independence of consequences, admissibility of counterexamples, and openness of
+correction.
+The domain-contact, symbolic-addressing, codebook, and communication mechanism is
+a Culture Mechanics synthesis; it is not Minogue's terminology.
+
 Minogue's image of persons becoming “drops of water in a clear pond” belongs to
-his limiting account of the ideological terminus
-([*Alien Powers: The Pure Theory of Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf), around line 8027). It is a source bridge
+his limiting account of the ideological terminus. It is a source bridge
 to subjecthood absorption, but it is not a necessary property of generalized
 Ideology: another Ideology can retain ranks, castes, offices, or differentiated
 roles. Minogue also distinguishes his pure type from actual movements, which
 must respond to constituencies and often become reformist or revisionist.
+The distinct institutional route by which a capable [superorganismic
+coordination system](0060-culture-program-ecology.semantic-definition.md#institutional-nervous-system-and-superorganismic-coordination)
+could approach that terminus belongs to Culture Program Ecology; coordination
+capacity alone neither is nor proves clear-pond fusion.
 
 Minogue retained the oppression--struggle--liberation structure in later work.
 His chapter [“Ideology Challenges
@@ -8665,7 +9783,8 @@ the ideological terminus abolishes the distinctions among agent, world, desire,
 risk, frustration, essence, and existence that make human practice possible.
 Minogue concludes that pronouncing civilization rotten becomes hatred of any
 possible human life and calls the proposal “the cosmic equivalent of a **suicide
-pact**.” In the second argument, ideology extends domination until meaningfulness
+pact**”.
+In the second argument, ideology extends domination until meaningfulness
 itself becomes domination; because no human world without meaning is imaginable,
 Minogue concludes that the metaphysical attempt to overthrow domination is “the
 **attempt to destroy humanity**.”
@@ -9155,7 +10274,8 @@ A citation under “retained” supports the named concept, not every inference 
   project developments.
 - **Common decency, moral smell, and the corpse-pyramid judgment — George
   Orwell:** the passage is reproduced in Giles Udy's
-  [*At Dawn They Came*](https://historyoftotalitarianism.com/at-dawn-they-came-by-giles-udy/). Orwell's letter to Humphry House supplies
+  [*At Dawn They Came*](https://historyoftotalitarianism.com/at-dawn-they-came-by-giles-udy/).
+  Orwell's letter to Humphry House supplies
   the common-decency and putrid-regime judgment. The outcome-priority rule,
   integration with strong Durkheimian accountability, and distinction between
   moral stop signal and completed causal attribution are Culture Mechanics
@@ -9194,10 +10314,18 @@ A citation under “retained” supports the named concept, not every inference 
   The Pure Theory of
   Ideology*](https://api.pageplace.de/preview/DT0400.9781351321556_A31471797/preview-9781351321556_A31471797.pdf).
   The multi-step sequence is a Culture Mechanics reconstruction of Minogue's
-  argument. “Suicide pact” and “attempt to destroy humanity” are his distinct
-  terminal judgments, not one combined quotation or evidence of actor intent.
+  argument.
+  His praxis account supplies the claimed unity of theory and action, corrected
+  sight through struggle, education of the struggler, contradiction-guided
+  navigation, vanguard fabrication, and the terminal paradox in which liberation
+  of praxis destroys practice.
+  “Suicide pact” and “attempt to destroy humanity” are his distinct terminal
+  judgments, not one combined quotation or evidence of actor intent.
+  The generic domain-contact, codebook, communication, and clockwork-coordination
+  mechanism remains a project synthesis rather than Minogue's theory.
 - **Nature as a constituency unable to dismiss its claimed representative and
-  the proposed red-to-green transition — David Horowitz:** [“From Red to Green,” in *Deconstructing the Left: From Vietnam to the Persian Gulf*](https://books.google.com/books/about/Deconstructing_the_Left.html?id=LQUEAQAAIAAJ).
+  the proposed red-to-green transition — David Horowitz:** [“From Red to Green”
+  in *Deconstructing the Left*](https://books.google.com/books/about/Deconstructing_the_Left.html?id=LQUEAQAAIAAJ).
   Horowitz supplies a situated polemical interpretation and the silent-
   constituency image. He does not supply the project's complete
   silent-principal mechanism, establish the genealogy, prove strategic intent, or
@@ -9616,6 +10744,62 @@ the complete Culture Mechanics construct.
 
 **Status: borrowed metaphor, expanded machinery.** [Jonathan Haidt and collaborators](https://moralfoundations.org/publications/) use the taste-receptor analogy for plural, partly evolved moral foundations whose expression is culturally elaborated. The present framework retains that idea but expands the species-typical “machinery” beyond the enumerated foundations to narrative learning, motivation, social imitation, and collective coordination. The expanded list is not Moral Foundations Theory itself.
 
+#### Ressentiment, organic mendacity, *invidia*, and mimetic rivalry
+
+**Status: distinct source concepts joined by a project-developed pathway.**
+[Nietzsche's *Genealogy of
+Morality*](https://www.gutenberg.org/ebooks/52319) supplies ressentiment as a
+genealogically value-productive reactive formation.
+[Max Scheler's *Das Ressentiment im Aufbau der
+Moralen*](https://www.klostermann.de/Das-Ressentiment-im-Aufbau-der-Moralen/3465043049)
+supplies psychic self-poisoning, organic mendacity, and the pathopsychology of
+cultural value inversion while disagreeing with Nietzsche's genealogy of
+authentic Christian love.
+Lacan's [*Seminar
+XI*](https://www.seuil.com/ouvrage/le-seminaire-livre-xi-jacques-lacan/9782020027618)
+supplies *invidia* as directed toward the image of the other's apparent
+satisfaction rather than merely practical desire for the other's object.
+René Girard supplies mimetically mediated desire, model--obstacle rivalry, and
+the distinct scapegoat mechanism.
+**Ressentiment conversion**, its staged path into negative goal substitution and
+possible death-drive renewal, and the joint non-collapse map among the four
+sources are Culture Mechanics developments.
+The **regulative-ideal--prosecutorial-ideal** working contrast and its
+equal-incarnation discriminator are also project developments rather than terms
+attributed here to Nietzsche, Scheler, Lacan, or Girard.
+The project does not attribute local bigOthers, Culture Programs, field
+back-action, renewable demand, negative-operational displacement, or its drive
+taxonomy to Nietzsche, Scheler, Lacan, or Girard.
+Jason Pargin's “How ‘The Karate Kid’ Ruined the Modern World” supplies the
+*effort shock* source term and training-montage image.
+**Effort-price compression**, **effort-entitlement conversion**, their three-way
+branch into developmental update, finite justice claim, or possible ressentiment
+conversion, and their connection to operation-rich praxis are Culture Mechanics
+developments rather than Pargin's complete theory.
+
+#### Archetypal compression and hidden-threat preparedness
+
+**Status: recurrent external material organized through a project-developed
+intermediate layer.**
+Cross-cultural witchcraft and poisoner traditions supply recurring hidden-harm
+figures; Singh and Koning supply distinct cultural-attractor and evolutionary
+source hypotheses; and documented healthcare serial killing supplies a
+non-supernatural operational limit case.
+**Archetypal compression**, the **prepared hidden-ingroup-threat detector**, the
+Tyrant--Hexe endogenous-threat contrast, and their placement between moral taste
+buds and historically specific mythology are Culture Mechanics proposals.
+Haidt supplies the anti-dominance preparation and trigger-expansion source
+bridge; the capture sequence in which mere flourishing inherits the Tyrant cue,
+and the concealment--detection arms-race hypothesis, are Culture Mechanics
+extensions.
+The shadow-yin functional inversion, the non-exclusive combination of
+Tyrant--Hexe modes, the role-based exculpatory inference and manufacture--rescue
+healthcare branches, and paired evidence asymmetry as a poison-and-accuse warning
+profile are further Culture Mechanics developments from the source conversation
+and comparative material.
+They do not establish a dedicated genetic module, a supernatural ontology, the
+truth of any accusation, or one motive for every covert betrayer.
+
 #### Active gene–environment correlation and gene–culture coevolution
 
 **Status: established mechanisms given a new target hypothesis.** Active
@@ -9737,9 +10921,18 @@ The following terms should be attributed to the present synthesis unless indepen
   capitulation and transfer of the future**, and the routing--storage--hysteresis
   distinctions as explicitly immature formation trunks rather than a completed
   theory of ethnogenesis;
-- **cultural nucleation**, **nucleation core**, and **anti-nucleation** as trunk
-  concepts whose non-analogical content is mutual discovery, common knowledge,
-  recurrent coordination, propagation, and succession;
+- **cultural nucleation**, **nucleation core**, and the co-canonical terms
+  **anti-nucleation** and ***Zersetzung*** as trunk concepts whose non-analogical
+  content is mutual discovery, common knowledge, recurrent coordination,
+  propagation, and succession;
+- **social nucleation** and **epistemic nucleation** as interacting person-joining
+  and observation-joining functions within that trunk rather than independent
+  Culture Program types; **mutual-discovery suppression** as the upstream
+  anti-nucleation subtype that blocks their common-knowledge threshold;
+  **induced self-denucleation** as the outcome-form in which manipulated betrayal
+  signals cause a group to sever its own trust and coordination relations; and
+  **detector-capture anti-nucleation** as that outcome's hidden-threat-detector
+  route rather than a second construct;
 - **cultural futurization**, **archive-to-grammar conversion**, and **open versus
   untrue futurization** as trunk concepts separating nostalgia, preservation,
   restoration, and future-bearing inheritance;
@@ -9868,6 +11061,49 @@ The following terms should be attributed to the present synthesis unless indepen
   project-level demand, contrasted with both open desire and a renewable demand;
   the term and three-way analytical distinction are project-developed even though
   desire and demand are Lacanian source terms;
+- **ressentiment conversion** for the contingent transition in which another's
+  flourishing becomes evidence or the supposed cause of one's wrongful
+  exclusion and diminishing that flourishing begins to substitute for building
+  an independently valuable good, together with the staged separation among
+  deprivation, envy or mimetic desire, grievance, negative goal substitution,
+  adversary dependence, and possible death-drive renewal;
+- the **regulative-ideal--prosecutorial-ideal working contrast** for separating
+  an ideal that guides feasible, corrigible improvement and bears equivalent
+  successor constraints from one used principally as a costless, renewable
+  accusation standard against every embodied order;
+- **effort-price compression** for a mythology that preserves visible arrival
+  while abbreviating apprenticeship, prerequisites, failure, maintenance,
+  scarcity, support, chance, and embodied limits, and **effort-entitlement
+  conversion** for the further move from experienced exertion through presumed
+  payment of the complete price to an owed outcome and a presumed guilty
+  blocker; Pargin supplies the source term *effort shock* and training-montage
+  image, not these two Culture Mechanics mechanisms or the ressentiment link;
+- **archetypal compression** for a recurrent relation-and-role grammar distilled
+  from many situations and positioned between prepared sensitivities and one
+  historically specific mythology; **prepared hidden-ingroup-threat detector**
+  for the composite alert joining harm, betrayal, cheating, contamination,
+  agency, reputation, concealed-hostility, and anomalous-misfortune
+  sensitivities; and the Tyrant--Hexe contrast as their endogenous-threat
+  topology rather than a demographic-sex classification; together with the
+  **captured anti-Tyrant pathway** in which superiority or flourishing inherits
+  a domination cue and renewed punitive guardianship displaces correction of
+  evidenced coercion;
+- **exculpatory explaining-away** for treating a merely imaginable benign cause
+  as though it were independently supported evidence and thereby repeatedly
+  resetting distributed anomalies before they can accumulate, kept distinct
+  from legitimate rival-cause updating and the wider auxiliary-un-reality
+  cascade; and the **concealment--detection arms-race hypothesis** in which
+  concealed hostility, distributed vigilance, innocent-looking local accounts,
+  and cultural anti-explaining-away memory can adapt to one another over repeated
+  conflict;
+- **poison-and-accuse** for the compound operation in which a covert actor
+  produces real harm, falsely localizes it onto a rival, captures a community's
+  hidden-threat detector, appropriates the guardian role, and recruits collective
+  force against the rival; **materialized projective vandalism** for the
+  actor-produced footprint that lets real harm supply apparent confirmation for
+  a false attribution; and **captured hidden-threat detector** for the wider
+  failure in which a necessary betrayal alert is disabled, falsely localized, or
+  made self-sealing;
 - the **critique–construction asymmetry hypothesis** for programmes whose
   practices of grievance discovery, delegitimation, unbraiding, and mobilization
   become more operationally developed than their practices of construction,
@@ -10255,10 +11491,18 @@ The following terms should be attributed to the present synthesis unless indepen
   and Braidotti affirmative posthuman displacement. They are different
   positions, not one lineage, programme, or automatic Diversity classification.
 - **Minogue source boundary:** the grievance-to-post-utopian-critique sequence is
-  a project reconstruction of *Alien Powers*. Its “suicide pact” and “attempt to
-  destroy humanity” conclusions are two distinct attributed terminal judgments,
-  not one exact sentence, proof of conscious intent, or a self-authenticating
-  death-drive or Ragnarök classification.
+  a project reconstruction of *Alien Powers*.
+  Minogue supplies the praxis source chain from theory--action unity through
+  corrected sight, struggle-formed consciousness, contradiction-guided action,
+  ideological truth conditions converging in result with adherence, vanguard
+  fabrication, and the destruction-of-practice paradox.
+  The constituency-production loop is a Culture Mechanics reconstruction;
+  Minogue does not supply the project's generic domain-contact, codebook,
+  communication, or clockwork-coordination mechanism.
+  His “suicide pact” and “attempt to destroy humanity” conclusions are two
+  distinct attributed terminal judgments, not one exact sentence, proof of
+  conscious intent, or a self-authenticating death-drive or Ragnarök
+  classification.
 - **Two substantive research paths:** endogenous mythology formation describes
   distributed, substantially undesigned plant-like growth and selection; the
   prospective purposive-construction branch asks how far intervention guided by a
@@ -10431,6 +11675,39 @@ The following terms should be attributed to the present synthesis unless indepen
 - **Entry question:** Why would this population recognize and adopt the mythology?
 - **Momentum question:** Which path does the mythology make psychologically downhill or uphill?
 - **Destination question:** Does repetition move toward life-drive creation or death-drive sterility and destruction?
+- **Ressentiment-conversion pathway:** another's flourishing can move from
+  exemplar of possible good to evidence or supposed cause of wrongful exclusion;
+  the other's diminution can then substitute for constructing one's own good,
+  and mythology can make the negative operation authorized and renewable.
+  This is one contingent route into death-drive, not the origin of every
+  grievance or death-drive programme.
+- **Effort-price pathway:** a mythology can compress the apparent price of
+  mastery or recognition; experienced effort can then be converted into proof
+  that the whole price was paid and the result is owed; collision with reality
+  can produce developmental updating, a finite justice claim, or possible
+  ressentiment conversion.
+  Subjective cost does not establish the complete causal price or a guilty
+  blocker, while the mechanism does not deny real exclusion, corruption,
+  inherited advantage, scarcity, or unfair selection.
+- **Source non-collapse:** Nietzsche supplies genealogical value inversion;
+  Scheler supplies psychic self-poisoning, organic mendacity, and sincerely
+  deformed value-perception; Lacan supplies *invidia* and the other's apparent
+  enjoyment; Girard supplies model--obstacle rivalry and the distinct scapegoat
+  mechanism; Culture Mechanics supplies installation, authorization, reward,
+  field back-action, correction, and drive direction.
+- **Archetypal-compression hypothesis:** prepared moral and social sensitivities
+  can be culturally compressed into recurrent relation-and-role grammars before
+  receiving one historical mythological cast.
+  The Tyrant represents overt endogenous domination; the Hexe/Brunnenvergifter
+  represents concealed betrayal through weaponized entrusted access.
+- **Hidden-threat-detector rule:** join distributed anomalies without
+  preassigning the actor, preserve a sensitive alert-and-evidence threshold and a
+  demanding attribution-and-sanction threshold, and require genuine defeaters
+  and capacity to acquit.
+- **Detector-capture sequence:** poison-and-accuse produces real harm, falsely
+  localizes it onto a rival, appropriates the guardian role, and recruits
+  collective force; materialized projective vandalism names the actor-produced
+  footprint that can make the false localization appear reality-anchored.
 - **Formative mechanism:** sublimation and education of psychological taste.
 - **Durable implementation:** ritual, practice, selection, reward, sanction, institution, infrastructure, and memory.
 - **Scale problem:** coupling strength and radius, random/clockwork/laser crowd
@@ -10549,6 +11826,13 @@ The following terms should be attributed to the present synthesis unless indepen
   surface → morally authorized symbolic strike → audience resonance → possible
   denunciatory jouissance → reality-independent repetition; the motivational
   sequence remains a hypothesis with instrumental and institutional rivals.
+- **Ressentiment and death-drive discriminators:** ask whether the subject would
+  prefer personal improvement alongside the other's flourishing or unchanged
+  deprivation alongside the other's loss; whether fulfilment may count as
+  fulfilment; what independently valuable good remains without the adversary;
+  whether noncausality evidence reduces hostility; whether a stopping condition
+  can occur; whether targets migrate; and whether the circuit consumes its
+  carriers.
 - **Defensive sequence:** apologetic repair → immunization → superior constructive attractor → recovery → containment and deterrence.
 - **Accountability rule:** sanctions attach to demonstrable conduct and causal responsibility.
 - **Central normative distinction:** cultural replication is not identical to human or civilizational flourishing.
@@ -10717,6 +12001,16 @@ Mythological conflict:
 > authority, membership, or institutional embodiment → mythological conflict →
 > incompatible governing programs → cultural-program conflict**
 
+Cultural nucleation and anti-nucleation (*Zersetzung*):
+
+> **social mutual discovery + epistemic observation joining + common knowledge
+> → recurrent coordination + additional centres + succession → possible
+> successor-bearing nucleus**
+
+> **mutual-discovery suppression → possible co-bearers and observations remain
+> isolated; manipulated betrayal signals → captured hidden-threat detector →
+> internally executed relation severance → induced self-denucleation**
+
 Crowd modes and coupling:
 
 > **random co-presence → clockwork differentiated coordination → laser
@@ -10773,6 +12067,32 @@ Action routing:
 Downhill capture:
 
 > **resonance → immediate reward → renewable demand → repetition → identity and dependency → rising exit cost**
+
+Ressentiment conversion:
+
+> **painful comparison or real injury → another's flourishing reclassified as
+> wrongful obstruction → diminution substitutes for construction → mythology
+> authorizes and rewards the negative operation → renewable demand → possible
+> adversary dependence and death-drive repetition**
+
+Effort-price route:
+
+> **visible arrival - represented apprenticeship, failure, maintenance, scarcity,
+> and chance → compressed effort price → effort shock → developmental update OR
+> finite justice claim OR possible ressentiment conversion**
+
+Hidden-threat detection:
+
+> **prepared harm + betrayal + cheating + contamination + agency + reputation
+> sensitivities × archetypal compression × concrete mythology → join dispersed
+> anomalies without preassigning the actor → sensitive alert threshold +
+> demanding attribution-and-sanction threshold**
+
+Poison-and-accuse:
+
+> **actor-produced real harm + false localization onto a rival + guardian-role
+> appropriation → captured detector → borrowed collective strike; every causal,
+> motive, reward, recurrence, and drive claim remains separately gated**
 
 Ragnarök trajectory:
 

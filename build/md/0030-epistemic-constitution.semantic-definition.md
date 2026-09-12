@@ -1041,6 +1041,16 @@ The resulting bearer is a **functional pseudomorph of X**.
 The notation *un-X* records the internal deformation without making the prefix
 itself the name of the process.
 
+[*Culture Program Ecology* calls one typed application-result a
+**pseudomorphic chief**](0060-culture-program-ecology.semantic-definition.md#directing-organ-capture-and-pseudomorphic-chief):
+a person or directing office retains the recognizable form and bottom-up
+authority of collective representation while another principal or governing
+objective controls consequential direction, correction, and reproduction or
+succession.
+This does not create a second pseudomorphic process.
+It is established only when the complete bearer, retained-form, substituted-
+governor, collision, correction, and succession gate defined here is met.
+
 The full bearer-level definition is:
 
 > **Under pseudomorphic governor substitution, a durable social bearer continues
@@ -1653,8 +1663,8 @@ semantic precedents:
   of judgment](https://plato.stanford.edu/archives/spr2023/entries/kant-judgment/)
   supplies the general distinction; [Mark Siebel's review](https://philpapers.org/rec/SIEKOI-3)
   cautions that its exact logical gain and interpretation remain disputed.
-- **Žižek's undead and inhuman contrasts** in the project's [local copy of *How
-  to Read Lacan*](https://wwnorton.co.uk/books/9780393329551-how-to-read-lacan) provide the nearest direct semantic
+- **Žižek's undead and inhuman contrasts** in [*How to Read
+  Lacan*](https://wwnorton.co.uk/books/9780393329551-how-to-read-lacan) provide the nearest direct semantic
   precedent: *not dead* differs from *undead*, and *not human* from *inhuman*.
   Indefinite negation reveals an excess or distortion immanent to the category,
   but does not yet supply the complete retained-machinery and substituted-governor
@@ -1812,13 +1822,79 @@ An answer need not remain permanently open in every proceeding, but the order
 must preserve the originating question, grounds, limits, and conditions of
 reopening.
 
-Voegelin's experience--symbol relation supplies a further distinction:
+Voegelin supplies the source relation among engendering experience, questioning,
+answering symbolism, opacity, Second Reality, and prohibition of questions.
+In [“On Debate and
+Existence”](https://voegelinview.com/on-debate-and-existence/), he describes an
+answering construct that can be “erected into an idol valid for all time.”
+The following three-state operational register is a Culture Mechanics synthesis
+around that relation, not a list of three technical terms taken verbatim from
+Voegelin:
 
 - a **living symbol** reconnects recipients to the engendering experience and
   keeps the originating question available;
 - a **dead formula** persists after that experience has been forgotten; and
 - an **idolized answer-symbol** acquires authority to prohibit the experiences
   and questions that could reopen it.
+
+The adjacent signifier vocabularies have narrower contributions.
+Lacan's **master signifier** helps describe a privileged signifier around which
+other meanings and identifications organize; Laclau's **empty signifier** helps
+describe a comparatively underdeterminate token representing a larger
+heterogeneous whole or absent fullness.
+Neither source supplies the project term **idolized answer-symbol**, its
+projection-surface-with-a-lock image, or the transition from symbolic compression
+to prohibited reconstruction.
+Not every master signifier or empty signifier is idolized, and semantic openness,
+heterogeneous projection, or affective charge alone does not establish the lock.
+
+An idolized answer-symbol can be pictured as an affectively charged projection
+surface with a **lock**. Recipients may load the symbol with positive or negative
+hopes, fears, loyalties, or hostilities, while its authority prevents them from
+opening it to inspect what it operationally means, which question it answers,
+what consequences belong to it, and what evidence could correct it. Projection,
+affective charge, ambiguity, or compression alone does not establish
+idolization. The defining addition is the lock against reconstruction and
+correction: attempted reopening is treated as disloyal, immoral, ignorant,
+pathological, or institutionally inadmissible. The lock is explanatory
+shorthand, not a separate mental processor or evidence of secret intent; it can
+be implemented through question disqualification, exclusive interpreter
+custody, correction sanctions, or institutional non-reception. A detailed
+doctrine can therefore be idolized, while an emotionally powerful or
+semantically open symbol is not idolized if its meaning, generating question,
+consequences, and defeat conditions remain inspectable.
+
+As a compact illustration rather than a categorical classification, consider
+the possible use of **communism**:
+
+> **A defeated answer is not a defeated question.**
+
+Questions concerning exploitation, concentrated power, insecurity, ownership,
+and social obligation endure even when a communist answer has failed. The token
+*communism* functions as an idolized answer-symbol when it retains authority as
+the projected solution while past experiments and their causal record are
+prevented from counting against it--for example, when every failure is classified
+in advance as not real communism, sabotage, betrayal, or insufficient
+implementation. It is not idolized merely because someone uses the word,
+reconsiders one of those questions, distinguishes cases, or proposes a corrigible
+alternative. Symmetrically, *communism failed* becomes a dead formula when its
+reasons and historical evidence can no longer be reconstructed, and it becomes
+an idolized closure if it is used to prohibit the enduring questions rather than
+to preserve the evidence relevant to answering them.
+
+A second bounded illustration is the pre-1980s PRC official name for the Great
+Leap Forward famine period, **“Three Years of Natural Disasters.”**
+[Karl Gustafsson's study of Chinese famine
+memory](https://doi.org/10.1177/1750698017714836) documents that official usage
+and its later replacement by “Three-Year Period of Difficulties.”
+The earlier formula is relevant to the present construct where assigning the
+event to natural disaster gave one causal answer operative authority while
+displacing questions about procurement, reporting, mobility restrictions,
+agricultural policy, institutional incentives, and blocked correction.
+The wording alone does not establish an idolized answer-symbol: the classification
+requires evidence that the formula actually governed responsibility, inquiry,
+and the reception of contrary causal evidence rather than serving as one
+incomplete but corrigible description.
 
 [Operation-bootstrapped codebook
 formation](0020-epistemic-agency.semantic-definition.md#operation-bootstrapped-codebook-formation)
@@ -1831,6 +1907,10 @@ further: the surviving token and its authority prohibit the operation-rich
 inquiry that could rebuild, test, or revise its meaning. The relation is neither
 literal memory replay nor proof that every recipient reconstructs one identical
 experience.
+At the generic learning level, [**living
+knowledge**](0020-epistemic-agency.semantic-definition.md#living-knowledge) names
+the resulting reconstructible and corrigible capability; the present section
+classifies the symbol's relation to its engendering experience and question.
 
 Voegelin's distinction between **compact** and more **differentiated**
 symbolization adds a comparison rule.
@@ -4089,6 +4169,21 @@ dependence is a common death-drive mechanism, not the whole definition: a
 repetitive circuit can also become self-renewing through grievance, transgression,
 accusation, failure, or anti-telic refusal without depending upon one concrete
 enemy.
+
+[**Ressentiment
+conversion**](0040-mythology-construction.semantic-definition.md#ressentiment-conversion-pathway)
+is one candidate pathway into adversary dependence and death-drive renewal, not a
+third constitutional orientation and not their universal origin.
+On that route, another person's flourishing is reclassified from an exemplar of
+possible good into evidence or the supposed cause of wrongful exclusion;
+diminishing the other's good then begins to substitute for constructing an
+independently valuable good, and mythology can make the negative operation
+socially authorized and renewable.
+The constitutional classification is reached only if the shared order comes to
+organize motivation through the resulting self-renewing circuit.
+Painful comparison, envy, grievance, ressentiment, negative goal substitution,
+adversary dependence, and death-drive repetition therefore remain distinct
+stages, and other routes into the death-drive pole remain possible.
 
 The originating observation remains:
 

@@ -125,6 +125,9 @@ recruitment from ordinary reciprocity and from the narrow *Kommandoagent*
 hypothesis. Its gift-wrapped-control mapping distinguishes the reusable control
 capability from a changeable moral wrapper and licenses a chronology and
 wrapper-invariance test, not a finding of pretext or hidden direction.
+Its Iago miniature shows rival displacement and captured betrayal detection in a
+single fictional role topology without supplying empirical or person-level
+evidence.
 
 Another optional file is
 `build/md/0060-culture-program-ecology.semantic-definition.md`. Add it for questions
@@ -161,8 +164,24 @@ self-attribution first; favourable self-description does not exculpate operation
 or consequences; then test standing, false flag, and consequential internal
 contestation”), hostile third-party labels versus self-attribution, the cross-audience
 self-description audit, secret-program scale and fidelity, internal contestation,
+Strategic Culture Program concealment, the hidden-threat-detector evidence audit,
+the nucleation ecology and comparative pre-nucleation cost-advantage hypothesis,
+the bounded mapping of documented MfS *Maßnahmen der Zersetzung* to the generic
+anti-nucleation/*Zersetzung* family and
+induced self-denucleation without a required ressentiment premise,
+the bounded National Socialist poisoner-mythology stress test and its distinction
+between an operational Culture Program fingerprint and hereditary
+identity-essentialist counterfeit detection,
+the bounded contemporary Schelerian social ecology joining wounded attachment,
+renewable identity, grievance institutional convertibility, intra-elite
+symbolic-status competition, punitive status culture, Critical Constructivist
+causalization, effort-price compression, and social-media comparison under
+whole-field symmetry and explicit defeat conditions,
 staged capture inference, Shadow Sovereign (*Besatzungsmacht*), the visible
-bottom-up diagnosis of Shadow-Sovereign rule, Kisin's
+bottom-up diagnosis of Shadow-Sovereign rule, locally authenticated intermediary
+selection, hidden-principal displacement, electoral legitimacy laundering,
+directing-organ capture, pseudomorphic chief, movement blindness and
+misdirection, the optional course-lock--scapegoat-diversion compound, Kisin's
 captain-turnover/course-control image, the hypothetical Burnham--Orwell
 one-more-layer threat model, the narrow *Kommandoagent* actor hypothesis,
 implicit-debt grooming, the favour-bank cloud, routed return favours and
@@ -544,7 +563,10 @@ feindlichen Fremdzuschreibungen im Unterschied zur Selbstzuschreibung, der
 zielgruppenübergreifenden Prüfung von Selbstbeschreibungen, dem Zusammenhang von
 Geheimhaltung mit Reichweite und Übertragungstreue, interner Bestreitung,
 stufenweiser Übernahmeinferenz, Shadow Sovereign (*Besatzungsmacht*), der
-sichtbaren Diagnose von Shadow-Sovereign-Herrschaft von unten, Kisins Bild des
+sichtbaren Diagnose von Shadow-Sovereign-Herrschaft von unten, locally
+authenticated intermediary selection, hidden-principal displacement, electoral
+legitimacy laundering, directing-organ capture, pseudomorphic chief, der
+Blindheit und Fehlleitung der Bewegung, Kisins Bild des
 Kapitänswechsels ohne Kurswechsel, dem hypothetischen
 Burnham--Orwell-Bedrohungsmodell einer weiteren Indirektionsstufe, der engen
 akteursbezogenen *Kommandoagent*-Hypothese, Grooming durch implizite Schuld, der

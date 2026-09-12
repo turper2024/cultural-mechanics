@@ -10,7 +10,7 @@
 
 It describes the human being as **homo duplex**, a creature with two functionally distinct processing units. The first is a powerful, general-purpose processor: the brain's main CPU. The second is a simpler social and affective processor called the **bigOther**. The bigOther does not reason in detail. It classifies thoughts, persons, actions, and situations by attaching culturally learned sentiments to them: honour or shame, loyalty or betrayal, sacredness or pollution, legitimacy or illegitimacy, belonging or exclusion.
 
-Although the bigOther is comparatively primitive, it is connected at a decisive point. By changing how a person *feels* about what the main processor is thinking, it can redirect attention, motivation, judgment, and action before conscious reasoning notices what has happened. It is programmed slowly with a **mythological lens** and activated quickly by social signals. In terminology adapted from Systems Leadership, a **mythology** is one socially evaluated narrative or story. Many mythologies, reinforced by symbols, rituals, institutional practices, rewards, punishments, and exemplary behaviour, shape the lens through which the bigOther maps real-world observations and events onto culturally learned values and feelings.
+Although the bigOther is comparatively primitive, it is connected at a decisive point. By changing how a person *feels* about what the main processor is thinking, it can redirect attention, motivation, judgment, and action before conscious reasoning notices what has happened. A proposed second output path can also condition whether rider-side conceptual retrieval, joining, and articulation continue, without making the bigOther the processor that performs those operations. It is programmed slowly with a **mythological lens** and activated quickly by social signals. In terminology adapted from Systems Leadership, a **mythology** is one socially evaluated narrative or story. Many mythologies, reinforced by symbols, rituals, institutional practices, rewards, punishments, and exemplary behaviour, shape the lens through which the bigOther maps real-world observations and events onto culturally learned values and feelings.
 
 The **single-slot principle** proposes one local bigOther executing one operative
 mythological lens. That lens may braid several compatible cultural packages into a
@@ -92,6 +92,54 @@ A person's intelligence, knowledge, or technical competence does not by itself r
 
 This relative independence explains why a highly intelligent person may be strongly governed by ideological or religious classifications, while a person of ordinary intelligence may preserve considerable moral and epistemic independence. The main processor determines much of what a person *can* think; the bigOther strongly influences which thoughts feel admirable, shameful, safe, dangerous, permissible, or unthinkable.
 
+<a id="durkheimian-dualism-and-culture-mechanics-decomposition"></a>
+
+#### Durkheimian dualism and the Culture Mechanics decomposition {#durkheimian-dualism-and-culture-mechanics-decomposition}
+
+Durkheim introduces the “old formula *homo duplex*” and the image of a “double
+center of gravity” in [“The Dualism of Human Nature and Its Social
+Conditions”](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3627098.html)
+(1914; reproduced as Chapter 10 of *Émile Durkheim on Morality and Society*, pp.
+149--163).
+His two poles are the individual, organism-rooted life of sensations and sensory
+appetites and the socially derived intellectual and moral life.
+The second pole includes not only collective sentiments and moral authority but
+also language, concepts, and theoretical and practical rational activity.
+Durkheim therefore does not divide the person into an unconscious social censor
+and a conscious individual reasoner.
+
+His account also explains how the social pole becomes intrapersonal.
+Religious, moral, and intellectual conceptions formed in group life penetrate
+individual consciousness, become durably organized and personally inflected
+there, retain a socially derived authority, and are renewed through continuing
+collective life.
+His description of the person's social existence as “an extension of society”
+therefore names a locally individualized social formation rather than a literal
+detached fragment of one collective mind.
+
+The closest Culture Mechanics relation is a decomposition rather than a
+one-to-one match:
+
+| Durkheimian element | Closest Culture Mechanics relation | Required boundary |
+|---|---|---|
+| Organism-rooted sensation and appetite | Elephant-side embodied, affective, and appetitive processing | This does not exhaust the main CPU or make Durkheim's first pole identical with Haidt's elephant. |
+| Collectively formed language, concepts, and rational resources | Shared symbolic protocol and distributed reconstruction codebook, locally reconstructed and used by the rider/main CPU | The local bigOther does not perform grammar, conceptual reconstruction, or detailed reasoning. |
+| Collective moral ideals retaining authority within the person | Installed mythological lens and local-bigOther classification, renewed by field back-action | The collar is one local execution interface, not the whole of Durkheim's social being. |
+
+Culture Mechanics consequently retains Durkheim's broad observation while
+splitting its functions more finely.
+The main CPU performs conceptual and rational operations through resources that
+are partly socially formed; the local bigOther rapidly classifies some of their
+objects and possible uses; and the shared protocol and distributed field help
+form, stabilize, and renew both.
+The proposed semantic-access mechanism adds that collar classification may
+condition whether some rider-side retrieval, joining, standing-query, or
+articulation operations continue.
+It does not turn the collar into a language or reasoning processor.
+Durkheim supplies the broad social-intellectual-moral source claim, not the
+main-CPU/local-bigOther architecture, single-slot principle, reconstruction
+codebook, or collar-to-rider access mechanism.
+
 ### 3. First processing unit: the main CPU
 
 The **main CPU** is the brain's powerful, flexible, general-purpose processing capacity. Its functions include:
@@ -106,6 +154,12 @@ The **main CPU** is the brain's powerful, flexible, general-purpose processing c
 - construction of explanations.
 
 Most ordinary conceptions of intelligence focus on this processor. It can learn complex theories, solve technical problems, interpret evidence, and devise sophisticated strategies.
+
+These remain main-CPU operations when their concepts, language, inferential
+resources, and standards have been socially formed.
+Social origin concerns the formation and public availability of cognitive
+resources; it does not relocate the detailed execution of thought into the local
+bigOther.
 
 The main CPU does not, however, choose its direction in a cultural vacuum. Attention, motivation, felt relevance, moral urgency, and the acceptability of possible conclusions are influenced by the second processor.
 
@@ -143,6 +197,16 @@ that executes it. Its output can take the form of pride, guilt, shame, disgust,
 trust, fear, admiration, moral elevation, indignation, belonging, or anticipated
 exclusion. These outputs alter which thoughts receive attention, which
 possibilities are emotionally tolerable, and which actions feel obligatory.
+
+The primary operation remains classification rather than retrieval, language, or
+reasoning.
+One proposed extension is that the resulting signal can condition whether the
+main CPU continues ordinary semantic-access operations such as conceptual
+selection, lexical retrieval, joining observations, maintaining a standing
+question, and stabilizing a formulation.
+The main CPU performs those operations; the local bigOther supplies the learned
+permission, honour, shame, threat, or taboo classification that may facilitate or
+interrupt them.
 
 #### Phenomenological aspect
 
@@ -2264,18 +2328,41 @@ of the culturally installed evaluator from conscious awareness.
 
 The elephant--collar picture adds precisely that relation. The collar is attached
 to the elephant, not operated by the rider. In the model, the rider has **no
-direct access path to the collar** and receives no transparent read-out of its
-classification. The rider may consciously perceive an incoming social signal and
-later notice that the elephant's affect, attention, posture, or direction has
-changed, but the rider encounters the collar's operation only through those
-effects upon the elephant. The absence of reins, a remote control, or a device in
-the rider's hands is therefore part of the mapping.
+direct read or control path to the collar** and receives no transparent read-out
+of its classification. The rider may consciously perceive an incoming social
+signal and later notice that the elephant's affect, attention, posture, or
+direction has changed. Under the proposed semantic-access extension, the rider
+may also encounter a changed ability to retrieve, join, hold, or formulate a
+relation without receiving a report that the collar caused the change. The
+absence of reins, a remote control, a query interface, or a device in the rider's
+hands is therefore part of the mapping.
 
 This remoteness is functional rather than anatomical and does not make the
 collar permanently unknowable. Reflective comparison, external observation, and
 guided investigation may permit the rider to reconstruct, question, or retrain
 some of its mappings. What the picture denies is an immediate, transparent
 first-person interface while the classification is occurring.
+
+The model consequently distinguishes two non-transparent output paths:
+
+```text
+established affective-steering path:
+collar classification → elephant's affect, attention, motivation, or direction
+                     → rider encounters the changed orientation
+
+proposed semantic-access path:
+collar classification → conditions on rider-side retrieval, joining,
+                        standing-query activation, or articulation
+                     → rider encounters changed conceptual availability
+```
+
+The second path is functional, not a claim about a literal neural wire, memory
+index, or third processor.
+The current elephant--collar figure depicts the established affective-steering
+channel only; it should not be read as denying the proposed additional path.
+It is developed with its evidential limits in [*Epistemic Agency under Mechanical
+Solidarity*, “Collar-conditioned semantic access: a proposed second output
+path”](0020-epistemic-agency.semantic-definition.md#collar-conditioned-semantic-access).
 
 The figure condenses the architecture of one culturally coupled psyche. It is
 read functionally, not anatomically. The broad dog-collar band marks the
@@ -2288,7 +2375,7 @@ radio arcs mark reception and transmission. Their lack of arrows leaves the
 collar's network capability neutral rather than assigning a fixed direction to
 one depicted message.
 
-The collar can produce social pleasure and pain: pride, shame, belonging, exclusion, sacredness, disgust, reassurance, fear, or indignation. It acts directly upon the elephant. The elephant changes its posture, attention, and direction long before the rider clearly notices the collar's intervention.
+In the established affective-steering path, the collar can produce social pleasure and pain: pride, shame, belonging, exclusion, sacredness, disgust, reassurance, fear, or indignation. It acts upon the elephant, which can change its posture, attention, and direction long before the rider clearly notices the collar's intervention.
 
 Only afterward may the rider become aware of a conclusion:
 
@@ -2522,6 +2609,29 @@ OPERATIVE MULTI-MIND-SELF
 FUSED MULTI-MIND-SELF
 ```
 
+Franz Josef Radermacher's systems work supplies an independent neighbouring
+route into this scale transition. His [2004 discussion of humanity as a
+superorganism](https://geodaesie.info/images/zfv/129-jahrgang-2004/downloads/zfv_2004_3_Radermacher_Teil-1.pdf)
+and [2007 comparison of performant
+superorganisms](https://www.fawn-ulm.de/wp-content/uploads/2014/06/Bewusstsein_0.pdf)
+describe higher-order capacities emerging from interacting components, including
+human components that remain viable systems in their own right. That family
+resemblance does not make *superorganism* a synonym for the operative
+multi-mind-self. Radermacher's systems criterion can be satisfied by organized
+higher-order performance without establishing the Culture Mechanics threshold of
+integrated perception, memory, judgment, intention, ownership, and action, still
+less one unitary phenomenal consciousness.
+
+The comparison strengthens rather than dissolves the distinction between
+collective capacity and fusion. A differentiated superorganismic organization can
+increase what the whole can sense, remember, decide, and do while its human
+members retain independent standing and bounded jurisdictions. Subjecthood
+absorption begins only when the collective additionally denies those persons
+legitimate judgment, conscience, purpose, property, relationships, refusal,
+exit, or appeal. Radermacher's later ant-state warning is therefore evidence of
+his own recognition of this normative fork, not evidence that every
+superorganismic system tends necessarily toward fusion.
+
 This is not a necessary ladder. A presentation can remain below agency, an
 operative multi-mind-self can remain differentiated, and a fusion ideology can
 seek absorption without producing competent collective agency. Unqualified
@@ -2562,7 +2672,18 @@ Solidarity*](0020-epistemic-agency.semantic-definition.md) develops that distinc
 together with field geometry, collective ownership, gatekeepers, and back-action
 upon epistemic agency.
 
-#### Nested authorship, activation, and episodic multi-mind-selves
+Durkheim's “extension of society” within the person is closest to this whole
+local realization of socially formed intellectual and moral life, not to the
+local bigOther alone.
+The local bigOther is a functionally distinct node and execution interface within
+the recursive relation: it is locally programmed and field-coupled, but it is not
+a miniature distributed bigOther or a literal piece detached from the network.
+Language, concepts, records, institutions, and ordinary rational operations cross
+the local/distributed boundary through additional parts of the same circuit.
+
+<a id="nested-authorship-activation-and-episodic-multi-mind-selves"></a>
+
+#### Nested authorship, activation, and episodic multi-mind-selves {#nested-authorship-activation-and-episodic-multi-mind-selves}
 
 An operative multi-mind-self is a **network-level subject**, not a second local self or a
 second PCI card installed inside each participant. Collective and personal
@@ -3492,6 +3613,35 @@ replacement by authorized classification in the activated domain; wider claims
 require evidence of domain spread, synchronization, conduct, enforcement, and
 persistence.
 
+Bonhoeffer's distinction between ***Belehrung*** and ***Befreiung*** adds a
+correction boundary that the mechanism must preserve. He argues that the condition
+cannot normally be overcome by instruction alone and that genuine inner liberation
+often becomes possible only after external liberation has preceded it. Culture
+Mechanics translates that claim structurally rather than clinically: supplying a
+better proposition to the rider may leave the social penalties, trusted routing,
+apparent unanimity, repeated slogans, and affective reinforcement that continually
+regenerate the protected classification unchanged. Liberation in this bounded
+sense reopens the conditions under which a person can sustain their own questions,
+remain with anomalous experience, encounter plural sources, and form an insight;
+it does not predetermine which answer they must reach.
+
+This also requires two recovery clocks. Public rules, permissible speech,
+authoritative channels, and visible conduct can change faster than the person's
+accumulated affective and semantic organization. The postwar [OMGUS attitude
+series](https://germanhistorydocs.org/en/occupation-and-the-emergence-of-two-states-1945-1961/omgus-survey-of-trends-in-attitudes-toward-national-socialism-1945-47)
+is a bounded illustration: after the Nazi state's defeat, approximately half of
+respondents in the American occupation zone still described National Socialism as
+a good idea badly carried out, with the reported figure reaching 55 percent in
+August 1947. Samuel Clowes Huneke's [“The Democratization
+Paradox”](https://doi.org/10.1177/00220094261422187) supplies the related historical
+hypothesis that democratic habits could precede deeply internalized democratic
+meaning. These observations support the distinction between release from a closed
+social field and later internal reconstruction, not a claim that occupation itself
+produced one mechanism, that changed conduct proves changed conviction, or that external
+coercion is a general licence for cultural reprogramming. Removing a closed
+transmitter can make inquiry possible without making recovery immediate or its
+eventual conclusion controllable.
+
 At whole-polity scale, Bonhoeffer's power--*Dummheit* relation is the originating
 epistemic bridge to the project's [functional definition of
 Fascism](0020-epistemic-agency.semantic-definition.md#fascism-as-a-strong-whole-polity-realization).
@@ -3567,7 +3717,9 @@ Culture mechanics interprets Dummheit as a condition in which:
 3. social power supplies rewards, sanctions, repetition, and apparent consensus; and
 4. the main CPU is recruited to execute and defend the resulting classifications.
 
-#### Normopathie and political ponerology: two faces of captured culture
+<a id="normopathie-and-political-ponerology"></a>
+
+#### Normopathie and political ponerology: two faces of captured culture {#normopathie-and-political-ponerology}
 
 Culture mechanics treats **Normopathie** and **political ponerology** as complementary perspectives on a captured cultural system. They are not identical concepts. They describe the same pathological configuration from different social positions:
 
@@ -3678,12 +3830,16 @@ explanations visible:
 | **Terrible voice and unconditional *iubeo* or *veto*** | Moral programming can become agentified, command-like, and phenomenologically authoritative | The ordinary local bigOther need not speak, personify itself, or produce auditory experience |
 
 Kant, Durkheim, and Culture Mechanics offer different accounts of this overlapping
-phenomenological target:
+phenomenological target.
+The following table isolates the moral-authority relation and must not be read as reducing
+Durkheim's broader social-intellectual-moral pole to morality alone; that source
+boundary is developed in [“Durkheimian dualism and the Culture Mechanics
+decomposition”](#durkheimian-dualism-and-culture-mechanics-decomposition):
 
 | Account | Source and authority of the moral encounter |
 |---|---|
 | **Kant** | Autonomous practical reason represents the ideal judge and gives itself universally binding moral law |
-| **Durkheim** | Society's sacred moral ideal confronts the individual through collective beliefs and sentiments |
+| **Durkheim** | Within a broader socially derived intellectual and moral pole, society's sacred moral ideal confronts the individual through collective beliefs and sentiments |
 | **Culture Mechanics hypothesis** | A local bigOther executes a socially installed moral lens and can present its authority as an observing and judging Thou; a live collective field may amplify and renew that local operation |
 
 The safe comparative formulation is:
@@ -3801,6 +3957,7 @@ every religion, ritual, shared intention, or synchronized group a multi-mind-sel
 | **Kantian inner tribunal and doubled personality** | How can an authority within one person be experienced as observing, judging, and commanding that person as another? | Supplies an independent philosophical description of the local moral phenomenology; Kant's practical roles and noumenal account do not establish the main-CPU/local-bigOther architecture or a social source. |
 | **Jaynesian bicameral mentality** | How might culturally generated guidance be experienced as the commands of gods rather than self-authored thought? | Supplies a controversial intrapersonal limit model for agentified, command-like homo duplex; it does not define the ordinary local bigOther. |
 | **Bachian god-as-multi-mind-self** | How might one represented agent be implemented across several minds and bodies? | Supplies a distributed-agent neighbour; Culture Mechanics adds its local processor, field formation, functional threshold, fusion axis, and metaphysical boundary. |
+| **Radermacherian superorganism** | How can interacting persons, institutions, information systems, and technical infrastructure produce capacities attributable to a higher-order system? | Supplies a neighbouring systems architecture for differentiated higher-order performance; it does not by itself establish an operative multi-mind-self, collective phenomenal consciousness, fusion, or legitimate jurisdiction over the components. |
 
 ### 20. Scope and terminological cautions
 
@@ -3808,7 +3965,18 @@ every religion, ritual, shared intention, or synchronized group a multi-mind-sel
 
 Its computer and wireless-collar descriptions are functional models, not claims that the brain literally contains a PCI card or a separately identifiable anatomical collar processor. Its charged-particle, field, laser, wireless, and computing comparisons describe proposed relations and generate hypotheses; they do not assert that social processes are physically electromagnetic or obey the equations of the source domains.
 
-Its use of **homo duplex** extends Durkheim. Its use of **bigOther** operationalizes and modifies Lacan. Its protocol interpretation isolates one functional aspect of Lacan's symbolic order rather than exhausting the concept. **bigOther-presence** and **bigOther-as-Thou** borrow phenomenological cues from James and Buber without attributing the proposed processor or field mechanism to either thinker. These inherited terms name important sources of the model but should not be mistaken for exact summaries of their doctrines.
+Its use of **homo duplex** extends Durkheim. Durkheim's socially derived pole
+includes language, concepts, rational activity, and morality; it is therefore
+broader than the local bigOther and cuts across the project's main CPU, shared
+symbolic protocol, reconstruction resources, local classifier, and distributed
+field. The project supplies that decomposition and the proposed semantic-access
+path. Its use of **bigOther** operationalizes and modifies Lacan. Its protocol
+interpretation isolates one functional aspect of Lacan's symbolic order rather
+than exhausting the concept. **bigOther-presence** and **bigOther-as-Thou** borrow
+phenomenological cues from James and Buber without attributing the proposed
+processor or field mechanism to either thinker. These inherited terms name
+important sources of the model but should not be mistaken for exact summaries of
+their doctrines.
 
 **Relevant structure** and the underlying connection between experienced moral
 good or evil and represented structural support or damage are adapted from Dushan
@@ -3838,6 +4006,15 @@ explicit functional threshold, and a fused multi-mind-self, together with the
 family-level shorthand rule stated above. The bicameral-like comparison is narrower than Jaynes's historical theory
 and must not be used to claim that ancient people universally lacked consciousness
 or an individual mind.
+
+Radermacher's superorganism is likewise a neighbouring systems proposal rather
+than the source of the Culture Mechanics ontology. His layered information-
+processing, institutional, and technical account helps specify how a distributed
+system might acquire higher-order capability, while Culture Mechanics separately
+defines the operative multi-mind-self threshold and the subjecthood-absorption
+axis. His superorganism, communication-network, queen/bottleneck, and ant-state
+claims must therefore be reported in their own source roles rather than combined
+and attributed back to him as an AI queen-bee theory.
 
 The theory's three constitutive commitments each carry an explanatory burden. The
 local bigOther is functionally distinct from the main CPU; the distributed field
@@ -3907,6 +4084,14 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Broader class:** theory of cultural causation and social coordination.
 - **Central object:** the culturally programmed bigOther in the homo-duplex individual.
 - **Primary operation:** sentiment classification.
+- **Durkheimian source boundary:** Durkheim's social pole includes collective
+  language, concepts, rational activity, and morality; Culture Mechanics
+  decomposes that broad pole across the rider/main CPU, public symbolic and
+  codebook resources, local-bigOther classification, and field back-action rather
+  than identifying it with the collar alone.
+- **Proposed semantic-access reach:** the local bigOther does not reason or search
+  memory, but its classification signal may condition whether rider-side
+  retrieval, joining, standing-query activation, and articulation continue.
 - **Narrative unit:** one mythology—one socially evaluated narrative or story;
   *narrative* is the broader ordinary-language term and often its fuzzy synonym.
 - **Narrative corpus:** mythologies—the accumulated stories that train cultural evaluation.
@@ -4034,6 +4219,10 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Three-layer causal distinction:** the historical cause of a rule, its current
   affective classification, and its presently avowed reason can coincide or
   diverge and should be measured separately.
+- **Bonhoeffer correction boundary:** *Belehrung* supplies propositions;
+  *Befreiung* reopens conditions for self-authored inquiry. Release from a closed
+  social field can precede slower internal reconstruction, and changed conduct
+  does not by itself establish changed conviction.
 - **Formation--construction distinction:** endogenous mythology formation is the
   distributed growth and selection of cultural articulations from changing
   conditions and a substantive research path in its own right; purposive mythology
@@ -4055,7 +4244,10 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Agentified enactment depth:** representation, consultation or service,
   presence as Thou, distributed enactment, and fused enactment must not be
   collapsed; only the final relation entails authorial displacement.
-- **Immediate target:** the elephant—the intuitive, motivational, largely nonconscious mind.
+- **Established affective target:** the elephant—the intuitive, motivational, largely nonconscious mind.
+- **Proposed second output path:** non-transparent conditioning of the rider's
+  semantic-access interface without giving the rider direct read or control access
+  to the collar.
 - **Conscious interface:** the rider and the main CPU.
 - **Shared communication interface:** Lacan's big Other, functionally translated as the on-the-wire symbolic protocol.
 - **Network operation:** reciprocal signalling through the protocol and possible synchronization.
@@ -4065,6 +4257,11 @@ Finally, describing culture as programming does not imply that all symbolic real
   collective as one represented, perceived, addressed, or incarnated self without
   establishing agency.
 - **Possible collective agent:** the operative multi-mind-self or multi-mind-self proper when integration and continuity pass the relevant threshold.
+- **Radermacher superorganism neighbour:** differentiated interacting persons,
+  institutions, information systems, and technical infrastructure can produce
+  higher-order performance without by that fact establishing the operative
+  multi-mind-self threshold, phenomenal collective consciousness, subjecthood
+  absorption, or legitimate comprehensive jurisdiction.
 - **Family-level shorthand:** unqualified *multi-mind-self* may be used
   explanatorily where no threshold inference depends upon it; claims of intention,
   ownership, responsibility, or fusion require the qualified term.
@@ -4142,6 +4339,14 @@ Activation and formation:
 > **operation-rich formation → locally reconstructed and socially calibrated
 > codebooks → compressed symbol activates a larger installed complex; token
 > inheritance without recurrent formation does not transmit a finished decoder**
+
+Durkheimian source pole and Culture Mechanics decomposition:
+
+> **socially formed language, concepts, rational resources, and moral ideals →
+> local reconstruction across rider/main CPU, symbolic protocol, and installed
+> lens; local bigOther classifies their culturally relevant objects and uses →
+> established elephant steering + proposed rider-side semantic-access
+> conditioning; classification influences thought without performing thought**
 
 Formation, intervention, and selection:
 

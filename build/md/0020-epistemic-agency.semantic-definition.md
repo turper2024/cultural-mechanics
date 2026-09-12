@@ -417,7 +417,9 @@ Several diagnostic observations follow:
 
 Gatekeeping is not inherently pathological. Filtering can protect limited attention from fraud, noise, and incompetence. It becomes dangerous when the gatekeeper changes from a defeasible evidence source into what this entry calls a **reality-validation node** whose approval determines whether contrary evidence may count at all. Zagzebski's **Preemption Thesis** is a relevant but not identical antecedent: it concerns how a recognized authority's judgment can replace some of the subject's own reasons. The pathological permissioning relation meant here is stronger and closer to what **Christoph Jäger** criticizes in [“Epistemic Authority, Preemptive Reasons, and Understanding” (2016)](https://doi.org/10.1017/epi.2015.38).
 
-### 6. Forms of authority and epistemic spillover
+<a id="forms-of-authority-and-epistemic-spillover"></a>
+
+### 6. Forms of authority and epistemic spillover {#forms-of-authority-and-epistemic-spillover}
 
 The following table concerns authorities constituted *within* an order. Their
 competence can and normally should be bounded even when the lifted constitution
@@ -522,6 +524,17 @@ The strongest diagnostic case occurs when a person refuses an available, inexpen
 **Epistemic vigilance**, as developed by **Dan Sperber, Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, and Deirdre Wilson** in [“Epistemic Vigilance” (2010)](https://doi.org/10.1111/j.1468-0017.2010.01394.x), is the family of processes by which communicated information is assessed for source reliability and content plausibility. **Epistemic credulity** is used here more broadly for an insufficiently discriminating readiness to accept communicated claims.
 
 That broad usage overlaps with, but is not identical to, the narrower construct measured by **Chloe Campbell, Michal Tanzer, Rob Saunders, Thomas Booker, Elizabeth Allison, Elizabeth Li, Claire O'Dowda, Patrick Luyten, and Peter Fonagy** in [“Development and Validation of a Self-Report Measure of Epistemic Trust” (2021)](https://doi.org/10.1371/journal.pone.0250264), where *epistemic credulity* is one of three measured positions alongside trust and mistrust. In this entry, *credulity* normally refers to a nonclinical tendency or situational failure, not to a diagnosis. Ordinary authority-gated updating is usually selective. It may arise from:
+
+A later [comprehensive review of epistemic-trust
+research](https://pmc.ncbi.nlm.nih.gov/articles/PMC10772859/) distinguishes the
+development of selective trust in children, adult epistemic stances, and their
+possible relations to mental health. It reports Fonagy and colleagues' proposal
+that early caregiving and wider social experience help shape whether communicated
+knowledge is treated as personally relevant and usable for general social learning,
+while emphasizing that several theoretical assumptions still need stronger
+experimental tests. Culture Mechanics uses only the bounded developmental and
+source-routing possibility. It does not infer attachment history, psychopathology,
+or a person's general trust disposition from reception of one message.
 
 - prestige bias;
 - attachment or dependency;
@@ -1324,6 +1337,148 @@ field feedback, and propagation of later corrections through this lifecycle. The
 same architecture can diffuse accurate practice, repair a failed tradition, sell a
 product, or support covert capture. Influence and truth remain separate variables.
 
+<a id="pre-content-source-routing"></a>
+
+##### Pre-content source routing and positional transition {#pre-content-source-routing}
+
+**Status:** proposed source-position decomposition; the four German labels are a
+received Bonelli source lead whose exact presentation still requires page-level
+verification
+
+Messages do not always enter judgment as propositionally neutral candidates.
+Before adequate examination of their content, a receiving field can classify a
+source, role, institution, topic, or source--topic combination and thereby alter
+how much attention, associative work, checking, retention, and transmission the
+message receives. The source lead attributed to Raphael M. Bonelli's
+[*Tabu: Was wir nicht denken dürfen und
+warum*](https://www.edition-a.at/buecher/politik/254/tabu) supplies four useful
+routing positions:
+
+| Received routing position | Default reception tendency | Candidate epistemic effect |
+|---|---|---|
+| ***vertrauenswürdig*** | Favour attention and integration | The message more readily enters the working set, receives associative effort, acquires durable indices, and propagates through the field. |
+| ***fragwürdig*** | Scrutinize and integrate conditionally | The message remains potentially available, but uptake depends more heavily upon corroboration, coherence, reasons, and further testing. |
+| ***uninteressant*** | Allocate little attention | The message can disappear through neglect before it is richly encoded, joined to other observations, or retained as a standing question. |
+| ***unerwünscht*** | Avoid, reject, or defensively reframe | Affective or social aversion can prevent adequate truth evaluation, inhibit the questions the message might generate, and contaminate adjacent sources or formulations. |
+
+These are relational positions, not permanent types of people. The relevant unit
+is at least `source or role × question or domain × receiving field × time`.
+A physician may be *vertrauenswürdig* on one medical question and
+*fragwürdig* on a political one. An office can confer initial trust on an
+unknown occupant, while loss of that office can remove the inherited routing
+advantage. The same source can be unwanted in one field and trusted in another.
+
+The fourfold clarifies the input side of the trusted-opinion-leader function.
+Socially operative trust increases the probability that a message receives
+attention and integration; it does not warrant its truth. Conversely, unwanted
+source status can prevent a true message from receiving adequate examination; it
+does not establish that the rejection was irrational or that every ignored source
+deserved attention. Scarce attention, demonstrated unreliability, lack of
+jurisdiction, fraud, harassment, and ordinary editorial selection remain valid
+rival explanations.
+
+The routing state can reach the [semantic-access
+interface](#collar-conditioned-semantic-access) before a complete proposition is
+evaluated:
+
+```text
+source, role, topic, or association is recognized
+→ local bigOther supplies trust, interest, suspicion, danger, or pollution
+→ main-CPU attention, retrieval, joining, checking, and articulation change
+→ message is integrated, conditionally held, neglected, or defensively routed
+→ the visible response becomes further field evidence about the source
+↺
+```
+
+Bonelli's received fourfold does not by itself explain positional dynamics: how a
+person or office becomes *vertrauenswürdig*, how trust spills into another
+jurisdiction, why failure sometimes leaves standing intact, how a source becomes
+*unerwünscht*, or how an unwanted source re-enters the evaluable range. The
+trusted-opinion-leader profile and lifecycle supply a project-developed transition
+programme rather than an attribution to Bonelli:
+
+1. **Entry and cultivation:** demonstrated competence, accurate performance,
+   visible correction, personal familiarity, formal office, peer nomination,
+   endorsement, repeated exposure, institutional access, and platform
+   amplification can create or transfer operative trust.
+2. **Maintenance and insulation:** selective visibility of success and failure,
+   control of access or correction, reputation networks, jurisdiction spillover,
+   repeated social proof, and costs borne by others can preserve authority after
+   its original warrant weakens.
+3. **Loss or narrowing of trust:** claim-specific performance records, disclosed
+   dependencies, failed correction, loss of authorizing office, independent
+   counter-routes, and credible replacement carriers may move reception toward
+   conditional scrutiny; they may instead polarize the field.
+4. **Production of unwanted status:** taboo, stigma, associational contamination,
+   identity threat, moral exclusion, reputational attack, channel denial, office
+   removal, and material sanction are distinct candidate operations requiring
+   separate evidence.
+5. **Return to evaluability:** trusted intermediaries, first-person retrieval,
+   source-independent corroboration, safe encounter, shared consequential
+   practice, visible corrigibility, restored access, reply, and appeal may reopen
+   examination without compelling assent.
+
+The resulting research object is a transition graph, not a moral caste system.
+It should record who assigned or withdrew a routing position, the operative
+jurisdiction, the evidence and performance history, independent routes, field
+feedback, sanctions, correction, and change over time. A Sowellian “Teflon
+prophet” is the limiting maintenance problem: consequential failure does not
+proportionately reduce later standing or jurisdiction. The opposite problem is
+rapid de-authorization after dissent despite a potentially valid correction.
+Neither pattern may be inferred from agreement or disagreement alone.
+
+<a id="distributed-narrative-reproduction-loop"></a>
+
+##### Distributed narrative reproduction, classification, and enforcement {#distributed-narrative-reproduction-loop}
+
+The receiving field can reproduce its routing and alignment conditions through
+ordinary interactions without a central examiner. Three episodic roles are enough
+to decompose the loop:
+
+- a **narrative reproducer** repeats or performs the expected narrative,
+  vocabulary, interpretation, or affective response;
+- a **narrative classifier** treats another person's reproduction or
+  non-reproduction as evidence of that person's social, moral, or epistemic
+  standing; and
+- a **narrative enforcer** attaches, recommends, or normalizes consequences after
+  that classification.
+
+These are functions in an encounter, not person-types. One person can perform all
+three, different people or institutions can execute successive handoffs, and a
+person can be examined in one setting while examining another person in the next.
+Observed reproduction does not establish whether the speaker reasoned
+independently, acted habitually, anticipated isolation, responded affectively, or
+strategically sought advantage.
+
+```text
+receive or observe the accepted narrative
+→ reproduce, withhold, question, or refuse it
+→ another participant classifies the response as alignment or defect
+→ a participant or institution rewards reproduction or burdens refusal
+→ witnesses update expectations about consensus and permissible conduct
+→ later encounters repeat the test under the changed field
+↺
+```
+
+The test need not be announced. Required terminology, ritual affirmation, a
+leading question, a joke demanding the approved reaction, conspicuous silence,
+denunciation, or a small conversational correction can perform it when the
+response is used to infer alignment and standing. The loop is one possible
+micro-to-field mechanism for the distributed enforcement described under
+[Normopathie](0010-culture-mechanics.semantic-definition.md#normopathie-and-political-ponerology),
+but it neither diagnoses a participant nor proves that the reproduced narrative
+is false.
+
+The analytical gain is to separate statement, standing inference, and
+consequence. Disagreement with a proposition does not by itself authorize a
+verdict on the speaker's human standing, while rejection of an illegitimate
+standing verdict does not require endorsement of the proposition. That separation
+also identifies two interruption points: a person can decline demanded
+reproduction, or a person who has reproduced can decline to classify and punish
+the next participant. The strategy and proportionality of such interruptions
+belong to the non-authoritative Culture Struggle candidate rather than to this
+mechanism definition.
+
 <a id="professional-idea-mediation-and-apparent-competence"></a>
 
 ##### Professional idea mediation and prominence-derived apparent competence {#professional-idea-mediation-and-apparent-competence}
@@ -1785,6 +1940,685 @@ the main processor may elaborate or defend it through un-reason
 possible local Bonhoefferian Dummheit
 ```
 
+<a id="collar-conditioned-semantic-access"></a>
+
+##### Collar-conditioned semantic access: a proposed second output path {#collar-conditioned-semantic-access}
+
+**Status:** proposed functional mechanism; not a validated neuroanatomical or
+memory model.
+
+The local transition above can operate through two distinguishable channels:
+
+```text
+established affective-steering channel:
+collar classification
+→ elephant-side affect, attention, motivation, and direction change
+→ rider encounters the changed orientation
+
+proposed semantic-access channel:
+collar classification
+→ conditions on rider-side conceptual selection, lexical retrieval,
+  observation joining, standing-query activation, binding, and articulation
+→ the operation continues, is redirected, or is interrupted
+```
+
+The second channel does not give the rider a direct read or control interface to
+the collar.
+Nor does it make the collar a language processor, query planner, memory store, or
+reasoning agent.
+The **semantic-access interface** is analytical shorthand for ordinary main-CPU
+operations through which distributed material becomes explicitly retrievable,
+joinable, comparable, nameable, and serializable.
+The local bigOther remains a primitive classifier whose permission, honour,
+shame, danger, pollution, loyalty, or taboo signal may condition whether those
+operations continue.
+
+This distinction allows cultural power to reach concepts and rational thought
+without relocating conceptual or rational processing into the collar:
+
+```text
+socially formed concept or possible relation approaches
+→ local bigOther classifies the object, question, source, comparison, or use
+→ rider-side access operations remain available, become costly, or stop
+→ ordinary cognition reasons with the conceptual space that remains accessible
+```
+
+The database-index, query-planner, CRDT, adaptive-compression, serialization,
+and decompression comparisons have a narrower target than the complete
+elephant--rider--collar architecture. They model the rider-facing symbolic
+reconstruction layer and communication among symbol-using persons; they do not
+model how the elephant's nonverbal prediction, affect, procedural learning, or
+action readiness is implemented. Operation-rich experience may train both
+elephant and rider, but the present operation-bootstrap account specifies only
+the rider-side symbolic reconstruction process.
+
+Semantic reconstructability and affective activation should consequently be
+treated as distinguishable dimensions rather than one decompression variable:
+
+| Pattern | Candidate interpretation |
+|---|---|
+| Strong semantic reconstruction + context-appropriate affect | A living and operationally understood symbol |
+| Weak semantic reconstruction + strong affective activation | An emotionally potent but poorly reconstructed formula |
+| Implicit or elephant-side detection + no stable rider-side address | Affectively sighted but semantically blind |
+| Authorized rider-side formula + strong elephant-side conviction | A condition compatible with press-secretary rationalization |
+
+These combinations are architectural possibilities, not an exhaustive matrix,
+a truth test, or a diagnostic classification.
+
+Within this interface, **Noticing** names prepared availability for inquiry rather
+than bare sensory registration. It includes selecting, retrieving, holding,
+segmenting, and joining enough material for a potentially significant configuration
+to become available to questioning and insight. Noticing can be prepared by an
+existing concept, comparison, symbol, or standing query without that preparation
+making the resulting interpretation true. It is the constructive counterpart to
+semantic-access obstruction and a project term, not a renaming of Lonergan's
+ordinary censor or evidence that every unnoticed relation was repressed.
+
+The proposed temporal effects must remain separate:
+
+| Access site | Candidate effect |
+|---|---|
+| **Retrospective** | Earlier observations remain separately available but cannot readily be retrieved and joined through the culturally costly concept. |
+| **Present** | Implicit or elephant-side unease, anticipation, or recognition remains while the rider cannot hold and complete the relation in self-authored language. |
+| **Prospective** | A concept or question fails to remain active as a standing query, so a passing event is not segmented, bound, and preserved as evidence under that relation. |
+| **Public address** | A privately available formulation is withheld or prevented from entering shared vocabulary, records, and common knowledge; this late gate must not be confused with absent private access. |
+
+The temporal sites intersect several analytically distinguishable operations:
+
+| Interface gate | Candidate effect of collar classification |
+|---|---|
+| **Read gate** | Earlier observations cannot readily be retrieved through the relevant conceptual address. |
+| **Query gate** | The concept does not remain active as a standing detector over present reality. |
+| **Segmentation gate** | A continuous occurrence is not bounded as a potentially relevant event. |
+| **Write or binding gate** | A new observation does not attach to the concept or persist as related evidence. |
+| **Join gate** | Separately available observations cannot be assembled into one relation or model. |
+| **Alias gate** | An authorized description becomes the default retrieval address and suppresses a rival implication. |
+| **Articulation gate** | A relation cannot be stabilized in self-authored language although partial or affective recognition remains. |
+| **Public-address gate** | A privately available formulation does not enter shared speech, records, or common knowledge. |
+
+These gates are a functional decomposition, not additional mental modules.
+Several can fail together, but they require different evidence and imply
+different remedies. Person-side semantic-access inhibition, withholding of an
+intact private formulation, external suppression of its transmission, and the
+distributed public silence that can result must therefore remain distinct.
+
+Taboo can attach before a completed proposition reaches public speech. [Tetlock
+and colleagues' sacred-value-protection
+research](https://pubmed.ncbi.nlm.nih.gov/10821194/) shows that merely
+entertaining some comparisons or trade-offs can itself be experienced as a moral
+violation. In the present architecture, the classified object may therefore be
+a source that must not be consulted, a word that must not become an address, a
+question that must not be asked, two observations that must not be joined, a
+causal implication that must not be completed, or a public signal that would
+reveal mutual recognition. This extends taboo from speech prohibition to
+possible prohibition of the epistemic operation itself. It does not establish that every
+sacred refusal is blind or pathological; the hazard is closure against
+reciprocal, reality-answerable examination of the protected operation.
+
+```text
+query, source, comparison, or join approaches a protected boundary
+→ collar classifies performing the epistemic operation as contaminating,
+  disloyal, dangerous, or shameful
+→ elephant averts, or rider-side access and articulation stop
+→ an authorized formulation or silence terminates the attempt
+→ public non-use helps reproduce the taboo
+```
+
+The general result can be described as **asymmetric addressability**: material
+remains partly available, but one fast, culturally usable route into it is
+inhibited or redirected while an authorized route remains easy. When query,
+segmentation, or write/binding fails before a passing occurrence becomes an
+explicitly typed and preserved observation, the stronger prospective result is
+**epistemic acquisition closure**. This is not retrieval failure over an existing
+record and not censorship of an already formulated claim; it is failure earlier
+in the evidence lifecycle, where no obvious “missing row” may remain for later
+inspection.
+
+One interrupted act of thought does not establish a durable blind spot. Three
+candidate persistence levels should be separated:
+
+1. **Query suppression:** the concept remains available in principle, but the
+   present search is abandoned or diverted.
+2. **Indexed prohibition:** attempting retrieval also activates threat, shame,
+   pollution, or disloyalty, so the approaching relation may be anticipated
+   without being completed or acknowledged.
+3. **Index modification:** repeated non-use, inhibition, renaming, or replacement
+   weakens one retrieval path while an authorized alias receives rehearsal,
+   social confirmation, and institutional support.
+
+```text
+concept X repeatedly activates collar alarm
+→ searches through X are interrupted
+→ examples receive less attention, rehearsal, and explicit binding
+→ authorized alias Y receives repetition and public support
+→ later retrieval increasingly returns Y rather than X
+→ new observations attach to Y or remain unclassified
+→ X becomes costly or difficult to retrieve before conscious refusal begins
+```
+
+The collar does not rewrite a memory store. Its proposed contribution is to
+classify the approaching operation; ordinary attention, inhibition, rehearsal,
+retrieval, learning, and social transmission supply the persistence mechanism.
+The stronger outcome can be called **protected non-integration**: material
+remains sufficiently available to activate protection but is not integrated into
+an explicit, corrigible self-and-world model.
+
+The mirror image of query suppression must be included symmetrically. In
+**query hyperactivation**, a culturally favoured concept receives low activation
+cost, high salience, honour, urgency, and repeated rehearsal, so ambiguous events
+are readily detected and bound under it:
+
+```text
+favoured query receives a low threshold
+→ ambiguous events are repeatedly classified through it
+→ accumulated records appear to confirm its prevalence
+→ public repetition and collar approval lower the threshold further
+```
+
+Suppression risks false negatives; hyperactivation risks false positives. The
+first does not make a prohibited relation true, and the second does not make a
+favoured relation false. Both require matched cases, rival queries, counterexamples,
+scope limits, and correction.
+
+A distinct high-gain persistence path is **crisis--relief reindexing**:
+
+```text
+incumbent self-understanding is destabilized or morally discredited
+→ uncertainty, guilt, shame, anxiety, or loss of orientation increases
+→ incumbent concepts become costly, complicit, or unsafe
+→ an authority supplies vocabulary, identity, and a replacement causal model
+→ acceptance supplies orientation, belonging, recognition, or relief
+→ relief reinforces the replacement access paths
+```
+
+This is a generic candidate installation mechanism, not a description of every
+education, conversion, difficult insight, or codebook change. It does not by
+itself establish trauma, abuse, traumatic bonding, deliberate destabilization,
+or a false successor account. The stronger concern arises where the same
+authority helps create or exploit disorientation, monopolizes the available
+route to relief, treats rejection as further evidence of defect, and leaves the
+person less able to inspect alternatives, refuse, exit, or correct that authority.
+
+Repeated interruption may weaken rehearsal and retrieval routes, strengthen an
+authorized alias, and feed public silence back into local expectations.
+That persistence pathway is **not** literal index deletion.
+Material may remain available through recognition, affect, alternative
+vocabulary, changed perspective, laborious reconstruction, or private conditions.
+Ordinary forgetting, missing knowledge, ambiguity, cognitive load, valid
+disagreement, strategic silence, material sanction, and biographically specific
+threat learning remain rival explanations.
+
+**Willful blindness** can remain an ordinary-language umbrella for this family
+of non-seeing, avoidance, and non-integration, but it should not name the precise
+mechanism. The phrase can imply a fully conscious decision not to know, whereas
+the present sequence ranges from deliberate information avoidance through
+learned self-silencing to pre-reflective semantic-access gating. **Conceptual-
+index capping** is likewise controlled database shorthand for the functional
+result, not a claim that one literal index entry was erased.
+
+The hypothesis was reached partly through a comparison with trauma-related
+access patterns. The relation is functional convergence at an access-and-
+integration interface, not identity of cause:
+
+```text
+trauma-conditioned protection ─────┐
+                                   ├→ access and integration controls
+collar classification signal ──────┘
+                                             ↓
+                         retrieval, joining, naming, or binding fails
+                                             ↓
+                          affective or implicit response may remain
+```
+
+Wilma Bucci's [Multiple Code
+Theory](https://pubmed.ncbi.nlm.nih.gov/33566313/) distinguishes subsymbolic,
+nonverbal-symbolic, and verbal-symbolic processing and treats their connection as
+a bidirectional referential process. [Brewin and colleagues' dual-
+representation account](https://pubmed.ncbi.nlm.nih.gov/8888651/) and [Ehlers and
+Clark's PTSD
+model](https://www.sciencedirect.com/science/article/pii/S0005796799001230)
+likewise distinguish forms of situational, perceptual, autobiographical, and
+verbal accessibility. These theories do not supply the local bigOther or the
+collar-conditioned route. They support only the bounded architectural
+possibility that bodily, affective, implicit, or recognitional access can remain
+active while contextual or verbal integration is impaired.
+
+Lemov's trauma contribution must itself be decomposed rather than imported as
+one causal package. Her history distinguishes at least four relations: trauma as
+a stored disposition that can become active again; trauma as a culturally
+available or unavailable actor's category for naming experience; trauma as a
+relational vulnerability shaped by recognition, credibility, isolation,
+support, and institutional response; and trauma as one possible substrate
+through which a supplied reality can acquire unusual stabilizing force. Her
+coercive-persuasion material suggests a bounded installation topology in which
+ungrounding, debility, humiliation, isolation, uncertainty, and unresolved
+suffering heighten dependency before relief, kindness, belonging, meaning, or
+an offered interpretation supplies restabilization. This topology contributes
+to the crisis--relief hypothesis; it does not establish that cultural blindness,
+conversion, difficult education, or collar-conditioned access is traumatic.
+
+Rebecca Lemov's historical synthesis in *The Instability of Truth* supplies a
+different, social-index comparison. In her account, observable withdrawal,
+startle responses, disturbed memory, shame, hostility, and difficulty returning
+to ordinary life among Korean War prisoners circulated before *trauma* was an
+established public and professional actor's category for joining them. The same
+material could instead be retrieved through aliases such as cowardice,
+collaboration, weak character, ideological conversion, or brainwashing. This is
+not evidence that trauma caused a cultural semantic scotoma; it illustrates how
+an unavailable or institutionally weak category can leave phenomena visible yet
+poorly joined, while an established alias governs public retrieval.
+
+Lemov's longer history also supplies the opposite warning: once *trauma* becomes
+a cultural universal, query hyperactivation can retrieve heterogeneous forms of
+distress through one insufficiently discriminating category. Her use of Robert
+Lifton's **numbing** adds a complementary split in which selected feeling or
+experience is deadened while intellectual competence and an articulate public
+surface remain. Neither direction establishes the collar route. Together they
+reinforce only the bounded claims that access can split across systems and that
+public categories help govern which observations become jointly intelligible.
+
+The resulting description **affectively sighted but semantically blind** does
+not mean that affect contains a complete hidden argument. An implicit process
+may register only an outline, anomaly, trajectory, or expected consequence while
+the rider fails to hold the relation explicitly. Trauma-conditioned protection
+and collar-conditioned access also differ in activating boundary, protected
+object, biographical distribution, and reinforcement. The analogy does not make
+cultural blindness trauma, diagnose a person, or license a clinical inference.
+
+Memory research supplies a second boundary rather than proof of the proposed
+mechanism. Hippocampal [memory-indexing
+theory](https://onlinelibrary.wiley.com/doi/10.1002/hipo.20350) distinguishes
+distributed representation from a cueing route capable of reinstating it.
+Childhood-amnesia research likewise distinguishes encoding, storage,
+consolidation, free recall, recognition, verbal addressability, narrative
+organization, social rehearsal, and genuine trace loss. In particular, [later
+vocabulary does not automatically make earlier nonverbal event information
+verbally reportable](https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00442),
+while [perspective change can make previously inaccessible material
+retrievable](https://www.ideals.illinois.edu/items/17874/bitstreams/64093/data.pdf).
+The licensed inference is only that availability is plural and access paths can
+change; childhood amnesia is not one discarded database index, and the Culture
+Mechanics symbolic index is not the hippocampal index.
+
+The better developmental analogy is a live migration among changing access
+regimes with incomplete backward compatibility. Early learning can remain
+behaviourally or affectively operative while later free autobiographical report
+fails; vocabulary acquired later does not automatically bind itself to earlier
+experience; and narration, elaborative reminiscing, repeated comparison, and
+social rehearsal can affect what remains jointly retrievable. [Bauer and
+Larkina](https://pmc.ncbi.nlm.nih.gov/articles/PMC4025992/) and [Qi
+Wang](https://guilfordjournals.com/doi/full/10.1521/soco.2007.25.4.455) supply
+neighbouring developmental evidence rather than proof of cultural index capping.
+
+One narrow infant operant-memory result adds a controlled access-key
+possibility: [Rovee-Collier, Adler, and Borza
+(1994)](https://pubmed.ncbi.nlm.nih.gov/7808274/) found that post-event cue
+exposure could change which object later primed an earlier learned response.
+The result does not establish intact autobiographical memory or cultural
+reindexing. It supports only the weaker **alias-rewrite** possibility that later
+information can change the default cue through which earlier learning becomes
+accessible.
+
+Adolescence may reorganize autobiographical access around a changing self-model,
+peers, status, independence, turning points, and imagined futures. This is not a
+second childhood-amnesia event or one pubertal reindexing operation. Ordinary
+temporal distance, semanticization of episodic detail into gist, culturally
+available life scripts, identity-related rehearsal, and changing retrieval cues
+remain separable contributors. Learned expectations and classifications can also
+survive after the particular episodes through which they were acquired have
+become difficult to recall.
+
+The provisional access taxonomy is therefore:
+
+```text
+content absent
+≠ symbolic address absent
+≠ retrieval inhibited
+≠ relation recognized but held only fleetingly
+≠ private access present but public speech withheld
+≠ valid causal differentiation
+```
+
+Durkheim's [“The Dualism of Human Nature and Its Social
+Conditions”](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3627098.html)
+supplies the broader source claim that socially derived intellectual and moral
+life includes language, concepts, rational activity, and collective authority.
+The [Culture Mechanics
+decomposition](0010-culture-mechanics.semantic-definition.md#durkheimian-dualism-and-culture-mechanics-decomposition)
+places those functions across the rider/main CPU, public symbolic and codebook
+resources, collar, and field rather than inside the collar alone.
+Durkheim did not propose semantic-access gating, retrospective or prospective
+scotoma, a reconstruction codebook, or the rider--elephant--collar topology.
+
+Bernard Lonergan supplies closer predecessor vocabulary for the person-side
+process. **Flight from insight** names evasion of an approaching unwanted
+understanding; **scotosis** names the aberrant process that censors or prevents
+insight; and **scotoma** names the resulting blind spot. His account begins from
+the positive operations through which experience, questioning, insight,
+conceptual formulation, and reflective judgment become knowledge. It therefore
+also explains why transmission of a finished proposition can fail to reproduce
+the operation by which it becomes understood.
+
+Culture Mechanics can use **semantic scotoma** for a blind spot in conceptual
+retrieval, joining, or articulation; **retrospective scotoma** for inaccessible
+joining of earlier observations; **prospective scotoma** for an absent standing
+query when a new event arrives; and **culturally indexed scotoma** where a
+similar access failure recurs at a Culture Program boundary. Scotosis belongs
+first to Lonergan's person-side account of dramatic bias, while group bias is his
+separate social extension. The distributed collar-and-field mechanism is a
+Culture Mechanics bridge between those levels, not a claim that Lonergan
+already proposed the collar architecture, database analogy, or a cultural
+memory-deletion process. [Lonergan's Chapter 6 archive
+material](https://bernardlonergan.com/archive/40500dte050/) provides the source
+path from flight from insight through affective inhibition toward repression;
+the present project supplies the retrospective, prospective, and distributed
+extensions.
+
+Lonergan described the Stekelian analytic recovery material used in that chapter
+as **retrospective education**. It supplied confirmatory material for the later
+path from inhibited images and questions toward repression; it was not the
+origin of his operation-first educational concern and does not make the present
+reindexing proposal a psychoanalytic or clinical method.
+
+<a id="lonergan-source-boundary-and-access-controls"></a>
+
+##### Lonergan source boundary and access controls {#lonergan-source-boundary-and-access-controls}
+
+Lonergan's **censor** is not pathological by definition. Its ordinary constructive
+function selects and arranges the neural demands, images, affects, and other
+materials from which a workable perspective and insight can form; finite attention
+cannot focalize everything at once. The aberrant censor redirects that unavoidable
+selection so that the configuration needed for an unwanted insight does not form.
+This distinguishes ordinary selectivity from scotosis and explains why the process
+can begin upstream of a completed proposition.
+
+The terminology also requires a strict source boundary. *Scotoma* predates
+Lonergan as a medical blind-spot term and in Stekel's “psychic scotoma,” while
+*scotosis* is Lonergan's distinctive technical formation or use. [Tad Dunne's
+terminological reconstruction](https://lonerganresource.com/media/pdf/articles/Dunne-Sources_of_Key_Terms_of_Lonergan.pdf)
+emphasizes that Lonergan restricts the scotoma metaphor to **dramatic bias**, where
+the subject does not realize that relevant images are being repressed. Semantic,
+retrospective, prospective, culturally indexed, public-address, group, platform,
+and institutional-uptake extensions belong to Culture Mechanics and must not be
+reported as Lonergan's own taxonomy.
+Allen Wheelis independently used [“Flight from
+Insight”](https://pubmed.ncbi.nlm.nih.gov/18127078/) as the title of a 1949
+psychoanalytic paper. The shared phrase is a terminological neighbour; the
+reviewed evidence does not establish that Lonergan borrowed it from Wheelis.
+
+Robert M. Doran supplies the closest later development within the Lonerganian
+lineage. His [account of **psychic
+conversion**](https://epublications.marquette.edu/theo_fac/341/) turns the censor
+from a repressive into a constructive participant in development and relates the
+neural undertow of images and affects to the subject's operations of insight,
+judgment, and decision. His symbols--feelings--values relation shows how affective
+material can become available to evaluation through symbolic mediation, while his
+language of letting the data and insight be resists replacing one repression with
+a preferred conclusion. His dialectic of the subject is the nearest source bridge
+to the elephant--rider interface; his dialectics of community and culture extend
+the setting toward intersubjective, social, and constitutive meaning. His later
+interdividual and Girardian development further makes the psychic pole relational
+rather than isolated. These relations support restored communication among psyche,
+symbolization, and judgment, but they do not provide the local bigOther,
+distributed-field mechanism, or a worked theory of culturally induced scotomata.
+
+Four states prevent symbolization difficulty from being pathologized wholesale:
+
+| State | Discriminating relation |
+|---|---|
+| **No registration** | Neither implicit, affective, nor explicit access to X is evidenced. |
+| **Open semantic latency** | X is implicitly or affectively meaningful but not yet adequately symbolized, while inquiry remains open. |
+| **Systematically obstructed symbolization** | X is registered, but the perspective, relation, or symbolization needed for insight is recurrently diverted or inhibited. |
+| **Proposition--affect disconnection** | X is propositionally available while remaining disconnected from the affective, expectational, or noticing organization that would make it operative. |
+
+Only the third state is the central scototic candidate. [Eugene Gendlin's account
+of symbolic carrying
+forward](https://focusing.org/gendlin/docs/gol_2145.html) supplies the decisive
+healthy-latency control: implicit bodily meaning need not contain one finished
+hidden proposition, and adequate words can differentiate rather than merely
+retrieve it. [John Bowlby's defensive-exclusion
+account](https://sycofx.wordpress.com/wp-content/uploads/2012/11/john-bowlby-loss-sadness-and-depression-attachment-and-loss-1982.pdf)
+distinguishes necessary selective exclusion from pathological perceptual blocking
+or cognitive disconnection and supplies backward-looking and forward-looking
+access neighbours. His closer cumulative relation is that rigid exclusion can
+segregate information systems, prevent later experience from revising internal
+working models, and leave anger or anxiety available for attachment to an
+inappropriate situation. This provides a strong independent attachment-theory
+analogue to obstructed access, displaced affect, and distorted development; it
+does not make attachment history the cause of culturally indexed scotosis or
+license its inference from present disagreement. Neither Bowlby nor Gendlin
+establishes the collar mechanism.
+
+The Stekelian material used by Lonergan adds three narrower discriminators. First,
+resistance is adaptive rather than a static missing index: as one route approaches
+the unwanted relation, another plausible diversion, reinterpretation, or
+rationalization can replace it. Second, transference can make an older
+social--affective routing policy operate in a present relationship and thereby
+become observable without turning that clinical setting into the general
+Culture Mechanics mechanism. Third, detached possession of a proposition does
+not establish recovery when the dramatic, affectively charged organization of
+attention, expectation, and action remains unchanged. These source observations
+support a distinction between proposition-level correction and affective--semantic
+reintegration; they do not make Stekelian analysis a required remedy or validate
+one inferred repression from disagreement alone.
+
+Experiential avoidance supplies one candidate reinforcement path:
+
+```text
+approaching relation evokes distress
+→ attention, questioning, or symbolization withdraws
+→ immediate relief rewards withdrawal
+→ repetition lowers the probability that the relation is formed next time
+```
+
+The sequence is not a diagnosis and does not identify the cause of every failed
+inquiry. Ordinary ignorance, limited attention, undeveloped understanding, open
+semantic latency, valid disagreement, fatigue, trauma, and inaccessible evidence
+remain rival explanations. Perspective-shift recall, label-feedback, event-
+segmentation, retrieval-suppression, and socially shared forgetting studies below
+support separate accessibility components; they do not validate Lonergan's whole
+motivational sequence or the Culture Mechanics collar bridge.
+Experiential-avoidance models also do not require a particular true insight to be
+waiting behind the avoided experience. Lonergan makes the stronger truth-oriented
+cognitional hypothesis that flight can exclude an insight and the further
+questions that might correct development. Culture Mechanics preserves that
+difference without treating observed avoidance as proof that an observer already
+knows the suppressed truth.
+
+Contemporary defence-mechanism research supplies a broader clinical neighbour.
+[Rose Howell and Vera Békés's narrative
+review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12910262/) treats defences as
+often automatic verbal, emotional, cognitive, or behavioural responses to
+conflict and distress and reports associations among attachment patterns,
+suppression, denial, projection, and other defensive processes. Much of the
+reviewed evidence is cross-sectional or self-reported. It supports the bounded
+possibility that attention, encoding, recall, and interpretation can be organized
+protectively through relational experience; it does not identify scotosis, the
+unwanted insight in a case, a Culture Program cause, or a diagnosis from
+disagreement.
+
+Schema therapy supplies a different cumulative-developmental neighbour.
+[Christopher Taylor, Penny Bee, and Gillian Haddock's systematic
+review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5573974/) presents early
+maladaptive schemas as long-standing structures that can combine cognitions,
+emotions, memories, and bodily sensations, while activated coping responses can
+organize a current schema mode. Avoidant coping can consequently preserve an
+earlier organization by limiting corrective contact, producing a family
+resemblance to cumulative scotosis without making the schema a local bigOther,
+Culture Program, or censored insight. The review found only initial low-quality
+evidence for schema change and insufficient evidence that schema change mediates
+therapeutic outcome, so this remains a source comparison rather than validation
+of the Culture Mechanics sequence or a prescribed treatment.
+
+Information avoidance adds a necessary false-positive control. [Jeremy Foust and
+Jennifer Taber's cross-disciplinary
+review](https://pubmed.ncbi.nlm.nih.gov/37819241/) distinguishes avoidance from
+mere failure to seek and treats intentionality, timing, personal relevance,
+self-beliefs, information beliefs, and social conditions as separate variables.
+Observed non-exposure or silence therefore does not by itself reveal deliberate
+avoidance, preconscious scotosis, or collar conditioning. Motivated reasoning,
+cognitive dissonance, selective search, asymmetric scrutiny, rationalization, and
+belief perseverance can reproduce parts of the visible pattern while leaving its
+cause underdetermined. A recent [review of partisan
+bias](https://doi.org/10.1146/annurev-psych-030424-122723) accordingly reports
+contributions from both motivational and cognitive factors rather than licensing
+one hidden-motive inference from the outcome alone.
+
+At the social-epistemic level, José Medina's [**active
+ignorance**](https://doi.org/10.1093/acprof:oso/9780199929023.003.0001) is the
+closest named neighbour for ignorance maintained through interacting epistemic
+habits and structural conditions rather than a simple information deficit. His
+account connects active ignorance to arrogance, laziness, closed-mindedness, and
+insufficient friction from differently situated knowers. Culture Mechanics uses
+only the bounded relation that socially reinforced resistances can help ignorance
+reproduce itself. It does not import Medina's social-group classifications,
+assign culpability, or infer one system of active ignorance from one error,
+disagreement, or source-routing decision.
+
+Need for cognitive closure supplies a separate motivational neighbour for the
+positive path to premature termination. Pressure for order and certainty may make
+an authorized master signifier or compressed explanation easier to accept as a
+stopping point, but closure need is neither Lonerganian scotosis nor a Lacanian
+master signifier and does not establish that a rapidly accepted answer is false,
+authoritarian, or culturally installed.
+
+Predictive-processing research supplies a possible formal neighbour for attention,
+active sampling, prior confidence, prediction error, and updating. In a future
+formalization, socially authorized interpretations might alter which evidence is
+sampled or the effective weight assigned to error signals, but that relation is a
+Culture Mechanics hypothesis rather than a result established by predictive
+processing. Affective value must not be equated with Bayesian precision, and a
+precision-weighted account must not collapse the functionally distinct main CPU
+and local bigOther into one unitary mechanism. The relevant research currently
+supports only the more modest claims that [attention is related to predictive
+selection](https://pmc.ncbi.nlm.nih.gov/articles/PMC8547734/) and that the broader
+[neurophysiological evidence for predictive processing remains an object of
+evaluation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7187369/).
+
+Lonergan's bias taxonomy also prevents person-side scotosis from swallowing the
+social problem. **Dramatic bias** concerns inhibition of the images, questions,
+and formulations that could support an unwanted personal insight;
+**individual bias** privileges immediate personal interest; **group bias** makes
+congenial insights operative while excluding those that threaten a group's
+position; and **general bias** names common sense's resistance to sufficiently
+theoretical, systemic, and long-range understanding. His **longer cycle of
+decline** adds a cumulative relation: excluded fruitful insights produce a worse
+and less intelligible situation, which then supplies poorer material for later
+understanding and makes further exclusion easier. Culture Mechanics uses the
+collar and field to propose one bridge across those levels; it does not collapse
+the biases into one mechanism or attribute the bridge to Lonergan.
+
+The dynamic signatures in Lonergan's account are also important. An insight may
+be admitted momentarily before its follow-up questions disappear, dismissed as
+a groundless bright idea, repelled through fear, disgust, pride, horror, or
+revulsion, or buried beneath selective rationalization. Access can oscillate:
+the relation is briefly seen, becomes incomprehensible again, and later returns
+under changed affect, context, or available representations. Such oscillation
+is compatible with an access problem rather than one settled false belief, but
+it does not by itself identify dramatic bias, collar conditioning, or scotosis.
+
+Several neighbouring literatures locate other parts of the mechanism without
+supplying the complete synthesis. Max Scheler's **organic mendacity** places
+falsification in selective admission of impressions and value-feelings and again
+in reproduction and recollection; his ressentiment explanation is one possible
+cause, not the universal cause adopted here.
+The [ressentiment-conversion
+pathway](0040-mythology-construction.semantic-definition.md#ressentiment-conversion-pathway)
+in *Mythology Construction* now owns that narrower affective and value-perceptual
+source bridge: inhibited hostility can organize what is admitted and recollected
+so that an inverted valuation is sincerely experienced before reflective report.
+Organic mendacity remains distinct from conscious lying, but the two can coexist
+when a globally inhabited value-world makes local manipulation appear to reveal a
+supposedly deeper truth.
+Neither conviction nor selective access establishes the local deception, and a
+proved deception does not establish the encompassing ressentiment account.
+Aquinas's **affected ignorance**
+separates habitually possessed knowledge from actual consideration when desire,
+passion, habit, or distraction intervenes. [Motivated
+reasoning](https://doi.org/10.1037/0033-2909.108.3.480) and [identity-protective
+cognition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067) show how
+motivation and group position can change retrieval, scrutiny, and apparently
+defensible justification; they do not normally establish that the concept itself
+became inaccessible.
+
+The theological umbrella of **noetic effects** or **noetic blindness** similarly
+names the proposition that desire, fear, moral refusal, or disordered attachment
+can impair knowing itself. It is a useful cross-domain predecessor for the
+moral--cognitive relation, not a worked semantic-access mechanism, and Culture
+Mechanics does not inherit a theological causal explanation through the
+comparison.
+
+Experimental neighbours make the accessibility claim more discriminating.
+[Think/no-think work](https://pubmed.ncbi.nlm.nih.gov/11268212/) shows that
+repeated retrieval suppression can impair later recall; the [mnemic-neglect
+effect](https://www.tandfonline.com/doi/abs/10.1080/10463283.2016.1183913)
+separates poor free recall of self-threatening material from better recognition;
+and [socially shared retrieval-induced
+forgetting](https://nsuworks.nova.edu/cps_facarticles/583/) shows how one
+speaker's selective remembering can alter a listener's later accessibility.
+These findings supply possible ordinary cognitive links from repeated
+interruption to learned accessibility, not evidence of collar control or literal
+deletion.
+
+The prospective side also has component-level neighbours. In [Lupyan and
+Ward's label-feedback
+experiment](https://pmc.ncbi.nlm.nih.gov/articles/PMC3761589/), a valid verbal
+label improved detection of a suppressed image while an invalid label impaired
+detection. [Event Segmentation
+Theory](https://pmc.ncbi.nlm.nih.gov/articles/PMC3314399/) treats continuous
+activity as divided into meaningful events and gives conceptual knowledge and
+inferred goals a role in those boundaries. These results support the narrower
+claims that labels can prepare detection and conceptual parsing can affect what
+becomes a memorable event; they do not establish standing-query control by a
+collar or epistemic acquisition closure as a complete mechanism.
+
+At social scale, Fleck's thought style, Bourdieu's doxa, and Zerubavel's
+attentional communities and conspiracies of silence describe socially organized
+readiness to notice and not notice. Fricker's [hermeneutical
+injustice](https://academic.oup.com/book/32817/chapter-abstract/275001188)
+addresses deficits in shared interpretive resources; hermeneutical distortion
+and Irvine and Gal's [erasure](https://web.stanford.edu/~eckert/Courses/ParisPapers/IrvineGal2000.pdf)
+come closer to authorized aliasing; and [strategic
+ignorance](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-4446.2012.01424.x)
+and agnotology treat ignorance as socially produced and sometimes useful. Mary
+Douglas's purity and taboo analysis helps explain why entertaining a category or
+comparison may feel contaminating rather than merely mistaken. None identifies
+where the present read, query, binding, join, articulation, or public-address
+gate failed.
+
+Moral and legal accounts begin at still other points. Moral attentiveness,
+ethical fading, moral disengagement, willful ignorance, solution aversion,
+Kelman's authorization--routinization--dehumanization sequence, and Cohen's
+literal, interpretive, and implicatory denial separate preparedness to notice,
+relabelling, non-acquisition, non-questioning, and neutralization of consequence.
+The legal sequence [unperceived injurious experience → naming → blaming →
+claiming](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CC5A29351BCC355B8317FD13CAF29F09/S0023921600032400a.pdf/the-emergence-and-transformation-of-disputes-naming-blaming-claiming.pdf)
+shows how an occurrence that never becomes a named injury cannot enter a still
+potentially rule-bound court's claim stream.
+
+Granovetter's thresholds, Kuran's preference falsification, spiral-of-silence
+research, and Chwe's common-knowledge account normally begin one step later,
+with an adequately formulated private state whose public expression or mutual
+visibility fails. The collar-conditioned hypothesis adds the earlier branch in
+which the private state itself may not stabilize. The distinction must remain
+visible when public silence is analyzed.
+
+A relation missing from the dominant public index may nevertheless survive in
+private memory, marginal vocabularies, jokes, literature, dissident archives,
+or specialized professional subcultures. Public sleep therefore entails neither
+universal individual blindness nor total cultural erasure. These surviving
+repositories can later supply alternative addresses and crystallization cores,
+but their existence alone does not establish the truth or prevalence of the
+preserved relation.
+
+Kuran and Sunstein's [availability-cascade
+model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=138144) supplies the
+converse public-amplification path: repetition can increase cognitive
+availability while informational and reputational incentives produce more
+repetition. In the present model, distributed feedback can leave one candidate
+query without a public index while hyperactivating another. Repetition and
+availability establish truth in neither direction.
+
 The local bigOther does not cease operating when the individual's inner eye goes
 dark. The internalized gaze, prohibition, shame, and authorization can become
 more intense precisely while the person's own imaginative-conceptual field
@@ -1827,6 +2661,15 @@ bigOther. It does not directly detect an Ideology, hidden producer, power
 structure, or *Dummheit* inside a person. Linking a repeatable local pattern
 upward requires separate evidence of program, carrying structure, authorization,
 reproduction, scale, beneficiary, and failed correction.
+
+The person-side mechanism connects to the larger [recognition-threshold and
+public-sleep
+ecology](0060-culture-program-ecology.semantic-definition.md#recognition-threshold-management-and-public-sleep)
+without becoming identical to it. Semantic-access gating can prevent private
+recognition before a stable judgment forms. Recognition-threshold management
+also includes cases in which private recognition is intact but public
+articulation, aggregation, institutional uptake, or correction fails. Neither
+mechanism is necessary or sufficient for the other.
 
 <a id="latent-culture-program-diagnosis"></a>
 
@@ -2699,6 +3542,62 @@ can inspect and then retain, revise, or reject it under reflective ownership. A
 facilitator must not count agreement with the facilitator as proof of recovered
 authorship.
 
+<a id="epistemic-reindexing"></a>
+
+##### Epistemic reindexing {#epistemic-reindexing}
+
+Where a protected concept is capped rather than wholly absent, unbraiding may
+need to restore access rather than merely add facts. **Epistemic reindexing** is
+the proposed bounded operation of restoring multiple reality-answerable paths
+through which a person can retrieve, hold, name, compare, test, and revise a
+relation across neutral and culturally loaded contexts.
+
+```text
+demonstrate a relation in a relatively uncharged case
+→ give it provisional vocabulary and distinguish neighbouring concepts
+→ transfer the causal form gradually toward the protected domain
+→ notice where down-ranking, renaming, diversion, or veto begins
+→ keep the relation available without turning disagreement into identity loss
+→ establish several independent retrieval cues and rival formulations
+→ test novel and position-reversed cases
+→ permit evidence to defeat the facilitator's interpretation
+```
+
+The endpoint is not adoption of the guide's answer. It is restored conceptual
+addressability: the person can examine the relation while its implications
+remain affectively or culturally costly and can reject, refine, or retain it
+through reciprocal evidence and reasoning. Unbraiding makes automatic relations
+observable and loosens their finality; reindexing constructs several paths by
+which the relevant concept remains available for inspection.
+
+Question-shaped crystallization cores are generally safer than answer-shaped
+ones. “What pattern, if any, would explain these observations?” prepares
+attention while leaving rival answers available. “These observations are
+manifestations of X” can instead preclassify later experience, hyperactivate a
+favoured query, and create false coherence. Reindexing must therefore preserve
+independent evidence, false-positive and false-negative checks, contrary cases,
+refusal, later audit, and the possibility that its proposed index is defective.
+
+At public scale, a Noticer can supply vocabulary, an archive, or a comparison
+table through which other people retrieve previously isolated observations and
+recognize one another's recognition. This **collective reindexing** can turn
+private anomalies into common knowledge and organized correction. It remains
+corrigible only when dissent from the new index is protected as strongly as
+dissent from the incumbent one and copied testimony is not mistaken for
+independent confirmation.
+
+Collective reindexing is the principal epistemic-agency interface to what
+[*Mythology Construction* calls epistemic
+nucleation](0040-mythology-construction.semantic-definition.md#cultural-nucleation-and-anti-nucleation):
+one fact, concept, case, archive, comparison, or named pattern can provide the
+address through which people join other facts and discover one another's
+recognition. *Epistemic nucleation* remains shorthand for that human and
+institutional operation, not agency attributed to information and not a second
+Culture Program type. A successful join also does not establish the joined
+pattern's truth or a successor-bearing cultural nucleus; independent evidence,
+rival comparison, correction, recurrent coordination, and succession remain
+separate gates.
+
 ##### MCIP as one candidate method and selection mechanism
 
 The existing authoritative [MCIP account](#epistemic-emancipation-and-mcip)
@@ -3095,6 +3994,41 @@ or substitutes a private purpose remains a separate authorship and capture
 question. Scale sharpens the distinction: a nation-sized stock of property,
 memory, infrastructure, and obligation exceeds what one biological individual can
 perceive, maintain, and use as an ordinary private owner.
+
+<a id="capture-of-feedback-and-directing-functions"></a>
+
+#### Capture of feedback and directing functions {#capture-of-feedback-and-directing-functions}
+
+The intact organ--body morphology distinguishes three capture surfaces that can
+otherwise be mistaken for one vague failure of leadership:
+
+```text
+trusted carriers cease returning independent operational reality
+→ the formation runs blind
+
+field-authorized directing function answers to a competing principal or governor
+→ the formation is misdirected
+
+trusted carriers and institutions retain implementation authority
+→ the formation can use its own legitimacy and coordinated capacity
+  to execute the substituted direction
+```
+
+These operations can occur separately or reinforce one another.
+The field may genuinely authorize a leader without knowing that the leader's
+consequential answerability has shifted, and trusted carriers may sincerely
+implement the returned direction without knowing the wider principal relation.
+Conversely, bad advice, private ambition, unpopular direction, institutional
+inertia, or failure does not establish capture.
+
+[*Culture Program Ecology* owns **directing-organ capture**, **locally
+authenticated intermediary selection**, **hidden-principal displacement**,
+**electoral legitimacy laundering**, and the **pseudomorphic chief** application](0060-culture-program-ecology.semantic-definition.md#directing-organ-capture-and-pseudomorphic-chief).
+[*Mythology Construction* owns the ingress and rebraiding mechanism for covert
+trusted-opinion-leader capture](0040-mythology-construction.semantic-definition.md#covert-trusted-opinion-leader-capture-and-trusted-channel-rebraiding).
+The present section owns only their relation to the population--carrier--field--
+directing-function morphology.
+Neither relation requires ressentiment.
 
 #### Durkheim's source morphology and the Culture Mechanics extension
 
@@ -3840,6 +4774,23 @@ and the shared symbolic protocol supplies publicly legible tokens. The codebook
 therefore names the recipient-side resources upon which reconstruction draws,
 not one additional mental object or perfectly shared dictionary.
 
+Durkheim supplies an important source neighbour for this distributed formation
+claim.
+In [“The Dualism of Human Nature and Its Social
+Conditions”](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3627098.html)
+he treats vocabulary and grammar as products of collective elaboration, concepts
+as common representations through which minds communicate, and theoretical and
+practical rational activity as dependent upon social causes.
+He also says that collective religious, moral, and intellectual conceptions
+become durably organized and personally inflected in individual consciousness
+while collective life continues to renew them.
+This is compatible with locally reconstructed codebooks and field back-action,
+but it does not supply the present mechanism.
+Culture Mechanics distinguishes the public symbolic resources, the rider/main
+CPU that reconstructs and reasons through them, and the local bigOther that
+classifies their culturally relevant objects and uses; Durkheim's broader social
+pole contains all three relations rather than mapping to the collar alone.
+
 ```text
 new recipient or generation
 + inherited texts, symbols, practices, and institutions
@@ -3858,6 +4809,51 @@ renewed practice + decompression + correction + foundational-question custody
                          ↺
 ```
 
+The ordered complementarity in this sequence is the **operation-first
+decoder-bootstrap principle**:
+
+> **Cultural states can be transmitted compactly, but their competent reception
+> depends upon prior operation-rich work that constructs the recipient's local
+> decompression capacity.**
+
+In compact form, operation transmission builds the decoder, state transmission
+exploits it, and periodic operation transmission repairs it. This principle does
+not make state transmission inferior. It specifies the operation-rich formation
+that must precede or accompany state-heavy teaching if a recipient is to recover
+the question, grounds, application, limits, and correction path rather than only
+repeat the inherited result.
+
+Bernard Lonergan supplies a direct cognitive and educational predecessor to this
+positive account. His dissatisfaction with instruction centred on already
+formulated concepts, propositions, syllogisms, and authoritative answers led him
+back toward the operations through which a learner comes to understand:
+
+```text
+experience → question → insight → conceptual formulation
+           → reflective judgment → knowledge
+```
+
+In the present translation, a teacher can transmit the terminal proposition
+while failing to cultivate the locally executable operations that make it
+understood. [Giovanni Sala's account of Lonergan's
+development](https://www.lonergan.org/dialogue_partners/Sala/Method_in_Theology.htm)
+supports the concept--operation distinction. The operation-first principle and
+computing analogies remain Culture Mechanics developments, not Lonergan's terms.
+
+Lonergan did not appear to enter this problem through one Bonhoeffer-like public
+encounter with collective *Dummheit*. He entered from the positive question of
+what occurs when someone understands, after dissatisfaction with a
+neo-scholastic educational culture rich in finished concepts, propositions,
+syllogisms, and authoritative answers but comparatively weak in inquiry and the
+act of insight. The stock-market crash, Great Depression, rise of fascism, and
+his concern that inherited Catholic, economic, and political thought was failing
+to appropriate modern science, history, and social decline formed a wider
+historical pressure rather than one demonstrated biographical cause. [Gerard
+Whelan's intellectual-biographical
+account](https://www.thinkingfaith.org/articles/20080923_1.htm) supplies this
+historical bridge. The later inverse question--how interests and affects prevent
+available operations of insight--then leads toward dramatic and group bias.
+
 This sequence supplies the dynamic bridge among [Sowell's recurrent generational
 formation](0040-mythology-construction.semantic-definition.md#sublimation-and-moral-formation),
 [Voegelin's living-symbol, dead-formula, and idolized-answer
@@ -3869,6 +4865,21 @@ Voegelin supplies the experience--symbol and question relation. The CRDT and
 LZMA families supply bounded computing images. **The compound mechanism is a
 Culture Mechanics synthesis and should not be retroactively attributed to any
 one source.**
+
+The bridge also exposes two complementary failures in the experience--symbol
+interface:
+
+| Failure direction | What remains | What becomes unavailable |
+|---|---|---|
+| **Opaque or dead inherited symbol** | Prestigious vocabulary, doctrine, or public token | Reconstruction from the symbol back toward its engendering experience, originating question, and operational recognition |
+| **Capped or prohibited rival symbol** | Perception, anomaly, affect, or practical contradiction | Articulation from present experience toward an admissible concept, name, comparison, and public formulation |
+
+A culture can suffer both failures at once: inherited moral formulas no longer
+disclose present reality, while rival symbols capable of articulating it are
+classified as forbidden. The first damages recognition from symbol toward
+experience; the second damages articulation from experience toward symbol. This
+bidirectional failure is a Culture Mechanics relation between Voegelin's symbol
+account and collar-conditioned access, not a definition attributed to Voegelin.
 
 A generation can inherit compressed symbols and institutional artifacts, but it
 does not inherit a finished, locally executable decompression capacity. Recurrent
@@ -3896,6 +4907,13 @@ compressed token + prohibition of the generating experience or question
 → idolized answer-symbol
 ```
 
+**Reconstruction reach** names the size of the learned complex a token can
+reliably activate for a specified recipient and context. A symbol can therefore
+be “large” because it reconstructs an extensive practical, causal, moral,
+institutional, identity, or action package rather than because it is merely more
+abstract. Reconstruction reach is audience-relative and does not establish that
+different recipients reconstruct the same complex.
+
 The size of a person's vocabulary or stored knowledge is therefore not the
 decisive variable. Compression efficiency depends upon **relevant codebook
 overlap, reconstruction fidelity, contextual alignment, reality contact, and
@@ -3911,6 +4929,46 @@ field back-action make those mappings easier to anticipate and coordinate. This
 collective calibration does not make local codebooks identical or reduce the
 mechanism to isolated learning.
 
+Gergely Csibra and György Gergely's [**natural
+pedagogy**](https://doi.org/10.1016/j.tics.2009.01.005) supplies an earlier
+developmental bridge. Their proposal treats ostensive signals as indicating that
+communication is addressed to the learner and biases infants toward expecting
+referential, kind-relevant, and generalizable information, including culturally
+opaque knowledge that unaided observation would not readily disclose. In the
+present architecture, this resembles metadata on an operation--`addressed to
+you`, `learn this`, `generalize this`--and helps explain how social learning can
+begin before full language. It does not show that the transmitted content is true,
+that the learner passively copies it, or that every ostensive interaction installs
+a Culture Program or local-bigOther classification.
+
+Nicolas Claidière and Dan Sperber's [cultural-attraction
+account](https://www.dan.sperber.fr/wp-content/uploads/2007/09/Attraction-in-cultural-evolution.pdf)
+supplies the population-level complement. Cultural acquisition is normally
+constructive rather than exact copying: recipients use transmitted material,
+background knowledge, inference, interests, and environmental affordances to
+produce their own variants. Population stability can nevertheless arise when
+these transformations tend probabilistically toward recurrent attractors, while
+conformity- and prestige-biased transmission supply distinguishable
+distribution-based effects. This is a closer scientific neighbour than a literal
+CRDT for explaining how nonidentical local reconstructions can sustain a
+recognizable shared pattern. It does not make an attractor a bigOther, master
+signifier, programme, or truth criterion, and it does not establish one identical
+mental state or deterministic convergence across a population.
+
+Three neighbouring literatures clarify different pieces of this distributed
+result. [Edwin Hutchins's distributed
+cognition](https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/)
+locates cognitive work across persons, artifacts, representations, and
+information flows. [Wegner and colleagues' transactive-memory
+account](https://guilfordjournals.com/doi/10.1521/soco.1995.13.3.319) distinguishes
+shared knowledge from a group directory of who is likely to know what. [Michael
+Chwe's common-knowledge
+account](https://academic.oup.com/princeton-scholarship-online/book/13454)
+distinguishes parallel private knowledge from mutually recognized availability
+for coordination. They support distributed addressing and coordination without
+making the Culture Mechanics codebook, distributed bigOther, or multi-mind-self
+synonyms for any one source model.
+
 The mechanism predicts that operation-rich common formation should improve
 convergence of explicit reconstructions, transfer to novel cases, and recovery of
 reasons and limits relative to token-only instruction. It predicts divergence
@@ -3918,6 +4976,270 @@ where participants share a surface symbol but lack the relevant formation
 history, and repair where renewed examples, questions, practice, and correction
 restore overlap. Failure of these contrasts across well-specified messages,
 audiences, and delayed tests would weaken the proposed mechanism.
+
+<a id="domain-contact-and-symbolic-addressing"></a>
+
+#### Domain contact, conceptual formation, and symbolic addressing {#domain-contact-and-symbolic-addressing}
+
+**Domain contact** is engagement that requires a learner to perform, observe, or
+mentally replay relevant operations and exposes the resulting interpretation or
+action to examples, resistance, consequences, counterexamples, and correction.
+It may be direct, as in experiment, apprenticeship, construction, or responsible
+work, or mediated through a sufficiently concrete demonstration, case, simulation,
+worked derivation, or experimental report.
+Mere proximity, repeated exposure, verbal rehearsal, or membership does not by
+itself supply domain contact in this sense.
+
+This extends operation-bootstrapped codebook formation into a generic model of
+learning and human communication:
+
+```text
+initial symbols, rules, formulas, or apparently obvious maxims
+                         ↓
+operation-rich domain contact:
+experience + replay + action + resistance + consequence + correction
+                         ↓
+locally formed conceptual distinctions, practical discriminations, and know-how
+                         ↓
+language names, differentiates, reorganizes, and stabilizes public addresses
+                         ↓
+finite utterance serializes selected relations and operation cues
+                         ↓
+recipient reconstructs locally, applies, predicts, and is corrected
+                         ↺
+```
+
+Conceptual and practical discrimination can therefore precede a stable verbal
+label.
+A book may sometimes give a reader words for a partly formed conceptual space,
+making previously difficult-to-address relations selectable, serializable, and
+communicable.
+It can also genuinely extend that space by supplying new distinctions, examples,
+comparisons, derivations, and operations.
+The claim is consequently not that all concepts are prelinguistic or that
+language merely labels a finished inner structure.
+Language can name prior distinctions, participate in constructing new ones, and
+change the structure that an attempted description was meant to express.
+
+A new word does not automatically index every relevant earlier experience. Its
+address becomes operational through reactivation, explicit joining across
+examples, comparison in more than one context, repeated use, and correction.
+This is why vocabulary can initiate reindexing without completing it and why
+mere repetition of the newly supplied label is not evidence of understanding.
+
+Michael Tomasello's shared-intentionality account, encountered in the source
+conversation through Haidt's presentation, supplies a bounded predecessor for
+the social precondition: participants require enough joint attention to an
+object, activity, or goal before a conventional symbol can coordinate them around
+it. Language can enlarge, differentiate, and reorganize that overlap, but does
+not manufacture every shared orientation from nothing. Culture Mechanics adds
+the reconstruction-codebook, collar-classification, and distributed-field
+relations rather than attributing them to Tomasello or Haidt.
+
+Franz Josef Radermacher's [“Cognition in
+Systems”](https://www.tandfonline.com/doi/abs/10.1080/019697296126651) and later
+[FAW four-level
+architecture](https://www.fawn-ulm.de/wp-content/uploads/2014/06/Bewusstsein_0.pdf)
+supply a neighbouring systems model. The mature presentation distinguishes
+physical signal--environment fit, neural or subsymbolic sensorimotor and holistic
+processing, symbolic language and classification, and externally supported
+mathematical or scientific models. Its most relevant relation here is the
+interaction between subsymbolic pattern recognition and symbolic processing:
+symbols reduce description complexity and enable new composition while remaining
+materially realized through lower-level processes.
+
+The 1996 proposal also uses nested time scales, an intuitive coupling between
+subsymbolic and symbolic processing, and a tentative linear abstract control
+channel inside a massively parallel architecture. Radermacher later describes the
+human relation as *Bauch* and *Kopf*, and as conscious and unconscious processes
+competing in action production. These are functional processing distinctions, not
+two anatomically separate organs or a direct identification with the elephant and
+rider.
+
+Radermacher presented the 1996 architecture for future autonomous systems, not as
+an experimentally established “mathematical psychology.” It does not map directly
+onto elephant, rider, local bigOther, or collar-conditioned access. It supplies an
+independent comparison for distinguishing neural or subsymbolic competence from
+symbolic address, explicit relation, and complex model construction without
+making those processing modes separate anatomical minds.
+
+A common learning trajectory is:
+
+```text
+confusion
+→ surface habituation
+→ operation-rich practice and correction
+→ operational understanding
+```
+
+This is a revisable trajectory rather than a universal stage law.
+**Surface habituation is not understanding:** the learner may cease resisting an
+unfamiliar symbolic environment and mistake reduced discomfort or fluent
+repetition for successful reconstruction.
+Operational understanding is better tested through transfer to new cases,
+prediction, recovery of reasons and limits, competent use, recognition of
+counterexamples, and revision after error.
+
+Advanced mathematics supplies a clean illustration.
+At first the notation can be syntactically visible while remaining semantically
+almost empty; habituation may make the unfamiliar symbolic environment tolerable,
+but proofs, examples, counterexamples, derivations, and applications are what
+gradually make its symbols operationally decompressible and usable.
+
+This trajectory has a bounded family resemblance to Stuart and Hubert Dreyfus's
+[five-stage model of skill
+acquisition](https://public.websites.umich.edu/~mrother/KATA_Files/1980_Dreyfus_Report.pdf),
+in which instruction and concrete experience progressively displace detached
+rule use with increasingly situated discrimination and performance.
+The models are not identical: the Dreyfus stages do not supply the present
+surface-habituation distinction, communication mechanism, or codebook account.
+
+The project-management/PMP sequence supplies a bounded illustration.
+Before a person has borne responsibility for dependencies, deadlines,
+stakeholder conflict, uncertainty, handoffs, and failure, formal guidance can
+look like a collection of *Binsenweisheiten*.
+Responsible project work constructs a preliminary practical codebook; later
+instruction can name, differentiate, reorganize, and correct relations that the
+work has made available.
+The apparent sequence “first perform, then formally learn” is therefore not
+reversed: contact makes the compressed formal body more richly decompressible.
+
+The child's sandpit and the physicist's apparatus supply a pedagogical image of
+the same operation-first relation.
+Both permit intervention, variation, resistance, surprise, and the gradual
+formation of a feel for what the material will do; scientific apparatus makes
+that play controlled, measurable, mathematically articulable, and answerable to
+explicit prediction.
+The image does not make experiment childish or replace formal scientific method.
+
+The electron supplies a second illustration.
+“An electron is an electron is an electron” is a useful pedagogical refusal to
+mistake the compressed phrase *wave--particle duality* for the operational
+concept itself.
+The concept is formed through the family of experiments, mathematical operations,
+predictions, regularities, and failed classical expectations to which the phrase
+routes.
+Reading can provide mediated contact when the reader mentally re-enacts those
+operations rather than retaining only their verbal result.
+In the terms of [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#voegelin-untrue-existence-second-reality-and-question-space),
+*wave--particle duality* remains a living compressed symbol while it preserves a
+route back to the experiments and questions that generated it; rote repetition
+without that route is a dead formula, not automatically an idolized answer-symbol.
+
+> **Contact builds the concept; language names it; mathematics disciplines it;
+> prediction lets reality correct it.**
+
+<a id="living-knowledge"></a>
+
+##### Living knowledge as reconstructible capability {#living-knowledge}
+
+> **Living knowledge** is inherited or communicated symbolic state joined to
+> enough locally reconstructed experience, question, causal structure, practical
+> competence, and correction capacity that a recipient can recognize its object,
+> apply it to a new case, explain its limits, and revise it when reality answers
+> differently.
+
+Living knowledge is therefore more than retained information, fluent vocabulary,
+or correct repetition.
+Its compression remains connected to a practicable reconstruction route:
+
+```text
+symbol or formula
++ generating question, examples, operations, contrasts, and consequences
++ application, prediction, correction, and repair
+→ reconstructible and corrigible capability
+```
+
+This need not require every recipient to rediscover a result from zero.
+Division of cognitive labour, books, teachers, archives, and settled formulas are
+indispensable, but they keep knowledge living only when later recipients retain
+enough access to reactivate, use, test, and repair what those compressed states
+mean.
+[*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#question-space-governance)
+owns the further distinction among living symbols, dead formulas, and idolized
+answer-symbols and the institutional requirement of foundational-question
+custody.
+
+The controlled [graph-to-sequence serialization
+analogy](0050-culture-mechanics-analogies.semantic-inventory.md#graph-to-sequence-serialization-and-local-reconstruction)
+develops the communication picture without claiming that a mind is literally an
+object graph, language is XML, or a recipient is a deterministic parser.
+
+<a id="formative-praxis-and-codebook-coordination"></a>
+
+<a id="joint-codebook-formation-and-coordination"></a>
+
+#### Joint codebook formation and practice-formed coordination capacity {#joint-codebook-formation-and-coordination}
+
+> **Joint codebook formation** is recurrent, socially interpreted,
+> consequence-bearing joint activity through which participants act upon a
+> domain while co-forming the conceptual, causal, evaluative, role, and action
+> codebooks through which they later perceive, communicate, judge, and
+> coordinate.
+
+Joint codebook formation is a socially recursive subtype of domain contact.
+It does not merely apply an already complete theory: action changes the situation,
+the changed situation supplies experience and consequences, participants
+interpret those consequences together, and the resulting codebooks shape later
+action.
+Scientific collaboration, apprenticeship, project work, institution-building,
+local government, mutual assistance, religious practice, and political struggle
+can all instantiate parts of the mechanism without becoming equivalent in
+purpose or epistemic quality.
+
+```text
+recurrent consequential joint practice
+→ common situations, operations, resistance, consequences, and correction
+→ locally reconstructed conceptual, evaluative, role, and action codebooks
+→ sufficient relevant overlap and mutual prediction
+→ compressed half-sentences, gestures, stories, formulas, and dispatch symbols
+→ situated scripts, differentiated roles, interfaces, and handoffs
+→ practice-formed coordination capacity
+→ clockwork coordination when activated through fitted roles and interfaces
+→ emergent collective capacity and field back-action
+→ further practice calibrates, repairs, or closes the codebooks
+```
+
+The social result remains emergent rather than a sum of independently completed
+individual learning.
+Joint practice makes other participants' decompressions and likely actions
+observable; institutions, success, failure, honour, sanction, and apparent
+consensus feed those mappings back into later local reconstruction.
+The resulting codebooks need only overlap sufficiently for the task and are
+never one literally shared mental dictionary.
+High overlap and efficient coordination establish neither fusion nor an
+operative multi-mind-self.
+
+The resulting **practice-formed coordination capacity** is the ability to use
+that overlap for compressed communication, mutual prediction, situated judgment,
+differentiated roles, interfaces, handoffs, and repair.
+Joint codebook formation can consequently produce genuine practical and
+perceptual advantage over detached verbal familiarity without certifying the
+resulting interpretation as true:
+
+```text
+practice + independently legible consequences + open correction
+→ reality-coupled codebook formation and corrigible competence
+
+practice + doctrinally preclassified experience + protected interpretation
+→ programme-sealed codebook formation and possible self-confirmation
+```
+
+Kenneth Minogue's critical account of ideological praxis supplies an important
+source case: struggle is claimed to disclose historical movement while educating
+the struggler.
+[*Mythology Construction*](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype)
+owns that attribution and its circularity critique.
+The domain-contact, codebook, and coordination mechanism stated here is a Culture
+Mechanics generalization, not Minogue's vocabulary and not a concession that
+participation confers privileged truth.
+
+The narrower Culture Program construct that combines such formation with an
+intergenerational bundle, institutional reproduction, succession, and latent
+mobilization is [**intergenerational mobilizational
+praxis**](0060-culture-program-ecology.semantic-definition.md#intergenerational-mobilizational-praxis).
+The legacy `formative-praxis-and-codebook-coordination` anchor is retained only
+for compatibility with references written before this terminology migration.
 
 <a id="audience-modelled-reconstruction-and-decompression"></a>
 
@@ -3987,9 +5309,11 @@ The corresponding **decompression audit** asks:
 | Action and authorization consequence | Which conduct, sanction, trust, or grant of power followed? |
 | Alternative decompressions | Which materially plausible reconstructions were excluded, punished, or made difficult to formulate? |
 
-This model organizes omission, paltering, framing, presupposition, causal stories,
-master signifiers, and systemic lying without replacing their more specific
-definitions. The *lossy codec* and *decoder-targeted compression* expressions are
+This model organizes omission, paltering, framing, presupposition,
+[guided problem
+representation](0030-linguistic-tricks.semantic-inventory.md#lt-048-guided-problem-representation),
+causal stories, master signifiers, and systemic lying without replacing their
+more specific definitions. The *lossy codec* and *decoder-targeted compression* expressions are
 controlled analogies for this model, not claims that human interpretation is
 literal digital decoding.
 
@@ -4864,10 +6188,20 @@ It identifies why one person-directed burden can suppress formulation and
 association across similarly dependent observers even without a general speech
 prohibition.
 
-Two forms of obstruction should remain distinct. **Penalty** can attach to
-formulation, comparison, articulation, or association; **occupation** can consume
-the time, attention, trust, and material margin needed to complete the chain even
-where no act is prohibited. The latter relation is specified through [civic
+**Perception-stage correction closure** names obstruction before a candidate
+relation can travel from noticing through formulation, comparison, public
+articulation, and collective testing. At least three routes should remain
+distinct:
+
+| Route | Characteristic interruption |
+|---|---|
+| **Penalty** | Social, professional, legal, or material costs attach to formulation, comparison, articulation, or association. |
+| **Occupation** | Time, attention, trust, confidence, and civic surplus are consumed before the relation can be preserved and tested. |
+| **Internal classification** | The collar marks the relation as morally dangerous, and the rider cannot keep the observations joined under one inspectable name. |
+
+The collar-conditioned mechanism elaborates only the third route. Public silence
+alone cannot identify which route, or which combination of routes, produced it.
+The occupation relation is specified through [civic
 surplus](0060-culture-program-ecology.semantic-definition.md#anarcho-tyranny-advanced-willkur).
 In the strongest direct coupling, an evidenced description of recurrent
 protection failure itself activates a legal, professional, employment, or
@@ -5051,6 +6385,112 @@ The corresponding mythology-design requirement is developed as the
 [reflective audit gate](0040-mythology-construction.semantic-definition.md#the-reflective-audit-gate)
 within the lifted sublimation-generator pattern.
 
+<a id="humanist-liberal-counter-formation"></a>
+
+#### Humanist-liberal counter-formation {#humanist-liberal-counter-formation}
+
+The positive response to collar-conditioned semantic closure is neither a
+culture-free mind nor forced installation of a rival closed programme. Human
+beings necessarily develop through language, social trust, practice, authority,
+and inherited codebooks. The normative question is whether formation increases
+the main processor's capacity to inspect those inheritances and remain answerable
+to reality, or makes access increasingly dependent upon an authorized
+interpreter.
+
+**Humanist-liberal counter-formation** is the proposed bundle of developmental,
+interpersonal, educational, and constitutional practices that:
+
+> **expands a person's capacity to retrieve and compare plural models, remain
+> semantically integrated under affective pressure, encounter difficult reality
+> without loss of standing, and act with increasing competence and independence
+> while retaining the ability to correct the formative authority.**
+
+It is *counter-formation* because it counters correction closure, semantic
+capping, induced dependency, and programme-sealed interpretation—not because it
+opposes cultural formation as such. Its Humanist commitment preserves the equal
+standing of every concrete person; its liberal commitment protects cognitive
+liberty, refusal, plural inquiry, bounded authority, correction, and exit. This
+is a normative developmental proposal, not an established universal pedagogy,
+clinical protocol, or de-radicalization method.
+
+The proposal joins components defined elsewhere rather than replacing them:
+
+```text
+secure human standing independent of assent
++ plural concepts, sources, and trusted relationships
++ operation-rich contact with corrigible reality
++ practice in disagreement, repair, and recovery
++ protected private formulation and public Noticing
++ durable records and foundational-question custody
++ appeal, refusal, exit, and institutional succession
+→ cognitive liberty and epistemic adulthood
+→ greater capacity to inspect, revise, and responsibly inhabit a codebook
+```
+
+[Epistemic reindexing](#epistemic-reindexing) restores plural,
+reality-answerable access paths without predetermining the resulting judgment.
+[Guided unbraiding](#guided-unbraiding-and-possible-deradicalization) makes
+selected automatic relations inspectable and loosens their false finality. The
+[Noticing chain](#noticing-under-anarcho-tyranny) carries a private anomaly
+toward public comparison and collective correction. [Foundational-question
+custody](0030-epistemic-constitution.semantic-definition.md#foundational-question-custody)
+preserves enough questions, examples, operations, rival answers, failures, and
+correction records for later generations to reconstruct the decoder rather than
+inherit only compressed conclusions.
+
+Lonergan's **self-appropriation** is a neighbouring positive term for attending
+to and taking reflective possession of one's own operations of experiencing,
+questioning, understanding, judging, and deciding. Humanist-liberal
+counter-formation extends beyond that person-side achievement into social
+standing, plural access, institutional correction, refusal, exit, and succession;
+it should not be attributed to Lonergan or reduced to introspection.
+
+The pedagogical relation is governed by a simple asymmetry constraint: support,
+respect, and belonging must not depend upon reaching the teacher's preferred
+political or metaphysical answer. A teacher can supply vocabulary, skills,
+context, manageable difficulty, practical support, and confidence while
+remaining corrigible:
+
+```text
+do not falsify difficult reality
+→ do not exploit vulnerability to install an answer
+→ provide knowledge, skills, care, confidence, and practical support
+→ preserve rival models and the corrigibility of the teacher
+→ let manageable reality contact build competence
+→ learner can face more reality while depending less on the teacher
+```
+
+This requires a [secure base rather than an avoidance
+enclosure](#guided-unbraiding-and-possible-deradicalization): dependable support
+should enlarge the radius of tolerable inquiry, disagreement, frustration,
+recovery, and independent action over time. It does not authorize adults to
+manufacture suffering or overwhelm a learner. Age-appropriate reality contact
+joins difficulty to context, regulation, trustworthy support, practical skill,
+recovery, and progressively wider independence.
+
+The constitutional side protects the routes by which a private discrepancy can
+become a corrigible public claim: speech, association, archives, rival
+instruction, professional independence, appeal, refusal, exit, and succession.
+The ecology-level [recognition-threshold
+model](0060-culture-program-ecology.semantic-definition.md#recognition-threshold-management-and-public-sleep)
+adds the Stockdale discipline required when lawful and arbitrary operations
+coexist: neither reassuring evidence nor threatening evidence may erase the
+other type. Hope should rest in human agency, solidarity, remaining lawful
+capacities, repair, and institution-building rather than in falsifying the
+configuration.
+
+The strongest success condition is therefore independent of agreement:
+
+> **The person's radius of reality contact, conceptual access, independent
+> judgment, and competent action expands while the person remains free to
+> conclude that the formative authority was wrong.**
+
+This subsection deliberately uses **practice** and **counter-formation**, not
+*praxis*. The narrower proposed ecology-level use of *praxis* for a deliberately
+bundled intergenerational formation-and-mobilization architecture is defined in
+[*Culture Program
+Ecology*](0060-culture-program-ecology.semantic-definition.md#intergenerational-mobilizational-praxis).
+
 ### 21. Truth, love of neighbour, and intervention
 
 The framework treats cognitive liberty as important but not absolute. Non-interference can become abandonment when illness, coercion, addiction, delusion, or another destructive process is eliminating the capacities required for future agency.
@@ -5185,6 +6625,43 @@ grammar is:
 - practice without ideological drilling;
 - correction without humiliation; and
 - support without surrogate ownership.
+
+The developmental form of that support is a **secure base**, not an
+**avoidance enclosure**. A secure base preserves belonging while enabling
+manageable disagreement, exploration, recovery, and renewed engagement. An
+avoidance enclosure treats alarm as proof of danger and repeatedly removes the
+challenge before mastery or corrective experience occurs:
+
+```text
+secure support + manageable reality contact
+→ engagement, repair, competence, and wider independence
+
+discomfort classified as danger + withdrawal brings relief
+→ avoidance reinforced + no corrective experience
+→ narrower tolerable inquiry and greater dependency
+```
+
+A [review of threat-related safety
+behaviours](https://pubmed.ncbi.nlm.nih.gov/27475477/) supports the narrower claim
+that avoidance and safety behaviour can maintain anxiety by preventing
+corrective learning. Observational research on [manageable adversity and later
+resilience](https://pubmed.ncbi.nlm.nih.gov/20939649/) supplies a neighbouring,
+non-deterministic comparison. Neither finding establishes that every protected
+space lowers resilience or that distress should be deliberately manufactured;
+they support testing longitudinal expansion or contraction of tolerable inquiry
+rather than inferring development from the label *safe*.
+
+The discriminator is longitudinal: does the person's radius of tolerable
+inquiry, disagreement, frustration, and independent action expand or contract?
+This does not authorize deliberate overwhelming or manufactured suffering.
+Children and other dependent learners require age-appropriate challenge joined
+to context, regulation, trustworthy support, practical skill, recovery, and
+progressively wider independence. Support becomes answer installation when care,
+belonging, or relief is made conditional upon reaching the authority's preferred
+conclusion. Lukianoff and Haidt's [critique of
+safetyism](https://www.thecoddling.com/the-book) is a neighbouring developmental
+argument; the secure-base--avoidance-enclosure distinction and its semantic-
+access test are Culture Mechanics formulations rather than their terminology.
 
 > **Do not try to make the ethical act psychologically effortless. Make its
 > first step small, its purpose meaningful, its effort shared, its exemplars
@@ -5992,6 +7469,9 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | ***Herrschaftsideologie*** | Privileged-vision mythology that converts claimed epistemic asymmetry into governing jurisdiction. | Names a possible pathological authorization of the elevated speaker position; hierarchy or expertise alone does not establish it. The primary semantic home is *Mythology Construction*. |
 | **Repeater gain** | Network analogy for greater reach, credibility, frequency, connectivity, or institutional amplification. | Names the amplification dimension of the trusted-opinion-leader function, crowds, or infrastructure; it is not a separate social position. |
 | **Trusted-opinion-leader function / trusted opinion leader** | Distributed receiving-field function to which members refer judgment, interpretation, or validation; a trusted opinion leader is its human person-in-role occupant. | Canonical function combining, in variable amounts, repeater gain, gatekeeping, authority, translation, modelling, brokerage, chief-facing mediation, representation, and feedback. |
+| **Directing-organ capture and pseudomorphic chief** | A field-authorized directing function becomes answerable to an unmandated competing principal or governor; where retained chief-form, authority, correction control, and succession also satisfy the full PGS gate, the result is a pseudomorphic chief. | *Culture Program Ecology* owns the capture constructs; this document owns the distinction among feedback, directing, and implementation positions within the complete mechanical-solidarity morphology. |
+| **Pre-content source-routing position** | Relational reception state in which a source, role, institution, topic, or source--topic combination is provisionally treated as trusted, questionable, uninteresting, or unwanted before adequate truth evaluation. | Connects socially operative trust and taboo to attention, checking, integration, neglect, and avoidance while keeping the received Bonelli fourfold, its unresolved source verification, and the project-developed position-transition programme distinct. |
+| **Distributed narrative-reproduction loop** | Reproduction of expected narrative or affect, classification of another person's response, enforcement or reward, and witness updating that changes the next interaction. | Separates episodic reproducer, classifier, and enforcer functions without making them fixed person-types, proving falsehood, or collapsing proposition judgment into human standing. |
 | **Professional idea-mediator function / professional idea mediator** | Source-side selection, translation, packaging, and circulation of ideas for audiences outside their originating or specialist domain; a professional idea mediator is its present human role occupant. | Can feed, overlap with, or remain separate from the receiving-side trusted-opinion-leader function; neither mediation nor prominence establishes trusted reception, competence, truth, or capture. |
 | **Prominence-derived apparent competence** | Operative confidence on a question supplied by visibility, fluency, prestige, repeated access, moral seriousness, or demonstrated competence elsewhere without a correspondingly demonstrated competence relation for the present claim. | Identifies a possible authority-formation mechanism and domain mismatch; it is not a judgment that the speaker lacks all competence or that the claim is false. |
 | **Trusted-carrier correction lock** | Gain-weighted morphology in which high-trust receiving-field positions remain sufficiently aligned to withhold distributed credibility, institutional reception, or operative force from a public correction despite growing ordinary dissent. | Possible implementation of correction nullification; neither carrier agreement nor the lock proves falsehood, coordination, capture, systemic lying, or Shadow-Sovereign rule. |
@@ -6005,8 +7485,17 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Doctrinal-progeny test** | Evaluation of a doctrine through the distribution and causal relations of its actual descendants. | Extends the agency audit from what recipients are told to what the doctrine, receiver architecture, interpreters, and institutions recurrently produce. The primary semantic home is *Mythology Construction*. |
 | **Classification-symmetry rule** | Exchange program names, declared ideals, enemies, and conventional ideological families, then apply the same morphology, causality, offspring, consequence, and correction tests. | Prevents both doctrinal self-exemption and hostile enemy-label inflation. The strong Durkheimian accountability rule in *Mythology Construction* supplies its consequence-facing form. |
 | **Persuasion** | Process of changing belief, evaluation, identity, or action. | Can restore or suppress agency depending on epistemic direction, reciprocity, and correction. |
-| **State transmission / operation transmission** | Communication of a finished conclusion or result versus cues through which a recipient locally reconstructs relevant generating operations. | Distinguishes compressed result transfer from operation-rich formation without claiming that a mental state or operation is literally copied. |
-| **Operation-bootstrapped codebook formation** | Recurrent operation transmission constructs locally executable and sufficiently compatible reconstruction resources, enabling later compressed communication. | Supplies the dynamic precondition for audience-modelled reconstruction and compressed master-signifier activation; relevant overlap, fidelity, reality contact, and corrigibility matter more than raw vocabulary size. |
+| **State transmission / operation transmission** | Communication of a finished conclusion or result versus cues through which a recipient locally reconstructs relevant generating operations. | Their ordered complement is the operation-first decoder-bootstrap principle: operation-rich formation constructs and repairs the decoder that later compressed state communication exploits, without literally copying a mental state or operation. |
+| **Operation-bootstrapped codebook formation** | Recurrent operation transmission constructs locally executable and sufficiently compatible reconstruction resources, enabling later compressed communication. | Supplies the dynamic precondition for audience-modelled reconstruction and compressed master-signifier activation; reconstruction reach, relevant overlap, fidelity, reality contact, and corrigibility matter more than raw vocabulary size. |
+| **Collar-conditioned semantic access** | Proposed classification-conditioned influence upon rider-side conceptual selection, retrieval, joining, standing-query activation, binding, or articulation. | Extends the local blindness bridge without making the collar a reasoning processor, memory store, or direct rider interface; includes asymmetric addressability, suppression/hyperactivation symmetry, possible acquisition closure, and separately evidenced crisis--relief reindexing. |
+| **Perception-stage correction closure** | Obstruction before a candidate relation can travel from noticing through formulation, comparison, public articulation, and collective testing. | Keeps penalty, occupation, and internal-classification routes distinct; public silence alone does not identify which route produced it. |
+| **Epistemic reindexing / collective reindexing** | Restoration of plural, reality-answerable access paths in a person; public stabilization of a corrigible index through which independently observed anomalies can become mutually available. | Proposed corrective operations within guided unbraiding and public Noticing; neither predetermines the correct model nor turns repeated source-dependent agreement into independent confirmation. |
+| **Humanist-liberal counter-formation** | Developmental, interpersonal, educational, and constitutional practices that enlarge conceptual access, reality contact, competence, independent judgment, and correction of formative authority while preserving human standing. | Normative synthesis of cognitive liberty, reindexing, secure-base learning, Noticing, foundational-question custody, refusal, appeal, exit, and succession—not a culture-free position or validated universal pedagogy. |
+| **Recognition-threshold management / public sleep** | Ecology-level configuration in which recurrent observations remain below a stable private or public pattern judgment because indexing, joining, correction depth, or common knowledge remains insufficient or costly. | Separately owned by *Culture Program Ecology*; it can interact with person-level semantic gating, but neither mechanism is necessary or sufficient for the other and intent requires an additional gate. |
+| **Domain contact** | Direct or mediated engagement that requires performance, observation, or mental replay of relevant operations and exposes interpretation or action to examples, resistance, consequences, counterexamples, and correction. | Explains how conceptual and practical discriminations become available for later symbolic addressing; proximity, exposure, membership, and fluent repetition are insufficient. |
+| **Living knowledge** | Symbolic state joined to enough locally reconstructed experience, question, causal structure, practical competence, and correction capacity for recognition, novel application, explanation of limits, and revision. | Distinguishes reconstructible and corrigible capability from remembered information, fluent vocabulary, correct repetition, dead formula, and interpreter dependence. |
+| **Joint codebook formation** | Recurrent, socially interpreted, consequence-bearing joint activity that acts upon a domain while co-forming participants' conceptual, causal, evaluative, role, and action codebooks. | Names the socially recursive subtype of domain contact without making every scientific, professional, civic, or educational instance into political praxis. |
+| **Practice-formed coordination capacity** | Capacity produced through sufficient relevant joint formation for compressed communication, mutual prediction, situated judgment, differentiated roles, interfaces, handoffs, and repair. | Connects joint codebook formation to possible clockwork coordination and field back-action without treating overlap, participation, or coordination as a truth or legitimacy guarantee. |
 | **Socratic manipulation** | Questions that simulate open inquiry while steering toward a preselected conclusion. | Shows why an autonomy-flavoured method is not automatically truth-directed. |
 | **Contaminated mindware** | Learned rules or beliefs that impair rationality and may disable their own evaluation. | Supplies content and anti-correction rules that authority and identity can protect. |
 | **Motivated reasoning** | Directional use of reasoning toward a preferred conclusion. | Often occurs downstream of identity, sentiment, or authority-gated classification. |
@@ -6114,6 +7603,46 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Individual source and receiver:** the local bigOther within homo duplex.
 - **Shared communication interface:** Lacan's big Other, functionally translated as the on-the-wire symbolic protocol.
 - **Starting condition:** unavoidable epistemic dependence.
+- **Developmental transmission mechanism:** the operation-first
+  decoder-bootstrap principle states that operation-rich formation constructs
+  the local decoder, compressed state transmission exploits it, and renewed
+  operation transmission repairs it; reconstruction reach describes how large a
+  learned complex one token can reliably activate for a recipient and context.
+- **Developmental and population neighbours:** natural pedagogy supplies
+  ostensive addressing and a bias toward generic cultural learning before full
+  language; cultural attraction explains how reconstructive, non-copying
+  transmission can still yield population-level stability without identical
+  local mental states. Neither source establishes a local bigOther, Culture
+  Program, truth, or deterministic convergence.
+- **Learning-state distinction:** surface habituation reduces unfamiliarity;
+  operational understanding supports transfer, prediction, use, and revision;
+  living knowledge joins compressed symbolic state to enough reconstructed
+  experience, question, causal structure, competence, and correction capacity to
+  keep that understanding applicable and repairable.
+- **Computing-analogy scope:** database, query, CRDT, adaptive-compression,
+  serialization, and decompression mappings concern rider-facing symbolic
+  reconstruction and communication rather than the elephant's internal
+  nonverbal learning and affective architecture.
+- **Bidirectional symbol-access failure:** an opaque inherited symbol can lose
+  its route back to engendering experience while a prohibited rival symbol loses
+  its route from present experience into admissible articulation; both can occur
+  together.
+- **Proposed person-side access mechanism:** collar-conditioned semantic access
+  can inhibit or redirect retrieval, joining, standing-query activation,
+  segmentation, binding, and articulation without turning the collar into a
+  reasoning or memory processor. Query suppression risks false negatives, query
+  hyperactivation risks false positives, and epistemic acquisition closure names
+  the prospective case in which a passing event never becomes a typed and
+  preserved observation.
+- **Constructive access operation:** Noticing is prepared availability for
+  inquiry across selection, retrieval, holding, segmentation, and joining; it is
+  neither bare registration, a truth guarantee, nor a claim that every unnoticed
+  relation was repressed.
+- **Comparison with neighbouring accounts:** defence mechanisms, schema modes,
+  information avoidance, motivated reasoning, active ignorance, and need for
+  cognitive closure supply distinguishable person-side and social comparison
+  points. Their visible outcomes do not by themselves establish a censored
+  insight, scotosis, collar conditioning, Culture Program causation, or diagnosis.
 - **Latent-state observability problem:** the ordinary interpersonal “Newtonian”
   coordinate and the cultural-symbolic coordinate of *homo duplex* can be
   substantially orthogonal, so calm conduct may underdetermine the classifications
@@ -6145,6 +7674,15 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   de-radicalization is its aspirational outcome only where radicalizing capture
   is independently established. MCIP is one candidate method, and success means
   durable reflective ownership rather than agreement with the guide.
+- **Epistemic reindexing:** one proposed sub-operation of guided unbraiding
+  restores plural, reality-answerable retrieval, naming, comparison, and transfer
+  paths without making adoption of the guide's answer the success criterion.
+- **Humanist-liberal counter-formation:** the normative bundle joins secure human
+  standing, plural access paths, operation-rich reality contact, practice in
+  disagreement and repair, public Noticing, foundational-question custody,
+  refusal, appeal, exit, and succession. Its success criterion is expanded
+  reality contact, competence, independent judgment, and corrigibility of the
+  formative authority—not agreement with that authority.
 - **Social environment:** a lifted mechanical-solidarity field can constitute and
   correct a common order across organic differentiation while first-order outputs
   remain diverse.
@@ -6225,6 +7763,30 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   formation uses shared experience, example, questioning, contrast, practice, and
   correction to build enough relevant local overlap for later compressed state
   transmission; inherited tokens do not carry a finished decoder.
+- **Durkheimian formation bridge:** Durkheim's social pole includes collectively
+  formed language, concepts, rational activity, and morality; Culture Mechanics
+  decomposes that composite across public symbolic and codebook resources,
+  rider/main-CPU reconstruction, local-bigOther classification, and field
+  renewal.
+- **Proposed semantic-access channel:** a collar classification can condition
+  whether rider-side conceptual selection, retrieval, joining, standing-query
+  activation, binding, and articulation continue without itself performing those
+  operations.
+- **Access topology:** read, query, segmentation, binding, join, alias,
+  articulation, and public-address gates distinguish several possible failure
+  locations; query suppression, indexed prohibition, and index modification
+  distinguish increasing persistence without implying literal deletion.
+- **Split accessibility:** affective, bodily, implicit, or recognitional response
+  can remain available while explicit semantic integration fails; trauma-related
+  theories supply an architectural neighbour, not the collar mechanism or a
+  diagnosis.
+- **Lonerganian predecessor:** flight from insight, scotosis, and scotoma supply
+  a process--result vocabulary; semantic, retrospective, prospective, and
+  culturally indexed scotomata are project extensions.
+- **Person-to-ecology boundary:** semantic-access gating can prevent private
+  recognition, while recognition-threshold management also includes intact
+  private recognition followed by failed expression, aggregation, uptake, or
+  correction.
 - **Communication audits:** decompression analysis compares surface content,
   omissions, assumed recipient, predictable and actual reconstruction, alternative
   decompressions, and resulting action or authorization.
@@ -6353,6 +7915,26 @@ Operation-bootstrapped compression:
 > overlap → compressed tokens evoke larger models; renewed operation transmission
 > maintains transfer, correction, and generational continuity**
 
+Collar-conditioned semantic access:
+
+> **socially formed concept, question, source, comparison, or use approaches →
+> collar classifies it as permitted, honourable, costly, shameful, dangerous, or
+> taboo → rider-side retrieval, joining, standing-query activation, binding, or
+> articulation continues, is redirected, or stops; ordinary cognition performs
+> the operation, and the classification conditions access**
+
+Domain-contact learning:
+
+> **operation-rich contact → conceptual and practical discrimination → symbolic
+> addressing and selective serialization → local reconstruction → application,
+> prediction, consequence, and correction**
+
+Joint codebook formation and practice-formed coordination capacity:
+
+> **recurrent consequential joint practice → overlapping locally reconstructed
+> codebooks → compressed signals + mutual prediction + situated role competence →
+> clockwork coordination → emergent collective capacity and field back-action**
+
 Political language as authorization bid:
 
 > **relevant structure + represented threat or promise + trusted
@@ -6451,6 +8033,14 @@ The vocabulary above does not come from one theory. The following map distinguis
 ### Established terms used substantially in their source sense
 
 - **Mechanical and organic solidarity — Émile Durkheim.** [*De la division du travail social* (1893)](https://classiques.uqam.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html) is the defining source. Durkheim's distinction is retained when reporting his theory; *lifted mechanical solidarity* and the decomposition of his organic-solidarity composite into organic differentiation plus lifted common binding force are extensions made by this entry.
+- ***Homo duplex* and the individual/social duality — Émile Durkheim.** [“The
+  Dualism of Human Nature and Its Social
+  Conditions”](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3627098.html)
+  (1914; Chapter 10 in *Émile Durkheim on Morality and Society*, pp. 149--163)
+  contrasts organism-rooted sensation and appetite with socially derived
+  intellectual and moral life. Durkheim includes collective language, concepts,
+  and rational activity in the social pole. The main-CPU/local-bigOther
+  decomposition and semantic-access mechanism are project extensions.
 - **Collective effervescence — Émile Durkheim.** [*Les formes élémentaires de la
   vie religieuse* (1912)](https://classiques.uqam.ca/classiques/Durkheim_emile/formes_vie_religieuse/formes_elementaires.html)
   describes collective excitation, reciprocal amplification, and rhythmic unity.
@@ -6462,6 +8052,18 @@ The vocabulary above does not come from one theory. The following map distinguis
 - **Choosing among experts — Alvin I. Goldman.** [“Experts: Which Ones Should You Trust?” (2001)](https://fas-philosophy.rutgers.edu/goldman/SeminarFall2007/October%2031st/Goldman%20-%20Experts%20Which%20Ones%20Should%20You%20Trust.pdf) ([DOI](https://doi.org/10.1111/j.1933-1592.2001.tb00093.x)) grounds several audit criteria used here: arguments, agreement among experts, interests and biases, and track records.
 - **Epistemic vigilance — Dan Sperber, Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, and Deirdre Wilson.** [“Epistemic Vigilance” (2010)](https://doi.org/10.1111/j.1468-0017.2010.01394.x) is the defining paper for vigilance toward communicated information.
 - **Epistemic trust, mistrust, and credulity — Chloe Campbell, Michal Tanzer, Rob Saunders, Thomas Booker, Elizabeth Allison, Elizabeth Li, Claire O'Dowda, Patrick Luyten, and Peter Fonagy.** [“Development and Validation of a Self-Report Measure of Epistemic Trust” (2021)](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0250264) defines and operationalizes this three-part construct. Its *credulity* scale is narrower than the broad nonclinical usage in this entry.
+- **Natural pedagogy — Gergely Csibra and György Gergely.** [“Natural
+  Pedagogy” (2009)](https://doi.org/10.1016/j.tics.2009.01.005) proposes that
+  ostensive communication prepares infants to receive referential, kind-relevant,
+  and generalizable cultural knowledge. The operation-metadata comparison and
+  relation to codebook formation are project translations.
+- **Cultural attraction — Nicolas Claidière and Dan Sperber.** [“The Role of
+  Attraction in Cultural
+  Evolution”](https://www.dan.sperber.fr/wp-content/uploads/2007/09/Attraction-in-cultural-evolution.pdf)
+  distinguishes constructive, non-copying acquisition and content-based
+  attraction from conformity- and prestige-biased transmission. Its use as a
+  neighbour for locally reconstructed codebooks and distributed bigOther
+  stability does not identify those project constructs with cultural attractors.
 - **Pastoral power — Michel Foucault.** [“The Subject and Power” (1982)](https://doi.org/10.1086/448181) is a concise primary source for the individualized, totalizing form of guidance from which *pastoral epistemic authority* is adapted.
 - **Master signifier, S1/S2, and the master's discourse — Jacques Lacan.** [*Le Séminaire, Livre XVII: L'envers de la psychanalyse* (1969–1970)](https://www.seuil.com/ouvrage/le-seminaire-livre-xvii-jacques-lacan/9782020130448) is the central source for the four discourses. [*Seminar XX: Encore*](https://www.lacaninireland.com/web/wp-content/uploads/2010/06/THE-SEMINAR-OF-JACQUES-LACAN-XX.pdf) contains Lacan's characterization of the signifier as “stupid.”
 - **Empty speech and full speech — Jacques Lacan.** [“The Function and Field of
@@ -6472,6 +8074,70 @@ The vocabulary above does not come from one theory. The following map distinguis
   civic or administrative doctrine.
 - **Causal stories — Deborah A. Stone.** [“Causal Stories and the Formation of Policy Agendas,” *Political Science Quarterly* 104(2), 1989, pp. 281–300](https://www.uvm.edu/~dguber/POLS293/articles/stone.pdf) ([DOI](https://doi.org/10.2307/2151585)) is the defining paper.
 - **Motivated reasoning — Ziva Kunda.** [“The Case for Motivated Reasoning” (1990)](https://doi.org/10.1037/0033-2909.108.3.480) is the canonical review.
+- **Self-appropriation, flight from insight, scotosis, scotoma, and bias — Bernard Lonergan.**
+  [The Chapter 6 archive
+  material](https://bernardlonergan.com/archive/40500dte050/) supplies the
+  person-side process from affectively inhibited images and questions toward a
+  censored insight and resulting blind spot, including oscillation between
+  momentary access, affective repulsion, dismissal, lost follow-up questions,
+  and later return. [Giovanni Sala](https://www.lonergan.org/dialogue_partners/Sala/Method_in_Theology.htm)
+  supplies the concept--operation development, and [Gerard
+  Whelan](https://www.thinkingfaith.org/articles/20080923_1.htm) supplies the
+  wider intellectual-biographical setting. Retrospective, prospective, semantic,
+  and culturally indexed scotomata and their collar-and-field bridge are project
+  extensions rather than Lonergan's terms. Self-appropriation remains a
+  neighbouring positive account of reflective possession of one's own knowing
+  operations rather than a synonym for the project's Humanist-liberal counter-
+  formation.
+- **Psychic conversion and the dialectics of subject, community, and culture —
+  Robert M. Doran.** [“Two Ways of Being Conscious: The Notion of Psychic
+  Conversion”](https://epublications.marquette.edu/theo_fac/341/) develops the
+  constructive transformation of the censor and the relation among neural
+  undertow, symbols, feelings, values, insight, judgment, and decision. The
+  elephant--rider comparison and Culture Mechanics field bridge remain project
+  mappings.
+- **Selective and defensive exclusion — John Bowlby; symbolic carrying forward
+  — Eugene Gendlin.** Bowlby's [*Attachment and Loss*, volume
+  3](https://sycofx.wordpress.com/wp-content/uploads/2012/11/john-bowlby-loss-sadness-and-depression-attachment-and-loss-1982.pdf)
+  supplies backward- and forward-access neighbours, including rigid exclusion's
+  interference with later revision of internal working models, while Gendlin's
+  [theory of personality
+  change](https://focusing.org/gendlin/docs/gol_2145.html) supplies the healthy
+  semantic-latency control. Neither source establishes culturally indexed
+  scotosis or the collar mechanism.
+- **Defence, schema, and information-avoidance neighbours — Rose Howell and Vera
+  Békés; Christopher Taylor, Penny Bee, and Gillian Haddock; Jeremy Foust and
+  Jennifer Taber; Peter Ditto and colleagues.** The [defence--attachment
+  review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12910262/), [schema-therapy
+  review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5573974/),
+  [information-avoidance review](https://doi.org/10.1177/17456916231197668), and [partisan-bias
+  review](https://doi.org/10.1146/annurev-psych-030424-122723) supply distinct
+  protective, developmental, behavioural, and causal-underdetermination controls.
+  None supplies the local bigOther or validates the complete scotosis sequence.
+- **Active ignorance — José Medina.** [*The Epistemology of Resistance*, chapter
+  1](https://doi.org/10.1093/acprof:oso/9780199929023.003.0001) analyzes ignorance
+  sustained through interacting epistemic vices and structural conditions. Its
+  relation to socially reinforced resistance, source routing, and collective
+  reindexing is a bounded Culture Mechanics comparison rather than a transfer of
+  Medina's social-group classifications or culpability judgments.
+- **Four-level information-processing architecture — Franz Josef Radermacher.**
+  [“Cognition in
+  Systems”](https://www.tandfonline.com/doi/abs/10.1080/019697296126651)
+  (1996) and [*Bewusstsein, Ressourcenknappheit,
+  Sprache*](https://www.fawn-ulm.de/wp-content/uploads/2014/06/Bewusstsein_0.pdf)
+  (2007) distinguish signal--environment fit, neural or subsymbolic skill,
+  symbolic language and classification, and mathematically supported complex
+  models. The comparison supports a functional distinction between subsymbolic
+  competence and symbolic address; it is neither an experimentally established
+  psychology nor the Culture Mechanics elephant--rider--collar architecture.
+- **Trauma as a changing public category and numbing — Rebecca Lemov and Robert Lifton.**
+  Lemov's *The Instability of Truth* supplies the historical synthesis through
+  which a formerly unavailable or weak public category, competing aliases, later
+  category expansion, relational recognition and vulnerability, coercive-
+  persuasion topology, and Lifton's numbing enter this account. They serve as
+  bounded comparisons for public indexing, query overextension, split
+  accessibility, and possible crisis--relief stabilization rather than evidence
+  for collar-conditioned semantic access or a diagnosis.
 - **Need for cognitive closure — Donna M. Webster and Arie W. Kruglanski.** [“Individual Differences in Need for Cognitive Closure” (1994)](https://doi.org/10.1037/0022-3514.67.6.1049) defines and measures the construct.
 - **Dysrationalia and contaminated mindware — Keith E. Stanovich.** [“Dysrationalia: A New Specific Learning Disability” (1993)](https://doi.org/10.1177/002221949302600803) introduces *dysrationalia*; [“Contaminated Mindware” (2009)](https://doi.org/10.12987/9780300142532-013) develops the latter concept.
 
@@ -6498,6 +8164,7 @@ The vocabulary above does not come from one theory. The following map distinguis
 | **Privileged authority-addressed programming topology and programming state** | Freud on group psychology; Green and Brock on transportation; Horton and Wohl on parasocial interaction; Chwe on common knowledge; Bourdieu on authorized speech; Collins on interaction rituals | Synthesizes several mechanisms into a new, testable one-to-many realization of the broader functional morphology. No source establishes the complete compound state. |
 | **Bonhoefferian Dummheit** | Dietrich Bonhoeffer, [“Von der Dummheit” (1943; PDF of the complete section)](https://jochenteuffel.files.wordpress.com/2020/12/bonhoeffer-von-der-dummheit.pdf) ([HTML transcription](https://de.wikisource.org/wiki/Von_der_Dummheit)) | Names a family resemblance between socially induced loss of independence and the present capture model. It is not an IQ measure, diagnosis, or complete restatement of Bonhoeffer. |
 | **Audience-modelled reconstruction** | Dushan Wegner, *Relevante Strukturen* (2019), especially his account of linguistic *Komprimierung* and recipient-side *Dekomprimierung* | Retains the claim that finite messages rely on an anticipated recipient's stored knowledge, then gives it a typed factual, causal, moral, and authorization model, an adversarial subtype, and a decompression audit. *Lossy codec* and *decoder-targeted compression* are project analogies, not Wegner's technical terms. |
+| **Domain contact, living knowledge, joint codebook formation, and practice-formed coordination capacity** | The originating author's project-management, advanced-mathematics, experimental-play, and physics-learning observations; Stuart and Hubert Dreyfus's skill-acquisition model as a bounded neighbour; Kenneth Minogue's critical account of praxis in *Alien Powers*; the project's operation-bootstrapped codebook synthesis | Generalizes the observation that responsible practice and mentally replayed experiment can make compressed formal language decompressible, distinguishes reconstructible capability from retained formulas, then connects recurrent joint practice to codebook overlap and coordination. Dreyfus supplies movement from detached rule use toward experience-based situated performance, not the surface-habituation or codebook mechanism. Minogue supplies the ideological source case, not the generic communication model, the learning illustrations, the serialization analogy, or the claim that participation guarantees truth. |
 | **Political language as an authorization bid** | Dushan Wegner's [official *Talking Points* page](https://www.dushanwegner.com/buecher/talking-points/), which states that political language seeks trust and power over people's lives | Preserves Wegner's forceful maxim, then translates it into delegated jurisdiction and connects it to relevant structures, causal stories, opponent restrictions, and bounded political authority. The term *authorization bid*, the typed payload, and the audit are project-developed. |
 | **Cognitive-relief hypothesis** | Wegner's situated formulation “Denken tut weh” in *Relevante Strukturen*; neighbouring research on need for closure, cognitive effort, and authority | Turns a memorable witness formulation into a bounded, testable mediation hypothesis about relief, checking, and authority-gated acceptance. It is not a claim about intelligence, universal motivation, or prevalence, and it should not be attributed to Wegner in this operational form. |
 | **Normopathic adaptation** | [Erich Wulff, *Psychiatrie und Klassengesellschaft* (1972)](https://www.econbiz.de/Record/psychiatrie-und-klassengesellschaft-zur-begriffs-und-sozialkritik-der-psychiatrie-und-medizin-wulff-erich/10004758497); Joyce McDougall's psychoanalytic normopathy; [Hans-Joachim Maaz, *Das falsche Leben* (2017)](https://www.chbeck.de/media/2215/paperback1-17.pdf) | Uses the family of terms descriptively for adaptation to a pathological social normality without adopting any one author's clinical or political theory. The term has more than one intellectual genealogy, so a single uncontested origin should not be asserted. |
@@ -6553,6 +8220,13 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   the contrast between a **self-analysis loop** and **self-deception loop** as
   proposed intervention and transfer concepts rather than established clinical
   methods or outcomes;
+- **epistemic reindexing** and **collective reindexing** as proposed operations
+  for restoring plural access paths and making independently observed anomalies
+  mutually available without predetermining the resulting judgment;
+- **Humanist-liberal counter-formation** as the proposed normative bundle of
+  person-preserving, plural, reality-answerable developmental, pedagogical,
+  interpersonal, and constitutional practices, with independence from the
+  formative authority rather than agreement as its success condition;
 - **bounded laser synchronization** and **generalized and jurisdictionalized laser
   synchronization**, together with their typed relationship to fusion pressure;
 - **weak-field gravity and strong-field witnesses** as an observability analogy,
@@ -6624,6 +8298,38 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
 - **operation-bootstrapped codebook formation**, **reconstruction codebook** as
   distributed analytical shorthand, and the claim that recurrent operation-rich
   formation makes later compressed state transmission possible;
+- the **operation-first decoder-bootstrap principle** as the ordered complement
+  in which operation transmission constructs and repairs the decoder while state
+  transmission exploits it, and **reconstruction reach** as the audience-relative
+  size of the learned complex a token can reliably activate;
+- **collar-conditioned semantic access**, **semantic-access interface**, and the
+  retrospective, present, prospective, and public-address access distinctions as
+  proposed Culture Mechanics mechanisms rather than Durkheimian, Haidtian,
+  Lacanian, database, or neuroanatomical terms;
+- the read, query, segmentation, write or binding, join, alias, articulation, and
+  public-address **interface gates**; **query suppression**, **indexed
+  prohibition**, **index modification**, and **protected non-integration** as
+  proposed persistence and access distinctions rather than literal memory
+  operations;
+- **asymmetric addressability**, **query hyperactivation**, **epistemic
+  acquisition closure**, and **crisis--relief reindexing** as proposed access,
+  acquisition, and high-gain installation terms rather than established clinical
+  mechanisms or evidence of truth, trauma, abuse, or intentional design;
+- **perception-stage correction closure** as the pre-public obstruction family
+  containing analytically distinct penalty, occupation, and internal-
+  classification routes;
+- **semantic**, **retrospective**, **prospective**, and **culturally indexed
+  scotoma** as extensions of Lonergan's process--result vocabulary, together
+  with **affectively sighted but semantically blind** as a split-accessibility
+  description rather than a diagnosis;
+- **secure base** and **avoidance enclosure** as the project contrast between
+  support that enlarges reality contact and protection that reinforces shrinking
+  avoidance, without importing a complete clinical or attachment-theory model;
+- **domain contact**, **surface habituation is not understanding**, **living
+  knowledge**, **joint codebook formation**, and **practice-formed coordination
+  capacity** as the project-developed extension from operation-rich learning
+  through symbolic addressing and reconstructible capability into socially
+  calibrated codebooks and possible clockwork coordination;
 - **audience-modelled reconstruction**, **adversarial audience-modelled
   reconstruction**, and the **decompression audit** in their present operational
   forms;
@@ -6647,7 +8353,8 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   segmental social structure, politico-familial organization, collective
   personality, collective consciousness, the common conscience acting through a
   defined organ, the chief as organized incarnation, collective effervescence,
-  and the non-individualist starting point. [*De la division du travail
+  *homo duplex*, the socially formed intellectual-and-moral pole, and the
+  non-individualist starting point. [*De la division du travail
   social*](https://classiques.uqam.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html)
   does not contain the local-processor, dotted-lattice, distributed-emitter,
   organ--body-resonance, or elevation-shielding models. The passage about men
@@ -6660,7 +8367,12 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   religieuse*](https://classiques.uqam.ca/classiques/Durkheim_emile/formes_vie_religieuse/formes_elementaires.html)
   supplies electricity, reciprocal amplification, rhythmic unity, and “mystic
   mechanics” as close source neighbors, but not a laser, clockwork, or ferromagnet
-  theory.
+  theory. [“The Dualism of Human Nature and Its Social
+  Conditions”](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3627098.html)
+  supplies the individual/social duality and the claim that language, concepts,
+  rational activity, and morality belong to the socially derived pole; it does
+  not supply the project's processor decomposition, codebook mechanism, or
+  semantic-access channel.
 - **The project author** supplies the functional-form hypothesis as a morphology
   of the whole society, the distributed trusted-opinion-leader carriers shown as
   dots in the semiconductor analogy, centralized, synthetic, and distributed

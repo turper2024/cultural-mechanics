@@ -211,7 +211,7 @@ programme can bargain tactically while refusing to authorize a reciprocal
 procedure to defeat its compulsory claim; distinguish these two senses of
 negotiation. Accepting bounded jurisdiction can remove compulsory supremacy
 without changing the Pure-Ideology branch. Preserve the [Peace of Westphalia as
-a historical marker of negotiated coexistence](0060-culture-program-ecology.semantic-definition.md#westphalia-as-a-marker-of-negotiated-coexistence):
+a historical marker of negotiated coexistence](build/md/0060-culture-program-ecology.semantic-definition.md#westphalia-as-a-marker-of-negotiated-coexistence):
 the 1648 settlement ended the Thirty Years' War and contained unresolved
 confessional disagreement through political, legal, constitutional, and
 jurisdictional arrangements. Make the soft-secession relation explicit but

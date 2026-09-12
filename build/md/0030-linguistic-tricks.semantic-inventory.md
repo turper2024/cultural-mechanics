@@ -1,7 +1,7 @@
 # Linguistic Tricks: A Semantic Inventory
 
 **Status:** Working, source-backed inventory  
-**Scope:** Linguistic mechanisms discussed in the private source-development material; source filenames and links are withheld from this publication  
+**Scope:** Linguistic mechanisms developed in project conversations and checked against public source bridges
 **Purpose:** A component of the reality-anchored, truth-seeking epistemic constitution described in `0010-culture-mechanics.semantic-definition.md` and `0020-epistemic-agency.semantic-definition.md`
 
 Within [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md),
@@ -276,7 +276,7 @@ Sophisms should consequently not be added below as one more mechanism beside equ
 
 ## 2. Integrity dimensions
 
-The inventory normalizes the mechanisms against nine dimensions developed during the private source-review process.
+The inventory normalizes the mechanisms against nine project-developed integrity dimensions.
 
 | Code | Integrity dimension | Governing question |
 |---|---|---|
@@ -302,7 +302,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Assert as true a proposition the speaker believes to be false or inadequately supported.
 - **Integrity:** TI, SI.
 - **Status:** Established core category.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-002 — Omission and selective concealment
 
@@ -310,7 +309,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Present a technically compatible fragment while withholding information needed to form the materially correct picture.
 - **Integrity:** II, TI, SI.
 - **Status:** Established core category.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-003 — Paltering and false implicature
 
@@ -318,7 +316,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Use literally true statements to induce a conclusion the speaker regards as false, retaining the escape that the false conclusion was never explicitly stated.
 - **Integrity:** TI, II, SI.
 - **Diagnostic:** Ask what a reasonable listener was meant to infer, not only what the sentence literally entailed.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-004 — Bullshit and evidential indifference
 
@@ -326,7 +323,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Speak for impression, status, mobilization, or persuasion without treating the truth or falsity of the content as a governing constraint.
 - **Integrity:** TI, SI.
 - **Status:** Established category; distinct from a lie narrowly defined because knowledge of the truth need not guide the speaker.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-005 — Trade-off suppression
 
@@ -342,7 +338,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Produce claims at a volume and speed that exceeds the audience's capacity to test them, allowing important disagreements to drown in low-cost messages.
 - **Integrity:** II, RI, TI.
 - **Status:** Established propaganda family; also a bridge from individual speech acts to systemic lying.
-- **Project provenance:** Source details withheld from this publication.
 
 <a id="lt-047-wall-of-text-obfuscation"></a>
 
@@ -403,7 +398,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Aliases:** semantic ambiguity; mental reservation; strategic polysemy.
 - **Operation:** Exploit a word's different senses—or silently use a specialist/private sense—so the audience receives one meaning while the speaker later retreats to another.
 - **Integrity:** MI, CI, SI.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-008 — Persuasive redefinition
 
@@ -411,7 +405,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Preserve a word's favorable or condemnatory emotional force while changing the cases to which it applies. The inherited evaluation is transferred without having to justify it anew.
 - **Integrity:** MI, DI.
 - **Examples of form:** “True freedom is obedience”; expanding a grave term so that minor or disputed cases inherit its moral force.
-- **Project provenance:** Source details withheld from this publication.
 - **External source bridge:** In [*totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf)
   (2002), “Marsch durch die Definitionen,” pp. 127–128, Roland Baader
   describes the semantic hollowing of terms followed by their “occupation”
@@ -432,7 +425,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Aliases:** semantic cosmetics; inverted meaning; bureaucratic euphemism.
 - **Operation:** Rename an act so that its description obscures agency, cost, coercion, or moral character—or makes an adverse reality sound benign.
 - **Integrity:** MI, CI, SI.
-- **Project provenance:** Source details withheld from this publication.
 
 <a id="lt-042-newspeak-style-vocabulary-restriction"></a>
 
@@ -462,7 +454,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Encode a disputed proposition as already given rather than assert it openly, so accepting the grammatical frame silently concedes the point.
 - **Integrity:** TI, MI, DI.
 - **Diagnostic:** Extract every proposition that must already be true for the question or sentence to work.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-011 — Selective framing
 
@@ -470,7 +461,71 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Select and emphasize aspects of reality so as to privilege a problem definition, causal account, moral evaluation, or remedy while rendering competing descriptions less visible.
 - **Integrity:** II, RI; sometimes MI.
 - **Boundary:** Framing is unavoidable; the trick lies in concealing consequential selections, excluding rival frames, or presenting a contestable frame as reality itself.
-- **Project provenance:** Source details withheld from this publication.
+
+<a id="lt-048-guided-problem-representation"></a>
+
+#### LT-048 — Guided problem representation {#lt-048-guided-problem-representation}
+
+- **Aliases:** problem-model steering; calculation-frame substitution; induced
+  substitute-problem reasoning.
+- **Operation:** Arrange wording, sequence, quantities, comparison bases, causal
+  boundaries, or prompts so that the anticipated recipient constructs a
+  substitute problem and then applies a locally valid calculation or inference
+  to it, mistaking the self-produced result for an answer to the materially
+  relevant problem.
+- **Distinctive feature:** The decisive defect is installed upstream of the
+  recipient's reasoning.
+  The arithmetic or inference inside the substitute model may be correct; the
+  persuasive force comes partly from the recipient experiencing the conclusion
+  as independently derived rather than merely asserted.
+- **Characteristic sequence:**
+
+  ```text
+  materially relevant problem P
+  → wording and selection cue a narrower or distorted problem P'
+  → the recipient reconstructs P'
+  → a locally valid operation produces result R'
+  → R' is accepted as the answer to P
+  ```
+
+- **Integrity:** II, RI, CI; sometimes TI and MI.
+- **Diagnostic:** State the materially relevant question and its system boundary;
+  reconstruct the problem the wording most readily induces; identify which
+  quantities, relations, baselines, time horizons, or causal stages disappeared;
+  solve both representations; and ask whether the presentation disclosed that
+  its result answered only the narrower question.
+- **Examples of form:** A rate question foregrounds aggregate quantities so that
+  the reader scales time although production occurs in parallel; a system-impact
+  comparison foregrounds the efficiency of an end device so that the reader
+  treats a component-level calculation as an end-to-end result.
+- **Boundary and counterexamples:** Every finite problem statement selects a
+  model, and a simplified model can be legitimate when its assumptions and scope
+  are explicit and adequate to the question.
+  A recreational trick question that announces the puzzle and promptly reveals
+  the trap uses the form pedagogically rather than subordinating truth-supporting
+  communication to covert steering.
+  Ambiguous wording, recipient haste, mathematical error, or an honestly mistaken
+  model does not by itself establish an operative or deliberate linguistic trick.
+- **Relations:** LT-011 covers consequential aspect selection generally; LT-048
+  is the narrower operation in which the selected frame recruits the recipient's
+  own reasoning to answer a substitute problem.
+  LT-018 redirects an already disputed proposition or discussion, whereas LT-048
+  can install the substitute before the relevant question has been made explicit.
+  LT-002 may supply the omissions, LT-010 a smuggled premise, and LT-003 the false
+  implication, but none of them alone identifies the valid-operation-on-wrong-model
+  sequence.
+- **Recipient-model relation:** [*Epistemic Agency under Mechanical Solidarity*,
+  “Audience-modelled reconstruction and
+  decompression”](0020-epistemic-agency.semantic-definition.md#audience-modelled-reconstruction-and-decompression)
+  owns the general reconstruction mechanism.
+  Evidence that the induced representation was predictable, recurrently selected,
+  asymmetrically preserved, or retained after correction strengthens the move
+  from form to operative or deliberate trick.
+- **Status and open question:** Project-developed normalization from the
+  originating author's comparison between short calculation traps and a
+  component-versus-system environmental argument.
+  Its distinctness is conceptual; comparative testing of intended and actual
+  recipient reconstructions remains an empirical task.
 
 <a id="lt-043-pseudo-metric-predication"></a>
 
@@ -639,7 +694,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Aliases:** terminus relabeling; “true X” maneuver; procedural-value substitution.
 - **Operation:** Stretch a procedural or contestable value into an absolute, declare existing practices counterfeit, then reserve the value's name for the speaker's preferred outcome—for example, defining democracy as the policy that “the people truly want.”
 - **Integrity:** MI, DI, LI.
-- **Project provenance:** Source details withheld from this publication.
 
 <a id="lt-013"></a>
 
@@ -667,14 +721,12 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
   loop](0040-mythology-construction.semantic-definition.md#moralized-observation-to-mandate-loop)
   owns the complete role grammar; this entry owns only the local communicative
   camouflage and recruitment operation.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-014 — Dog-whistle double address
 
 - **Aliases:** coded appeal; dual-audience messaging.
 - **Operation:** Use an expression with an innocuous public reading and a second, group-coded reading, enabling mobilization of insiders alongside deniability to outsiders.
 - **Integrity:** MI, SI.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-015 — Diffamatory fighting term
 
@@ -682,7 +734,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Attach a negatively charged label to a person, group, or idea so moral rejection occurs before factual examination; justification is replaced by moral marking.
 - **Integrity:** RI, MI, DI.
 - **Status:** User-selected compound term.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-016 — Symbol displacement
 
@@ -690,7 +741,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Turn a neutral or minor object into the emotionally charged proxy for a diffuse conflict; shared rejection of the proxy synchronizes a group and substitutes symbolic hostility for examination of the underlying issue.
 - **Integrity:** RI, II; sometimes MI.
 - **Boundary:** This can emerge collectively without a designing speaker; it is therefore also a culture mechanism, not only a deliberate trick.
-- **Project provenance:** Source details withheld from this publication.
 
 <a id="lt-044-deconstructive-reversal"></a>
 
@@ -867,7 +917,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Aliases:** hairsplitting; trivial objection; pedantic derailment.
 - **Operation:** Focus scrutiny on a minor ambiguity, exception, or wording defect that does not materially affect the disputed claim, creating the appearance of refutation while avoiding its substance.
 - **Integrity:** RI, DI.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-018 — Redirection
 
@@ -875,7 +924,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Replace the proposition under examination with another subject, comparison, accusation, or question that is easier or more advantageous to discuss.
 - **Integrity:** RI, DI.
 - **Diagnostic:** Restate the original proposition and ask whether the response changes its evidential status.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-019 — Psychologizing Bulverism
 
@@ -883,7 +931,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Evade examination of a thesis by presupposing it false and explaining instead which motive, pathology, identity, or defect allegedly caused the speaker to believe it.
 - **Integrity:** RI, DI, TI.
 - **Related but distinct:** ad hominem, genetic fallacy, motive fallacy, presupposition smuggling.
-- **Project provenance:** Source details withheld from this publication.
 
 <a id="lt-046-civility-shield"></a>
 
@@ -946,7 +993,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Aliases:** straw man; misrepresentation; attributed-position drift.
 - **Operation:** Replace an opponent's actual position with a weaker, more extreme, or more morally objectionable one and refute the substitute.
 - **Integrity:** DI, TI, RI.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-021 — Caricature-demonic phantom-enemy distortion
 
@@ -954,21 +1000,18 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Construct a grossly exaggerated, morally demonized opponent from selected and invented attributes, then make this phantom a collective hate object. It is a socially elaborated straw man whose function includes affective mobilization and group identity.
 - **Integrity:** TI, II, RI, DI.
 - **Status:** User-developed compound term.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-022 — Burden reversal and immunization
 
 - **Aliases:** burden shifting; unfalsifiable retreat; proof-demand asymmetry.
 - **Operation:** Demand that critics disprove an unsupported claim, or continually alter what would count as counterevidence, insulating the favored position from the obligations imposed on alternatives.
 - **Integrity:** DI, TI.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-023 — Closure sabotage
 
 - **Aliases:** moving the goalposts; false declaration of victory; refusal to concede.
 - **Operation:** Change success criteria after evidence arrives, refuse the consequences of a defeated claim, or declare resolution without answering the decisive objection.
 - **Integrity:** DI, SI.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-024 — Covert dialogue-type switch
 
@@ -976,7 +1019,6 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Ostensibly participate in inquiry or critical discussion while covertly operating by the rules of another dialogue—personal quarrel, negotiation, propaganda, interrogation, or audience performance.
 - **Integrity:** LI, DI, SI.
 - **Example:** A request to examine evidence becomes an occasion to diagnose the questioner or signal loyalty to spectators.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-025 — Reversive blockade
 
@@ -1010,9 +1052,11 @@ The heuristic contains several increasingly specific phenomena:
 - **Accusation in a Mirror:** attributing one's particular act or intention to the prospective victim.
 - **Moral inversion:** more broadly reversing aggressor/defender, responsible party/victim, or good/evil roles.
 - **DARVO:** the reactive sequence of denial, attack, and victim–offender reversal.
-- **Project provenance:** Source details withheld from this publication.
 
-#### LT-027 — Accusation in a Mirror
+
+<a id="lt-027-accusation-in-a-mirror"></a>
+
+#### LT-027 — Accusation in a Mirror {#lt-027-accusation-in-a-mirror}
 
 - **Aliases:** AiM; mirror politics; mirror accusation; *Spiegelbeschuldigung*.
 - **Functional description:** preventive blame reversal; *präventive Schuldumkehr*.
@@ -1021,16 +1065,16 @@ The heuristic contains several increasingly specific phenomena:
 - **Functions:** Preemptive attribution, moral disinhibition, information fog, reaction delay, pretext formation, and plausible deniability.
 - **Specialized neighboring term:** *Human-rights inversion* is used for related inversions in international human-rights discourse.
 - **Distinction:** AiM is narrower than psychological projection and moral inversion. It specifically mirrors the actor's own conduct or intention and is commonly pre-emptive.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-028 — Positive moral appropriation
 
 - **Aliases:** moral transfer; co-option; glittering generality; strategic mimicry.
 - **Operation:** Appropriate the respected symbols, achievements, virtues, or vocabulary of another tradition or group without accepting the practices that earned their positive standing.
 - **Integrity:** XI, MI, SI.
-- **Project provenance:** Source details withheld from this publication.
 
-#### LT-029 — Strategic moral reattribution
+<a id="lt-029-strategic-moral-reattribution"></a>
+
+#### LT-029 — Strategic moral reattribution {#lt-029-strategic-moral-reattribution}
 
 - **Original term:** *moralische Attributionsverschiebung*.
 - **Operation:** Transfer one's own negative characteristics to the opponent while transferring the opponent's or a respected third party's positive characteristics to oneself. The combined operation performs a rhetorical “moral balance-sheet cleanup.”
@@ -1038,7 +1082,6 @@ The heuristic contains several increasingly specific phenomena:
 - **Positive subtype:** Positive moral appropriation transfers another party's virtues, achievements, symbols, or benevolent intentions to the in-group.
 - **Integrity:** TI, XI, SI.
 - **Status:** Synthetic family joining LT-027 and LT-028.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-030 — Comparison destruction and moral leveling
 
@@ -1047,14 +1090,12 @@ The heuristic contains several increasingly specific phenomena:
 - **Operation:** When favorable comparison is no longer credible, make distinctions between better and worse appear unknowable or irrelevant: “everyone lies,” “all sides are equally corrupt.”
 - **Integrity:** TI, II, RI.
 - **Effect:** Moral fatigue suppresses discriminating judgment without rehabilitating the discredited actor on the facts.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-031 — Protection blackmail
 
 - **Original term:** *Schutz-Erpressung*.
 - **Operation:** Admit or normalize one's own harms while claiming that only submission to the harmful actor prevents an even worse enemy: “we may be harsh, but we are all that protects you.”
 - **Integrity:** II, RI, SI.
-- **Project provenance:** Source details withheld from this publication.
 
 <a id="lt-032-reality-free-escalation-of-invective"></a>
 
@@ -1106,7 +1147,49 @@ The heuristic contains several increasingly specific phenomena:
 - **Naming caution:** The original label is metaphorical, not clinical, and risks stigmatizing a neurological condition. The descriptive heading above is preferred for the inventory.
 - **Status:** Originating pattern and sequence, joined to a project-developed
   observable-operation model; not an established clinical or causal syndrome.
-- **Project provenance:** Source details withheld from this publication.
+
+<a id="materialized-accusation-and-poison-and-accuse"></a>
+
+##### Compound-operation boundary — Materialized accusation and poison-and-accuse {#materialized-accusation-and-poison-and-accuse}
+
+The proposed **poison-and-accuse** mechanism adds an actor-produced adverse event
+to Accusation in a Mirror and projective vandalism:
+
+```text
+produce real harm H
+→ attribute H to rival R
+→ appear as witness, victim, or guardian
+→ mobilize the audience against R
+```
+
+The observable communicative operation is **false localization of real harm**.
+It differs from inventing an event that never happened because independent
+inspection can confirm H while leaving the actor attribution false.
+The reality of the effect can then be misused as apparent support for the
+unsupported causal claim about R.
+
+The full mechanism also includes sabotage, access, threat-detector capture,
+guardian-role appropriation, possible reward, and renewed operation, so its
+primary semantic home is [*Mythology Construction*, “Hidden-threat detection,
+explaining-away, and detector
+capture”](0040-mythology-construction.semantic-definition.md#hidden-threat-detection-and-detector-capture).
+This inventory records only the linguistic front end and its relation to LT-027,
+LT-029, LT-032, and LT-033.
+
+The evidential order must remain:
+
+```text
+real harm established
+≠ source established
+≠ false localization established
+≠ accuser caused the harm
+≠ ressentiment, reward, coordination, or death-drive established
+```
+
+Each stronger attribution requires its own evidence.
+An accurate warning about real harm, ordinary error about its source, or an
+independently supported causal accusation defeats the specific false-localization
+finding.
 
 #### LT-033 — Script-forming threat preactivation
 
@@ -1119,7 +1202,6 @@ The heuristic contains several increasingly specific phenomena:
   [**situated-cultural-script**](0010-culture-mechanics.semantic-definition.md#situated-cultural-scripts-executable-local-braids)
   construct, which joins a general cultural weave to distributed roles, routines,
   interfaces, improvisation, and practical support.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-038 — DARVO
 
@@ -1130,7 +1212,6 @@ The heuristic contains several increasingly specific phenomena:
 - **Distinction from AiM:** AiM is commonly pre-emptive and prepares aggression as defense. DARVO is commonly reactive and protects an actor from accountability after confrontation.
 - **Relation to moral inversion:** The final DARVO stage is a form of moral inversion or *Täter-Opfer-Umkehr*, but DARVO names the complete three-stage sequence.
 - **Status:** Established term.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-039 — Moralized character accusation
 
@@ -1278,14 +1359,12 @@ The heuristic contains several increasingly specific phenomena:
   beyond simple bad-fit allegation.
 - **Integrity:** II, RI, TI, LI.
 - **Status:** User-selected term.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-035 — Ventriloquism of constituencies
 
 - **Aliases:** self-appointed representation; constructed-interest speech; speaking for “the people.”
 - **Operation:** Construct a group's interests and speak authoritatively in its name without authorization, internal plurality, or a route by which members can contradict the attributed voice.
 - **Integrity:** XI, SI, DI.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-036 — Motte-and-bailey amplitude shift
 
@@ -1293,14 +1372,12 @@ The heuristic contains several increasingly specific phenomena:
 - **Operation:** Use a sweeping structural claim when mobilizing support, then retreat under criticism to a narrow technical claim; after scrutiny passes, return to the expansive implication.
 - **Integrity:** TI, MI, DI.
 - **Diagnostic:** Require one stable statement of the claim, its scope, and its proposed consequences across audiences.
-- **Project provenance:** Source details withheld from this publication.
 
 #### LT-037 — Context and source manipulation
 
 - **Aliases:** false context; imposter content; manipulated content; information laundering.
 - **Operation:** Preserve or fabricate content while falsifying who produced it, where it appeared, when it applied, or what evidential standing it has. Apparent provenance substitutes for argument.
 - **Integrity:** XI, TI.
-- **Project provenance:** Source details withheld from this publication.
 
 ## 4. Important boundaries
 
@@ -1310,7 +1387,7 @@ A person can sincerely state a false belief, and can insincerely repeat a propos
 
 ### Semantic disagreement is not necessarily manipulation
 
-Some disputes are genuinely verbal: participants attach different meanings to the same word. Clarifying definitions can dissolve confusion without establishing deceit. A reviewed private source supplies the relevant boundary case: shared definition repair is the remedy, whereas covertly changing a definition while retaining its emotional force is LT-008.
+Some disputes are genuinely verbal: participants attach different meanings to the same word. Clarifying definitions can dissolve confusion without establishing deceit. Shared definition repair is then the remedy, whereas covertly changing a definition while retaining its emotional force is LT-008.
 
 At society scale, persistent divergence can contribute to **intergroup semantic
 decoupling** and eventually **cultural interoperability breakdown
@@ -1510,10 +1587,15 @@ The inventory's function is thus constitutional and formative: it helps individu
 
 ## 6. Provenance and limitations
 
+Private project-development conversations underlie many entries but are not
+part of this publication. Where no public source is cited, an LT label and its
+definition are project formulations, not claims that an external work uses the
+same term or independently verifies the mechanism.
+
 This version was produced through structured review of private project source material, vocabulary expansion, contextual reading, synonym normalization, and boundary auditing. Source filenames, links, conversation identifiers, and internal prompt logs are intentionally withheld from this publication.
 
 LT-039, LT-040, and LT-041 are explicit exceptions to that private discovery route. LT-039 was added from Michael Andrick's book material and linked directly to the underlying publication. LT-040 was added from Dushan Wegner's *Relevante Strukturen* (2019, ISBN 978-3-7394-0563-6), whose *Wie–Was* distinction is retained while the operational test and boundary are project-developed. LT-041 was developed in this project from the doctrinal-progeny analysis. Its originating contribution supplied the CPU-facing and bigOther-facing contrast; the inventory supplies the normalized operation, responsibility gradient, and evidential boundary.
 
 This is a high-recall working inventory, not a claim of semantic exhaustiveness. The reviewed source collection is large, the same mechanism may have been discussed without any of the recovered names, and several private sources contain long embedded source texts. Future revisions should add newly found mechanisms only after checking whether they are genuinely distinct operations or aliases, combinations, effects, and institutional deployments of types already recorded here.
 
-The labels *Reversive Blockade* and *Zufallsmehrheiten* were developed during the private source-review process but were not found verbatim in the reviewed materials during this pass. They are deliberately retained with provisional provenance rather than silently attributed to a source document.
+The labels *Reversive Blockade* and *Zufallsmehrheiten* were supplied by the project author but were not found verbatim in the reviewed source corpus during this pass. They are deliberately retained with provisional provenance rather than silently attributed to a published source.
