@@ -88,6 +88,9 @@ The inventory uses three inclusion levels:
 | One PCI slot | Computing | Single-slot exclusivity with package compositionality | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Makes full occupancy and replacement under incompatibility vivid | Not a claim that the lens is simple, pure, or materially card-shaped |
 | Shared symbolic protocol | Network | Lacan's big Other as public symbolic coordination | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Separates the public protocol from each local implementation | Not a complete definition of Lacan's big Other or a literal network standard |
 | Wireless collar, Wi-Fi, and repeater gain | Network | Social coupling, unequal gain, and aggregate amplification | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes the amplification dimension of trusted opinion leadership from synchronized crowd or infrastructural gain | Radio range is not social authority, truth, or influence in one scalar; *repeater* is an analogy, not a separate person-type |
+| Epistemic cloud and all-seeing eye | Atmospheric and visual | Distributed epistemic formation versus agentified second-person judgment | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#collective-epistemic-formation), [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#me-we-world-correction-relation), and this inventory | Separates the cloud-like milieu of concepts, methods, records, and tools from bigOther-as-Thou as an experienced gaze of approval or condemnation | Neither cloud nor eye is a collective brain, third processor, literal watcher, proof of surveillance, or sufficient evidence of a multi-mind-self, un-reason, or un-reality |
+| Propagator, quotient space, attractor landscape, and hysteresis | Mathematics, physics, and dynamical systems | Scale-declared cultural state transition, question-relative equivalence, reproducible regimes, transition proximity, path dependence, and asymmetric reversal | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md#culture-propagator-and-dynamic-evolution) and this inventory | Forces explicit state, memory, input, disturbance, observation, quotient, transition, and reversal declarations while distinguishing ordinary persistence from remanence, lock-in, and hysteresis | No universal social differential equation, wavefunction, conserved cultural energy, fixed potential landscape, measured basin, deterministic trajectory, truth from stability, or intent from transition |
+| Cultural mitosis and jurisdictional cytokinesis | Biological cell division | Cultural-epistemic fission, reciprocal divergence, and the possible separation of binding jurisdiction after one political-cultural *we* divides | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#cultural-epistemic-fission), [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#democratic-demos-jurisdiction-consequence-congruence), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#soft-secession-and-reversed-legal-priority), and this inventory | Distinguishes division of cloud--eye ecologies from the still-separate question whether one legal-political container also differentiates its compulsory jurisdictions | Cultural fission is uneven, overlapping, coupled, and reversible rather than literal cell division; neither cleavage nor fission proves Babelization, homogeneous daughter cultures, necessary secession, or biological inevitability |
 | Assembly language, SDK, and operating system | Computing | Cultural formation, reusable operations, and society-wide epistemic meta-order | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) and [*Epistemic Constitution of Lifted Mechanical Solidarity*](0030-epistemic-constitution.semantic-definition.md) | Distinguishes installed state, reusable operations, visible outputs, and governing permissions | People are not passive machines; the constitution is not literal software or a state monopoly |
 | Systemic skeleton and living cultural body | Organismic and organizational anatomy | Mutually dependent institutional-operational structure and symbolic-affective animation of an operative Culture Program | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#systemic-skeleton-and-living-cultural-body) and this inventory | Explains why institutions without animate carriers become a paper order, why affective life without fitted systems remains fragile, and how affective-to-structural load transfer can lower per-node intensity while extending persistence, range, and activation-conditioned capacity | Not two Culture Programs, two bigOthers, institution versus individual, literal storage of affect, a physical inverse law between strength and range, or a test of truth or goodness |
 | Iceberg and submerged army-forming capacity | Organizational and military-capacity profile | Relation between visible standing or deployed force and the deeper population-level capacity to form, supply, sustain, replace, and regenerate it | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#submerged-army-forming-capacity) and this inventory | Prevents the current visible order of battle from being mistaken for the whole formative and reproductive capacity from which a battle-effective force can arise | The one-third/two-thirds ratio is not measured; no literal hidden army is inferred; culture does not replace demography, technology, industry, logistics, geography, alliances, state capacity, or adversary action |
@@ -257,6 +260,195 @@ leader.
 authority, brokerage, and correction into one quantity. Nor does the picture make
 people passive receivers, posit a literal anatomical collar, or make reflective
 reconstruction of its operation impossible.
+
+<a id="epistemic-cloud-and-all-seeing-eye"></a>
+
+### 3.4A Epistemic cloud and all-seeing eye {#epistemic-cloud-and-all-seeing-eye}
+
+**Status:** Originating user image with project-developed controlled mapping
+
+**Primary theoretical homes:** [*Epistemic Agency under Mechanical Solidarity*,
+“Collective epistemic formation and the distributed epistemic
+milieu”](0020-epistemic-agency.semantic-definition.md#collective-epistemic-formation)
+and [*Epistemic Constitution*, “The me--we--world correction
+relation”](0030-epistemic-constitution.semantic-definition.md#me-we-world-correction-relation)
+
+**Explanatory target:** The difference and coupling between impersonal epistemic
+formation and agentified collective judgment
+
+```text
+             DISTRIBUTED EPISTEMIC MILIEU
+       concepts • methods • stories • categories
+       exemplars • records • institutions • tools
+      ┌─────────────────────────────────────────┐
+      │             EPISTEMIC CLOUD             │
+      │                                         │
+      │         (o) all-seeing eye              │
+      │             bigOther-as-Thou            │
+      └─────────────────────────────────────────┘
+          ↓ formation                 ↓ gaze
+          ↓ concepts                  ↓ judgment
+          ↓ query paths               ↓ shame/pride
+          ↓ standards                 ↓ shock/reward
+
+       rider A       rider B       rider C
+       elephant A    elephant B    elephant C
+```
+
+The **cloud** pictures the impersonal and dispersed distributed epistemic
+milieu.
+Its characteristic address is not necessarily a command: “This is how an
+educated person distinguishes these things”; “This is what counts as evidence”;
+“This is the obvious causal connection.”
+It shapes the resources and structure of intelligibility through which each
+rider or main CPU reconstructs and reasons locally.
+
+The **eye** pictures the different agentified experience of collective or
+symbolic authority as **bigOther-presence** or **bigOther-as-Thou**: “It sees
+me”; “It judges me”; “I must answer to it.”
+It is the personified, second-person face of the collective and can make an act,
+question, or possible conclusion feel honourable, shameful, permitted,
+dangerous, or forbidden through each person's local bigOther.
+
+**Useful inference:** The same cultural environment can form analytical
+operations and exert evaluative pressure without those effects being one
+processor or mechanism.
+The cloud can supply a concept or query path while the eye makes its use costly;
+an affectively animated scientific ethos can instead make truthful correction
+honourable and thereby support cold inquiry.
+The cloud can also be pictured as an [open epistemic atmosphere, epistemic fog,
+or self-sealing epistemic
+enclosure](0030-epistemic-constitution.semantic-definition.md#epistemic-atmosphere-fog-and-enclosure),
+depending on whether relevant relations and correction paths remain usable.
+
+The picture becomes more discriminating when the cloud and eye are allowed to
+vary on independent axes.
+For a specified domain, the cloud may be open and clear, incomplete or
+contested, fogged, or self-sealing; the eye may be weak or intense, encouraging
+or punitive, protective or jealous, and narrowly bounded or expansively
+jurisdictional.
+A strong eye can animate an open scientific ethos by attaching honour to
+accuracy and correction, or it can protect an answer by attaching shame to the
+question that would test it.
+A weak eye does not guarantee an open cloud, because inherited vocabulary,
+fragmented records, inaccessible methods, or institutional specialization can
+still produce epistemic fog without acute affective policing.
+Track **epistemic permeability** separately from the **intensity, valence, and
+jurisdiction of the gaze**.
+
+The separate riders and elephants beneath the cloud are indispensable to the
+mapping.
+Each person reconstructs, reasons, evaluates, and acts locally rather than
+reading a common mental state from the atmosphere.
+Their questions, records, corrections, silences, repetitions, and practical
+outputs can then replenish, modify, or challenge the distributed epistemic
+milieu and, through the separately defined collective relation, the field that
+will act back upon later participants.
+The arrows are therefore reciprocal formation and back-action, not a one-way
+download from cloud or eye into passive nodes.
+
+**Non-inference:** The cloud is not a detached cognitive processor, collective
+brain, supermind, distributed bigOther, or literal computing service.
+The eye is not proof that an external person is watching, commanding, or
+coordinating the group, and it is not the cloud's hidden processor.
+The rider/main CPU performs conceptual reconstruction and reasoning; the local
+bigOther performs culturally learned evaluation.
+Neither image by itself establishes full capture, an operative multi-mind-self,
+surveillance, un-reason, un-reality, truth, or moral value.
+
+<a id="cultural-mitosis-and-jurisdictional-cytokinesis"></a>
+
+### 3.4B Cultural mitosis and jurisdictional cytokinesis {#cultural-mitosis-and-jurisdictional-cytokinesis}
+
+**Status:** Originating user image with project-developed controlled mapping
+
+**Primary theoretical homes:** [*Mythology Construction*, “Cultural-epistemic
+fission”](0040-mythology-construction.semantic-definition.md#cultural-epistemic-fission),
+[*Epistemic Constitution*, “Democratic correction and demos--jurisdiction--
+consequence
+congruence”](0030-epistemic-constitution.semantic-definition.md#democratic-demos-jurisdiction-consequence-congruence),
+and [*Culture Program Ecology*, “Soft secession and reversed legal
+priority”](0060-culture-program-ecology.semantic-definition.md#soft-secession-and-reversed-legal-priority)
+
+**Explanatory target:** The difference between division of a cultural-epistemic
+formation and separation of the jurisdictional container that still compels its
+parts to reach common decisions
+
+The biological source image separates two events. **Mitosis** divides the cell's
+nuclear material into daughter nuclei; **cytokinesis** separates the surrounding
+cell. The controlled social mapping uses that distinction as follows:
+
+```text
+              original lifted cloud
+          shared language and institutions
+                       (o)
+                common political we
+                       │
+             moralized cleavage plane
+                ╱               ╲
+        EPISTEMIC CLOUD L    EPISTEMIC CLOUD R
+                (o)                 (o)
+           bigOther L          bigOther R
+                ↓                   ↓
+         riders/elephants     riders/elephants
+                ╲                   ╱
+                 one jurisdiction
+                 one state machinery
+```
+
+**Cultural mitosis** is intuitive shorthand for the [cultural-epistemic fission
+process](0040-mythology-construction.semantic-definition.md#cultural-epistemic-fission):
+one sufficiently operative political-cultural *we* differentiates into two or
+more separately reproducing cloud--eye ecologies. **Jurisdictional cytokinesis**
+is shorthand for a second and independent operation: reallocating compulsory
+decision authority so that the differentiated cultures do not have to control one
+undivided machinery for every disputed output.
+
+The distinction makes **political-cultural mitosis without jurisdictional
+cytokinesis** visible:
+
+```text
+two political-cultural wes
++ one compulsory jurisdiction
++ no sufficiently legitimate common adjudicator
+→ elections become contests for control of the shared machinery
+→ loss is experienced as subjection
+→ institutional capture appears necessary for self-protection
+→ adversarial differentiation intensifies
+```
+
+In this mapping, [Andrickian moralization](0010-culture-mechanics.semantic-definition.md#moralization-as-character-accusation-andricks-bridge)
+cuts interpersonal and discursive bridges; Batesonian schismogenesis names
+reciprocally amplifying difference; cultural-epistemic fission names the larger
+reproductive morphology; Babelization names failure below the required
+translation and adjudication floor; and jurisdictional non-separation keeps the
+fissioned formations contesting one binding machinery.
+
+Federalism, subsidiarity, functional autonomy, and [soft
+secession](0060-culture-program-ecology.semantic-definition.md#soft-secession-and-reversed-legal-priority)
+can be pictured as **partial jurisdictional cytokinesis**: selected compulsory
+decisions move closer to the *we* capable of carrying them while a thinner lifted
+shell preserves person-level rights, movement, appeal, succession, infrastructure,
+externality settlement, and correction. The picture does not prescribe physical
+partition or imply that every cultural difference should receive separate
+jurisdiction.
+
+**Useful inference:** Cleavage, reciprocal divergence, cultural reproduction,
+interoperability breakdown, and jurisdictional separation are distinct processes.
+A polity can undergo the first four unevenly while its legal container remains
+intact, and it can differentiate jurisdiction before cultural conflict reaches a
+severe threshold.
+
+**Non-inference:** Biological mitosis is coordinated and relatively discrete;
+cultural fission is distributed, uneven, domain-specific, overlapping, and
+potentially reversible. Cultural formations inherit many common words,
+institutions, relationships, and practices while reconstructing them differently.
+They can remain porous and intensely coupled through opposition rather than
+evolving independently. The cloud is not a cell, the eye is not a nucleus or
+collective processor, and persons do not become chromosomes or copies. The image
+establishes neither two homogeneous Culture Programs, Babelization, collective
+agency, inevitable conflict, necessary secession, nor a biological law of social
+development.
 
 ### 3.5 Assembly language, SDK, and operating system
 
@@ -1453,7 +1645,9 @@ symmetry breaking and a stochastic order parameter in laser regimes; see
 Laser”](https://doi.org/10.1103/PhysRevLett.109.016404). That structural affinity
 does not put social alignment, lasers, and ferromagnets in one universality class.
 
-### 4.5 Magnetization, remanence, domains, and domain walls
+<a id="magnetization-remanence-domains-and-domain-walls"></a>
+
+### 4.5 Magnetization, remanence, domains, and domain walls {#magnetization-remanence-domains-and-domain-walls}
 
 **Status:** User- and project-developed analogy  
 **Primary theoretical home:** [*Epistemic Agency under Mechanical Solidarity*,
@@ -3178,6 +3372,234 @@ make coexistence possible, which first-order decisions move from the common
 centre to territories, which rights constrain local jurisdiction, and which
 people, claims, or rights remain outside the settlement.
 
+<a id="propagator-quotient-attractor-and-hysteresis"></a>
+
+### 4.17 Propagator, quotient space, attractor landscape, and hysteresis {#propagator-quotient-attractor-and-hysteresis}
+
+**Status:** Controlled mathematical and physical analogy with a project-developed
+typed social-dynamics mapping
+
+**Primary semantic home:** [*Culture Mechanics*, “Culture propagator and dynamic
+evolution”](0010-culture-mechanics.semantic-definition.md#culture-propagator-and-dynamic-evolution)
+
+**Explanatory target:** How a declared cultural configuration changes through
+coupled persons, fields, institutions, consequences, sensing, and memory; which
+differences can be removed from a model; and why entry, persistence, and reversal
+can follow different paths
+
+In mathematics and physics, a **propagator** carries a state or data from one
+time or location to another under a specified evolution law and applicable
+conditions. It is the solution or transition operator, not merely the
+differential equation and not ordinary-language message propagation. Culture
+Mechanics borrows that relation for:
+
+$$
+z_{t_1}=\Phi_{t_1,t_0}^{\theta,u,\varepsilon}(z_{t_0}),
+$$
+
+where the typed cultural state is:
+
+$$
+z_t=(r_t,p_t,d_t,k_t,w_t,s_t,m_t).
+$$
+
+The mapping is:
+
+| Source-domain relation | Culture-mechanical target | Transfer limit |
+|---|---|---|
+| State | Declared configuration of representations, persons, field, carrying structure, consequences, sensing, and memory | No finite vector is assumed to exhaust a culture. |
+| Evolution law or transition rule | The causal handoffs by which those typed components change one another | No universal culture equation or invariant coefficient is asserted. |
+| Propagator or solution operator | The history- and forcing-conditioned relation between earlier and later possible configurations | Cultural prediction is commonly probabilistic, partial, scale-dependent, and reflexive. |
+| Boundary or initial conditions | Starting configuration, jurisdiction, network, institutional constraints, and relevant prior history | Boundaries are socially and empirically specified rather than naturally given once and for all. |
+| Forcing term | Endogenous input, shock, declared reform, opportunistic exploitation, or deliberate steering | *Forcing* does not imply coercion, one actor, or successful control. |
+| Disturbance or omitted influence | Shocks, unmodeled actors, measurement error, and causal remainder | The residual must not become a container for every failed prediction. |
+| Observation operator | The sensing, classification, recording, aggregation, and publication process producing available evidence | Observation is neither raw access to the world nor arbitrary manufacture. |
+| Memory-bearing state | Records, relationships, habits, endowments, reputations, learned expectations, and institutional residues | Memory is distributed across persons and carriers, not stored in one social brain. |
+
+The ordinary composition picture,
+
+$$
+\Phi_{t_2,t_0}=\Phi_{t_2,t_1}\circ\Phi_{t_1,t_0},
+$$
+
+is licensed only when the intermediate state contains the history required for
+later movement and the relevant forcing schedule is known. If two apparently
+identical present configurations respond differently because of their histories,
+the state is incomplete, the model needs a trajectory segment, or the chosen
+quotient removed an active distinction.
+
+#### Quotient spaces and relational state
+
+A quotient represents several descriptions as equivalent for a declared
+question. The motivating intuition is that no absolute coordinate is needed when
+the relevant dynamics depend upon relations preserved under a transformation.
+If $z\sim z'$, both states are represented by one equivalence class $[z]$.
+
+Removing a privileged absolute coordinate does not remove historical
+initialization. One relational configuration and one path-dependent history are
+nevertheless instantiated at the declared starting time, and the transition
+relations operate from that realized condition. Contingency at $t_0$ therefore
+does not imply arbitrary movement at $t_1$; quotienting removes a redundant
+description, not the history that selected the present trajectory.
+
+The quotient dynamic exists only if the transition respects that equivalence:
+
+$$
+z\sim z'\Longrightarrow T(z)\sim T(z'),
+$$
+
+or, with projection $\pi:Z\rightarrow Z/{\sim}$, if a well-defined
+$\bar T$ satisfies:
+
+$$
+\pi\circ T=\bar T\circ\pi.
+$$
+
+This is the controlled content of the claim that a distinction can be ignored.
+If two variants grouped as equivalent generate different adoption, refusal,
+institutionalization, correction, reproduction, or succession paths, the quotient
+is invalid for that dynamic question even if the variants look identical under
+the current sensor. The correct response is to restore the discarded coordinate
+or narrow the inquiry.
+
+No quotient is neutral by default. Removing language, ritual, history, aesthetic
+form, institutional prestige, or group relation can erase the very difference
+through which trust, access, resistance, and reproduction operate. Conversely,
+refusing every quotient leaves the analyst unable to recognize the same operative
+mechanism under surface variation. Genealogy, programme identity, hazard,
+offspring causation, and present dynamic response can legitimately require
+different equivalence relations.
+
+#### Fixed points, attracting regimes, basins, and bifurcations
+
+For a deterministic unforced shorthand, a fixed point satisfies:
+
+$$
+z^*=T_\theta(z^*;0,0).
+$$
+
+That equality establishes self-reproduction under the stated condition, not
+stability under perturbation. A fixed point can repel nearby trajectories, and
+several attracting regimes with different basins can coexist under the same
+declared structural conditions. History and disturbance can therefore affect
+which regime is realized without any one regime becoming uniquely natural or
+true.
+
+The useful social target is usually broader than a literal point. An
+**attracting regime** is a reproducible range of configurations toward which
+nearby trajectories tend under declared conditions despite bounded disturbance.
+Its **basin** is the set of starting configurations that tend toward that regime
+under the same declared transition architecture and forcing assumptions.
+In an open historical system, **metastable regime** can be the more accurate
+controlled term where a configuration is self-reproducing over the declared
+interval but remains vulnerable to sufficiently large disturbance or slow
+structural change. The term does not supply a measured lifetime or imply that a
+single timeless landscape exists.
+
+| Dynamic image | Licensed culture-mechanical question |
+|---|---|
+| Fixed point or recurrent set | Which relations reproduce with limited net change? |
+| Attracting regime | Which recognizable cultural configuration is restored after ordinary perturbation? |
+| Basin of attraction | From which starting configurations does that restoration or convergence occur? |
+| Basin margin or transition boundary | How much relevant displacement or structural change separates the present regime from another reproducible one? |
+| Bifurcation | Does changing a structural parameter alter the existence or stability of available regimes? |
+| Nucleation | Can a sufficiently connected carrier core make a successor self-reproducing rather than merely present? |
+
+A **basin-crossing transition** and a **bifurcation** are not synonyms. Basin
+crossing moves a state into the attraction region of another regime while the
+declared transition architecture remains approximately fixed. A bifurcation
+changes the available regimes or their stability by changing a structural
+parameter such as authority, network topology, jurisdiction, correction, or
+material dependence. The classification is scale-relative: what appears as
+movement within a landscape at one resolution can be modeled as landscape change
+at another, so the analyst must declare the parameterization rather than infer
+either term from dramatic change alone.
+
+An **unstable equilibrium** or **repelling state** is not ordinarily an
+“unstable attractor.” The latter phrase should be avoided unless a specified
+technical model actually licenses it. A dramatic social change is likewise not
+evidence of a mathematical bifurcation. The stronger term requires a declared
+parameter, model, qualitative regime change, and observations capable of
+distinguishing it from shock, accumulated ordinary adaptation, institutional
+decision, or retrospective redescription.
+
+Attractor language never establishes truth, health, desirability, legitimacy, or
+inevitability. A false or destructive order can be dynamically stable. A
+truth-seeking or person-preserving order must reproduce correction-bearing roles
+and institutions if it is to remain a live regime rather than a written ideal.
+Persons can also interpret the model, resist its classifications, and change the
+transition architecture; the landscape is not an external terrain fixed
+independently of its inhabitants.
+
+#### Remanence, path dependence, lock-in, and hysteresis
+
+The [magnetization and remanence](#magnetization-remanence-domains-and-domain-walls)
+and [crystallization, nucleation, annealing, and
+alloying](#crystallization-nucleation-annealing-and-alloying) entries supply
+related physical pictures. The dynamic terms should nevertheless remain
+distinct:
+
+| Term | Controlled use |
+|---|---|
+| **Durable legacy** | A past event leaves an observable residue without a stronger claim about the response path. |
+| **Institutional inertia** | Existing routines, costs, offices, dependencies, or limited attention slow change. |
+| **Lock-in** | Switching costs, coordination dependence, sunk investment, or unavailable alternatives preserve a configuration. |
+| **Remanence** | Alignment or organization remains after a forming field or input weakens or disappears. |
+| **Hysteresis** | The present state or response depends upon the path taken, and reversal follows a different threshold or reconstruction path from entry. |
+
+The minimal warning is:
+
+$$
+u_t\rightarrow0\not\Rightarrow z_t\rightarrow A_0.
+$$
+
+Withdrawal of an initiating input need not restore the predecessor because
+relationships, roles, categories, resources, sanctions, skills, institutions,
+and memories have changed. A system can require active bridge reconstruction,
+institutional succession, relearning, restitution, or a new integrative order.
+Persistence alone does not prove hysteresis: the input might continue covertly,
+an independent cause might remain, or the observation interval might be shorter
+than the system's formative and institutional delays. Formal hysteresis requires
+evidence of path-dependent response or differing entry and reversal thresholds,
+not merely slow decay.
+
+Reflexive cultural systems add a complication absent from a fixed material
+analogy. Publishing a classification, forecast, or model can change conduct and
+thereby change both the later state and the evidence used to estimate its basin
+or stability. The operator can itself become endogenous. The semantic treatment
+of performative dynamics and observation belongs to [*Mythology
+Construction*](0040-mythology-construction.semantic-definition.md#implicit-mythology-layering-and-active-representation)
+and [*Epistemic
+Constitution*](0030-epistemic-constitution.semantic-definition.md#culture-propagator-correction-projection).
+
+**Useful inference:** The analogy forces an analyst to specify scale, state,
+memory, transition architecture, input, disturbance, observation, equivalence
+relation, transition boundary, and reversal evidence rather than treating
+“culture changed” as one opaque event. It also makes visible why removing a
+message or officeholder can fail to reverse a transition and why two currently
+similar configurations can have different futures.
+
+**Unlicensed inferences:** The model asserts no social wavefunction, conserved
+cultural energy, universal potential landscape, literal force field, exact social
+differential equation, naturally fixed basin, or deterministic trajectory for a
+person or society. Phase portraits and quotient spaces do not turn interpretive
+judgments into measurements. A stable regime is not true or legitimate; a deep
+basin is not healthy; a bifurcation is not progress; hysteresis is not proof of
+manipulation; and a transition surface is not evidence that an actor crossed it
+deliberately. Resemblance to the model does not identify coordination, intent,
+guilt, or one controlling mind.
+
+**Possible tests:** Declare the unit, scale, time interval, state variables,
+parameters, input, disturbance, and observation process. Preserve a
+pre-intervention baseline and source provenance. State the quotient and the
+invariants it claims to preserve; compare allegedly equivalent variants under
+stress, refusal, failure, defeat, and succession. Identify signed and delayed
+feedback, thresholds, bottlenecks, saturation, and asymmetric power. Compare
+rival generative explanations. Where possible and ethical, vary or remove the
+input and observe what decays, what persists, and what reconstruction is needed.
+Distinguish continuing input, ordinary lag, inertia, lock-in, remanence, and
+hysteresis before assigning the strongest term.
+
 ## 5. Braiding, grounding, and hazard models
 
 ### 5.1 The operative braid
@@ -4509,6 +4931,7 @@ establish motive, coordination, reward, recurrence, or death-drive.
 | Gift-wrapped control | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#control-first-moral-wrapper-selection) | Varying morally protected rationales around an invariant control capability can expose a candidate control-first authorization order and directs audit toward chronology, fit, narrower alternatives, persistence, repurposing, and correction | The cartoon presupposes rather than proves that control came first; no pretext, media coordination, hidden controller, Ideology, systemic lying, or *Machtpolitik* follows from the image |
 | Prostitution-policy leverage point | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#response-calibrated-evidence-and-intervention-targets) | Look beyond the easiest visible or vulnerable participant to the resource-bearing demand, finance, coordination, or support structure that supplies capability; inversely, separate harmfulness from targetability, sanction leverage, and disciplinary yield | Does not establish the empirical policy claim, map genders or roles onto Culture Program cases, assign organizational guilt, treat a large sanctionable loss surface as guilt, or remove person and association rights |
 | Counterfactual unit test and label-invariance | [*Epistemic Agency under Mechanical Solidarity*, “Impersonal universality against private interest”](0020-epistemic-agency.semantic-definition.md#impersonal-universality-against-private-interest) | Exchanging personal labels or occupied positions while preserving relevant structure can expose a rule whose justification covertly depends on “because it is me or mine” | Passing the test does not establish truth, goodness, person-preservation, empirical feasibility, or actual consequences; persons and situations are not literally software variables |
+| Epistemic cloud and all-seeing eye | [This inventory, “Epistemic cloud and all-seeing eye”](#epistemic-cloud-and-all-seeing-eye) | Separates the impersonal distributed milieu that forms concepts, methods, query paths, and standards from bigOther-as-Thou as agentified second-person judgment | Neither image is a collective brain, additional processor, literal watcher, or evidence by itself of surveillance, full capture, un-reason, or un-reality |
 | Database index, standing query, and alias rewrite | [*Epistemic Agency under Mechanical Solidarity*, “Collar-conditioned semantic access”](0020-epistemic-agency.semantic-definition.md#collar-conditioned-semantic-access) | Separates stored or implicitly available material from symbolic retrieval, evidential joining, future recognition, authorized renaming, and public articulation | A mind is not a database, a collar is not an index editor, and restored retrieval neither authenticates memory nor proves the retrieved model |
 | Noosphere, institutional nervous system, and control bottleneck | [*Culture Program Ecology*, “Institutional nervous system and superorganismic coordination”](0060-culture-program-ecology.semantic-definition.md#institutional-nervous-system-and-superorganismic-coordination) | Separates distributed knowledge, sensing and routing, higher-order performance, scarce-resource decision channels, operative collective agency, and the AI alignment-sovereign limit | Communication is not one mind, an insect queen is not a comprehensive commander, Radermacher did not propose an AI queen, and coordination capacity does not establish fusion or legitimacy |
 | Intermittent normativity and abusive relationship | [*Culture Program Ecology*, “Recognition-threshold management and public sleep”](0060-culture-program-ecology.semantic-definition.md#recognition-threshold-management-and-public-sleep) | Shows how genuine lawful or beneficial episodes can both protect and provide counter-material that keeps recurrent injury below a stable relationship- or system-level recognition threshold | Does not diagnose trauma, prove deliberate calibration, equate state and relationship, or establish a dual state from alternation alone |
@@ -6196,6 +6619,16 @@ transition capacity, and the scripts made possible after victory.
 
 ## 10. Provenance and attribution summary
 
+- **The project author** supplies the image of one cloud--eye ecology dividing
+  like a cell, together with the political-cultural-mitosis-without-jurisdictional-
+  cytokinesis problem. The assistant formalized the controlled mapping to
+  cultural-epistemic fission, demos--jurisdiction--consequence incongruence,
+  partial jurisdictional differentiation, and the severe-Babelization fork.
+  **Gregory Bateson's** [*Naven*, chapter XIII](https://doi.org/10.1515/9781503621138-016)
+  supplies **schismogenesis** as the bounded predecessor for reciprocally
+  amplifying differentiation. Neither Bateson nor cell biology supplies the
+  cloud--eye architecture, local-bigOther mechanism, Culture Program reproduction
+  criteria, Babelization threshold, or jurisdictional proposal.
 - **William Shakespeare** supplies Iago, Othello, Cassio, Desdemona, Emilia, the
   handkerchief, and the dramatic sequence in *Othello*. The counterfactual
   stopping test, rival-displacement classification, poison-and-accuse mapping,
@@ -6610,6 +7043,30 @@ what survives.
   semantic documents govern the constructs.
 - **Governing maxim:** A model need not be literal to be useful, but usefulness
   does not constitute empirical validation.
+- **Propagator and dynamic-state model:** a propagator carries a declared typed
+  state through time under specified transition conditions, inputs,
+  disturbances, observations, and retained memory. Quotient dynamics require
+  equivalent states to have equivalent successors; attractors, basins,
+  bifurcations, remanence, and hysteresis are licensed only with declared models
+  and observable counterparts. No universal culture equation, fixed landscape,
+  truth from stability, deterministic person, or intent from transition follows.
+- **Epistemic cloud and all-seeing eye:** the cloud pictures the impersonal
+  distributed epistemic milieu that forms concepts, methods, query paths, and
+  standards; the eye pictures bigOther-as-Thou as agentified second-person
+  judgment. Track the cloud's epistemic permeability separately from the eye's
+  intensity, valence, and jurisdiction. Neither is a collective brain or extra
+  processor, their overlap does not collapse main-CPU reconstruction into
+  local-bigOther evaluation, and local persons' outputs can modify or challenge
+  both milieu and field.
+- **Cultural-mitosis and jurisdictional-cytokinesis model:** cultural mitosis
+  pictures division into separately reproducing cloud--eye ecologies, while
+  jurisdictional cytokinesis pictures the independent separation or reallocation
+  of binding decision authority. Andrickian bridge-cutting, Batesonian reciprocal
+  amplification, cultural-epistemic fission, Babelization, and jurisdictional
+  non-separation remain distinct. Cultural division is uneven, overlapping,
+  coupled, and reversible rather than literal cell reproduction, and the analogy
+  proves neither homogeneous daughter cultures, Babelization, inevitable
+  conflict, nor necessary secession.
 - **Operation-bootstrap model:** Operation-rich transmission constructs and
   periodically repairs the recipient's local decoder; compressed state
   transmission then exploits it. Reconstruction reach is recipient- and context-

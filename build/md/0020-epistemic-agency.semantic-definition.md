@@ -181,6 +181,34 @@ authority be weak or local: a generator can have universal jurisdiction at its o
 level while the outputs and authorities it generates are particular and bounded.
 The cases and difficult classifications are developed in [§25](#examples-cases-and-boundary-tests).
 
+The older image that lifting makes culture's “surface area” shrink needs one
+terminological correction.
+What can contract is the **shared first-order prescription footprint**: fewer
+religions, occupations, identities, lifestyles, empirical conclusions, and
+ordinary decisions must be identical across participants.
+That contraction can enlarge the first-order choice space under one common
+generator:
+
+```text
+large shared corpus of concrete answers
+→ narrow range of admissible first-order variation
+
+compressed shared generator and jurisdictional shell
+→ wider range of bounded first-order packages and answers
+```
+
+This is not necessarily a reduction in the canonical
+[**lifted-solidarity surface area or meta-order
+span**](0040-mythology-construction.semantic-definition.md#lifted-solidarity-thickness-span-and-floor),
+which concerns how widely the common meta-order is actually recognized and
+binding.
+A lifted order can therefore be sparse in shared concrete prescriptions, thick
+and demanding at the level of its meta-rules, and society-wide in span.
+The expanded choice space remains generated and bounded rather than unlimited:
+packages that claim compulsory supremacy or abolish the rules preserving
+persons, bounded jurisdiction, refusal, exit, and correction are not simply one
+more coequal output of that generator.
+
 <a id="durkheimian-organic-solidarity-as-lifted-composite"></a>
 
 ##### Durkheimian organic solidarity as a lifted composite {#durkheimian-organic-solidarity-as-lifted-composite}
@@ -318,6 +346,15 @@ There is a strong structural correspondence with the present framework, but not 
 | **The normative order supporting hyperculture** | Can take the form of **lifted mechanical solidarity** around diversity, tolerance, openness, self-realization, human rights, and legitimate cosmopolitan institutions. |
 
 The theories therefore ask different questions. Reckwitz classifies what culture is taken to be and how cultural value is produced; *lifted mechanical solidarity* identifies the level at which social similarity, legitimacy, and common moral authority are located. A hypercultural society can be highly plural at the first order while demanding strong conformity to a second-order affirmation of plurality.
+
+The comparison also exposes an **order-level culture-recognition asymmetry**.
+A person who has learned to recognize culture mainly through shared concrete answers, sacred histories, rituals, dress, taboos, enemies, and embodied authorities may treat first-order commonality as culture as such.
+The comparatively compressed generator of a lifted order can then appear to be cultural emptiness, indecision, bureaucracy, permissiveness, or weakness even when it is operatively binding through reciprocal standing, bounded jurisdiction, legitimate opposition, peaceful succession, and correction.
+This is a recognition failure, not evidence that every apparently thin liberal order possesses a living lifted culture; the distinction between an operative but misrecognized order and a merely written shell belongs to [Culture Program Ecology](0060-culture-program-ecology.semantic-definition.md#order-level-culture-recognition-asymmetry).
+
+Hypercultural selection must also be separated from programme-level jurisdiction.
+A person may adopt food, music, dress, stories, techniques, or practices from another culture as elements within a plural repertoire without installing the source culture's whole answer generator or granting it compulsory authority over non-adherents.
+The lifted umbrella therefore permits broad but bounded selection and recombination; it does not treat every parent programme's claim to supremacy as another interchangeable lifestyle option.
 
 This higher-order solidarity becomes epistemically problematic when terms such as *diversity*, *tolerance*, or *human rights* function as unchallengeable master signifiers, one authorized interpretation becomes compulsory, and disagreement is classified as hostility toward the value itself. That is an essentializing use of hypercultural meta-norms, not sufficient reason to classify every left-liberal, green, or cosmopolitan position as cultural essentialism. Claiming truth is not the criterion; the question is whether claims and interpretations remain corrigible or become identity- and authority-gated. Cultural essentialism and hyperculture can therefore both support or suppress epistemic agency through different authorities: tradition, religion, nation, and communal leaders in one case; prestigious media, professions, expert institutions, and cosmopolitan moral vocabularies in the other.
 
@@ -672,6 +709,116 @@ institutions preserve memory; roles survive replacement of their occupants;
 signals become common knowledge; and each participant responds partly to what they
 expect others to expect. The field therefore has downward or back-action without
 requiring a carrier-free substance.
+
+<a id="culture-propagator-person-field-projection"></a>
+
+##### Culture-propagator person--field projection {#culture-propagator-person-field-projection}
+
+The [culture
+propagator](0010-culture-mechanics.semantic-definition.md#culture-propagator-and-dynamic-evolution)
+gives the complete cross-scale state-transition model. This document owns its
+person--field projection: the coupled change of person-level configurations
+$p_t$ and the distributed field $d_t$ through public signals, reciprocal
+expectation, trusted routing, sanctions, roles, practices, institutions, and
+retained relational history.
+
+The minimal recursion is:
+
+```text
+operative representation and situated encounter
+→ local-bigOther classification and main-CPU judgment
+→ speech, conduct, refusal, role performance, sanction, or practice
+→ interpretation and response by other local bigOthers
+→ patterned mutual expectation and collective-field change
+→ altered salience, legitimacy, trust, relationship, and perceived possibility
+→ later local classification and judgment
+↺
+```
+
+This is a reflexive loop because a representation does not merely describe an
+independently completed population. Once communicated and acted upon, it can
+change the persons, relationships, institutions, and expectations from which its
+later evidence will be drawn. No central designer is required. Downstream
+participants can be sincere, locally reasonable, differently informed, and
+unaware of the wider trajectory while their mutually conditioned responses still
+produce an emergent field effect.
+
+**Reflexive gain** asks how strongly a representation-induced response returns
+through the field to amplify, damp, reverse, or redirect the next response. The
+relevant feedback is signed, delayed, network-local, nonlinear, and potentially
+asymmetric rather than one permanent scalar property of a society. One path can
+amplify while another damps; a strong immediate response can decay, while a weak
+repeated signal can accumulate through trusted carriers, institutions, or
+memory. Reflexive gain must therefore remain distinct from initial
+representational leverage, transition proximity, sensor endogeneity, correction
+independence, and persistence after the input ends.
+
+A two-variable local heuristic can make the round trip inspectable:
+
+$$
+\dot q=F(q,r),\qquad \dot r=G(r,q),\qquad
+\ell=\frac{\partial F}{\partial r}\frac{\partial G}{\partial q},
+$$
+
+where $r$ is an operative representation and $q$ the declared social response
+variable. The sign of $\ell$ indicates the local return direction and its
+magnitude the local amplification only under the specified approximation. In the
+full propagator the relevant object is a signed and delayed feedback Jacobian or
+family of directional derivatives. A norm or spectral radius may summarize a
+fitted local model, but it must not erase causal direction, timing, threshold,
+network position, or asymmetric power.
+
+High reflexive gain is not the same as proximity to a transition boundary. A
+high-gain system deep inside a robust basin can make a large excursion and
+return, while a moderate-gain system near a fragile boundary can tip into another
+reproducible regime. Immediate reaction size therefore cannot substitute for a
+separate estimate of basin margin or transition proximity.
+
+Gain and transition margin are time-indexed rather than permanent attributes of
+a society. Adoption, response, consequence, sensing, correction,
+institutionalization, and reproduction can run on different clocks. A delayed
+corrective path can permit a temporary overshoot without durable transition,
+while a short interval of high gain or small margin can let a modest perturbation
+outlast its source. Empirical analysis must therefore compare those timescales
+rather than infer long-run persistence from immediate intensity.
+
+An intended correction can consequently become another participant's next
+disturbance:
+
+```text
+A detects danger in B
+→ A constrains or counteracts B
+→ B adapts, resists, conceals, or organizes defensively
+→ A encounters the induced response as further danger
+→ A intensifies the countermeasure
+↺
+```
+
+The generated danger can be real without being independent corroboration of the
+initial causal story. The diagnostic question is how much would remain without
+the countermeasure and how much was generated, selected, displaced, or intensified
+through it. A common external shock, independently increasing danger,
+proportionate defence, unequal power, or one-sided closure can produce superficially
+similar escalation. The loop therefore neither presumes equal contribution nor
+turns restraint into a universal prescription.
+
+Bridge persons, cross-cutting relationships, shared practices, independent
+associations, and common correction procedures are not merely static social
+assets. They are feedback paths capable of transmitting a counter-signal,
+preserving rival evidence, slowing negative-identity formation, or carrying an
+adverse fact across a field boundary. Conversely, making those relations costly
+can increase effective gain within separated clusters even where no participant
+intends cultural fission.
+
+The projection preserves four boundaries:
+
+1. person-level change does not reduce to field change, and field change does not
+   erase the local bigOther/main-CPU distinction;
+2. a field is not established by an average attitude or a large reaction alone;
+3. reciprocal amplification does not establish equal power, equal closure,
+   coordination, conspiracy, or shared intent; and
+4. field coherence, reproduction, self-like presentation, operative collective
+   agency, and fusion remain separate findings.
 
 The analogy with a **photon** isolates a second hypothesis: an organized social
 meaning can retain relative identity while its biological and material carriers
@@ -4987,6 +5134,14 @@ action to examples, resistance, consequences, counterexamples, and correction.
 It may be direct, as in experiment, apprenticeship, construction, or responsible
 work, or mediated through a sufficiently concrete demonstration, case, simulation,
 worked derivation, or experimental report.
+Domain contact is not only collision with error.
+Repeated successful action under varied conditions can disclose an affordance,
+stable relation, or usable capability, while resistance and failure can expose
+where the operative model breaks.
+Success is positive evidence within the tested range, not an automatic proof of
+complete understanding, truth, legitimacy, or beneficial direction: selection
+effects, temporary luck, protected conditions, external support, and displaced
+costs remain possible.
 Mere proximity, repeated exposure, verbal rehearsal, or membership does not by
 itself supply domain contact in this sense.
 
@@ -5240,6 +5395,315 @@ mobilization is [**intergenerational mobilizational
 praxis**](0060-culture-program-ecology.semantic-definition.md#intergenerational-mobilizational-praxis).
 The legacy `formative-praxis-and-codebook-coordination` anchor is retained only
 for compatibility with references written before this terminology migration.
+
+<a id="collective-epistemic-formation"></a>
+
+#### Collective epistemic formation and the distributed epistemic milieu {#collective-epistemic-formation}
+
+**Collective epistemic formation** is the process through which participation in
+a social and material environment forms and revises the locally executable
+concepts, distinctions, query paths, methods, inferential habits, and evidential
+standards through which a person comes to know.
+
+The **distributed epistemic milieu** is the corresponding environment of
+language, stories, examples, practices, artifacts, records, instruments,
+institutions, trained persons, and correction procedures through which those
+resources remain available and acquire practical force across participants and
+generations.
+It is not one collective mind-state or a container from which cognition is
+downloaded.
+Each rider or main CPU reconstructs and uses a locally formed codebook or
+epistemic grammar through ordinary cognition.
+
+The distinction extends the homo-duplex account from one to two interacting
+modes of collective formation and back-action:
+
+| Mode | Collective contribution | Person-side execution | Characteristic effect |
+|---|---|---|---|
+| **Affective--evaluative actuation** | Mythologies, symbolic authority, expectations, sanctions, and field back-action train and activate culturally consequential classifications. | The local bigOther applies the installed mythological lens; elephant-side affect, attention, motivation, and action readiness change; the rider encounters the changed orientation. | An object, thought, or act feels honourable, shameful, sacred, contaminating, attractive, dangerous, obligatory, or forbidden. |
+| **Collective epistemic formation** | The distributed epistemic milieu supplies language, distinctions, examples, methods, artifacts, records, instruments, and correction practices. | The rider or main CPU reconstructs and uses concepts, retrieves and joins observations, poses questions, compares, infers, predicts, articulates, and revises. | Some objects and relations become intelligible, nameable, retrievable, comparable, evidentially relevant, or methodologically tractable. |
+
+“Hot” and “cold” are compact contrasts between the characteristic operations,
+not names for two additional mental processors and not a claim that epistemic
+formation has no affective cause.
+Within the local architecture, **only the local bigOther is the distinct second
+processor or cultural co-processor**.
+The distributed epistemic milieu is not a processor, detached cognitive agent,
+collective brain, or second bigOther, and the reconstruction codebook remains
+analytical shorthand for resources used by the main CPU.
+
+The two modes interact through [collar-conditioned semantic
+access](#collar-conditioned-semantic-access).
+The local bigOther can classify an approaching object, question, source,
+comparison, possible conclusion, or public use as honourable, dangerous, loyal,
+contaminating, or forbidden.
+That primitive evaluative signal can make main-CPU retrieval, joining,
+comparison, segmentation, binding, explanation, or articulation easier, costly,
+or unavailable without the collar performing any of those operations itself.
+
+```text
+distributed epistemic milieu
+→ operation-rich formation and public symbolic addressing
+→ rider/main CPU reconstructs concepts, methods, and query paths
+→ rider/main CPU notices, retrieves, joins, compares, infers, and articulates
+
+                                 ↕ loose functional coupling
+
+local bigOther classifies an object, question, source, relation,
+possible conclusion, or public use
+→ permission, honour, shame, danger, pollution, loyalty, or taboo signal
+→ main-CPU operations remain available, become costly, or stop
+```
+
+The same relation can recur across generations and act back through the field:
+
+```text
+collective life forms concepts, distinctions, methods, and practices
+                            ↓
+the rider learns which objects, relations, questions, and evidence to seek
+                            ↓
+the local bigOther classifies some uses and conclusions as proper or improper
+                            ↓
+institutions and other participants recognize, ignore, reward, or reject the result
+                            ↓
+these outcomes help form the next generation's grammar and evaluator
+                            ↺
+```
+
+This cycle is emergent and reciprocal without making every institutional result
+the expression of one collective agent.
+Persons reconstruct and act locally; their outputs replenish, modify, fragment,
+or challenge both the distributed epistemic milieu and the separately defined
+symbolic--affective field.
+
+At least three obstructions must remain distinct:
+
+1. **Conceptual unavailability:** the rider has not acquired the distinction or
+   operation needed to formulate the question.
+2. **Evaluative inhibition:** the distinction is available, but local-bigOther
+   classification makes retrieving, sustaining, applying, or publicly using it
+   feel shameful, dangerous, disloyal, or otherwise impermissible.
+3. **Collective non-recognition:** the person formulates the result, but the
+   surrounding institution or thought community does not receive it as relevant
+   evidence or an admissible claim.
+
+Calling all three *emotional bias* erases their different causal locations and
+therefore obscures what would have to change.
+The retrospective, prospective, present-articulation, and public-address sites
+remain governed by the more detailed collar-conditioned-access taxonomy rather
+than becoming new modules here.
+
+The constitutional question produced by this formation process is developed as
+the [**me--we--world correction
+relation**](0030-epistemic-constitution.semantic-definition.md#me-we-world-correction-relation):
+removing private advantage can reveal a shared conceptual frame without yet
+showing that the frame answers to the world.
+The controlled [**epistemic cloud and all-seeing-eye
+picture**](0050-culture-mechanics-analogies.semantic-inventory.md#epistemic-cloud-and-all-seeing-eye)
+separates this impersonal distributed milieu from the agentified second-person
+experience of bigOther-as-Thou.
+
+##### Bouglé, Fleck, and the learned grammar of inquiry
+
+Célestin Bouglé's [1896 chapter on Lazarus and
+*Völkerpsychologie*](https://fr.wikisource.org/wiki/Les_sciences_sociales_en_Allemagne/Lazarus_-_La_psychologie_des_peuples)
+supplies a direct predecessor for the distributed-carrier and shared-grammar
+claims.
+He locates a public spirit in persons and in durable things--including trained
+bodies, tools, schools, buildings, poems, and codes--rather than in a separate
+substantial group mind.
+He further distinguishes transmission of a stock of ideas from transmission of
+general forms and methods through which one person's or generation's thinking
+can continue in another.
+The present distributed-milieu, processor, field, and collective-agent
+distinctions remain Culture Mechanics developments rather than Bouglé's terms.
+
+Ludwik Fleck's [*Genesis and Development of a Scientific
+Fact*](https://press.uchicago.edu/ucp/books/book/chicago/G/bo25676016.html)
+and [“To Look, To See, To
+Know”](https://studylib.net/doc/28305438/fleck-1947) make the learned grammar more
+operational.
+A *Denkstil* trains directed perception, assimilation, problem construction,
+method, and the reception of results through apprenticeship, instruments,
+diagrams, terminology, examples, and exchange within a thought collective.
+Fleck therefore supplies a source account in which collective formation reaches
+ways of seeing and investigating rather than only a stock of propositions.
+He does not supply the local bigOther, distributed epistemic milieu, or
+me--we--world diagnostic as defined here.
+
+Durkheim's wider socially formed intellectual--moral pole, Bouglé's shared
+grammar, and Fleck's executable thought style illuminate different reaches of
+the same research problem.
+They do not establish that a socially transmitted method is true, that every
+participant reconstructs it identically, or that one whole culture possesses a
+unitary mind.
+
+Impartiality is therefore not thought from nowhere.
+It can be a genuinely cultivated discipline through which participants learn to
+set aside private preference, apply shared methods, expose claims to criticism,
+and accept corrections that carry personal cost.
+Its achievement is real without being final: the inherited problem space,
+perceptual training, instruments, standards, and source hierarchy remain products
+of a thought style and must themselves stay available for comparison and
+reality-mediated correction.
+The same procedural impersonality can otherwise make a local grammar feel simply
+identical with reason.
+
+##### Scientific ethos: hot support for cold inquiry
+
+Fleck's scientific mood and ethos expose a necessary interaction between the two
+modes:
+
+> **Cold epistemic operations require a hot commitment to norms that may defeat
+> the knower's immediate interests and preferred conclusions.**
+
+This is not affect treated as evidence.
+It is affect helping to sustain epistemic discipline where surveillance, formal
+rules, and conscious calculation are insufficient.
+A working scientific ethos can train the local bigOther to make fabrication,
+falsification, concealment, and result-driven distortion feel dishonourable,
+while accurate observation, honest uncertainty, replication, correction, and
+acknowledgement of error remain honourable even when they carry personal cost.
+The collar does not perform the analysis or determine truth; it can support the
+rider's answerability to the world by making violations of truth-seeking practice
+immediately and pre-reflectively costly.
+
+```text
+scientific mythology, exemplars, apprenticeship, and role expectations
+→ affectively animated scientific ethos
+→ shame at fabrication and honour in truthfulness and correction
+→ self-restraint where direct supervision is absent
+→ more reliable observation, inference, record, criticism, and revision
+→ replenishment of an open distributed epistemic milieu
+```
+
+The proper object of this hot attachment is not a particular theory, approved
+result, institution, faction, or scientific authority.
+It is the higher-order commitment to reality-answerability and corrigibility,
+including willingness to expose one's own work and collective to adverse
+evidence.
+In this bounded form, hot formation supplies part of the motivational
+infrastructure that makes cold inquiry sustainable.
+
+The same coupling has a pathological inverse.
+If honour and shame attach to defending an approved answer, protecting an
+institution, or displaying group membership, the local bigOther impedes rather
+than sustains inquiry.
+The contrast is therefore **affect in service of corrigible world-contact versus
+affect in service of answer protection**, not affect versus reason.
+
+Schools, universities, professions, and research institutions can consequently
+retain scientific vocabulary, techniques, credentials, laboratories,
+publication procedures, and metrics while losing enough living ethos that those
+resources cease to be reliably reality-answerable.
+The scientific skeleton then remains while the living scientific culture
+weakens, and cold analytical capacities can be recruited for selective
+reporting, rationalization, concealment, or technically sophisticated fraud.
+
+This is a testable candidate mechanism for a scientific-fraud or replication
+crisis, not a prevalence finding or complete causal attribution.
+Relevant comparisons include moral formation, mentoring, reactions to null and
+adverse results, treatment of replication and correction, whistleblower
+standing, incentives, audit quality, opportunity, and conduct when truthfulness
+is personally costly and external observation is weak.
+
+<a id="three-axis-operative-agency"></a>
+
+#### Operative authorship, cognitive stance, and communication channel {#three-axis-operative-agency}
+
+The [I-mode--We-mode
+distinction](0010-culture-mechanics.semantic-definition.md#operative-relationship-modes)
+adds an operative-relationship layer to epistemic agency.
+It must not be collapsed into either immediate-versus-representational cognition
+or propositional-versus-embodied communication.
+The resulting model keeps three axes independent:
+
+```text
+operative authorship or standpoint: I ↔ We
+cognitive stance:                  EDA ↔ DCL
+communication channel:             propositional ↔ embodied/paralinguistic
+```
+
+##### Engaged direct awareness and disengaged conscious languaging
+
+The development discussion uses **engaged direct awareness (EDA)** for immediate
+involvement in a present situation through perception, feeling, response, and
+action, and **disengaged conscious languaging (DCL)** for the capacity to leave
+the immediate situation and operate through words and representations of absent
+objects, remembered persons, possible futures, and counterfactuals.
+
+The labels were prompted by Elliott Jaques's [*The Life and Behavior of Living
+Organisms: A General Theory*](https://www.bloomsbury.com/us/life-and-behavior-of-living-organisms-9780275975012/).
+The publisher's description and contents confirm the book's larger concern with
+awareness, signalling, language, the sensible world, and the language-suffused
+human world, but the exact EDA/DCL wording and the present cross-axis
+interpretation still require primary-text verification.
+The following matrix is therefore a Culture Mechanics construction rather than a
+claim that Jaques supplied it:
+
+| Cognitive stance | I-mode | We-mode |
+| --- | --- | --- |
+| **EDA** | Embodied love, face-to-face care, spontaneous rescue, and personal conflict | Ritual, drill, collective effervescence, crowd action, immediate role performance, and coordinated work |
+| **DCL** | Conscience, remembrance, imaginative perspective-taking, reconstructing consequences for an absent person, and private planning | Law, science, doctrine, administration, policy, strategic planning, and ideological reasoning |
+
+EDA does not guarantee compassion: immediate participation can include revenge,
+panic, domination, or mob violence.
+DCL does not guarantee coldness: it can bring an absent person into moral
+presence, expose a euphemism, reconstruct a consequence, or criticize the group.
+The desk-perpetrator configuration is therefore not “DCL causes evil” but the
+more specific possibility of **DCL operating under captured We-mode** while
+institutional roles turn distant representations into bodily consequences.
+
+Repersonalization can occur through renewed EDA--I encounter or through DCL--I
+reconstruction of the affected person's experience and claim.
+A programme becomes especially dangerous when it blocks both direct contact and
+the private linguistic space in which a carrier could reconstruct that claim.
+
+##### Propositional language and be-humming
+
+The communication axis separates **propositional content** from **embodied,
+paralinguistic, and interactional social signalling**.
+The originating term **be-humming** names the second channel; **Gorilla** remains
+an informal image rather than a technical synonym.
+Be-humming includes rhythm, prosody, emphasis, pauses, vocal mirroring,
+turn-taking, engagement, posture, gaze, movement, and interpersonal timing.
+
+The propositional channel states facts, reasons, offers, rules, and commitments.
+Be-humming can regulate attention, arousal, confidence, affiliation, trust,
+status, safety, lead--follow relations, and readiness for coordinated action.
+
+> **Propositional language represents a relation; be-humming helps enact it.**
+
+The embodied channel can support I--You attunement through soothing, tenderness,
+and mutual timing, or collective synchronization through chanting, marching,
+ritual, drill, and shared tempo.
+It is not intrinsically sincere, deceptive, personal, or collective.
+DCL can choreograph it deliberately, and EDA can carry meaningful propositions.
+
+The project retains no universal numerical split such as “80 percent body
+language and 20 percent argument.”
+The [Pentland source
+boundary](0040-mythology-construction.semantic-definition.md#coordination-synchronization-and-the-coupling-thermostat)
+supports the scoped importance and measurability of nonlinguistic signals, not a
+universal causal percentage for negotiation or communication.
+A plausible bidirectional sequence is:
+
+```text
+embodied signalling
+→ changed trust, threat, rank, belonging, or coordination readiness
+→ changed reception of the same propositions
+→ explicit interpretation or press-secretary reasons
+
+while
+
+reasons, commitments, and explicit judgments
+→ changed embodied interaction and signalling
+```
+
+Arguments are therefore not causally irrelevant, and social signals are not a
+hidden dictionary that automatically reveals truth or intention.
+The three-axis model permits combinations that a single warm/cold or
+individual/collective scale would erase.
 
 <a id="audience-modelled-reconstruction-and-decompression"></a>
 
@@ -6710,6 +7174,20 @@ speech can maintain recognition and coordinate action. The agency problem begins
 where a borrowed formula substitutes for judgment precisely where a person or
 office must answer.
 
+A more tightly closed local configuration is **closure-bound script-execution
+mode**: an input is reconstructed through programme categories, DCL generates an
+intelligent response inside them, the challenge is explained away, and the
+protected conclusion returns unchanged because no legitimate losing condition is
+available.
+The informal label **bot-mode** may name that demonstrated interface-level loop.
+It must not be converted into the noun *a bot* or *NPC*, which totalizes a local
+operation into a claim that no I, authorship, love, doubt, or possibility of
+return exists elsewhere in the human being.
+Fluency, repetition, refusal, error, or disagreement alone does not establish the
+mode.
+The constructive diagnostic is: **What evidence could make the answer being
+given lose?**
+
 **Full speech** is speech through which the speaker becomes answerable. The
 speaker does not pretend that the big Other has completed and guaranteed the
 judgment:
@@ -7487,6 +7965,8 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Persuasion** | Process of changing belief, evaluation, identity, or action. | Can restore or suppress agency depending on epistemic direction, reciprocity, and correction. |
 | **State transmission / operation transmission** | Communication of a finished conclusion or result versus cues through which a recipient locally reconstructs relevant generating operations. | Their ordered complement is the operation-first decoder-bootstrap principle: operation-rich formation constructs and repairs the decoder that later compressed state communication exploits, without literally copying a mental state or operation. |
 | **Operation-bootstrapped codebook formation** | Recurrent operation transmission constructs locally executable and sufficiently compatible reconstruction resources, enabling later compressed communication. | Supplies the dynamic precondition for audience-modelled reconstruction and compressed master-signifier activation; reconstruction reach, relevant overlap, fidelity, reality contact, and corrigibility matter more than raw vocabulary size. |
+| **Collective epistemic formation** | Participation in a distributed social and material environment forms and revises locally executable concepts, distinctions, query paths, methods, inferential habits, and evidential standards. | Extends collective formation into the operations used by the rider or main CPU without turning the milieu into another processor or collapsing it into local-bigOther evaluation. |
+| **Distributed epistemic milieu** | Dispersed environment of language, examples, practices, artifacts, records, instruments, institutions, trained persons, and correction procedures. | Carries resources across persons and generations while requiring local reconstruction; it is not one mental state, collective brain, distributed bigOther, or second bigOther. |
 | **Collar-conditioned semantic access** | Proposed classification-conditioned influence upon rider-side conceptual selection, retrieval, joining, standing-query activation, binding, or articulation. | Extends the local blindness bridge without making the collar a reasoning processor, memory store, or direct rider interface; includes asymmetric addressability, suppression/hyperactivation symmetry, possible acquisition closure, and separately evidenced crisis--relief reindexing. |
 | **Perception-stage correction closure** | Obstruction before a candidate relation can travel from noticing through formulation, comparison, public articulation, and collective testing. | Keeps penalty, occupation, and internal-classification routes distinct; public silence alone does not identify which route produced it. |
 | **Epistemic reindexing / collective reindexing** | Restoration of plural, reality-answerable access paths in a person; public stabilization of a corrigible index through which independently observed anomalies can become mutually available. | Proposed corrective operations within guided unbraiding and public Noticing; neither predetermines the correct model nor turns repeated source-dependent agreement into independent confirmation. |
@@ -7614,6 +8094,41 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   transmission can still yield population-level stability without identical
   local mental states. Neither source establishes a local bigOther, Culture
   Program, truth, or deterministic convergence.
+- **Collective epistemic formation:** participation in a distributed epistemic
+  milieu forms and revises the locally executable concepts, distinctions, query
+  paths, methods, inferential habits, and evidential standards used by ordinary
+  rider or main-CPU cognition.
+- **Distributed epistemic milieu:** language, examples, practices, artifacts,
+  records, instruments, institutions, trained persons, and correction procedures
+  carry epistemic resources across participants and generations without forming
+  a detached processor, collective brain, one shared mental state, or second
+  bigOther.
+- **Hot--cold processor boundary:** affective--evaluative actuation is executed
+  by the local bigOther and affects elephant-side orientation; collective
+  epistemic formation supplies resources reconstructed and used by the main CPU.
+  Collar-conditioned semantic access can couple the modes without making the
+  collar a query planner or the milieu a third processor.
+- **Scientific-ethos coupling:** affect is not evidence, but honour, shame,
+  identity, and role formation can sustain truthfulness and correction when
+  external observation is weak. The positive case binds affect to
+  reality-answerability and corrigibility rather than an approved result or
+  authority; the inverse binds it to answer protection.
+- **Three-axis operative-agency model:** I/We identifies operative authorship or
+  standpoint; EDA/DCL identifies immediate engagement versus disengaged
+  representational languaging; propositional/be-humming identifies lexical
+  content versus embodied, paralinguistic, and interactional signalling. The
+  axes can combine independently and must not be compressed into one warm/cold,
+  individual/collective, or rational/irrational scale.
+- **EDA/DCL source boundary:** the labels are retained as a provisional Jaques
+  bridge pending primary-text verification; the two-by-two I/We matrix, its
+  Culture Mechanics interpretation, and the claim that repersonalization can
+  return through either direct encounter or imaginative reconstruction are
+  project constructions.
+- **Be-humming channel:** rhythm, prosody, pauses, vocal mirroring, turn-taking,
+  posture, gaze, movement, and interpersonal timing help enact trust, rank,
+  belonging, threat, and coordination. They do not reveal truth or intention
+  automatically, make propositions irrelevant, or support a universal numerical
+  split of communication.
 - **Learning-state distinction:** surface habituation reduces unfamiliarity;
   operational understanding supports transfer, prediction, use, and revision;
   living knowledge joins compressed symbolic state to enough reconstructed
@@ -7707,6 +8222,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   and conduct; agency includes inspecting and, where possible, repairing or
   refusing the script without mistaking it for another bigOther.
 - **Order-level distinction:** first-order solidarity shares concrete rules and answers; lifted solidarity shares the rules that generate, select, apply, and revise concrete answers.
+- **First-order prescription footprint:** lifting can contract the shared catalogue
+  of concrete answers while leaving the meta-order thick and society-wide in
+  span. The resulting umbrella permits more bounded first-order variation, not
+  every programme's claim to compulsory supremacy or coequal jurisdiction.
 - **Provisional remove-the-me test:** particular interest plus situation becomes
   a candidate rule; names and factional privilege are removed, positions are
   exchanged, and the rule is tested for anyone relevantly similarly situated.
@@ -7717,6 +8236,7 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   sovereign output.
 - **Generative compression:** fixed installed meta-rules can combine with changing knowledge and situations to produce many changing concrete outputs; neither fewness nor detail alone defines the order level.
 - **Modern structural possibility:** lifted mechanical solidarity can span an organically differentiated and plural society, but plurality and division of labour are consequences or applications rather than the definition of lifting.
+- **Reckwitz comparison and recognition boundary:** cultural essentialism resembles first-order solidarity, Hyperculture resembles first-order plurality and recombination rather than a solidarity form, and a lifted order can provide their broad but bounded common umbrella. A participant habituated to visible first-order commonality may misrecognize the compressed lifted generator as cultural absence; that possibility does not establish that an apparently liberal order is operatively installed rather than merely written.
 - **Complete slot occupancy / full capture:** first-order and lifted programs can each fully occupy the one local bigOther; fullness is not itself pathology.
 - **Lifted jurisdiction:** an answer-generating meta-order may govern universally while allocating and limiting plural first-order outputs, authorities, and jurisdictions.
 - **Corrigibility axis:** first-order and lifted full captures can each remain open or become closed; rivalry and replacement alone do not decide which.
@@ -7790,6 +8310,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Communication audits:** decompression analysis compares surface content,
   omissions, assumed recipient, predictable and actual reconstruction, alternative
   decompressions, and resulting action or authorization.
+- **Closure-bound script execution:** a programme reconstruction and DCL response
+  loop returns its protected conclusion without a legitimate losing condition.
+  *Bot-mode* is an informal interface-level label for a demonstrated loop, not a
+  whole-person classification or excuse.
 - **Political-language source maxim:** Wegner's *Talking Points* presents political
   language as speech designed to win trust and power over people's lives; Culture
   Mechanics translates that forceful claim into political language as an
@@ -7805,7 +8329,13 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   person-standing, supplement it through bounded recognition, or replace it by
   making a selected pattern of differences the protected principal.
 - **Single-slot capture constraint:** compatible material may reinforce or extend the installed weave; incompatible governing capture requires incumbent unbraiding and successor rebraiding.
-- **Dynamic process:** synchronization and field back-action among local bigOthers.
+- **Dynamic process:** the person--field projection of the culture propagator:
+  local classification and judgment become public signals, reciprocal responses
+  alter the distributed field, and field back-action changes later salience,
+  legitimacy, trust, relationship, and perceived possibility.
+- **Reflexive-gain boundary:** feedback can amplify, damp, reverse, arrive after a
+  delay, or remain local to a network path; gain is not one permanent social
+  scalar and does not establish equal power, shared intent, or transition.
 - **Clockwork coordination:** differentiated contribution through roles,
   interfaces, handoffs, aggregation, and a common meta-order; it has an affinity
   with differentiated unity but is not its definition.
@@ -7898,6 +8428,13 @@ Field form:
 
 > **local bigOthers → shared symbolic protocol → reciprocal classification and response → mechanical-solidarity coherence → distributed bigOther → field back-action upon local judgment**
 
+Person--field propagator projection:
+
+> **operative representation → local classification and judgment → public
+> signal, refusal, role, sanction, or practice → reciprocal interpretation and
+> response → collective-field change → altered salience, legitimacy, trust, and
+> perceived possibility → later local classification and judgment**
+
 Programming-topology form:
 
 > **differentiated authority + comparatively uniform audience + common attention and reception → heightened receptivity → activation, reinforcement, or reprogramming → stronger field coherence**
@@ -7914,6 +8451,18 @@ Operation-bootstrapped compression:
 > practice, and correction → locally reconstructed codebooks → sufficient relevant
 > overlap → compressed tokens evoke larger models; renewed operation transmission
 > maintains transfer, correction, and generational continuity**
+
+Collective epistemic formation:
+
+> **distributed epistemic milieu → locally reconstructed concepts, methods, and
+> query paths → main-CPU inquiry and articulation → public reception and material
+> consequence → correction or renewed formation of the milieu**
+
+Scientific-ethos coupling:
+
+> **hot attachment to truthfulness and corrigibility → self-restraint under weak
+> observation → more reliable cold inquiry → adverse evidence can revise both
+> answer and thought style**
 
 Collar-conditioned semantic access:
 
@@ -8164,7 +8713,9 @@ The vocabulary above does not come from one theory. The following map distinguis
 | **Privileged authority-addressed programming topology and programming state** | Freud on group psychology; Green and Brock on transportation; Horton and Wohl on parasocial interaction; Chwe on common knowledge; Bourdieu on authorized speech; Collins on interaction rituals | Synthesizes several mechanisms into a new, testable one-to-many realization of the broader functional morphology. No source establishes the complete compound state. |
 | **Bonhoefferian Dummheit** | Dietrich Bonhoeffer, [“Von der Dummheit” (1943; PDF of the complete section)](https://jochenteuffel.files.wordpress.com/2020/12/bonhoeffer-von-der-dummheit.pdf) ([HTML transcription](https://de.wikisource.org/wiki/Von_der_Dummheit)) | Names a family resemblance between socially induced loss of independence and the present capture model. It is not an IQ measure, diagnosis, or complete restatement of Bonhoeffer. |
 | **Audience-modelled reconstruction** | Dushan Wegner, *Relevante Strukturen* (2019), especially his account of linguistic *Komprimierung* and recipient-side *Dekomprimierung* | Retains the claim that finite messages rely on an anticipated recipient's stored knowledge, then gives it a typed factual, causal, moral, and authorization model, an adversarial subtype, and a decompression audit. *Lossy codec* and *decoder-targeted compression* are project analogies, not Wegner's technical terms. |
+| **Engaged direct awareness and disengaged conscious languaging** | Elliott Jaques, *The Life and Behavior of Living Organisms: A General Theory* (2001), provisionally identified through the publisher's description and contents | Uses EDA and DCL as a cognitive-stance axis inside the project's three-axis model. The exact labels and Jaques's own boundary between them still require verification in the primary text; the I/We matrix, the desk-perpetrator configuration, and both routes of repersonalization are project constructions. |
 | **Domain contact, living knowledge, joint codebook formation, and practice-formed coordination capacity** | The originating author's project-management, advanced-mathematics, experimental-play, and physics-learning observations; Stuart and Hubert Dreyfus's skill-acquisition model as a bounded neighbour; Kenneth Minogue's critical account of praxis in *Alien Powers*; the project's operation-bootstrapped codebook synthesis | Generalizes the observation that responsible practice and mentally replayed experiment can make compressed formal language decompressible, distinguishes reconstructible capability from retained formulas, then connects recurrent joint practice to codebook overlap and coordination. Dreyfus supplies movement from detached rule use toward experience-based situated performance, not the surface-habituation or codebook mechanism. Minogue supplies the ideological source case, not the generic communication model, the learning illustrations, the serialization analogy, or the claim that participation guarantees truth. |
+| **Shared grammar, thought style, and scientific ethos** | [Célestin Bouglé, “Lazarus. La psychologie des peuples” (1896)](https://fr.wikisource.org/wiki/Les_sciences_sociales_en_Allemagne/Lazarus_-_La_psychologie_des_peuples); [Ludwik Fleck, *Genesis and Development of a Scientific Fact* (1935)](https://press.uchicago.edu/ucp/books/book/chicago/G/bo25676016.html) and [“To Look, To See, To Know” (1947)](https://studylib.net/doc/28305438/fleck-1947) | Bouglé supplies persons and durable things as carriers of public spirit and transmission of forms of thought as well as ideas. Fleck supplies directed perception, assimilation, method, scientific mood, and thought-collective formation. **Collective epistemic formation**, **distributed epistemic milieu**, the processor boundary, and the hot-scientific-ethos mechanism are Culture Mechanics developments rather than either author's terms. |
 | **Political language as an authorization bid** | Dushan Wegner's [official *Talking Points* page](https://www.dushanwegner.com/buecher/talking-points/), which states that political language seeks trust and power over people's lives | Preserves Wegner's forceful maxim, then translates it into delegated jurisdiction and connects it to relevant structures, causal stories, opponent restrictions, and bounded political authority. The term *authorization bid*, the typed payload, and the audit are project-developed. |
 | **Cognitive-relief hypothesis** | Wegner's situated formulation “Denken tut weh” in *Relevante Strukturen*; neighbouring research on need for closure, cognitive effort, and authority | Turns a memorable witness formulation into a bounded, testable mediation hypothesis about relief, checking, and authority-gated acceptance. It is not a claim about intelligence, universal motivation, or prevalence, and it should not be attributed to Wegner in this operational form. |
 | **Normopathic adaptation** | [Erich Wulff, *Psychiatrie und Klassengesellschaft* (1972)](https://www.econbiz.de/Record/psychiatrie-und-klassengesellschaft-zur-begriffs-und-sozialkritik-der-psychiatrie-und-medizin-wulff-erich/10004758497); Joyce McDougall's psychoanalytic normopathy; [Hans-Joachim Maaz, *Das falsche Leben* (2017)](https://www.chbeck.de/media/2215/paperback1-17.pdf) | Uses the family of terms descriptively for adaptation to a pathological social normality without adopting any one author's clinical or political theory. The term has more than one intellectual genealogy, so a single uncontested origin should not be asserted. |
@@ -8195,6 +8746,10 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   the allocation and limitation of first-order outputs and jurisdictions**;
 - **mechanical-solidarity field** and **field back-action** in the specific sense
   used here;
+- the **culture-propagator person--field projection**, **reflexive gain** as a
+  signed, delayed, network-local, nonlinear, and potentially asymmetric feedback
+  descriptor, and the bridge-topology application by which relationships and
+  associations can carry either amplification or correction;
 - **functional morphology of mechanical solidarity** and its near-synonym
   **functional form of mechanical solidarity**, including **population body**,
   the distributed **trusted-opinion-leader function**, **field-generating and
@@ -8288,6 +8843,17 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   person or the situation** and the aggregative-versus-fusion sacrifice
   distinction, while the recognition-only human-standing axiom remains a
   project commitment rather than an attribution to Durkheim;
+- the **three-axis operative-agency model** separating I/We operative standpoint,
+  EDA/DCL cognitive stance, and propositional/embodied-paralinguistic
+  communication, together with the two-by-two EDA/DCL--I/We matrix and the claim
+  that repersonalization can return through either direct encounter or
+  imaginative reconstruction;
+- **be-humming** as the originating term for embodied, paralinguistic, and
+  interactional social signalling, while **Gorilla** remains an informal image
+  and no universal numerical split between signalling and argument is claimed;
+- **closure-bound script-execution mode** and its carefully bounded informal
+  shorthand **bot-mode** as a local interactional condition rather than a human
+  type, diagnosis, or license to call a person a bot or NPC;
 - the three **Humanism–Diversity relation types**—nested, supplementary, and
   replacement—together with capitalization of *Diversity* only for the organizing
   master signifier or programmatic configuration;
@@ -8302,6 +8868,22 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   in which operation transmission constructs and repairs the decoder while state
   transmission exploits it, and **reconstruction reach** as the audience-relative
   size of the learned complex a token can reliably activate;
+- **collective epistemic formation** as the process that forms locally
+  executable concepts, distinctions, query paths, methods, inferential habits,
+  and evidential standards, and the **distributed epistemic milieu** as the
+  dispersed cross-person and cross-generational environment that carries the
+  relevant language, examples, practices, artifacts, records, instruments,
+  trained persons, and correction procedures;
+- the **hot--cold mode distinction** between local-bigOther
+  affective--evaluative actuation and collective epistemic formation executed
+  through ordinary rider or main-CPU cognition, together with **affect in service
+  of corrigible world-contact versus affect in service of answer protection** as
+  the directional scientific-ethos contrast rather than a claim that affect is
+  evidence;
+- **scientific or procedural impartiality** as a genuinely cultivated discipline
+  capable of checking private preference, while its problem space, perceptual
+  training, methods, instruments, and standards remain products of a thought
+  style answerable to me--we--world correction rather than a cultureless view;
 - **collar-conditioned semantic access**, **semantic-access interface**, and the
   retrospective, present, prospective, and public-address access distinctions as
   proposed Culture Mechanics mechanisms rather than Durkheimian, Haidtian,
@@ -8329,7 +8911,10 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   knowledge**, **joint codebook formation**, and **practice-formed coordination
   capacity** as the project-developed extension from operation-rich learning
   through symbolic addressing and reconstructible capability into socially
-  calibrated codebooks and possible clockwork coordination;
+  calibrated codebooks and possible clockwork coordination, including the
+  distinction between positive affordance disclosed through repeatable success
+  and model limits disclosed through resistance or failure, neither of which is
+  a complete truth, legitimacy, or valence oracle;
 - **audience-modelled reconstruction**, **adversarial audience-modelled
   reconstruction**, and the **decompression audit** in their present operational
   forms;

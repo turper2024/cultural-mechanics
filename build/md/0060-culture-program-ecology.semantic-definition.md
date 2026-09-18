@@ -423,6 +423,11 @@ for this module.
 | **Constitutional evasion by proxy** | Stronger attribution that a public actor selected, maintained, pressured, or exploited a private-carrier arrangement in order to obtain, or with consequential knowledge that it obtained, an outcome materially unavailable or more constrained under direct public action; it requires actor-, nexus-, counterfactual-, and jurisdiction-specific evidence beyond outsourcing, funding, partnership, or parallel preference |
 | **Voluntary thick community** | Bounded solidarity-bearing association in which adults may choose a comprehensive common telos and deep *Beseelung* because entry is voluntary, exit is effective, safe, and materially real, common rights remain controlling, and the community claims no compulsory jurisdiction over outsiders or captive dependants |
 | **Plural society** | Encompassing coercive common shell that contains persons, communities, Culture Programs, and ends that remain independently legitimate and therefore protects association, refusal, appeal, correction, and coexistence rather than installing one comprehensive Culture Program in the population |
+| **Self-subordinating collective authority** | Collective authority whose continuation, prestige, reach, and reproduction do not rank as the highest good by definition and which remains interruptible by injured persons, outsiders with standing, conscience, adverse reality, lawful refusal, legitimate defeat, and jurisdictional contraction |
+| **Exit-sovereignty test** | Audit asking whether a programme that a carrier repudiates or leaves still claims authority over the person's conscience, body, relationships, livelihood, movement, civil standing, or life, while distinguishing coercive retention and disposal authority from ordinary exit costs, lawful obligations, and loss of voluntarily conditioned benefits |
+| **Boundary sacrifice** | Person-directed act that expends a member or outsider so that defection, contradiction, defeat, or refusal does not make a programme boundary visibly defeasible; the act must be distinguished from the wider authority-renewing mechanism and from ordinary sacrifice for an independently assessable good |
+| **Sacrificial boundary repair** | Use of a person's suffering, exclusion, self-erasure, or destruction to restore a programme boundary threatened by defection, contradiction, defeat, or visible corrigibility; classification requires evidence of the threatened boundary, authorized response, victim function, audience, and authority-renewing operation |
+| **Sacrificial proof loop** | Invalid but culturally effective inference in which costly obedience displays a programme's power over a carrier, that power is interpreted as proof of truth or authority, and the apparent proof expands authority to demand further sacrifice |
 | **Self-Attribution Presumption** | First-pass evidentiary rule that an authenticated, serious proclamation of program allegiance, authorization, intent, or action should initially be believed as evidence of the actor's own operative understanding and treated as an immediate program-level warning; adverse admissions receive especially strong initial weight |
 | **Self-Description Valence Asymmetry** | Adverse self-attribution receives first-pass credence about the actor's own operative understanding, while favourable self-description receives no exculpatory presumption against installed operation, offspring, consequences, and failed correction; parent-program attribution remains a second inference governed by speaker standing, script fit, recurrence, organizational support, internal contestation, and affirmative defeaters |
 | **Attribution-Source Asymmetry** | Self-attribution supplies situated evidence about the speaker's operative program; hostile third-party attribution is an allegation about the target that requires independent support and may also reveal the accuser's classifications or attack grammar |
@@ -1155,6 +1160,54 @@ to usefulness, loyalty, control, or authority. It can employ mechanisms other
 than un-reason, while localized Ideology need not constitute a whole
 constitutional meta-order. Test domain reach, recurrent replacement, public
 avowal, records, correction, and practical jurisdiction separately.
+
+<a id="cloud-eye-skeleton-composite"></a>
+
+#### Cloud--eye--skeleton composite {#cloud-eye-skeleton-composite}
+
+The ecology-level composite extends the three-head Ideology pictogram without
+turning the surrounding milieu, local bigOther, carriers, or institutions into
+one processor.
+It places the strict Ideology configuration inside a larger architecture of
+social formation, affective authorization, local execution, convergence,
+jurisdiction, and institutional carriage:
+
+| Visible component | Controlled meaning |
+|---|---|
+| **Epistemic cloud** | The distributed epistemic milieu of language, concepts, categories, stories, methods, exemplars, records, instruments, institutions, and evidential standards. It is an environment and inheritance, not another cultural co-processor. |
+| **Cold cables from cloud to heads** | Persistent reciprocal coupling between that milieu and locally organized cognition: persons inherit and reconstruct shared resources, while their speech, records, inquiry, and action return material to the milieu. |
+| **Eye and directed rays** | The hotter, agentified experience of collective judgment--approval, shame, belonging, prohibition, threat, and sacred demand--bearing upon each installed lens through its local bigOther. The eye is not the whole cloud and does not prove a conscious collective subject. |
+| **Separate puzzle-piece heads with embedded hazard mark** | Distinct persons and processors carrying organized worldviews in which the strict Ideology generator is pictured as installed. Coherence alone is neutral; the hazard mark names the narrower un-reality-and-un-reason conjunction. |
+| **Separate streams joining one arrow** | Locally produced orientations of attention, salience, interpretation, affect, causal attribution, judgment, correction, and prospective action entering social feedback and converging toward a collective direction. The arrow is not one controller, identical private belief, or a literal group brain. |
+| **Outer double membrane** | One still-undivided jurisdiction within which the depicted field and carriers operate. A jurisdictional boundary is not a mind boundary. |
+| **Connected lower rail** | One institutional skeleton--courts, schools, administration, elections, taxation, public records, and public symbols--through which convergent classification can acquire durable memory and executable consequence. The picture does not establish that one programme controls every institution named. |
+
+The synthesis can be read from top to bottom:
+
+```text
+distributed epistemic formation and return
++ agentified collective evaluation
+→ local worldview installation and execution in separate persons
+→ feedback-amplified convergence of orientation
+→ institutional carriage inside a common jurisdiction
+```
+
+The diagram therefore joins relations that must remain analytically distinct.
+The cloud can supply genuine knowledge as well as common-mode error; the eye can
+authorize care as well as punishment; convergence can be voluntary and
+corrigible; and an institutional skeleton can preserve plural correction rather
+than execute Ideology.
+Only evidence for the typed relations and the seven Ideology gates licenses the
+strict reading represented here.
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=0.94\textwidth,height=0.88\textheight,keepaspectratio]{.pdf-assets/ideology-three-heads-merging-arrows-with-epistemic-cloud-and-institutional-skeleton.pdf}
+\caption{Composite Ideology ecology: epistemic cloud, agentified bigOther gaze, separate local carriers, convergent direction, and one institutional skeleton.}
+\label{fig:ideology-cloud-eye-institutional-skeleton}
+\end{figure}
+
+\clearpage
 
 #### Minogue-ideology: the oppression--revelation--liberation subtype
 
@@ -1927,6 +1980,293 @@ collective organization, institutional control, coercive jurisdiction, and
 irreversible authority.
 That power-and-enforcement scale is not the definition of the four forms.
 
+<a id="bounded-enlistment-exit-sovereignty-and-sacrificial-boundary-repair"></a>
+
+#### Bounded enlistment, exit sovereignty, and sacrificial boundary repair {#bounded-enlistment-exit-sovereignty-and-sacrificial-boundary-repair}
+
+The person-level distinction between [bounded enlistment and full We-mode
+takeover](0010-culture-mechanics.semantic-definition.md#pole-mode-programme-and-direction)
+has a programme-level counterpart.
+A programme may coordinate difficult common action, require discipline, and ask
+for sacrifice without claiming comprehensive ownership of its carriers.
+The ecological question is what happens when its purpose collides with personal
+conscience, outside relationships, adverse consequence, refusal, or exit.
+
+**Self-subordinating collective authority** is authority whose own continuation,
+prestige, territorial reach, and programme reproduction do not rank as the
+highest good by definition.
+It remains interruptible by an injured person, an outsider with standing, a
+carrier's conscience, contrary evidence, lawful refusal, legitimate defeat, and
+the need to contract jurisdiction.
+It may ask persons to bear costs, but it cannot infer from the importance of its
+purpose that persons are disposable components.
+
+The contrasting **exit-sovereignty test** asks:
+
+> **When a carrier repudiates or leaves the programme, does the programme retain
+> a claimed right to the person's conscience, body, relationships, livelihood,
+> movement, civil standing, or life?**
+
+The test is strongest where entry or ordinary participation is represented as
+voluntary but exit activates punishment that asserts continuing ownership over
+the leaver.
+One-way membership and prohibited exit are evidence of a sovereignty claim
+beyond ordinary persuasion, loss of voluntarily conditioned benefits, or a
+bounded association's right not to retain a nonmember.
+The finding still requires attention to unchosen membership, dependency, age,
+contract, fiduciary obligation, public law, confidentiality, transferred costs,
+and the difference between social disappointment, lawful consequence, coercive
+retention, and claimed disposal authority.
+The test applies symmetrically to religious and secular programmes.
+
+**Boundary sacrifice** names the person-directed act that expends a member or
+outsider so that refusal does not make the programme visibly defeasible.
+**Sacrificial boundary repair** names the wider use of that person's suffering,
+exclusion, self-erasure, or destruction to restore a programme boundary
+threatened by defection, contradiction, defeat, or visible corrigibility.
+Its purpose is not merely to remove an immediate danger.
+The sacrifice demonstrates that the boundary remains absolute and warns carriers
+that neither personal bond nor conscience outranks it.
+Classification therefore requires evidence about the boundary under threat, the
+programme-authorized response, the victim's functional place, the audience, and
+the operation by which the response renews authority.
+In the development discussion's controlled image, the programme **metabolizes a
+person into renewed solidarity**.
+That image compresses the proposed function; it does not itself establish the
+victim, programme nexus, audience effect, or causal mechanism in a case.
+
+One reproduction mechanism is the **sacrificial proof loop**:
+
+```text
+programme issues a command that conflicts with attachment, interest, or conscience
+→ carrier performs costly obedience against the personal claim
+→ observers experience the programme's power over the carrier
+→ that power is interpreted as proof of truth, holiness, necessity, or destiny
+→ the sacrifice increases the programme's authority to demand another sacrifice
+```
+
+The inference is invalid: power over a carrier does not establish the truth or
+goodness of the programme.
+Yet it can be culturally effective because an easy command would not display the
+same supremacy.
+The loop can therefore select progressively more costly signals and produce a
+self-divinizing relation in which possession of carriers becomes evidence for
+the authority that justified possessing them.
+
+There can be a **double sacrifice**.
+The immediate victim loses safety, standing, relationship, or life; the executor
+also yields personal authorship and becomes the programme's local execution
+surface.
+This distinguishes sacrifice-as-proof from ordinary sacrifice for an
+independently assessable good and connects it to [perverse
+instrumentality](0030-epistemic-constitution.semantic-definition.md#life-drive-death-drive-constitutional-orientation)
+without making the two identical.
+A person may sacrifice greatly while retaining answerable authorship, and an
+exculpated executor may cause grave harm without personally paying a comparable
+cost.
+
+The audit therefore separates:
+
+```text
+costly commitment
+≠ truth
+≠ moral direction
+≠ authorized jurisdiction
+≠ subjecthood absorption
+≠ sacrificial boundary repair
+```
+
+No specific religious, theological, legal, or historical case is classified by
+this generic mechanism alone.
+Such applications require primary-source review of doctrine, interpretation,
+jurisprudence, enforcement, present law and practice, reform, actor attribution,
+and serious rival explanations at the appropriate layer.
+
+<a id="theological-interpretation-canonical-classical-apostasy-law-and-the-satanic-hack-classification"></a>
+
+#### Theological interpretation: canonical-classical apostasy law and the satanic-hack classification {#theological-interpretation-canonical-classical-apostasy-law-and-the-satanic-hack-classification}
+
+**Status:** worked religious-juridical application under the [conditional
+Christian theological
+interpretation](0010-culture-mechanics.semantic-definition.md#conditional-christian-theological-interpretation).
+The scriptural, juridical, historical, contemporary-legal, reformist, theoretical,
+and theological layers below must remain distinct.
+
+The governing conditional is:
+
+> **If We-mode is part of the embodied capacity through which the Christian God
+> addresses persons through the Word, and if Incarnation and Cross disclose its
+> proper person-preserving direction, then a sacred programme that captures that
+> capacity, demands submission, prohibits legitimate exit, and claims authority
+> to dispose of the dissenter's body instantiates the satanic hack.**
+
+The English gloss *submission* for *Islam* identifies the diagnostic question but
+does not answer it.
+Etymology alone cannot establish the programme's person--authority relation.
+The decisive test is operational:
+
+> **When a member withdraws submission, does the sacred order permit exit, or
+> does it retain a claimed sovereignty over the dissenter's conscience and body?**
+
+##### Christian sacrificial counter-sequence
+
+The conditional theology interprets a sequence of biblical episodes as a
+progressive exposure and reversal of sacrificial collective sovereignty:
+
+| Episode | Project theological reading |
+|---|---|
+| **Isaac's interrupted knife** (Genesis 22:10–13) | The command does not culminate in divine consumption of the child; Isaac returns from offering to son. |
+| **Jeremiah's uncommanded fire** (Jeremiah 7:31) | A community can present child sacrifice as sacred obedience while revelation answers that God did not command it. Religious intensity cannot prove divine origin. |
+| **Jephthah's consuming vow** (Judges 11:30–40) | The narrative does not say that God requested the victim. A human word acquires autonomous sacred force: the vow is preserved while the daughter is destroyed. |
+| **Caiaphas's collective calculation** (John 11:49–53) | One person is made expendable so that the nation may continue: the scalar rationality of the self-preserving We in concentrated form. |
+| **Cross and Eucharistic reversal** | God occupies the place normally assigned to the expendable person and gives himself to human beings rather than consuming human beings as fuel for the God/We. |
+
+These are related Christian interpretations, not a claim that every passage has
+only this meaning.
+They supply the exact theological contrast used in the application: the
+self-preserving sacred collective gives the person for itself; the Cross-shaped
+authority gives itself for persons.
+
+##### Apostasy as a submission-and-exit sovereignty test
+
+The canonical-classical apostasy configuration has the following operative
+shape:
+
+```text
+conversion or inherited membership
+→ submission is recognized
+→ withdrawal is classified as apostasy and separation from the Ummah
+→ the apostate is invited or pressured to recant
+→ protection returns if submission returns
+→ the persisting dissenter becomes lawfully disposable
+```
+
+The recantation provision makes the object of the mechanism unusually visible.
+A later change of private belief would not undo an ordinary completed act of
+treason.
+Where renewed profession of Islam restores protection, however, the decisive
+demand is resubmission itself.
+The apostate threatens more than an ordinary outsider because the apostate makes
+the programme's defeasibility visible from within.
+A one-way door into a religion is not freedom of religion.
+
+The evidential layers are:
+
+| Layer | Finding retained by this application | Boundary |
+|---|---|---|
+| **Canonical Sunni textual doctrine** | [*Sahih al-Bukhari* 6922](https://sunnah.com/bukhari:6922) transmits the command to kill the person who changes his Islamic religion. [*Sahih Muslim* 1676c](https://sunnah.com/muslim:1676c) joins abandonment of Islam to separation from the community and makes it one condition under which a Muslim's blood may be shed. | Canonical text is not yet a complete jurisprudence, an enforcement-frequency claim, or the personal belief of every Muslim. |
+| **Classical jurisprudence** | The [Oxford overview of apostasy in Islam](https://academic.oup.com/reference/62361/reference-article-abstract/554575770) reports the classical consensus in which virtually all jurists made death the mandatory punishment for apostasy; a contemporary Muslim defence of a narrower political reading likewise acknowledges that [all classical Sunni and Shiite schools held the death penalty](https://yaqeeninstitute.org/read/paper/the-issue-of-apostasy-in-islam). The rule therefore cannot be quarantined as an unrelated modern extremist invention. | School-specific conditions, sex distinctions, waiting and repentance rules, procedure, and political contexts remain differentiable within that consensus. |
+| **Historical enforcement** | Juristic stabilization made the punishment institutionally available and shaped the cost of visible exit. | This integration does not supply a dynasty-by-dynasty or region-by-region incidence survey. Doctrinal availability, threatened use, prosecution, and completed execution remain separate historical propositions. |
+| **Contemporary conservative articulation and positive law** | A conservative ruling presents death as God's ruling, denies the apostate a continuing right to live, and argues that unpunished departure could encourage others ([IslamQA 811](https://islamqa.info/en/answers/811)); another states the persistent unrepentant apostate's execution ([IslamQA 12406](https://islamqa.info/en/answers/12406)). The [USCIRF 2023 primary-law compendium](https://www.uscirf.gov/sites/default/files/2023-12/2023%20%20Anti-Conversion%20Laws%20Compendium.pdf) identifies national apostasy provisions in seven states, with penalties reaching death in part of that legal field. | An online ruling, enacted provision, prosecution, enforcement frequency, public support, and one Muslim's view are not interchangeable. Contemporary jurisdictions also differ substantially. |
+| **Reformist reinterpretation** | [Qur'an 2:256](https://quran.com/2/256) supplies the internal “no compulsion in religion” route. [Egypt's Dar al-Ifta](https://www.dar-alifta.org/en/article/details/101/the-reality-of-apostasy-in-islam) restricts punishable apostasy to political betrayal or rebellion rather than private belief, and Muslims can defend an apostate's freedom to leave. | A live reform route demonstrates internal contestability and can defeat the mechanism where it becomes operative. It does not retroactively erase the canonical hadith, classical rule, or their institutional consequences. |
+
+The resulting conclusion is deliberately sharp and scoped:
+
+> **Islam in its canonical-classical juridical form, specifically the
+> apostasy-death configuration, instantiates the satanic hack under the stated
+> Christian theological interpretation.**
+
+Transcendent authority is mediated through a collective juridical programme that
+demands submission, makes sacred exit a punishable betrayal, denies the
+persisting dissenter's conscience authority to leave, and claims collective
+authority to dispose of the dissenter's body.
+This is **boundary sacrifice**: the apostate is killed so that refusal cannot make
+the sacred boundary visibly defeasible.
+The collective consumes the dissenter to repair the symbolic wound of exit.
+It is Caiaphas's scalar logic applied to apostasy—one person may die rather than
+the community's binding claim become visibly non-total.
+
+The theological contrast is exact:
+
+```text
+CANONICAL-CLASSICAL APOSTASY CONFIGURATION
+the refusing person's blood may be shed to restore submission
+
+CROSS-SHAPED CHRISTIAN COUNTERMODEL
+God undergoes rejection and sheds his own blood
+rather than authorizing followers to eliminate the rejecter
+```
+
+This programme-level classification does not assign moral guilt, assent, or one
+uniform practice to every Muslim, community, school, institution, or state.
+A Muslim who defends the freedom to leave stands against the inherited mechanism.
+The same exit-and-disposal test applies to Christian, pagan, political, and
+secular orthodoxies.
+Those scope distinctions do not weaken the classification of the specified
+canonical-classical configuration or reset it into a merely fringe phenomenon.
+
+##### The Muḥayyiṣa report and the sacrificial proof loop
+
+A report transmitted through Ibn Isḥāq/Ibn Hishām and discussed by Michael Lecker
+in *Studies on the Life of Muhammad and the Dawn of Islam*, pp. 114–115, provides
+a concentrated authorization narrative.
+In the report, Muḥayyiṣa kills the Jewish merchant Ibn Sunayna, from whom he and
+his brother Ḥuwayyiṣa had benefited.
+When challenged, Muḥayyiṣa says that he would kill even his brother if Muhammad
+commanded it; Ḥuwayyiṣa is astonished by the religion's power over him and
+converts.
+
+Later paraphrases such as “family friend” and “the killing proved the religion
+true” sharpen the transmitted story.
+The more exact relation is already sufficient: personal reluctance and prior
+benefit remain, command overrides the personal bond, astonishment at that power
+follows, and conversion results.
+
+```text
+sacred command conflicts with personal bond or conscience
+→ obedience overrides the personal claim
+→ an observer witnesses the programme's power over the carrier
+→ that power is read as evidence of divine truth
+→ the observer joins
+→ the field gains another carrier and stronger authority
+```
+
+The epistemic transfer from **power over a carrier** to **truth of the commanding
+authority** is invalid.
+It can nevertheless be culturally effective because costly obedience displays a
+superpersonal force that an easy command could not display.
+In Durkheimian terms, the distributed We encounters its own social force made
+visible in an obedient body and then misrecognizes that force as independent proof
+of God.
+
+The report contains a double sacrifice.
+Ibn Sunayna loses his life after collective classification displaces the need for
+an individualized wrong; Muḥayyiṣa subordinates personal attachment and
+answerable authorship to the command.
+Ḥuwayyiṣa then reads the consumption of victim and executor as evidence of
+holiness rather than evidence of capture.
+
+> **The hack is complete when possession becomes its own proof.**
+
+The source establishes a transmitted authorization story and its internal
+sequence.
+It does not by itself establish the event's independent historicity, population
+prevalence, or every Muslim carrier's relation to command.
+Those limits preserve the source layer; they do not undo the mechanism exhibited
+by the report as received and used.
+
+##### Islam as representative rather than exception
+
+Within the conditional Christian theology, this Islamic application is the
+sharpest developed representative of a wider sacrificial-religion hypothesis.
+Egyptian, Greek, Norse, and other mythological orders can also be interpreted as
+satanic hacks where a god or sacred collective occupies human receptivity to
+transcendent address, converts submission or sacrifice into proof, and consumes
+persons for divine or collective continuation.
+The theological class is broad and intentionally asymmetric with the
+Incarnation-and-Cross pattern.
+The historical mechanisms are not presumed identical: each case still requires
+its particular texts, cult, institutions, victims, commands, and enforcement
+route to be shown.
+
+Christian institutions can enter the same sacrificial family when they reverse
+their own pattern, as the [Catherine of Siena stress
+test](0040-mythology-construction.semantic-definition.md#catherine-of-siena-and-sacralized-expansion)
+illustrates.
+That is capture of Christianity by the hack, not a reason to flatten the
+theological difference between a God who gives himself for persons and a sacred
+order that gives persons for itself.
+
 <a id="fanatic-offspring-as-an-indicator"></a>
 
 ### 7.2 Fanatic offspring as an indicator {#fanatic-offspring-as-an-indicator}
@@ -2269,6 +2609,199 @@ Relevant units include:
 - cultural output.
 
 Causal attribution fails when these units are silently exchanged.
+
+<a id="culture-propagator-programme-ecology"></a>
+
+#### Culture-propagator programme ecology {#culture-propagator-programme-ecology}
+
+The [culture
+propagator](0010-culture-mechanics.semantic-definition.md#culture-propagator-and-dynamic-evolution)
+defines the general state-transition architecture. Culture Program Ecology owns
+its programme-level specialization: which load-bearing relations preserve or
+change programme identity, how programmes reproduce through carrying structures,
+what they generate under stress and succession, how an incumbent becomes
+captured, and how ordinary or strategic forcing enters those transitions.
+
+##### Question-relative programme quotients
+
+No single equivalence relation answers every programme question. At least four
+quotients must remain distinct:
+
+| Quotient | Preserved relation | Question answered |
+|---|---|---|
+| **Genealogical quotient** | Descent, textual inheritance, organizations, teachers, transmission, and acknowledged lineage | Is this programme historically descended from another? |
+| **Programme-identity quotient** | Load-bearing generator, person--programme relation, final authority, jurisdiction, correction, reproduction, and defeat rules | Is this operatively the same programme under another presentation? |
+| **Hazard quotient** | Coercive capability, correction closure, power concentration, target production, and characteristic failure paths | Does it instantiate the same kind of constitutional danger? |
+| **Offspring-causation quotient** | Mechanisms causally implicated in recurrent descendants or implementations | Which findings remain attached to the preserved mechanism? |
+
+A name, symbol, vocabulary, membership boundary, or declared doctrine can change
+without breaking programme identity where the load-bearing generator and its
+authority, jurisdiction, correction, and reproduction relations remain
+operative. Conversely, familiar names and institutions can remain while an
+incompatible successor governs consequential choice, correction, and succession.
+One shared hazardous feature does not establish genealogy or complete programme
+identity, and genealogical descent does not establish present hazard.
+
+The wrapper can be irrelevant to a narrow programme-identity quotient and still
+be indispensable to the full propagator. Language, ritual, aesthetic form,
+historical memory, institutional prestige, or a benevolent moral vocabulary can
+alter trust, access, adoption, resistance, and the transition path even when the
+operative core would receive the same identity classification. Identity
+invariance can therefore coexist with dynamical novelty.
+
+A compact programme-state decomposition is:
+
+$$
+\bigl([P]_{\mathrm{op}},\omega_t,e_t\bigr),
+$$
+
+where $[P]_{\mathrm{op}}$ is the operative programme class, $\omega_t$ its
+current wrapper or interface, and $e_t$ the receiving environment. The
+decomposition prevents two opposite errors: treating a new wrapper as proof of a
+new programme, or discarding a wrapper that materially changes access,
+resistance, coalition, and trajectory merely because the operative core remains
+invariant.
+
+Changed presentation does not reset an established operational history where
+the load-bearing mechanisms remain. Conversely, ancestry or resemblance does not
+override demonstrated invariant-breaking in actual operation. A valid change
+point requires implemented changes in authority, correction, opposition,
+succession, and the causal paths that generated the relevant offspring. Strong
+tests ask whether power or evidence custody changed, whether a serious outsider
+can invoke the new protection against its authors, and whether that protection
+survives crisis, adverse use, and succession.
+
+The general compatibility rule remains controlling: apparently equivalent
+programme states can be quotiented only when the discarded distinction does not
+change the relevant successor relation under matched conditions. Stress, refusal,
+failure, emergency, bounded defeat, change of power, and succession are important
+tests because surface-equivalent programmes can reveal different transition
+rules there.
+
+##### Transition signatures and graded offspring inheritance
+
+A **transition signature** is the patterned way a programme changes or preserves
+its load-bearing relations across specified pressures. Relevant observations
+include what happens when it is weak or powerful, criticized or obeyed, materially
+successful or failing, defeated in a bounded procedure, denied one jurisdiction,
+required to protect an outsider, or handed to a successor generation.
+
+Offspring findings therefore attach by preserved mechanism rather than by name
+alone:
+
+```text
+same operative programme class
+→ inherit the programme's offspring record as defeasible programme evidence
+
+partial mutation with preserved causal mechanism
+→ inherit the findings attached to that mechanism
+
+implemented and durable invariant-breaking successor
+→ no automatic operative identity with the parent
+  while ancestry remains a warning and comparison source
+
+unrelated programme with equivalent hazardous operation
+→ diagnose the present hazard
+  without inventing genealogy or inherited guilt
+```
+
+This rule prevents renaming from laundering preserved machinery while also
+preventing one shared authoritarian, sacrificial, or correction-closing feature
+from collapsing distinct programmes, histories, and responsibilities into one
+identity. Persons do not inherit programme guilt by association, ancestry,
+membership label, or downstream carriage.
+
+##### Forcing surfaces and adversarial specialization
+
+An input can enter the programme ecology through several distinct transition
+surfaces:
+
+- classifications, expectations, person-types, threats, duties, and represented
+  possible futures;
+- trusted routing, common-knowledge signals, prestige, and collective-field
+  reward or sanction;
+- the cost and survival of bridge persons, counterfields, and independent
+  associations;
+- appointment, refusal, resource, enforcement, and succession rules;
+- measurement categories, denominators, access, record custody, and public
+  summaries;
+- correction, appeal, adjudication, and implementation of adverse findings; and
+- jurisdiction, interdependence, and allocation of compulsory common outputs.
+
+These surfaces are leverage points of the general propagator, not evidence that
+an actor has deliberately used them. A transition need not begin by persuading a
+majority. Altering enough high-leverage relations can prevent the incumbent
+configuration from reproducing; later participants can then adapt sincerely and
+locally rationally to changed routing, incentives, roles, institutions, and
+correction paths.
+
+**Adversarial reflexive attractor steering** is the specialized hypothesis that
+an actor deliberately targets one or more such surfaces so that the system's own
+decentralized interpretations and responses help produce a strategically useful
+transition. In the general notation it is an adversarial input
+$u_t^{\mathrm{adv}}$, not a different propagator:
+
+$$
+z_{t+1}=T_{\theta_t}(z_t;u_t^{\mathrm{adv}},\varepsilon_t).
+$$
+
+The threat model identifies a capability and pathway, not its use. An applied
+steering claim requires a specified actor, relevant access, selected input,
+temporal nexus, evidence that the mechanism was anticipated or knowingly
+exploited, and material causal contribution. It must compare sincere endogenous
+development, common shock, declared reform, commercial or bureaucratic
+selection, opportunistic adaptation, implementation lag, and other serious
+rivals. Downstream participants do not inherit the alleged initiator's knowledge,
+objective, coordination, or guilt merely by carrying the resulting pattern.
+
+Steering denotes directional leverage rather than exact endpoint control. An
+input can fail, decay, overshoot, strengthen the rival, damage its initiator, or
+help generate an unanticipated third regime. A capable actor can also aim at a
+transition region, greater conflict, institutional exhaustion, or reduced
+recovery capacity rather than one fully specified successor. Those strategic
+possibilities remain separate from evidence of what a named actor intended or
+achieved.
+
+Culture Program capture is one possible transition outcome, not a synonym for
+forcing, steering, reform, policy change, or personnel turnover. Capture occurs
+only where an incompatible successor redirects enough authority, classification,
+resources, formation, appointment, metrics, correction, jurisdiction, and
+succession to install and reproduce itself through inherited machinery. Capture
+can arise without an external director; evidence of capture does not complete the
+adversarial-steering attribution.
+
+Persistence after an input ends can reflect retained relationships, roles,
+endowments, categories, sanctions, sunk costs, damaged bridges, learned
+expectations, succession, or independent continuing causes. The analysis must
+distinguish ordinary inertia, adaptation, lock-in, remanence, and hysteresis
+rather than treating every durable effect as proof of successful steering. The
+[micro-imposition and precedent
+ratchet](#micro-imposition-and-precedent-ratchet), [carrying
+structure](#culture-program-carrying-structure), [capture
+definition](#culture-program-capture), and [staged attribution
+protocol](#riecks-razor-and-the-investigative-presumption-of-intent) supply the
+more specific tests.
+
+A generic **incremental institutional ratchet** can convert a temporary state
+change into a slower change of the effective transition architecture:
+
+```text
+provisional accommodation or emergency response
+→ incorporation into guidance, forms, training, metrics, or appointments
+→ later decisions treat the incorporation as precedent
+→ refusal costs rise while the initiating justification recedes
+→ the temporary interpretation becomes administrative memory
+→ reversal requires coordinated institutional change
+```
+
+Each step can be locally intelligible and no participant need intend the
+cumulative endpoint. The stronger ratchet finding requires a sequence that
+changes baseline, custody, precedent, or refusal cost; one accommodation, uniform
+rule, or durable benefit does not establish it. Versioned reasons, scope change,
+reciprocity, reversibility, actual outcomes, and whether adverse experience can
+narrow or repeal the rule discriminate it from ordinary adaptation and beneficial
+standardization. Micro-imposition is one possible boundary-changing subtype, not
+the definition of the generic ratchet.
 
 <a id="cultural-self-maintenance-and-defence"></a>
 
@@ -4462,7 +4995,9 @@ originating claim.
 
 ## 13. Pluralistic classical liberalism as the proposed solution
 
-### 13.1 Not neutrality and not an empty slot
+<a id="not-neutrality-and-not-an-empty-slot"></a>
+
+### 13.1 Not neutrality and not an empty slot {#not-neutrality-and-not-an-empty-slot}
 
 Pluralism is not the absence of culture, weak commitment, or a vacant bigOther.
 It is proposed as a **lifted Culture Strategy**: a fully installed meta-order
@@ -4501,6 +5036,54 @@ The semantic core is:
 This is a normative commitment of the proposed containment strategy. It is not a
 neutral fact or proof that every existing liberal institution serves it.
 
+The corresponding equality claim attaches first to concrete persons, not to
+every Culture Program they may carry:
+
+| Question | Position of the proposed lifted order |
+|---|---|
+| **Do persons possess equal basic standing?** | Yes. Standing belongs completely to each concrete living human bearer and is not conditional upon the truth, value, popularity, or official recognition of the person's worldview. |
+| **Are all Culture Programs equally true or reality-answerable?** | No. Their factual and causal claims remain answerable to evidence, consequence, comparison, and correction. Social mediation does not make every account equally fitting. |
+| **Are all Culture Programs equally person-preserving, life-supporting, capability-producing, or corrigible?** | No. These are explicit normative and functional tests; ancestry, sincere belief, popularity, and cultural survival do not settle them. |
+| **Do all Culture Programs possess an equal claim to public trust or coercive jurisdiction?** | No. Entrusted power depends upon bounded jurisdiction, reciprocal standing, demonstrated compatibility, correction, and due process rather than equal human dignity alone. |
+| **May persons nevertheless hold, discuss, and voluntarily associate around programmes the lifted order judges false or illiberal?** | Presumptively yes under ordinary rights and law. Refusal to grant a programme coequal governing authority does not erase its carriers' person-level standing or automatically authorize suppression. |
+
+Culture Mechanics therefore rejects the slogan **“all cultures are equal”**
+when it means equal truth, equal normative direction, equal institutional trust,
+or equal entitlement to compulsory jurisdiction.
+It simultaneously rejects the inverse move from an adverse programme judgment
+to unequal human standing, inherited guilt, or unrestricted state action against
+its carriers.
+
+The project normatively prioritizes a person-centred Humanist--liberal Culture
+Strategy whose implementations are audited as person-preserving,
+life-supporting, capability-producing, reality-answerable, and corrigible.
+Durkheimian moral individualism and Humanity supply an important source bridge
+for the standing of the person; this five-part audit and the present pluralist
+architecture are project-developed selections rather than Durkheim's own
+complete doctrine or a verdict issued by reality without a normative premise.
+They remain open to criticism, comparison, operationalization, and replacement
+by a more adequate person-preserving design.
+
+The first-order freedom created by this order is broad but not unbounded.
+The shared generator admits many religions, moral outlooks, communities, and
+ways of life as bounded packages while refusing to generate their claim to
+compulsory supremacy over non-adherents.
+A programme may therefore remain protected as belief, speech, worship, or
+voluntary association without qualifying as a coequal governor of the common
+shell.
+Where a programme rejects reciprocal person-standing, effective refusal or
+exit, reality-answerable adjudication, or correction, the conflict concerns
+compatibility with the lifted order rather than cultural difference as such.
+
+Such incompatibility does not by itself establish a self-sealing epistemic
+enclosure, Lonerganian flight from insight, Voegelinian Second Reality,
+un-reason, un-reality, or Babelization.
+Those mechanisms require their separate evidence.
+When they are established, however, they can explain how an incompatible
+programme prevents adverse experience from correcting its claims and how the
+resulting inter-milieu collision becomes resistant to translation and common
+adjudication.
+
 <a id="democracy-as-schutzbalken-gegen-die-macht"></a>
 
 #### 13.2.1 Democracy as *Schutzbalken gegen die Macht* {#democracy-as-schutzbalken-gegen-die-macht}
@@ -4525,6 +5108,19 @@ definitions, dashboard mapping, and claim that familiar electoral machinery is a
 derived implementation are the Culture Mechanics reconstruction developed from
 the user's proposal. They should not be presented as verbatim statements by
 Mausfeld without further textual review.
+
+Democratic containment also depends upon the
+[**demos--jurisdiction--consequence congruence**](0030-epistemic-constitution.semantic-definition.md#democratic-demos-jurisdiction-consequence-congruence)
+specified by the me--we--world correction relation.
+The people who recognize one another as continuing political co-authors, the
+persons and domains bound by a decision, and the community that bears its
+consequences and can make them corrective must overlap sufficiently for
+democracy to function as more than temporary majority authorization.
+The originating territorial intuition remains useful—democracy works best when
+the territorial scope of binding decisions maps sufficiently well onto a living
+political-cultural *we*—but **jurisdiction** is the general design variable.
+Federalism, subsidiarity, functional autonomy, and soft secession can change who
+decides what without moving state borders.
 
 The reconstructed hierarchy is:
 
@@ -6022,6 +6618,79 @@ A merely written constitution is insufficient if carriers socialized in a
 first-order program cannot recognize the lifted order as culture, ignore its
 limits, or seek to supersede it with their own comprehensive answers.
 
+<a id="order-level-culture-recognition-asymmetry"></a>
+
+#### Order-level culture-recognition asymmetry {#order-level-culture-recognition-asymmetry}
+
+**Order-level culture-recognition asymmetry** is the proposed condition in which
+participants formed within different order levels do not use the same cues to
+recognize that a culture is present and binding.
+A participant formed mainly through first-order solidarity may learn to detect
+culture through a dense shared catalogue of concrete answers: sacred history,
+ritual, dress, food, taboo, family form, explicit authority, honoured exemplars,
+and recognizable friends and enemies.
+A lifted order instead locates much of its common binding force in a compressed
+generator governing reciprocal standing, bounded jurisdiction, lawful refusal,
+legitimate opposition, peaceful succession, evidence, and correction.
+
+Its characteristic culture therefore becomes most visible at interfaces:
+
+- the winner refrains from making victory permanent;
+- the loser remains a legitimate member of the order;
+- a person may refuse family, religious, economic, or political authority within
+  the protected jurisdiction;
+- an officeholder remains answerable to rules that also bind allies;
+- an adverse fact or judgment can correct the common answer without making its
+  bearer an enemy;
+- different first-order packages coexist without any receiving compulsory
+  jurisdiction over the others.
+
+Because these manifestations are more procedural, relational, and
+situation-dependent than a shared catalogue of first-order prescriptions, the
+lifted order can be interpreted as cultural emptiness, moral indecision, mere
+bureaucracy, decadent permissiveness, or weakness.
+The asymmetry arises when the lifted host readily recognizes an incoming
+first-order package as culture and treats some of its products as permissible
+hypercultural options, while the first-order participant does not recognize the
+host generator as a culture with legitimate jurisdiction.
+Tolerance can then be read as absence of conviction or as temporary permission
+to be used until one's own programme can become the comprehensive order.
+
+The hypercultural fragment and its source programme must remain separate.
+Selecting another culture's food, music, garment, story, craft, or practice under
+the lifted umbrella does not install that culture's whole mythology, authority
+structure, or claim to govern non-adherents.
+Conversely, treating a comprehensive first-order programme as a collection of
+optional lifestyle pieces can hide the programme's own account of obligation and
+jurisdiction.
+
+Three different diagnoses must therefore be distinguished:
+
+1. **Operative but misrecognized lifted culture:** the generator is affectively,
+   institutionally, and behaviourally reproduced, but the observer's learned
+   recognition template does not classify it as culture.
+2. **Nominal or dead lifted order:** rights and procedures remain on paper while
+   formation, impartial enactment, refusal, succession, and correction no longer
+   make them living and binding.
+3. **Recognized but rejected lifted order:** a participant understands the
+   meta-order and may use its protections instrumentally while refusing its
+   reciprocal limits or seeking to supersede it.
+
+Visible first-order symbolism cannot distinguish these cases.
+Tests must examine conduct across novel collision points, especially when the
+person's own side possesses power, loses a contest, encounters protected refusal,
+or faces adverse evidence.
+The lifted order must also reproduce itself through stories, exemplars, practice,
+institutions, rewards, sanctions, and lived correction; legal abstraction alone
+does not teach why restraint under possible victory is honourable.
+
+**Status:** this is a proposed recognition and formation mechanism, not a
+population essence or a migration verdict.
+Native-born participants can lack lifted-order competence, migrants can already
+possess it, and either can learn, reject, simulate, or lose it.
+The migration-sensitive population dynamic belongs to the
+[culture-mixing and Babelization mechanism](0040-mythology-construction.semantic-definition.md#culture-mixing-as-one-breakdown-mechanism).
+
 ### 13.4 Compatibility with subordinate programs
 
 The frequently repeated claim that the United States Constitution presupposes a
@@ -7057,6 +7726,10 @@ current policy configuration
 → correction, reversal, or next update
 ```
 
+The loop produces [***Bewährung* through corrigible reality contact**](0030-epistemic-constitution.semantic-definition.md#bewaehrung-through-corrigible-reality-contact), not merely persistence, only where materially varied exposure can generate preserved adverse signals, affected persons and rival accounts retain correction standing, and failure can actually produce revision, rollback, or abandonment.
+Time enlarges the possible test history but does not prove that these conditions operated.
+The fallibilist mnemonic “wir irren uns empor” names cumulative learning through corrected error, not a guarantee that every iteration rises, that the current policy is true, or that practical viability establishes moral legitimacy.
+
 The literal machine-learning algorithm presupposes mathematical properties that
 societies ordinarily lack: a specified loss function, a parameterized search
 space, repeated samples, an estimable gradient, and sufficiently stable causal
@@ -7471,6 +8144,25 @@ not supply the terms **soft secession**, **reversed legal priority**, the
 Landkreis experimental topology, the SGD comparison, or the capture-resistance
 mechanism developed here.
 
+The present translation also serves the
+[demos--jurisdiction--consequence congruence](0030-epistemic-constitution.semantic-definition.md#democratic-demos-jurisdiction-consequence-congruence)
+required for democratic correction.
+It can move a binding first-order decision toward the living cultural *we*
+capable of carrying disagreement and bounded defeat while leaving the common
+lifted shell responsible for person-standing, movement, appeal, peaceful
+succession, infrastructure, and cross-jurisdictional consequences.
+The aim is not exact identity among people, territory, and law.
+It is closer functional alignment among political co-authorship, the scope of
+compulsory decision, and the community whose experience must be able to correct
+that decision.
+In the controlled [cultural-mitosis and jurisdictional-cytokinesis
+image](0050-culture-mechanics-analogies.semantic-inventory.md#cultural-mitosis-and-jurisdictional-cytokinesis),
+federalism, subsidiarity, functional autonomy, and soft secession can perform
+**partial jurisdictional cytokinesis**: selected compulsory decisions are
+separated without necessarily dividing territory or dissolving the lifted common
+shell. The image does not imply literal biology, require prior cultural fission,
+or make jurisdictional differentiation the right response to every disagreement.
+
 #### 13.11.2 A “stroke of the pen” legal translation
 
 Parallel policy learning requires genuine alternative arrangements. If every
@@ -7601,6 +8293,14 @@ The fork requires all of the following at the relevant decision interface:
 - one common output is nevertheless required under the existing jurisdiction;
 - voluntary agreement, translation, and correction have failed or cannot arrive
   before the decision must be made.
+
+[Cultural-epistemic
+fission](0040-mythology-construction.semantic-definition.md#cultural-epistemic-fission)
+is one route toward this conjunction, not another name for it. Two or more
+separately reproducing cloud--eye ecologies can remain interoperable and accept a
+common judge. The fork arises only where their continued jurisdictional
+non-separation also leaves an unavoidable binding output after mutually legitimate
+adjudication has failed.
 
 Before declaring that this conjunction holds, test whether the actor's
 acknowledgment has merely been mistaken for the only correction route. [**Bounded
@@ -8496,15 +9196,22 @@ and neither official nor hostile use of *fascist* establishes one.
 **Proposed contribution:** hard case for parent-versus-descendant attribution,
 fatal-offspring comparison, reformability, deceptive self-limitation, and burden
 under requested power.  
-**Current status:** charged application hypothesis requiring dedicated primary
-and comparative source review. The present module does not establish its factual
-premises or classify every Muslim carrier, community, institution, state,
-tradition, or interpretation alike.  
-**Required evidence:** Qur'anic and hadith source criticism, prophetic biography,
-jurisprudential traditions, variation across schools and periods, political and
-geopolitical causes, terrorism data and denominators, reform movements, treatment
-of dissent and apostasy, institutions under both minority and majority
-conditions, and comparisons with other programs.  
+**Current status:** differentiated application. The [canonical-classical
+apostasy-death
+configuration](#theological-interpretation-canonical-classical-apostasy-law-and-the-satanic-hack-classification)
+is now source-layered and classified under the conditional Christian theological
+model. The wider parent-level claim about Islam, jihad, recurrent terrorism, and
+resistance to reform remains an application hypothesis whose further factual and
+comparative gates are not discharged by the apostasy finding alone. Neither level
+classifies every Muslim carrier, community, institution, state, tradition, or
+interpretation alike.
+**Required evidence for the wider claim:** Qur'anic and hadith source criticism,
+prophetic biography, jurisprudential traditions, variation across schools and
+periods, political and geopolitical causes, terrorism data and denominators,
+reform movements, institutions under both minority and majority conditions, and
+comparisons with other programmes. The completed apostasy-law analysis must be
+carried into that review as evidence rather than reset to an unexamined
+controversy.
 **Self-attribution test:** when perpetrators seriously proclaim Islamic
 authorization, believe the proclamation first as evidence of their own operative
 allegiance and treat it as an immediate program-level warning rather than
@@ -10090,6 +10797,21 @@ Every serious program-level application should state:
     remedy fit, advertised object, operative object, causal predictions, feedback,
     failure conditions, and stop rules; and any actor-specific evidence of error,
     fabrication, concealment, pretext, or objective substitution.
+43. where a propagator claim is material: the declared population, programme,
+    jurisdiction, interface, period, and outcome; which variables are treated as
+    state, slow parameter, input, disturbance, and observation; the proposed
+    quotient and preserved invariants; and whether apparently equivalent states
+    have equivalent successors under matched conditions;
+44. the temporal handoffs from representation through persons, field,
+    institution, consequence, sensing, correction, and memory; pre-intervention
+    baselines; source provenance; feedback sign, delay, threshold, bottleneck,
+    saturation, asymmetry, and serious rival generative explanations; and
+45. where persistence or steering is alleged: evidence that the initiating input
+    was removed or varied, the observation period relative to relevant formative
+    and institutional timescales, what persisted, what reversal required, and the
+    separate evidence for actor, access, selected input, temporal nexus,
+    anticipated or knowingly exploited mechanism, and material causal
+    contribution.
 
 ### 16.2 Core Program Alignment Audit
 
@@ -10966,7 +11688,11 @@ the causal claim.
 24. **Cultural WMD is an analogy, not a weapon or legal verdict.**
 25. **Failure to earn political trust is not loss of ordinary person-level
     rights.**
-26. **Pluralism is a normative Culture Strategy and can fail.**
+26. **Pluralism is a normative Culture Strategy and can fail.** Equal basic
+    standing belongs to concrete persons, not automatically to every Culture
+    Program's truth claims, normative direction, entrusted authority, or demand
+    for coercive jurisdiction. An adverse programme judgment does not cancel its
+    carriers' person-level rights.
 27. **Market success is evidence, not truth.**
 28. **Public contest is not a substitute for empirical reality or due process.**
 29. **Sublimation can serve destructive ends.**
@@ -11478,6 +12204,22 @@ the causal claim.
      anti-establishment, or elite do not establish renewable identity, grievance
      institutional convertibility, organic mendacity, Ideology, ressentiment, or
      death-drive orientation.
+147. **Bounded enlistment is not moral innocence.** A limited and reversible
+     We-mode can serve rescue, production, defence, domination, or error; its
+     boundedness protects authorship and correction but does not settle the end.
+148. **Exit cost is not automatically exit sovereignty.** Lost association,
+     disappointment, relocation cost, completed contractual duties, protection
+     of third parties, and lawful public obligations require separate treatment.
+     The sovereignty finding concerns a continuing claim over the leaver as a
+     person, not every consequence of departure.
+149. **Costly sacrifice is neither proof nor disproof of truth.** The
+     sacrificial-proof classification requires the additional audience and
+     authority-renewal loop; courage, protection, coercion, desperation, love,
+     status signalling, and strategic commitment remain rivals.
+150. **The generic mechanism does not classify a religion, law, or historical
+     case.** Doctrinal texts, interpretive authority, jurisprudence, historical
+     enforcement, present law and practice, reforms, actor attribution, and rival
+     explanations must remain differentiated in any later application.
 
 ## 18. Open questions and research program
 
@@ -12002,6 +12744,17 @@ the causal claim.
 172. When does an epistemic join remain corrigible collective reindexing, when
      does it contribute to a successor-bearing cultural nucleus, and which
      independent-evidence and false-coherence tests discriminate the transition?
+173. Which observable exit responses distinguish grief, loss of voluntary
+     association, and lawful residual obligation from a programme's claim to
+     continuing sovereignty over the leaver?
+174. Which audience, authority, recurrence, and cost-escalation measures can
+     distinguish ordinary costly commitment from a sacrificial proof loop?
+175. Does the exercise of costly obedience increase confidence in a programme
+     independently of evidence about its claims, and under which carrier
+     topologies is that transfer strongest?
+176. Which institutional forms make collective authority genuinely interruptible
+     by one harmed person, an outsider, conscience, contrary consequence,
+     refusal, or legitimate defeat rather than merely declaring those limits?
 
 ## 19. Provenance and epistemic status
 
@@ -12019,6 +12772,41 @@ The terminology migration and integrated construct were developed through
 separate, unpublished project discussions. Their adopted formulation is stated
 here; those development records are historical provenance, not a second
 authority for readers.
+The culture-propagator programme projection, its separation of genealogical,
+programme-identity, hazard, and offspring-causation quotients, programme
+state decomposition, transition signatures, graded inheritance and change-point
+rules, transition-surface inventory, the generic
+incremental-institutional-ratchet relation, and
+adversarial-reflexive-attractor-steering specialization are project-developed
+formulations. The general propagator is owned by *Culture Mechanics*; this
+document owns only their programme-ecology use. The adversarial specialization
+states a threat capability and attribution gate, not evidence that a named actor
+used it.
+The later theory-development discussion supplied bounded enlistment,
+self-subordinating collective authority, the exit-sovereignty test,
+sacrificial boundary repair, the sacrificial proof loop, and double sacrifice.
+Their generic definitions are integrated here as project constructions.
+The later source-sensitive review integrated the conditional Christian
+satanic-hack interpretation and its canonical-classical Islamic apostasy-law
+application.
+*Sahih al-Bukhari* 6922 and *Sahih Muslim* 1676c supply the canonical Sunni text
+layer; the Oxford overview and the Yaqeen discussion supply convergent evidence
+about the classical juristic consensus; the USCIRF compendium supplies the cited
+contemporary primary-law survey; IslamQA supplies the stated contemporary
+conservative articulation; Qur'an 2:256 and Dar al-Ifta supply the internal
+reformist route.
+The historical-enforcement layer remains explicitly incomplete and is not
+inferred from doctrine or contemporary law.
+The conclusion that the specified canonical-classical juridical configuration
+instantiates the satanic hack is the project's conditional theological
+classification, not language used by those sources.
+Michael Lecker's presentation of the Ibn Isḥāq/Ibn Hishām Muḥayyiṣa report
+supplies the transmitted narrative; the sacrificial-proof-loop reading and the
+formulation that possession becomes its own proof are Culture Mechanics
+interpretations.
+The wider Egyptian, Greek, Norse, and other sacrificial-religion class is a
+comparative Christian theological hypothesis whose particular historical
+instances require tradition-specific evidence.
 The originating user supplied the counter-movement maxim; the claim that
 consequential joint practice can create the codebook overlap required for
 half-sentence coordination; the narrower intergenerational, bundled, and
@@ -16589,6 +17377,44 @@ Culture Program
 └── Culture Strategy
     └── Culture-Embedded Strategy
 
+culture-propagator programme projection
+→ declare genealogical, programme-identity, hazard, or offspring-causation quotient
+→ test load-bearing generator, authority, jurisdiction, correction, reproduction,
+  defeat, and succession under specified stress
+→ trace carrying-structure and offspring transitions through time
+≠ shared name, ancestry, surface wrapper, or one hazard establishes complete identity
+
+ordinary endogenous evolution, exogenous shock, declared reform,
+opportunistic exploitation, and adversarial reflexive attractor steering
+→ distinct forcing regimes within one propagator
+→ capture is one possible outcome, not a synonym for intervention or steering
+→ actor-specific steering requires actor + access + selected input + temporal nexus
+  + anticipated or knowingly exploited mechanism + material causal contribution
+≠ pathway proves use, system transition proves director, or downstream carriage
+  transmits intent and guilt
+
+equal basic standing of concrete persons
+≠ equal truth or reality-answerability of every Culture Program
+≠ equal person-preservation, life support, capability production, or corrigibility
+≠ equal entitlement to public trust or coercive jurisdiction
+
+person-centred Humanist--liberal lifted Culture Strategy
+→ project-prioritized normative proposal
+→ person-preserving + life-supporting + capability-producing
+  + reality-answerable + corrigible
+→ broad but bounded first-order freedom
+≠ cultureless neutrality, automatic suppression, or an impartial verdict supplied by reality alone
+
+order-level culture-recognition asymmetry
+→ first-order commonality is learned as the visible template for culture
+→ a compressed lifted generator can be misrecognized as cultural emptiness
+≠ proof that the host order is living rather than merely written
+≠ proof that the observer cannot learn or already rejects the lifted order
+
+hypercultural adoption of a cultural element
+≠ installation of its source programme
+≠ authorization of the source programme's claim to compulsory jurisdiction
+
 ideological generator
 → can exist before sufficient installation
 
@@ -16630,6 +17456,47 @@ carrier topology
 → ecology-specific operative configuration
 → a weak average can coexist with a strongly animated high-gain carrier stratum
 ≠ church, sect, network, profession, private, ideological, or fundamentalist are synonyms
+
+bounded enlistment
+→ task- and jurisdiction-limited We-mode
++ personal conscience, outsider standing, refusal, correction, and return remain available
+→ possible disciplined common action without comprehensive ownership
+
+self-subordinating collective authority
+→ harmed person, outsider, conscience, reality, lawful refusal, and legitimate defeat can interrupt
+→ programme continuation and expansion are not the supreme good
+
+exit-sovereignty test
+→ ask what authority the programme claims after repudiation or departure
+→ distinguish ordinary exit costs and lawful obligations from coercive retention
+  and claimed disposal authority
+
+defection, contradiction, defeat, or visible corrigibility threatens an absolute boundary
+→ boundary sacrifice restores the boundary and displays programme supremacy
+→ displayed power is interpreted as truth or authority
+→ sacrificial proof loop
+≠ costly commitment establishes truth, goodness, jurisdiction, or subjecthood absorption
+
+victim sacrificed to preserve programme boundary
++ executor yields personal authorship to the programme
+→ possible double sacrifice
+≠ perverse instrumentality and sacrifice-as-proof are identical
+
+[conditional Christian theological application]
+canonical Sunni apostasy texts
++ classical juristic death rule
++ recantation restores protection
+→ submission and prohibited exit operate as sovereignty test
+→ persisting apostate becomes disposable for sacred boundary repair
+→ canonical-classical juridical configuration instantiates satanic hack
+≠ historical enforcement frequency, contemporary uniformity, or every Muslim's assent
+
+Muḥayyiṣa report:
+sacred command defeats personal bond
+→ observed possession displays superpersonal power
+→ power over carrier is read as proof of divine truth
+→ conversion and renewed field authority
+→ possession becomes its own proof
 
 strategic Culture Program concealment
 → knowingly suppress or falsify allegiance, authorization, intention,

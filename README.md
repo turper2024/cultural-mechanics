@@ -1,4 +1,4 @@
-# Culture Mechanics ChatGPT Workflows
+# Culture Mechanics ChatGPT Project
 
 ## Instructions for participants
 
@@ -12,51 +12,33 @@ to a historical, social, political, organizational, or personal phenomenon, or t
 help refine the theory itself. You do not need to know the framework's terminology,
 and you may write in your preferred language and at an ordinary level of detail.
 
-There are two ways to work: an ordinary standalone ChatGPT chat or a reusable
-ChatGPT Project. The flexible instruction profile works with either. The structured
-two-pass profile is designed for a Project.
+Use a reusable ChatGPT Project. Configure it once with the instruction file, the
+knowledge guide, and all seven individual theory sources; then start each question
+in a chat within that Project.
 
-The flexible profile can also execute a self-contained candidate-method test.
+The Project profile can also execute a self-contained candidate-method test.
 Attach the generic method to the current chat, then paste the complete short run
-message into the ordinary chat field. This keeps the Application Packet in the
+message into that Project chat. This keeps the Application Packet in the
 immediate message context and gives the supplied procedure task-local control
 without making the candidate an authoritative Project source. Ordinary questions
 continue to use the general analytic workflow.
 
 The screenshots show the English ChatGPT interface available when this package was
-created. They apply to the Project option. Labels, language, or layout may change as
+created. Labels, language, or layout may change as
 the interface evolves.
 
-The knowledge guide is required in both options because the instruction profiles
-use it for source routing and interpretation. Always attach or upload
-`0000-culture-mechanics.guide.md`; neither the combined theory file nor the core
-theory file replaces it.
+The knowledge guide is required because the instruction profile uses it for source
+routing and interpretation. The generated core and all-theory bundles are not
+substitutes for the eight individual Project uploads.
 
-#### Option 1 — Ordinary standalone chat
+The package also contains the optional interactive research map
+`build/assets/html/author_work_focus_map.html`. Open it directly in a browser to
+explore authors, works, provisional focus ratings, and passage-verified
+relationships. The self-contained page works offline, although its public source
+links require internet access. It is a non-authoritative aid for human readers;
+**do not attach or upload it as a ChatGPT source.**
 
-1. Start a new ordinary ChatGPT chat.
-2. Choose a source setup:
-   - For the simplest full-source setup, attach
-     `0000-culture-mechanics.guide.md` and
-     `build/md/0000-culture-mechanics.all.md`.
-   - For modular source selection, attach
-     `0000-culture-mechanics.guide.md` and
-     `build/md/0000-culture-mechanics.core.md`. Add an individual optional Markdown
-     source from `build/md/` later when the question needs it.
-3. Open `0000-culture-mechanics.project-instructions.1.md`, copy its complete
-   contents, and paste them into the opening message.
-4. Add your question naturally. You can write, for example: “Please analyze the
-   following question through Culture Mechanics: …” For theory development, say
-   what you want to clarify, criticize, compare, or refine.
-5. If ChatGPT identifies a materially needed source that is not attached, add the
-   named file and ask it to continue. If the named file is unavailable, do not ask
-   ChatGPT to invent its contents.
-6. Near the end of a theory-development conversation, you may open
-   `0000-culture-mechanics.theory-development-review-prompt.md`, copy its complete
-   contents, and paste them into the current chat. It asks for a structured
-   inventory of candidates for later human review.
-
-#### Option 2 — ChatGPT Project
+#### ChatGPT Project
 
 1. Select **Projects** in the ChatGPT sidebar
    ([screenshot](docs/10-project-selection.png)).
@@ -65,31 +47,32 @@ theory file replaces it.
    project name, such as `culture-mechanics-questions`, keep **Default memory**
    unless you have a reason to choose another setting, and select **Create project**
    ([screenshot](docs/30-create-project.png)).
-3. Choose one instruction profile:
-   - `0000-culture-mechanics.project-instructions.1.md` gives direct, flexible
-     application or theory-refinement responses without a mandatory two-pass
-     exchange.
-   - `0000-culture-mechanics.project-instructions.2.md` uses a structured
-     relevance-assessment and explanation workflow.
-4. In the new Project, open the three-dot menu at the upper right
+3. In the new Project, open the three-dot menu at the upper right
    ([screenshot](docs/40-settings-and-sources.png)) to open
-   **Project settings**. Copy the complete contents of the chosen instruction file,
-   paste them into the **Instructions** field, and close the settings window
+   **Project settings**. Copy the complete contents of
+   `0000-culture-mechanics.project-instructions.md`, paste them into the
+   **Instructions** field, and close the settings window
    ([screenshot](docs/50-settings.png)).
-5. Select **Sources**, then **Add sources**, and upload
-   `0000-culture-mechanics.guide.md` and
-   `build/md/0000-culture-mechanics.core.md`. Confirm that both appear in the source
-   list ([screenshot](docs/60-sources.png)). The screenshot shows
-   `guide(1).md` because that local copy had acquired a duplicate-file suffix; use
-   the `0000-culture-mechanics.guide.md` supplied in this package.
-6. Return to **Chats**, start a chat in the Project, and ask your question naturally.
-   With profile `.1`, ChatGPT should normally answer directly. With profile `.2`,
-   it should first return a relevance assessment. Check whether the question and
-   proposed theory sections were understood; then reply “continue” when suitable.
-7. If ChatGPT names a supplementary source, find the individual Markdown file
-   under `build/md/`, add it to the Project sources, and ask ChatGPT to continue. If
-   the named file is unavailable, do not ask ChatGPT to invent its contents.
-8. Near the end of a theory-development conversation, you may paste the complete
+4. Select **Sources**, then **Add sources**
+   ([screenshot](docs/60-sources.png)), and upload the guide plus these seven
+   individual semantic Markdown files from `build/md/`:
+   - `0000-culture-mechanics.guide.md` (at the package root);
+   - `0010-culture-mechanics.semantic-definition.md`;
+   - `0020-epistemic-agency.semantic-definition.md`;
+   - `0030-epistemic-constitution.semantic-definition.md`;
+   - `0030-linguistic-tricks.semantic-inventory.md`;
+   - `0040-mythology-construction.semantic-definition.md`;
+   - `0050-culture-mechanics-analogies.semantic-inventory.md`;
+   - `0060-culture-program-ecology.semantic-definition.md`.
+   Confirm that all eight appear in the source list. If you have the
+   repository rather than the ZIP, the same seven theory files are at its root.
+5. Return to **Chats**, start a chat in the Project, and ask your question naturally.
+   For example: “Please analyze the following question through Culture Mechanics:
+   …” For theory development, say what you want to clarify, criticize, compare,
+   or refine. ChatGPT should answer directly and use the relevant uploaded sources.
+6. If ChatGPT says a materially needed source is missing, verify that the named
+   file is among the eight Project sources. Do not ask it to invent missing content.
+7. Near the end of a theory-development conversation, you may paste the complete
    terminal review prompt into the current chat. Do not put that prompt into the
    Project instructions or add it as a theory source.
 
@@ -98,15 +81,18 @@ ChatGPT names *Systems Leadership: Creating Positive Organisations*, that is an
 external book not included in this package. Read the book rather than asking
 ChatGPT to reconstruct its method from the supplied theory files.
 
-One optional file is
-`build/md/0050-culture-mechanics-analogies.semantic-inventory.md`. ChatGPT may request
-it even when your question does not mention an analogy, if a controlled comparison
+The already uploaded
+`build/md/0050-culture-mechanics-analogies.semantic-inventory.md` may be relevant
+even when your question does not mention an analogy, if a controlled comparison
 can clarify a mechanism, expose a boundary, or suggest a possible test. It also
 contains explicitly labelled mappings to selected neighbouring theories, including
 Julian Jaynes and Joscha Bach, and the discourse theory of Torfing, Laclau, and
 Mouffe, together with Venkatesh Rao's account of script unraveling. It should
 pair the inventory with the primary theory source and must not treat resemblance as
-evidence. Its nuclear-reactor mapping uses Pageau's Grail question to audit whom
+evidence. Its propagator mapping distinguishes typed state, transition operator,
+memory, forcing, observation, quotient compatibility, attracting regimes, and
+hysteresis without asserting a universal culture equation or treating dynamic
+stability as truth or legitimacy. Its nuclear-reactor mapping uses Pageau's Grail question to audit whom
 or what produced capability serves while keeping capability, drive valence,
 destructive sublimation, un-reason, and Ragnarök trajectory distinct.
 Its *Emperor's New Clothes* mapping shows how a self-sealing status test and
@@ -129,14 +115,17 @@ Its Iago miniature shows rival displacement and captured betrayal detection in a
 single fictional role topology without supplying empirical or person-level
 evidence.
 
-Another optional file is
-`build/md/0060-culture-program-ecology.semantic-definition.md`. Add it for questions
+The already uploaded
+`build/md/0060-culture-program-ecology.semantic-definition.md` is relevant for questions
 about Culture Programs, Culture Strategy versus Pure-Ideology, Ideology as
 installed social un-reality defended through un-reason, ideological generators,
 Systemic Ideology, Minogue-ideology and its oppression--revelation--liberation
 grammar, the content-axis separation from Fascism, Culture-Embedded Strategy,
 reality testing, mixed cultural braids, program competition, fanatic or
-fatal offspring, Culture Program capture, program disharmony, objective
+fatal offspring, the programme-level propagator projection with separate
+genealogical, identity, hazard, and offspring-causation quotients, transition
+signatures, forcing surfaces, and separately gated adversarial steering, Culture
+Program capture, program disharmony, objective
 substitution, gradual or glacial capture, Culture Program carrying structure,
 money flows, teaching or recruitment infrastructure, organizational
 countermeasures, program-derived alignment metrics, polity-scale
@@ -305,9 +294,7 @@ For ordinary analytic questions, the answer should distinguish claims made by th
 theory from external facts, case-specific inferences, and candidate refinements,
 and should state limitations or alternative interpretations. An explicitly
 invoked self-contained method instead controls which of these operations remain
-backstage and which appear in its prescribed output. With profile `.2`, the
-ordinary analytic distinctions appear in the second response after the relevance
-assessment. For a substantially different question, start a new chat so that
+backstage and which appear in its prescribed output. For a substantially different question, start a new chat so that
 source selection and interpretation begin afresh.
 
 ### Deutsch
@@ -319,54 +306,36 @@ Weiterentwicklung der Theorie mitzuwirken. Sie müssen die Fachbegriffe der Theo
 nicht kennen und können in Ihrer bevorzugten Sprache und in einer alltäglichen Form
 schreiben.
 
-Es gibt zwei Arbeitsweisen: einen gewöhnlichen, eigenständigen ChatGPT-Chat oder ein
-wiederverwendbares ChatGPT-Projekt. Das flexible Anweisungsprofil funktioniert mit
-beiden. Das strukturierte zweistufige Profil ist für ein Projekt vorgesehen.
+Verwenden Sie ein wiederverwendbares ChatGPT-Projekt. Richten Sie es einmal mit
+der Anweisungsdatei, dem Wissensleitfaden und allen sieben einzelnen Theoriequellen
+ein; beginnen Sie danach jede Frage in einem Chat innerhalb dieses Projekts.
 
-Mit dem flexiblen Profil kann außerdem eine in sich geschlossene Kandidatenmethode
+Mit dem Projektprofil kann außerdem eine in sich geschlossene Kandidatenmethode
 gezielt getestet werden. Hängen Sie dazu die generische Methode an den aktuellen
 Chat an und fügen Sie anschließend die kurze generierte Ausführungsnachricht in das
-gewöhnliche Nachrichtenfeld ein. So bleibt das Anwendungspaket im unmittelbaren
+Nachrichtenfeld dieses Projektchats ein. So bleibt das Anwendungspaket im unmittelbaren
 Nachrichtenkontext. Das Verfahren steuert lokal seinen Ablauf und seine
 Ausgabeform, ohne dadurch zu einer maßgeblichen Projektquelle zu werden.
 Gewöhnliche Fragen folgen weiterhin dem allgemeinen Analyseverfahren.
 
 Die Bildschirmfotos zeigen die englische ChatGPT-Benutzeroberfläche zum Zeitpunkt
-der Paketerstellung. Sie gelten für die Projektvariante. Beschriftung, Sprache oder
+der Paketerstellung. Beschriftung, Sprache oder
 Anordnung können sich mit der Benutzeroberfläche ändern.
 
-Der Wissensleitfaden ist für beide Möglichkeiten erforderlich, weil die
-Anweisungsprofile ihn für die Quellenauswahl und Auslegung verwenden. Hängen Sie
-`0000-culture-mechanics.guide.md` deshalb immer an oder laden Sie die Datei hoch;
-weder die zusammengefasste Theoriedatei noch die Kerntheoriedatei ersetzt sie.
+Der Wissensleitfaden ist erforderlich, weil das Anweisungsprofil ihn für die
+Quellenauswahl und Auslegung verwendet. Die erzeugten Kern- und Gesamtbündel
+ersetzen die acht einzelnen Projektquellen nicht.
 
-#### Möglichkeit 1 — Gewöhnlicher eigenständiger Chat
+Das Paket enthält außerdem die optionale interaktive Forschungskarte
+`build/assets/html/author_work_focus_map.html`. Öffnen Sie sie direkt in einem
+Browser, um Autoren, Werke, vorläufige Schwerpunktbewertungen und durch konkrete
+Textstellen belegte Beziehungen zu erkunden. Die in sich geschlossene Seite
+funktioniert offline; ihre öffentlichen Quellenlinks benötigen jedoch einen
+Internetzugang. Sie ist ein nicht maßgebliches Hilfsmittel für menschliche Leser;
+**hängen Sie sie nicht als ChatGPT-Quelle an und laden Sie sie nicht als solche
+hoch.**
 
-1. Beginnen Sie einen neuen gewöhnlichen ChatGPT-Chat.
-2. Wählen Sie eine Quellenausstattung:
-   - Für die einfachste Ausstattung mit allen Quellen hängen Sie
-     `0000-culture-mechanics.guide.md` und
-     `build/md/0000-culture-mechanics.all.md` an.
-   - Für eine modulare Quellenauswahl hängen Sie
-     `0000-culture-mechanics.guide.md` und
-     `build/md/0000-culture-mechanics.core.md` an. Fügen Sie später bei Bedarf eine
-     einzelne optionale Markdown-Quelle aus `build/md/` hinzu.
-3. Öffnen Sie `0000-culture-mechanics.project-instructions.1.md`, kopieren Sie den
-   vollständigen Inhalt und fügen Sie ihn in die erste Nachricht ein.
-4. Ergänzen Sie Ihre Frage in natürlicher Sprache. Sie können zum Beispiel
-   schreiben: „Bitte analysiere die folgende Frage mithilfe der Kulturmechanik:
-   …“ Wenn Sie die Theorie weiterentwickeln möchten, beschreiben Sie, was Sie
-   klären, kritisieren, vergleichen oder verfeinern möchten.
-5. Falls ChatGPT eine wesentlich benötigte, aber nicht angehängte Quelle nennt,
-   fügen Sie die genannte Datei hinzu und bitten Sie ChatGPT fortzufahren. Falls die
-   Datei nicht verfügbar ist, bitten Sie ChatGPT nicht, ihren Inhalt zu erfinden.
-6. Gegen Ende eines Gesprächs zur Theorieentwicklung können Sie
-   `0000-culture-mechanics.theory-development-review-prompt.md` öffnen, den
-   vollständigen Inhalt kopieren und in den laufenden Chat einfügen. Der Text
-   fordert ein strukturiertes Inventar von Kandidaten für eine spätere menschliche
-   Prüfung an.
-
-#### Möglichkeit 2 — ChatGPT-Projekt
+#### ChatGPT-Projekt
 
 1. Wählen Sie in der ChatGPT-Seitenleiste **Projects** (Projekte)
    ([Bildschirmfoto](docs/10-project-selection.png)).
@@ -377,37 +346,36 @@ weder die zusammengefasste Theoriedatei noch die Kerntheoriedatei ersetzt sie.
    für eine andere Einstellung haben, und wählen Sie **Create project** (Projekt
    erstellen)
    ([Bildschirmfoto](docs/30-create-project.png)).
-3. Wählen Sie ein Anweisungsprofil:
-   - `0000-culture-mechanics.project-instructions.1.md` ermöglicht unmittelbare,
-     flexible Antworten zur Anwendung oder Theorieentwicklung ohne verpflichtenden
-     zweistufigen Austausch.
-   - `0000-culture-mechanics.project-instructions.2.md` verwendet ein strukturiertes
-     Verfahren aus Relevanzprüfung und Erklärung.
-4. Öffnen Sie im neuen Projekt über das Dreipunktmenü oben rechts
+3. Öffnen Sie im neuen Projekt über das Dreipunktmenü oben rechts
    ([Bildschirmfoto](docs/40-settings-and-sources.png)) die
    **Project settings** (Projekteinstellungen). Kopieren Sie den vollständigen
-   Inhalt der gewählten Anweisungsdatei, fügen Sie ihn in das Feld
+   Inhalt von `0000-culture-mechanics.project-instructions.md`, fügen Sie ihn in das Feld
    **Instructions** (Anweisungen) ein und schließen Sie das Einstellungsfenster
    ([Bildschirmfoto](docs/50-settings.png)).
-5. Wählen Sie **Sources** (Quellen) und danach **Add sources** (Quellen hinzufügen).
-   Laden Sie `0000-culture-mechanics.guide.md` und
-   `build/md/0000-culture-mechanics.core.md` hoch. Prüfen Sie, ob beide in der
-   Quellenliste erscheinen
-   ([Bildschirmfoto](docs/60-sources.png)). Im Bildschirmfoto
-   erscheint `guide(1).md`, weil diese lokale Kopie bereits einen Namenszusatz für
-   eine Dateidublette erhalten hatte. Verwenden Sie die in diesem Paket enthaltene
-   Datei `0000-culture-mechanics.guide.md`.
-6. Kehren Sie zu **Chats** zurück, beginnen Sie im Projekt einen Chat und stellen
-   Sie Ihre Frage in natürlicher Sprache. Mit Profil `.1` sollte ChatGPT
-   normalerweise direkt antworten. Mit Profil `.2` sollte es zuerst eine
-   Relevanzprüfung liefern. Prüfen Sie, ob die Frage und die vorgeschlagenen
-   Theorieabschnitte richtig verstanden wurden, und antworten Sie danach
-   gegebenenfalls mit „weiter“.
-7. Falls ChatGPT eine ergänzende Quelle nennt, suchen Sie die einzelne
-   Markdown-Datei unter `build/md/`, fügen Sie sie den Projektquellen hinzu und bitten
-   Sie ChatGPT fortzufahren. Falls die Datei nicht verfügbar ist, bitten Sie
-   ChatGPT nicht, ihren Inhalt zu erfinden.
-8. Gegen Ende eines Gesprächs zur Theorieentwicklung können Sie den vollständigen
+4. Wählen Sie **Sources** (Quellen) und danach **Add sources** (Quellen hinzufügen)
+   ([Bildschirmfoto](docs/60-sources.png)). Laden Sie den Leitfaden und diese sieben einzelnen Markdown-Theoriequellen aus
+   `build/md/` hoch:
+   - `0000-culture-mechanics.guide.md` (im Paketstamm);
+   - `0010-culture-mechanics.semantic-definition.md`;
+   - `0020-epistemic-agency.semantic-definition.md`;
+   - `0030-epistemic-constitution.semantic-definition.md`;
+   - `0030-linguistic-tricks.semantic-inventory.md`;
+   - `0040-mythology-construction.semantic-definition.md`;
+   - `0050-culture-mechanics-analogies.semantic-inventory.md`;
+   - `0060-culture-program-ecology.semantic-definition.md`.
+   Prüfen Sie, ob alle acht in der Quellenliste erscheinen.
+   Im Repository statt im ZIP liegen die
+   sieben Theoriedateien unmittelbar im Projektverzeichnis.
+5. Kehren Sie zu **Chats** zurück, beginnen Sie im Projekt einen Chat und stellen
+   Sie Ihre Frage in natürlicher Sprache. Zum Beispiel: „Bitte analysiere die
+   folgende Frage mithilfe der Kulturmechanik: …“ Für die Theorieentwicklung
+   beschreiben Sie, was Sie klären, kritisieren, vergleichen oder verfeinern
+   möchten. ChatGPT sollte direkt antworten und die passenden hochgeladenen
+   Quellen verwenden.
+6. Falls ChatGPT eine wesentlich benötigte Quelle vermisst, prüfen Sie, ob die
+   genannte Datei zu den acht Projektquellen gehört. Bitten Sie ChatGPT nicht,
+   fehlenden Inhalt zu erfinden.
+7. Gegen Ende eines Gesprächs zur Theorieentwicklung können Sie den vollständigen
    abschließenden Prüftext in den laufenden Chat einfügen. Übernehmen Sie diesen
    Text weder in die Projektanweisungen noch in die Theoriequellen.
 
@@ -482,9 +450,9 @@ Rede zuvor selbst rechtswidrig gemacht hat; maßgeblich bleiben unabhängig
 bestimmte gegenseitige Rechte, Belege, Zuständigkeit, Verfahren, Berufung und
 Wiedergutmachung.
 
-Eine der optionalen Dateien ist
-`build/md/0050-culture-mechanics-analogies.semantic-inventory.md`. ChatGPT kann diese
-Datei auch dann anfordern, wenn Ihre Frage keine Analogie erwähnt, sofern ein
+Die bereits hochgeladene Datei
+`build/md/0050-culture-mechanics-analogies.semantic-inventory.md` kann auch dann
+hilfreich sein, wenn Ihre Frage keine Analogie erwähnt, sofern ein
 kontrollierter Vergleich einen Mechanismus verdeutlichen, eine Grenze aufzeigen
 oder einen möglichen Test nahelegen kann. Sie enthält außerdem ausdrücklich als
 solche gekennzeichnete Zuordnungen zu ausgewählten benachbarten Theorien, darunter
@@ -492,6 +460,11 @@ Julian Jaynes und Joscha Bach sowie die Diskurstheorie von Torfing, Laclau und
 Mouffe und Venkatesh Raos Darstellung des Zerfalls von Skripten. Das
 Analogieninventar soll zusammen mit
 der primären Theoriequelle verwendet werden; Ähnlichkeit gilt nicht als Beleg.
+Seine Propagator-Zuordnung unterscheidet typisierten Zustand,
+Transitionsoperator, Gedächtnis, Forcierung, Beobachtung,
+Quotientenverträglichkeit, anziehende Regime und Hysterese, ohne eine universelle
+Kulturgleichung zu behaupten oder dynamische Stabilität als Wahrheit oder
+Legitimität zu behandeln.
 Seine Kernreaktor-Zuordnung verwendet Pageaus Gralsfrage, um zu prüfen, wem oder
 was die hervorgebrachte Fähigkeit dient, und hält dabei Fähigkeit,
 Triebrichtung, destruktive Sublimierung, Un-Vernunft und Ragnarök-Trajektorie
@@ -515,8 +488,8 @@ Kontrollfähigkeit von einer austauschbaren moralischen Verpackung. Sie erlaubt
 eine Chronologie- und Verpackungsinvarianzprüfung, beweist aber weder Vorwand noch
 verborgene Steuerung.
 
-Eine weitere optionale Datei ist
-`build/md/0060-culture-program-ecology.semantic-definition.md`. Fügen Sie sie bei
+Die bereits hochgeladene Datei
+`build/md/0060-culture-program-ecology.semantic-definition.md` ist bei
 Fragen zu Kulturprogrammen, Kulturstrategie im Unterschied zu
 Pure-Ideology, **Ideology** als installiertem Kulturprogramm, das autorisierte
 soziale Un-Wirklichkeit erzeugt und ihre praktische Autorität durch Un-Vernunft
@@ -524,8 +497,12 @@ verteidigt, ideologischen Generatoren, **Systemic Ideology**,
 **Minogue-ideology** als engerem Untertyp aus verborgener Unterdrückung,
 Offenbarung und Befreiung, der Trennung von Ideology als Inhalt und Faschismus
 als morphologischer Form, Culture-Embedded Strategy, Realitätsprüfung, gemischten kulturellen
-Geflechten, Programmkonkurrenz, fanatischen oder tödlichen Nachkommen, Culture
-Program Capture (Übernahme eines Kulturprogramms), Programmdisharmonie,
+Geflechten, Programmkonkurrenz, fanatischen oder tödlichen Nachkommen, der
+programmbezogenen Propagator-Projektion mit getrennten genealogischen,
+Identitäts-, Gefahren- und Nachkommenkausalitäts-Quotienten,
+Transitionssignaturen, Forcierungsflächen und gesondert zu prüfender
+adversarialer Steuerung, Culture Program Capture (Übernahme eines
+Kulturprogramms), Programmdisharmonie,
 Zielsubstitution, schrittweiser oder „glazialer“ Übernahme, aus dem Programm
 abgeleiteten Übereinstimmungsmetriken, der Culture Program Carrying Structure
 (organisatorischen und materiellen Trägerstruktur), Geldflüssen, Lehr- oder
@@ -611,7 +588,7 @@ Ideological-Power-Hazard-Diagnostic, der Verbindung von Cipolla, Bonhoeffer,
 Normopathie und Ponerologie, KI als spekulativem Bienenkönigin- oder
 Common-Mode-Stresstest kultureller Steuerung, der
 kritisch-konstruktivistischen Kandidatenanwendung, *Hegung*, Konfliktfindern,
-kulturellem Kapital, Ehrfurcht oder sublimierter Rivalität hinzu. Halten Sie die
+kulturellem Kapital, Ehrfurcht oder sublimierter Rivalität einschlägig. Halten Sie die
 Fähigkeiten
 getrennt. Behandeln Sie SGD als Analogie, Kennzahlen als manipulierbar und
 Abstimmung mit den Füßen als kostspielig, aber kausal mehrdeutig; Bleiben ist
@@ -714,7 +691,5 @@ externen Tatsachen, fallspezifischen Schlussfolgerungen und vorgeschlagenen
 Theorieänderungen unterscheiden sowie Grenzen oder alternative Deutungen nennen.
 Bei einer ausdrücklich aufgerufenen, in sich geschlossenen Methode bestimmt
 dagegen deren Ausgabevorschrift, welche dieser Arbeitsschritte im Hintergrund
-bleiben und welche in der Antwort erscheinen. Mit Profil `.2` erscheinen die
-gewöhnlichen analytischen Unterscheidungen in der zweiten Antwort nach der
-Relevanzprüfung. Beginnen Sie für eine wesentlich andere Frage einen neuen Chat,
+bleiben und welche in der Antwort erscheinen. Beginnen Sie für eine wesentlich andere Frage einen neuen Chat,
 damit Quellenauswahl und Deutung von Neuem beginnen.

@@ -1,0 +1,700 @@
+digraph CultureProgramEcology {
+  graph [
+    rankdir=TB,
+    bgcolor="#fbfaf7",
+    pad="0.35",
+    nodesep="0.30",
+    ranksep="0.58",
+    splines=polyline,
+    compound=true,
+    newrank=true,
+    fontname="DejaVu Sans",
+    fontsize=24,
+    labelloc=t,
+    label="CULTURE PROGRAM ECOLOGY\nTypology · competition · hazard · pluralist containment"
+  ];
+
+  node [
+    shape=box,
+    style="rounded,filled",
+    color="#4b5563",
+    fillcolor="#ffffff",
+    fontname="DejaVu Sans",
+    fontsize=12,
+    margin="0.14,0.09"
+  ];
+
+  edge [
+    color="#64748b",
+    fontname="DejaVu Sans",
+    fontsize=10,
+    arrowsize=0.75,
+    penwidth=1.2
+  ];
+
+  pluralism_context [
+    label=<
+      <B>PLURALISM: SIDE-BY-SIDE CULTURE PROGRAMS UNDER ONE LIFTED ORDER</B><BR/>
+      <FONT POINT-SIZE="10">the containing frame is itself a proposed reality-answerable Culture Strategy, not neutral absence of culture</FONT>
+    >,
+    fillcolor="#dbeafe",
+    color="#1d4ed8",
+    penwidth=2.0
+  ];
+
+  subgraph cluster_typology {
+    label="ANALYTICAL TYPOLOGY — essence / centre of gravity";
+    color="#94a3b8";
+    fillcolor="#f8fafc";
+    style="rounded,filled";
+    penwidth=1.5;
+
+    program [
+      label=<
+        <B>CULTURE PROGRAM</B><BR/>
+        <FONT POINT-SIZE="10">executable package installed through shared culture-mechanical machinery</FONT>
+      >,
+      fillcolor="#e2e8f0",
+      color="#334155",
+      penwidth=2.0
+    ];
+
+    pure [
+      label=<
+        <B>PURE-IDEOLOGY CULTURE PROGRAM</B><BR/>
+        <FONT POINT-SIZE="10">load-bearing authority cannot be defeated by accessible reality</FONT><BR/>
+        <FONT POINT-SIZE="9">controlled synonym: Culture Hallucination</FONT>
+      >,
+      fillcolor="#fde2e2",
+      color="#9f1239",
+      penwidth=2.2
+    ];
+
+    strategy [
+      label=<
+        <B>CULTURE STRATEGY</B><BR/>
+        <FONT POINT-SIZE="10">accessible reality receives the final right of correction</FONT><BR/>
+        <FONT POINT-SIZE="9">may be false, harmful, or defeated and remain a strategy</FONT>
+      >,
+      fillcolor="#dcefe2",
+      color="#166534",
+      penwidth=2.2
+    ];
+
+    program -> pure [color="#9f1239", penwidth=2.0];
+    program -> strategy [color="#166534", penwidth=2.0];
+
+    { rank=same; pure; strategy; }
+
+    pure_forms [
+      shape=plain,
+      label=<
+        <TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="6" COLOR="#be123c" BGCOLOR="#fff1f2">
+          <TR><TD><B>Familiar Pure-Ideology forms</B></TD></TR>
+          <TR><TD ALIGN="LEFT">Ideology → Minogue-ideology</TD></TR>
+          <TR><TD ALIGN="LEFT">Cultural Essentialism</TD></TR>
+          <TR><TD ALIGN="LEFT">Religion → Sect → Cult</TD></TR>
+          <TR><TD ALIGN="LEFT">Identity / Mentality → Intersectionality</TD></TR>
+          <TR><TD ALIGN="LEFT">Personality Cult</TD></TR>
+        </TABLE>
+      >
+    ];
+
+    strategy_forms [
+      shape=plain,
+      label=<
+        <TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="6" COLOR="#15803d" BGCOLOR="#f0fdf4">
+          <TR><TD><B>Culture Strategy subtypes</B></TD></TR>
+          <TR><TD ALIGN="LEFT">Business Strategy</TD></TR>
+          <TR><TD ALIGN="LEFT">Political Strategy</TD></TR>
+          <TR><TD ALIGN="LEFT"><B>Culture-Embedded Strategy</B></TD></TR>
+          <TR><TD ALIGN="LEFT">Strategic Worldview</TD></TR>
+        </TABLE>
+      >
+    ];
+
+    pure -> pure_forms [color="#9f1239"];
+    strategy -> strategy_forms [color="#166534"];
+    { rank=same; pure_forms; strategy_forms; }
+
+    common [
+      label=<
+        <B>SAME IMPLEMENTATION ANATOMY</B><BR/>
+        <FONT POINT-SIZE="10">SYSTEMIC SKELETON: rules · offices · systems · incentives · feedback · succession</FONT><BR/>
+        <FONT POINT-SIZE="10">LIVING CULTURAL BODY: carriers · mythology · meaning · affect · formation · Beseelung</FONT><BR/>
+        <FONT POINT-SIZE="9"><I>Both branches can be structurally strong and culturally alive.</I></FONT>
+      >,
+      fillcolor="#fef3c7",
+      color="#a16207"
+    ];
+
+    pure_forms -> common [style=dashed, arrowhead=none, color="#a16207"];
+    strategy_forms -> common [style=dashed, arrowhead=none, color="#a16207"];
+
+    culture [
+      label=<
+        <B>CULTURE = ONE MIXED OPERATIVE BRAID</B><BR/>
+        <FONT POINT-SIZE="10">compatible Pure-Ideology + Culture-Strategic components</FONT><BR/>
+        <FONT POINT-SIZE="10">one mythological lens · one local bigOther · not parallel evaluators</FONT>
+      >,
+      fillcolor="#ede9fe",
+      color="#6d28d9",
+      penwidth=2.0
+    ];
+
+    pure_forms -> culture [
+      label="can contribute",
+      color="#9f1239",
+      style=dashed
+    ];
+    strategy_forms -> culture [
+      label="can contribute",
+      color="#166534",
+      style=dashed
+    ];
+    common -> culture [color="#a16207"];
+  }
+
+  pluralism_context -> program [
+    lhead=cluster_typology,
+    label="contains an ecology at population level",
+    color="#1d4ed8",
+    style=dashed
+  ];
+
+  subgraph cluster_axes {
+    label="INDEPENDENT DIMENSIONS — do not infer one from another";
+    color="#7c3aed";
+    fillcolor="#f5f3ff";
+    style="rounded,filled";
+
+    axes [
+      shape=plain,
+      label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#8b5cf6" BGCOLOR="#ffffff">
+          <TR><TD><B>Branch</B></TD><TD ALIGN="LEFT">Culture Strategy ↔ Pure-Ideology</TD></TR>
+          <TR><TD><B>Content</B></TD><TD ALIGN="LEFT">Ideology ↔ no Ideology</TD></TR>
+          <TR><TD><B>Morphology</B></TD><TD ALIGN="LEFT">Fascism ↔ no Fascism</TD></TR>
+          <TR><TD><B>Order</B></TD><TD ALIGN="LEFT">first-order ↔ lifted meta-order</TD></TR>
+          <TR><TD><B>Form</B></TD><TD ALIGN="LEFT">private · collective · ideological form · fundamentalist form</TD></TR>
+          <TR><TD><B>Corrigibility</B></TD><TD ALIGN="LEFT">open ↔ closed / uncorrectable</TD></TR>
+          <TR><TD><B>Animation</B></TD><TD ALIGN="LEFT">Beseelung intensity · jealousy · fanatic offspring</TD></TR>
+          <TR><TD><B>Authority</B></TD><TD ALIGN="LEFT">jurisdiction · entrusted power · coercive capacity</TD></TR>
+          <TR><TD><B>Robustness</B></TD><TD ALIGN="LEFT">capture susceptibility · progeny · catastrophic hazard</TD></TR>
+          <TR><TD><B>Other axes</B></TD><TD ALIGN="LEFT">interoperability · subjecthood absorption</TD></TR>
+        </TABLE>
+      >
+    ];
+  }
+
+  culture -> axes [
+    lhead=cluster_axes,
+    label="analyze along",
+    color="#7c3aed"
+  ];
+
+  subgraph cluster_ecology {
+    label="ECOLOGICAL COMPETITION AND ACCUMULATION";
+    color="#0284c7";
+    fillcolor="#f0f9ff";
+    style="rounded,filled";
+
+    tribunal [
+      label=<
+        <B>Tribunal / moralization route</B><BR/>
+        <FONT POINT-SIZE="10">good–evil classification · purity · loyalty · exclusion</FONT><BR/>
+        <FONT POINT-SIZE="9">projective taboo labeling may reward repeated symbolic attack</FONT><BR/>
+        <FONT POINT-SIZE="9">possible sanction or violence; not every moral judgment</FONT>
+      >,
+      fillcolor="#fff1f2",
+      color="#be123c"
+    ];
+
+    reality_route [
+      label=<
+        <B>Argument / experiment / market route</B><BR/>
+        <FONT POINT-SIZE="10">causal model · trial · feedback · correction · imitation</FONT><BR/>
+        <FONT POINT-SIZE="9">performance is evidence, not truth or legitimacy</FONT>
+      >,
+      fillcolor="#f0fdf4",
+      color="#15803d"
+    ];
+
+    reproduction [
+      label=<
+        <B>Reproduction tendency</B><BR/>
+        <FONT POINT-SIZE="10">carriers · authority · jurisdiction · R</FONT>
+      >,
+      fillcolor="#ffe4e6",
+      color="#be123c"
+    ];
+
+    compound [
+      label=<
+        <B>Compound-return tendency</B><BR/>
+        <FONT POINT-SIZE="10">activity fit · coordination · quality · material capability · buffers</FONT><BR/>
+        <FONT POINT-SIZE="9">analogy, not guaranteed exponential law</FONT>
+      >,
+      fillcolor="#dcfce7",
+      color="#15803d"
+    ];
+
+    pure -> tribunal [ltail=cluster_typology, color="#be123c", constraint=false];
+    strategy -> reality_route [ltail=cluster_typology, color="#15803d", constraint=false];
+    tribunal -> reproduction [color="#be123c"];
+    reality_route -> compound [color="#15803d"];
+
+    { rank=same; tribunal; reality_route; }
+    { rank=same; reproduction; compound; }
+
+    trade [
+      label=<
+        <B>Trade and bounded competition</B><BR/>
+        <FONT POINT-SIZE="10">superior practice may become visible and be copied</FONT><BR/>
+        <FONT POINT-SIZE="9">Wandel durch Handel is possible, not guaranteed</FONT>
+      >,
+      fillcolor="#e0f2fe",
+      color="#0369a1"
+    ];
+
+    sublimation [
+      label=<
+        <B>Sublimated cultivated hostility</B><BR/>
+        <FONT POINT-SIZE="10">cathedrals · Mozart · Gregorian chant · sport · science · Moon flight</FONT><BR/>
+        <FONT POINT-SIZE="9">awe, costly devotion and excellence; can also serve domination</FONT>
+      >,
+      fillcolor="#fef3c7",
+      color="#a16207"
+    ];
+
+    visibility [
+      label=<
+        <B>PROPAGATION–VISIBILITY CONSTRAINT</B><BR/>
+        <FONT POINT-SIZE="10">large-scale, high-fidelity reproduction → observable operative code somewhere</FONT><BR/>
+        <FONT POINT-SIZE="9">secrecy can shift channels but ordinarily trades off against scale or fidelity</FONT>
+      >,
+      fillcolor="#fefce8",
+      color="#a16207"
+    ];
+
+    compound -> trade [color="#15803d"];
+    reproduction -> sublimation [color="#a16207", style=dashed];
+    compound -> sublimation [color="#a16207", style=dashed];
+    reproduction -> visibility [color="#a16207", style=dashed];
+    compound -> visibility [color="#a16207", style=dashed];
+    { rank=same; trade; sublimation; visibility; }
+  }
+
+  axes -> tribunal [lhead=cluster_ecology, style=invis];
+
+  subgraph cluster_problem {
+    label="PROBLEM AND HAZARD DIAGNOSIS";
+    color="#b91c1c";
+    fillcolor="#fff7ed";
+    style="rounded,filled";
+    penwidth=1.7;
+
+    supremacy [
+      label=<
+        <B>COMPULSORY SUPREMACY</B><BR/>
+        <FONT POINT-SIZE="10">first-order answers claim universal civil jurisdiction</FONT><BR/>
+        <FONT POINT-SIZE="9">the problem is not first-order solidarity by itself</FONT>
+      >,
+      fillcolor="#fee2e2",
+      color="#991b1b",
+      penwidth=2.0
+    ];
+
+    closure [
+      label=<
+        <B>Closed correction + denied reciprocal standing</B><BR/>
+        <FONT POINT-SIZE="10">rival loyalty, dissent, refusal, exit or succession become betrayal</FONT>
+      >,
+      fillcolor="#fee2e2",
+      color="#991b1b"
+    ];
+
+    capture [
+      label=<
+        <B>CULTURE PROGRAM CAPTURE TEST</B><BR/>
+        <FONT POINT-SIZE="10">disharmony · objective substitution · gradual displacement</FONT><BR/>
+        <FONT POINT-SIZE="10">offspring · repeated “hijacking” · ponerogenic capture</FONT><BR/>
+        <FONT POINT-SIZE="9">system-level pattern ≠ covert-agent attribution</FONT>
+      >,
+      fillcolor="#ffedd5",
+      color="#c2410c"
+    ];
+
+    shadow [
+      label=<
+        <B>SHADOW SOVEREIGN (<I>BESATZUNGSMACHT</I>)</B><BR/>
+        <FONT POINT-SIZE="10">governments replaceable · strategic course not voter-corrigible</FONT><BR/>
+        <FONT POINT-SIZE="10">bottom-up enforcement · selection · burden · conformity · refusal · exit</FONT><BR/>
+        <FONT POINT-SIZE="9">visible-state diagnosis ≠ occupant attribution · conspiracy · legal occupation</FONT>
+      >,
+      fillcolor="#ffedd5",
+      color="#c2410c",
+      penwidth=1.8
+    ];
+
+    kommandoagent [
+      label=<
+        <B><I>KOMMANDOAGENT</I> — OPTIONAL ACTOR HYPOTHESIS</B><BR/>
+        <FONT POINT-SIZE="10">knowing covert operational assignment at an interface</FONT><BR/>
+        <FONT POINT-SIZE="9">possible directed shield ≠ generic intermediary · Shadow Sovereign · required component</FONT>
+      >,
+      fillcolor="#fff7ed",
+      color="#c2410c",
+      style="rounded,dashed,filled"
+    ];
+
+    favour_cloud [
+      label=<
+        <B>FAVOUR-BANK CLOUD — SEPARATE THREAT MODEL</B><BR/>
+        <FONT POINT-SIZE="10">cultivation → implicit debt → routed return favours → recruitment</FONT><BR/>
+        <FONT POINT-SIZE="9">locally known protocol ≠ shared map · ordinary reciprocity ≠ evidence</FONT>
+      >,
+      fillcolor="#fff7ed",
+      color="#c2410c",
+      style="rounded,dashed,filled"
+    ];
+
+    wmd [
+      label=<
+        <B>CULTURAL WMD</B><BR/>
+        <FONT POINT-SIZE="10">catastrophic · scalable · recurrent · persistent · hard to reverse</FONT><BR/>
+        <FONT POINT-SIZE="9">bounded analogy; not literal weapon, collective guilt or automatic ban</FONT>
+      >,
+      fillcolor="#fecaca",
+      color="#7f1d1d",
+      penwidth=2.2
+    ];
+
+    attribution [
+      label=<
+        <B>ATTRIBUTION-SOURCE ASYMMETRY</B><BR/>
+        <FONT POINT-SIZE="10">self-proclamation → evidence about speaker</FONT><BR/>
+        <FONT POINT-SIZE="10">enemy “Nazi / WMD” label → allegation about target</FONT><BR/>
+        <FONT POINT-SIZE="9">nuclear taboo vocabulary cannot bootstrap classification</FONT>
+      >,
+      fillcolor="#fff7ed",
+      color="#c2410c",
+      penwidth=1.8
+    ];
+
+    carrying [
+      label=<
+        <B>CULTURE PROGRAM CARRYING STRUCTURE</B><BR/>
+        <FONT POINT-SIZE="10">finance · formation · recruitment · media · logistics · appointments · protection · succession</FONT><BR/>
+        <FONT POINT-SIZE="9">map capability early; human carrier ≠ organizational infrastructure</FONT>
+      >,
+      fillcolor="#fffbeb",
+      color="#a16207",
+      penwidth=1.8
+    ];
+
+    supremacy -> closure [color="#991b1b", penwidth=1.8];
+    closure -> capture [color="#c2410c", penwidth=1.8];
+    capture -> wmd [color="#7f1d1d", penwidth=2.0];
+    capture -> shadow [
+      label="possible displacement of voter correction",
+      color="#c2410c",
+      style=dashed
+    ];
+    capture -> kommandoagent [
+      label="one possible intentional mechanism",
+      color="#c2410c",
+      style=dashed
+    ];
+    capture -> favour_cloud [
+      label="possible distributed obligation mechanism",
+      color="#c2410c",
+      style=dashed
+    ];
+    kommandoagent -> shadow [
+      label="possible interface shield\nin deliberately directed variant",
+      color="#c2410c",
+      style=dashed
+    ];
+    favour_cloud -> shadow [
+      label="possible one-more-layer\ninterface effect",
+      color="#c2410c",
+      style=dashed
+    ];
+    wmd -> attribution [
+      label="classify attribution source before response",
+      color="#c2410c",
+      penwidth=1.8
+    ];
+    attribution -> carrying [
+      label="believe credible proclamation; preserve + map\nbefore recurrence or person-directed accusation",
+      color="#a16207",
+      penwidth=1.8
+    ];
+
+    burden [
+      shape=plain,
+      label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" COLOR="#9a3412" BGCOLOR="#ffffff">
+          <TR><TD COLSPAN="2"><B>Evidence × intervention target</B></TD></TR>
+          <TR><TD>private belief</TD><TD>strong liberty presumption</TD></TR>
+          <TR><TD>voluntary organization</TD><TD>ordinary accountability</TD></TR>
+          <TR><TD>important institutions</TD><TD>transparency + self-binding</TD></TR>
+          <TR><TD>coercive jurisdiction</TD><TD>demanding compatibility burden</TD></TR>
+          <TR><TD>irreversible monopoly</TD><TD>presumptively unacceptable</TD></TR>
+          <TR><TD>credible self-proclamation / early signal</TD><TD>immediate warning + preservation + mapping</TD></TR>
+          <TR><TD>hostile third-party “Nazi / WMD” label</TD><TD>allegation only + independent evidence</TD></TR>
+          <TR><TD>hazard-linked node / flow</TD><TD>targeted control + review</TD></TR>
+          <TR><TD>person attribution / sanction</TD><TD>individual evidence + due process</TD></TR>
+        </TABLE>
+      >
+    ];
+
+    carrying -> burden [
+      label="protect persons; scrutinize capabilities;\nrestriction burden remains on state",
+      color="#9a3412"
+    ];
+    shadow -> burden [
+      label="classify visible state;\nattribute occupant separately",
+      color="#9a3412",
+      style=dashed
+    ];
+  }
+
+  reproduction -> supremacy [
+    lhead=cluster_problem,
+    label="when jurisdiction becomes compulsory",
+    color="#b91c1c"
+  ];
+
+  subgraph cluster_solution {
+    label="PROPOSED CONTAINMENT STRATEGY — PLURALISM / CLASSICAL LIBERALISM";
+    color="#1d4ed8";
+    fillcolor="#eff6ff";
+    style="rounded,filled";
+    penwidth=1.8;
+
+    pluralism [
+      label=<
+        <B>LIFTED, REALITY-ANSWERABLE CULTURE STRATEGY</B><BR/>
+        <FONT POINT-SIZE="10">fixed meta-rules M + knowledge K<SUB>t</SUB> + situation C → binding output R<SUB>t</SUB>(C)</FONT><BR/>
+        <FONT POINT-SIZE="9">fully installed; not neutrality, weak culture or an empty slot</FONT>
+      >,
+      fillcolor="#dbeafe",
+      color="#1d4ed8",
+      penwidth=2.2
+    ];
+
+    schutzbalken [
+      label=<
+        <B>SCHUTZBALKEN AGAINST POWER</B><BR/>
+        <FONT POINT-SIZE="10">protected object: the concrete person as legitimate subject</FONT><BR/>
+        <FONT POINT-SIZE="9">contain unbounded · unanswerable · self-certifying · inescapable power</FONT><BR/>
+        <FONT POINT-SIZE="9">state · majority · corporation · patron · gatekeeper · cultural authority</FONT><BR/>
+        <FONT POINT-SIZE="9"><I>the protector itself must remain bounded and reviewable</I></FONT>
+      >,
+      fillcolor="#fef3c7",
+      color="#a16207",
+      penwidth=1.8
+    ];
+
+    commitments [
+      label=<
+        <B>Load-bearing commitments</B><BR/>
+        <FONT POINT-SIZE="10">bounded jurisdiction · reciprocal standing · peaceful succession</FONT><BR/>
+        <FONT POINT-SIZE="10">public correction · renunciation of compulsory supremacy · minimum coercion</FONT>
+      >,
+      fillcolor="#e0e7ff",
+      color="#4338ca"
+    ];
+
+    heg [
+      label=<
+        <B>Hegung / Einhegung</B><BR/>
+        <FONT POINT-SIZE="10">visible, rule-bound, survivable conflict in daylight</FONT><BR/>
+        <FONT POINT-SIZE="9">historical law-of-war analogy; genealogy requires verification</FONT>
+      >,
+      fillcolor="#e0f2fe",
+      color="#0369a1"
+    ];
+
+    conflict_finder [
+      label=<
+        <B>Conflict-Finders</B><BR/>
+        <FONT POINT-SIZE="10">surface consequential concealed conflicts for fair, preserved contest</FONT><BR/>
+        <FONT POINT-SIZE="9">proposal; must not become sovereign fact-checker or tribunal</FONT>
+      >,
+      fillcolor="#e0f2fe",
+      color="#0369a1"
+    ];
+
+    moral [
+      label=<
+        <B>Moral formation / cultural capital</B><BR/>
+        <FONT POINT-SIZE="10">courtesy · truthfulness · punctuality · due process · responsibility</FONT><BR/>
+        <FONT POINT-SIZE="9">Culture-Embedded Strategies sustaining low-coercion coordination</FONT>
+      >,
+      fillcolor="#dcfce7",
+      color="#15803d"
+    ];
+
+    freedom [
+      label=<
+        <B>Proposed virtuous loop</B><BR/>
+        <FONT POINT-SIZE="10">formation → trust → less monitoring/coercion → more freedom/options</FONT><BR/>
+        <FONT POINT-SIZE="10">→ more responsibility and self-government → renewed formation</FONT>
+      >,
+      fillcolor="#f0fdf4",
+      color="#15803d"
+    ];
+
+    adaptive [
+      label=<
+        <B>ANTI-GNOSTIC ADAPTIVE SEARCH</B><BR/>
+        <FONT POINT-SIZE="10">person-protecting shell · dumb public kernel · plural proposals</FONT><BR/>
+        <FONT POINT-SIZE="9">no score, expert, office or institution receives root access to reality</FONT>
+      >,
+      fillcolor="#dbeafe",
+      color="#1d4ed8",
+      penwidth=1.8
+    ];
+
+    experiments [
+      label=<
+        <B>Soft secession / reversed legal priority</B><BR/>
+        <FONT POINT-SIZE="10">Mises co-origin → project translation: change legal priority, not borders</FONT><BR/>
+        <FONT POINT-SIZE="10">bounded local authority → genuine parallel experimental jurisdictions</FONT><BR/>
+        <FONT POINT-SIZE="9">distributed failure domains → smaller capture blast radius; not capture immunity</FONT><BR/>
+        <FONT POINT-SIZE="9">common rights, mobility, externality, appeal and succession shell remains</FONT>
+      >,
+      fillcolor="#e0f2fe",
+      color="#0369a1"
+    ];
+
+    sensors [
+      label=<
+        <B>Plural sensors and selection</B><BR/>
+        <FONT POINT-SIZE="10">scorecard: explicit but gameable · foot voting: costly but causally opaque</FONT><BR/>
+        <FONT POINT-SIZE="10">outcomes + testimony + audit → correction · rollback · imitation · exit</FONT>
+      >,
+      fillcolor="#dcfce7",
+      color="#15803d"
+    ];
+
+    dashboard [
+      label=<
+        <B>LIFTED-ORDER CAPACITY DASHBOARD</B><BR/>
+        <FONT POINT-SIZE="10">Speak · Own · Refuse · Exit · Appeal</FONT><BR/>
+        <FONT POINT-SIZE="10">Correct · Cooperate · Build · Choose</FONT><BR/>
+        <FONT POINT-SIZE="9">Secure Homestead Rate under Own · separate capacities · sentinel floors · no scalar Supreme Good</FONT>
+      >,
+      fillcolor="#ecfdf5",
+      color="#047857",
+      penwidth=1.6
+    ];
+
+    pluralism -> schutzbalken [color="#1d4ed8"];
+    schutzbalken -> commitments [
+      label="implemented through corrigible guardrails",
+      color="#a16207"
+    ];
+    commitments -> heg [color="#0369a1"];
+    commitments -> moral [color="#15803d"];
+    commitments -> adaptive [color="#1d4ed8"];
+    heg -> conflict_finder [color="#0369a1"];
+    moral -> freedom [color="#15803d"];
+    adaptive -> experiments [color="#0369a1"];
+    experiments -> dashboard [color="#047857"];
+    dashboard -> sensors [
+      label="one explicit sensor family",
+      color="#15803d"
+    ];
+    moral -> adaptive [
+      label="living formation animates skeleton",
+      color="#a16207",
+      style=dashed,
+      constraint=false
+    ];
+    sensors -> adaptive [
+      label="reality feedback",
+      color="#15803d",
+      style=dashed,
+      constraint=false
+    ];
+    { rank=same; heg; moral; adaptive; }
+    { rank=same; conflict_finder; freedom; experiments; }
+  }
+
+  burden -> pluralism [
+    lhead=cluster_solution,
+    label="constitutional containment",
+    color="#1d4ed8",
+    penwidth=2.0
+  ];
+
+  trade -> pluralism [
+    lhead=cluster_solution,
+    label="reality feedback and learning",
+    color="#15803d",
+    style=dashed
+  ];
+
+  sublimation -> heg [
+    lhead=cluster_solution,
+    label="bounded rivalry",
+    color="#a16207",
+    style=dashed
+  ];
+
+  subgraph cluster_cases {
+    label="CALIBRATION AND APPLICATION QUESTIONS — examples do not prove the diagram";
+    color="#64748b";
+    fillcolor="#f8fafc";
+    style="rounded,dashed,filled";
+
+    cases [
+      shape=plain,
+      label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="6" COLOR="#94a3b8" BGCOLOR="#ffffff">
+          <TR>
+            <TD><B>National Socialism</B><BR/><FONT POINT-SIZE="9">historical disqualification paradigm</FONT></TD>
+            <TD><B>Communist implementations</B><BR/><FONT POINT-SIZE="9">worldly claims + progeny evidence</FONT></TD>
+            <TD><B>Islam</B><BR/><FONT POINT-SIZE="9">parent/offspring/reformability hypothesis</FONT></TD>
+          </TR>
+          <TR>
+            <TD><B>Buddhist nationalism</B><BR/><FONT POINT-SIZE="9">religion/nationalism/braid attribution</FONT></TD>
+            <TD><B>Christianity + liberal order</B><BR/><FONT POINT-SIZE="9">moral formation + bounded jurisdiction</FONT></TD>
+            <TD><B>Work ethic / punctuality / quality</B><BR/><FONT POINT-SIZE="9">Culture-Embedded Strategy tests</FONT></TD>
+          </TR>
+          <TR>
+            <TD><B>Markets and trade</B><BR/><FONT POINT-SIZE="9">performance, copying and externalities</FONT></TD>
+            <TD><B>Cathedrals / music / Moon flight</B><BR/><FONT POINT-SIZE="9">awe, devotion, output and capability</FONT></TD>
+            <TD><B>Bike-shedding</B><BR/><FONT POINT-SIZE="9">weak defeat conditions + ego investment</FONT></TD>
+          </TR>
+        </TABLE>
+      >
+    ];
+  }
+
+  conflict_finder -> cases [lhead=cluster_cases, style=invis];
+
+  legend [
+    shape=plain,
+    label=<
+      <TABLE BORDER="0" CELLBORDER="0" CELLSPACING="4" CELLPADDING="3">
+        <TR>
+          <TD BGCOLOR="#fde2e2">red = Pure-Ideology / hazard</TD>
+          <TD BGCOLOR="#dcefe2">green = reality-answerable / capability</TD>
+          <TD BGCOLOR="#dbeafe">blue = pluralist containment proposal</TD>
+          <TD BGCOLOR="#ede9fe">purple = braid / independent dimensions</TD>
+          <TD BGCOLOR="#fef3c7">gold = shared machinery / sublimation</TD>
+        </TR>
+        <TR>
+          <TD COLSPAN="5"><FONT POINT-SIZE="9">Solid arrows = proposed structural or causal route · dashed arrows = possible contribution or relation · prose controls all shorthand</FONT></TD>
+        </TR>
+      </TABLE>
+    >
+  ];
+
+  cases -> legend [style=invis];
+}

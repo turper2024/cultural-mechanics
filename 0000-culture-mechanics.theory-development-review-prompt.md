@@ -68,6 +68,68 @@ For every material item, identify:
 - boundaries, alternatives, counterexamples, and possible tests;
 - its likely semantic home and any documents it would affect.
 
+For a **culture-propagator or dynamic-evolution** candidate, begin from the
+existing canonical model rather than treating the propagator as a new threat
+label. Declare the unit, scale, period, typed state, slower structural conditions,
+specified inputs, disturbances or omitted influences, observation process, and
+retained history. State whether the candidate changes the canonical transition
+architecture in *Culture Mechanics* or one of its existing projections:
+person--field recursion in *Epistemic Agency*, world--sensor--correction in
+*Epistemic Constitution*, trajectory families in *Mythology Construction*, or
+programme identity, reproduction, capture, and forcing in *Culture Program
+Ecology*. Treat continuous, discrete, stochastic, agent-based, network, and
+historical-process forms as possible realizations of the typed scaffold rather
+than competing definitions or evidence of one universal culture equation. Do
+not infer a completed loop from the presence of its components; require separate
+temporal and causal support for each proposed handoff.
+
+For a proposed quotient, name the question and equivalence relation and test
+whether equivalent states have equivalent relevant successors. Keep genealogical,
+programme-identity, hazard, offspring-causation, and present-dynamic quotients
+distinct, and do not collapse coordinate, observational, and causal-dynamical
+equivalence. Quotienting can remove a redundant coordinate without removing the
+historically realized initial condition or path. For programme identity, keep
+operative class, wrapper, and receiving environment distinct and require an
+implemented, adversarially usable change point before resetting inherited
+operational evidence. For attractor language, distinguish a fixed point from
+stability and from an attracting or metastable regime, basin, basin margin, basin crossing,
+bifurcation, and nucleation; for persistence, distinguish durable legacy,
+institutional inertia, lock-in, remanence, and hysteresis. Identify what
+observation could discriminate the stronger term from ordinary adaptation,
+shock, delayed consequence, or retrospective redescription.
+
+Keep representational leverage, reflexive gain, transition proximity, sensor
+endogeneity, correction independence, and hysteresis depth non-scalar. Separate
+feedback sign, magnitude, direction, delay, and the clocks of adoption,
+consequence, sensing, correction, institutionalization, and reproduction.
+Do not substitute immediate response magnitude for transition proximity: a
+high-gain excursion can return, while a moderate-gain system near a boundary can
+tip. Treat intervention-produced evidence as probative only for a predeclared,
+defeasible conditional relation with specified causal path, timing, observation,
+comparison, and rivals.
+Preserve an independent correction remainder and test selection,
+reclassification, proxy substitution, cost displacement, custody, and whether
+correction-bearing roles reproduce in practice. Separate ordinary endogenous
+evolution, exogenous shock, declared reform, opportunistic
+exploitation, and adversarial reflexive attractor steering. A steering candidate
+must specify actor, access, selected input, temporal nexus, anticipated or
+knowingly exploited mechanism, material causal contribution, and serious rivals;
+do not infer design, intent, control, conspiracy, capture, or downstream guilt
+from trajectory fit. Failure at the actor gate fences that attribution; it does
+not erase independently supported feedback, field, institutional, consequence,
+or persistence findings. Do not infer truth, legitimacy, health, or inevitability
+from stability, self-consistency, persistence, or causal efficacy, and do not
+propose a universal culture equation merely because mathematical notation helps
+make handoffs inspectable.
+
+For a fission or recovery candidate, test bridge topology, internal audiences,
+symmetrical and complementary schismogenesis, negative identity, connected
+reproduction across concepts, records, histories, correction standards,
+practices, formation, and succession, and persistence under reduced immediate
+conflict. A demanding recovery requires adverse evidence to cross the boundary,
+change a consequential decision, and leave its bearer a legitimate future
+participant; ceremonial contact or unity against a common enemy is insufficient.
+
 For a **nuclear-reactor, sublimation, and un-reason** analogy candidate, preserve
 the originating peaceful-power and failing-plant picture while separating three
 branches: loss of regulation, cooling, or containment maps de-binding or

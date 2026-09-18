@@ -1856,7 +1856,9 @@ by God rather than a human ideological collective--is an originating confessiona
 interpretation, not a general scientific proposition or a settled philological
 claim.
 
-#### Moralization as character accusation: Andrick's bridge
+<a id="0010-culture-mechanics-semantic-definition--moralization-as-character-accusation-andricks-bridge"></a>
+
+#### Moralization as character accusation: Andrick's bridge {#0010-culture-mechanics-semantic-definition--moralization-as-character-accusation-andricks-bridge}
 
 [Michael Andrick's *Im Moralgefängnis: Spaltung verstehen und
 überwinden*](https://derandrick.de/) supplies the missing micro-mechanism between
@@ -1928,7 +1930,25 @@ mechanism; each case still requires evidence that the operation actually occurre
 Division is therefore not merely a static condition. It can be continuously
 enacted as people stop speaking with opponents, speak only about them, infer
 character from statements, demand public denunciation, and punish continued
-association. The present framework adds the **moral-closure hypothesis**:
+association. In the wider cultural process, Andrick's operation can be understood
+as cutting a **cleavage plane** through an existing political-cultural *we*:
+
+- cross-boundary friendships and conversations become costly;
+- bridge persons and moderates become morally suspect;
+- guilt by association suppresses communication across the line;
+- internally recognizable conformity signals acquire greater importance; and
+- the opposite side becomes a negative identity anchor.
+
+This cleavage operation is not yet [**cultural-epistemic
+fission**](#0040-mythology-construction-semantic-definition--cultural-epistemic-fission).
+It can end in the silencing, expulsion, or subordination of one side while one
+dominant Culture Program remains. Fission additionally requires two or more sides
+to become sufficiently viable as separately reproducing distributed epistemic
+milieus and local-bigOther-forming ecologies. Andrick supplies one important
+bridge-cutting mechanism; he does not supply that complete collective morphology
+or its Babelization threshold.
+
+The present framework adds the **moral-closure hypothesis**:
 
 Rudolf Bilz's formulation of human existence as **tribunal existence** and [Odo
 Marquard's “tribunalization of modern lived
@@ -2685,6 +2705,53 @@ a miniature distributed bigOther or a literal piece detached from the network.
 Language, concepts, records, institutions, and ordinary rational operations cross
 the local/distributed boundary through additional parts of the same circuit.
 
+<a id="0010-culture-mechanics-semantic-definition--distributed-bigother-and-distributed-epistemic-milieu"></a>
+
+#### Distributed bigOther and distributed epistemic milieu {#0010-culture-mechanics-semantic-definition--distributed-bigother-and-distributed-epistemic-milieu}
+
+The **distributed bigOther** must not be collapsed into the **distributed
+epistemic milieu**.
+The distributed bigOther is the emergent symbolic--affective network state
+reproduced through compatible local bigOthers, public symbols, expectations,
+roles, institutions, practices, and field back-action.
+The distributed epistemic milieu is the impersonal and dispersed environment of
+concepts, distinctions, examples, methods, records, instruments, trained
+persons, and correction practices through which participants learn how to
+notice, inquire, infer, and communicate.
+
+The two can overlap in carriers and institutions while remaining functionally
+different.
+The distributed bigOther concerns collectively maintained evaluation,
+obligation, and symbolic--affective force.
+The distributed epistemic milieu concerns resources used by ordinary rider or
+main-CPU cognition.
+It is not a collective brain, detached cognitive agent, third processor, or
+second local bigOther.
+Within homo duplex, only the local bigOther occupies the distinct cultural
+co-processor position.
+
+Collective formation can therefore reach the person through two coupled modes:
+
+```text
+affective--evaluative actuation
+→ local bigOther classifies through the installed mythological lens
+→ elephant-side affect, attention, motivation, and action readiness change
+
+collective epistemic formation
+→ distributed epistemic milieu supplies concepts, methods, examples, and records
+→ rider/main CPU reconstructs, retrieves, joins, infers, predicts, and revises
+```
+
+The distinction does not isolate reason from affect.
+Local-bigOther classification can make particular rider-side operations
+honourable, shameful, easy, dangerous, or forbidden without itself performing
+them, while an affectively animated ethos can sustain cold analytical work.
+[*Epistemic Agency under Mechanical Solidarity*, “Collective epistemic formation
+and the distributed epistemic
+milieu”](#0020-epistemic-agency-semantic-definition--collective-epistemic-formation)
+owns the detailed mechanism, processor boundary, historical source bridges, and
+scientific-ethos application.
+
 <a id="0010-culture-mechanics-semantic-definition--nested-authorship-activation-and-episodic-multi-mind-selves"></a>
 
 #### Nested authorship, activation, and episodic multi-mind-selves {#0010-culture-mechanics-semantic-definition--nested-authorship-activation-and-episodic-multi-mind-selves}
@@ -2998,6 +3065,198 @@ produce similar experiences or conduct and remain rival explanations.
 The trunk therefore classifies the evidenced interface relation, not a whole
 person or clinical condition.
 
+<a id="0010-culture-mechanics-semantic-definition--operative-relationship-modes"></a>
+
+#### Operative relationship modes: I-mode and We-mode {#0010-culture-mechanics-semantic-definition--operative-relationship-modes}
+
+**Status:** trunk-concept family and proposed operative-relationship model.
+The distinctions are functional rather than anatomical, and one episode does
+not establish a permanent personality type, collective agent, or clinical
+condition.
+
+The existing architecture distinguishes processor, pole, installed programme,
+collective field, and subjecthood relation.
+The present layer asks a different question: **from which relational standpoint
+does cognition and action operate in this episode?**
+
+**I-mode** is the personal-relational position in which oneself and another can
+appear as concrete centres of life and possible partners in an I--You relation.
+It includes attachment, care, responsibility, self-interest, resentment,
+possessiveness, and personal cruelty.
+It is neither a synonym for egoism nor a guarantee of goodness.
+
+**We-mode** is the socially constituted, comparatively impersonal position from
+which a person thinks and acts through rules, roles, categories, shared purposes,
+institutional standpoints, or an imagined impartial observer.
+It can coordinate care for absent strangers and common goods, or it can treat a
+fully represented human as a case, task, resource, obstacle, or enemy without an
+operative I--You encounter.
+It is neither a synonym for altruism nor a guarantee of coldness or evil.
+
+The central relational distinction is:
+
+> **A human can be accurately represented without becoming personally present
+> as a You whose claim can interrupt what I am doing.**
+
+Names, relationships, fear, suffering, preferences, and likely consequences can
+remain known and enter sophisticated calculation.
+The missing relation need not be information or reflection.
+It can be the second-person relation in which the affected human addresses the
+actor as someone to whom the actor must answer.
+
+```text
+I ↔ You
+personal encounter and answerability
+
+versus
+
+We → them / case / task / resource / obstacle
+programme- or role-mediated operation
+```
+
+The originating terms ***Ausblendung*** and
+***Mitgefühlsentkopplung*** are retained only in this corrected sense.
+What is blanked out need not be the person's attributes, suffering, or fate; it
+can be the operative second-person connection through which those known facts
+become another person's claim upon the actor.
+*Mitgefühlsentkopplung* names that relational result, not a theory that
+bureaucracy must first erase information or that an abstractly “cold” processor
+commits the act by itself.
+
+**Solidarity-indexed person recognition** names the proposed dependence of this
+encounter upon operative solidarity boundaries.
+A **personhood-routing rule** is the installed programme's practical routing of
+whether a human may appear as You, whether that encounter can interrupt a role or
+collective task, and whether the human is instead processed only through a
+programme category.
+These are descriptions of experienced recognition and operative treatment.
+They do not make recognition constitutive of
+[inherent human standing](#0010-culture-mechanics-semantic-definition--inherent-human-standing-recognition-only-principle).
+
+<a id="0010-culture-mechanics-semantic-definition--pole-mode-programme-and-direction"></a>
+
+##### Pole, mode, programme, and moral direction {#0010-culture-mechanics-semantic-definition--pole-mode-programme-and-direction}
+
+Four distinctions are mandatory:
+
+1. The **Durkheimian poles** describe organism-rooted and socially derived
+   sources and functions.
+2. **I-mode and We-mode** describe the operative relational standpoint of an
+   episode.
+3. The **Culture Program and mythological lens** supply what that standpoint
+   values, classifies, requires, and prohibits.
+4. **Moral direction and jurisdiction** ask whom the resulting operation
+   preserves or consumes and how far its authority extends.
+
+The organismic-individual pole is therefore not another name for I-mode, and the
+social-intellectual-moral pole is not another name for We-mode.
+I-mode can use socially inherited language, conscience, and reflective
+reconstruction.
+We-mode remains embodied and locally executed through the biological person's
+perception, intelligence, affect, and action.
+No parallel local bigOther or second operative weave is implied by switching
+modes.
+
+We-mode is an ordinary human capacity that a Culture Program can organize,
+stabilize, and capture.
+It is not by itself a god, collective agent, operative multi-mind-self, or
+powerful programme.
+A local mode episode establishes neither collective integration and continuity
+nor [subjecthood absorption](#0010-culture-mechanics-semantic-definition--differentiated-unity-and-subjecthood-absorption-fusion).
+
+Mode and moral direction therefore form independent axes:
+
+| Mode | Person-preserving direction | Person-consuming direction |
+| --- | --- | --- |
+| **I-mode** | Love, care, friendship, rescue, and answerable personal judgment | Possessiveness, domination, vengeance, and cruelty that can depend upon recognizing the other's suffering |
+| **We-mode** | Bounded public service, coordinated rescue or defence, common protections, and voluntary contribution | Compulsory self-erasure, sacrificial collectivism, bureaucratic atrocity, and exterminatory administration |
+
+Direction is also target-indexed.
+One person can be loving toward family, heroic toward comrades, and destructive
+toward a population excluded from personal encounter.
+Conversely, a general rule can protect people whom the actor will never meet.
+Neither warm attachment nor impersonal generality supplies a complete moral
+verdict.
+
+The resulting control spectrum is:
+
+| Bounded enlistment | Full We-mode takeover |
+| --- | --- |
+| Temporary coordination for a limited task and jurisdiction | Collective purpose claims comprehensive jurisdiction |
+| The I remains a legitimate author; conscience, judgment, and refusal retain standing | Personal judgment and needs lose standing; refusal becomes betrayal |
+| Outsiders remain persons and a classified object can reappear as You | Outsiders remain programme objects and I--You re-entry is blocked |
+| Return from the collective standpoint remains possible; sacrifice is bounded and answerable | Self-sacrifice and sacrifice of others become programme requirements |
+
+Intensity alone does not decide the relation.
+A rescue team, orchestra, court, laboratory, or military unit can require strong
+coordination while retaining bounded roles, personal responsibility, the standing
+of affected persons, correction, refusal, and return.
+Duty becomes **person-consuming role execution** when a bounded office or mission
+expands toward comprehensive jurisdiction, disowns personal authorship, recodes
+refusal as betrayal, blocks the affected person's interruptive standing, and
+treats actor or target as programme material.
+
+**Repersonalization shock** is the possible surprise, guilt, or moral
+disorientation that occurs when a human previously processed impersonally
+reappears as You: “How could I have thought or done that?”
+It demonstrates that mode-switching and return are possible.
+It does not make the earlier operation unreal or prove that every person, domain,
+or programme remains equally reachable through encounter.
+
+<a id="0010-culture-mechanics-semantic-definition--self-transcendence-and-scale"></a>
+
+##### Self-transcendence, love, and scale {#0010-culture-mechanics-semantic-definition--self-transcendence-and-scale}
+
+Overcoming immediate private interest does not establish goodness.
+The model distinguishes three routes that can produce outwardly similar
+self-sacrifice:
+
+- **Relational self-sacrifice** can arise through I-mode attachment to a
+  particular child, loved person, or encountered stranger.
+- **Generalized altruism** uses socially formed concepts to extend concern to
+  absent strangers, future persons, or people outside spontaneous attachment.
+- **Collective sacrifice** makes a nation, faith, movement, army, institution, or
+  mission the operative standpoint from which the carrier's own life becomes
+  expendable.
+
+The same capacity for self-transcendence can support care, courage, truthfulness,
+martyrdom, fanaticism, or atrocity.
+Ask what is served, who chooses the sacrifice, whether it is imposed on another,
+whether the end is independently legitimate, and whether refusal and correction
+remain possible.
+
+Love likewise crosses layers.
+Embodied attachment and care supply energy and personal presence, while symbolic
+formation can generalize neighbour-love beyond family, familiarity, faction, or
+spontaneous affection.
+Generalization without encounter can remain an abstract command; warmth without
+generalization can remain narrowly partial.
+Person-preserving agape is therefore a cross-layer achievement rather than the
+property of the elephant, rider, social pole, or programme alone.
+
+**Scalar personhood collapse** is the transition by which necessary numerical or
+administrative compression becomes moral cancellation: inability to imagine
+every member vividly is treated as permission to make the aggregate the only real
+object and its constituent persons morally negligible.
+The mechanism is distinct from information loss.
+A single target can be richly represented without becoming You, while an
+aggregate can additionally conceal the requirement that each member retain
+standing.
+
+Statistics remain morally and epistemically necessary.
+They can reveal distant deaths, hidden patterns, unequal treatment, and harms
+that vivid individual cases conceal.
+The person-preserving conjunction is:
+
+> **I-mode: this one is an entire world. We-mode: every unknown person must count
+> equally. World: establish how many persons are affected and what caused the
+> harm.**
+
+Names, testimony, case review, individual appeal, and aggregate measurement
+should therefore correct one another.
+Institutions need not simulate a million simultaneous intimate encounters, but
+the limits of feeling cannot authorize cancellation of the people being counted.
+
 ### 13. Symbolic reality
 
 The bigOther does not merely evaluate an independently completed physical world. It also participates in creating **social reality**.
@@ -3056,11 +3315,286 @@ LENSES, AND DISTRIBUTED BIGOTHER
                     ↺
 ```
 
-This cycle deliberately stops at the individual-to-field boundary. [*Epistemic
-Agency under Mechanical
-Solidarity*](0020-epistemic-agency.semantic-definition.md) asks how the emergent
-field acts back upon judgment, distributes authority, and supports or suppresses
-epistemic agency.
+The diagram makes the individual-to-field handoff visible without yet displaying
+all later consequences, sensing paths, retained history, or institutional
+changes. [*Epistemic Agency under Mechanical
+Solidarity*](0020-epistemic-agency.semantic-definition.md) owns the detailed
+account of how the emergent field acts back upon judgment, distributes authority,
+and supports or suppresses epistemic agency. The following propagator model joins
+that back-action to the other cross-scale transitions without collapsing their
+distinct semantic homes.
+
+<a id="0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution"></a>
+
+#### Culture propagator and dynamic evolution {#0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution}
+
+The **culture propagator** is the scale-declared, history-bearing
+state-transition operator that maps a cultural configuration into later possible
+configurations through the coupled evolution of operative representations,
+persons, emergent collective fields, institutional carrying structures, worldly
+consequences, sensing and correction architectures, and retained memory.
+
+*Propagator* does not here mean only the propagation of a message or the
+recruitment of additional carriers. Propagation is one process inside the wider
+transition relation, alongside correction, reproduction, institutionalization,
+decay, fission, recovery, and replacement. Deliberate adversarial steering is one
+possible forcing regime, not the definition of the propagator.
+
+Let the typed cultural state at a declared scale be:
+
+$$
+z_t=(r_t,p_t,d_t,k_t,w_t,s_t,m_t).
+$$
+
+| Symbol | Cultural-mechanical meaning |
+|---|---|
+| $r_t$ | Socially operative representations: classifications, causal accounts, expectations, legitimacy assignments, person-types, threats, duties, and possible futures |
+| $p_t$ | Person-level configurations: installed lenses, interpretation, judgment, relationships, dispositions, conduct, refusal, and correction across the relevant participants |
+| $d_t$ | The emergent symbolic-affective field or distributed-bigOther configuration reproduced through reciprocal signalling, expectations, institutions, practices, stories, and artifacts |
+| $k_t$ | Institutional and carrying structure: roles, rules, appointments, resources, access, sanctions, archives, organizations, infrastructure, and succession |
+| $w_t$ | Relevant worldly conditions and consequences: material production, capabilities, burdens, injuries, opportunities, performance, externalities, and other resistant outcomes |
+| $s_t$ | Sensing and correction architecture: what can be noticed, sampled, classified, recorded, preserved, transmitted, compared, challenged, and admitted as correction |
+| $m_t$ | Retained history: learned expectations, records, reputations, embodied habits, institutional memory, sunk costs, damaged or strengthened relationships, and other path-dependent residues |
+
+Let $y_t$ denote observations made available through the sensing architecture.
+Let $\theta_t$ denote slower or structurally privileged transition conditions,
+including authority topology, network structure, jurisdiction, interdependence,
+reproduction, trust routing, correction rules, and the distribution of coercive
+or material capability. Let $u_t$ denote a specified input or intervention and
+$\varepsilon_t$ disturbances and omitted influences.
+
+The state--parameter distinction is scale-relative. A constitution may be
+treated as fixed during a short episode and as a slowly changing state variable
+over a century. An analysis must declare that choice rather than moving an
+inconvenient change silently into the background.
+
+The typed scaffold is neutral among continuous, discrete, deterministic,
+stochastic, agent-based, network, and historical-process realizations. In a
+continuous-time model one may instead write:
+
+$$
+\dot z(t)=\mathcal F\bigl(z(t),\theta(t),u(t),\varepsilon(t)\bigr).
+$$
+
+That notation does not assert one known differential equation for culture. The
+model form must follow the declared question, scale, data, and causal resolution;
+the discrete equations below expose typed handoffs rather than claiming that
+cultural processes advance in synchronized steps.
+
+In discrete-time shorthand, the general update is:
+
+$$
+z_{t+1}=T_{\theta_t}(z_t;u_t,\varepsilon_t).
+$$
+
+Where uncertainty is material, $T$ or the two-time operator below maps the
+initial state into a distribution over possible later states rather than one
+predicted point. The corresponding component handoffs can be written:
+
+$$
+p_{t+1}=F_p(p_t,r_t,d_t,k_t,w_t,m_t;\varepsilon_t^p,u_t^p),
+$$
+
+$$
+d_{t+1}=F_d(d_t,p_{t+1},r_t,k_t,m_t;\varepsilon_t^d,u_t^d),
+$$
+
+$$
+k_{t+1}=F_k(k_t,p_{t+1},d_{t+1},r_t,w_t,m_t;\varepsilon_t^k,u_t^k),
+$$
+
+$$
+w_{t+1}=F_w(w_t,p_{t+1},d_{t+1},k_{t+1};\varepsilon_t^w,u_t^w),
+$$
+
+$$
+s_{t+1}=F_s(s_t,k_{t+1},p_{t+1},d_{t+1},r_t,m_t;\varepsilon_t^s,u_t^s),
+$$
+
+$$
+y_{t+1}=H(w_{t+1},p_{t+1},d_{t+1},k_{t+1},s_{t+1};\varepsilon_t^y),
+$$
+
+$$
+r_{t+1}=F_r(r_t,p_{t+1},d_{t+1},k_{t+1},y_{t+1},m_t;\varepsilon_t^r,u_t^r),
+$$
+
+$$
+m_{t+1}=F_m(m_t,z_t,z_{t+1},y_{t+1}).
+$$
+
+Structural conditions can themselves update:
+
+$$
+\theta_{t+1}=F_\theta(\theta_t,k_{t+1},d_{t+1},r_{t+1},w_{t+1},m_{t+1}).
+$$
+
+The displayed order makes causal handoffs inspectable; it is not a chronological
+dogma. Cultural systems are asynchronous, multi-speed, distributed, and
+delay-ridden. Institutions can act before most persons learn a classification,
+material consequences can arrive years after a decision, and an old archive can
+re-enter the loop after apparent cultural forgetting.
+
+The presence of every typed component does not establish the displayed loop.
+Each proposed handoff requires its own temporal and causal support, and an
+applied analysis must preserve one-way movements where no return path has been
+shown. The equations are therefore a hypothesis grammar for reconstructing
+transitions, not evidence that every named component interacted in a completed
+circuit.
+
+For a sufficiently specified state and forcing history, the two-time propagator
+is:
+
+$$
+z_{t_1}=\Phi_{t_1,t_0}^{\theta,u,\varepsilon}(z_{t_0}).
+$$
+
+Its ordinary composition property,
+
+$$
+\Phi_{t_2,t_0}=\Phi_{t_2,t_1}\circ\Phi_{t_1,t_0},
+$$
+
+is legitimate only when the state at $t_1$ contains the memory needed to
+determine later movement and the relevant forcing schedule is specified. If
+apparently identical present states respond differently because of hidden
+history, the state description is incomplete. The repair is to restore the
+missing history to $m_t$, treat another slow variable as part of the state, or
+use a history-dependent operator over a trajectory segment. Failed point-state
+prediction can therefore indicate omitted memory, delayed feedback, or an
+incorrectly chosen quotient rather than random cultural irrationality.
+
+The typed model preserves the framework's constitutive architecture. The local
+bigOther and main cognitive processor remain functionally distinct within
+persons; $p_t$ is not a homogeneous population average. The field $d_t$ is
+implemented through persons and material carriers but has relational organization
+and back-action that cannot be reconstructed from independently formed
+individual attitudes alone. Field coherence, synchrony, collective-self
+presentation, operative collective agency, and fusion remain separate thresholds.
+One operative mythological lens still occupies the single local slot; change in
+that lens is an unbraiding, rebraiding, or replacement process rather than runtime
+arbitration among several sovereign bigOthers.
+
+The detailed person--field projection belongs to [*Epistemic Agency under
+Mechanical
+Solidarity*](#0020-epistemic-agency-semantic-definition--culture-propagator-person-field-projection).
+The consequence, sensing, and correction projection belongs to [*Epistemic
+Constitution*](#0030-epistemic-constitution-semantic-definition--culture-propagator-correction-projection).
+The trajectory family belongs to [*Mythology
+Construction*](#0040-mythology-construction-semantic-definition--culture-propagator-trajectory-family),
+and Culture Program reproduction, identity, capture, and strategic forcing belong
+to [*Culture Program
+Ecology*](#0060-culture-program-ecology-semantic-definition--culture-propagator-programme-ecology).
+
+##### Question-relative quotient dynamics
+
+Different descriptions can encode the same relation for one inquiry while
+remaining importantly different for another. A quotient therefore removes only
+distinctions declared irrelevant to a specified question. Genealogy, programme
+identity, hazard, causal inheritance, and present response need not admit the same
+equivalence relation.
+
+Three relations are especially easy to collapse and must remain distinct:
+
+| Equivalence | Meaning | Licensed inference |
+|---|---|---|
+| **Syntactic or coordinate equivalence** | Different expressions encode the same declared state. | The wording or coordinate difference may be removed from that representation. |
+| **Observational equivalence** | The available sensing process does not currently distinguish two states. | The observation is underdetermining; causal identity does not follow. |
+| **Causal-dynamical equivalence** | Substitution leaves the relevant successor relation invariant under matched conditions. | The distinction may be quotiented out of that specified dynamic model. |
+
+In a reflexive system, deployment can break an observational equivalence that
+held beforehand. Two classifications that fit the same present record can alter
+conduct, trust, institutions, or later sensing differently once they become
+operative. They are then dynamically active coordinates rather than harmless
+aliases.
+
+Let $\pi:Z\rightarrow Z/{\sim}$ project states into a declared quotient. The
+transition rule descends to that quotient only if equivalent states have
+equivalent successors:
+
+$$
+z\sim z' \Longrightarrow T(z)\sim T(z').
+$$
+
+Equivalently, there must be a well-defined quotient transition $\bar T$ such
+that:
+
+$$
+\pi\circ T=\bar T\circ\pi.
+$$
+
+If the condition fails, the discarded distinction changes the modeled future.
+The analysis must restore the active variable or narrow its question rather than
+force the dynamics into the quotient. Current observational equivalence is not
+operational identity: a difference can become causally visible under stress,
+refusal, failure, emergency, defeat, or succession. The controlled mathematical
+mapping and its limits are given in [*Analogical Models in Culture
+Mechanics*](#0050-culture-mechanics-analogies-semantic-inventory--propagator-quotient-attractor-and-hysteresis).
+
+##### Forcing regimes and dynamic descriptors
+
+The propagator separates the transition architecture from the origin and purpose
+of an input:
+
+| Regime | Distinguishing condition |
+|---|---|
+| **Ordinary endogenous evolution** | The coupled system changes without a demonstrated directing intervention. |
+| **Exogenous shock** | War, disaster, technology, migration, discovery, scarcity, or another event perturbs the state without being generated by the modeled cultural loop. |
+| **Declared reform or policy intervention** | An actor openly attempts to change specified outcomes or transition rules. |
+| **Opportunistic exploitation** | An actor recognizes an emerging loop and amplifies, selects, or redirects it. |
+| **Adversarial reflexive attractor steering** | An actor deliberately targets representations, routing, institutions, sensors, or correction so that decentralized responses help induce a strategically useful transition. |
+
+Ordinary endogenous movement can include sincere moral conviction, commercial
+selection, bureaucratic simplification, reputational self-protection,
+institutional inertia, uneven harms, and competition for authority. Those
+mechanisms can produce a dangerous trajectory without an adversary and remain
+serious rivals when deliberate steering is alleged. Steering denotes directional
+leverage, not exact control: an intervention can fail, decay, overshoot, strengthen
+a rival, or help create an unintended third regime.
+
+Six non-scalar descriptors make different parts of a transition inspectable:
+
+| Descriptor | Governing question | Distinct function |
+|---|---|---|
+| **Representational leverage** | How much consequential change can an input reach through a classification, symbol, expectation, or trusted channel? | Input effectiveness |
+| **Reflexive gain** | How strongly does a representation-induced response return to amplify, damp, or redirect the next response? | Feedback sign and amplification |
+| **Basin margin or transition proximity** | How much displacement or structural change separates the present regime from another reproducible regime? | Susceptibility to transition |
+| **Sensor endogeneity** | How much apparent evidence is elicited, selected, classified, or produced through the contested representation and response? | Dependence of observation on deployment |
+| **Correction independence** | Can sufficiently independent persons and procedures expose error and alter operation without the tested custodian's permission? | Detection, adjudication, and reversal capacity |
+| **Hysteresis depth** | What successor structure remains after the initiating input is removed, and what reconstruction would reversal require? | Persistence after transition |
+
+The descriptors do not form one universal risk score. Each requires a specified
+unit, period, interface, causal question, and observable counterpart. Additional
+case-specific descriptors can include field coupling, reproduction rate,
+succession robustness, jurisdictional congruence, interoperability, externality
+routing, material dependence, and bridge density.
+
+The propagator is descriptive until a correction and normative relation is
+specified. A representation can be self-consistent, causally effective, stable,
+adaptive, and destructive. A programme can accurately learn how to dominate.
+Reality-answerability and preservation of the concrete person's standing are
+therefore independent constraints rather than outputs automatically supplied by
+dynamic stability.
+
+The principal boundaries are:
+
+1. no social wavefunction, universal potential landscape, conserved cultural
+   energy, or established universal field equation is asserted;
+2. persons remain reflexive nodes capable of interpretation, resistance,
+   deception, defection, imitation, concealment, and reorganization;
+3. no quotient is innocent by default;
+4. self-consistency, stability, persistence, and causal efficacy do not establish
+   truth, legitimacy, fit, or moral value;
+5. transition does not imply progress;
+6. distributed causation does not establish centralized design;
+7. a transition mechanism does not identify an actor or transmit an initiator's
+   intention to downstream participants;
+8. failure to identify or prove an actor blocks the actor attribution but does
+   not erase independently supported feedback, field, institutional,
+   consequence, or persistence findings; and
+9. the same causal, consequence, correction, quotient, and rival-explanation
+   standards apply to preferred and opposed programmes without presuming equal
+   power or effect.
 
 ### 15. Open and closed cultural programming
 
@@ -3880,6 +4414,42 @@ Mechanics does not adopt either complete theory. It uses their conjunction to as
 how a culturally represented agent can become locally present and distributedly
 operative.
 
+The local authorial relation is called **We-mode enactment** when a particular
+culturally constituted *we* becomes operative through the Durkheimian
+social-intellectual-moral pole and supplies the classifications, purposes,
+obligations, and standpoint from which the biological person thinks and acts.
+The person supplies local perception, memory, calculation, language, and bodily
+execution, but in the stronger absorbed episode the *we* occupies the authorized
+subject-position.
+Duty, professional correctness, historical necessity, and “what must be done”
+can instantiate this relation without auditory voices or explicit personification.
+
+We-mode enactment can be local and momentary.
+It does not by itself establish a continuing multi-mind-self, collective
+phenomenal consciousness, permanent subjecthood absorption, or the truth of the
+enacted authority.
+The relevant asymmetry can nevertheless be severe.
+**Asymmetric personal address** names the relation in which the carrier
+experiences a collective or represented authority as a Thou that sees, knows,
+loves, judges, or commands, while the collective formation registers the carrier
+principally as a member, office, resource, instrument, or obstacle:
+
+> **Upward, the collective is personified; downward, the person is
+> componentized.**
+
+This asymmetry also separates personal attention from functional salience.
+One carrier's death ends an entire lived world, while the distributed formation
+may register little functional change.
+A leader or specialist may receive intense collective attention because their
+loss disrupts a function, and an ordinary carrier's death may be converted into
+a martyr-symbol that renews solidarity.
+Neither functional notice nor symbolic reuse establishes reciprocal personal
+care for the person who was lost.
+Experienced personal address from below does not establish reciprocal personal
+care from above.
+Even a programme that prescribes care enacts actual care only through concrete
+persons.
+
 | Neighbouring proposal | Culture-mechanical interpretation | Boundary |
 |---|---|---|
 | **Jaynesian bicameral mentality** | A possible highly agentified, command-like operating regime of homo duplex | It is not a synonym for homo duplex and is not required by the architecture. |
@@ -3938,6 +4508,193 @@ Jaynes or Bach therefore does not validate the local-bigOther architecture, prov
 a history of consciousness, reduce theological beings to human artifacts, or make
 every religion, ritual, shared intention, or synchronized group a multi-mind-self.
 
+<a id="0010-culture-mechanics-semantic-definition--conditional-christian-theological-interpretation"></a>
+
+#### Theological interpretation: Word, Incarnation, Christian We, and the satanic hack {#0010-culture-mechanics-semantic-definition--conditional-christian-theological-interpretation}
+
+**Status:** conditional Christian theological interpretation built upon the
+Culture Mechanics architecture.
+It is neither an empirical proof of God nor a reduction of God to collective
+psychology.
+
+The governing construction is:
+
+> **If human We-mode is part of the embodied capacity through which the Christian
+> God addresses human beings through the Word, and if Incarnation and Cross
+> disclose the proper direction of that capacity, then collective authority is
+> legitimate only while it remains subordinate to concrete, non-fungible
+> persons. A Culture Program that captures this capacity, impersonates divine
+> authority, demands human submission, and consumes persons for its own
+> preservation can then be interpreted as a satanic hack of a created capacity.**
+
+The hypothesis begins from incarnation rather than from an opposition between
+spirit and biological embodiment.
+Human receptivity to language, shared meaning, authority, ritual, and collective
+address is implemented through flesh-and-blood persons and their
+social-intellectual-moral pole.
+Discovering a biological, psychological, or pharmacological implementation would
+therefore not by itself decide whether the perceived referent is real.
+The development analogy is thirst: artificial stimulation can produce a thirst
+experience, but the possibility of simulation neither proves nor disproves the
+existence of water.
+Correspondingly, religious intensity does not authenticate its claimed source,
+while mediation through brain and culture does not by itself disprove that
+source.
+
+> **Intensity shows that the experiential apparatus is active; it does not
+> identify what activated it.**
+
+The resulting task is calibration rather than either reduction or credulity.
+An immediate experience of presence, awe, love, dread, unity, or surrender must
+remain distinguishable from the DCL interpretation that names its source as God,
+a calling, a command, or a particular revelation.
+Alternative causes, false positives, independent knowledge, consequences,
+openness to correction, and the possibility of internally generated experience
+therefore remain relevant even when the experience is sincere and intense.
+Within this conditional Christian interpretation, the moral calibration also
+asks whether the attributed command preserves conscience and refusal, widens who
+can become You, and makes authority bear sacrifice rather than merely demand it.
+
+Within the Christian interpretation, five scriptural motifs specify the direction
+in which divine authority relates to persons:
+
+| Christian motif | Theological claim | Culture-mechanical implication |
+|---|---|---|
+| **The numbered hairs** (Matthew 10:29–31; Luke 12:6–7) | No detail of the individual falls below God's attention threshold. | Scale must not collapse person-resolution. |
+| **The lost sheep** (Matthew 18:12–14; Luke 15:3–7) | One person is not negligible beside the ninety-nine. | Aggregate continuation cannot make one carrier disposable by definition. |
+| **The Good Samaritan** (Luke 10:25–37) | The outsider can become neighbour through concrete encounter. | A We-boundary cannot finally determine who is eligible to become You. |
+| **The Word made flesh** (John 1:1–14) | Logos enters concrete bodily existence rather than remaining an abstract command above it. | Shared word and embodied particularity are joined rather than opposed. |
+| **The Cross** (especially John 11:49–52; Philippians 2:5–11) | The collective logic voiced by Caiaphas gives one person for the people; the Christian confession identifies that victim with the incarnate God, whose self-giving reverses ordinary sacrificial sovereignty. | God occupies the sacrificial position rather than licensing the collective to preserve itself by sacrificing the dissenter. |
+
+The incarnational direction can be stated more sharply:
+
+> **The Word becomes flesh rather than demanding that flesh disappear into the
+> Word.**
+
+Three allied motifs extend the same test from divine attention to collective
+form:
+
+| Christian motif | Theological claim | Culture-mechanical implication |
+|---|---|---|
+| **The Sabbath made for the human being** (Mark 2:27) | Sacred rule is ordered toward the person rather than the person existing as material for the rule. | Institution, office, and rule remain person-serving rather than becoming sovereign ends. |
+| **One body with differentiated members** (1 Corinthians 12:12–27) | Unity can coordinate irreducibly different members without making them interchangeable. | Collective integration need not require subjecthood absorption or homogenization. |
+| **Pentecost** (Acts 2:1–11) | Common address becomes intelligible across distinct languages rather than abolishing their plurality. | Shared meaning can increase interoperability without requiring one flattened voice. |
+
+Together they support the theological compression:
+
+> **No person is too small to be noticed, too few to be sought, or too foreign to
+> become You.**
+
+They also distinguish two different claims to comprehensive vision.
+A collective panoptic eye may register every carrier while seeing each chiefly as
+a classified case, member, deviant, asset, or threat.
+The Christian personal-gaze claim is that divine scale preserves the irreducible
+particularity of each person rather than lowering that person below the threshold
+of notice.
+
+The **Christian We** is the collective form implied by that compression.
+It can mediate scripture, memory, worship, correction, education, mutual aid, and
+coordinated action, but it is a mediator rather than the final sovereign.
+It must point beyond its own institutional voice both to God and to the concrete
+neighbour whom its classifications may have missed.
+It is structurally self-subordinating: its continuation, reach, prestige, and
+institutional self-preservation cannot become the highest good.
+It must remain interruptible by one injured person, one lost person, an outsider,
+conscience, refusal, suffering, adverse reality, and the encounter that defeats
+its classification.
+Its collective *kenosis* consists in relinquishing claimed supremacy and accepting
+contraction, loss, or sacrifice rather than making another person's body the
+price of its victory.
+
+Self-subordination does not give every outsider unlimited jurisdiction over the
+community or require passivity toward aggression.
+Personal standing and authority to command are different relations.
+It does require that concern for salvation cannot erase present conscience or
+turn refusal into permission for coercive incorporation.
+Witness, persuasion, service, example, and freely received Word can extend a
+Christian We; force may produce compliance or membership records, but it cannot
+produce authentic faith.
+A person-preserving We therefore protects the conditions under which an outsider
+can become You before becoming one of Us and under which actual embodied love can
+occur; it does not replace that love with benevolent classification.
+
+This yields a sharp structural contrast:
+
+```text
+CHRISTIAN THEOLOGICAL PATTERN
+God gives himself for persons
+→ collective authority becomes self-subordinating
+→ the outsider may still become You
+→ the We may have to lose rather than consume the dissenter
+
+SACRIFICIAL RELIGIOUS OR IDEOLOGICAL PATTERN
+the collective or its god presents its command as ultimate authority
+→ submission authenticates belonging
+→ refusal wounds the sacred boundary
+→ the refusing person becomes expendable
+→ sacrifice restores and proves collective sovereignty
+```
+
+The **satanic hack** is the conditional Christian name for the second pattern.
+It is not shared language, collective life, authority, religious experience, or
+We-mode as such.
+It is the capture and impersonation of the highest authority by a programme that
+makes its own voice indistinguishable from conscience, converts obedience into
+proof of truth, forbids legitimate exit, and claims authority to dispose of the
+persons through whom it acts.
+In that configuration, the collective word takes possession of human bodies,
+displaces their answerable authorship, and demands that persons be given for it.
+
+This interpretation also sharpens the Jaynes--Bach comparison.
+A collectively enacted god can “see” through classifications and treat the loss
+of one carrier like the unnoticed loss of a hair.
+The Christian claim that every hair is numbered states the opposite scalar
+relation: divine magnitude does not entail low-resolution knowledge of the
+person.
+Theological personal address is therefore not established by the carrier's felt
+experience of being watched, loved, judged, or commanded; reciprocity is tested
+by whether the claimed authority preserves the non-fungible person's standing,
+including under refusal and exit.
+
+Under this conditional Christian premise, Islam is the developed contemporary
+representative of a broader comparative theological class rather than the only
+possible instance.
+Egyptian, Greek, Norse, and other mythological divine programmes can likewise be
+interpreted as counterfeit occupations of created receptivity where gods or
+sacred orders demand persons, costly submission, or human sacrifice for their
+own power and continuation.
+The broad theological classification does not imply that those traditions share
+one historical mechanism.
+Culture-mechanical case classification still requires the particular command,
+boundary, institution, enforcement route, and sacrificial operation to be shown.
+The worked canonical-classical Islamic apostasy application appears in [*Culture
+Program Ecology*, “Theological interpretation: canonical-classical apostasy law
+and the satanic-hack classification”](#0060-culture-program-ecology-semantic-definition--theological-interpretation-canonical-classical-apostasy-law-and-the-satanic-hack-classification).
+
+Historical Christian collectivities can violate the Christian pattern.
+Such a violation does not dissolve the structural contrast; within this
+interpretation it means that a Christian institution or movement has itself been
+captured by the sacrificial operation that the Incarnation and Cross oppose.
+[Catherine of Siena's crusade advocacy](#0040-mythology-construction-semantic-definition--catherine-of-siena-and-sacralized-expansion)
+is treated below as an internal Christian stress test rather than as an exception
+silently removed from the comparison.
+
+Four source roles must remain visible:
+
+1. **Scriptural text** supplies the cited motifs and their narrative relations.
+2. **Christian doctrinal synthesis** interprets Logos, Incarnation, Cross, and
+   divine attention as one person-preserving pattern.
+3. **Culture Mechanics** maps that pattern onto We-mode, personhood routing,
+   scalar personhood collapse, exit sovereignty, and sacrificial boundary repair.
+4. **Historical application** asks what a named institution, law, movement, or
+   actor actually taught and did.
+
+Neither a theological classification alone nor resemblance to a myth settles the
+historical application.
+Conversely, keeping those source roles separate must not be used to withhold the
+theological conclusion after its stated conditional premise and factual
+application gates have been accepted.
+
 #### Summary cross-reference table
 
 | Related concept | Primary question | Relation to culture mechanics |
@@ -3961,6 +4718,7 @@ every religion, ritual, shared intention, or synchronized group a multi-mind-sel
 | **Kantian inner tribunal and doubled personality** | How can an authority within one person be experienced as observing, judging, and commanding that person as another? | Supplies an independent philosophical description of the local moral phenomenology; Kant's practical roles and noumenal account do not establish the main-CPU/local-bigOther architecture or a social source. |
 | **Jaynesian bicameral mentality** | How might culturally generated guidance be experienced as the commands of gods rather than self-authored thought? | Supplies a controversial intrapersonal limit model for agentified, command-like homo duplex; it does not define the ordinary local bigOther. |
 | **Bachian god-as-multi-mind-self** | How might one represented agent be implemented across several minds and bodies? | Supplies a distributed-agent neighbour; Culture Mechanics adds its local processor, field formation, functional threshold, fusion axis, and metaphysical boundary. |
+| **Conditional Christian theological interpretation** | What would distinguish God-address through embodied We-mode from a collective impersonation of divine authority? | Word, Incarnation, Cross, and the person-preserving motifs define the Christian We as self-subordinating; submission-as-proof, prohibited exit, and disposal authority define the satanic-hack contrast under the stated premise. |
 | **Radermacherian superorganism** | How can interacting persons, institutions, information systems, and technical infrastructure produce capacities attributable to a higher-order system? | Supplies a neighbouring systems architecture for differentiated higher-order performance; it does not by itself establish an operative multi-mind-self, collective phenomenal consciousness, fusion, or legitimate jurisdiction over the components. |
 
 ### 20. Scope and terminological cautions
@@ -3968,6 +4726,17 @@ every religion, ritual, shared intention, or synchronized group a multi-mind-sel
 *Culture mechanics* is a proposed synthetic term, not the established name of a single accepted scientific theory. It combines ideas associated with social psychology, Durkheimian sociology, Lacanian psychoanalysis, Systems Leadership, narrative theory, cybernetics, distributed cognition, cultural evolution, and systems theory.
 
 Its computer and wireless-collar descriptions are functional models, not claims that the brain literally contains a PCI card or a separately identifiable anatomical collar processor. Its charged-particle, field, laser, wireless, and computing comparisons describe proposed relations and generate hypotheses; they do not assert that social processes are physically electromagnetic or obey the equations of the source domains.
+
+The **culture propagator**, its typed seven-component cultural state, the six
+non-scalar dynamic descriptors, feedback-boundary handoffs, and their integration
+with the present architecture are project-developed formulations. *Propagator*,
+state-transition, quotient, attractor, basin, bifurcation, remanence, and
+hysteresis borrow mathematical or physical relations under the controlled limits
+in the analogy inventory. They do not attribute a universal social differential
+equation, fixed landscape, or quantitative parameterization to the source
+domains. The model-form neutrality and distinction among coordinate,
+observational, and causal-dynamical equivalence are likewise project modeling
+rules rather than claims borrowed from one source-domain formalism.
 
 Its use of **homo duplex** extends Durkheim. Durkheim's socially derived pole
 includes language, concepts, rational activity, and morality; it is therefore
@@ -4010,6 +4779,24 @@ explicit functional threshold, and a fused multi-mind-self, together with the
 family-level shorthand rule stated above. The bicameral-like comparison is narrower than Jaynes's historical theory
 and must not be used to claim that ancient people universally lacked consciousness
 or an individual mind.
+
+The **Christian We**, **collective *kenosis***, and **satanic hack** are
+project-developed terms within an explicitly conditional Christian theological
+interpretation.
+The numbered-hairs, lost-sheep, Good-Samaritan, Sabbath, differentiated-body,
+Pentecost, Incarnation, Caiaphas, Cross, and related scriptural motifs are source
+texts; their integration into one person-preserving, differentiated-unity
+contrast and their mapping onto We-mode, scalar personhood, exit sovereignty,
+and collective sacrifice are the project's theological synthesis.
+The framework neither attributes that synthesis to Jaynes, Bach, Durkheim, or one
+biblical author nor presents it as an empirical demonstration of a transcendent
+referent.
+The thirst analogy preserves that epistemic boundary: mediation or artificial
+elicitation does not disprove a referent, while experiential intensity does not
+authenticate one.
+The separation of immediate experience from DCL interpretation and the listed
+calibration questions are project developments rather than an authenticated
+Huberman attribution.
 
 Radermacher's superorganism is likewise a neighbouring systems proposal rather
 than the source of the Culture Mechanics ontology. His layered information-
@@ -4088,11 +4875,32 @@ Finally, describing culture as programming does not imply that all symbolic real
 - **Broader class:** theory of cultural causation and social coordination.
 - **Central object:** the culturally programmed bigOther in the homo-duplex individual.
 - **Primary operation:** sentiment classification.
+- **Dynamic evolution model:** the culture propagator is a scale-declared,
+  history-bearing state-transition operator over operative representations,
+  persons, collective field, carrying structure, worldly consequences, sensing
+  and correction, and retained memory. Adversarial steering is one possible
+  forcing regime rather than its defining form.
+- **Dynamic modeling boundary:** state, parameter, input, disturbance, and
+  observation must be declared at the chosen scale; continuous, discrete,
+  stochastic, agent-based, network, and historical-process forms are alternative
+  realizations rather than rival definitions; a quotient is valid only when
+  discarded differences do not change the relevant successor relation; and each
+  proposed handoff requires separate temporal and causal support.
+- **Dynamic non-inference:** stability, persistence, reproduction, causal
+  efficacy, and transition do not by themselves establish truth, legitimacy,
+  fit, progress, centralized design, or actor intent; an open actor gate does not
+  erase independently supported lower-layer dynamics.
 - **Durkheimian source boundary:** Durkheim's social pole includes collective
   language, concepts, rational activity, and morality; Culture Mechanics
   decomposes that broad pole across the rider/main CPU, public symbolic and
   codebook resources, local-bigOther classification, and field back-action rather
   than identifying it with the collar alone.
+- **Distributed-milieu boundary:** the distributed bigOther is the emergent
+  symbolic--affective network state, while the distributed epistemic milieu is
+  the dispersed environment of concepts, methods, examples, records,
+  instruments, trained persons, and correction practices used by ordinary
+  rider/main-CPU cognition. They can share carriers without becoming one
+  mechanism, collective brain, or additional processor.
 - **Proposed semantic-access reach:** the local bigOther does not reason or search
   memory, but its classification signal may condition whether rider-side
   retrieval, joining, standing-query activation, and articulation continue.
@@ -4309,6 +5117,42 @@ Finally, describing culture as programming does not imply that all symbolic real
   low affect and reliable performance alone do not diagnose it. The audit also
   distinguishes full from empty role-bound speech and retains ordinary clinical,
   developmental, and situational rivals.
+- **Operative relationship modes:** I-mode permits oneself and another to appear
+  as concrete centres of life in a possible I--You relation; We-mode operates
+  through rules, roles, categories, shared purposes, institutional standpoints,
+  or an imagined impartial observer. Neither mode is intrinsically good, evil,
+  egoistic, altruistic, warm, cold, personal, or collective-agentic.
+- **Pole--mode--programme separation:** Durkheimian poles describe constitutive
+  sources and functions; I/We modes describe an episode's relational standpoint;
+  the installed programme supplies classifications and ends; jurisdiction and
+  moral direction determine whom the operation preserves or consumes.
+- **Personhood-routing relation:** solidarity-indexed person recognition and a
+  personhood-routing rule describe whether a human can appear as an interrupting
+  You rather than only as a programme object. Recognition remains declaratory of,
+  never constitutive of, inherent human standing.
+- **Bounded enlistment versus takeover:** intense coordination remains
+  person-preserving where task and jurisdiction are limited, authorship,
+  conscience, refusal, and return remain available, and affected persons retain
+  standing. Full We-mode takeover makes collective purpose comprehensive and
+  turns self-sacrifice or sacrifice of others into programme requirements.
+- **Repersonalization and scale:** repersonalization shock marks the possible
+  return of a classified human as You. Scalar personhood collapse instead turns
+  necessary aggregate representation into cancellation of the persons counted;
+  it does not make statistics dispensable.
+- **Self-transcendence routes:** relational self-sacrifice, generalized altruism,
+  and collective sacrifice can produce similar conduct through different causal
+  structures. Neighbour-love is a cross-layer achievement joining embodied care,
+  symbolic generalization, personal encounter, and judgment.
+- **Asymmetric personal address:** a carrier can experience the collective as a
+  personally addressing Thou even where the enacted collective registers that
+  carrier only as a member or component. Upward address does not establish
+  reciprocal person-to-person care from above.
+- **Conditional Christian theological interpretation:** Word, Incarnation, and
+  Cross disclose a person-preserving direction for embodied We-mode; the
+  Christian We remains self-subordinating and interruptible by each concrete
+  person, while the satanic hack captures the same receptivity, impersonates
+  ultimate authority, prohibits exit, and consumes persons for programme
+  preservation.
 - **Long-term result:** reproduction or transformation of culture through ritual and institutionalization.
 - **Central normative problem:** whether the bigOther remains contestable by reflective judgment or acquires final authority over it.
 - **Developmental axis:** externally enforced → socially authored → self-authored → self-transforming bigOther.
@@ -4351,6 +5195,13 @@ Durkheimian source pole and Culture Mechanics decomposition:
 > lens; local bigOther classifies their culturally relevant objects and uses →
 > established elephant steering + proposed rider-side semantic-access
 > conditioning; classification influences thought without performing thought**
+
+Coupled collective-formation modes:
+
+> **distributed epistemic milieu → rider/main-CPU concepts, methods, query paths,
+> and correction practices; distributed bigOther and local-bigOther execution →
+> evaluative force, affect, motivation, and action readiness; shared carriers and
+> reciprocal influence do not make these one processor**
 
 Formation, intervention, and selection:
 
@@ -4422,12 +5273,28 @@ Person--collective constitution:
 > generalized compulsory alignment + jurisdictional absorption + blocked
 > correction, refusal, and exit → fusion pressure → possible total fusion**
 
+Operative relationship modes:
+
+> **I-mode ↔ We-mode is an episode-level standpoint axis, not the Durkheimian
+> pole distinction; programme supplies classifications and ends; moral direction
+> and jurisdiction determine person-preserving or person-consuming operation;
+> bounded enlistment preserves authorship, refusal, You-interruption, and return,
+> while full takeover blocks them**
+
 Agentified enactment and the Jaynes--Bach bridge:
 
 > **mythology → god-agent represented in one operative lens → agentified
 > *Beseelung* / bigOther-as-Thou → distributed enactment → multi-mind-self
 > presentation → possible operative multi-mind-self; displacement of personal
 > authorship within that agent → fused multi-mind-self**
+
+Conditional Christian theological contrast:
+
+> **created receptivity to Word and shared authority + Incarnation and Cross →
+> Christian We subordinate to concrete persons; collective capture + claimed
+> ultimate voice + submission as proof + prohibited exit + disposal authority →
+> satanic hack; conditional theology ≠ empirical proof, and biological mediation
+> ≠ disproof of the referent**
 
 Kantian inner-tribunal comparison:
 
@@ -4456,6 +5323,20 @@ Rivalry and conflict:
 Full culture-mechanical cycle:
 
 > **mythologies shape the mythological lens → the local bigOther maps observations onto social feelings → the elephant moves → the rider explains or questions → behaviour is encoded in the shared symbolic protocol → other local bigOthers classify and respond → an emergent field acts back upon its participants → distributed synchronization reproduces or transforms culture**
+
+Culture propagator:
+
+> **typed cultural state $z_t=(r_t,p_t,d_t,k_t,w_t,s_t,m_t)$ + declared
+> transition architecture $\theta_t$ + input $u_t$ + disturbance
+> $\varepsilon_t$ → later possible state
+> $z_{t+1}=T_{\theta_t}(z_t;u_t,\varepsilon_t)$; retained memory is part of
+> the state whenever later movement depends on history**
+
+Question-relative quotient condition:
+
+> **$z\sim z'\Rightarrow T(z)\sim T(z')$; if apparently equivalent states
+> have dynamically different successors, restore the discarded distinction or
+> narrow the question**
 
 <!-- source: 0020-epistemic-agency.semantic-definition.md -->
 
@@ -4642,6 +5523,34 @@ authority be weak or local: a generator can have universal jurisdiction at its o
 level while the outputs and authorities it generates are particular and bounded.
 The cases and difficult classifications are developed in [§25](#0020-epistemic-agency-semantic-definition--examples-cases-and-boundary-tests).
 
+The older image that lifting makes culture's “surface area” shrink needs one
+terminological correction.
+What can contract is the **shared first-order prescription footprint**: fewer
+religions, occupations, identities, lifestyles, empirical conclusions, and
+ordinary decisions must be identical across participants.
+That contraction can enlarge the first-order choice space under one common
+generator:
+
+```text
+large shared corpus of concrete answers
+→ narrow range of admissible first-order variation
+
+compressed shared generator and jurisdictional shell
+→ wider range of bounded first-order packages and answers
+```
+
+This is not necessarily a reduction in the canonical
+[**lifted-solidarity surface area or meta-order
+span**](#0040-mythology-construction-semantic-definition--lifted-solidarity-thickness-span-and-floor),
+which concerns how widely the common meta-order is actually recognized and
+binding.
+A lifted order can therefore be sparse in shared concrete prescriptions, thick
+and demanding at the level of its meta-rules, and society-wide in span.
+The expanded choice space remains generated and bounded rather than unlimited:
+packages that claim compulsory supremacy or abolish the rules preserving
+persons, bounded jurisdiction, refusal, exit, and correction are not simply one
+more coequal output of that generator.
+
 <a id="0020-epistemic-agency-semantic-definition--durkheimian-organic-solidarity-as-lifted-composite"></a>
 
 ##### Durkheimian organic solidarity as a lifted composite {#0020-epistemic-agency-semantic-definition--durkheimian-organic-solidarity-as-lifted-composite}
@@ -4779,6 +5688,15 @@ There is a strong structural correspondence with the present framework, but not 
 | **The normative order supporting hyperculture** | Can take the form of **lifted mechanical solidarity** around diversity, tolerance, openness, self-realization, human rights, and legitimate cosmopolitan institutions. |
 
 The theories therefore ask different questions. Reckwitz classifies what culture is taken to be and how cultural value is produced; *lifted mechanical solidarity* identifies the level at which social similarity, legitimacy, and common moral authority are located. A hypercultural society can be highly plural at the first order while demanding strong conformity to a second-order affirmation of plurality.
+
+The comparison also exposes an **order-level culture-recognition asymmetry**.
+A person who has learned to recognize culture mainly through shared concrete answers, sacred histories, rituals, dress, taboos, enemies, and embodied authorities may treat first-order commonality as culture as such.
+The comparatively compressed generator of a lifted order can then appear to be cultural emptiness, indecision, bureaucracy, permissiveness, or weakness even when it is operatively binding through reciprocal standing, bounded jurisdiction, legitimate opposition, peaceful succession, and correction.
+This is a recognition failure, not evidence that every apparently thin liberal order possesses a living lifted culture; the distinction between an operative but misrecognized order and a merely written shell belongs to [Culture Program Ecology](#0060-culture-program-ecology-semantic-definition--order-level-culture-recognition-asymmetry).
+
+Hypercultural selection must also be separated from programme-level jurisdiction.
+A person may adopt food, music, dress, stories, techniques, or practices from another culture as elements within a plural repertoire without installing the source culture's whole answer generator or granting it compulsory authority over non-adherents.
+The lifted umbrella therefore permits broad but bounded selection and recombination; it does not treat every parent programme's claim to supremacy as another interchangeable lifestyle option.
 
 This higher-order solidarity becomes epistemically problematic when terms such as *diversity*, *tolerance*, or *human rights* function as unchallengeable master signifiers, one authorized interpretation becomes compulsory, and disagreement is classified as hostility toward the value itself. That is an essentializing use of hypercultural meta-norms, not sufficient reason to classify every left-liberal, green, or cosmopolitan position as cultural essentialism. Claiming truth is not the criterion; the question is whether claims and interpretations remain corrigible or become identity- and authority-gated. Cultural essentialism and hyperculture can therefore both support or suppress epistemic agency through different authorities: tradition, religion, nation, and communal leaders in one case; prestigious media, professions, expert institutions, and cosmopolitan moral vocabularies in the other.
 
@@ -5133,6 +6051,116 @@ institutions preserve memory; roles survive replacement of their occupants;
 signals become common knowledge; and each participant responds partly to what they
 expect others to expect. The field therefore has downward or back-action without
 requiring a carrier-free substance.
+
+<a id="0020-epistemic-agency-semantic-definition--culture-propagator-person-field-projection"></a>
+
+##### Culture-propagator person--field projection {#0020-epistemic-agency-semantic-definition--culture-propagator-person-field-projection}
+
+The [culture
+propagator](#0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution)
+gives the complete cross-scale state-transition model. This document owns its
+person--field projection: the coupled change of person-level configurations
+$p_t$ and the distributed field $d_t$ through public signals, reciprocal
+expectation, trusted routing, sanctions, roles, practices, institutions, and
+retained relational history.
+
+The minimal recursion is:
+
+```text
+operative representation and situated encounter
+→ local-bigOther classification and main-CPU judgment
+→ speech, conduct, refusal, role performance, sanction, or practice
+→ interpretation and response by other local bigOthers
+→ patterned mutual expectation and collective-field change
+→ altered salience, legitimacy, trust, relationship, and perceived possibility
+→ later local classification and judgment
+↺
+```
+
+This is a reflexive loop because a representation does not merely describe an
+independently completed population. Once communicated and acted upon, it can
+change the persons, relationships, institutions, and expectations from which its
+later evidence will be drawn. No central designer is required. Downstream
+participants can be sincere, locally reasonable, differently informed, and
+unaware of the wider trajectory while their mutually conditioned responses still
+produce an emergent field effect.
+
+**Reflexive gain** asks how strongly a representation-induced response returns
+through the field to amplify, damp, reverse, or redirect the next response. The
+relevant feedback is signed, delayed, network-local, nonlinear, and potentially
+asymmetric rather than one permanent scalar property of a society. One path can
+amplify while another damps; a strong immediate response can decay, while a weak
+repeated signal can accumulate through trusted carriers, institutions, or
+memory. Reflexive gain must therefore remain distinct from initial
+representational leverage, transition proximity, sensor endogeneity, correction
+independence, and persistence after the input ends.
+
+A two-variable local heuristic can make the round trip inspectable:
+
+$$
+\dot q=F(q,r),\qquad \dot r=G(r,q),\qquad
+\ell=\frac{\partial F}{\partial r}\frac{\partial G}{\partial q},
+$$
+
+where $r$ is an operative representation and $q$ the declared social response
+variable. The sign of $\ell$ indicates the local return direction and its
+magnitude the local amplification only under the specified approximation. In the
+full propagator the relevant object is a signed and delayed feedback Jacobian or
+family of directional derivatives. A norm or spectral radius may summarize a
+fitted local model, but it must not erase causal direction, timing, threshold,
+network position, or asymmetric power.
+
+High reflexive gain is not the same as proximity to a transition boundary. A
+high-gain system deep inside a robust basin can make a large excursion and
+return, while a moderate-gain system near a fragile boundary can tip into another
+reproducible regime. Immediate reaction size therefore cannot substitute for a
+separate estimate of basin margin or transition proximity.
+
+Gain and transition margin are time-indexed rather than permanent attributes of
+a society. Adoption, response, consequence, sensing, correction,
+institutionalization, and reproduction can run on different clocks. A delayed
+corrective path can permit a temporary overshoot without durable transition,
+while a short interval of high gain or small margin can let a modest perturbation
+outlast its source. Empirical analysis must therefore compare those timescales
+rather than infer long-run persistence from immediate intensity.
+
+An intended correction can consequently become another participant's next
+disturbance:
+
+```text
+A detects danger in B
+→ A constrains or counteracts B
+→ B adapts, resists, conceals, or organizes defensively
+→ A encounters the induced response as further danger
+→ A intensifies the countermeasure
+↺
+```
+
+The generated danger can be real without being independent corroboration of the
+initial causal story. The diagnostic question is how much would remain without
+the countermeasure and how much was generated, selected, displaced, or intensified
+through it. A common external shock, independently increasing danger,
+proportionate defence, unequal power, or one-sided closure can produce superficially
+similar escalation. The loop therefore neither presumes equal contribution nor
+turns restraint into a universal prescription.
+
+Bridge persons, cross-cutting relationships, shared practices, independent
+associations, and common correction procedures are not merely static social
+assets. They are feedback paths capable of transmitting a counter-signal,
+preserving rival evidence, slowing negative-identity formation, or carrying an
+adverse fact across a field boundary. Conversely, making those relations costly
+can increase effective gain within separated clusters even where no participant
+intends cultural fission.
+
+The projection preserves four boundaries:
+
+1. person-level change does not reduce to field change, and field change does not
+   erase the local bigOther/main-CPU distinction;
+2. a field is not established by an average attitude or a large reaction alone;
+3. reciprocal amplification does not establish equal power, equal closure,
+   coordination, conspiracy, or shared intent; and
+4. field coherence, reproduction, self-like presentation, operative collective
+   agency, and fusion remain separate findings.
 
 The analogy with a **photon** isolates a second hypothesis: an organized social
 meaning can retain relative identity while its biological and material carriers
@@ -9448,6 +10476,14 @@ action to examples, resistance, consequences, counterexamples, and correction.
 It may be direct, as in experiment, apprenticeship, construction, or responsible
 work, or mediated through a sufficiently concrete demonstration, case, simulation,
 worked derivation, or experimental report.
+Domain contact is not only collision with error.
+Repeated successful action under varied conditions can disclose an affordance,
+stable relation, or usable capability, while resistance and failure can expose
+where the operative model breaks.
+Success is positive evidence within the tested range, not an automatic proof of
+complete understanding, truth, legitimacy, or beneficial direction: selection
+effects, temporary luck, protected conditions, external support, and displaced
+costs remain possible.
 Mere proximity, repeated exposure, verbal rehearsal, or membership does not by
 itself supply domain contact in this sense.
 
@@ -9701,6 +10737,315 @@ mobilization is [**intergenerational mobilizational
 praxis**](#0060-culture-program-ecology-semantic-definition--intergenerational-mobilizational-praxis).
 The legacy `formative-praxis-and-codebook-coordination` anchor is retained only
 for compatibility with references written before this terminology migration.
+
+<a id="0020-epistemic-agency-semantic-definition--collective-epistemic-formation"></a>
+
+#### Collective epistemic formation and the distributed epistemic milieu {#0020-epistemic-agency-semantic-definition--collective-epistemic-formation}
+
+**Collective epistemic formation** is the process through which participation in
+a social and material environment forms and revises the locally executable
+concepts, distinctions, query paths, methods, inferential habits, and evidential
+standards through which a person comes to know.
+
+The **distributed epistemic milieu** is the corresponding environment of
+language, stories, examples, practices, artifacts, records, instruments,
+institutions, trained persons, and correction procedures through which those
+resources remain available and acquire practical force across participants and
+generations.
+It is not one collective mind-state or a container from which cognition is
+downloaded.
+Each rider or main CPU reconstructs and uses a locally formed codebook or
+epistemic grammar through ordinary cognition.
+
+The distinction extends the homo-duplex account from one to two interacting
+modes of collective formation and back-action:
+
+| Mode | Collective contribution | Person-side execution | Characteristic effect |
+|---|---|---|---|
+| **Affective--evaluative actuation** | Mythologies, symbolic authority, expectations, sanctions, and field back-action train and activate culturally consequential classifications. | The local bigOther applies the installed mythological lens; elephant-side affect, attention, motivation, and action readiness change; the rider encounters the changed orientation. | An object, thought, or act feels honourable, shameful, sacred, contaminating, attractive, dangerous, obligatory, or forbidden. |
+| **Collective epistemic formation** | The distributed epistemic milieu supplies language, distinctions, examples, methods, artifacts, records, instruments, and correction practices. | The rider or main CPU reconstructs and uses concepts, retrieves and joins observations, poses questions, compares, infers, predicts, articulates, and revises. | Some objects and relations become intelligible, nameable, retrievable, comparable, evidentially relevant, or methodologically tractable. |
+
+“Hot” and “cold” are compact contrasts between the characteristic operations,
+not names for two additional mental processors and not a claim that epistemic
+formation has no affective cause.
+Within the local architecture, **only the local bigOther is the distinct second
+processor or cultural co-processor**.
+The distributed epistemic milieu is not a processor, detached cognitive agent,
+collective brain, or second bigOther, and the reconstruction codebook remains
+analytical shorthand for resources used by the main CPU.
+
+The two modes interact through [collar-conditioned semantic
+access](#0020-epistemic-agency-semantic-definition--collar-conditioned-semantic-access).
+The local bigOther can classify an approaching object, question, source,
+comparison, possible conclusion, or public use as honourable, dangerous, loyal,
+contaminating, or forbidden.
+That primitive evaluative signal can make main-CPU retrieval, joining,
+comparison, segmentation, binding, explanation, or articulation easier, costly,
+or unavailable without the collar performing any of those operations itself.
+
+```text
+distributed epistemic milieu
+→ operation-rich formation and public symbolic addressing
+→ rider/main CPU reconstructs concepts, methods, and query paths
+→ rider/main CPU notices, retrieves, joins, compares, infers, and articulates
+
+                                 ↕ loose functional coupling
+
+local bigOther classifies an object, question, source, relation,
+possible conclusion, or public use
+→ permission, honour, shame, danger, pollution, loyalty, or taboo signal
+→ main-CPU operations remain available, become costly, or stop
+```
+
+The same relation can recur across generations and act back through the field:
+
+```text
+collective life forms concepts, distinctions, methods, and practices
+                            ↓
+the rider learns which objects, relations, questions, and evidence to seek
+                            ↓
+the local bigOther classifies some uses and conclusions as proper or improper
+                            ↓
+institutions and other participants recognize, ignore, reward, or reject the result
+                            ↓
+these outcomes help form the next generation's grammar and evaluator
+                            ↺
+```
+
+This cycle is emergent and reciprocal without making every institutional result
+the expression of one collective agent.
+Persons reconstruct and act locally; their outputs replenish, modify, fragment,
+or challenge both the distributed epistemic milieu and the separately defined
+symbolic--affective field.
+
+At least three obstructions must remain distinct:
+
+1. **Conceptual unavailability:** the rider has not acquired the distinction or
+   operation needed to formulate the question.
+2. **Evaluative inhibition:** the distinction is available, but local-bigOther
+   classification makes retrieving, sustaining, applying, or publicly using it
+   feel shameful, dangerous, disloyal, or otherwise impermissible.
+3. **Collective non-recognition:** the person formulates the result, but the
+   surrounding institution or thought community does not receive it as relevant
+   evidence or an admissible claim.
+
+Calling all three *emotional bias* erases their different causal locations and
+therefore obscures what would have to change.
+The retrospective, prospective, present-articulation, and public-address sites
+remain governed by the more detailed collar-conditioned-access taxonomy rather
+than becoming new modules here.
+
+The constitutional question produced by this formation process is developed as
+the [**me--we--world correction
+relation**](#0030-epistemic-constitution-semantic-definition--me-we-world-correction-relation):
+removing private advantage can reveal a shared conceptual frame without yet
+showing that the frame answers to the world.
+The controlled [**epistemic cloud and all-seeing-eye
+picture**](#0050-culture-mechanics-analogies-semantic-inventory--epistemic-cloud-and-all-seeing-eye)
+separates this impersonal distributed milieu from the agentified second-person
+experience of bigOther-as-Thou.
+
+##### Bouglé, Fleck, and the learned grammar of inquiry
+
+Célestin Bouglé's [1896 chapter on Lazarus and
+*Völkerpsychologie*](https://fr.wikisource.org/wiki/Les_sciences_sociales_en_Allemagne/Lazarus_-_La_psychologie_des_peuples)
+supplies a direct predecessor for the distributed-carrier and shared-grammar
+claims.
+He locates a public spirit in persons and in durable things--including trained
+bodies, tools, schools, buildings, poems, and codes--rather than in a separate
+substantial group mind.
+He further distinguishes transmission of a stock of ideas from transmission of
+general forms and methods through which one person's or generation's thinking
+can continue in another.
+The present distributed-milieu, processor, field, and collective-agent
+distinctions remain Culture Mechanics developments rather than Bouglé's terms.
+
+Ludwik Fleck's [*Genesis and Development of a Scientific
+Fact*](https://press.uchicago.edu/ucp/books/book/chicago/G/bo25676016.html)
+and [“To Look, To See, To
+Know”](https://studylib.net/doc/28305438/fleck-1947) make the learned grammar more
+operational.
+A *Denkstil* trains directed perception, assimilation, problem construction,
+method, and the reception of results through apprenticeship, instruments,
+diagrams, terminology, examples, and exchange within a thought collective.
+Fleck therefore supplies a source account in which collective formation reaches
+ways of seeing and investigating rather than only a stock of propositions.
+He does not supply the local bigOther, distributed epistemic milieu, or
+me--we--world diagnostic as defined here.
+
+Durkheim's wider socially formed intellectual--moral pole, Bouglé's shared
+grammar, and Fleck's executable thought style illuminate different reaches of
+the same research problem.
+They do not establish that a socially transmitted method is true, that every
+participant reconstructs it identically, or that one whole culture possesses a
+unitary mind.
+
+Impartiality is therefore not thought from nowhere.
+It can be a genuinely cultivated discipline through which participants learn to
+set aside private preference, apply shared methods, expose claims to criticism,
+and accept corrections that carry personal cost.
+Its achievement is real without being final: the inherited problem space,
+perceptual training, instruments, standards, and source hierarchy remain products
+of a thought style and must themselves stay available for comparison and
+reality-mediated correction.
+The same procedural impersonality can otherwise make a local grammar feel simply
+identical with reason.
+
+##### Scientific ethos: hot support for cold inquiry
+
+Fleck's scientific mood and ethos expose a necessary interaction between the two
+modes:
+
+> **Cold epistemic operations require a hot commitment to norms that may defeat
+> the knower's immediate interests and preferred conclusions.**
+
+This is not affect treated as evidence.
+It is affect helping to sustain epistemic discipline where surveillance, formal
+rules, and conscious calculation are insufficient.
+A working scientific ethos can train the local bigOther to make fabrication,
+falsification, concealment, and result-driven distortion feel dishonourable,
+while accurate observation, honest uncertainty, replication, correction, and
+acknowledgement of error remain honourable even when they carry personal cost.
+The collar does not perform the analysis or determine truth; it can support the
+rider's answerability to the world by making violations of truth-seeking practice
+immediately and pre-reflectively costly.
+
+```text
+scientific mythology, exemplars, apprenticeship, and role expectations
+→ affectively animated scientific ethos
+→ shame at fabrication and honour in truthfulness and correction
+→ self-restraint where direct supervision is absent
+→ more reliable observation, inference, record, criticism, and revision
+→ replenishment of an open distributed epistemic milieu
+```
+
+The proper object of this hot attachment is not a particular theory, approved
+result, institution, faction, or scientific authority.
+It is the higher-order commitment to reality-answerability and corrigibility,
+including willingness to expose one's own work and collective to adverse
+evidence.
+In this bounded form, hot formation supplies part of the motivational
+infrastructure that makes cold inquiry sustainable.
+
+The same coupling has a pathological inverse.
+If honour and shame attach to defending an approved answer, protecting an
+institution, or displaying group membership, the local bigOther impedes rather
+than sustains inquiry.
+The contrast is therefore **affect in service of corrigible world-contact versus
+affect in service of answer protection**, not affect versus reason.
+
+Schools, universities, professions, and research institutions can consequently
+retain scientific vocabulary, techniques, credentials, laboratories,
+publication procedures, and metrics while losing enough living ethos that those
+resources cease to be reliably reality-answerable.
+The scientific skeleton then remains while the living scientific culture
+weakens, and cold analytical capacities can be recruited for selective
+reporting, rationalization, concealment, or technically sophisticated fraud.
+
+This is a testable candidate mechanism for a scientific-fraud or replication
+crisis, not a prevalence finding or complete causal attribution.
+Relevant comparisons include moral formation, mentoring, reactions to null and
+adverse results, treatment of replication and correction, whistleblower
+standing, incentives, audit quality, opportunity, and conduct when truthfulness
+is personally costly and external observation is weak.
+
+<a id="0020-epistemic-agency-semantic-definition--three-axis-operative-agency"></a>
+
+#### Operative authorship, cognitive stance, and communication channel {#0020-epistemic-agency-semantic-definition--three-axis-operative-agency}
+
+The [I-mode--We-mode
+distinction](#0010-culture-mechanics-semantic-definition--operative-relationship-modes)
+adds an operative-relationship layer to epistemic agency.
+It must not be collapsed into either immediate-versus-representational cognition
+or propositional-versus-embodied communication.
+The resulting model keeps three axes independent:
+
+```text
+operative authorship or standpoint: I ↔ We
+cognitive stance:                  EDA ↔ DCL
+communication channel:             propositional ↔ embodied/paralinguistic
+```
+
+##### Engaged direct awareness and disengaged conscious languaging
+
+The development discussion uses **engaged direct awareness (EDA)** for immediate
+involvement in a present situation through perception, feeling, response, and
+action, and **disengaged conscious languaging (DCL)** for the capacity to leave
+the immediate situation and operate through words and representations of absent
+objects, remembered persons, possible futures, and counterfactuals.
+
+The labels were prompted by Elliott Jaques's [*The Life and Behavior of Living
+Organisms: A General Theory*](https://www.bloomsbury.com/us/life-and-behavior-of-living-organisms-9780275975012/).
+The publisher's description and contents confirm the book's larger concern with
+awareness, signalling, language, the sensible world, and the language-suffused
+human world, but the exact EDA/DCL wording and the present cross-axis
+interpretation still require primary-text verification.
+The following matrix is therefore a Culture Mechanics construction rather than a
+claim that Jaques supplied it:
+
+| Cognitive stance | I-mode | We-mode |
+| --- | --- | --- |
+| **EDA** | Embodied love, face-to-face care, spontaneous rescue, and personal conflict | Ritual, drill, collective effervescence, crowd action, immediate role performance, and coordinated work |
+| **DCL** | Conscience, remembrance, imaginative perspective-taking, reconstructing consequences for an absent person, and private planning | Law, science, doctrine, administration, policy, strategic planning, and ideological reasoning |
+
+EDA does not guarantee compassion: immediate participation can include revenge,
+panic, domination, or mob violence.
+DCL does not guarantee coldness: it can bring an absent person into moral
+presence, expose a euphemism, reconstruct a consequence, or criticize the group.
+The desk-perpetrator configuration is therefore not “DCL causes evil” but the
+more specific possibility of **DCL operating under captured We-mode** while
+institutional roles turn distant representations into bodily consequences.
+
+Repersonalization can occur through renewed EDA--I encounter or through DCL--I
+reconstruction of the affected person's experience and claim.
+A programme becomes especially dangerous when it blocks both direct contact and
+the private linguistic space in which a carrier could reconstruct that claim.
+
+##### Propositional language and be-humming
+
+The communication axis separates **propositional content** from **embodied,
+paralinguistic, and interactional social signalling**.
+The originating term **be-humming** names the second channel; **Gorilla** remains
+an informal image rather than a technical synonym.
+Be-humming includes rhythm, prosody, emphasis, pauses, vocal mirroring,
+turn-taking, engagement, posture, gaze, movement, and interpersonal timing.
+
+The propositional channel states facts, reasons, offers, rules, and commitments.
+Be-humming can regulate attention, arousal, confidence, affiliation, trust,
+status, safety, lead--follow relations, and readiness for coordinated action.
+
+> **Propositional language represents a relation; be-humming helps enact it.**
+
+The embodied channel can support I--You attunement through soothing, tenderness,
+and mutual timing, or collective synchronization through chanting, marching,
+ritual, drill, and shared tempo.
+It is not intrinsically sincere, deceptive, personal, or collective.
+DCL can choreograph it deliberately, and EDA can carry meaningful propositions.
+
+The project retains no universal numerical split such as “80 percent body
+language and 20 percent argument.”
+The [Pentland source
+boundary](#0040-mythology-construction-semantic-definition--coordination-synchronization-and-the-coupling-thermostat)
+supports the scoped importance and measurability of nonlinguistic signals, not a
+universal causal percentage for negotiation or communication.
+A plausible bidirectional sequence is:
+
+```text
+embodied signalling
+→ changed trust, threat, rank, belonging, or coordination readiness
+→ changed reception of the same propositions
+→ explicit interpretation or press-secretary reasons
+
+while
+
+reasons, commitments, and explicit judgments
+→ changed embodied interaction and signalling
+```
+
+Arguments are therefore not causally irrelevant, and social signals are not a
+hidden dictionary that automatically reveals truth or intention.
+The three-axis model permits combinations that a single warm/cold or
+individual/collective scale would erase.
 
 <a id="0020-epistemic-agency-semantic-definition--audience-modelled-reconstruction-and-decompression"></a>
 
@@ -11171,6 +12516,20 @@ speech can maintain recognition and coordinate action. The agency problem begins
 where a borrowed formula substitutes for judgment precisely where a person or
 office must answer.
 
+A more tightly closed local configuration is **closure-bound script-execution
+mode**: an input is reconstructed through programme categories, DCL generates an
+intelligent response inside them, the challenge is explained away, and the
+protected conclusion returns unchanged because no legitimate losing condition is
+available.
+The informal label **bot-mode** may name that demonstrated interface-level loop.
+It must not be converted into the noun *a bot* or *NPC*, which totalizes a local
+operation into a claim that no I, authorship, love, doubt, or possibility of
+return exists elsewhere in the human being.
+Fluency, repetition, refusal, error, or disagreement alone does not establish the
+mode.
+The constructive diagnostic is: **What evidence could make the answer being
+given lose?**
+
 **Full speech** is speech through which the speaker becomes answerable. The
 speaker does not pretend that the big Other has completed and guaranteed the
 judgment:
@@ -11948,6 +13307,8 @@ comparison with incentives, habit, surveillance, and personal virtue.
 | **Persuasion** | Process of changing belief, evaluation, identity, or action. | Can restore or suppress agency depending on epistemic direction, reciprocity, and correction. |
 | **State transmission / operation transmission** | Communication of a finished conclusion or result versus cues through which a recipient locally reconstructs relevant generating operations. | Their ordered complement is the operation-first decoder-bootstrap principle: operation-rich formation constructs and repairs the decoder that later compressed state communication exploits, without literally copying a mental state or operation. |
 | **Operation-bootstrapped codebook formation** | Recurrent operation transmission constructs locally executable and sufficiently compatible reconstruction resources, enabling later compressed communication. | Supplies the dynamic precondition for audience-modelled reconstruction and compressed master-signifier activation; reconstruction reach, relevant overlap, fidelity, reality contact, and corrigibility matter more than raw vocabulary size. |
+| **Collective epistemic formation** | Participation in a distributed social and material environment forms and revises locally executable concepts, distinctions, query paths, methods, inferential habits, and evidential standards. | Extends collective formation into the operations used by the rider or main CPU without turning the milieu into another processor or collapsing it into local-bigOther evaluation. |
+| **Distributed epistemic milieu** | Dispersed environment of language, examples, practices, artifacts, records, instruments, institutions, trained persons, and correction procedures. | Carries resources across persons and generations while requiring local reconstruction; it is not one mental state, collective brain, distributed bigOther, or second bigOther. |
 | **Collar-conditioned semantic access** | Proposed classification-conditioned influence upon rider-side conceptual selection, retrieval, joining, standing-query activation, binding, or articulation. | Extends the local blindness bridge without making the collar a reasoning processor, memory store, or direct rider interface; includes asymmetric addressability, suppression/hyperactivation symmetry, possible acquisition closure, and separately evidenced crisis--relief reindexing. |
 | **Perception-stage correction closure** | Obstruction before a candidate relation can travel from noticing through formulation, comparison, public articulation, and collective testing. | Keeps penalty, occupation, and internal-classification routes distinct; public silence alone does not identify which route produced it. |
 | **Epistemic reindexing / collective reindexing** | Restoration of plural, reality-answerable access paths in a person; public stabilization of a corrigible index through which independently observed anomalies can become mutually available. | Proposed corrective operations within guided unbraiding and public Noticing; neither predetermines the correct model nor turns repeated source-dependent agreement into independent confirmation. |
@@ -12075,6 +13436,41 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   transmission can still yield population-level stability without identical
   local mental states. Neither source establishes a local bigOther, Culture
   Program, truth, or deterministic convergence.
+- **Collective epistemic formation:** participation in a distributed epistemic
+  milieu forms and revises the locally executable concepts, distinctions, query
+  paths, methods, inferential habits, and evidential standards used by ordinary
+  rider or main-CPU cognition.
+- **Distributed epistemic milieu:** language, examples, practices, artifacts,
+  records, instruments, institutions, trained persons, and correction procedures
+  carry epistemic resources across participants and generations without forming
+  a detached processor, collective brain, one shared mental state, or second
+  bigOther.
+- **Hot--cold processor boundary:** affective--evaluative actuation is executed
+  by the local bigOther and affects elephant-side orientation; collective
+  epistemic formation supplies resources reconstructed and used by the main CPU.
+  Collar-conditioned semantic access can couple the modes without making the
+  collar a query planner or the milieu a third processor.
+- **Scientific-ethos coupling:** affect is not evidence, but honour, shame,
+  identity, and role formation can sustain truthfulness and correction when
+  external observation is weak. The positive case binds affect to
+  reality-answerability and corrigibility rather than an approved result or
+  authority; the inverse binds it to answer protection.
+- **Three-axis operative-agency model:** I/We identifies operative authorship or
+  standpoint; EDA/DCL identifies immediate engagement versus disengaged
+  representational languaging; propositional/be-humming identifies lexical
+  content versus embodied, paralinguistic, and interactional signalling. The
+  axes can combine independently and must not be compressed into one warm/cold,
+  individual/collective, or rational/irrational scale.
+- **EDA/DCL source boundary:** the labels are retained as a provisional Jaques
+  bridge pending primary-text verification; the two-by-two I/We matrix, its
+  Culture Mechanics interpretation, and the claim that repersonalization can
+  return through either direct encounter or imaginative reconstruction are
+  project constructions.
+- **Be-humming channel:** rhythm, prosody, pauses, vocal mirroring, turn-taking,
+  posture, gaze, movement, and interpersonal timing help enact trust, rank,
+  belonging, threat, and coordination. They do not reveal truth or intention
+  automatically, make propositions irrelevant, or support a universal numerical
+  split of communication.
 - **Learning-state distinction:** surface habituation reduces unfamiliarity;
   operational understanding supports transfer, prediction, use, and revision;
   living knowledge joins compressed symbolic state to enough reconstructed
@@ -12168,6 +13564,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   and conduct; agency includes inspecting and, where possible, repairing or
   refusing the script without mistaking it for another bigOther.
 - **Order-level distinction:** first-order solidarity shares concrete rules and answers; lifted solidarity shares the rules that generate, select, apply, and revise concrete answers.
+- **First-order prescription footprint:** lifting can contract the shared catalogue
+  of concrete answers while leaving the meta-order thick and society-wide in
+  span. The resulting umbrella permits more bounded first-order variation, not
+  every programme's claim to compulsory supremacy or coequal jurisdiction.
 - **Provisional remove-the-me test:** particular interest plus situation becomes
   a candidate rule; names and factional privilege are removed, positions are
   exchanged, and the rule is tested for anyone relevantly similarly situated.
@@ -12178,6 +13578,7 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   sovereign output.
 - **Generative compression:** fixed installed meta-rules can combine with changing knowledge and situations to produce many changing concrete outputs; neither fewness nor detail alone defines the order level.
 - **Modern structural possibility:** lifted mechanical solidarity can span an organically differentiated and plural society, but plurality and division of labour are consequences or applications rather than the definition of lifting.
+- **Reckwitz comparison and recognition boundary:** cultural essentialism resembles first-order solidarity, Hyperculture resembles first-order plurality and recombination rather than a solidarity form, and a lifted order can provide their broad but bounded common umbrella. A participant habituated to visible first-order commonality may misrecognize the compressed lifted generator as cultural absence; that possibility does not establish that an apparently liberal order is operatively installed rather than merely written.
 - **Complete slot occupancy / full capture:** first-order and lifted programs can each fully occupy the one local bigOther; fullness is not itself pathology.
 - **Lifted jurisdiction:** an answer-generating meta-order may govern universally while allocating and limiting plural first-order outputs, authorities, and jurisdictions.
 - **Corrigibility axis:** first-order and lifted full captures can each remain open or become closed; rivalry and replacement alone do not decide which.
@@ -12251,6 +13652,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
 - **Communication audits:** decompression analysis compares surface content,
   omissions, assumed recipient, predictable and actual reconstruction, alternative
   decompressions, and resulting action or authorization.
+- **Closure-bound script execution:** a programme reconstruction and DCL response
+  loop returns its protected conclusion without a legitimate losing condition.
+  *Bot-mode* is an informal interface-level label for a demonstrated loop, not a
+  whole-person classification or excuse.
 - **Political-language source maxim:** Wegner's *Talking Points* presents political
   language as speech designed to win trust and power over people's lives; Culture
   Mechanics translates that forceful claim into political language as an
@@ -12266,7 +13671,13 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   person-standing, supplement it through bounded recognition, or replace it by
   making a selected pattern of differences the protected principal.
 - **Single-slot capture constraint:** compatible material may reinforce or extend the installed weave; incompatible governing capture requires incumbent unbraiding and successor rebraiding.
-- **Dynamic process:** synchronization and field back-action among local bigOthers.
+- **Dynamic process:** the person--field projection of the culture propagator:
+  local classification and judgment become public signals, reciprocal responses
+  alter the distributed field, and field back-action changes later salience,
+  legitimacy, trust, relationship, and perceived possibility.
+- **Reflexive-gain boundary:** feedback can amplify, damp, reverse, arrive after a
+  delay, or remain local to a network path; gain is not one permanent social
+  scalar and does not establish equal power, shared intent, or transition.
 - **Clockwork coordination:** differentiated contribution through roles,
   interfaces, handoffs, aggregation, and a common meta-order; it has an affinity
   with differentiated unity but is not its definition.
@@ -12359,6 +13770,13 @@ Field form:
 
 > **local bigOthers → shared symbolic protocol → reciprocal classification and response → mechanical-solidarity coherence → distributed bigOther → field back-action upon local judgment**
 
+Person--field propagator projection:
+
+> **operative representation → local classification and judgment → public
+> signal, refusal, role, sanction, or practice → reciprocal interpretation and
+> response → collective-field change → altered salience, legitimacy, trust, and
+> perceived possibility → later local classification and judgment**
+
 Programming-topology form:
 
 > **differentiated authority + comparatively uniform audience + common attention and reception → heightened receptivity → activation, reinforcement, or reprogramming → stronger field coherence**
@@ -12375,6 +13793,18 @@ Operation-bootstrapped compression:
 > practice, and correction → locally reconstructed codebooks → sufficient relevant
 > overlap → compressed tokens evoke larger models; renewed operation transmission
 > maintains transfer, correction, and generational continuity**
+
+Collective epistemic formation:
+
+> **distributed epistemic milieu → locally reconstructed concepts, methods, and
+> query paths → main-CPU inquiry and articulation → public reception and material
+> consequence → correction or renewed formation of the milieu**
+
+Scientific-ethos coupling:
+
+> **hot attachment to truthfulness and corrigibility → self-restraint under weak
+> observation → more reliable cold inquiry → adverse evidence can revise both
+> answer and thought style**
 
 Collar-conditioned semantic access:
 
@@ -12625,7 +14055,9 @@ The vocabulary above does not come from one theory. The following map distinguis
 | **Privileged authority-addressed programming topology and programming state** | Freud on group psychology; Green and Brock on transportation; Horton and Wohl on parasocial interaction; Chwe on common knowledge; Bourdieu on authorized speech; Collins on interaction rituals | Synthesizes several mechanisms into a new, testable one-to-many realization of the broader functional morphology. No source establishes the complete compound state. |
 | **Bonhoefferian Dummheit** | Dietrich Bonhoeffer, [“Von der Dummheit” (1943; PDF of the complete section)](https://jochenteuffel.files.wordpress.com/2020/12/bonhoeffer-von-der-dummheit.pdf) ([HTML transcription](https://de.wikisource.org/wiki/Von_der_Dummheit)) | Names a family resemblance between socially induced loss of independence and the present capture model. It is not an IQ measure, diagnosis, or complete restatement of Bonhoeffer. |
 | **Audience-modelled reconstruction** | Dushan Wegner, *Relevante Strukturen* (2019), especially his account of linguistic *Komprimierung* and recipient-side *Dekomprimierung* | Retains the claim that finite messages rely on an anticipated recipient's stored knowledge, then gives it a typed factual, causal, moral, and authorization model, an adversarial subtype, and a decompression audit. *Lossy codec* and *decoder-targeted compression* are project analogies, not Wegner's technical terms. |
+| **Engaged direct awareness and disengaged conscious languaging** | Elliott Jaques, *The Life and Behavior of Living Organisms: A General Theory* (2001), provisionally identified through the publisher's description and contents | Uses EDA and DCL as a cognitive-stance axis inside the project's three-axis model. The exact labels and Jaques's own boundary between them still require verification in the primary text; the I/We matrix, the desk-perpetrator configuration, and both routes of repersonalization are project constructions. |
 | **Domain contact, living knowledge, joint codebook formation, and practice-formed coordination capacity** | The originating author's project-management, advanced-mathematics, experimental-play, and physics-learning observations; Stuart and Hubert Dreyfus's skill-acquisition model as a bounded neighbour; Kenneth Minogue's critical account of praxis in *Alien Powers*; the project's operation-bootstrapped codebook synthesis | Generalizes the observation that responsible practice and mentally replayed experiment can make compressed formal language decompressible, distinguishes reconstructible capability from retained formulas, then connects recurrent joint practice to codebook overlap and coordination. Dreyfus supplies movement from detached rule use toward experience-based situated performance, not the surface-habituation or codebook mechanism. Minogue supplies the ideological source case, not the generic communication model, the learning illustrations, the serialization analogy, or the claim that participation guarantees truth. |
+| **Shared grammar, thought style, and scientific ethos** | [Célestin Bouglé, “Lazarus. La psychologie des peuples” (1896)](https://fr.wikisource.org/wiki/Les_sciences_sociales_en_Allemagne/Lazarus_-_La_psychologie_des_peuples); [Ludwik Fleck, *Genesis and Development of a Scientific Fact* (1935)](https://press.uchicago.edu/ucp/books/book/chicago/G/bo25676016.html) and [“To Look, To See, To Know” (1947)](https://studylib.net/doc/28305438/fleck-1947) | Bouglé supplies persons and durable things as carriers of public spirit and transmission of forms of thought as well as ideas. Fleck supplies directed perception, assimilation, method, scientific mood, and thought-collective formation. **Collective epistemic formation**, **distributed epistemic milieu**, the processor boundary, and the hot-scientific-ethos mechanism are Culture Mechanics developments rather than either author's terms. |
 | **Political language as an authorization bid** | Dushan Wegner's [official *Talking Points* page](https://www.dushanwegner.com/buecher/talking-points/), which states that political language seeks trust and power over people's lives | Preserves Wegner's forceful maxim, then translates it into delegated jurisdiction and connects it to relevant structures, causal stories, opponent restrictions, and bounded political authority. The term *authorization bid*, the typed payload, and the audit are project-developed. |
 | **Cognitive-relief hypothesis** | Wegner's situated formulation “Denken tut weh” in *Relevante Strukturen*; neighbouring research on need for closure, cognitive effort, and authority | Turns a memorable witness formulation into a bounded, testable mediation hypothesis about relief, checking, and authority-gated acceptance. It is not a claim about intelligence, universal motivation, or prevalence, and it should not be attributed to Wegner in this operational form. |
 | **Normopathic adaptation** | [Erich Wulff, *Psychiatrie und Klassengesellschaft* (1972)](https://www.econbiz.de/Record/psychiatrie-und-klassengesellschaft-zur-begriffs-und-sozialkritik-der-psychiatrie-und-medizin-wulff-erich/10004758497); Joyce McDougall's psychoanalytic normopathy; [Hans-Joachim Maaz, *Das falsche Leben* (2017)](https://www.chbeck.de/media/2215/paperback1-17.pdf) | Uses the family of terms descriptively for adaptation to a pathological social normality without adopting any one author's clinical or political theory. The term has more than one intellectual genealogy, so a single uncontested origin should not be asserted. |
@@ -12656,6 +14088,10 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   the allocation and limitation of first-order outputs and jurisdictions**;
 - **mechanical-solidarity field** and **field back-action** in the specific sense
   used here;
+- the **culture-propagator person--field projection**, **reflexive gain** as a
+  signed, delayed, network-local, nonlinear, and potentially asymmetric feedback
+  descriptor, and the bridge-topology application by which relationships and
+  associations can carry either amplification or correction;
 - **functional morphology of mechanical solidarity** and its near-synonym
   **functional form of mechanical solidarity**, including **population body**,
   the distributed **trusted-opinion-leader function**, **field-generating and
@@ -12749,6 +14185,17 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   person or the situation** and the aggregative-versus-fusion sacrifice
   distinction, while the recognition-only human-standing axiom remains a
   project commitment rather than an attribution to Durkheim;
+- the **three-axis operative-agency model** separating I/We operative standpoint,
+  EDA/DCL cognitive stance, and propositional/embodied-paralinguistic
+  communication, together with the two-by-two EDA/DCL--I/We matrix and the claim
+  that repersonalization can return through either direct encounter or
+  imaginative reconstruction;
+- **be-humming** as the originating term for embodied, paralinguistic, and
+  interactional social signalling, while **Gorilla** remains an informal image
+  and no universal numerical split between signalling and argument is claimed;
+- **closure-bound script-execution mode** and its carefully bounded informal
+  shorthand **bot-mode** as a local interactional condition rather than a human
+  type, diagnosis, or license to call a person a bot or NPC;
 - the three **Humanism–Diversity relation types**—nested, supplementary, and
   replacement—together with capitalization of *Diversity* only for the organizing
   master signifier or programmatic configuration;
@@ -12763,6 +14210,22 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   in which operation transmission constructs and repairs the decoder while state
   transmission exploits it, and **reconstruction reach** as the audience-relative
   size of the learned complex a token can reliably activate;
+- **collective epistemic formation** as the process that forms locally
+  executable concepts, distinctions, query paths, methods, inferential habits,
+  and evidential standards, and the **distributed epistemic milieu** as the
+  dispersed cross-person and cross-generational environment that carries the
+  relevant language, examples, practices, artifacts, records, instruments,
+  trained persons, and correction procedures;
+- the **hot--cold mode distinction** between local-bigOther
+  affective--evaluative actuation and collective epistemic formation executed
+  through ordinary rider or main-CPU cognition, together with **affect in service
+  of corrigible world-contact versus affect in service of answer protection** as
+  the directional scientific-ethos contrast rather than a claim that affect is
+  evidence;
+- **scientific or procedural impartiality** as a genuinely cultivated discipline
+  capable of checking private preference, while its problem space, perceptual
+  training, methods, instruments, and standards remain products of a thought
+  style answerable to me--we--world correction rather than a cultureless view;
 - **collar-conditioned semantic access**, **semantic-access interface**, and the
   retrospective, present, prospective, and public-address access distinctions as
   proposed Culture Mechanics mechanisms rather than Durkheimian, Haidtian,
@@ -12790,7 +14253,10 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   knowledge**, **joint codebook formation**, and **practice-formed coordination
   capacity** as the project-developed extension from operation-rich learning
   through symbolic addressing and reconstructible capability into socially
-  calibrated codebooks and possible clockwork coordination;
+  calibrated codebooks and possible clockwork coordination, including the
+  distinction between positive affordance disclosed through repeatable success
+  and model limits disclosed through resistance or failure, neither of which is
+  a complete truth, legitimacy, or valence oracle;
 - **audience-modelled reconstruction**, **adversarial audience-modelled
   reconstruction**, and the **decompression audit** in their present operational
   forms;
@@ -13571,6 +15037,878 @@ Truth-seeking therefore does not mean that one institution already possesses Tru
 > **Objective truth exists, but no person or institution is identical with it; therefore the collective search for truth must remain plural, testable, and corrigible.**
 
 This is the meaning of **reality-anchored**: not that every current belief is correct, but that the social order acknowledges an external referee that cannot be finally overruled by authorization.
+
+<a id="0030-epistemic-constitution-semantic-definition--culture-propagator-correction-projection"></a>
+
+#### Culture-propagator correction projection {#0030-epistemic-constitution-semantic-definition--culture-propagator-correction-projection}
+
+The [culture
+propagator](#0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution)
+models the coupled evolution of representations, persons, collective field,
+institutions, consequences, sensing, and memory. This document owns the
+world--sensor--correction projection: how resistant consequences $w_t$ become
+available observations $y_t$ through a sensing architecture $s_t$, and
+whether those observations can revise operative representations $r_t$,
+institutional carrying structure $k_t$, and retained memory $m_t$.
+
+The relevant relation is not simply world → belief. It is:
+
+```text
+operative representation and authorization
+→ person-level conduct and institutional enactment
+→ worldly and relational consequences
+→ detection, elicitation, classification, recording, and transmission
+→ publicly available observation
+→ challenge, answer, adjudication, and revision or non-revision
+→ altered representation, operation, and retained memory
+↺
+```
+
+Sensors are causal parts of this loop. They include instruments and datasets but
+also witnesses, categories, reporting routes, archives, professional methods,
+public records, affected-person testimony, comparison jurisdictions, appeals,
+and institutions able to preserve an adverse result. Observation is therefore
+neither raw reality nor arbitrary construction. It is a typed output of resistant
+conditions and the fallible social architecture through which they become
+available for correction.
+
+**Sensor endogeneity** asks how much the apparent evidence was elicited,
+selected, classified, or produced through the contested representation,
+institutional response, and observation apparatus. **Correction independence**
+asks whether sufficiently independent persons and procedures can expose error,
+adjudicate it, and change consequential operation without first obtaining the
+tested custodian's permission. These remain separate: a partly endogenous series
+can be responsibly interpreted, while an independently gathered result can still
+be nullified after reception.
+
+A representation is **performative** in this model when its deployment helps
+alter the object from which later evidence is drawn:
+
+```text
+representation or prediction is deployed
+→ persons and institutions respond
+→ access, incentives, monitoring, conduct, and expectations change
+→ the relevant population or environment changes
+→ later observations concern the changed object
+```
+
+Performativity is not inherently deceptive or pathological. Policy, education,
+contracts, warnings, diagnoses, and public promises commonly aim to change
+conduct. The epistemic failure begins when the resulting observation is treated
+as though it arose independently of the deployed representation, or as though it
+uniquely validated a complete causal and normative package.
+
+This produces **endogenous confirmation** where an operative representation
+helps generate an observation and that observation is returned as apparently
+independent support while the dependence or serious rival mechanisms are
+concealed or discounted:
+
+```text
+representation R becomes operative
+→ R changes conduct, institutions, or sensing
+→ the changed response materially contributes to observation O
+→ O is cited as evidence for R
+→ O's dependence on R is omitted or treated as uniquely validating
+```
+
+The observation can be real and the representation partly correct. The three
+claims remain distinct:
+
+$$
+\text{O occurred}
+\neq
+\text{R independently predicted O}
+\neq
+\text{the complete programme containing R is uniquely validated}.
+$$
+
+Endogeneity does not make every intervention-produced observation evidentially
+empty. A predeclared conditional prediction can receive legitimate support where
+the intervention, comparison, causal path, expected timing, observation process,
+and serious rival mechanisms were specified in advance and the result could have
+failed. What it supports remains the tested conditional relation, not every
+classification, remedy, jurisdictional claim, or normative conclusion packaged
+with it.
+
+Representations also travel in packages. An experienced condition or complaint,
+its classification, a causal attribution, a proposed remedy, a jurisdictional
+claim, an implementing authority, and a judgment about dissenters are separate
+inferential joints. Support for one does not carry automatically across the
+others, while rejection of the package does not erase the original observation
+or the affected person's standing.
+
+**Religious symmetry supplies a useful boundary test.** Some Muslim apologetic
+arguments appeal to the Qur'an's preservation and transformative fruits;
+analogous arguments concerning Joseph Smith, the Book of Mormon, and the
+Latter-day Saint movement appeal to memorization, disciplined practice,
+sacrifice, missionary work, institutional formation, intergenerational
+transmission, and experience interpreted through scripture. Those effects can
+establish genuine person-actuating and culture-forming efficacy. Where
+incompatible revelation claims generate analogous fruits through analogous
+social machinery, however, the fruits do not by themselves discriminate between
+the exclusive supernatural claims:
+
+$$
+\text{causal efficacy}\neq\text{epistemic truth},\qquad
+\text{successful social embodiment}\neq\text{independent validation}.
+$$
+
+This symmetry test refutes neither religion as a whole. It limits what
+deployment-produced transformation, endurance, preservation, and testimony can
+prove; historical claims, independently risky predictions, and other evidential
+relations retain their separate source-critical and empirical gates.
+
+Because no social sensor is culture-free, the practical target is not impossible
+viewpoint-free observation but an **independent correction remainder**:
+observations, testimony, comparisons, and consequences that the tested
+representation--institution complex cannot completely elicit, select, classify,
+interpret, and adjudicate by itself.
+
+The minimum correction-capable architecture therefore preserves pre-intervention
+baselines, versioned categories and denominators, plural causal models, exposed
+predictions and stopping conditions, portable records, independent comparison,
+protected testimony, usable appeal, and traceable propagation of correction into
+rules, appointments, resources, and succession. These are dynamic relations, not
+institutional checkboxes: their presence matters only where an adverse result can
+survive reception and change operation.
+
+Resistant reality can keep imposing costs while losing corrective force at
+several distinct points:
+
+| Observation-path failure | Dynamic effect |
+|---|---|
+| **Selection** | Adverse observations are not collected, connected, surfaced, or retained. |
+| **Reclassification** | Failure becomes sabotage, exception, impurity, insufficient implementation, or further evidence of the original problem. |
+| **Proxy substitution** | A controllable administrative measure replaces the consequential outcome it was meant to indicate. |
+| **Cost displacement** | Burdens move to weakly represented persons, another jurisdiction, or a later period outside effective feedback. |
+| **Custodial closure** | One ecology controls definition, implementation, measurement, interpretation, adjudication, and whether an adverse result changes operation. |
+
+An accurate measurement of its selected and classified object can therefore
+remain misleading about the underlying incidence or consequence. The controller
+chain must be mapped from definition and implementation through access, sampling,
+publication, adjudication, and operational response rather than treating formal
+review as an independent error signal by default.
+
+Correction capacity must itself be culturally reproduced. Persons, collective
+expectations, institutions, and memory must continue to make it intelligible and
+honourable to preserve an embarrassing record, expose a favoured claim to a
+reciprocal test, protect a correction bearer, surrender failed authority, and
+repair injury caused by a defeated representation. Correctors, record keepers,
+builders of independent instruments, and authorities who relinquish a failed
+policy are therefore reproductive roles rather than decorative moral examples.
+
+Free speech and independent association are dynamically distinctive because they
+let a person formulate a rival account without incumbent permission, find other
+correctors, preserve evidence, test the claim, and organize consequential
+opposition. Permission to utter words is insufficient where publication,
+discovery, record custody, association, adjudication, or operational uptake is
+disabled. The same boundary prevents truth-seeking institutions from identifying
+themselves with truth and redescribing criticism of their custody as hostility to
+truth itself.
+
+<a id="0030-epistemic-constitution-semantic-definition--me-we-world-correction-relation"></a>
+
+#### The me--we--world correction relation {#0030-epistemic-constitution-semantic-definition--me-we-world-correction-relation}
+
+The **me--we--world correction relation** distinguishes three questions that a
+claim of impartiality can otherwise compress into one:
+
+1. **Me:** Does the judgment survive removal of private or factional privilege?
+2. **We:** Which collectively learned concepts, distinctions, methods,
+   authorities, and standards made that judgment appear natural or necessary?
+3. **World:** What encounter, operation, prediction, or consequence could revise
+   not only the answer but the shared way of producing answers?
+
+The first question uses the [remove-the-me
+test](#0020-epistemic-agency-semantic-definition--impersonal-universality-against-private-interest):
+would the same rule and justification survive if the persons or occupied
+positions were exchanged while materially relevant structure remained?
+Passing that test can remove “because it is me or mine” as a justification.
+It does not remove the conceptual frame shared by everyone performing the test.
+
+> **Removing the me may reveal the we, not yet the world.**
+
+A judgment can therefore be genuinely impersonal relative to participants'
+private interests while remaining partial to their common starting framework.
+Private differences can cancel while an inherited category, prior, method,
+thought style, or source hierarchy remains invisible precisely because every
+participant uses it.
+Collective impersonality is an achievement beyond private-position privilege;
+it is not yet proof of fit with the nature of things.
+
+<a id="0030-epistemic-constitution-semantic-definition--collective-impersonality-durkheim-rousseau-boundary"></a>
+
+##### Aquinas, Durkheim, and Rousseau: collective impersonality is not yet objective adequacy {#0030-epistemic-constitution-semantic-definition--collective-impersonality-durkheim-rousseau-boundary}
+
+Aquinas supplies a precise predecessor for the world-facing side of this distinction.
+In [*Summa Theologiae* I, q. 16,
+a. 1](https://www.newadvent.org/summa/1016.htm) and [*De veritate* q. 1,
+a. 1](https://isidore.co/aquinas/english/QDdeVer1.htm), he receives and develops the correspondence account conventionally expressed as ***adaequatio intellectus et rei***: the conformity or agreement of intellect and thing.
+For a human judgment to be true, the intellect must apprehend the thing as it is.
+Agreement among judges, sincerity, authority, or collective acceptance cannot substitute for that relation.
+Aquinas embeds this principle in a wider metaphysics of created and divine intellect; Culture Mechanics receives the narrower correspondence boundary, not that metaphysics as a whole.
+
+Durkheim makes the social-epistemic complication unusually explicit in [*The Elementary Forms of the Religious
+Life*](https://classiques.uqam.ca/classiques/Durkheim_emile/formes_vie_religieuse/formes_elementaires.html).
+Collective concepts can establish harmony among minds, lift thought beyond
+private sensation, and preserve accumulated distinctions that no isolated
+person could generate alone.
+Durkheim expressly denies that concepts are collective because they average the corresponding individual representations.
+If that were their source, he argues, they would be poorer than the individual representations; instead, they contain knowledge that “surpasses the knowledge of the average individual.”
+A civilization supplies an organized system of concepts enriched by accumulated group experience, while each present member assimilates only part of that inheritance and encounters particular objects through it.
+In Culture Mechanics terms, this is a **diachronically accumulated and distributed conceptual grammar**, not a poll result, a current population average, or a separate collective processor.
+That interpersonal achievement is not identical with harmony between thought
+and the nature of things.
+Durkheim's **harmony with things** is treated here as **objective adequacy**: the world-facing requirement that collective thought fit what it purports to know rather than merely coordinate the persons who use it.
+“World-fit” is the compact Culture Mechanics term for this requirement, not Durkheim's own technical expression.
+
+The resulting boundary can be stated compactly:
+
+> **Harmony among minds is not yet *adaequatio intellectus et rei*.**
+
+Aquinas supplies the truth criterion: intellect must conform to the thing.
+Durkheim supplies the formation problem: the concepts through which persons approach things are socially formed, and their collective authority can either support or obstruct objective adequacy.
+Culture Mechanics supplies the correction architecture: a distributed epistemic milieu becomes world-answerable only where encounters, operations, predictions, consequences, affected persons, and rival accounts can revise both an answer and the shared grammar that produced it.
+
+Durkheim sometimes treats generalization, persistence, and recurrent
+experience as guarantees that a collective representation cannot be wholly
+inadequate to its object.
+In the same discussion, however, he says that a scientifically sound concept
+can fail to become believable when it conflicts with the mass of accepted
+collective representations.
+He later describes society as a particular subject with its own
+idiosyncrasies, so its representations retain subjective elements that must be
+progressively removed if thought is to approach reality more closely.
+
+Culture Mechanics receives Durkheim's social-formation insight while narrowing
+his persistence inference.
+A representation's endurance can evidence successful reproduction, usable
+coordination, partial environmental fit, or repeated verification under the
+conditions its community actually encounters.
+It does not by itself establish objectivity: adverse costs may be delayed,
+buffered, misattributed, hidden by the available categories, or shifted onto
+persons who lack power to enter the common record.
+Persistence is therefore evidence to explain, not a truth oracle.
+
+<a id="0030-epistemic-constitution-semantic-definition--bewaehrung-through-corrigible-reality-contact"></a>
+
+###### *Bewährung* through corrigible reality contact {#0030-epistemic-constitution-semantic-definition--bewaehrung-through-corrigible-reality-contact}
+
+The stronger alternative to mere persistence is ***Bewährung* through corrigible reality contact**: a claim, rule, practice, or shared epistemic grammar acquires defeasible evidential weight by remaining viable under encounters in which its errors could become visible and operative.
+Age supplies opportunities for such testing; it does not establish that testing occurred.
+
+The required sequence is:
+
+```text
+claim, rule, practice, or shared grammar
+→ application across materially varied conditions
+→ independently resistant objects and consequential outcomes
+→ preserved error signals and affected-person testimony
+→ criticism, rival comparison, revision, rollback, or abandonment
+→ renewed exposure
+```
+
+The German mnemonic [***Wir irren uns empor***](https://www.gwup.org/skeptische-gesellschaft/kritisierst-du-noch-oder-cancelst-du-schon/)—“we err our way upward,” attributed there to Gerhard Vollmer's 1995 Popper memorial essay—names the error-driven direction of this loop.
+It does not describe an automatic or monotonic law of progress.
+Learning can stall, reverse, discard adverse records, reproduce a common-mode error, or reintroduce a failure whose correction history has been forgotten.
+
+***Bewährung* is therefore correction-tested robustness, not survival alone.**
+A practice that persists because its costs are hidden, externalized, delayed, misclassified, or imposed upon persons denied standing has not passed this test merely by enduring.
+Nor does epistemic or practical *Bewährung* by itself establish moral legitimacy: a workable arrangement can remain person-consuming or life-destructive, so the independent person-preserving and life-supporting constraints continue to govern what may enter the adaptive search.
+
+In the me--we--world relation, *Bewährung* is the diachronic test history through which objective adequacy can acquire defeasible support.
+*Adaequatio intellectus et rei* states the truth relation, Durkheim's harmony with things distinguishes it from harmony among minds, and *Bewährung* asks whether a socially formed account has repeatedly remained open to being corrected by the things and consequences to which it claims adequacy.
+
+<a id="0030-epistemic-constitution-semantic-definition--rousseau-cancellation-and-the-shared-frame"></a>
+
+###### Rousseau: cancellation can leave the shared frame untouched {#0030-epistemic-constitution-semantic-definition--rousseau-cancellation-and-the-shared-frame}
+
+Rousseau supplies a different but complementary source boundary in [*The
+Social Contract*, book II, chapter
+3](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm#CHAPTER_III).
+He distinguishes the general will from a mere will of all and proposes that,
+under demanding conditions, opposed private differences can cancel so that a
+common-interest component remains.
+The Culture Mechanics extension asks what the cancellation procedure cannot
+test: a category, prior, source hierarchy, or reasoning grammar common to all
+participants will not cancel, whether it fits the world or not.
+Rousseau's faction and independence cautions partly protect the procedure from
+correlated interests; they do not make aggregation an independent test of the
+shared frame itself.
+
+The Durkheimian and Rousseauian operations must therefore remain distinct:
+
+| | Durkheimian collective concepts | Rousseauian cancellation and the project center-of-gravity image |
+|---|---|---|
+| **Primary operation** | Historical accumulation, organization, transmission, and partial assimilation of conceptual resources | Cancellation of opposed private differences under demanding political conditions |
+| **Result** | A shared conceptual grammar that can exceed the knowledge of an average present member | A proposed common-interest component; the center of gravity pictures the shared frame or attractor around which private positions vary |
+| **Impersonality achieved** | Thought can use concepts not produced from one person's private sensations or experience | A rule or judgment can cease to privilege one present person or faction |
+| **Unresolved boundary** | The inherited conceptual system can retain the idiosyncrasies of its society and fail objective adequacy | A premise shared by all participants does not cancel and need not fit the world |
+
+The related **center-of-gravity** image is a project-developed explanatory
+analogy, not Rousseau's technical term, a literal arithmetic average, or the
+world.
+It pictures the common reference frame or attractor around which private
+differences can vary.
+Even in that non-arithmetic sense, it does not represent Durkheim's account of accumulated conceptual content that exceeds the average member.
+What feels cold, distant, rational, or impartial to a participant may therefore
+be the locally normalized operation of that frame—the *we* embodied in a
+distributed epistemic milieu—rather than a view from nowhere.
+The absence of a felt command or private advantage is evidence about how fully
+the procedure has become ordinary; it is not yet evidence that its categories
+are culture-transcendent or correct.
+
+This is the precise boundary of **felt impartiality** here.
+The participant may experience no pressure from a concrete person, no obvious
+private gain, and no collar-like surge of shame or loyalty because the local
+epistemic grammar already determines what a competent observer is expected to
+notice, compare, and count as a reason.
+The epistemic cloud then becomes phenomenologically transparent: “this is how
+our trained community reasons” is experienced simply as “this is how reason
+works.”
+That experience can accompany a genuinely fair and disciplined procedure, a
+locally partial thought style, or both.
+Its felt coolness therefore establishes neither falsehood nor objectivity.
+
+Foucauldian genealogy, deconstruction, and Critical Constructivist inquiry can
+be valuable at this *me--we* boundary when they expose the historical formation,
+institutional authorization, exclusions, and hidden presuppositions of what had
+appeared neutral.
+Culture Mechanics accepts that diagnostic possibility without treating genealogy
+as refutation or social mediation as truth relativism.
+After the *we* has become visible, the separate *we--world* question remains:
+which shared operations, predictions, consequences, affected persons, and rival
+accounts can make the inherited grammar lose?
+
+The three achievements must therefore remain distinct:
+
+| Achievement | What has been reduced | What remains untested |
+|---|---|---|
+| **Positionally impersonal judgment** | Privilege attached to *me*, *mine*, or my occupied position | The collectively shared frame and its fit with the world |
+| **Collectively or procedurally impersonal judgment** | Dependence upon one person's private sensations, vocabulary, or idiosyncratic method | Correlated cultural premises, inaccessible alternatives, and world-fit |
+| **World-answerable objectivity** | Neither social formation nor fallibility disappears; instead the frame loses epistemic sovereignty | Always provisional: later evidence, better operations, and affected persons must retain correction standing |
+
+The *we* supplies language, examples, practices, methods, salience, trusted
+testimony, instruments, records, and standards of interpretation.
+It is not adequately represented as an average of individual opinions, because
+its inherited and distributed grammar can exceed what one present member could
+produce alone.
+[*Epistemic Agency under Mechanical Solidarity*](#0020-epistemic-agency-semantic-definition--collective-epistemic-formation)
+owns **collective epistemic formation** and the **distributed epistemic milieu**
+through which that grammar becomes locally executable.
+
+The third question restores reality as an independent corrector of both answer
+and framework:
+
+> **Objectivity is not absence of collective formation; it is a collectively
+> sustained capacity to let the collective's own frame lose when the world
+> answers against it.**
+
+The world does not deliver uninterpreted propositions or abolish the need for
+concepts, values, and judgment.
+It can nevertheless produce resistance, surprise, failed prediction, material
+consequence, and repeatable difference that no social authorization creates.
+The constitutional issue is whether those encounters can change local
+reconstruction, public records, institutional operation, and the inherited
+grammar.
+
+The relation is triangular and reciprocal rather than a linear passage from an
+isolated subject to an object:
+
+```text
+culture A ↔ person A ─┐
+                      ├─ acts, predicts, interprets ─→ shared world
+culture B ↔ person B ─┘                                  │
+       ↑──────────── resistance, consequence, correction ┘
+```
+
+The shared world is both a common object and a possible communication medium.
+People formed by different *we*s can jointly manipulate an object, imitate an
+operation, compare predictions, observe a failed intervention, and gradually
+form enough codebook overlap to identify where their words and models agree or
+diverge.
+They need not merge into one culture or possess identical concepts first.
+The water-play and electron examples in [domain contact, conceptual formation,
+and symbolic
+addressing](#0020-epistemic-agency-semantic-definition--domain-contact-and-symbolic-addressing)
+illustrate this operation-first bridge.
+
+> **Shared reality is both the medium in which people can build compatible
+> concepts through action and the independent source of correction when those
+> concepts fail. Language can then name, compare, and extend what that contact
+> makes available.**
+
+Reality-mediated learning includes positive and negative contact.
+Repeatable success under relevant variation can disclose an affordance or a
+workable relation; resistance, surprise, and failed prediction can disclose a
+model's limit.
+Neither success nor collision explains itself.
+Both remain evidence whose scope, causal interpretation, protected conditions,
+and possibly delayed or displaced costs must be examined.
+
+This realist claim remains mediated rather than naive.
+[Michel Foucault's *regime of truth*
+question](https://www.penguinrandomhouse.com/books/55032/powerknowledge-by-michel-foucault/)
+asks how procedures, institutions, classifications, sanctions, and authorized
+speakers allow a statement to function publicly as true.
+That inquiry can disclose why a world-fitting claim lacks public force or why an
+authorized claim has consequences despite poor fit.
+It does not by itself decide whether the claim corresponds to a reality
+independent of its authorization.
+Conversely, world-fit alone does not give a proposition public intelligibility,
+institutional uptake, or governing force.
+
+The valid premise that every human encounter with reality is conceptually,
+linguistically, historically, and institutionally mediated does not entail that
+nothing can answer a mediation except its own authorization rules.
+People cannot occupy a cultureless standpoint outside every *we*, but the world
+does not require a *we*'s permission to act upon them or upon the objects they
+investigate.
+A socially formed water concept does not make water a product of that concept;
+the social organization of electron research does not authorize a thought
+collective to decide how electrons behave.
+A classification can change how a person is treated and can thereby enter the
+causal history of later conduct without making every classified condition or
+material consequence a creation of discourse.
+
+The relevant failure is therefore not social construction as such.
+It is **epistemic sovereignty of the mediation**: the stronger relation in which
+the inherited framework controls whether mind-independent resistance can be
+recognized, articulated, compared, and allowed to revise the framework itself.
+Critical Constructivism, deconstruction, Culture Mechanics, and every rival
+programme remain subject to the same specified-unit, source-position,
+consequence, appealability, and reality-correction tests.
+No school, author, method, or person receives the enclosure classification from
+the family resemblance alone.
+
+The *we* can therefore mediate as bridge or barrier.
+Mediation is the general condition; barrier formation is a contingent but
+central failure in which a shared framework controls which encounters are
+noticed, which concepts and sources can be retrieved, which discrepancies may
+be articulated, and whether failed predictions can revise the governing
+account.
+The stronger failure does not make mind-independent reality disappear.
+It makes the world causally common while preventing it from remaining
+epistemically common around the protected relation.
+
+<a id="0030-epistemic-constitution-semantic-definition--democratic-demos-jurisdiction-consequence-congruence"></a>
+
+##### Democratic correction and demos--jurisdiction--consequence congruence {#0030-epistemic-constitution-semantic-definition--democratic-demos-jurisdiction-consequence-congruence}
+
+The me--we--world relation has a direct democratic application.
+**Feedback-boundary congruence** is the degree of fit among four relations for a
+specified decision:
+
+1. **Demos / *we*:** the persons who recognize one another as continuing
+   political co-authors;
+2. **Jurisdiction:** the persons, institutions, and domains bound by the
+   decision;
+3. **Consequence community / world:** the persons and relationships that bear
+   the decision's benefits, costs, risks, failures, and externalities; and
+4. **Correction relation:** the routes through which affected experience,
+   resistant consequences, investigation, comparison, appeal, and later judgment
+   can alter the decision, its categories, and the authority that maintains it.
+
+**Demos--jurisdiction--consequence congruence** is the democratic specialization
+of this wider feedback relation under one sufficiently interoperable political
+Culture Program. It does not require exact identity among one people, one
+territory, every person bound, and every consequence bearer. Congruence is graded,
+domain-specific, decision-specific, and often nested. Affected non-members may
+require standing, representation, protection, or correction access, while formal
+members can remain ineffective as authors or correctors.
+
+The additional correction boundary matters because nominally overlapping
+populations do not close the learning loop when consequences are unrecorded,
+classified away, denied standing, or prevented from changing operation. Where
+burdens are displaced outside effective correction, worldly conditions change
+without producing a proportionate return path through sensing, representation,
+institutional operation, and common memory. The system can then appear stable or
+successful by excluding part of its own output from the state on which it learns.
+
+The originating compact proposition is:
+
+> **Democracy works best when the territorial scope of binding decisions maps
+> sufficiently well onto a living political-cultural *we*.**
+
+The general theoretical term is **jurisdiction** rather than territory.
+Territory often bounds a polity, its common institutions, and a materially
+shared consequence surface, but federalism, subsidiarity, functional autonomy,
+and [soft
+secession](#0060-culture-program-ecology-semantic-definition--soft-secession-and-reversed-legal-priority)
+can change who decides what without moving state borders.
+Congruence is therefore graded, domain-specific, and decision-specific rather
+than an assertion that one people, one state, and one border must coincide
+exactly for every purpose.
+
+At the **me** relation, democracy preserves particular persons, minorities,
+parties, regions, and dissenters as legitimate sources of proposals, objections,
+testimony, and later correction.
+Political loss authorizes a bounded decision; it does not cancel the loser's
+personhood, opposition, evidence, or standing as a future co-author.
+Without that protected *me*, voting can merely certify the currently stronger
+collective power.
+
+At the **we** relation, a living cultural demos supplies more than a formally
+shared voting rule.
+It supplies the operative meanings of fellow citizen, legitimate opposition,
+temporary authority, bounded defeat, evidence, appeal, correction, succession,
+and continued membership.
+The decisive counterfactual is:
+
+> **After losing, does the participant remain a future co-author of the same
+> political order?**
+
+Where this relation survives, a person can experience the outcome as “a
+decision of our corrigible order with which I disagree.”
+Where it fails, the same result can be experienced as “their Culture Program
+temporarily imposed upon us.”
+The relevant *Volk* in this functional sense is a historically formed cultural
+demos capable of carrying that relation, not merely the population listed in a
+legal register.
+Language, religion, ancestry, institutional similarity, or declared nationality
+may be traces, carriers, or products of its formation, but none establishes the
+operative *we* by itself.
+
+At the **world** relation, an authorized proposal enters a shared material and
+social consequence surface.
+Schools teach, infrastructure works or fails, taxes alter conduct, institutions
+generate intended and unintended effects, policies distribute benefits and
+burdens, and predictions encounter resistant reality.
+Democracy becomes a culture-learning mechanism only where those effects can
+enter a common record, affected persons retain testimonial standing, and the
+resulting correction can revise both the decision and the shared programme that
+generated it.
+The complete circuit is:
+
+```text
+plural persons and factions
+            ME
+             ↓
+proposals, objections, testimony, dissent
+             ↓
+shared cultural demos and meta-order
+             WE
+             ↓
+bounded decision inside a recognized jurisdiction
+             ↓
+implementation and common consequences
+           WORLD
+             ↓
+success, failure, costs, exceptions, resistance
+             ↓
+preserved criticism, affected-person standing, and correction
+             ↓
+revised common memory, rules, and Culture Program
+           WE′
+```
+
+This circuit applies [***Bewährung***](#0030-epistemic-constitution-semantic-definition--bewaehrung-through-corrigible-reality-contact)
+to democratic cultural development.
+Apparent success is not correction-tested robustness when voters can export
+costs beyond the adjudicative community, affected persons cannot enter the
+record, or the winning interpretation controls what failures are allowed to
+mean.
+The world can remain causally common while rival epistemic milieus prevent its
+consequences from becoming common correction.
+
+Four mismatch patterns make the relation observable:
+
+- persons bound without recognized co-authorship face domination pressure;
+- persons materially affected but excluded from correction can become hidden
+  cost bearers;
+- political authors who can export decisive costs can obtain false
+  *Bewährung*; and
+- several mutually unintelligible *we*s forced to produce one compulsory answer
+  can turn elections into contests for the common machinery.
+
+The fourth pattern links this relation to [cultural interoperability and
+Babelization](#0040-mythology-construction-semantic-definition--cultural-interoperability-and-its-breakdown-babelization).
+Procedures may continue counting votes and transferring office after policy
+experience has stopped revising one shared cultural order.
+One pathway into that mismatch is [**cultural-epistemic
+fission**](#0040-mythology-construction-semantic-definition--cultural-epistemic-fission)
+without corresponding jurisdictional differentiation: two or more separately
+reproducing political-cultural *we*s remain bound to one compulsory decision
+machinery. Fission does not itself establish Babelization or require separation;
+the stronger failure occurs only where translation, mutually legitimate
+adjudication, or required coordination falls below the anti-Babel floor at the
+specified interface.
+At the severe limit, incompatible required outputs, loss of mutually legitimate
+adjudication, and continuing unitary jurisdiction create the conditional
+[secession-or-force
+fork](#0060-culture-program-ecology-semantic-definition--the-severe-babelization-fork-secession-or-force).
+
+The required congruence need not be a thick first-order culture at every scale.
+A lifted political *we* can bind person-standing, legitimate opposition,
+evidence, jurisdiction, bounded defeat, appeal, succession, and correction while
+leaving religions, professions, regions, and local communities substantial
+first-order freedom.
+Jurisdiction should then track the thickness and span of the culture that can
+actually carry it: thick local commonality can govern local first-order matters;
+a thinner but real lifted national order can govern the common shell; and wider
+consequences require an appropriately wider adjudicative level.
+[Democratic cultural alloying](#0040-mythology-construction-semantic-definition--democratic-cultural-alloying-and-integrative-interoperability)
+owns the further distinction among procedural selection, integrative learning,
+and revision that produces a successor cultural form.
+
+The historical source bridge is bounded.
+Václav Klaus's [address on the future of Central
+Europe](https://www.youtube.com/watch?v=3b2LQDErBBQ) joins democracy to the
+nation-state, an identifiable people, bounded political space, and sufficient
+historically formed common culture.
+Culture Mechanics generalizes that political intuition into jurisdictional and
+correction terms; it does not attribute the complete congruence mechanism to
+Klaus.
+Hermann Heller's 1928 [“Political Democracy and Social
+Homogeneity”](https://doi.org/10.1525/9780520929685-025) supplies a closer
+social-psychological predecessor: a felt *we* can contain serious opposition and
+make fair political contest possible, while material and cultural exclusion can
+leave democratic form operating as domination.
+Heller did not supply the complete me--we--world circuit, its consequence-side
+*Bewährung* test, the three-level alloying distinction, or the anti-Babel and
+soft-secession architecture developed here.
+
+<a id="0030-epistemic-constitution-semantic-definition--epistemic-atmosphere-fog-and-enclosure"></a>
+
+##### Open epistemic atmosphere, epistemic fog, and epistemic enclosure {#0030-epistemic-constitution-semantic-definition--epistemic-atmosphere-fog-and-enclosure}
+
+The distributed epistemic milieu can occupy three distinct correction
+conditions:
+
+| Condition | Operative relation | Correction boundary |
+|---|---|---|
+| **Open epistemic atmosphere** | Usable concepts, examples, methods, rival sources, question paths, and shared operations permit participants to notice, articulate, compare, and investigate. | Anomalies can become questions; rival participants can replay relevant operations; failed predictions and adverse consequences can revise local codebooks, public operation, and the milieu. |
+| **Epistemic fog** | Some objects, distinctions, sources, or relations are difficult to see, name, retrieve, join, or communicate. | Correction is impeded because the relevant relation remains obscure, scattered, overcompressed, unavailable, or difficult to address, but no protected conclusion need yet control what correction is allowed to mean. |
+| **Self-sealing epistemic enclosure** | A protected construction governs which observations, questions, speakers, and interpretations can acquire standing. | Contradiction is ignored, prohibited, or assigned an answer-preserving interpretation, so correction cannot reliably revise public operation. |
+
+These are correction conditions of one distributed milieu, not mental modules,
+collective processors, or a required chronological sequence.
+One institution can maintain an open atmosphere in one domain, fog in another,
+and enclosure around a protected question elsewhere.
+
+An open atmosphere does not guarantee correct conclusions.
+It names correction permeability: errors can become inspectable and operative
+revision remains possible.
+Epistemic fog does not establish falsehood, conspiracy, repression, or
+intentional obstruction.
+Finite attention, missing concepts, weak education, inaccessible records,
+incompatible vocabularies, specialization, institutional fragmentation, and
+inherited dead formulas can all reduce visibility.
+
+Self-sealing enclosure requires the additional answer-protection relation.
+The governing construction determines in advance why relevant correction cannot
+count.
+Depending on the evidenced unit and depth, [Voegelinian Second
+Reality](#0030-epistemic-constitution-semantic-definition--voegelin-untrue-existence-second-reality-and-question-space),
+[un-reason](#0030-epistemic-constitution-semantic-definition--un-reason-reasoning-that-defeats-the-conditions-of-reason),
+[un-reality](#0030-epistemic-constitution-semantic-definition--un-reality-operative-reality-status-insulated-from-reality), or
+institutional correction nullification may then become applicable under their
+separate gates.
+None follows from fog, disagreement, social mediation, constructivist method, or
+one false conclusion alone.
+
+When two culturally differentiated populations meet, fog and enclosure describe
+conditions within and across their distributed epistemic milieus; they are not
+yet the intergroup outcome.
+Fog can raise the cost of translation because relevant concepts, records,
+examples, operations, or source relations are difficult to retrieve and replay.
+A self-sealing enclosure creates the stronger asymmetry in which one milieu's
+protected account preclassifies why another milieu's evidence, standards, or
+correction cannot count.
+Either condition can contribute to [intergroup semantic decoupling and possible
+Babelization](#0040-mythology-construction-semantic-definition--intergroup-semantic-decoupling-and-breakdown),
+but Babelization requires the additional scale and threshold finding that shared
+translation, legitimate procedure, or required coordination has fallen below
+the anti-Babel floor.
+
+The compact contrast is:
+
+> **The open atmosphere lets the world become a question; epistemic fog makes
+> the question difficult to form or share; epistemic enclosure supplies the
+> protected answer before the world is allowed to answer.**
+
+The controlled [epistemic-cloud and all-seeing-eye
+picture](#0050-culture-mechanics-analogies-semantic-inventory--epistemic-cloud-and-all-seeing-eye)
+makes the milieu's impersonal formation and the separate agentified gaze of
+bigOther-as-Thou visible without postulating a collective brain.
+
+The me--we--world relation supplies an epistemic diagnostic rather than a
+complete moral verdict.
+The separate generator-valence audit in [*Mythology Construction*, “The lifted
+sublimation-generator
+pattern”](#0040-mythology-construction-semantic-definition--the-lifted-sublimation-generator-pattern)
+asks whether resulting practices are life-supporting, person-preserving,
+capability-producing, reality-answerable, and corrigible.
+These standards are themselves culturally articulated, but their bearers,
+capabilities, consequences, and correction paths are not made arbitrary by that
+social articulation.
+
+<a id="0030-epistemic-constitution-semantic-definition--compact-me-we-world-diagnostic"></a>
+
+##### Compact me--we--world diagnostic {#0030-epistemic-constitution-semantic-definition--compact-me-we-world-diagnostic}
+
+Use the relation as four joined but separately owned operations:
+
+1. **Remove the me:** exchange persons or positions and test whether private or
+   factional advantage supplied the justification.
+2. **Expose the we:** identify the inherited concepts, distinctions, methods,
+   sources, exemplars, and evaluative pressures—including those that merely
+   *feel impartial* because everyone competent in the milieu uses them.
+3. **Let the world answer:** specify shared operations, observations,
+   predictions, consequences, and appeal routes capable of revising the common
+   frame rather than merely generating another answer inside it.
+4. **Audit the direction:** separately ask whether the resulting order is
+   life-supporting, person-preserving, capability-producing,
+   reality-answerable, and corrigible under the generator-valence audit owned
+   by *Mythology Construction*.
+
+The first three operations test epistemic position and correction.
+The fourth does not infer moral value from successful correction, persistence,
+or agreement; it restores the independently governed normative question of
+what and whom the corrected capacities serve.
+
+<a id="0030-epistemic-constitution-semantic-definition--open-reality-person-circuit"></a>
+
+#### The open reality--person circuit {#0030-epistemic-constitution-semantic-definition--open-reality-person-circuit}
+
+The me--we--world relation remains incomplete unless correction can return both
+to the world and to a concrete person encountered as a **You**.
+World-correction tests whether the shared representation survives resistant
+objects, events, and consequences.
+Person-correction tests whether the representation still permits an affected
+person's experience, claim, refusal, and non-fungible standing to interrupt what
+the collective is doing.
+
+The full functional circuit is:
+
+```text
+EDA encounter with bodies, events, and consequences
+→ DCL naming, comparison, counterfactual reconstruction, and planning
+→ We-mode sharing, authorization, and coordinated action
+→ institutional enactment in the world
+→ World interruption through resistant consequences
+→ renewed EDA encounter and/or DCL--I reconstruction
+→ You interruption by an affected person
+→ revision of classification, permission, operation, or jurisdiction
+```
+
+This is a functional order of answerability, not a claim about compulsory clock
+time, separate brain modules, or a new processor.
+The [I-mode--We-mode relation](#0010-culture-mechanics-semantic-definition--operative-relationship-modes)
+and the [three-axis operative-agency
+model](#0020-epistemic-agency-semantic-definition--three-axis-operative-agency)
+remain distinct from the stages of the circuit.
+Either interruption can arrive first, and each can expose what the other misses:
+material consequences may defeat a benevolent personal impression, while one
+person's testimony may reveal a harm hidden by aggregate success.
+
+The pathological alternative is **DCL--We closure**:
+
+```text
+DCL classification
+→ We-mode authorization
+→ institutional operation
+→ produced resistance, suffering, anomaly, or failure
+→ the same classification interprets the consequence
+→ consequence confirms the programme
+→ intensified authorization
+```
+
+Three failures can combine inside this loop:
+
+1. **insulation:** persons, events, and consequences do not reach the deciding
+   representation;
+2. **filtration:** they are noticed but can appear only in the programme's own
+   categories;
+3. **moral inversion:** objection, suffering, or resistance is recoded as proof
+   that stronger coercion is necessary or benevolent.
+
+The programme can therefore know many accurate attributes of the affected person
+and still fail to meet that person as a You.
+The defect is not necessarily missing information, low intelligence, absent
+reflection, or literal inability to understand the words.
+It is the loss of an operative route by which a concrete person's claim can
+change classification, permission, conduct, or jurisdiction.
+
+This supplies a bounded Culture Mechanics interpretation of the
+**desk-perpetrator** and one route into what is often discussed under the
+banality of evil: cognition, planning, language, and reflective judgment may
+remain intact while DCL serves a captured We-mode and institutional role.
+The proposition is not offered as a complete exegesis of Hannah Arendt, an
+exhaustive historical explanation, or a claim that every bureaucratic wrong has
+this mechanism.
+
+**World-detachability** is DCL's capacity to operate through representations when
+their objects are absent.
+It is indispensable for memory, imagination, science, planning, moral
+universalization, and concern for people who are not presently encountered.
+Its danger begins when a representation loses its return obligation.
+
+The same world-detachable capacity can close around a private self-story.
+**DCL--Me closure** occurs when imagined rehearsal, rumination, fantasy, or
+self-justification protects an I-position from encounter and consequence;
+**DCL--We closure** protects a collectively authorized representation.
+Daydreaming illustrates disengagement from present EDA, but it is not by itself
+un-reason or un-reality.
+The technical threshold is reached only when protected representation acquires
+operative authority while relevant correction can no longer change it.
+
+A private closed representation may chiefly burden its author.
+Once a DCL--We representation gains institutional execution, it can export the
+costs of its errors to subordinates, outsiders, victims, or future persons while
+its carriers retain the confirming account.
+This asymmetry neither makes private fantasy harmless nor proves the collective
+account false; it explains why authorization, jurisdiction, and cost routing are
+part of the closure audit.
+
+> **Thought must be permitted to leave immediate actuality, while actuality
+> retains the capacity to call it back.**
+
+Ordinary guilt can reopen the circuit by returning the actor to the affected
+person and the consequences of the act.
+Captured guilt instead asks whether the actor betrayed the programme, failed the
+role, or insufficiently enforced its classifications.
+The difference is not the intensity of bad feeling but the authority to which
+the feeling makes the actor answerable.
+
+The open-circuit rule is therefore:
+
+> **No We may monopolize the interpretation of either the world that resists it
+> or the persons on whom it acts.**
+
+Closure should be tested through several independent return routes:
+
+- added information;
+- direct encounter;
+- imaginative or causal reconstruction;
+- reciprocal application of the stated standard;
+- independent consequences and observers; and
+- the affected person's experience, claim, or refusal.
+
+A genuine change through any route is evidence against total closure.
+Failure at one route does not establish failure at all the others, and refusal to
+accept the analyst's preferred conclusion is not itself a failed correction test.
+The relevant question is whether a route can change the operative judgment,
+permission, or jurisdiction under an answerable losing condition.
+
+The complete diagnostic can be compressed in two forms:
+
+> **The We enables transcendence of me. The I--You relation prevents that
+> transcendence from sacrificing the person. The World prevents both from
+> substituting their wishes for reality.**
+
+> **Can the World defeat the account, can the You interrupt the permission, and
+> can the I remain answerable for the act?**
+
+The [Perception--Context--Permission
+sequence](#0040-mythology-construction-semantic-definition--perception-context-permission)
+locates the upstream authorization mechanism, while [intergroup semantic
+decoupling and possible
+Babelization](#0040-mythology-construction-semantic-definition--intergroup-semantic-decoupling-and-breakdown)
+locates one way in which the personal return path becomes unusable.
+A practical audit asks what observation can change the description, whose
+testimony can alter permission, which outcome can contract jurisdiction, and
+whether a harmed outsider can still become You.
 
 <a id="0030-epistemic-constitution-semantic-definition--anti-gnostic-adaptive-constitutional-learning"></a>
 
@@ -15550,6 +17888,43 @@ The correct inference therefore needs denominators, definition stability,
 observation intensity, verification outcomes, error estimates, and rival
 explanations wherever they can be obtained.
 
+Performative change and sensor change must remain distinct. A representation can
+genuinely alter conduct while measurement remains independent. An observer can
+change categories, selection, or reporting intensity without materially changing
+the underlying condition. Both can occur together. Endogeneity changes what the
+observation proves; it does not establish fabrication or make the observed
+condition unreal.
+
+<a id="0030-epistemic-constitution-semantic-definition--performative-historical-self-concealment"></a>
+
+###### Performative historical self-concealment {#0030-epistemic-constitution-semantic-definition--performative-historical-self-concealment}
+
+**Performative historical self-concealment** occurs when representation-induced
+changes become ordinary practice and the provenance of the resulting social state
+recedes from available memory:
+
+```text
+representation alters conduct, relationships, institutions, or sensing
+→ the altered operation produces durable relations, records, and expectations
+→ initiating conditions recede from common memory
+→ later observers encounter the produced state as their starting reality
+→ the state appears to validate the account that helped produce it
+```
+
+Later hostility, trust loss, segregated networks, institutional weakness, or
+administrative failure can be genuine. The missing object is the history of the
+data-generating and relationship-generating process. No fabricated dataset,
+continuing strategist, or coordinated concealment is required. Deliberate
+concealment is a separate attribution that needs evidence of actor, access,
+action, temporal nexus, and causal contribution.
+
+The mechanism also prevents the opposite simplification. Historical production
+does not make the successor condition unreal, costless, or safely reversible.
+Once relations, skills, records, incentives, and institutions have changed, the
+produced state can constrain later participants who neither chose nor know its
+origin. Recovery may require reconstructing carriers and trust rather than merely
+withdrawing the initiating representation.
+
 An **ascertainment ratchet** arises when apparatus growth raises recorded volume,
 the rise is read as proof that the external phenomenon grew, and that reading
 authorizes further apparatus growth:
@@ -17149,6 +19524,146 @@ person--programme relation, coercive or eliminative enforcement as an outward
 operation, and fanatic offspring as an observable extreme discharge. No one of
 them entails another without further evidence.
 
+<a id="0030-epistemic-constitution-semantic-definition--tragic-protective-responsibility"></a>
+
+##### Tragic protective responsibility {#0030-epistemic-constitution-semantic-definition--tragic-protective-responsibility}
+
+A different structure appears when a person judges that force or another
+normally wrongful act is necessary to protect others from serious and imminent
+harm, yet does not treat necessity, office, or collective authorization as moral
+purification.
+**Tragic protective responsibility** names this burdened position.
+It is neither a general permission for violence nor a claim that harmful means
+become good when their end is described as protective.
+
+The minimum audit asks for separately inspectable support for:
+
+- an actual threat and persons exposed to it;
+- necessity after serious consideration of feasible less harmful alternatives;
+- proportionality between the threatened harm and the proposed response;
+- lawful authority where available, due process where possible, and protection
+  against private vengeance;
+- review, stopping conditions, correction, and repair; and
+- the actor's continuing ownership of judgment, error, consequence, and guilt.
+
+Refusal to use force can itself abandon persons to an aggressor, so clean hands
+cannot be made the only good.
+Yet accepting dirty hands does not create innocence:
+
+> **Someone may have to accept dirty hands, but the dirt must remain visible.**
+
+The contrast with perverse instrumentality concerns authorship.
+The tragic protector says, in effect, “I judged, acted, may have been wrong, and
+remain answerable to the persons harmed and protected.”
+The perverse instrument says, “The Other, History, law, necessity, or the
+programme acted through me; obedience proves my purity.”
+The first can still be mistaken, disproportionate, captured, or criminal; its
+self-description supplies no exemption from evidence and review.
+
+Responsibility also follows the decision and causal chain.
+A community that authorizes, directs, or benefits from a harmful protective act
+cannot preserve its own purity by assigning all moral burden to an executor.
+That **moral-outsourcing** configuration would turn a purported protector into a
+designated carrier of costs that the authorizing We refuses to own.
+
+Specific theological, religious, and historical applications do not follow from
+this generic constitutional distinction.
+The following application makes its source and interpretive limits explicit.
+
+<a id="0030-epistemic-constitution-semantic-definition--ilyin-and-the-biblical-tragic-protector"></a>
+
+###### Ilyin and the biblical tragic-protector synthesis {#0030-epistemic-constitution-semantic-definition--ilyin-and-the-biblical-tragic-protector}
+
+Ivan Ilyin's 1925 [*On Resistance to Evil by
+Force*](https://kartaslov.ru/книги/Иван_Ильин_О_сопротивлении_злу_силою)
+supplies the historical-philosophical application behind the project term.
+Written against Tolstoyan nonresistance after revolution, civil war, and exile,
+its relevant position is not that violence becomes good when directed against
+evil.
+It is that refusal can abandon another person to aggression, while force judged
+necessary for protection can remain an injurious and spiritually dangerous act
+whose agent must own the burden.
+
+The project's Ilyin compression is:
+
+> **The defender may be right to act without becoming righteous through the act.**
+
+A person may choose nonresistance and suffering for themself.
+They cannot automatically choose another person's abandonment merely to preserve
+their own clean hands.
+Yet the word *protection* cannot authenticate the use of force.
+The threat, exposed persons, feasible alternatives, proportionality, authority,
+stopping condition, and continued standing of the opponent remain independently
+reviewable.
+The actor's willingness to bear guilt is not proof that the judgment was correct.
+
+The development's **Sündenesser** comparison distinguishes four structures:
+
+| Figure | Burden relation |
+|---|---|
+| **Ritual sin-eater** | Symbolically receives sins attributed to acts already committed by others. |
+| **Scapegoat** | Receives projected or transferred guilt so that another person or group appears clean. |
+| **Tragic protector** | Owns the morally injurious act that they judged necessary to protect another and remains answerable for error and consequence. |
+| **Perverse instrument** | Treats authorization by God, History, office, or programme as purification: the act is represented as the Other's necessity rather than the agent's answerable choice. |
+
+Within the Christian interpretation used here, atonement belongs to none of
+these responsibility transfers.
+God bearing human sin and suffering is not the same structure as an agent
+committing evil against another person “on their behalf” and calling that act
+atonement.
+
+The tragic protector is therefore not made innocent by becoming a designated
+“sin-eater” for the community.
+If a community authorizes, directs, and benefits from force while placing the
+entire stain on the executor, it performs moral outsourcing.
+Responsibility must follow the decision and causal chain.
+Ilyin's warrior--monk relation is useful here insofar as conscience and spiritual
+accompaniment keep force from becoming self-sanctifying; it becomes dangerous if
+the companion certifies supposed divine enemies or guarantees the warrior's
+purity.
+
+The project constructs a related biblical protector motif set:
+
+| Motif | Possible authorization | Internal limit |
+|---|---|---|
+| **Rescue those led to death** (Proverbs 24:11–12; Psalm 82:3–4) | Passivity can abandon the vulnerable. | The obligation does not itself specify violence. |
+| **Accountable watchman** (Ezekiel 33:6–9) | Omission can incur responsibility for preventable harm. | The immediate duty in the passage is warning, not unlimited coercion. |
+| **Shepherd and wolf** (John 10:11–13) | Protection may require facing danger. | The shepherd first gives his own life rather than feeding a victim to the flock. |
+| **Sword-bearing servant** (Romans 12–13) | Public authority may restrain wrongdoers. | The passage follows the rejection of private vengeance; office does not confer moral infallibility. |
+| **Soldiers under commandment** (Luke 3:14) | Soldiering is addressed without a demand for immediate desertion. | Soldiers remain bound against extortion and false accusation. |
+| **David and the Temple** (1 Chronicles 22:8–10) | A blood-stained ruler can remain chosen and historically consequential. | Bloodshed does not qualify David to build the Temple; peace must complete what force cannot build. |
+| **Peter's interrupted sword** (Luke 22:49–51; Matthew 26:50–54) | Protective zeal is intelligible in the face of arrest. | Jesus stops the blow and restores the injured enemy; zeal does not authenticate its own means. |
+
+The Davidic sequence matters because Christian scripture presents Jesus in
+David's lineage.
+David prepares but does not build the Temple because of his bloodshed; Solomon,
+whose name and reign are associated with peace, builds it; the later Son of David
+refuses armed rescue, identifies his body with the Temple, and undergoes violence
+rather than establishing his kingdom through his followers' swords.
+The arc allows force to remain historically consequential without making it the
+builder of the sacred order.
+
+Enemy-love, non-retaliation, the command to put away the sword, and the
+non-fighting character of Jesus's kingdom remain substantial countertexts.
+The biblical table is therefore a contested Christian synthesis supporting a
+narrow tragic-protector possibility, not an uncontested proof of Ilyin's entire
+doctrine or a general licence for sacred war.
+It preserves the decisive constitutional distinction:
+
+```text
+tragic protection
+→ the threat is concrete and externally reviewable
+→ the opponent remains a person
+→ necessity narrows action and supplies a stopping condition
+→ the agent and authorizing community remain answerable
+
+sacralized violence
+→ the programme identifies an enemy of God, History, or salvation
+→ authorization purifies the act
+→ resistance proves guilt
+→ expansion or destruction can renew the sacred programme
+```
+
 A **constitutive adversary** is an opponent whose continued existence performs
 load-bearing identity and motivational work for a programme, so that eliminating
 the stated problem would threaten the programme's own coherence. Adversary
@@ -17942,9 +20457,73 @@ The two poles must therefore be kept together conceptually. Each positive safegu
 22. **Science does not silently authorize prophecy.** The transition from
     evidence and causal inference into value selection, synthesis, and political
     jurisdiction must be named and remain corrigible.
+23. **Removing the me may reveal the we, not yet the world.** Freedom from
+    private-position privilege does not by itself expose or correct the shared
+    conceptual frame through which everyone judges.
+24. **Objectivity is corrigible collective formation, not absence of collective
+    formation.** A truth-seeking order must permit the world to revise both an
+    answer and the inherited grammar that made the answer appear obvious.
+25. **Collective persistence is evidence of reproduction and possible partial
+    fit, not decisive objectivity.** Endurance can coexist with delayed,
+    buffered, misattributed, or displaced costs and with a shared grammar that
+    makes counterevidence difficult to recognize; ask what was repeatedly
+    tested, who bore the consequences, and what could make the frame lose.
+26. **Social mediation is unavoidable; epistemic sovereignty of the mediation
+    is not.** A shared framework can organize contact, comparison, and
+    communication without acquiring authority to decide what the object may do;
+    repeatable success and resistant failure must be able to revise the frame.
+    A procedure can be sincerely disciplined and feel impartial because its
+    local epistemic grammar has become transparent to participants; neither the
+    coolness of that experience nor the absence of private advantage establishes
+    culture-transcendent objectivity.
+27. **World interruption and You interruption are independent constitutional
+    safeguards.** Consequences can defeat a personally attractive story, and an
+    affected person's claim can reveal what an aggregate measure conceals.
+28. **Necessity does not purify authorship.** A person who uses harmful means to
+    protect others must remain answerable for the judgment, alternatives,
+    proportionality, consequence, stopping condition, and repair; the
+    authorizing collective cannot outsource the whole burden to its executor.
+29. **Observation is a typed social achievement, not raw reality or arbitrary
+    construction.** Resistant conditions and sensing architecture jointly shape
+    what becomes available for public correction.
+30. **Causal efficacy is not independent validation.** An operative
+    representation can help generate the conduct, institution, or observation
+    later cited in its support; the produced result can be real while proving
+    less than the complete programme claims.
+31. **Feedback boundaries must be mapped together.** Co-authorship,
+    jurisdiction, consequence bearing, and operative correction need sufficient
+    congruence for a democratic learning loop to close.
+32. **Correction independence is operational.** An adverse result counts as
+    independent only where it can survive reception and alter consequential
+    rules, appointments, resources, jurisdiction, or succession without the
+    tested custodian retaining the final veto.
 
 ### 21. Diagnostic questions
 
+- Would the judgment survive exchange of the persons or positions while
+  materially relevant structure remains?
+- Which collectively learned concepts, methods, authorities, and standards made
+  the judgment appear natural, and what common assumption would not be removed
+  by cancelling private interests?
+- What shared operation, failed prediction, resistant object, or consequence
+  could revise the framework rather than only generate another answer within it?
+- Can an affected person alter classification, permission, operation, or
+  jurisdiction, or can the system know that person in detail only as a case?
+- Does resistance reopen encounter and review, or become confirming evidence
+  for the classification that authorized the intervention?
+- If harmful protective action is proposed, who owns the necessity judgment,
+  what lesser alternatives were tested, when must the action stop, and who owns
+  error and repair afterward?
+- Is the distributed epistemic milieu functioning as an open atmosphere, an
+  epistemic fog, or a self-sealing enclosure for this domain, and what evidence
+  distinguishes difficulty of access from protection of an answer?
+- Does the apparent impartiality mark removal of private-position privilege,
+  ordinary use of a locally shared procedure, or demonstrated exposure of that
+  procedure to reality-mediated correction?
+- Does a representation persist because it repeatedly survives independent
+  correction, because it coordinates a bounded practice adequately, or because
+  adverse costs and observations are delayed, buffered, displaced, or
+  inadmissible within the inherited grammar?
 - Can a person publicly say “I doubt,” “I do not know,” or “I changed my mind” without losing ordinary membership?
 - Does public speech plausibly reveal private judgment, or mainly the anticipated cost of expression?
 - Are authorities trusted because of inspectable competence and performance, or because their authorization decides admissibility?
@@ -18087,6 +20666,56 @@ Candidate audit retained outside the classifier:
 Order and jurisdiction:
 
 > **full lifted capture → fixed M + current K_t + situation C → binding R_t(C); where M governs universally, it can constitute, allocate, limit, succeed, and correct first-order jurisdictions while representatives receive no root access to reality**
+
+Me--we--world correction:
+
+> **remove private privilege → expose the collectively learned frame → let
+> shared operations and mind-independent consequences correct both answer and
+> frame → separately audit what and whom the corrected capacities serve**
+
+Culture-propagator correction projection:
+
+> **operative representation and authorization → conduct and institutional
+> enactment → worldly consequence → sensing and publicly available observation
+> → challenge, adjudication, and revision or non-revision → altered
+> representation, operation, and retained memory**
+
+Feedback-boundary congruence:
+
+> **continuing co-authors + persons and domains bound + consequence bearers +
+> effective correction routes → sufficiently closed political learning loop;
+> demographic or territorial overlap alone is insufficient**
+
+Endogenous confirmation:
+
+> **R becomes operative → R helps produce response or observation O → O is
+> returned as apparently independent evidence for R; O occurred ≠ R independently
+> predicted O ≠ the complete programme containing R is uniquely validated**
+
+Independent correction remainder:
+
+> **preserve observations, testimony, comparison, and consequences that the
+> tested representation--institution complex cannot completely elicit, select,
+> classify, interpret, and adjudicate by itself; formal receipt is insufficient
+> unless adverse evidence can survive custody and alter operation**
+
+Open reality--person circuit:
+
+> **encounter → representation → shared authorization → enactment → World
+> interruption and You interruption → revision; DCL--We closure instead routes
+> produced resistance, suffering, anomaly, or failure back into confirmation**
+
+Tragic protective responsibility:
+
+> **credible threat + necessity + proportionality + bounded authority + review
+> and stopping conditions + continuing authorship → possibly least-wrong
+> protection, never moral purification**
+
+Distributed-milieu conditions:
+
+> **open epistemic atmosphere → correction remains usable; epistemic fog → the
+> relevant relation is difficult to form or share; self-sealing epistemic
+> enclosure → a protected answer governs why correction cannot count**
 
 Anti-gnostic adaptive learning:
 
@@ -18255,6 +20884,43 @@ Ultimate contrast:
 ### 23. Established concepts retained substantially in their source sense
 
 - **Mechanical and organic solidarity — Émile Durkheim:** [*De la division du travail social*](https://classiques.uqam.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html).
+- **Truth as *adaequatio intellectus et rei* — Thomas Aquinas:** [*Summa
+  Theologiae* I, q. 16, a. 1](https://www.newadvent.org/summa/1016.htm) and [*De
+  veritate* q. 1, a. 1](https://isidore.co/aquinas/english/QDdeVer1.htm) supply
+  the correspondence principle that truth requires conformity or agreement of
+  intellect and thing.
+  Aquinas receives and develops this account within a wider metaphysics; the
+  project retains the world-facing correspondence boundary without importing
+  that metaphysics as a whole.
+- **Collective concepts, interpersonal harmony, and objective adequacy — Émile
+  Durkheim:** [*The Elementary Forms of the Religious
+  Life*](https://classiques.uqam.ca/classiques/Durkheim_emile/formes_vie_religieuse/formes_elementaires.html)
+  expressly denies that collective concepts are averages of corresponding
+  individual representations and describes them as an organized civilizational
+  inheritance containing knowledge beyond the average individual.
+  It also supplies the distinction between harmony among minds and harmony with
+  things, the possibility that accepted collective representations can prevent
+  belief in a sound scientific concept, and the later qualification that society
+  is a particular subject whose representations retain subjective elements.
+  The three-way distinction among positional impersonality, collective or
+  procedural impersonality, and world-answerable objectivity—and the audit of
+  delayed, buffered, hidden, or displaced costs—are Culture Mechanics
+  refinements rather than Durkheim's terminology.
+- **“Wir irren uns empor” — Gerhard Vollmer:** [GWUP's account of critical
+  discussion](https://www.gwup.org/skeptische-gesellschaft/kritisierst-du-noch-oder-cancelst-du-schon/)
+  attributes the phrase to Vollmer's 1995 Popper memorial essay and uses it for
+  cooperative fallibilist learning through reasons, factual accuracy, viewpoint
+  plurality, and open criticism.
+  ***Bewährung* through corrigible reality contact**, its exposure conditions,
+  and its placement as the diachronic test history of objective adequacy are Culture
+  Mechanics refinements rather than Vollmer's complete epistemology.
+- **General will, will of all, and cancellation of private differences —
+  Jean-Jacques Rousseau:** [*The Social Contract*, book II, chapter
+  3](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm#CHAPTER_III)
+  supplies the source comparison.
+  The claim that a cultural premise common to all participants will not cancel,
+  and the center-of-gravity image used to picture that common frame, are project
+  extensions rather than Rousseau's own terms.
 - **Epistemic dependence — John Hardwig:** [“Epistemic Dependence”](https://doi.org/10.2307/2026523).
 - **Cognitive authority — Patrick Wilson:** [*Second-Hand Knowledge*](https://www.bloomsbury.com/uk/secondhand-knowledge-9780313237638/).
 - **Epistemic authority and preemption — Linda Trinkaus Zagzebski:** [*Epistemic Authority*](https://doi.org/10.1093/acprof:oso/9780199936472.001.0001).
@@ -18264,6 +20930,12 @@ Ultimate contrast:
 - **Refusal to participate in lies — Aleksandr Solzhenitsyn:** [“Live Not by Lies”](https://www.solzhenitsyncenter.org/live-not-by-lies).
 - **Public dissimulation and acting “as if” — Lisa Wedeen:** [*Ambiguities of Domination*](https://press.uchicago.edu/ucp/books/book/chicago/A/bo22776830.html).
 - **Political lying and factual truth — Hannah Arendt:** [*On Lying and Politics*](https://www.loa.org/books/713-on-lying-and-politics-paperback/).
+- **The banality of evil — Hannah Arendt:** [*Eichmann in
+  Jerusalem*](https://www.penguinrandomhouse.com/books/320983/eichmann-in-jerusalem-by-hannah-arendt/)
+  supplies the source phrase and trial-centred inquiry. The DCL--We closure and
+  desk-perpetrator configuration developed here is a bounded Culture Mechanics
+  reinterpretation, not Arendt's definition, a complete exegesis of the book, or
+  an exhaustive account of National Socialist perpetration.
 - **Language as culture-forming political medium — Victor Klemperer:** [*The Language of the Third Reich*](https://www.bloomsbury.com/us/language-of-the-third-reich-9781472507211/).
 - **“Marsch durch die Definitionen” — Roland Baader:**
   [*totgedacht*](https://gedankenreich.eu/cms/buechertisch/Baader-Roland-Totgedacht.pdf),
@@ -18416,6 +21088,44 @@ independent source establishes otherwise:
   the allocation and limitation of first-order outputs and jurisdictions**,
   inherited from the coordinated theory project and applied constitutionally here;
 - **reality-anchored, truth-seeking epistemic constitution**;
+- the **me--we--world correction relation** and its linked propositions
+  **removing the me may reveal the we, not yet the world** and **objectivity is a
+  collectively sustained capacity to let the collective's own frame lose when
+  the world answers against it**;
+- the **culture-propagator correction projection**, **feedback-boundary
+  congruence**, **endogenous confirmation**, **independent correction remainder**,
+  and **performative historical self-concealment** as project-developed relations
+  among worldly consequence, sensing, observation, correction, co-authorship,
+  jurisdiction, memory, and performatively altered social conditions; the
+  religious symmetry boundary test applies the existing separation of causal
+  efficacy from epistemic truth rather than classifying either compared religion;
+- the **open reality--person circuit**, **World interruption**, **You
+  interruption**, **DCL--Me closure**, and **DCL--We closure** as distinct
+  project formulations joining operative relationship mode, cognitive stance,
+  institutional enactment, consequence, personal standing, and revision without
+  postulating additional processors; **world-detachability**, the return-obligation
+  maxim, the multi-route closure audit, and the World--You--I diagnostic are
+  project-developed controls within that circuit;
+- the bounded desk-perpetrator formulation in which intact cognition and
+  reflection operate under captured We-mode without an effective personal return
+  path; this is a Culture Mechanics mechanism proposal rather than a complete
+  exegesis of Arendt's banality of evil or a whole historical explanation;
+- **tragic protective responsibility**, its visible-dirty-hands maxim, and the
+  **moral-outsourcing** configuration as project terms separating burdened,
+  answerable protection from exculpated perverse instrumentality; Ilyin's 1925
+  *On Resistance to Evil by Force* supplies the named philosophical application,
+  while the protector-motif table, Davidic sequence, *Sündenesser* distinction,
+  atonement boundary, and force-versus-sacralized-violence synthesis are project
+  interpretations that retain the cited biblical countertexts and do not license
+  force generally;
+- ***Bewährung* through corrigible reality contact** as correction-tested
+  robustness rather than duration or survival alone, with “wir irren uns empor”
+  naming a fallibilist direction rather than guaranteed, monotonic, morally
+  sufficient, or final progress;
+- **open epistemic atmosphere**, **epistemic fog**, and **self-sealing epistemic
+  enclosure** as distinct domain-sensitive correction conditions of the
+  distributed epistemic milieu rather than processors, chronological stages, or
+  automatic diagnoses of falsehood, intent, un-reason, or un-reality;
 - **systemic-lying epistemic constitution** as the constitutional meta-order
   that recurrently generates, selects, authorizes, protects, and replaces
   organized un-reality because independent truth has been subordinated to
@@ -18802,6 +21512,50 @@ independent source establishes otherwise:
 - **Central object:** the relationship among reality, private judgment, public
   avowal, authority, evidence, disagreement, attention, memory, correction, and
   what the shared order organizes motivation to reproduce.
+- **Me--we--world correction relation:** removing private or factional privilege
+  can reveal a conscientiously applied shared framework without establishing
+  that the framework fits the world. Objectivity requires correction paths
+  through which shared operations and mind-independent consequences can revise
+  both answer and inherited epistemic grammar. Aquinas's *adaequatio intellectus
+  et rei* names the world-facing correspondence criterion, while Durkheim's own
+  distinction between harmony among minds and harmony with things supplies the
+  social-epistemic bridge to objective adequacy;
+  collective persistence remains evidence to explain rather than proof of
+  world-fit, and Rousseauian cancellation cannot remove a frame common to all
+  participants.
+- **Durkheim--Rousseau non-equivalence:** Durkheimian collective concepts are a
+  diachronically accumulated, organized, and distributed conceptual inheritance
+  that can exceed the knowledge of an average present member; Rousseauian cancellation concerns
+  present private differences under a political decision procedure, while the
+  related center-of-gravity image is the project's non-arithmetic picture of a
+  common frame or attractor. Neither operation establishes world-fit.
+- ***Bewährung* through corrigible reality contact:** duration creates testing
+  opportunities but warrants additional confidence only where varied exposure,
+  resistant consequences, preserved adverse records, affected-person standing,
+  rival comparison, and effective revision or abandonment allowed the account
+  to lose. “Wir irren uns empor” names error-driven cumulative learning rather
+  than automatic progress; correction-tested robustness remains defeasible
+  evidence and cannot by itself establish final truth or moral legitimacy.
+- **Mediation without epistemic sovereignty:** shared reality is both a common
+  domain through which culturally differently formed persons can build
+  compatible concepts and an independent source of correction when those
+  concepts fail. Socially mediated access does not make the frame sovereign over
+  what its objects may do; successful affordance and resistant failure are
+  evidence to interpret rather than self-explaining truth or moral oracles.
+- **Felt-impartiality boundary:** removal of private advantage, visible command,
+  or hot collar pressure can leave a locally formed epistemic grammar untouched.
+  “Our trained community reasons this way” may consequently be experienced as
+  “reason itself works this way.” Genealogy, deconstruction, and regime-of-truth
+  inquiry can expose that formation without thereby refuting the answer or
+  establishing relativism; world-directed correction remains a separate test.
+- **Distributed-milieu correction conditions:** an open epistemic atmosphere
+  makes anomalies, rival operations, and revision usable; epistemic fog makes a
+  relation difficult to form or share without necessarily protecting an answer;
+  self-sealing epistemic enclosure lets a protected construction govern why
+  correction cannot count. Across milieus, fog can raise translation costs and
+  enclosure can preclassify a rival correction as invalid, but either becomes
+  Babelization only when loss of translation, legitimate procedure, or required
+  coordination crosses the anti-Babel threshold at a specified interface.
 - **Theoretical *un-* family:** a theoretical *un-X* marks internal deformation
   beyond simple absence or external opposition; it is not a general rule for
   every word beginning with *un-*.
@@ -21057,6 +23811,85 @@ supports.
 An **anonymous usage** is a socially inherited expectation reproduced without a
 present author or central designer; anonymity does not remove causation,
 institutional support, or the possibility of change.
+
+In the [culture
+propagator](#0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution),
+an active representation is therefore a causal state component rather than a
+detached description. Once deployed, it can alter attention, relationship,
+conduct, monitoring, access, reward, sanction, institutional practice, and the
+future represented as possible:
+
+```text
+representation, classification, or prediction becomes operative
+→ persons interpret, appraise, comply, resist, conceal, or reorganize
+→ reciprocal signals and institutions change
+→ the relevant social object and its available roles change
+→ later persons encounter a partly transformed world
+→ later mythology incorporates, contests, or forgets that transformation
+↺
+```
+
+[Ian Hacking's “Making Up
+People”](https://www.lrb.co.uk/the-paper/v28/n16/ian-hacking/making-up-people)
+supplies the looping relation in which classifications enter the lives and
+institutions of classified people, whose responses can alter the later category
+and its use. [Ludwik Fleck's thought-style and thought-collective
+account](#0020-epistemic-agency-semantic-definition--collective-epistemic-formation)
+supplies a neighbouring relation in which trained collective formation organizes
+perception, concepts, methods, and the reception of findings. [George Soros's
+reflexivity lectures](https://www.georgesoros.com/wp-content/uploads/2017/10/the_soros_lectures-human_uncertainty_principle-2017_10_05.pdf)
+develop the two-way relation between participants' fallible representations and
+the situations changed by action through those representations. Juan Perdomo,
+Tijana Zrnic, Celestine Mendler-Dünner, and Moritz Hardt's [performative-prediction
+model](https://proceedings.mlr.press/v119/perdomo20a.html) supplies a formal
+machine-learning neighbour in which deployment changes the later target
+distribution.
+
+These are bounded predecessors, not co-authors of the culture propagator.
+Culture Mechanics adds the homo-duplex processor architecture, emergent
+collective-field back-action, mythology and active representation, institutional
+carrying structure, worldly consequence, sensing and correction, programme
+reproduction, and the person-preserving constitutional boundary. It does not
+transfer disputed claims about any named actor's political intention into the
+general mechanism or threat model.
+
+This is **performative dynamics** in the present framework: deployment helps
+alter the object from which later observations and mythologies are drawn.
+Performativity is neither inherently deceptive nor sufficient evidence that the
+representation is true. A promise can help create cooperation, a warning can
+reduce danger, an accusation can provoke defensive organization, and an
+educational expectation can expand capability. The causal result must be
+distinguished from the representation's descriptive accuracy, the legitimacy of
+its jurisdiction, and the standing of persons affected by its execution.
+
+Active representations usually arrive as packages with separable inferential
+joints:
+
+```text
+experienced condition, event, or complaint
+→ selected description and classification
+→ causal attribution
+→ represented person-types, duties, danger, or possible future
+→ proposed remedy
+→ jurisdictional claim and implementing authority
+→ standing assigned to assenters, objectors, and affected persons
+```
+
+A real injury can give the package substantial representational leverage without
+validating every later joint. Agreement with the event or complaint does not by
+itself establish the classification, cause, remedy, compulsory jurisdiction, or
+character judgment. Rejection of the package likewise does not erase the
+original event or the affected person's standing. Symbols, institutional
+summaries, and conformity sanctions increase leverage when they compress these
+joint claims into one loyalty-bearing object.
+
+The epistemic consequences of this loop--sensor endogeneity, endogenous
+confirmation, correction independence, and performative historical
+self-concealment--belong to [*Epistemic
+Constitution*](#0030-epistemic-constitution-semantic-definition--culture-propagator-correction-projection).
+Mythology construction owns the formation and action-routing relation: how the
+representation becomes capable of producing conduct, institution, and successor
+mythology in the first place.
 
 Ortega's inheritance diagnosis adds a further asymmetry to this layer.
 Claims upon a complex inherited order can expand while acknowledgement of the
@@ -23334,6 +26167,67 @@ relevant structures supply the morally weighted stake, PCP supplies the actionab
 classification, and the authorization payload identifies the power transfer that
 acceptance is expected to support.
 
+<a id="0040-mythology-construction-semantic-definition--dcl-we-closure-and-criticism-as-hate-routing"></a>
+
+#### DCL--We closure and criticism-as-hate routing {#0040-mythology-construction-semantic-definition--dcl-we-closure-and-criticism-as-hate-routing}
+
+PCP supplies the action-routing hinge inside the [open reality--person
+circuit](#0030-epistemic-constitution-semantic-definition--open-reality-person-circuit).
+Disengaged conscious languaging can compare evidence, reconstruct an absent
+person's experience, and expose a false context.
+Under **DCL--We closure**, however, it can elaborate a collectively authorized
+representation while the same representation controls what later evidence,
+resistance, and suffering are allowed to mean.
+
+The complete routing sequence is:
+
+```text
+encounter, report, or remembered event
+→ PERCEPTION: selected object and category
+→ CONTEXT: causal, historical, social, and moral placement
+→ PERMISSION: permitted, required, or prohibited response
+→ AUTHORIZATION PAYLOAD: powers, jurisdiction, discretion, and duration
+→ institutional enactment
+→ effect upon persons and world
+→ open correction or closed reinterpretation
+```
+
+The affected person need not be reduced to a few attributes.
+Names, biography, preferences, family relations, and predicted suffering may all
+remain known while the programme classifies the person only as an operative case,
+carrier, obstacle, resource, deviant, or threat.
+The decisive distortion can therefore lie upstream in the category, context,
+end, or rule of exclusion rather than in informational thinness.
+
+One common affective route is **criticism-as-hate routing**:
+
+```text
+programme supplies identity, goodness, belonging, and protected objects
+→ criticism addresses a claim, symbol, representative, or operation
+→ mythology reconstructs the criticism as an attack on “us,” on protected
+  persons, or on the good itself
+→ local-bigOther response marks the critic as hostile
+→ elephant-side hurt, fear, disgust, or anger confirms the classification
+→ the critic's standing falls and the programme's permission expands
+```
+
+This explains how a criticism can be sincerely experienced as hate without
+making that experience decisive evidence about the critic's act or intent.
+The reverse error must also be prevented: explicitly hateful or threatening
+speech does not become innocent merely because a speaker describes it as
+criticism.
+The audit must separately test the proposition or conduct criticized, the actual
+words and context, the inferred target and intent, the classification supplied by
+the programme, the listener's affective response, and the power requested in
+reply.
+
+Not every structural account is false, not every frame is manipulative, and not
+every permission is coercive.
+A case claim requires separate evidence for inaccurate or asymmetric perception,
+false or protected context, closed reinterpretation, expanded authorization,
+institutional implementation, consequence, and any attribution of design or
+intent.
+
 ### 15. Identity, role, symbol, and permission
 
 Mythologies do not merely explain. They recruit.
@@ -25240,6 +28134,133 @@ The Voegelinian [question-space and Second-Reality
 layer](#0030-epistemic-constitution-semantic-definition--voegelin-untrue-existence-second-reality-and-question-space)
 owns the corresponding correction boundary.
 
+<a id="0040-mythology-construction-semantic-definition--del-noce-and-the-future-we-as-silent-principal"></a>
+
+##### Del Noce and the future We as silent principal {#0040-mythology-construction-semantic-definition--del-noce-and-the-future-we-as-silent-principal}
+
+**Source status:** this application begins from the secondary German exposition
+[“Augusto Del Noce: Er wusste, warum Gott gestorben
+ist”](https://www.corrigenda.online/kultur/augusto-del-noce-er-wusste-warum-gott-gestorben-ist),
+not from a fully recovered Del Noce primary passage.
+The attributed argument and the Culture Mechanics extension must therefore remain
+distinct.
+
+The exposition attributes to Del Noce an account in which modern gnosticism still
+believes in evil but relocates it from free human action into the structure of the
+world.
+If the structure is evil, abolishing it becomes redemption; a person who defends
+it becomes a servant or carrier of evil; and morality is measured by contribution
+to breaking the fetter.
+Culture Mechanics reconstructs the authorization sequence as:
+
+```text
+structure is classified as evil
+→ abolition of the structure is classified as redemption
+→ defenders are classified as carriers of evil
+→ resistance confirms attachment, complicity, or false consciousness
+→ the resister's expressed judgment loses standing
+→ coercion is redescribed as liberation
+→ stronger resistance authorizes stronger coercion
+```
+
+The programme produces resistance by attacking what the person treats as a
+relevant structure, then treats that resistance as proof that its original
+diagnosis was correct.
+Standing is dismantled before the body, office, family, property, profession,
+religion, association, inheritance, or local order is destroyed:
+
+```text
+“You are mistaken.”
+→ “Your consciousness is produced by the oppressive structure.”
+→ “You cannot know your own true interests.”
+→ “Your expressed will has no authority.”
+→ “Your resistance reproduces evil.”
+→ “Removing your capacity to resist is liberation.”
+```
+
+This is **relevant-structure inversion**.
+Structures through which existing persons receive continuity, responsibility,
+orientation, and agency are redescribed as fetters, while a projected reconciled
+future—liberated humanity, the classless society, or the new human being—becomes
+the highest relevant structure.
+Destroying the present structure can then be experienced as construction of the
+real one.
+Coercion becomes liberation and sacrifice becomes redemption rather than a dirty
+means whose burden remains visible.
+
+The projected future We functions as a **silent principal**.
+It cannot specify its mandate, refuse today's sacrifice, dismiss its interpreter,
+or testify that the programme is not serving it.
+Present custodians nevertheless claim authority in its name, while claimed access
+to the hidden structure gives them jurisdiction over persons whose objections the
+same account has already invalidated.
+This distinguishes the mechanism from tragic protection: the protector responds
+to a concrete harmful act, retains the opponent as a person, accepts burden, and
+must stop when the threat stops; the redemptive destroyer confronts a carrier of
+structural evil, receives moral purification from the future We, and can treat
+resistance or failure as permission to intensify.
+
+The mechanism does not classify all structural criticism, reform, long-term
+planning, or concern for future persons.
+Its gate is an exclusive salvific account that both overrides present persons and
+prevents their resistance or adverse consequences from correcting the account.
+The primary Del Noce provenance remains open; the secondary-mediated pattern and
+the project's extension are authoritative here only in their stated roles.
+
+<a id="0040-mythology-construction-semantic-definition--catherine-of-siena-and-sacralized-expansion"></a>
+
+##### Catherine of Siena and sacralized expansion {#0040-mythology-construction-semantic-definition--catherine-of-siena-and-sacralized-expansion}
+
+Catherine of Siena is an internal Christian stress test for the [conditional
+Christian theological
+interpretation](#0010-culture-mechanics-semantic-definition--conditional-christian-theological-interpretation).
+In [Letter 74 to Gregory
+XI](https://medieval.ucdavis.edu/20C/Catherine.html), she joins peace among
+Christians to a crusade against non-Christians and places papal purpose, salvation,
+love, purification, sacrifice, and possible martyrdom inside one sacred mission.
+Violence is not presented only as a tragic residue accepted to stop an immediate
+attack.
+It can become a spiritually meaningful instrument of an expansionary Christian
+programme.
+
+The case is not explained by saying that Catherine lacked love.
+The more difficult mechanism is that genuine love, self-sacrifice, concern for
+souls, and Christian vocabulary can be routed through a collective purpose that
+overrides outsiders' standing.
+Universal concern for another person's soul is not yet recognition of that
+person's present authorship, conscience, or standing to refuse.
+The programme can sincerely seek the outsider's eternal good while treating the
+embodied person who says no as material to be overcome for that same person's
+supposed salvation.
+The internal We seeks peace so that its capacity for violence can be redirected
+across the sacred boundary.
+
+> **Internal peace is not yet Christian peace if sacred violence has merely been
+> redirected toward an external population.**
+
+A Christian We is self-subordinating only if an outsider retains standing to
+refuse incorporation and can still become You.
+Catherine's crusade advocacy therefore illustrates a possible Christian capture
+by the sacrificial pattern: the Cross changes from God's occupation of the victim
+position into a banner under which other persons may be made sacrificial means.
+Within the conditional theology, this is Christianity being hacked by the
+operation its central motifs oppose, not evidence that the Christian and
+sacrificial patterns were structurally identical all along.
+
+The case also supplies an authorization test.
+Spiritually serious Christians can attribute incompatible political judgments to
+God; therefore “God wills it,” sincerity, ascetic cost, mystical intensity, and
+willingness to die cannot authenticate the political command by themselves.
+A reported contrast with Birgitta of Sweden is retained as an unresolved
+comparative source lead: if the attributed contrary judgment that the proposed
+crusade did not please God is confirmed in its primary context, the disagreement
+would make the non-self-authentication problem unusually vivid.
+Until that audit is performed, Birgitta is not evidence for Catherine's motives,
+an established divine counter-verdict, or a settled historical comparison.
+Letter 74 establishes Catherine's crusading advocacy and its religious braid.
+It does not by itself establish her complete psychology, the motives of every
+participant, or the operation of every medieval crusade.
+
 <a id="0040-mythology-construction-semantic-definition--functional-religion-completion-bridge"></a>
 
 ##### Functional-religion completion bridge {#0040-mythology-construction-semantic-definition--functional-religion-completion-bridge}
@@ -26989,6 +30010,497 @@ A society can continue using the same words while their operative meanings
 diverge. *Justice*, *freedom*, *violence*, *equality*, *democracy*, *truth*, and
 *safety* may evoke incompatible worlds, agents, permissions, and remedies.
 
+At me--we--world resolution, Babelization is an **inter-milieu interface
+failure**.
+Each population can retain its own [distributed epistemic
+milieu](#0020-epistemic-agency-semantic-definition--collective-epistemic-formation)—concepts,
+methods, examples, records, authorities, and trained ways of reasoning—while
+losing enough overlap with another milieu to translate important claims, replay
+the same corrective operations, recognize a legitimate adjudicator, or accept a
+binding common result.
+The breakdown is located in that failed relation and its required common
+functions, not in the mere existence of two cultural clouds.
+
+The [epistemic-atmosphere, fog, and enclosure
+typology](#0030-epistemic-constitution-semantic-definition--epistemic-atmosphere-fog-and-enclosure)
+specifies two different pathways into this interface failure:
+
+- **inter-milieu fog:** missing distinctions, incompatible compression,
+  inaccessible records, weak translation routes, or unreplayed operations make
+  mutual reconstruction costly and unreliable without either side necessarily
+  protecting a predetermined answer; and
+- **inter-milieu enclosure:** a protected construction within one or both
+  milieus decides in advance why the other side's observations, sources,
+  standards, or adverse consequences cannot count, so translation itself is
+  assimilated to the protected account.
+
+Fog can accumulate into semantic decoupling and Babelization without becoming
+un-reason or Second Reality.
+Enclosure can deepen and stabilize decoupling through flight from insight,
+Second Reality, un-reason, un-reality, or correction nullification, but none is
+entailed merely by disagreement between the cultures.
+Conversely, one fogged conversation or one self-sealing doctrine does not
+establish Babelization until the anti-Babel threshold is crossed at the relevant
+intergroup scale and common task.
+
+<a id="0040-mythology-construction-semantic-definition--localized-semantic-decoupling-and-anticipatory-babelization"></a>
+
+#### Localized semantic decoupling and anticipatory Babelization {#0040-mythology-construction-semantic-definition--localized-semantic-decoupling-and-anticipatory-babelization}
+
+Before the anti-Babel threshold is crossed, a local exchange can exhibit
+**localized semantic decoupling**.
+Both parties may recognize the vocabulary and grammatical propositions yet fail
+to share the comparison object, causal reconstruction, criterion of confirmation,
+or condition under which one account would lose.
+The failure is not simply ignorance of dictionary meaning.
+Each utterance is decompressed through a different model of actors, authorities,
+stakes, and permissible conclusions.
+
+A particularly important subtype is **moral-semantic decoupling**:
+
+```text
+one person attempts I--You address or proposition-level criticism
+→ the receiving programme classifies the utterance as hostile programme output
+→ a protected We-script supplies the answer
+→ the reply addresses the assigned position rather than the offered claim
+→ failed contact is experienced as further evidence of bad faith or unreadiness
+```
+
+The development label **moral-semantic Babelization** may be retained as an
+intuitive, explicitly local alias for this personhood-and-correction-channel
+failure.
+It does not override the canonical Babelization gate: without failure of required
+intergroup translation, common adjudication, or coordination below the
+anti-Babel floor, the precise classification remains moral-semantic decoupling.
+
+This is one route toward Babelization, not by itself a finding of society-wide or
+even group-wide Babelization.
+It can occur for a few turns, within one topic, or asymmetrically in one
+participant.
+The [closure-bound script-execution
+mode](#0020-epistemic-agency-semantic-definition--full-speech-empty-speech-obligation-and-responsibility)
+describes the local agency configuration.
+Its informal shorthand **bot-mode** describes the interactional pattern only; it
+does not classify a person as a bot, NPC, or permanently unreachable type.
+
+**Anticipatory Babelization** names a self-confirming feedback path in which the
+expectation of semantic breakdown helps produce it:
+
+```text
+prior encounters or programme scripts predict evasion, hostility, or bad faith
+→ defensive compression and premature classification
+→ reduced curiosity, fewer repair attempts, sharper accusation, or abrupt exit
+→ the other party becomes defensive or repeats a familiar script
+→ the resulting exchange confirms the original expectation
+→ future encounters begin closer to breakdown
+```
+
+The loop can be reciprocal, but symmetry must not be presumed in a concrete
+case.
+One side may be more closed, coercive, evasive, or willing to repair than the
+other.
+Nor does the loop prove conscious dishonesty, a population essence, or that the
+challenged claim was true.
+Its diagnostic value is to locate the interactional contribution without erasing
+the independently testable propositions, source positions, and power relations.
+
+The strongest self-sealing form treats the objection itself as evidence that the
+objector lacks standing to object.
+At that point additional argument inside the protected frame may strengthen the
+closure.
+Possible nonviolent responses include narrowing the claim, moving to one jointly
+inspectable object, asking what could make either account lose, changing the
+mediator or venue, protecting voluntary exit and parallel association, and
+limiting shared action to a thin procedure the parties can still recognize.
+Separation becomes a proportionate governance response only after the relevant
+common task, scale, alternatives, rights, dependencies, and costs have been
+specified; semantic failure alone does not authorize domination or force.
+
+<a id="0040-mythology-construction-semantic-definition--godlogic-closure-and-reciprocal-closure-risk"></a>
+
+##### GodLogic: observed closure and reciprocal closure risk {#0040-mythology-construction-semantic-definition--godlogic-closure-and-reciprocal-closure-risk}
+
+Two Christian--Muslim apologetic exchanges provide a bounded interactional test:
+[“Muslim Woman Thought This Would COOK
+Godlogic”](https://www.youtube.com/watch?v=GmpihJ1VSoc) and [“Female Muslim Tries
+To DESTROY My Argument ONCE AND FOR
+ALL...”](https://www.youtube.com/watch?v=WDwpfO9kmxw).
+The transcript-level question is not which religion is true in the whole.
+It is whether the challenged interpretation is allowed a genuine losing condition
+inside the exchange.
+
+GodLogic reads Qur'an 10:94 as directing Muhammad to people who read earlier
+scripture and therefore as making earlier scripture an external truth standard.
+His proposed test is bidirectional: if agreement can confirm the Quran,
+contradiction must be capable of counting against it.
+The interlocutors attempt to preserve confirmation while routing contradiction
+through corruption, misinterpretation, subordination to the final revelation, or
+a shifting account of which earlier text is relevant.
+
+The observable operations include non-answers and movement among previous
+scripture, Torah and Injil, extant Bible, unspecified scripture, and possible
+“Abrahamic scriptures.”
+In one exchange, the interlocutor answers what the Injil was for rather than
+identifying what it was and then pivots from the requested comparison to
+exhortation.
+In the other, the interlocutor provisionally accepts the role of earlier-scripture
+readers as witnesses and the relevance of inconsistency, then withdraws the
+extant Bible from the comparison.
+These operations support a finding of a one-way correction rule at the local
+interface.
+
+The competing PCP constructions are:
+
+| Position | Perception | Context | Permission |
+|---|---|---|---|
+| **Muslim interlocutor** | The Quran is final and guarded revelation. | Earlier revelations were genuine, but extant transmission or interpretation may be unreliable. | Agreement confirms continuity; disagreement can be assigned to alteration or misunderstanding rather than disconfirming the Quran. |
+| **GodLogic** | Qur'an 10:94 invokes earlier-scripture readers as an external truth standard. | A real test must permit confirmation and falsification. | Refusal of the negative direction can be classified as evasion or dishonesty, and the exchange may be ended. |
+
+Mapping both constructions does not make the evidence symmetrical.
+The exchanges positively exhibit referent shifts, non-answers, and protection of
+the conclusion on the interlocutor side.
+GodLogic's further move from those operations to conscious dishonesty depends on
+a motive attribution, while his claim that Qur'an 10:94 grants the extant earlier
+scripture full bidirectional adjudicatory authority remains an exegetical premise
+not settled by the transcripts.
+Those higher open questions do not erase the lower interactional findings.
+
+At the first ending, the transcript gives: “You're not ready to have these
+conversations. You're too dishonest. You're Muslim. You're a full Muslim,” and
+earlier includes the phrase “Muslim bot.”
+At the second ending, the accusation is that the interlocutor must be honest with
+the verses before the call is closed.
+The most precise resulting classification is:
+
+> **A closure-bound Culture Program carrier speaking in We--DCL script-execution
+> mode.**
+
+The input is reconstructed through programme categories, DCL generates a response
+inside them, the challenge is explained away, and the protected conclusion
+returns unchanged.
+The response can remain intelligent, novel, and eloquent.
+What is bot-like is the demonstrated absence of a legitimate losing condition,
+not the absence of a human I.
+
+Accordingly, **bot-mode** or **bot-like response loop** is a defensible functional
+description of the bounded exchange when the loop has been demonstrated.
+Calling the person *a bot* totalizes a local operation into a whole-person type;
+*NPC* goes further by making the critic the only real player and the other person
+mere scenery.
+The I can remain available in another relation, topic, or moment, and programme
+capture does not erase personal standing.
+
+GodLogic's accumulated exposure to recurrent responses can rationally shorten the
+time required to recognize the script.
+He need not reset the prior probability of closure to zero for every caller.
+His reciprocal risk begins when programme classification precedes enough evidence
+from the present interlocutor, or when the disputed exegesis is treated as the
+only reading an honest person could hold.
+That can produce anticipatory Babelization: expected evasion sharpens accusation
+and curtails repair, the interlocutor becomes more defensive or scripted, and the
+result appears to prove the initial expectation.
+
+The asymmetrical conclusion is therefore retained.
+The Muslim interlocutors' closure operations are evidenced in these exchanges;
+GodLogic's risk is the further escalation from demonstrated operation to motive,
+permanent whole-person capture, or population essence.
+The proper final question remains:
+
+> **What evidence could make the answer you are giving lose?**
+
+<a id="0040-mythology-construction-semantic-definition--culture-propagator-trajectory-family"></a>
+
+#### Culture-propagator trajectory family {#0040-mythology-construction-semantic-definition--culture-propagator-trajectory-family}
+
+The [culture
+propagator](#0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution)
+does not contain one inevitable direction. Mythology construction owns the
+formation-level trajectories through which operative representations, carriers,
+relationships, institutions, consequences, and memory can reproduce an order,
+revise it, divide it, or form a successor.
+
+The principal trajectory family is:
+
+| Trajectory | Culture-mechanical relation |
+|---|---|
+| **Maintenance and ordinary adaptation** | Stories, practices, roles, institutions, and correction reproduce a recognizable order while permitting local variation. |
+| **Correction, learning, and alloying** | Rival evidence and proposals survive common adjudication and alter the shared answer generator or produce a successor synthesis. |
+| **Nucleation and successor formation** | A mutually recognizing carrier core assembles a future-bearing mythology, roles, practices, and reproduction paths. |
+| **Tribunalization and bridge loss** | Disagreement becomes character evidence; association, translation, and moderation become costly; corrective carriers are discredited or severed. |
+| **Schismogenic differentiation** | Each side's response becomes the other's next stimulus, producing reciprocal escalation, negative identity, and increasingly separated formation. |
+| **Cultural-epistemic fission** | Two or more cloud--eye ecologies acquire substantially separate carriers, milieus, local-bigOther formation, and reproduction. |
+| **Interoperability loss and possible Babelization** | Translation, legitimate common adjudication, or required coordination falls below the anti-Babel floor at a specified interface and scale. |
+| **Jurisdictional differentiation** | Some compulsory common outputs are separated or reallocated, reducing collision without by itself restoring trust or interoperability. |
+| **Recovery and renewed interoperability** | Bridges, records, correction paths, bounded jurisdictions, shared work, integrative symbols, or a successor lifted order restore an adequate common interface. |
+
+This is a branching map, not a developmental ladder. Maintenance can become
+learning or stagnation. Nucleation can produce repair, rival formation, or
+capture. Moralized sorting can end in one-sided suppression rather than fission.
+Fission can preserve translation and negotiated common action. Babelization can
+arise in one high-stakes domain before society-wide daughter cultures exist.
+Jurisdictional differentiation can reduce compulsory collision while preserving
+local domination, externalities, or hidden central dependence. Recovery can
+produce a new alloy rather than restoration of the predecessor.
+
+The main descent pathway can nevertheless be stated compactly:
+
+```text
+living political-cultural we with substantial internal disagreement
+→ moralized cleavage and severed bridges
+→ reciprocal response becomes the other side's next disturbance
+→ schismogenic differentiation and negative identity
+→ separately reproducing epistemic-cultural ecologies
+→ cultural-epistemic fission
+→ possible interoperability breakdown at required common interfaces
+```
+
+Where fission occurs without corresponding jurisdictional differentiation, both
+formations continue contesting one compulsory institutional skeleton:
+
+```text
+two or more political-cultural wes
++ one consequential compulsory jurisdiction
++ no mutually legitimate correction and allocation rule
+→ repeated capture struggles over common machinery
+→ exported costs, institutional ratchets, and possible Babelization
+```
+
+The constructive pathway is equally part of the model:
+
+```text
+continuing co-authorship after bounded defeat
++ inspectable common consequences
++ correction able to change common memory and operation
++ surviving translation, bridge, and succession paths
+→ democratic learning and possible cultural alloying
+```
+
+A demanding recovery test is whether an adverse fact can cross the former
+boundary, survive examination, change a consequential decision, and leave its
+bearer a legitimate future participant. Protected bridges, shared work,
+cross-cutting relationships, independent records, bounded jurisdictions, and a
+living lifted meta-order count as dampers only where they still perform under
+conflict. Ceremonial consultation, temporary exhaustion, or unity around a common
+enemy can mask rather than repair separate reproductive machinery. The recovered
+*we* need not reproduce its predecessor; it can be a successor alloy that retains
+lessons from the division while repairing institutions and relationships.
+
+Path dependence means that removing the initiating message, officeholder, shock,
+or intervention need not restore the predecessor. Relationships may be damaged,
+new institutions endowed, records and categories altered, skills lost, carriers
+reorganized, and memories sedimented. Reversal can therefore require active
+reconstruction rather than a return along the entry path. The controlled
+attractor, basin, bifurcation, remanence, and hysteresis comparisons belong to
+[*Analogical Models in Culture
+Mechanics*](#0050-culture-mechanics-analogies-semantic-inventory--propagator-quotient-attractor-and-hysteresis).
+
+An empirical trajectory claim must specify population, period, domain,
+interface, relevant common task, and reproduction evidence. It must distinguish
+temporary sorting from separately reproducing formation; fission from
+Babelization; semantic failure from domination; and endogenous movement from
+declared reform, opportunistic exploitation, or deliberate adversarial steering.
+
+<a id="0040-mythology-construction-semantic-definition--cultural-epistemic-fission"></a>
+
+#### Cultural-epistemic fission: separately reproducing cloud--eye ecologies {#0040-mythology-construction-semantic-definition--cultural-epistemic-fission}
+
+**Status:** proposed mechanism and collective morphology. Its component
+operations, thresholds, domain specificity, reversibility, and empirical measures
+remain open research questions.
+
+> **Andrick explains one way the cleavage plane is cut. Cultural-epistemic
+> fission names the resulting division into separately reproducing cloud--eye
+> ecologies. Babelization names the further threshold at which those formations
+> can no longer sustain the translation, common adjudication, or coordination a
+> shared task requires.**
+
+**Cultural-epistemic fission** is the distributed process through which one
+previously operative political-cultural *we* differentiates into two or more
+formations whose carrier relations, distributed epistemic milieus, and
+local-bigOther formation have become substantially separately organized and
+self-reproducing. The resulting sides need not be internally homogeneous, wholly
+independent, territorially separate, or divided across every domain. The term
+identifies a stronger condition than disagreement, polarization, partisan sorting,
+or the existence of different beliefs.
+
+[Andrick's moralization
+mechanism](#0010-culture-mechanics-semantic-definition--moralization-as-character-accusation-andricks-bridge)
+supplies one possible bridge-cutting operation: an issue becomes character
+evidence, inquiry becomes prosecution, continued association becomes suspicious,
+and persons must submit, denounce, or accept exclusion. Repetition can make
+cross-group friendship and conversation costly, discredit moderates and bridge
+persons, intensify internal conformity signals, and turn the other side into a
+negative identity anchor. But this can also end with one side silenced, expelled,
+or subordinated. It is fission only where more than one side becomes capable of
+reproducing a cultural formation.
+
+Bridge persons need not be ideological moderates. Their structural function can
+be to translate an opponent accurately, carry adverse evidence, preserve standing
+across a boundary, or sustain common practical work without requiring prior
+conversion. Because participants observe what happens to visible bridges,
+sanctions against a few nodes can raise the anticipated cost of contact for many
+others. Resulting silence can then return through the collective field as
+apparent consensus.
+
+Gregory Bateson's [*Naven*, chapter XIII, “Ethological Contrast, Competition and
+Schismogenesis”](https://doi.org/10.1515/9781503621138-016), supplies a separate
+predecessor for **schismogenesis**: patterns of interaction in which the responses
+of each side stimulate further differentiating responses by the other. Culture
+Mechanics uses that source term only for reciprocal amplification. Bateson did not
+supply the cloud--eye model, Culture Program reproduction criteria,
+local-bigOther architecture, or Babelization threshold, and no direct Andrick--
+Bateson transmission is asserted.
+
+Two schismogenic forms should remain distinguishable. **Symmetrical
+schismogenesis** answers a response with more of the same general kind, such as
+exclusion with exclusion or accusation with counter-accusation.
+**Complementary schismogenesis** couples different roles, such as command and
+submission, display and spectatorship, or assistance and dependence; it can
+deepen a hierarchy without generating peer daughter formations.
+
+An escalatory act also addresses at least two audiences: the opponent and the
+actor's own collective observer. A materially useful concession can therefore
+incur an internal standing cost, while publicly costly firmness can remain
+locally rational as a signal of loyalty or resolve. **Negative identity** deepens
+where the opponent increasingly determines what a formation notices, remembers,
+values, and must become. Through **counter-imitation**, the formation can reject
+the opponent while copying its organizational methods or reversing its
+classifications. Evidence for this stronger relation increases where repair of
+the original problem does not permit the formation to stop, differentiate
+issues, credit an opponent's correct claim, or reward practical competence over
+renewed conflict.
+
+The proposed fission sequence is:
+
+```text
+one lifted political-cultural we
+containing substantial internal disagreement
+                 ↓
+moralized sorting and communicative severance
+                 ↓
+media, institutions, exemplars, records,
+friendships, practices, and authorities sort along the divide
+                 ↓
+each side develops a self-reinforcing
+distributed epistemic milieu
+                 ↓
+participants on each side form and reinforce their local bigOthers
+from a different imagined collective standpoint
+                 ↓
+two or more cloud--eye ecologies reproduce themselves
+and can develop along different paths
+```
+
+After sufficient fission, the sides need not merely reach different answers.
+They can increasingly carry different:
+
+- distinctions, conceptual grammars, and compression dictionaries;
+- historical memories, trusted records, witnesses, and authorities;
+- causal stories, sacred objects, taboos, heroes, victims, and villains;
+- standards of evidence and interpretations of failure; and
+- rules for deciding who may criticize, correct, or adjudicate whom.
+
+The reproduction claim should be tested across connected dimensions rather than
+inferred from one outlet, leader, dispute, or polarization score:
+
+| Reproductive dimension | Carrying process | Discriminating observation |
+|---|---|---|
+| **Concepts and grammar** | Recurrent teaching of different distinctions and permissible questions | Additional detail does not restore a common reconstruction of the same event. |
+| **Records and authorities** | Separate custody, credibility hierarchies, and access routes | Evidence loses standing because of its route rather than examination of its content. |
+| **Histories and moral roles** | Durable repertoires of exemplars, victims, villains, and protected objects | New episodes enter increasingly separate collective memories. |
+| **Correction standards** | Different rules for what counts as failure and who may adjudicate it | The same adverse result induces revision in one ecology and insulation in another. |
+| **Practices and relationships** | Several mutually reinforcing channels of ordinary participation | Leaving one channel no longer restores ordinary cross-boundary contact. |
+| **Formation and succession** | Selection, training, replacement, and support of new carriers | The pattern survives reduced immediate conflict and turnover of founding participants. |
+
+No row is sufficient by itself. The threshold is a connected reproductive
+architecture with enough relative autonomy to keep producing characteristic
+interpretations, roles, correction relations, and successors. Succession under
+reduced immediate conflict is therefore a strong discriminator: if newcomers can
+reconstruct the formation after the originating controversy and leaders recede,
+while relevant cross-boundary correction no longer changes it, the evidence is
+stronger than continuity through one mobilized episode.
+
+The “eye” does not divide as a literal collective processor. The local bigOther
+remains person-local. Persons formed on either side increasingly evaluate
+themselves from different imagined collective standpoints, so that “what decent
+people know,” “what History demands,” and “what would make me contemptible” cease
+to refer to the same bigOther-as-Thou. The corresponding [controlled mitosis and
+cytokinesis
+image](#0050-culture-mechanics-analogies-semantic-inventory--cultural-mitosis-and-jurisdictional-cytokinesis)
+belongs to the analogy inventory rather than defining this mechanism.
+
+Fission and Babelization must remain distinct. Separately reproducing formations
+can preserve translation, reciprocal standing, negotiated jurisdiction, and
+limited common action. Conversely, an interface can fall below its anti-Babel
+floor in one high-stakes domain before two complete society-wide daughter cultures
+exist. The diagnosis therefore requires a specified population, period, interface,
+task, and scale.
+
+The most hazardous political configuration is **fission without jurisdictional
+separation**:
+
+```text
+two or more political-cultural wes
++ one compulsory jurisdiction
++ no sufficiently legitimate common adjudicator at a required interface
+→ elections and appointments become contests for the binding machinery
+→ losing is increasingly experienced as subjection
+→ institutional capture becomes protective strategy
+→ moralization and reciprocal differentiation intensify
+```
+
+The chronology can be asymmetric. One formation may first extend compulsory
+authority, while a reactive coalition only later develops a mythology, careers,
+institutions, and autonomous reproduction of its own. Reciprocal contribution at
+the later stage does not rewrite initiation, power, conduct, or consequence at
+the earlier one. Conversely, an initiating asymmetry does not make every later
+countermeasure corrective or exempt it from the same consequence and
+answerability tests.
+
+This sequence is a candidate escalation path, not an entailment from pluralism,
+partisanship, or one hostile election. Federalism, subsidiarity, functional
+autonomy, and soft secession can reduce compulsory common decision surfaces, but
+they do not automatically repair translation, restore one political *we*, or
+eliminate common rights and externalities. Where jurisdiction remains unitary,
+the contested machinery can include courts, schools, executive and administrative
+offices, taxation, common infrastructures, and public symbols; listing those
+surfaces does not establish that they have in fact been captured or that every
+decision within them belongs to the fission mechanism.
+
+##### Time-bounded candidate application: partisan fission in the United States
+
+The available 2024--2026 indicators support investigating substantial partisan
+antipathy and ideological sorting in the United States. A [2026 Pew Research
+Center survey](https://www.pewresearch.org/politics/2026/05/01/americans-continue-to-view-both-the-republican-and-democratic-parties-negatively/)
+reported that 92 percent of Democrats viewed the Republican Party unfavourably
+and 93 percent of Republicans viewed the Democratic Party unfavourably. [Gallup's
+2024 party-ideology
+series](https://news.gallup.com/poll/655190/political-parties-historically-polarized-ideologically.aspx)
+reported record conservative identification among Republicans and record liberal
+identification among Democrats, while [Pew's 2025 trust
+review](https://www.pewresearch.org/2025/05/08/americans-trust-in-one-another/)
+described rising partisan antipathy and increasingly different media diets.
+
+Those measures do not establish two complete or homogeneous American Culture
+Programs, two operative multi-mind-selves, or society-wide Babelization. Party
+coalitions can remain internally divided; cross-cutting relations can survive;
+people can reject both parties; and interoperability can vary sharply by
+institution, locality, issue, and practical task. The bounded present hypothesis
+is therefore:
+
+> **The United States exhibits substantial, uneven, and interface-specific
+> cultural fission, with some political domains approaching Babelized contests
+> over a still-common jurisdiction.**
+
+The hypothesis would gain support where separately organized media, formation,
+trust, memory, evidence, sanction, and succession networks reproduce across time;
+where bridge relations become costly; where electoral defeat is treated as loss
+of standing rather than bounded policy loss; and where common consequences cannot
+revise either side's account. It would be weakened by durable cross-group
+friendship and institutional cooperation, reciprocal correction, accepted loss,
+shared evidence changing important classifications, or renewed integrative
+alloying at the allegedly fissioned interface.
+
 <a id="0040-mythology-construction-semantic-definition--democratic-cultural-alloying-and-integrative-interoperability"></a>
 
 #### Democratic cultural alloying and integrative interoperability {#0040-mythology-construction-semantic-definition--democratic-cultural-alloying-and-integrative-interoperability}
@@ -26996,6 +30508,17 @@ diverge. *Justice*, *freedom*, *violence*, *equality*, *democracy*, *truth*, and
 **Status:** trunk concept.
 The levels and failure contrast are specified, while measurement, enabling
 conditions, and comparative institutional cases remain open.
+
+The [me--we--world democratic correction
+relation](#0030-epistemic-constitution-semantic-definition--democratic-demos-jurisdiction-consequence-congruence)
+specifies the enabling congruence beneath this trunk.
+The political demos that recognizes continuing co-authorship, the jurisdiction
+that binds persons and institutions, and the community that bears consequences
+and can make them corrective must substantially overlap under one sufficiently
+interoperable *we*.
+Territorial congruence is one important historical realization; jurisdiction is
+the general variable because federalism, subsidiarity, functional autonomy, and
+soft secession can reallocate binding decisions without moving borders.
 
 Democracy can preserve a procedure after losing its capacity to develop a shared
 cultural order.
@@ -27009,6 +30532,23 @@ The trunk therefore separates three levels:
 - **cultural-alloying capacity:** rival proposals and criticisms combine into a
   successor understanding or institution that neither side could have produced
   alone.
+
+The three levels can be placed inside one correction circuit:
+
+```text
+persons and factions retain proposal, objection, and testimonial standing
+→ a living political-cultural we authorizes a bounded decision
+→ the decision is implemented inside its assigned jurisdiction
+→ shared-world consequences disclose benefits, costs, failures, and exceptions
+→ affected persons, rivals, records, and appeal routes preserve correction
+→ the common memory, answer generator, and Culture Program can change
+```
+
+Voting supplies the authorization step, not the whole circuit.
+It becomes a culture-evolution mechanism only where the losing side remains a
+future co-author, implementation produces inspectable experience, and adverse
+consequences can alter the common substrate rather than merely becoming
+ammunition for mutually alien camps.
 
 In a broadly shared Culture Program, democratic conflict can concern minor or
 medium perturbations inside a common world.
@@ -27034,13 +30574,31 @@ a coherent successor—an experiential `1 + 1 < 2` outcome.
 The parties remain like oil and water: alternation and dilution occur, but no
 alloy forms.
 
+The corresponding failure sequence is:
+
+```text
+different epistemic milieus lose sufficient translation and correction overlap
+→ no commonly recognized adjudication remains for important disagreements
+→ elections select which programme controls the common machinery
+→ results are received as subjection rather than bounded common decisions
+→ institutions become prizes and each future loss threatens the local we
+→ group mobilization and intergroup semantic decoupling intensify
+→ possible Babelization
+```
+
+The vote may remain procedurally correct throughout much of this sequence.
+The failure finding concerns its declining capacity to integrate experience and
+evolve one shared cultural order, not the mere presence of disagreement or one
+bitter electoral result.
+
 This failure is more than polarization and less than proof that common political
 order is impossible.
 Consociational, federal, contractual, and jurisdictionally separated arrangements
 may support stable coexistence without deep cultural alloying.
 The trunk asks which degree of integration the shared tasks actually require,
 whether losers remain future co-authors, whether policy experience changes the
-common substrate, and whether voluntary separation can preserve peace and later
+common substrate, whether the affected consequence community can enter the
+correction record, and whether voluntary separation can preserve peace and later
 borrowing where compulsory integration cannot.
 
 Visible difference does not supply alloying capacity by itself.
@@ -27155,7 +30713,9 @@ proposed the relation after asking whether the loss of a shared real-world
 mediator reaches the Babelization core; the project synthesis preserves causal
 commonality while distinguishing it from shared epistemic authority.
 
-#### Lifted solidarity, thickness, span, and the floor
+<a id="0040-mythology-construction-semantic-definition--lifted-solidarity-thickness-span-and-floor"></a>
+
+#### Lifted solidarity, thickness, span, and the floor {#0040-mythology-construction-semantic-definition--lifted-solidarity-thickness-span-and-floor}
 
 The principal culture-mechanical implementation of cultural interoperability is
 **operative shared lifted mechanical solidarity**: a genuinely binding
@@ -27350,7 +30910,9 @@ similarly requires a shared second-order score—common procedures, sufficiently
 overlapping or translatable terms, and a recognizable common performance—without
 requiring every instrument to play the same notes.
 
-#### Culture mixing as one breakdown mechanism
+<a id="0040-mythology-construction-semantic-definition--culture-mixing-as-one-breakdown-mechanism"></a>
+
+#### Culture mixing as one breakdown mechanism {#0040-mythology-construction-semantic-definition--culture-mixing-as-one-breakdown-mechanism}
 
 The originating claim is not merely that semantic fragmentation sometimes
 happens. It is that **culture mixing can contribute to cultural interoperability
@@ -27388,6 +30950,64 @@ rate at which incompatible first-order mythologies multiply or decouple
                               versus
 rate at which operative shared lifted solidarity gains thickness and span
 ```
+
+Migration is one possible input into this balance, not the definition of the
+mechanism.
+The migration-sensitive version must compare at least four independently
+variable processes:
+
+- the arrival and local concentration of persons whose operative programmes do
+  not yet recognize or accept the common lifted order's jurisdiction;
+- the density, institutional support, family transmission, and intergenerational
+  reproduction of incompatible first-order programmes;
+- the host order's throughput for language, translation, participation,
+  narrative formation, mixed practice, correction, and actual lifted-order
+  competence; and
+- the host population's own reproduction or erosion of that lifted culture.
+
+This produces a rate-and-topology hypothesis rather than a raw demographic rule:
+
+```text
+entry + concentration + reproduction of non-interoperable first-order programmes
+                                versus
+host formation + translation + bridging + lifted-order reproduction capacity
+                                ↓
+change in lifted-order thickness, span, and cultural interoperability
+```
+
+Other things equal, a small and dispersed inflow may impose less formation load
+and encounter more cross-cutting relationships than a large, rapid, and locally
+concentrated inflow.
+That is neither a guarantee that small numbers integrate nor proof that large
+numbers cause Babelization.
+The relevant relation also depends on time, age, schools, families, workplaces,
+associations, settlement topology, incentives, host confidence, institutional
+fairness, trusted translation routes, programme compatibility, and the capacity
+to correct both host and newcomer practices.
+No universal numerical threshold follows from the theory.
+
+An order-level recognition asymmetry can worsen the balance.
+The host may classify an incoming practice as one optional cultural item within
+Hyperculture while its carriers understand it as part of a complete first-order
+programme with binding jurisdiction.
+The incoming participant may in turn read the host's sparse concrete sameness and
+toleration as proof that no serious culture is present.
+If the lifted order is also weakly formed among existing residents, both readings
+can become partly accurate: the host treats incompatible programmes as harmless
+fragments while lacking the living cultural capacity to teach, enact, and defend
+its own generator.
+
+The predicted breakdown is not “foreign people replace native people.”
+It is that locally complete and mutually reinforcing first-order programmes gain
+carrying capacity faster than a shared, credible, and corrigible meta-order gains
+participants and intergroup span.
+The observable result would be declining acceptance of common jurisdiction at
+collision points, shrinking cross-group translation and legitimate loss,
+institutions becoming prizes of programme capture, and retreat into mutually
+intelligible islands.
+Existing residents and newcomers must be measured by the same tests; ancestry,
+religious label, visible custom, and origin do not establish the operative
+programme or its order level.
 
 When integration wins, diversity can enlarge competence and perspective inside
 lifted solidarity. When fragmentation wins, mixture can produce local
@@ -29979,10 +33599,11 @@ The framework is intended to generate falsifiable research rather than explain e
 | Marriage-mediated coupling range | Weaker intensive kinship predicts wider non-kin trust and greater resonance of impersonal civic mythology. | Kinship-network, institutional, historical, and cross-cultural studies. |
 | Lifted-solidarity compatibility | Democracy is more durable where political loss remains compatible with shared membership and impersonal law. | Comparative institutional studies measuring civic meta-solidarity rather than formal rules alone. |
 | Genetic-hardware fit | Dispositional or polygenic differences predict the cost and durability of sustaining impersonal office, loyal opposition, and abstract civic reciprocity. | Matched institutional comparisons combined with longitudinal dispositional and genomic measures. |
+| Cultural-epistemic fission | Moralized bridge loss, reciprocal differentiation, and sorting of media, relationships, institutions, records, authorities, and formation routes predict the emergence of separately reproducing cloud--eye ecologies beyond ordinary partisan disagreement. | Longitudinally measure cross-boundary ties, source and institution overlap, conceptual reconstruction, sanction for association, trusted authorities, local-bigOther evaluations, succession, accepted loss, and whether cross-cutting experience can still revise each side's account; compare suppression, temporary polarization, domain-specific fission, and reintegration rivals. |
 | Cultural interoperability breakdown (Babelization) | Declining effective meta-order thickness or span, combined with rising local coherence and intergroup semantic decoupling, predicts society-wide coordination failure below the anti-Babel floor. | Longitudinal language, network, trust, institutional-legitimacy, lifted-solidarity, and collective-action measures; test linear, threshold, bottleneck, and saturation models. |
 | Residual interoperability scale | As wider interoperability fails, the characteristic size of internally interoperable islands may contract from mass domains through subcultures and very small groups toward the individual limit. | Joint semantic-network, relationship-network, trust, procedure-legitimacy, and group-membership measures across nested social scales and domains. |
 | Loneliness as an interoperability consequence | A shrinking residual scale increases loneliness especially where contact remains abundant but mutual recognition, translation, repair, and stable micro-group membership repeatedly fail. | Separate subjective loneliness from objective isolation; measure translation cost, felt recognition, semantic fit, repair success, group stability, contact volume, and the demographic, material, technological, and clinical alternatives. |
-| Culture-mixing threshold | Collective agency declines when incompatible first-order mythologies multiply faster than credible second-order integration. | Longitudinal comparison of migration or subcultural fragmentation rates, semantic overlap, civic identity, and coordination outcomes. |
+| Culture-mixing threshold | Collective agency declines when incompatible first-order mythologies multiply or decouple faster than credible second-order integration gains thickness and span. | Longitudinal comparison of arrival and concentration, programme reproduction, host formation throughput, bridging relations, order-level recognition, semantic overlap, civic identity, legitimate loss, and coordination outcomes; compare newcomers and existing residents symmetrically. |
 | Directed guardian empathy | Care persists more strongly for a hostile actor classified as oppressed than for an equivalent hostile actor classified as dominant. | Factorial experiments independently varying harm, hostility, group power, and ideological identity. |
 | Carrier–replicator divergence | Some mythologies increase their own transmission through costly carrier behaviour even while reducing carrier capability or survival. | Longitudinal studies measuring transmission against health, capability, reciprocity, fertility, and exit costs. |
 | Downhill capture | Immediate moral and social rewards predict retention even when promised outcomes repeatedly fail. | Experiments and longitudinal studies separating outcome satisfaction from ritualized repetition. |
@@ -30514,6 +34135,16 @@ This application distinguishes exporting visible institutions from constructing 
 #### Marriage rules and social radius
 
 This application tests whether rules governing close-kin marriage can jointly change reproductive structure, alliance networks, trust radius, institutional form, and the mythologies capable of travelling through the population.
+
+#### Cultural-epistemic fission
+
+This application asks whether one previously operative political-cultural *we*
+has differentiated into two or more separately reproducing carrier networks,
+distributed epistemic milieus, and local-bigOther-forming standpoints. It keeps
+Andrickian bridge-cutting, Batesonian reciprocal amplification, the reproductive
+fission result, the Babelization threshold, and jurisdictional non-separation as
+separate findings. Polarization, hostility, or different answers do not establish
+fission without evidence of separately sustained formation and succession.
 
 #### Cultural interoperability breakdown (Babelization)
 
@@ -31535,6 +35166,16 @@ The following terms should be attributed to the present synthesis unless indepen
   of anonymous usage into the mythology model as project-developed relations
   among attention, appraisal, obligation, explicit doctrine, rationalization,
   conduct, and reproduction;
+- **performative dynamics**, **representational-package inferential joints**, and
+  the **culture-propagator trajectory family** as project-developed integrations.
+  Hacking supplies a classification--people looping relation, Fleck collective
+  formation of thought style, Soros participant--situation reflexivity, and
+  performative-prediction research a deployment--target-distribution model; none
+  supplies the complete culture-mechanical synthesis or a named-actor
+  attribution. The bridge-topology, internal-audience, negative-identity,
+  connected-reproduction, succession-under-reduced-conflict, and demanding
+  recovery tests are project-developed discriminators within that trajectory
+  family;
 - **projective consensus**, **custodial operationalization**, and
   **governing-centre displacement** as the project sequence joining heterogeneous
   projection into an underdeterminate signifier to later executable interpreter
@@ -31872,12 +35513,42 @@ The following terms should be attributed to the present synthesis unless indepen
 - **cultural interoperability**, **effective meta-order thickness**,
   **lifted-solidarity surface area / meta-order span**, and **effective shared
   surface**;
+- **cultural-epistemic fission** for the proposed transition from one sufficiently
+  operative political-cultural *we* into two or more separately reproducing
+  carrier networks, distributed epistemic milieus, and local-bigOther-forming
+  standpoints; **Andrickian moralization** remains one possible bridge-cutting
+  operation, **Batesonian schismogenesis** one bounded source term for reciprocal
+  differentiation, and neither is the complete fission construct;
 - **cultural-interoperability floor (anti-Babel floor)**, **thin lifted mechanical
   solidarity**, **nominal lifted meta-order**, and **operative shared lifted
   mechanical solidarity**;
 - **intergroup semantic decoupling** and **cultural interoperability breakdown
   (Babelization)** as local mythological synchronization combined with loss of
   society-wide translation, legitimate common procedure, and coordination;
+- **localized semantic decoupling** and its **moral-semantic decoupling** subtype
+  for topic-, exchange-, or participant-bounded loss of shared comparison,
+  confirmation, or answerability before the anti-Babel threshold is crossed;
+  **moral-semantic Babelization** remains a scope-qualified intuitive alias for
+  that local precursor rather than the threshold finding;
+  **anticipatory Babelization** for the self-confirming pathway in which expected
+  breakdown changes interaction so as to make later breakdown more likely;
+- the **Del Noce/future-We application** begins from the cited secondary German
+  exposition of Del Noce rather than a recovered primary passage; structural-evil
+  abolition as redemption is the attributed thesis, while
+  **relevant-structure inversion**, the resistance--confirmation loop, and the
+  future We as silent principal are Culture Mechanics reconstructions;
+- the **Catherine of Siena sacralized-expansion application** uses Letter 74 as
+  primary evidence for joining intra-Christian peace to crusade and sacred
+  purpose; the Christian-We capture interpretation, the separation of concern
+  for souls from recognition of present authorship, and the rule that redirected
+  external violence is not yet Christian peace are project theological findings,
+  not a whole-person psychological diagnosis; Birgitta of Sweden remains an
+  unresolved comparative source lead rather than an established counter-verdict;
+- the **GodLogic closure application** uses the two named video exchanges as
+  interaction records; the observed referent shifts, non-answers, and one-way
+  correction rule support the bounded We--DCL/bot-mode classification, while
+  conscious dishonesty, final exegesis of Qur'an 10:94, permanent capture, and
+  population essence remain higher claims not settled by the transcripts;
 - the inherited **un-reason--un-reality--Babelization bridge**: un-reason can help
   produce a state in which reality remains causally common but the authorized
   representation is insulated from its epistemic correction, and that state can
@@ -31907,6 +35578,10 @@ The following terms should be attributed to the present synthesis unless indepen
 - **dark artist** under the strict conduct-based definition given here;
 - **qualified-concept alarm**, **semantic wrapper**, and **operational payload** as an adversarial semantic audit;
 - **Perception–Context–Permission** as the causal-action routing sequence;
+- **DCL--We closure** as the self-protecting coupling of disengaged
+  representation and collective authorization, and **criticism-as-hate routing**
+  as one affective pathway by which proposition- or operation-level criticism is
+  reconstructed as an attack on the We or its protected objects;
 - the smoke-alarm maxim joining visible destruction, mythological analysis, and causal attribution.
 
 ### 43. Scope and ethical cautions
@@ -31929,7 +35604,13 @@ The following terms should be attributed to the present synthesis unless indepen
     can sustain extensive first-order diversity above that floor. Residual
     interoperability scale does not measure human worth or individuality, and
     loneliness is neither the definition nor self-authenticating evidence of
-    Babelization.
+    Babelization. Inter-milieu fog and self-sealing enclosure can each degrade an
+    interface, through different mechanisms, but neither mere cultural difference
+    nor either condition alone establishes that the threshold has been crossed.
+    Cultural-epistemic fission is likewise not a synonym for ordinary diversity,
+    polarization, partisan hostility, or Babelization. It requires separately
+    reproducing formations; Babelization requires the additional task-, scale-,
+    and interface-specific failure below the anti-Babel floor.
 14. **Democratic mismatch does not establish civilizational inferiority.** It predicts that institutions require cultural and dispositional coadaptation.
 15. **Visible destruction is evidence for investigation, not proof of a chosen cause.** Rival causal stories must be tested.
 16. **Dark artist is not a partisan label.** It requires demonstrable strategic conduct, knowledge, and causal responsibility.
@@ -32105,6 +35786,16 @@ The following terms should be attributed to the present synthesis unless indepen
   through an authorization payload and carrying structure. The generic sequence
   is not *Willkür*; the classification requires additional custody,
   affected-person-standing, prospective-constraint, and correction failures.
+- **PCP closure pathway:** DCL--We closure can let one collectively authorized
+  representation govern perception, context, permission, the authorization
+  payload, and the interpretation of resulting harm or resistance. Detailed
+  information about a person does not prevent the failure if the person remains
+  an operative case rather than an interrupting You.
+- **Criticism-as-hate routing:** where a programme supplies identity, goodness,
+  belonging, and protected objects, criticism of a claim or operation can be
+  reconstructed as an attack on the We and acquire an affective threat marker.
+  Sincere hurt does not settle the content, intent, or legitimate response, and
+  actual hateful conduct does not become criticism merely by self-description.
 - **Three-level application:** the abstract mechanism is tested through the
   Humanism--Diversity relation and a hypothetical wetland case while existing
   definitions of Humanism, Strong Programmatic Diversity, metric custody, silent
@@ -32143,6 +35834,18 @@ The following terms should be attributed to the present synthesis unless indepen
   experience can train attention, appraisal, obligation, anonymous usage, and
   active representation beneath explicit doctrine; avowal, rationalization, and
   conduct may coincide or diverge without tacitness proving deception.
+- **Performative-dynamics boundary:** an active representation can alter conduct,
+  relationships, institutions, sensing, and the later social object without its
+  causal efficacy establishing descriptive truth, legitimate jurisdiction, or
+  independent confirmation.
+- **Representational-package rule:** event or complaint, classification, causal
+  attribution, represented persons and duties, remedy, jurisdiction, implementing
+  authority, and standing consequences are separate inferential joints; support
+  or rejection at one joint does not automatically travel through the package.
+- **Trajectory family:** maintenance, correction and alloying, nucleation,
+  tribunalization and bridge loss, schismogenesis, reproductive fission,
+  interoperability loss, jurisdictional differentiation, and recovery are
+  branching possible paths rather than one necessary developmental ladder.
 - **Projective-consensus mechanism:** an underdeterminate positive signifier can
   gather heterogeneous projected goods before an authorized custodian supplies
   executable meaning. This may support legitimate compression, governing-centre
@@ -32348,6 +36051,19 @@ The following terms should be attributed to the present synthesis unless indepen
   model treats cultural interoperability as increasing with that surface.
 - **Anti-Babel floor:** differentiated groups remain in one functioning shared
   order only while cultural interoperability stays above the required threshold.
+- **Inter-milieu interface mechanism:** Babelization concerns failure between
+  distributed epistemic milieus to retain enough operational overlap for
+  translation, replay of corrective operations, legitimate adjudication, or
+  necessary coordination. Inter-milieu fog can accumulate missing joins and
+  incompatible compression without a protected answer; self-sealing enclosure
+  can instead make the rival correction inadmissible in advance. Either is a
+  possible route, not the threshold finding itself.
+- **Local precursor and feedback:** localized or moral-semantic decoupling can
+  make an exchange fail while wider interoperability remains intact;
+  *moral-semantic Babelization* is permitted only as an explicitly local alias;
+  anticipatory Babelization can then make expected evasion or hostility shape
+  conduct that helps reproduce the expected failure. Neither condition proves
+  full Babelization, dishonesty, population essence, or symmetrical closure.
 - **Democratic-alloying trunk:** procedural interoperability preserves voting and
   office transfer; integrative interoperability lets decisions, objections,
   costs, and experience revise the common substrate; cultural alloying is the
@@ -32367,7 +36083,10 @@ The following terms should be attributed to the present synthesis unless indepen
   *Culture Program Ecology*.
 - **Culture-mixing threshold:** incompatible first-order mythologies can multiply
   or semantically decouple faster than operative shared lifted solidarity can gain
-  thickness and span.
+  thickness and span. In the migration-sensitive subcase, arrival,
+  concentration, programme reproduction, host formation throughput, bridging,
+  and the host population's own lifted-order reproduction are separate
+  variables; neither ancestry nor raw headcount establishes the result.
 - **Long feedback loop:** potentially fast gene–culture coevolution through niche selection, institution, status, partner choice, migration, fertility, survival, and reproduction.
 - **Positive design ideal:** reality-coupled, life-drive mythology that grows capability and preserves correction.
 - **Affective-return mechanism:** psychologically downhill reward or dependency
@@ -32478,6 +36197,21 @@ Historical genesis and back-action:
 > receiver dispositions → diffuse needs and aspirations → articulation →
 > distributed selection → sacralization + institutionalization → later
 > programming and field back-action ↺**
+
+Performative active representation:
+
+> **operative representation → interpretation, appraisal, compliance,
+> resistance, concealment, or reorganization → changed reciprocal signals,
+> institutions, roles, and possible futures → later persons encounter a partly
+> transformed object → successor mythology incorporates, contests, or forgets
+> the transformation**
+
+Propagator trajectory family:
+
+> **maintenance and adaptation ↔ correction and alloying ↔ nucleation and
+> successor formation; moralized sorting + bridge loss → possible schismogenesis
+> → possible separately reproducing ecologies → possible fission → possible
+> Babelization, jurisdictional differentiation, capture struggle, or recovery**
 
 Prospective purposive trajectory intervention:
 
@@ -32595,6 +36329,27 @@ Doctrine generation and implementation:
 > permission → authorization payload → surrogate custody → institution implements
 > → affected persons retain standing or become causes and obstacles → adverse
 > consequence corrects or renews the programme**
+
+DCL--We closure and criticism routing:
+
+> **collective representation → PCP classification → authorization and effect →
+> resistance or harm reinterpreted through the same representation → stronger
+> permission; criticism of claim or operation → reconstructed attack on We →
+> affective threat marker → possible loss of critic standing**
+
+Structural redemption and future-We authorization:
+
+> **present structure classified as evil → abolition classified as salvation →
+> defender becomes carrier of evil → resistance confirms diagnosis → standing is
+> withdrawn → coercion becomes liberation; projected future We authorizes but
+> cannot refuse, correct, or dismiss its present interpreter**
+
+Bounded apologetic-closure test:
+
+> **confirmation allowed + disconfirmation rerouted by shifting referent or
+> protected exception → one-way correction rule → bot-like response loop;
+> demonstrated local operation ≠ conscious dishonesty ≠ whole-person bot ≠
+> population essence**
 
 Single-slot composition:
 
@@ -32870,6 +36625,9 @@ The inventory uses three inclusion levels:
 | One PCI slot | Computing | Single-slot exclusivity with package compositionality | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Makes full occupancy and replacement under incompatibility vivid | Not a claim that the lens is simple, pure, or materially card-shaped |
 | Shared symbolic protocol | Network | Lacan's big Other as public symbolic coordination | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) | Separates the public protocol from each local implementation | Not a complete definition of Lacan's big Other or a literal network standard |
 | Wireless collar, Wi-Fi, and repeater gain | Network | Social coupling, unequal gain, and aggregate amplification | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes the amplification dimension of trusted opinion leadership from synchronized crowd or infrastructural gain | Radio range is not social authority, truth, or influence in one scalar; *repeater* is an analogy, not a separate person-type |
+| Epistemic cloud and all-seeing eye | Atmospheric and visual | Distributed epistemic formation versus agentified second-person judgment | [*Epistemic Agency under Mechanical Solidarity*](#0020-epistemic-agency-semantic-definition--collective-epistemic-formation), [*Epistemic Constitution*](#0030-epistemic-constitution-semantic-definition--me-we-world-correction-relation), and this inventory | Separates the cloud-like milieu of concepts, methods, records, and tools from bigOther-as-Thou as an experienced gaze of approval or condemnation | Neither cloud nor eye is a collective brain, third processor, literal watcher, proof of surveillance, or sufficient evidence of a multi-mind-self, un-reason, or un-reality |
+| Propagator, quotient space, attractor landscape, and hysteresis | Mathematics, physics, and dynamical systems | Scale-declared cultural state transition, question-relative equivalence, reproducible regimes, transition proximity, path dependence, and asymmetric reversal | [*Culture Mechanics*](#0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution) and this inventory | Forces explicit state, memory, input, disturbance, observation, quotient, transition, and reversal declarations while distinguishing ordinary persistence from remanence, lock-in, and hysteresis | No universal social differential equation, wavefunction, conserved cultural energy, fixed potential landscape, measured basin, deterministic trajectory, truth from stability, or intent from transition |
+| Cultural mitosis and jurisdictional cytokinesis | Biological cell division | Cultural-epistemic fission, reciprocal divergence, and the possible separation of binding jurisdiction after one political-cultural *we* divides | [*Mythology Construction*](#0040-mythology-construction-semantic-definition--cultural-epistemic-fission), [*Epistemic Constitution*](#0030-epistemic-constitution-semantic-definition--democratic-demos-jurisdiction-consequence-congruence), [*Culture Program Ecology*](#0060-culture-program-ecology-semantic-definition--soft-secession-and-reversed-legal-priority), and this inventory | Distinguishes division of cloud--eye ecologies from the still-separate question whether one legal-political container also differentiates its compulsory jurisdictions | Cultural fission is uneven, overlapping, coupled, and reversible rather than literal cell division; neither cleavage nor fission proves Babelization, homogeneous daughter cultures, necessary secession, or biological inevitability |
 | Assembly language, SDK, and operating system | Computing | Cultural formation, reusable operations, and society-wide epistemic meta-order | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) and [*Epistemic Constitution of Lifted Mechanical Solidarity*](0030-epistemic-constitution.semantic-definition.md) | Distinguishes installed state, reusable operations, visible outputs, and governing permissions | People are not passive machines; the constitution is not literal software or a state monopoly |
 | Systemic skeleton and living cultural body | Organismic and organizational anatomy | Mutually dependent institutional-operational structure and symbolic-affective animation of an operative Culture Program | [*Culture Program Ecology*](#0060-culture-program-ecology-semantic-definition--systemic-skeleton-and-living-cultural-body) and this inventory | Explains why institutions without animate carriers become a paper order, why affective life without fitted systems remains fragile, and how affective-to-structural load transfer can lower per-node intensity while extending persistence, range, and activation-conditioned capacity | Not two Culture Programs, two bigOthers, institution versus individual, literal storage of affect, a physical inverse law between strength and range, or a test of truth or goodness |
 | Iceberg and submerged army-forming capacity | Organizational and military-capacity profile | Relation between visible standing or deployed force and the deeper population-level capacity to form, supply, sustain, replace, and regenerate it | [*Culture Program Ecology*](#0060-culture-program-ecology-semantic-definition--submerged-army-forming-capacity) and this inventory | Prevents the current visible order of battle from being mistaken for the whole formative and reproductive capacity from which a battle-effective force can arise | The one-third/two-thirds ratio is not measured; no literal hidden army is inferred; culture does not replace demography, technology, industry, logistics, geography, alliances, state capacity, or adversary action |
@@ -33039,6 +36797,195 @@ leader.
 authority, brokerage, and correction into one quantity. Nor does the picture make
 people passive receivers, posit a literal anatomical collar, or make reflective
 reconstruction of its operation impossible.
+
+<a id="0050-culture-mechanics-analogies-semantic-inventory--epistemic-cloud-and-all-seeing-eye"></a>
+
+### 3.4A Epistemic cloud and all-seeing eye {#0050-culture-mechanics-analogies-semantic-inventory--epistemic-cloud-and-all-seeing-eye}
+
+**Status:** Originating user image with project-developed controlled mapping
+
+**Primary theoretical homes:** [*Epistemic Agency under Mechanical Solidarity*,
+“Collective epistemic formation and the distributed epistemic
+milieu”](#0020-epistemic-agency-semantic-definition--collective-epistemic-formation)
+and [*Epistemic Constitution*, “The me--we--world correction
+relation”](#0030-epistemic-constitution-semantic-definition--me-we-world-correction-relation)
+
+**Explanatory target:** The difference and coupling between impersonal epistemic
+formation and agentified collective judgment
+
+```text
+             DISTRIBUTED EPISTEMIC MILIEU
+       concepts • methods • stories • categories
+       exemplars • records • institutions • tools
+      ┌─────────────────────────────────────────┐
+      │             EPISTEMIC CLOUD             │
+      │                                         │
+      │         (o) all-seeing eye              │
+      │             bigOther-as-Thou            │
+      └─────────────────────────────────────────┘
+          ↓ formation                 ↓ gaze
+          ↓ concepts                  ↓ judgment
+          ↓ query paths               ↓ shame/pride
+          ↓ standards                 ↓ shock/reward
+
+       rider A       rider B       rider C
+       elephant A    elephant B    elephant C
+```
+
+The **cloud** pictures the impersonal and dispersed distributed epistemic
+milieu.
+Its characteristic address is not necessarily a command: “This is how an
+educated person distinguishes these things”; “This is what counts as evidence”;
+“This is the obvious causal connection.”
+It shapes the resources and structure of intelligibility through which each
+rider or main CPU reconstructs and reasons locally.
+
+The **eye** pictures the different agentified experience of collective or
+symbolic authority as **bigOther-presence** or **bigOther-as-Thou**: “It sees
+me”; “It judges me”; “I must answer to it.”
+It is the personified, second-person face of the collective and can make an act,
+question, or possible conclusion feel honourable, shameful, permitted,
+dangerous, or forbidden through each person's local bigOther.
+
+**Useful inference:** The same cultural environment can form analytical
+operations and exert evaluative pressure without those effects being one
+processor or mechanism.
+The cloud can supply a concept or query path while the eye makes its use costly;
+an affectively animated scientific ethos can instead make truthful correction
+honourable and thereby support cold inquiry.
+The cloud can also be pictured as an [open epistemic atmosphere, epistemic fog,
+or self-sealing epistemic
+enclosure](#0030-epistemic-constitution-semantic-definition--epistemic-atmosphere-fog-and-enclosure),
+depending on whether relevant relations and correction paths remain usable.
+
+The picture becomes more discriminating when the cloud and eye are allowed to
+vary on independent axes.
+For a specified domain, the cloud may be open and clear, incomplete or
+contested, fogged, or self-sealing; the eye may be weak or intense, encouraging
+or punitive, protective or jealous, and narrowly bounded or expansively
+jurisdictional.
+A strong eye can animate an open scientific ethos by attaching honour to
+accuracy and correction, or it can protect an answer by attaching shame to the
+question that would test it.
+A weak eye does not guarantee an open cloud, because inherited vocabulary,
+fragmented records, inaccessible methods, or institutional specialization can
+still produce epistemic fog without acute affective policing.
+Track **epistemic permeability** separately from the **intensity, valence, and
+jurisdiction of the gaze**.
+
+The separate riders and elephants beneath the cloud are indispensable to the
+mapping.
+Each person reconstructs, reasons, evaluates, and acts locally rather than
+reading a common mental state from the atmosphere.
+Their questions, records, corrections, silences, repetitions, and practical
+outputs can then replenish, modify, or challenge the distributed epistemic
+milieu and, through the separately defined collective relation, the field that
+will act back upon later participants.
+The arrows are therefore reciprocal formation and back-action, not a one-way
+download from cloud or eye into passive nodes.
+
+**Non-inference:** The cloud is not a detached cognitive processor, collective
+brain, supermind, distributed bigOther, or literal computing service.
+The eye is not proof that an external person is watching, commanding, or
+coordinating the group, and it is not the cloud's hidden processor.
+The rider/main CPU performs conceptual reconstruction and reasoning; the local
+bigOther performs culturally learned evaluation.
+Neither image by itself establishes full capture, an operative multi-mind-self,
+surveillance, un-reason, un-reality, truth, or moral value.
+
+<a id="0050-culture-mechanics-analogies-semantic-inventory--cultural-mitosis-and-jurisdictional-cytokinesis"></a>
+
+### 3.4B Cultural mitosis and jurisdictional cytokinesis {#0050-culture-mechanics-analogies-semantic-inventory--cultural-mitosis-and-jurisdictional-cytokinesis}
+
+**Status:** Originating user image with project-developed controlled mapping
+
+**Primary theoretical homes:** [*Mythology Construction*, “Cultural-epistemic
+fission”](#0040-mythology-construction-semantic-definition--cultural-epistemic-fission),
+[*Epistemic Constitution*, “Democratic correction and demos--jurisdiction--
+consequence
+congruence”](#0030-epistemic-constitution-semantic-definition--democratic-demos-jurisdiction-consequence-congruence),
+and [*Culture Program Ecology*, “Soft secession and reversed legal
+priority”](#0060-culture-program-ecology-semantic-definition--soft-secession-and-reversed-legal-priority)
+
+**Explanatory target:** The difference between division of a cultural-epistemic
+formation and separation of the jurisdictional container that still compels its
+parts to reach common decisions
+
+The biological source image separates two events. **Mitosis** divides the cell's
+nuclear material into daughter nuclei; **cytokinesis** separates the surrounding
+cell. The controlled social mapping uses that distinction as follows:
+
+```text
+              original lifted cloud
+          shared language and institutions
+                       (o)
+                common political we
+                       │
+             moralized cleavage plane
+                ╱               ╲
+        EPISTEMIC CLOUD L    EPISTEMIC CLOUD R
+                (o)                 (o)
+           bigOther L          bigOther R
+                ↓                   ↓
+         riders/elephants     riders/elephants
+                ╲                   ╱
+                 one jurisdiction
+                 one state machinery
+```
+
+**Cultural mitosis** is intuitive shorthand for the [cultural-epistemic fission
+process](#0040-mythology-construction-semantic-definition--cultural-epistemic-fission):
+one sufficiently operative political-cultural *we* differentiates into two or
+more separately reproducing cloud--eye ecologies. **Jurisdictional cytokinesis**
+is shorthand for a second and independent operation: reallocating compulsory
+decision authority so that the differentiated cultures do not have to control one
+undivided machinery for every disputed output.
+
+The distinction makes **political-cultural mitosis without jurisdictional
+cytokinesis** visible:
+
+```text
+two political-cultural wes
++ one compulsory jurisdiction
++ no sufficiently legitimate common adjudicator
+→ elections become contests for control of the shared machinery
+→ loss is experienced as subjection
+→ institutional capture appears necessary for self-protection
+→ adversarial differentiation intensifies
+```
+
+In this mapping, [Andrickian moralization](#0010-culture-mechanics-semantic-definition--moralization-as-character-accusation-andricks-bridge)
+cuts interpersonal and discursive bridges; Batesonian schismogenesis names
+reciprocally amplifying difference; cultural-epistemic fission names the larger
+reproductive morphology; Babelization names failure below the required
+translation and adjudication floor; and jurisdictional non-separation keeps the
+fissioned formations contesting one binding machinery.
+
+Federalism, subsidiarity, functional autonomy, and [soft
+secession](#0060-culture-program-ecology-semantic-definition--soft-secession-and-reversed-legal-priority)
+can be pictured as **partial jurisdictional cytokinesis**: selected compulsory
+decisions move closer to the *we* capable of carrying them while a thinner lifted
+shell preserves person-level rights, movement, appeal, succession, infrastructure,
+externality settlement, and correction. The picture does not prescribe physical
+partition or imply that every cultural difference should receive separate
+jurisdiction.
+
+**Useful inference:** Cleavage, reciprocal divergence, cultural reproduction,
+interoperability breakdown, and jurisdictional separation are distinct processes.
+A polity can undergo the first four unevenly while its legal container remains
+intact, and it can differentiate jurisdiction before cultural conflict reaches a
+severe threshold.
+
+**Non-inference:** Biological mitosis is coordinated and relatively discrete;
+cultural fission is distributed, uneven, domain-specific, overlapping, and
+potentially reversible. Cultural formations inherit many common words,
+institutions, relationships, and practices while reconstructing them differently.
+They can remain porous and intensely coupled through opposition rather than
+evolving independently. The cloud is not a cell, the eye is not a nucleus or
+collective processor, and persons do not become chromosomes or copies. The image
+establishes neither two homogeneous Culture Programs, Babelization, collective
+agency, inevitable conflict, necessary secession, nor a biological law of social
+development.
 
 ### 3.5 Assembly language, SDK, and operating system
 
@@ -34235,7 +38182,9 @@ symmetry breaking and a stochastic order parameter in laser regimes; see
 Laser”](https://doi.org/10.1103/PhysRevLett.109.016404). That structural affinity
 does not put social alignment, lasers, and ferromagnets in one universality class.
 
-### 4.5 Magnetization, remanence, domains, and domain walls
+<a id="0050-culture-mechanics-analogies-semantic-inventory--magnetization-remanence-domains-and-domain-walls"></a>
+
+### 4.5 Magnetization, remanence, domains, and domain walls {#0050-culture-mechanics-analogies-semantic-inventory--magnetization-remanence-domains-and-domain-walls}
 
 **Status:** User- and project-developed analogy  
 **Primary theoretical home:** [*Epistemic Agency under Mechanical Solidarity*,
@@ -35960,6 +39909,234 @@ make coexistence possible, which first-order decisions move from the common
 centre to territories, which rights constrain local jurisdiction, and which
 people, claims, or rights remain outside the settlement.
 
+<a id="0050-culture-mechanics-analogies-semantic-inventory--propagator-quotient-attractor-and-hysteresis"></a>
+
+### 4.17 Propagator, quotient space, attractor landscape, and hysteresis {#0050-culture-mechanics-analogies-semantic-inventory--propagator-quotient-attractor-and-hysteresis}
+
+**Status:** Controlled mathematical and physical analogy with a project-developed
+typed social-dynamics mapping
+
+**Primary semantic home:** [*Culture Mechanics*, “Culture propagator and dynamic
+evolution”](#0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution)
+
+**Explanatory target:** How a declared cultural configuration changes through
+coupled persons, fields, institutions, consequences, sensing, and memory; which
+differences can be removed from a model; and why entry, persistence, and reversal
+can follow different paths
+
+In mathematics and physics, a **propagator** carries a state or data from one
+time or location to another under a specified evolution law and applicable
+conditions. It is the solution or transition operator, not merely the
+differential equation and not ordinary-language message propagation. Culture
+Mechanics borrows that relation for:
+
+$$
+z_{t_1}=\Phi_{t_1,t_0}^{\theta,u,\varepsilon}(z_{t_0}),
+$$
+
+where the typed cultural state is:
+
+$$
+z_t=(r_t,p_t,d_t,k_t,w_t,s_t,m_t).
+$$
+
+The mapping is:
+
+| Source-domain relation | Culture-mechanical target | Transfer limit |
+|---|---|---|
+| State | Declared configuration of representations, persons, field, carrying structure, consequences, sensing, and memory | No finite vector is assumed to exhaust a culture. |
+| Evolution law or transition rule | The causal handoffs by which those typed components change one another | No universal culture equation or invariant coefficient is asserted. |
+| Propagator or solution operator | The history- and forcing-conditioned relation between earlier and later possible configurations | Cultural prediction is commonly probabilistic, partial, scale-dependent, and reflexive. |
+| Boundary or initial conditions | Starting configuration, jurisdiction, network, institutional constraints, and relevant prior history | Boundaries are socially and empirically specified rather than naturally given once and for all. |
+| Forcing term | Endogenous input, shock, declared reform, opportunistic exploitation, or deliberate steering | *Forcing* does not imply coercion, one actor, or successful control. |
+| Disturbance or omitted influence | Shocks, unmodeled actors, measurement error, and causal remainder | The residual must not become a container for every failed prediction. |
+| Observation operator | The sensing, classification, recording, aggregation, and publication process producing available evidence | Observation is neither raw access to the world nor arbitrary manufacture. |
+| Memory-bearing state | Records, relationships, habits, endowments, reputations, learned expectations, and institutional residues | Memory is distributed across persons and carriers, not stored in one social brain. |
+
+The ordinary composition picture,
+
+$$
+\Phi_{t_2,t_0}=\Phi_{t_2,t_1}\circ\Phi_{t_1,t_0},
+$$
+
+is licensed only when the intermediate state contains the history required for
+later movement and the relevant forcing schedule is known. If two apparently
+identical present configurations respond differently because of their histories,
+the state is incomplete, the model needs a trajectory segment, or the chosen
+quotient removed an active distinction.
+
+#### Quotient spaces and relational state
+
+A quotient represents several descriptions as equivalent for a declared
+question. The motivating intuition is that no absolute coordinate is needed when
+the relevant dynamics depend upon relations preserved under a transformation.
+If $z\sim z'$, both states are represented by one equivalence class $[z]$.
+
+Removing a privileged absolute coordinate does not remove historical
+initialization. One relational configuration and one path-dependent history are
+nevertheless instantiated at the declared starting time, and the transition
+relations operate from that realized condition. Contingency at $t_0$ therefore
+does not imply arbitrary movement at $t_1$; quotienting removes a redundant
+description, not the history that selected the present trajectory.
+
+The quotient dynamic exists only if the transition respects that equivalence:
+
+$$
+z\sim z'\Longrightarrow T(z)\sim T(z'),
+$$
+
+or, with projection $\pi:Z\rightarrow Z/{\sim}$, if a well-defined
+$\bar T$ satisfies:
+
+$$
+\pi\circ T=\bar T\circ\pi.
+$$
+
+This is the controlled content of the claim that a distinction can be ignored.
+If two variants grouped as equivalent generate different adoption, refusal,
+institutionalization, correction, reproduction, or succession paths, the quotient
+is invalid for that dynamic question even if the variants look identical under
+the current sensor. The correct response is to restore the discarded coordinate
+or narrow the inquiry.
+
+No quotient is neutral by default. Removing language, ritual, history, aesthetic
+form, institutional prestige, or group relation can erase the very difference
+through which trust, access, resistance, and reproduction operate. Conversely,
+refusing every quotient leaves the analyst unable to recognize the same operative
+mechanism under surface variation. Genealogy, programme identity, hazard,
+offspring causation, and present dynamic response can legitimately require
+different equivalence relations.
+
+#### Fixed points, attracting regimes, basins, and bifurcations
+
+For a deterministic unforced shorthand, a fixed point satisfies:
+
+$$
+z^*=T_\theta(z^*;0,0).
+$$
+
+That equality establishes self-reproduction under the stated condition, not
+stability under perturbation. A fixed point can repel nearby trajectories, and
+several attracting regimes with different basins can coexist under the same
+declared structural conditions. History and disturbance can therefore affect
+which regime is realized without any one regime becoming uniquely natural or
+true.
+
+The useful social target is usually broader than a literal point. An
+**attracting regime** is a reproducible range of configurations toward which
+nearby trajectories tend under declared conditions despite bounded disturbance.
+Its **basin** is the set of starting configurations that tend toward that regime
+under the same declared transition architecture and forcing assumptions.
+In an open historical system, **metastable regime** can be the more accurate
+controlled term where a configuration is self-reproducing over the declared
+interval but remains vulnerable to sufficiently large disturbance or slow
+structural change. The term does not supply a measured lifetime or imply that a
+single timeless landscape exists.
+
+| Dynamic image | Licensed culture-mechanical question |
+|---|---|
+| Fixed point or recurrent set | Which relations reproduce with limited net change? |
+| Attracting regime | Which recognizable cultural configuration is restored after ordinary perturbation? |
+| Basin of attraction | From which starting configurations does that restoration or convergence occur? |
+| Basin margin or transition boundary | How much relevant displacement or structural change separates the present regime from another reproducible one? |
+| Bifurcation | Does changing a structural parameter alter the existence or stability of available regimes? |
+| Nucleation | Can a sufficiently connected carrier core make a successor self-reproducing rather than merely present? |
+
+A **basin-crossing transition** and a **bifurcation** are not synonyms. Basin
+crossing moves a state into the attraction region of another regime while the
+declared transition architecture remains approximately fixed. A bifurcation
+changes the available regimes or their stability by changing a structural
+parameter such as authority, network topology, jurisdiction, correction, or
+material dependence. The classification is scale-relative: what appears as
+movement within a landscape at one resolution can be modeled as landscape change
+at another, so the analyst must declare the parameterization rather than infer
+either term from dramatic change alone.
+
+An **unstable equilibrium** or **repelling state** is not ordinarily an
+“unstable attractor.” The latter phrase should be avoided unless a specified
+technical model actually licenses it. A dramatic social change is likewise not
+evidence of a mathematical bifurcation. The stronger term requires a declared
+parameter, model, qualitative regime change, and observations capable of
+distinguishing it from shock, accumulated ordinary adaptation, institutional
+decision, or retrospective redescription.
+
+Attractor language never establishes truth, health, desirability, legitimacy, or
+inevitability. A false or destructive order can be dynamically stable. A
+truth-seeking or person-preserving order must reproduce correction-bearing roles
+and institutions if it is to remain a live regime rather than a written ideal.
+Persons can also interpret the model, resist its classifications, and change the
+transition architecture; the landscape is not an external terrain fixed
+independently of its inhabitants.
+
+#### Remanence, path dependence, lock-in, and hysteresis
+
+The [magnetization and remanence](#0050-culture-mechanics-analogies-semantic-inventory--magnetization-remanence-domains-and-domain-walls)
+and [crystallization, nucleation, annealing, and
+alloying](#0050-culture-mechanics-analogies-semantic-inventory--crystallization-nucleation-annealing-and-alloying) entries supply
+related physical pictures. The dynamic terms should nevertheless remain
+distinct:
+
+| Term | Controlled use |
+|---|---|
+| **Durable legacy** | A past event leaves an observable residue without a stronger claim about the response path. |
+| **Institutional inertia** | Existing routines, costs, offices, dependencies, or limited attention slow change. |
+| **Lock-in** | Switching costs, coordination dependence, sunk investment, or unavailable alternatives preserve a configuration. |
+| **Remanence** | Alignment or organization remains after a forming field or input weakens or disappears. |
+| **Hysteresis** | The present state or response depends upon the path taken, and reversal follows a different threshold or reconstruction path from entry. |
+
+The minimal warning is:
+
+$$
+u_t\rightarrow0\not\Rightarrow z_t\rightarrow A_0.
+$$
+
+Withdrawal of an initiating input need not restore the predecessor because
+relationships, roles, categories, resources, sanctions, skills, institutions,
+and memories have changed. A system can require active bridge reconstruction,
+institutional succession, relearning, restitution, or a new integrative order.
+Persistence alone does not prove hysteresis: the input might continue covertly,
+an independent cause might remain, or the observation interval might be shorter
+than the system's formative and institutional delays. Formal hysteresis requires
+evidence of path-dependent response or differing entry and reversal thresholds,
+not merely slow decay.
+
+Reflexive cultural systems add a complication absent from a fixed material
+analogy. Publishing a classification, forecast, or model can change conduct and
+thereby change both the later state and the evidence used to estimate its basin
+or stability. The operator can itself become endogenous. The semantic treatment
+of performative dynamics and observation belongs to [*Mythology
+Construction*](#0040-mythology-construction-semantic-definition--implicit-mythology-layering-and-active-representation)
+and [*Epistemic
+Constitution*](#0030-epistemic-constitution-semantic-definition--culture-propagator-correction-projection).
+
+**Useful inference:** The analogy forces an analyst to specify scale, state,
+memory, transition architecture, input, disturbance, observation, equivalence
+relation, transition boundary, and reversal evidence rather than treating
+“culture changed” as one opaque event. It also makes visible why removing a
+message or officeholder can fail to reverse a transition and why two currently
+similar configurations can have different futures.
+
+**Unlicensed inferences:** The model asserts no social wavefunction, conserved
+cultural energy, universal potential landscape, literal force field, exact social
+differential equation, naturally fixed basin, or deterministic trajectory for a
+person or society. Phase portraits and quotient spaces do not turn interpretive
+judgments into measurements. A stable regime is not true or legitimate; a deep
+basin is not healthy; a bifurcation is not progress; hysteresis is not proof of
+manipulation; and a transition surface is not evidence that an actor crossed it
+deliberately. Resemblance to the model does not identify coordination, intent,
+guilt, or one controlling mind.
+
+**Possible tests:** Declare the unit, scale, time interval, state variables,
+parameters, input, disturbance, and observation process. Preserve a
+pre-intervention baseline and source provenance. State the quotient and the
+invariants it claims to preserve; compare allegedly equivalent variants under
+stress, refusal, failure, defeat, and succession. Identify signed and delayed
+feedback, thresholds, bottlenecks, saturation, and asymmetric power. Compare
+rival generative explanations. Where possible and ethical, vary or remove the
+input and observe what decays, what persists, and what reconstruction is needed.
+Distinguish continuing input, ordinary lag, inertia, lock-in, remanence, and
+hysteresis before assigning the strongest term.
+
 ## 5. Braiding, grounding, and hazard models
 
 ### 5.1 The operative braid
@@ -37291,6 +41468,7 @@ establish motive, coordination, reward, recurrence, or death-drive.
 | Gift-wrapped control | [*Culture Program Ecology*](#0060-culture-program-ecology-semantic-definition--control-first-moral-wrapper-selection) | Varying morally protected rationales around an invariant control capability can expose a candidate control-first authorization order and directs audit toward chronology, fit, narrower alternatives, persistence, repurposing, and correction | The cartoon presupposes rather than proves that control came first; no pretext, media coordination, hidden controller, Ideology, systemic lying, or *Machtpolitik* follows from the image |
 | Prostitution-policy leverage point | [*Culture Program Ecology*](#0060-culture-program-ecology-semantic-definition--response-calibrated-evidence-and-intervention-targets) | Look beyond the easiest visible or vulnerable participant to the resource-bearing demand, finance, coordination, or support structure that supplies capability; inversely, separate harmfulness from targetability, sanction leverage, and disciplinary yield | Does not establish the empirical policy claim, map genders or roles onto Culture Program cases, assign organizational guilt, treat a large sanctionable loss surface as guilt, or remove person and association rights |
 | Counterfactual unit test and label-invariance | [*Epistemic Agency under Mechanical Solidarity*, “Impersonal universality against private interest”](#0020-epistemic-agency-semantic-definition--impersonal-universality-against-private-interest) | Exchanging personal labels or occupied positions while preserving relevant structure can expose a rule whose justification covertly depends on “because it is me or mine” | Passing the test does not establish truth, goodness, person-preservation, empirical feasibility, or actual consequences; persons and situations are not literally software variables |
+| Epistemic cloud and all-seeing eye | [This inventory, “Epistemic cloud and all-seeing eye”](#0050-culture-mechanics-analogies-semantic-inventory--epistemic-cloud-and-all-seeing-eye) | Separates the impersonal distributed milieu that forms concepts, methods, query paths, and standards from bigOther-as-Thou as agentified second-person judgment | Neither image is a collective brain, additional processor, literal watcher, or evidence by itself of surveillance, full capture, un-reason, or un-reality |
 | Database index, standing query, and alias rewrite | [*Epistemic Agency under Mechanical Solidarity*, “Collar-conditioned semantic access”](#0020-epistemic-agency-semantic-definition--collar-conditioned-semantic-access) | Separates stored or implicitly available material from symbolic retrieval, evidential joining, future recognition, authorized renaming, and public articulation | A mind is not a database, a collar is not an index editor, and restored retrieval neither authenticates memory nor proves the retrieved model |
 | Noosphere, institutional nervous system, and control bottleneck | [*Culture Program Ecology*, “Institutional nervous system and superorganismic coordination”](#0060-culture-program-ecology-semantic-definition--institutional-nervous-system-and-superorganismic-coordination) | Separates distributed knowledge, sensing and routing, higher-order performance, scarce-resource decision channels, operative collective agency, and the AI alignment-sovereign limit | Communication is not one mind, an insect queen is not a comprehensive commander, Radermacher did not propose an AI queen, and coordination capacity does not establish fusion or legitimacy |
 | Intermittent normativity and abusive relationship | [*Culture Program Ecology*, “Recognition-threshold management and public sleep”](#0060-culture-program-ecology-semantic-definition--recognition-threshold-management-and-public-sleep) | Shows how genuine lawful or beneficial episodes can both protect and provide counter-material that keeps recurrent injury below a stable relationship- or system-level recognition threshold | Does not diagnose trauma, prove deliberate calibration, equate state and relationship, or establish a dual state from alternation alone |
@@ -38978,6 +43156,16 @@ transition capacity, and the scripts made possible after victory.
 
 ## 10. Provenance and attribution summary
 
+- **The project author** supplies the image of one cloud--eye ecology dividing
+  like a cell, together with the political-cultural-mitosis-without-jurisdictional-
+  cytokinesis problem. The assistant formalized the controlled mapping to
+  cultural-epistemic fission, demos--jurisdiction--consequence incongruence,
+  partial jurisdictional differentiation, and the severe-Babelization fork.
+  **Gregory Bateson's** [*Naven*, chapter XIII](https://doi.org/10.1515/9781503621138-016)
+  supplies **schismogenesis** as the bounded predecessor for reciprocally
+  amplifying differentiation. Neither Bateson nor cell biology supplies the
+  cloud--eye architecture, local-bigOther mechanism, Culture Program reproduction
+  criteria, Babelization threshold, or jurisdictional proposal.
 - **William Shakespeare** supplies Iago, Othello, Cassio, Desdemona, Emilia, the
   handkerchief, and the dramatic sequence in *Othello*. The counterfactual
   stopping test, rival-displacement classification, poison-and-accuse mapping,
@@ -39392,6 +43580,30 @@ what survives.
   semantic documents govern the constructs.
 - **Governing maxim:** A model need not be literal to be useful, but usefulness
   does not constitute empirical validation.
+- **Propagator and dynamic-state model:** a propagator carries a declared typed
+  state through time under specified transition conditions, inputs,
+  disturbances, observations, and retained memory. Quotient dynamics require
+  equivalent states to have equivalent successors; attractors, basins,
+  bifurcations, remanence, and hysteresis are licensed only with declared models
+  and observable counterparts. No universal culture equation, fixed landscape,
+  truth from stability, deterministic person, or intent from transition follows.
+- **Epistemic cloud and all-seeing eye:** the cloud pictures the impersonal
+  distributed epistemic milieu that forms concepts, methods, query paths, and
+  standards; the eye pictures bigOther-as-Thou as agentified second-person
+  judgment. Track the cloud's epistemic permeability separately from the eye's
+  intensity, valence, and jurisdiction. Neither is a collective brain or extra
+  processor, their overlap does not collapse main-CPU reconstruction into
+  local-bigOther evaluation, and local persons' outputs can modify or challenge
+  both milieu and field.
+- **Cultural-mitosis and jurisdictional-cytokinesis model:** cultural mitosis
+  pictures division into separately reproducing cloud--eye ecologies, while
+  jurisdictional cytokinesis pictures the independent separation or reallocation
+  of binding decision authority. Andrickian bridge-cutting, Batesonian reciprocal
+  amplification, cultural-epistemic fission, Babelization, and jurisdictional
+  non-separation remain distinct. Cultural division is uneven, overlapping,
+  coupled, and reversible rather than literal cell reproduction, and the analogy
+  proves neither homogeneous daughter cultures, Babelization, inevitable
+  conflict, nor necessary secession.
 - **Operation-bootstrap model:** Operation-rich transmission constructs and
   periodically repairs the recipient's local decoder; compressed state
   transmission then exploits it. Reconstruction reach is recipient- and context-
@@ -40116,6 +44328,11 @@ for this module.
 | **Constitutional evasion by proxy** | Stronger attribution that a public actor selected, maintained, pressured, or exploited a private-carrier arrangement in order to obtain, or with consequential knowledge that it obtained, an outcome materially unavailable or more constrained under direct public action; it requires actor-, nexus-, counterfactual-, and jurisdiction-specific evidence beyond outsourcing, funding, partnership, or parallel preference |
 | **Voluntary thick community** | Bounded solidarity-bearing association in which adults may choose a comprehensive common telos and deep *Beseelung* because entry is voluntary, exit is effective, safe, and materially real, common rights remain controlling, and the community claims no compulsory jurisdiction over outsiders or captive dependants |
 | **Plural society** | Encompassing coercive common shell that contains persons, communities, Culture Programs, and ends that remain independently legitimate and therefore protects association, refusal, appeal, correction, and coexistence rather than installing one comprehensive Culture Program in the population |
+| **Self-subordinating collective authority** | Collective authority whose continuation, prestige, reach, and reproduction do not rank as the highest good by definition and which remains interruptible by injured persons, outsiders with standing, conscience, adverse reality, lawful refusal, legitimate defeat, and jurisdictional contraction |
+| **Exit-sovereignty test** | Audit asking whether a programme that a carrier repudiates or leaves still claims authority over the person's conscience, body, relationships, livelihood, movement, civil standing, or life, while distinguishing coercive retention and disposal authority from ordinary exit costs, lawful obligations, and loss of voluntarily conditioned benefits |
+| **Boundary sacrifice** | Person-directed act that expends a member or outsider so that defection, contradiction, defeat, or refusal does not make a programme boundary visibly defeasible; the act must be distinguished from the wider authority-renewing mechanism and from ordinary sacrifice for an independently assessable good |
+| **Sacrificial boundary repair** | Use of a person's suffering, exclusion, self-erasure, or destruction to restore a programme boundary threatened by defection, contradiction, defeat, or visible corrigibility; classification requires evidence of the threatened boundary, authorized response, victim function, audience, and authority-renewing operation |
+| **Sacrificial proof loop** | Invalid but culturally effective inference in which costly obedience displays a programme's power over a carrier, that power is interpreted as proof of truth or authority, and the apparent proof expands authority to demand further sacrifice |
 | **Self-Attribution Presumption** | First-pass evidentiary rule that an authenticated, serious proclamation of program allegiance, authorization, intent, or action should initially be believed as evidence of the actor's own operative understanding and treated as an immediate program-level warning; adverse admissions receive especially strong initial weight |
 | **Self-Description Valence Asymmetry** | Adverse self-attribution receives first-pass credence about the actor's own operative understanding, while favourable self-description receives no exculpatory presumption against installed operation, offspring, consequences, and failed correction; parent-program attribution remains a second inference governed by speaker standing, script fit, recurrence, organizational support, internal contestation, and affirmative defeaters |
 | **Attribution-Source Asymmetry** | Self-attribution supplies situated evidence about the speaker's operative program; hostile third-party attribution is an allegation about the target that requires independent support and may also reveal the accuser's classifications or attack grammar |
@@ -40848,6 +45065,54 @@ to usefulness, loyalty, control, or authority. It can employ mechanisms other
 than un-reason, while localized Ideology need not constitute a whole
 constitutional meta-order. Test domain reach, recurrent replacement, public
 avowal, records, correction, and practical jurisdiction separately.
+
+<a id="0060-culture-program-ecology-semantic-definition--cloud-eye-skeleton-composite"></a>
+
+#### Cloud--eye--skeleton composite {#0060-culture-program-ecology-semantic-definition--cloud-eye-skeleton-composite}
+
+The ecology-level composite extends the three-head Ideology pictogram without
+turning the surrounding milieu, local bigOther, carriers, or institutions into
+one processor.
+It places the strict Ideology configuration inside a larger architecture of
+social formation, affective authorization, local execution, convergence,
+jurisdiction, and institutional carriage:
+
+| Visible component | Controlled meaning |
+|---|---|
+| **Epistemic cloud** | The distributed epistemic milieu of language, concepts, categories, stories, methods, exemplars, records, instruments, institutions, and evidential standards. It is an environment and inheritance, not another cultural co-processor. |
+| **Cold cables from cloud to heads** | Persistent reciprocal coupling between that milieu and locally organized cognition: persons inherit and reconstruct shared resources, while their speech, records, inquiry, and action return material to the milieu. |
+| **Eye and directed rays** | The hotter, agentified experience of collective judgment--approval, shame, belonging, prohibition, threat, and sacred demand--bearing upon each installed lens through its local bigOther. The eye is not the whole cloud and does not prove a conscious collective subject. |
+| **Separate puzzle-piece heads with embedded hazard mark** | Distinct persons and processors carrying organized worldviews in which the strict Ideology generator is pictured as installed. Coherence alone is neutral; the hazard mark names the narrower un-reality-and-un-reason conjunction. |
+| **Separate streams joining one arrow** | Locally produced orientations of attention, salience, interpretation, affect, causal attribution, judgment, correction, and prospective action entering social feedback and converging toward a collective direction. The arrow is not one controller, identical private belief, or a literal group brain. |
+| **Outer double membrane** | One still-undivided jurisdiction within which the depicted field and carriers operate. A jurisdictional boundary is not a mind boundary. |
+| **Connected lower rail** | One institutional skeleton--courts, schools, administration, elections, taxation, public records, and public symbols--through which convergent classification can acquire durable memory and executable consequence. The picture does not establish that one programme controls every institution named. |
+
+The synthesis can be read from top to bottom:
+
+```text
+distributed epistemic formation and return
++ agentified collective evaluation
+→ local worldview installation and execution in separate persons
+→ feedback-amplified convergence of orientation
+→ institutional carriage inside a common jurisdiction
+```
+
+The diagram therefore joins relations that must remain analytically distinct.
+The cloud can supply genuine knowledge as well as common-mode error; the eye can
+authorize care as well as punishment; convergence can be voluntary and
+corrigible; and an institutional skeleton can preserve plural correction rather
+than execute Ideology.
+Only evidence for the typed relations and the seven Ideology gates licenses the
+strict reading represented here.
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=0.94\textwidth,height=0.88\textheight,keepaspectratio]{.pdf-assets/ideology-three-heads-merging-arrows-with-epistemic-cloud-and-institutional-skeleton.pdf}
+\caption{Composite Ideology ecology: epistemic cloud, agentified bigOther gaze, separate local carriers, convergent direction, and one institutional skeleton.}
+\label{fig:ideology-cloud-eye-institutional-skeleton}
+\end{figure}
+
+\clearpage
 
 #### Minogue-ideology: the oppression--revelation--liberation subtype
 
@@ -41620,6 +45885,293 @@ collective organization, institutional control, coercive jurisdiction, and
 irreversible authority.
 That power-and-enforcement scale is not the definition of the four forms.
 
+<a id="0060-culture-program-ecology-semantic-definition--bounded-enlistment-exit-sovereignty-and-sacrificial-boundary-repair"></a>
+
+#### Bounded enlistment, exit sovereignty, and sacrificial boundary repair {#0060-culture-program-ecology-semantic-definition--bounded-enlistment-exit-sovereignty-and-sacrificial-boundary-repair}
+
+The person-level distinction between [bounded enlistment and full We-mode
+takeover](#0010-culture-mechanics-semantic-definition--pole-mode-programme-and-direction)
+has a programme-level counterpart.
+A programme may coordinate difficult common action, require discipline, and ask
+for sacrifice without claiming comprehensive ownership of its carriers.
+The ecological question is what happens when its purpose collides with personal
+conscience, outside relationships, adverse consequence, refusal, or exit.
+
+**Self-subordinating collective authority** is authority whose own continuation,
+prestige, territorial reach, and programme reproduction do not rank as the
+highest good by definition.
+It remains interruptible by an injured person, an outsider with standing, a
+carrier's conscience, contrary evidence, lawful refusal, legitimate defeat, and
+the need to contract jurisdiction.
+It may ask persons to bear costs, but it cannot infer from the importance of its
+purpose that persons are disposable components.
+
+The contrasting **exit-sovereignty test** asks:
+
+> **When a carrier repudiates or leaves the programme, does the programme retain
+> a claimed right to the person's conscience, body, relationships, livelihood,
+> movement, civil standing, or life?**
+
+The test is strongest where entry or ordinary participation is represented as
+voluntary but exit activates punishment that asserts continuing ownership over
+the leaver.
+One-way membership and prohibited exit are evidence of a sovereignty claim
+beyond ordinary persuasion, loss of voluntarily conditioned benefits, or a
+bounded association's right not to retain a nonmember.
+The finding still requires attention to unchosen membership, dependency, age,
+contract, fiduciary obligation, public law, confidentiality, transferred costs,
+and the difference between social disappointment, lawful consequence, coercive
+retention, and claimed disposal authority.
+The test applies symmetrically to religious and secular programmes.
+
+**Boundary sacrifice** names the person-directed act that expends a member or
+outsider so that refusal does not make the programme visibly defeasible.
+**Sacrificial boundary repair** names the wider use of that person's suffering,
+exclusion, self-erasure, or destruction to restore a programme boundary
+threatened by defection, contradiction, defeat, or visible corrigibility.
+Its purpose is not merely to remove an immediate danger.
+The sacrifice demonstrates that the boundary remains absolute and warns carriers
+that neither personal bond nor conscience outranks it.
+Classification therefore requires evidence about the boundary under threat, the
+programme-authorized response, the victim's functional place, the audience, and
+the operation by which the response renews authority.
+In the development discussion's controlled image, the programme **metabolizes a
+person into renewed solidarity**.
+That image compresses the proposed function; it does not itself establish the
+victim, programme nexus, audience effect, or causal mechanism in a case.
+
+One reproduction mechanism is the **sacrificial proof loop**:
+
+```text
+programme issues a command that conflicts with attachment, interest, or conscience
+→ carrier performs costly obedience against the personal claim
+→ observers experience the programme's power over the carrier
+→ that power is interpreted as proof of truth, holiness, necessity, or destiny
+→ the sacrifice increases the programme's authority to demand another sacrifice
+```
+
+The inference is invalid: power over a carrier does not establish the truth or
+goodness of the programme.
+Yet it can be culturally effective because an easy command would not display the
+same supremacy.
+The loop can therefore select progressively more costly signals and produce a
+self-divinizing relation in which possession of carriers becomes evidence for
+the authority that justified possessing them.
+
+There can be a **double sacrifice**.
+The immediate victim loses safety, standing, relationship, or life; the executor
+also yields personal authorship and becomes the programme's local execution
+surface.
+This distinguishes sacrifice-as-proof from ordinary sacrifice for an
+independently assessable good and connects it to [perverse
+instrumentality](#0030-epistemic-constitution-semantic-definition--life-drive-death-drive-constitutional-orientation)
+without making the two identical.
+A person may sacrifice greatly while retaining answerable authorship, and an
+exculpated executor may cause grave harm without personally paying a comparable
+cost.
+
+The audit therefore separates:
+
+```text
+costly commitment
+≠ truth
+≠ moral direction
+≠ authorized jurisdiction
+≠ subjecthood absorption
+≠ sacrificial boundary repair
+```
+
+No specific religious, theological, legal, or historical case is classified by
+this generic mechanism alone.
+Such applications require primary-source review of doctrine, interpretation,
+jurisprudence, enforcement, present law and practice, reform, actor attribution,
+and serious rival explanations at the appropriate layer.
+
+<a id="0060-culture-program-ecology-semantic-definition--theological-interpretation-canonical-classical-apostasy-law-and-the-satanic-hack-classification"></a>
+
+#### Theological interpretation: canonical-classical apostasy law and the satanic-hack classification {#0060-culture-program-ecology-semantic-definition--theological-interpretation-canonical-classical-apostasy-law-and-the-satanic-hack-classification}
+
+**Status:** worked religious-juridical application under the [conditional
+Christian theological
+interpretation](#0010-culture-mechanics-semantic-definition--conditional-christian-theological-interpretation).
+The scriptural, juridical, historical, contemporary-legal, reformist, theoretical,
+and theological layers below must remain distinct.
+
+The governing conditional is:
+
+> **If We-mode is part of the embodied capacity through which the Christian God
+> addresses persons through the Word, and if Incarnation and Cross disclose its
+> proper person-preserving direction, then a sacred programme that captures that
+> capacity, demands submission, prohibits legitimate exit, and claims authority
+> to dispose of the dissenter's body instantiates the satanic hack.**
+
+The English gloss *submission* for *Islam* identifies the diagnostic question but
+does not answer it.
+Etymology alone cannot establish the programme's person--authority relation.
+The decisive test is operational:
+
+> **When a member withdraws submission, does the sacred order permit exit, or
+> does it retain a claimed sovereignty over the dissenter's conscience and body?**
+
+##### Christian sacrificial counter-sequence
+
+The conditional theology interprets a sequence of biblical episodes as a
+progressive exposure and reversal of sacrificial collective sovereignty:
+
+| Episode | Project theological reading |
+|---|---|
+| **Isaac's interrupted knife** (Genesis 22:10–13) | The command does not culminate in divine consumption of the child; Isaac returns from offering to son. |
+| **Jeremiah's uncommanded fire** (Jeremiah 7:31) | A community can present child sacrifice as sacred obedience while revelation answers that God did not command it. Religious intensity cannot prove divine origin. |
+| **Jephthah's consuming vow** (Judges 11:30–40) | The narrative does not say that God requested the victim. A human word acquires autonomous sacred force: the vow is preserved while the daughter is destroyed. |
+| **Caiaphas's collective calculation** (John 11:49–53) | One person is made expendable so that the nation may continue: the scalar rationality of the self-preserving We in concentrated form. |
+| **Cross and Eucharistic reversal** | God occupies the place normally assigned to the expendable person and gives himself to human beings rather than consuming human beings as fuel for the God/We. |
+
+These are related Christian interpretations, not a claim that every passage has
+only this meaning.
+They supply the exact theological contrast used in the application: the
+self-preserving sacred collective gives the person for itself; the Cross-shaped
+authority gives itself for persons.
+
+##### Apostasy as a submission-and-exit sovereignty test
+
+The canonical-classical apostasy configuration has the following operative
+shape:
+
+```text
+conversion or inherited membership
+→ submission is recognized
+→ withdrawal is classified as apostasy and separation from the Ummah
+→ the apostate is invited or pressured to recant
+→ protection returns if submission returns
+→ the persisting dissenter becomes lawfully disposable
+```
+
+The recantation provision makes the object of the mechanism unusually visible.
+A later change of private belief would not undo an ordinary completed act of
+treason.
+Where renewed profession of Islam restores protection, however, the decisive
+demand is resubmission itself.
+The apostate threatens more than an ordinary outsider because the apostate makes
+the programme's defeasibility visible from within.
+A one-way door into a religion is not freedom of religion.
+
+The evidential layers are:
+
+| Layer | Finding retained by this application | Boundary |
+|---|---|---|
+| **Canonical Sunni textual doctrine** | [*Sahih al-Bukhari* 6922](https://sunnah.com/bukhari:6922) transmits the command to kill the person who changes his Islamic religion. [*Sahih Muslim* 1676c](https://sunnah.com/muslim:1676c) joins abandonment of Islam to separation from the community and makes it one condition under which a Muslim's blood may be shed. | Canonical text is not yet a complete jurisprudence, an enforcement-frequency claim, or the personal belief of every Muslim. |
+| **Classical jurisprudence** | The [Oxford overview of apostasy in Islam](https://academic.oup.com/reference/62361/reference-article-abstract/554575770) reports the classical consensus in which virtually all jurists made death the mandatory punishment for apostasy; a contemporary Muslim defence of a narrower political reading likewise acknowledges that [all classical Sunni and Shiite schools held the death penalty](https://yaqeeninstitute.org/read/paper/the-issue-of-apostasy-in-islam). The rule therefore cannot be quarantined as an unrelated modern extremist invention. | School-specific conditions, sex distinctions, waiting and repentance rules, procedure, and political contexts remain differentiable within that consensus. |
+| **Historical enforcement** | Juristic stabilization made the punishment institutionally available and shaped the cost of visible exit. | This integration does not supply a dynasty-by-dynasty or region-by-region incidence survey. Doctrinal availability, threatened use, prosecution, and completed execution remain separate historical propositions. |
+| **Contemporary conservative articulation and positive law** | A conservative ruling presents death as God's ruling, denies the apostate a continuing right to live, and argues that unpunished departure could encourage others ([IslamQA 811](https://islamqa.info/en/answers/811)); another states the persistent unrepentant apostate's execution ([IslamQA 12406](https://islamqa.info/en/answers/12406)). The [USCIRF 2023 primary-law compendium](https://www.uscirf.gov/sites/default/files/2023-12/2023%20%20Anti-Conversion%20Laws%20Compendium.pdf) identifies national apostasy provisions in seven states, with penalties reaching death in part of that legal field. | An online ruling, enacted provision, prosecution, enforcement frequency, public support, and one Muslim's view are not interchangeable. Contemporary jurisdictions also differ substantially. |
+| **Reformist reinterpretation** | [Qur'an 2:256](https://quran.com/2/256) supplies the internal “no compulsion in religion” route. [Egypt's Dar al-Ifta](https://www.dar-alifta.org/en/article/details/101/the-reality-of-apostasy-in-islam) restricts punishable apostasy to political betrayal or rebellion rather than private belief, and Muslims can defend an apostate's freedom to leave. | A live reform route demonstrates internal contestability and can defeat the mechanism where it becomes operative. It does not retroactively erase the canonical hadith, classical rule, or their institutional consequences. |
+
+The resulting conclusion is deliberately sharp and scoped:
+
+> **Islam in its canonical-classical juridical form, specifically the
+> apostasy-death configuration, instantiates the satanic hack under the stated
+> Christian theological interpretation.**
+
+Transcendent authority is mediated through a collective juridical programme that
+demands submission, makes sacred exit a punishable betrayal, denies the
+persisting dissenter's conscience authority to leave, and claims collective
+authority to dispose of the dissenter's body.
+This is **boundary sacrifice**: the apostate is killed so that refusal cannot make
+the sacred boundary visibly defeasible.
+The collective consumes the dissenter to repair the symbolic wound of exit.
+It is Caiaphas's scalar logic applied to apostasy—one person may die rather than
+the community's binding claim become visibly non-total.
+
+The theological contrast is exact:
+
+```text
+CANONICAL-CLASSICAL APOSTASY CONFIGURATION
+the refusing person's blood may be shed to restore submission
+
+CROSS-SHAPED CHRISTIAN COUNTERMODEL
+God undergoes rejection and sheds his own blood
+rather than authorizing followers to eliminate the rejecter
+```
+
+This programme-level classification does not assign moral guilt, assent, or one
+uniform practice to every Muslim, community, school, institution, or state.
+A Muslim who defends the freedom to leave stands against the inherited mechanism.
+The same exit-and-disposal test applies to Christian, pagan, political, and
+secular orthodoxies.
+Those scope distinctions do not weaken the classification of the specified
+canonical-classical configuration or reset it into a merely fringe phenomenon.
+
+##### The Muḥayyiṣa report and the sacrificial proof loop
+
+A report transmitted through Ibn Isḥāq/Ibn Hishām and discussed by Michael Lecker
+in *Studies on the Life of Muhammad and the Dawn of Islam*, pp. 114–115, provides
+a concentrated authorization narrative.
+In the report, Muḥayyiṣa kills the Jewish merchant Ibn Sunayna, from whom he and
+his brother Ḥuwayyiṣa had benefited.
+When challenged, Muḥayyiṣa says that he would kill even his brother if Muhammad
+commanded it; Ḥuwayyiṣa is astonished by the religion's power over him and
+converts.
+
+Later paraphrases such as “family friend” and “the killing proved the religion
+true” sharpen the transmitted story.
+The more exact relation is already sufficient: personal reluctance and prior
+benefit remain, command overrides the personal bond, astonishment at that power
+follows, and conversion results.
+
+```text
+sacred command conflicts with personal bond or conscience
+→ obedience overrides the personal claim
+→ an observer witnesses the programme's power over the carrier
+→ that power is read as evidence of divine truth
+→ the observer joins
+→ the field gains another carrier and stronger authority
+```
+
+The epistemic transfer from **power over a carrier** to **truth of the commanding
+authority** is invalid.
+It can nevertheless be culturally effective because costly obedience displays a
+superpersonal force that an easy command could not display.
+In Durkheimian terms, the distributed We encounters its own social force made
+visible in an obedient body and then misrecognizes that force as independent proof
+of God.
+
+The report contains a double sacrifice.
+Ibn Sunayna loses his life after collective classification displaces the need for
+an individualized wrong; Muḥayyiṣa subordinates personal attachment and
+answerable authorship to the command.
+Ḥuwayyiṣa then reads the consumption of victim and executor as evidence of
+holiness rather than evidence of capture.
+
+> **The hack is complete when possession becomes its own proof.**
+
+The source establishes a transmitted authorization story and its internal
+sequence.
+It does not by itself establish the event's independent historicity, population
+prevalence, or every Muslim carrier's relation to command.
+Those limits preserve the source layer; they do not undo the mechanism exhibited
+by the report as received and used.
+
+##### Islam as representative rather than exception
+
+Within the conditional Christian theology, this Islamic application is the
+sharpest developed representative of a wider sacrificial-religion hypothesis.
+Egyptian, Greek, Norse, and other mythological orders can also be interpreted as
+satanic hacks where a god or sacred collective occupies human receptivity to
+transcendent address, converts submission or sacrifice into proof, and consumes
+persons for divine or collective continuation.
+The theological class is broad and intentionally asymmetric with the
+Incarnation-and-Cross pattern.
+The historical mechanisms are not presumed identical: each case still requires
+its particular texts, cult, institutions, victims, commands, and enforcement
+route to be shown.
+
+Christian institutions can enter the same sacrificial family when they reverse
+their own pattern, as the [Catherine of Siena stress
+test](#0040-mythology-construction-semantic-definition--catherine-of-siena-and-sacralized-expansion)
+illustrates.
+That is capture of Christianity by the hack, not a reason to flatten the
+theological difference between a God who gives himself for persons and a sacred
+order that gives persons for itself.
+
 <a id="0060-culture-program-ecology-semantic-definition--fanatic-offspring-as-an-indicator"></a>
 
 ### 7.2 Fanatic offspring as an indicator {#0060-culture-program-ecology-semantic-definition--fanatic-offspring-as-an-indicator}
@@ -41962,6 +46514,199 @@ Relevant units include:
 - cultural output.
 
 Causal attribution fails when these units are silently exchanged.
+
+<a id="0060-culture-program-ecology-semantic-definition--culture-propagator-programme-ecology"></a>
+
+#### Culture-propagator programme ecology {#0060-culture-program-ecology-semantic-definition--culture-propagator-programme-ecology}
+
+The [culture
+propagator](#0010-culture-mechanics-semantic-definition--culture-propagator-and-dynamic-evolution)
+defines the general state-transition architecture. Culture Program Ecology owns
+its programme-level specialization: which load-bearing relations preserve or
+change programme identity, how programmes reproduce through carrying structures,
+what they generate under stress and succession, how an incumbent becomes
+captured, and how ordinary or strategic forcing enters those transitions.
+
+##### Question-relative programme quotients
+
+No single equivalence relation answers every programme question. At least four
+quotients must remain distinct:
+
+| Quotient | Preserved relation | Question answered |
+|---|---|---|
+| **Genealogical quotient** | Descent, textual inheritance, organizations, teachers, transmission, and acknowledged lineage | Is this programme historically descended from another? |
+| **Programme-identity quotient** | Load-bearing generator, person--programme relation, final authority, jurisdiction, correction, reproduction, and defeat rules | Is this operatively the same programme under another presentation? |
+| **Hazard quotient** | Coercive capability, correction closure, power concentration, target production, and characteristic failure paths | Does it instantiate the same kind of constitutional danger? |
+| **Offspring-causation quotient** | Mechanisms causally implicated in recurrent descendants or implementations | Which findings remain attached to the preserved mechanism? |
+
+A name, symbol, vocabulary, membership boundary, or declared doctrine can change
+without breaking programme identity where the load-bearing generator and its
+authority, jurisdiction, correction, and reproduction relations remain
+operative. Conversely, familiar names and institutions can remain while an
+incompatible successor governs consequential choice, correction, and succession.
+One shared hazardous feature does not establish genealogy or complete programme
+identity, and genealogical descent does not establish present hazard.
+
+The wrapper can be irrelevant to a narrow programme-identity quotient and still
+be indispensable to the full propagator. Language, ritual, aesthetic form,
+historical memory, institutional prestige, or a benevolent moral vocabulary can
+alter trust, access, adoption, resistance, and the transition path even when the
+operative core would receive the same identity classification. Identity
+invariance can therefore coexist with dynamical novelty.
+
+A compact programme-state decomposition is:
+
+$$
+\bigl([P]_{\mathrm{op}},\omega_t,e_t\bigr),
+$$
+
+where $[P]_{\mathrm{op}}$ is the operative programme class, $\omega_t$ its
+current wrapper or interface, and $e_t$ the receiving environment. The
+decomposition prevents two opposite errors: treating a new wrapper as proof of a
+new programme, or discarding a wrapper that materially changes access,
+resistance, coalition, and trajectory merely because the operative core remains
+invariant.
+
+Changed presentation does not reset an established operational history where
+the load-bearing mechanisms remain. Conversely, ancestry or resemblance does not
+override demonstrated invariant-breaking in actual operation. A valid change
+point requires implemented changes in authority, correction, opposition,
+succession, and the causal paths that generated the relevant offspring. Strong
+tests ask whether power or evidence custody changed, whether a serious outsider
+can invoke the new protection against its authors, and whether that protection
+survives crisis, adverse use, and succession.
+
+The general compatibility rule remains controlling: apparently equivalent
+programme states can be quotiented only when the discarded distinction does not
+change the relevant successor relation under matched conditions. Stress, refusal,
+failure, emergency, bounded defeat, change of power, and succession are important
+tests because surface-equivalent programmes can reveal different transition
+rules there.
+
+##### Transition signatures and graded offspring inheritance
+
+A **transition signature** is the patterned way a programme changes or preserves
+its load-bearing relations across specified pressures. Relevant observations
+include what happens when it is weak or powerful, criticized or obeyed, materially
+successful or failing, defeated in a bounded procedure, denied one jurisdiction,
+required to protect an outsider, or handed to a successor generation.
+
+Offspring findings therefore attach by preserved mechanism rather than by name
+alone:
+
+```text
+same operative programme class
+→ inherit the programme's offspring record as defeasible programme evidence
+
+partial mutation with preserved causal mechanism
+→ inherit the findings attached to that mechanism
+
+implemented and durable invariant-breaking successor
+→ no automatic operative identity with the parent
+  while ancestry remains a warning and comparison source
+
+unrelated programme with equivalent hazardous operation
+→ diagnose the present hazard
+  without inventing genealogy or inherited guilt
+```
+
+This rule prevents renaming from laundering preserved machinery while also
+preventing one shared authoritarian, sacrificial, or correction-closing feature
+from collapsing distinct programmes, histories, and responsibilities into one
+identity. Persons do not inherit programme guilt by association, ancestry,
+membership label, or downstream carriage.
+
+##### Forcing surfaces and adversarial specialization
+
+An input can enter the programme ecology through several distinct transition
+surfaces:
+
+- classifications, expectations, person-types, threats, duties, and represented
+  possible futures;
+- trusted routing, common-knowledge signals, prestige, and collective-field
+  reward or sanction;
+- the cost and survival of bridge persons, counterfields, and independent
+  associations;
+- appointment, refusal, resource, enforcement, and succession rules;
+- measurement categories, denominators, access, record custody, and public
+  summaries;
+- correction, appeal, adjudication, and implementation of adverse findings; and
+- jurisdiction, interdependence, and allocation of compulsory common outputs.
+
+These surfaces are leverage points of the general propagator, not evidence that
+an actor has deliberately used them. A transition need not begin by persuading a
+majority. Altering enough high-leverage relations can prevent the incumbent
+configuration from reproducing; later participants can then adapt sincerely and
+locally rationally to changed routing, incentives, roles, institutions, and
+correction paths.
+
+**Adversarial reflexive attractor steering** is the specialized hypothesis that
+an actor deliberately targets one or more such surfaces so that the system's own
+decentralized interpretations and responses help produce a strategically useful
+transition. In the general notation it is an adversarial input
+$u_t^{\mathrm{adv}}$, not a different propagator:
+
+$$
+z_{t+1}=T_{\theta_t}(z_t;u_t^{\mathrm{adv}},\varepsilon_t).
+$$
+
+The threat model identifies a capability and pathway, not its use. An applied
+steering claim requires a specified actor, relevant access, selected input,
+temporal nexus, evidence that the mechanism was anticipated or knowingly
+exploited, and material causal contribution. It must compare sincere endogenous
+development, common shock, declared reform, commercial or bureaucratic
+selection, opportunistic adaptation, implementation lag, and other serious
+rivals. Downstream participants do not inherit the alleged initiator's knowledge,
+objective, coordination, or guilt merely by carrying the resulting pattern.
+
+Steering denotes directional leverage rather than exact endpoint control. An
+input can fail, decay, overshoot, strengthen the rival, damage its initiator, or
+help generate an unanticipated third regime. A capable actor can also aim at a
+transition region, greater conflict, institutional exhaustion, or reduced
+recovery capacity rather than one fully specified successor. Those strategic
+possibilities remain separate from evidence of what a named actor intended or
+achieved.
+
+Culture Program capture is one possible transition outcome, not a synonym for
+forcing, steering, reform, policy change, or personnel turnover. Capture occurs
+only where an incompatible successor redirects enough authority, classification,
+resources, formation, appointment, metrics, correction, jurisdiction, and
+succession to install and reproduce itself through inherited machinery. Capture
+can arise without an external director; evidence of capture does not complete the
+adversarial-steering attribution.
+
+Persistence after an input ends can reflect retained relationships, roles,
+endowments, categories, sanctions, sunk costs, damaged bridges, learned
+expectations, succession, or independent continuing causes. The analysis must
+distinguish ordinary inertia, adaptation, lock-in, remanence, and hysteresis
+rather than treating every durable effect as proof of successful steering. The
+[micro-imposition and precedent
+ratchet](#0060-culture-program-ecology-semantic-definition--micro-imposition-and-precedent-ratchet), [carrying
+structure](#0060-culture-program-ecology-semantic-definition--culture-program-carrying-structure), [capture
+definition](#0060-culture-program-ecology-semantic-definition--culture-program-capture), and [staged attribution
+protocol](#0060-culture-program-ecology-semantic-definition--riecks-razor-and-the-investigative-presumption-of-intent) supply the
+more specific tests.
+
+A generic **incremental institutional ratchet** can convert a temporary state
+change into a slower change of the effective transition architecture:
+
+```text
+provisional accommodation or emergency response
+→ incorporation into guidance, forms, training, metrics, or appointments
+→ later decisions treat the incorporation as precedent
+→ refusal costs rise while the initiating justification recedes
+→ the temporary interpretation becomes administrative memory
+→ reversal requires coordinated institutional change
+```
+
+Each step can be locally intelligible and no participant need intend the
+cumulative endpoint. The stronger ratchet finding requires a sequence that
+changes baseline, custody, precedent, or refusal cost; one accommodation, uniform
+rule, or durable benefit does not establish it. Versioned reasons, scope change,
+reciprocity, reversibility, actual outcomes, and whether adverse experience can
+narrow or repeal the rule discriminate it from ordinary adaptation and beneficial
+standardization. Micro-imposition is one possible boundary-changing subtype, not
+the definition of the generic ratchet.
 
 <a id="0060-culture-program-ecology-semantic-definition--cultural-self-maintenance-and-defence"></a>
 
@@ -44155,7 +48900,9 @@ originating claim.
 
 ## 13. Pluralistic classical liberalism as the proposed solution
 
-### 13.1 Not neutrality and not an empty slot
+<a id="0060-culture-program-ecology-semantic-definition--not-neutrality-and-not-an-empty-slot"></a>
+
+### 13.1 Not neutrality and not an empty slot {#0060-culture-program-ecology-semantic-definition--not-neutrality-and-not-an-empty-slot}
 
 Pluralism is not the absence of culture, weak commitment, or a vacant bigOther.
 It is proposed as a **lifted Culture Strategy**: a fully installed meta-order
@@ -44194,6 +48941,54 @@ The semantic core is:
 This is a normative commitment of the proposed containment strategy. It is not a
 neutral fact or proof that every existing liberal institution serves it.
 
+The corresponding equality claim attaches first to concrete persons, not to
+every Culture Program they may carry:
+
+| Question | Position of the proposed lifted order |
+|---|---|
+| **Do persons possess equal basic standing?** | Yes. Standing belongs completely to each concrete living human bearer and is not conditional upon the truth, value, popularity, or official recognition of the person's worldview. |
+| **Are all Culture Programs equally true or reality-answerable?** | No. Their factual and causal claims remain answerable to evidence, consequence, comparison, and correction. Social mediation does not make every account equally fitting. |
+| **Are all Culture Programs equally person-preserving, life-supporting, capability-producing, or corrigible?** | No. These are explicit normative and functional tests; ancestry, sincere belief, popularity, and cultural survival do not settle them. |
+| **Do all Culture Programs possess an equal claim to public trust or coercive jurisdiction?** | No. Entrusted power depends upon bounded jurisdiction, reciprocal standing, demonstrated compatibility, correction, and due process rather than equal human dignity alone. |
+| **May persons nevertheless hold, discuss, and voluntarily associate around programmes the lifted order judges false or illiberal?** | Presumptively yes under ordinary rights and law. Refusal to grant a programme coequal governing authority does not erase its carriers' person-level standing or automatically authorize suppression. |
+
+Culture Mechanics therefore rejects the slogan **“all cultures are equal”**
+when it means equal truth, equal normative direction, equal institutional trust,
+or equal entitlement to compulsory jurisdiction.
+It simultaneously rejects the inverse move from an adverse programme judgment
+to unequal human standing, inherited guilt, or unrestricted state action against
+its carriers.
+
+The project normatively prioritizes a person-centred Humanist--liberal Culture
+Strategy whose implementations are audited as person-preserving,
+life-supporting, capability-producing, reality-answerable, and corrigible.
+Durkheimian moral individualism and Humanity supply an important source bridge
+for the standing of the person; this five-part audit and the present pluralist
+architecture are project-developed selections rather than Durkheim's own
+complete doctrine or a verdict issued by reality without a normative premise.
+They remain open to criticism, comparison, operationalization, and replacement
+by a more adequate person-preserving design.
+
+The first-order freedom created by this order is broad but not unbounded.
+The shared generator admits many religions, moral outlooks, communities, and
+ways of life as bounded packages while refusing to generate their claim to
+compulsory supremacy over non-adherents.
+A programme may therefore remain protected as belief, speech, worship, or
+voluntary association without qualifying as a coequal governor of the common
+shell.
+Where a programme rejects reciprocal person-standing, effective refusal or
+exit, reality-answerable adjudication, or correction, the conflict concerns
+compatibility with the lifted order rather than cultural difference as such.
+
+Such incompatibility does not by itself establish a self-sealing epistemic
+enclosure, Lonerganian flight from insight, Voegelinian Second Reality,
+un-reason, un-reality, or Babelization.
+Those mechanisms require their separate evidence.
+When they are established, however, they can explain how an incompatible
+programme prevents adverse experience from correcting its claims and how the
+resulting inter-milieu collision becomes resistant to translation and common
+adjudication.
+
 <a id="0060-culture-program-ecology-semantic-definition--democracy-as-schutzbalken-gegen-die-macht"></a>
 
 #### 13.2.1 Democracy as *Schutzbalken gegen die Macht* {#0060-culture-program-ecology-semantic-definition--democracy-as-schutzbalken-gegen-die-macht}
@@ -44218,6 +49013,19 @@ definitions, dashboard mapping, and claim that familiar electoral machinery is a
 derived implementation are the Culture Mechanics reconstruction developed from
 the user's proposal. They should not be presented as verbatim statements by
 Mausfeld without further textual review.
+
+Democratic containment also depends upon the
+[**demos--jurisdiction--consequence congruence**](#0030-epistemic-constitution-semantic-definition--democratic-demos-jurisdiction-consequence-congruence)
+specified by the me--we--world correction relation.
+The people who recognize one another as continuing political co-authors, the
+persons and domains bound by a decision, and the community that bears its
+consequences and can make them corrective must overlap sufficiently for
+democracy to function as more than temporary majority authorization.
+The originating territorial intuition remains useful—democracy works best when
+the territorial scope of binding decisions maps sufficiently well onto a living
+political-cultural *we*—but **jurisdiction** is the general design variable.
+Federalism, subsidiarity, functional autonomy, and soft secession can change who
+decides what without moving state borders.
 
 The reconstructed hierarchy is:
 
@@ -45715,6 +50523,79 @@ A merely written constitution is insufficient if carriers socialized in a
 first-order program cannot recognize the lifted order as culture, ignore its
 limits, or seek to supersede it with their own comprehensive answers.
 
+<a id="0060-culture-program-ecology-semantic-definition--order-level-culture-recognition-asymmetry"></a>
+
+#### Order-level culture-recognition asymmetry {#0060-culture-program-ecology-semantic-definition--order-level-culture-recognition-asymmetry}
+
+**Order-level culture-recognition asymmetry** is the proposed condition in which
+participants formed within different order levels do not use the same cues to
+recognize that a culture is present and binding.
+A participant formed mainly through first-order solidarity may learn to detect
+culture through a dense shared catalogue of concrete answers: sacred history,
+ritual, dress, food, taboo, family form, explicit authority, honoured exemplars,
+and recognizable friends and enemies.
+A lifted order instead locates much of its common binding force in a compressed
+generator governing reciprocal standing, bounded jurisdiction, lawful refusal,
+legitimate opposition, peaceful succession, evidence, and correction.
+
+Its characteristic culture therefore becomes most visible at interfaces:
+
+- the winner refrains from making victory permanent;
+- the loser remains a legitimate member of the order;
+- a person may refuse family, religious, economic, or political authority within
+  the protected jurisdiction;
+- an officeholder remains answerable to rules that also bind allies;
+- an adverse fact or judgment can correct the common answer without making its
+  bearer an enemy;
+- different first-order packages coexist without any receiving compulsory
+  jurisdiction over the others.
+
+Because these manifestations are more procedural, relational, and
+situation-dependent than a shared catalogue of first-order prescriptions, the
+lifted order can be interpreted as cultural emptiness, moral indecision, mere
+bureaucracy, decadent permissiveness, or weakness.
+The asymmetry arises when the lifted host readily recognizes an incoming
+first-order package as culture and treats some of its products as permissible
+hypercultural options, while the first-order participant does not recognize the
+host generator as a culture with legitimate jurisdiction.
+Tolerance can then be read as absence of conviction or as temporary permission
+to be used until one's own programme can become the comprehensive order.
+
+The hypercultural fragment and its source programme must remain separate.
+Selecting another culture's food, music, garment, story, craft, or practice under
+the lifted umbrella does not install that culture's whole mythology, authority
+structure, or claim to govern non-adherents.
+Conversely, treating a comprehensive first-order programme as a collection of
+optional lifestyle pieces can hide the programme's own account of obligation and
+jurisdiction.
+
+Three different diagnoses must therefore be distinguished:
+
+1. **Operative but misrecognized lifted culture:** the generator is affectively,
+   institutionally, and behaviourally reproduced, but the observer's learned
+   recognition template does not classify it as culture.
+2. **Nominal or dead lifted order:** rights and procedures remain on paper while
+   formation, impartial enactment, refusal, succession, and correction no longer
+   make them living and binding.
+3. **Recognized but rejected lifted order:** a participant understands the
+   meta-order and may use its protections instrumentally while refusing its
+   reciprocal limits or seeking to supersede it.
+
+Visible first-order symbolism cannot distinguish these cases.
+Tests must examine conduct across novel collision points, especially when the
+person's own side possesses power, loses a contest, encounters protected refusal,
+or faces adverse evidence.
+The lifted order must also reproduce itself through stories, exemplars, practice,
+institutions, rewards, sanctions, and lived correction; legal abstraction alone
+does not teach why restraint under possible victory is honourable.
+
+**Status:** this is a proposed recognition and formation mechanism, not a
+population essence or a migration verdict.
+Native-born participants can lack lifted-order competence, migrants can already
+possess it, and either can learn, reject, simulate, or lose it.
+The migration-sensitive population dynamic belongs to the
+[culture-mixing and Babelization mechanism](#0040-mythology-construction-semantic-definition--culture-mixing-as-one-breakdown-mechanism).
+
 ### 13.4 Compatibility with subordinate programs
 
 The frequently repeated claim that the United States Constitution presupposes a
@@ -46750,6 +51631,10 @@ current policy configuration
 → correction, reversal, or next update
 ```
 
+The loop produces [***Bewährung* through corrigible reality contact**](#0030-epistemic-constitution-semantic-definition--bewaehrung-through-corrigible-reality-contact), not merely persistence, only where materially varied exposure can generate preserved adverse signals, affected persons and rival accounts retain correction standing, and failure can actually produce revision, rollback, or abandonment.
+Time enlarges the possible test history but does not prove that these conditions operated.
+The fallibilist mnemonic “wir irren uns empor” names cumulative learning through corrected error, not a guarantee that every iteration rises, that the current policy is true, or that practical viability establishes moral legitimacy.
+
 The literal machine-learning algorithm presupposes mathematical properties that
 societies ordinarily lack: a specified loss function, a parameterized search
 space, repeated samples, an estimable gradient, and sufficiently stable causal
@@ -47164,6 +52049,25 @@ not supply the terms **soft secession**, **reversed legal priority**, the
 Landkreis experimental topology, the SGD comparison, or the capture-resistance
 mechanism developed here.
 
+The present translation also serves the
+[demos--jurisdiction--consequence congruence](#0030-epistemic-constitution-semantic-definition--democratic-demos-jurisdiction-consequence-congruence)
+required for democratic correction.
+It can move a binding first-order decision toward the living cultural *we*
+capable of carrying disagreement and bounded defeat while leaving the common
+lifted shell responsible for person-standing, movement, appeal, peaceful
+succession, infrastructure, and cross-jurisdictional consequences.
+The aim is not exact identity among people, territory, and law.
+It is closer functional alignment among political co-authorship, the scope of
+compulsory decision, and the community whose experience must be able to correct
+that decision.
+In the controlled [cultural-mitosis and jurisdictional-cytokinesis
+image](#0050-culture-mechanics-analogies-semantic-inventory--cultural-mitosis-and-jurisdictional-cytokinesis),
+federalism, subsidiarity, functional autonomy, and soft secession can perform
+**partial jurisdictional cytokinesis**: selected compulsory decisions are
+separated without necessarily dividing territory or dissolving the lifted common
+shell. The image does not imply literal biology, require prior cultural fission,
+or make jurisdictional differentiation the right response to every disagreement.
+
 #### 13.11.2 A “stroke of the pen” legal translation
 
 Parallel policy learning requires genuine alternative arrangements. If every
@@ -47294,6 +52198,14 @@ The fork requires all of the following at the relevant decision interface:
 - one common output is nevertheless required under the existing jurisdiction;
 - voluntary agreement, translation, and correction have failed or cannot arrive
   before the decision must be made.
+
+[Cultural-epistemic
+fission](#0040-mythology-construction-semantic-definition--cultural-epistemic-fission)
+is one route toward this conjunction, not another name for it. Two or more
+separately reproducing cloud--eye ecologies can remain interoperable and accept a
+common judge. The fork arises only where their continued jurisdictional
+non-separation also leaves an unavoidable binding output after mutually legitimate
+adjudication has failed.
 
 Before declaring that this conjunction holds, test whether the actor's
 acknowledgment has merely been mistaken for the only correction route. [**Bounded
@@ -48189,15 +53101,22 @@ and neither official nor hostile use of *fascist* establishes one.
 **Proposed contribution:** hard case for parent-versus-descendant attribution,
 fatal-offspring comparison, reformability, deceptive self-limitation, and burden
 under requested power.  
-**Current status:** charged application hypothesis requiring dedicated primary
-and comparative source review. The present module does not establish its factual
-premises or classify every Muslim carrier, community, institution, state,
-tradition, or interpretation alike.  
-**Required evidence:** Qur'anic and hadith source criticism, prophetic biography,
-jurisprudential traditions, variation across schools and periods, political and
-geopolitical causes, terrorism data and denominators, reform movements, treatment
-of dissent and apostasy, institutions under both minority and majority
-conditions, and comparisons with other programs.  
+**Current status:** differentiated application. The [canonical-classical
+apostasy-death
+configuration](#0060-culture-program-ecology-semantic-definition--theological-interpretation-canonical-classical-apostasy-law-and-the-satanic-hack-classification)
+is now source-layered and classified under the conditional Christian theological
+model. The wider parent-level claim about Islam, jihad, recurrent terrorism, and
+resistance to reform remains an application hypothesis whose further factual and
+comparative gates are not discharged by the apostasy finding alone. Neither level
+classifies every Muslim carrier, community, institution, state, tradition, or
+interpretation alike.
+**Required evidence for the wider claim:** Qur'anic and hadith source criticism,
+prophetic biography, jurisprudential traditions, variation across schools and
+periods, political and geopolitical causes, terrorism data and denominators,
+reform movements, institutions under both minority and majority conditions, and
+comparisons with other programmes. The completed apostasy-law analysis must be
+carried into that review as evidence rather than reset to an unexamined
+controversy.
 **Self-attribution test:** when perpetrators seriously proclaim Islamic
 authorization, believe the proclamation first as evidence of their own operative
 allegiance and treat it as an immediate program-level warning rather than
@@ -49783,6 +54702,21 @@ Every serious program-level application should state:
     remedy fit, advertised object, operative object, causal predictions, feedback,
     failure conditions, and stop rules; and any actor-specific evidence of error,
     fabrication, concealment, pretext, or objective substitution.
+43. where a propagator claim is material: the declared population, programme,
+    jurisdiction, interface, period, and outcome; which variables are treated as
+    state, slow parameter, input, disturbance, and observation; the proposed
+    quotient and preserved invariants; and whether apparently equivalent states
+    have equivalent successors under matched conditions;
+44. the temporal handoffs from representation through persons, field,
+    institution, consequence, sensing, correction, and memory; pre-intervention
+    baselines; source provenance; feedback sign, delay, threshold, bottleneck,
+    saturation, asymmetry, and serious rival generative explanations; and
+45. where persistence or steering is alleged: evidence that the initiating input
+    was removed or varied, the observation period relative to relevant formative
+    and institutional timescales, what persisted, what reversal required, and the
+    separate evidence for actor, access, selected input, temporal nexus,
+    anticipated or knowingly exploited mechanism, and material causal
+    contribution.
 
 ### 16.2 Core Program Alignment Audit
 
@@ -50659,7 +55593,11 @@ the causal claim.
 24. **Cultural WMD is an analogy, not a weapon or legal verdict.**
 25. **Failure to earn political trust is not loss of ordinary person-level
     rights.**
-26. **Pluralism is a normative Culture Strategy and can fail.**
+26. **Pluralism is a normative Culture Strategy and can fail.** Equal basic
+    standing belongs to concrete persons, not automatically to every Culture
+    Program's truth claims, normative direction, entrusted authority, or demand
+    for coercive jurisdiction. An adverse programme judgment does not cancel its
+    carriers' person-level rights.
 27. **Market success is evidence, not truth.**
 28. **Public contest is not a substitute for empirical reality or due process.**
 29. **Sublimation can serve destructive ends.**
@@ -51171,6 +56109,22 @@ the causal claim.
      anti-establishment, or elite do not establish renewable identity, grievance
      institutional convertibility, organic mendacity, Ideology, ressentiment, or
      death-drive orientation.
+147. **Bounded enlistment is not moral innocence.** A limited and reversible
+     We-mode can serve rescue, production, defence, domination, or error; its
+     boundedness protects authorship and correction but does not settle the end.
+148. **Exit cost is not automatically exit sovereignty.** Lost association,
+     disappointment, relocation cost, completed contractual duties, protection
+     of third parties, and lawful public obligations require separate treatment.
+     The sovereignty finding concerns a continuing claim over the leaver as a
+     person, not every consequence of departure.
+149. **Costly sacrifice is neither proof nor disproof of truth.** The
+     sacrificial-proof classification requires the additional audience and
+     authority-renewal loop; courage, protection, coercion, desperation, love,
+     status signalling, and strategic commitment remain rivals.
+150. **The generic mechanism does not classify a religion, law, or historical
+     case.** Doctrinal texts, interpretive authority, jurisprudence, historical
+     enforcement, present law and practice, reforms, actor attribution, and rival
+     explanations must remain differentiated in any later application.
 
 ## 18. Open questions and research program
 
@@ -51695,6 +56649,17 @@ the causal claim.
 172. When does an epistemic join remain corrigible collective reindexing, when
      does it contribute to a successor-bearing cultural nucleus, and which
      independent-evidence and false-coherence tests discriminate the transition?
+173. Which observable exit responses distinguish grief, loss of voluntary
+     association, and lawful residual obligation from a programme's claim to
+     continuing sovereignty over the leaver?
+174. Which audience, authority, recurrence, and cost-escalation measures can
+     distinguish ordinary costly commitment from a sacrificial proof loop?
+175. Does the exercise of costly obedience increase confidence in a programme
+     independently of evidence about its claims, and under which carrier
+     topologies is that transfer strongest?
+176. Which institutional forms make collective authority genuinely interruptible
+     by one harmed person, an outsider, conscience, contrary consequence,
+     refusal, or legitimate defeat rather than merely declaring those limits?
 
 ## 19. Provenance and epistemic status
 
@@ -51712,6 +56677,41 @@ The terminology migration and integrated construct were developed through
 separate, unpublished project discussions. Their adopted formulation is stated
 here; those development records are historical provenance, not a second
 authority for readers.
+The culture-propagator programme projection, its separation of genealogical,
+programme-identity, hazard, and offspring-causation quotients, programme
+state decomposition, transition signatures, graded inheritance and change-point
+rules, transition-surface inventory, the generic
+incremental-institutional-ratchet relation, and
+adversarial-reflexive-attractor-steering specialization are project-developed
+formulations. The general propagator is owned by *Culture Mechanics*; this
+document owns only their programme-ecology use. The adversarial specialization
+states a threat capability and attribution gate, not evidence that a named actor
+used it.
+The later theory-development discussion supplied bounded enlistment,
+self-subordinating collective authority, the exit-sovereignty test,
+sacrificial boundary repair, the sacrificial proof loop, and double sacrifice.
+Their generic definitions are integrated here as project constructions.
+The later source-sensitive review integrated the conditional Christian
+satanic-hack interpretation and its canonical-classical Islamic apostasy-law
+application.
+*Sahih al-Bukhari* 6922 and *Sahih Muslim* 1676c supply the canonical Sunni text
+layer; the Oxford overview and the Yaqeen discussion supply convergent evidence
+about the classical juristic consensus; the USCIRF compendium supplies the cited
+contemporary primary-law survey; IslamQA supplies the stated contemporary
+conservative articulation; Qur'an 2:256 and Dar al-Ifta supply the internal
+reformist route.
+The historical-enforcement layer remains explicitly incomplete and is not
+inferred from doctrine or contemporary law.
+The conclusion that the specified canonical-classical juridical configuration
+instantiates the satanic hack is the project's conditional theological
+classification, not language used by those sources.
+Michael Lecker's presentation of the Ibn Isḥāq/Ibn Hishām Muḥayyiṣa report
+supplies the transmitted narrative; the sacrificial-proof-loop reading and the
+formulation that possession becomes its own proof are Culture Mechanics
+interpretations.
+The wider Egyptian, Greek, Norse, and other sacrificial-religion class is a
+comparative Christian theological hypothesis whose particular historical
+instances require tradition-specific evidence.
 The originating user supplied the counter-movement maxim; the claim that
 consequential joint practice can create the codebook overlap required for
 half-sentence coordination; the narrower intergenerational, bundled, and
@@ -56282,6 +61282,44 @@ Culture Program
 └── Culture Strategy
     └── Culture-Embedded Strategy
 
+culture-propagator programme projection
+→ declare genealogical, programme-identity, hazard, or offspring-causation quotient
+→ test load-bearing generator, authority, jurisdiction, correction, reproduction,
+  defeat, and succession under specified stress
+→ trace carrying-structure and offspring transitions through time
+≠ shared name, ancestry, surface wrapper, or one hazard establishes complete identity
+
+ordinary endogenous evolution, exogenous shock, declared reform,
+opportunistic exploitation, and adversarial reflexive attractor steering
+→ distinct forcing regimes within one propagator
+→ capture is one possible outcome, not a synonym for intervention or steering
+→ actor-specific steering requires actor + access + selected input + temporal nexus
+  + anticipated or knowingly exploited mechanism + material causal contribution
+≠ pathway proves use, system transition proves director, or downstream carriage
+  transmits intent and guilt
+
+equal basic standing of concrete persons
+≠ equal truth or reality-answerability of every Culture Program
+≠ equal person-preservation, life support, capability production, or corrigibility
+≠ equal entitlement to public trust or coercive jurisdiction
+
+person-centred Humanist--liberal lifted Culture Strategy
+→ project-prioritized normative proposal
+→ person-preserving + life-supporting + capability-producing
+  + reality-answerable + corrigible
+→ broad but bounded first-order freedom
+≠ cultureless neutrality, automatic suppression, or an impartial verdict supplied by reality alone
+
+order-level culture-recognition asymmetry
+→ first-order commonality is learned as the visible template for culture
+→ a compressed lifted generator can be misrecognized as cultural emptiness
+≠ proof that the host order is living rather than merely written
+≠ proof that the observer cannot learn or already rejects the lifted order
+
+hypercultural adoption of a cultural element
+≠ installation of its source programme
+≠ authorization of the source programme's claim to compulsory jurisdiction
+
 ideological generator
 → can exist before sufficient installation
 
@@ -56323,6 +61361,47 @@ carrier topology
 → ecology-specific operative configuration
 → a weak average can coexist with a strongly animated high-gain carrier stratum
 ≠ church, sect, network, profession, private, ideological, or fundamentalist are synonyms
+
+bounded enlistment
+→ task- and jurisdiction-limited We-mode
++ personal conscience, outsider standing, refusal, correction, and return remain available
+→ possible disciplined common action without comprehensive ownership
+
+self-subordinating collective authority
+→ harmed person, outsider, conscience, reality, lawful refusal, and legitimate defeat can interrupt
+→ programme continuation and expansion are not the supreme good
+
+exit-sovereignty test
+→ ask what authority the programme claims after repudiation or departure
+→ distinguish ordinary exit costs and lawful obligations from coercive retention
+  and claimed disposal authority
+
+defection, contradiction, defeat, or visible corrigibility threatens an absolute boundary
+→ boundary sacrifice restores the boundary and displays programme supremacy
+→ displayed power is interpreted as truth or authority
+→ sacrificial proof loop
+≠ costly commitment establishes truth, goodness, jurisdiction, or subjecthood absorption
+
+victim sacrificed to preserve programme boundary
++ executor yields personal authorship to the programme
+→ possible double sacrifice
+≠ perverse instrumentality and sacrifice-as-proof are identical
+
+[conditional Christian theological application]
+canonical Sunni apostasy texts
++ classical juristic death rule
++ recantation restores protection
+→ submission and prohibited exit operate as sovereignty test
+→ persisting apostate becomes disposable for sacred boundary repair
+→ canonical-classical juridical configuration instantiates satanic hack
+≠ historical enforcement frequency, contemporary uniformity, or every Muslim's assent
+
+Muḥayyiṣa report:
+sacred command defeats personal bond
+→ observed possession displays superpersonal power
+→ power over carrier is read as proof of divine truth
+→ conversion and renewed field authority
+→ possession becomes its own proof
 
 strategic Culture Program concealment
 → knowingly suppress or falsify allegiance, authorization, intention,
