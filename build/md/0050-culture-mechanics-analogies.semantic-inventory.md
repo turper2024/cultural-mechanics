@@ -90,6 +90,7 @@ The inventory uses three inclusion levels:
 | Wireless collar, Wi-Fi, and repeater gain | Network | Social coupling, unequal gain, and aggregate amplification | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md) and [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md) | Distinguishes the amplification dimension of trusted opinion leadership from synchronized crowd or infrastructural gain | Radio range is not social authority, truth, or influence in one scalar; *repeater* is an analogy, not a separate person-type |
 | Epistemic cloud and all-seeing eye | Atmospheric and visual | Distributed epistemic formation versus agentified second-person judgment | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#collective-epistemic-formation), [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#me-we-world-correction-relation), and this inventory | Separates the cloud-like milieu of concepts, methods, records, and tools from bigOther-as-Thou as an experienced gaze of approval or condemnation | Neither cloud nor eye is a collective brain, third processor, literal watcher, proof of surveillance, or sufficient evidence of a multi-mind-self, un-reason, or un-reality |
 | Propagator, quotient space, attractor landscape, and hysteresis | Mathematics, physics, and dynamical systems | Scale-declared cultural state transition, question-relative equivalence, reproducible regimes, transition proximity, path dependence, and asymmetric reversal | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md#culture-propagator-and-dynamic-evolution) and this inventory | Forces explicit state, memory, input, disturbance, observation, quotient, transition, and reversal declarations while distinguishing ordinary persistence from remanence, lock-in, and hysteresis | No universal social differential equation, wavefunction, conserved cultural energy, fixed potential landscape, measured basin, deterministic trajectory, truth from stability, or intent from transition |
+| Ishihara plates and operational discrimination | Visual and diagnostic | Exposure, vocabulary, selective inhibition, acquisition, performance, and transfer as distinct evidential questions | [*Epistemic Agency under Mechanical Solidarity*](0020-epistemic-agency.semantic-definition.md#higher-order-culture-program-capacity-probe) and this inventory | Makes performance under structured contrast more informative than assent to a label and clarifies why selective loss and failure to acquire require different probes | Established colour-discrimination testing does not validate a cultural-capacity module, biological cause, heritability, ancestry inference, one-dimensional score, or person-level diagnosis |
 | Cultural mitosis and jurisdictional cytokinesis | Biological cell division | Cultural-epistemic fission, reciprocal divergence, and the possible separation of binding jurisdiction after one political-cultural *we* divides | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#cultural-epistemic-fission), [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#democratic-demos-jurisdiction-consequence-congruence), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#soft-secession-and-reversed-legal-priority), and this inventory | Distinguishes division of cloud--eye ecologies from the still-separate question whether one legal-political container also differentiates its compulsory jurisdictions | Cultural fission is uneven, overlapping, coupled, and reversible rather than literal cell division; neither cleavage nor fission proves Babelization, homogeneous daughter cultures, necessary secession, or biological inevitability |
 | Assembly language, SDK, and operating system | Computing | Cultural formation, reusable operations, and society-wide epistemic meta-order | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md) and [*Epistemic Constitution of Lifted Mechanical Solidarity*](0030-epistemic-constitution.semantic-definition.md) | Distinguishes installed state, reusable operations, visible outputs, and governing permissions | People are not passive machines; the constitution is not literal software or a state monopoly |
 | Systemic skeleton and living cultural body | Organismic and organizational anatomy | Mutually dependent institutional-operational structure and symbolic-affective animation of an operative Culture Program | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#systemic-skeleton-and-living-cultural-body) and this inventory | Explains why institutions without animate carriers become a paper order, why affective life without fitted systems remains fragile, and how affective-to-structural load transfer can lower per-node intensity while extending persistence, range, and activation-conditioned capacity | Not two Culture Programs, two bigOthers, institution versus individual, literal storage of affect, a physical inverse law between strength and range, or a test of truth or goodness |
@@ -103,9 +104,12 @@ The inventory uses three inclusion levels:
 | Favour-bank cloud | Cloud computing, banking, and distributed networks | Cultivation that creates implicit debt, brokers that route later return favours, hierarchical placement that creates new obligations, and locally intelligible acts that can aggregate without a complete participant map | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#favour-bank-cloud) and this inventory | Separates visible institutional interfaces, partly opaque dependencies, favour deposits, implicit balances, withdrawals, third-party routing, low-friction control surfaces, recursive placement, specific episodes, and system-level profiles | Neither cloud opacity, prestige, social density, ordinary reciprocity, nor a raw deterioration trace proves grooming, capture, one coordinator, a *Kommandoagent*, Shadow-Sovereign rule, conspiracy, or *Machtpolitik* |
 | Intermittent normativity and abusive relationship | Relational pattern | How genuinely lawful or beneficial episodes can both protect people and renew a benign global model that delays recognition of recurrent selective injury or arbitrariness | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#recognition-threshold-management-and-public-sleep) and this inventory | Makes the double function of genuine correction visible and motivates mixed-pattern, correction-depth, and institutional-independence audits | Does not diagnose trauma or traumatic bonding, prove intent, equate states with relationships, or establish a *Doppelstaat* from one injury, remedy, or alternation |
 | Pseudomorph and boundary-crossing transfer | Mineralogy, custody, and challenge--response | Pseudomorphic governor substitution plus the operational test that forces a difficult-to-inspect claim across an independently controlled boundary | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#pseudomorphic-governor-substitution), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#boundary-crossing-reality-challenges), and this inventory | Separates retained form from changed composition, and static self-description from transfer, succession, replication, appeal, handover, or capability performance that materializes hidden state | Institutions are not minerals; transfer failure establishes only the tested dependency or capability mismatch and does not by itself prove hostile capture, favour-bank operation, guilt, or intent |
+| Goldstein's book and the opposition sensor | Orwell's literary account of critical explanation within a Party-controlled trap | Truthful criticism can coexist with control of the route from recognition to association and action | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#oppositional-channel-capture) and [this inventory](#goldstein-book-and-opposition-sensor) | Separates content accuracy, channel custody, detection, containment, and diversion | Fiction, radical criticism, accurate insight, and failed action establish neither real-world capture nor independence |
 | Pied Piper (*Rattenfänger von Hameln*) and the Stolen Future | Folklore and temporal capability loss | An attractive immediate signal can synchronize movement while hiding the loss of judgment, practice, possible selves, and posterity | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#affective-return-to-uphill-development) and this inventory | Makes foreclosed flourishing emotionally visible and links spell-breaking to discriminating inquiry, return, capability, and the Guild of Builders | The Hamelin variants also contain the town's broken promise; the analogy proves neither one deceiver, innocent followers, capture, a bandit, nor causal attribution |
 | Lifted sublimation generator | Computing and control | Meta-rules selecting binding directions that formative practice turns into character and capability | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#the-lifted-sublimation-generator-pattern) | Separates generator kernel, affective actuation, formative architecture, and correction | An effective generator is not necessarily good, and a maxim does not train a capability by itself |
 | Nuclear reactor, sublimation, and un-reason | Nuclear engineering and control, with Pageau's Grail question as a service-direction bridge | Drive transformation, constructive capability, de-binding failure, destructive sublimation, reasoning that disables its own correction system, and the question of whom or what generated power serves | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#sublimation-and-moral-formation), [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason), and this inventory | Separates loss of mediation, successful conversion toward a destructive end, epistemic safety logic captured by a protected conclusion, and output direction | A person is not a reactor; drive is not nuclear fuel; Night and the Real are not energy stocks; reactors are not atomic bombs; sublimation and un-reason are not one mechanism; the service question does not prove one master, AI consciousness, or drive valence |
+| Accountability diode | Electronics and control | Asymmetric public-role transmission in which authority, decisions, commands, and burdens travel outward while evidence, promise-binding, contradiction, repair demands, and consequence are attenuated inward | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown), [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia), and this inventory | Separates retained execution from failed return-path answerability and directs audit toward receiver, adjudication, revision, repair, and consequence | Not a literal perfect blockade and no proof of design, coordination, incapacity, malingering, hidden principal, covert command, or *Kommandoagent* |
+| Adult--child interaction and paternalistic accountability shield | Interpersonal reciprocity | Audience-side withdrawal of ordinary adult accountability demands while an officeholder retains adult public authority | [*Culture Mechanics*](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown) and this inventory | Makes the shift from reciprocal demand toward pity, management, avoidance, or resignation visible | The officeholder is not literally a child; the analogy establishes no incapacity, diagnosis, diminished standing, or deliberate performance |
 | *The Emperor's New Clothes*, un-reality, procession inertia, and correction nullification | Literary tale and public-performance sequence | An authorized representation acquires operative public reality-status through a self-sealing competence test, status pressure, performed assent, and apparent consensus; public disclosure can break the consensus while institutional conduct continues, while a counterfactual non-acknowledging carrier clarifies correction nullification | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#un-reality-operative-reality-status-insulated-from-reality), [Andersen's tale](https://www.gutenberg.org/files/1597/1597-h/1597-h.htm), and this inventory | Separates false content, un-real reality-status, possible un-reason, systemic performance, speakability, reception, acknowledgment, and operative correction | One visible contradiction is not a universal model of technical inquiry; the tale does not prove conscious lying by every participant, one general conspiracy, a full systemic-lying constitution, or that speaking truth automatically changes institutions |
 | Iago: rival displacement and detector capture | Literary tragedy and role topology | A recognizable grievance can expand beyond its original object as a covert actor poisons trust, manufactures evidence of betrayal, appears as loyal detector, and recruits another person's force against the named rival | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#hidden-threat-detection-and-detector-capture), Shakespeare's [*Othello*](https://www.folger.edu/explore/shakespeares-works/othello/read/), and this inventory | Makes model-obstacle displacement, poison-and-accuse, guardian-role appropriation, and captured threat detection visible in one bounded fictional sequence | Iago supplies no empirical frequency, motive diagnosis, population class, proof of ressentiment, or evidence that a real accuser caused the harm they report |
 | Farming, reality-mediated education, and the secession-or-force fork | Agriculture, practical formation, and the Augsburg--Westphalia territorial settlement as a historical marker | Adult formation through voluntarily assumed reality feedback, public reason as non-coercive adjudication, the typed Pure-Ideology operative multi-mind-self at a severe-Babelization interface, and the choice between jurisdictional separation and imposed settlement | [*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#relation-to-cultural-interoperability-and-babelization), [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#the-severe-babelization-fork-secession-or-force), and this inventory | Connects “arguments can lose without persons being defeated” to the way negotiated coexistence and soft secession can reduce compulsory common decisions; one continuing shell plus separate territorial jurisdictions is a bounded structural analogy | Farmers are not automatically wise; Pure-Ideology and operative multi-mind-self status alone do not entail force; natural necessity is not person-directed force; pain, survival, and collapse are not truth or justice oracles; ruler-prescribed confession is not the project proposal; Westphalia is neither an origin myth nor an exact implementation; secession does not remove rights, externalities, coercion, or delayed feedback |
@@ -146,6 +150,7 @@ The inventory uses three inclusion levels:
 | Culture Hallucination | Artificial-intelligence and epistemic | Pure-Ideology Culture Programs whose load-bearing finality is protected from accessible defeat | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#controlled-use-of-culture-hallucination) and this inventory | Separates coherence, popularity, reproduction, and real effects from grounding and reality-answerability | Not a clinical hallucination, literal LLM identity, automatic falsity of every claim, or denial of carrier intelligence |
 | Cultural WMD | Security and catastrophic-risk | Culture Programs with potentially catastrophic, scalable, recurrent, persistent, and hard-to-reverse hazard profiles | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#cultural-wmd) and this inventory | Directs attention to proliferation, carrying structure, capability, offspring, containment, reversibility, and pre-use evidence | Not a literal weapon, legal category, collective guilt, proof of deliberate weaponization, automatic prohibition, or a way to evade person-level rights through infrastructure language |
 | Glacier / glacial capture | Geophysical change | Gradual Culture Program displacement through small changes that accumulate in metrics, appointments, interpretation, correction, formation, and succession | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#gradual-capture-and-the-glacier-analogy) and this inventory | Directs attention to temporal accumulation, threshold avoidance, changed baselines, and inherited successor machinery | Slow change is not proof of capture, hostile intent, external command, or pathology |
+| Phalanx--glacier democratic counter-power | Military-formation and geophysical images under a nonviolent constitutional mapping | Replenishable alignment joined to cumulative lawful pressure at load-bearing dependency relations when an incumbent answerability route repeatedly nullifies correction | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#persistent-democratic-counter-power) and this inventory | Joins mutual support, differentiated roles, replacement, continuity, slow accumulation, and capacity-ratcheting gains | No physical pushing, military organization, violence, inevitability, uncorrectable bloc discipline, truth from numbers, or entitlement without lawful standing |
 | Prostitution-policy leverage point | Intervention design | Redirect early attention from the easiest visible or vulnerable participant toward the resource-bearing demand, finance, coordination, or support structure that sustains an activity | [*Culture Program Ecology*](0060-culture-program-ecology.semantic-definition.md#response-calibrated-evidence-and-intervention-targets) and this inventory | Prompts identification of capability-bearing organizational leverage rather than carrier-level collective suspicion, while the inverse audit separates harmfulness from targetability, sanction leverage, and disciplinary yield | Does not establish the empirical prostitution-policy claim, map purchasers or sellers onto Culture Program cases, assign gendered culpability, treat a large sanctionable loss surface as guilt, or remove person and association rights |
 | X-ray vision | Optical | Claimed privileged access to hidden truth or collective interest | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction) and this inventory | Makes the epistemic asymmetry in a *Herrschaftsideologie* immediately visible | Superior perception may be real and does not itself confer governing jurisdiction |
 | Secular gnosis | Religious analogy | Hidden, rank-conferring knowledge available to an enlightened minority | [*Mythology Construction*](0040-mythology-construction.semantic-definition.md#herrschaftsideologie-privileged-vision-converted-into-jurisdiction) and this inventory | Shows how claimed knowledge can classify rulers and ruled as different epistemic ranks | Not a historical classification of Gnostic religions or proof that the knowledge claim is false |
@@ -895,7 +900,7 @@ project synthesis. Neither superorganismic efficiency nor multilevel-selection
 success establishes truth, goodness, legitimate jurisdiction, or permission to
 suppress human refusal and variation.
 
-## 4. Physics and collective-dynamics models
+## 4. Diagnostic, physics, and collective-dynamics models
 
 <a id="the-quantum-mechanics-of-psychology"></a>
 
@@ -3079,6 +3084,90 @@ Constitution*](0030-epistemic-constitution.semantic-definition.md#auxiliary-un-r
 and the receiving-field morphology to [*Epistemic
 Agency*](0020-epistemic-agency.semantic-definition.md#trusted-carrier-correction-lock).
 
+<a id="accountability-diode"></a>
+
+#### 4.15A Accountability diode {#accountability-diode}
+
+**Status:** User-originated engineering analogy with a project-developed mapping<br>
+**Primary semantic homes:** [*Culture Mechanics*, “Selective civil-personhood
+breakdown”](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown)
+and [*Epistemic Constitution*, “Post-disclosure un-reality”](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia)<br>
+**Explanatory target:** Asymmetric transmission through a public role
+
+The diode picture compresses the asymmetry:
+
+```text
+authority + decisions + commands + burdens
+                         → outward
+
+evidence + contradiction + promise-binding + demands for repair
+                         -| blocked inward
+```
+
+| Diode picture | Answerability mapping |
+|---|---|
+| Forward current passes | The role can issue decisions, defend the course, allocate burdens, and command institutional action. |
+| Reverse current is strongly attenuated | Evidence, prior undertaking, contradiction, affected-person claim, and demand for repair fail to bind present execution. |
+| Component remains in the circuit | The officeholder and role remain functional rather than disappearing from public operation. |
+| Circuit behaviour depends on surrounding components | Loyal carriers, procedure, appointment rules, correction custody, and continuation-determining audiences can strengthen or bypass the asymmetry. |
+
+**Useful inference:** Authority and answerability need not fail together.
+An institution can remain highly capable of outward execution while becoming
+weakly permeable to the return signals that should correct it.
+The analogy directs inquiry toward the reverse path: record, receiver, answer,
+adjudication, operative revision, repair, and consequence.
+
+**Non-inference:** A real diode is not a perfect model of an office.
+The image does not establish a literal blockade, conscious design, coordination,
+incapacity, feigned incapacity, hidden principal, covert command, or
+*Kommandoagent*.
+Public officials may receive and reject claims for legitimate reasons, and
+lawful authority sometimes requires acting despite disagreement.
+The classification needs an independently sustained correction, a relevant duty
+of answerability, recurrent asymmetric transmission, and retained outward
+operation.
+
+<a id="paternalistic-accountability-shield"></a>
+
+#### 4.15B Adult--child interaction and the paternalistic accountability shield {#paternalistic-accountability-shield}
+
+**Status:** Controlled relational analogy with a Strawsonian source neighbour<br>
+**Primary semantic home:** [*Culture Mechanics*, “Selective civil-personhood
+breakdown”](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown)<br>
+**Explanatory target:** Withdrawal of ordinary reciprocal accountability demands
+
+The image compares the public's possible change of stance to the moment at which
+an adult stops pressing a young child as a fully answerable peer and shifts
+toward pity, management, protection, avoidance, or resignation.
+P. F. Strawson's [participant--objective-attitude
+distinction](https://raphaelkrutlandau.com/misc/strawsonfar.pdf) supplies the
+neighbouring philosophical structure: ordinary adult reactive demands can give
+way when another is regarded as outside normal reciprocity, and the objective
+attitude can also become a refuge from the strains of involvement.
+
+The controlled mapping is:
+
+```text
+repeated failed attachment of promise, contradiction, or consequence
+→ ordinary participant address feels futile, cruel, or psychologically misplaced
+→ public lowers expectations of reciprocal answerability
+→ pity, management, avoidance, or resignation replaces demand
+→ officeholder retains adult public authority behind a paternalistic shield
+```
+
+**Useful inference:** The psychological protection can arise on the audience side
+even if the officeholder never persuades anyone that the course is correct.
+The public gives up on the answerability relation, which lowers the social and
+emotional pressure that repeated contradiction would otherwise create.
+
+**Non-inference:** The officeholder is not literally a child, and the analogy
+does not establish immaturity, incapacity, diagnosis, diminished human standing,
+or deliberate performance.
+It is limited to the withdrawal of reciprocal expectations while adult role
+authority remains in place.
+Genuine incapacity calls for accommodation, delegation, supervision, recusal, or
+removal under person-protecting rules rather than ridicule or dehumanization.
+
 <a id="farming-reality-mediated-education-and-the-secession-or-force-fork"></a>
 
 ### 4.16 Farming, reality-mediated education, and the secession-or-force fork {#farming-reality-mediated-education-and-the-secession-or-force-fork}
@@ -3572,6 +3661,46 @@ Construction*](0040-mythology-construction.semantic-definition.md#implicit-mytho
 and [*Epistemic
 Constitution*](0030-epistemic-constitution.semantic-definition.md#culture-propagator-correction-projection).
 
+<a id="changing-habitability-and-transition-capacity"></a>
+
+#### Changing habitability and transition capacity {#changing-habitability-and-transition-capacity}
+
+The potential-well picture can also represent a regime that becomes less
+habitable while becoming harder to leave, but only if several changing relations
+remain distinct.
+Material and relational consequences describe how life inside the regime is
+going; the effective transition barrier describes the real and represented cost
+of reaching another reproducible regime; and usable transition capacity comprises
+the time, savings, independence, trust, organization, competence, and coordinated
+risk tolerance available for making that crossing.
+
+The adverse relation is:
+
+```text
+social and material renewal weakens
++ usable transition capacity contracts
++ actual or represented transition barriers rise
+→ a deteriorating regime can become harder to leave
+```
+
+Participants can then rationally concentrate on the next payment, permission,
+sanction, maintenance task, or institutional survival problem.
+Such near-field adaptation can keep persons and organizations functioning while
+the range of collectively reachable alternatives contracts.
+It can also buy time for genuine repair; the image does not decide which return
+path is operating.
+The primary semantic account is [“When adaptation protects the course”](0060-culture-program-ecology.semantic-definition.md#course-preserving-adaptation-and-resilience-inversion).
+
+The mapping does not imply that worsening conditions literally deepen a physical
+energy minimum, that inhabitants regard the current regime as optimal, or that
+fear is their motive.
+People and institutions alter the landscape through learning, organization,
+investment, withdrawal, correction, and construction of successor capacity.
+The licensed inference is narrower: deterioration can change both the resources
+available for transition and the threshold that coordinated transition must
+cross, so present persistence need not indicate present satisfaction or long-term
+viability.
+
 **Useful inference:** The analogy forces an analyst to specify scale, state,
 memory, transition architecture, input, disturbance, observation, equivalence
 relation, transition boundary, and reversal evidence rather than treating
@@ -3599,6 +3728,59 @@ rival generative explanations. Where possible and ethical, vary or remove the
 input and observe what decays, what persists, and what reconstruction is needed.
 Distinguish continuing input, ordinary lag, inertia, lock-in, remanence, and
 hysteresis before assigning the strongest term.
+
+<a id="ishihara-plates-and-operational-discrimination"></a>
+
+### 4.18 Ishihara plates and operational discrimination {#ishihara-plates-and-operational-discrimination}
+
+**Status:** controlled visual and diagnostic analogy\
+**Primary theoretical home:** [*Epistemic Agency*, “Higher-order Culture Program
+capacity probe”](0020-epistemic-agency.semantic-definition.md#higher-order-culture-program-capacity-probe)\
+**Explanatory target:** the distinction among exposure to a vocabulary, verbal
+imitation, performance of a discriminating operation, selective inhibition, and
+acquisition and transfer capacity
+
+An Ishihara-style plate does not ask whether a participant endorses the word
+*colour* or has heard an accepted description of red and green.
+It presents a structured field in which successful discrimination becomes
+observable through performance.
+The useful cultural mapping is:
+
+| Visual-test element | Controlled Culture Mechanics mapping |
+|---|---|
+| Knowing colour words | Exposure to a lifted-order or analytical vocabulary |
+| Repeating the reported figure | Verbal imitation of an accepted answer |
+| Discriminating a figure in a plate | Performing a specified operation in a structured case |
+| Several differently composed plates | Neutral, loaded, fictional, position-reversed, and transfer cases |
+| Failure on selected plates after success on controls | Candidate selective inhibition or access discontinuity |
+| Persistent failure across valid plates after adequate instructions and retest | Candidate operational-capacity limitation, still causally unexplained |
+
+**Useful inference:** A capability claim should be tested through performance
+across varied cases rather than inferred from residence in a culture, exposure to
+its vocabulary, assent to its preferred answers, or fluency in its abstractions.
+The analogy also keeps two research questions separate: the
+[contrastive correction-interface
+probe](0020-epistemic-agency.semantic-definition.md#latent-culture-program-diagnosis)
+asks why an operation demonstrated in controls becomes selectively unavailable,
+whereas the capacity probe asks whether the operation can be acquired and
+transferred at all.
+
+**Unlicensed inferences:** Cultural operations are not colours, Culture Programs
+are not visual channels, and a proposed higher-order capacity is not an
+established sensory mechanism.
+Unlike the narrow visual task, cultural performance is learned, relational,
+multidimensional, context-sensitive, and open to strategic response and
+measurement error.
+One failed item, case family, or transfer task establishes no scotosis, immutable
+incapacity, biological cause, heritability, ancestry distribution, intelligence,
+moral worth, political standing, or danger.
+
+**Possible tests:** Teach the operation explicitly; verify comprehension in
+several controls; vary surface content while preserving the relation; include
+loaded, fictional, and reversed cases; permit valid differentiation and rejection
+of bad premises; provide correction and retest; and measure novel transfer.
+Predeclare which result would count as no exposure, acquisition, selective loss,
+support-dependent performance, persistent limitation, or instrument failure.
 
 ## 5. Braiding, grounding, and hazard models
 
@@ -3831,7 +4013,9 @@ of deliberate construction, capture, deployment, or activation against a target.
 Catastrophic hazard can exist without such intent, and deliberate cultural attack
 can use a program whose intrinsic catastrophic capacity is low.
 
-### 5.6 Glacier and glacial capture
+<a id="glacier-and-glacial-capture"></a>
+
+### 5.6 Glacier and glacial capture {#glacier-and-glacial-capture}
 
 **Status:** Originating temporal analogy with a controlled canonical use<br>
 **Primary theoretical home:** [*Culture Program Ecology*, “Gradual capture and the
@@ -3858,6 +4042,58 @@ career incentives, and sincere conversion can produce the same temporal surface.
 The analogy does not identify an attacker, a command centre, intent, pathology, or
 the moral quality of the successor. The primary theory's dual-objective and
 capture-inference tests must do that discriminating work.
+
+<a id="phalanx-glacier-democratic-counter-power"></a>
+
+#### 5.6A Phalanx--glacier democratic counter-power {#phalanx-glacier-democratic-counter-power}
+
+**Status:** User-originated compound analogy with a controlled corrective use<br>
+**Primary theoretical home:** [*Culture Program Ecology*, “Persistent democratic
+counter-power”](0060-culture-program-ecology.semantic-definition.md#persistent-democratic-counter-power)<br>
+**Explanatory target:** Replenishable alignment joined to cumulative lawful
+pressure when an incumbent answerability route repeatedly nullifies correction
+
+The two images contribute different properties:
+
+| Image | Licensed organizational property |
+|---|---|
+| **Phalanx** | Numbers made consequential through alignment, differentiated support, discipline, maintained interfaces, mutual protection, and replacement of exhausted participants. |
+| **Glacier** | Continuity, accumulated pressure, slow terrain-changing progress, and movement that does not depend upon one dramatic breakthrough. |
+
+The compound picture is operational rather than physical:
+
+```text
+shared warranted judgment
+→ organized and internally answerable constituency
+→ verified capacity through progressively demanding lawful action
+→ sustained pressure at load-bearing institutional relations
+→ ratcheted reform, adjudication, de-authorization, succession, or parallel capacity
+```
+
+**Useful inference:** Numbers do not become force through visibility alone.
+The formation must reach actual continuation conditions—votes, labour,
+administrative cooperation, professional validation, information custody, legal
+permissions, finance, public trust, or succession—and convert each gain into
+greater future capacity.
+Replenishment, distributed leadership, trained roles, maintained records, and
+internal correction matter more than one heroic confrontation.
+
+This glacier must be kept distinct from [**glacial
+capture**](#glacier-and-glacial-capture).
+The temporal image is morally and politically underdetermined.
+Direction, authorization, person-level standing, openness to adverse evidence,
+lawfulness, reversibility, and internal succession determine whether cumulative
+change is corrective democratic counter-power, ordinary reform, or possible
+capture.
+
+**Non-inference:** The phalanx does not license physical pushing, military
+formation, intimidation, violence, elimination of opponents, or uncorrectable
+bloc discipline.
+The glacier does not imply inevitability, one direction, or moral superiority
+from persistence.
+The compound analogy supplies neither standing, truth, a legal cause of action,
+nor entitlement to institutional participation; those must come from the
+underlying evidence and authorized procedure.
 
 ### 5.7 Prostitution-policy leverage point
 
@@ -4647,6 +4883,45 @@ unlicensed inferences.
 No public-theory document attributes the originating material to the author's
 personal website.
 
+<a id="goldstein-book-and-opposition-sensor"></a>
+
+### 5.12B Goldstein's book and the opposition sensor {#goldstein-book-and-opposition-sensor}
+
+**Status:** Project-developed controlled literary mapping<br>
+**Primary theoretical home:** [*Culture Program Ecology*, “Oppositional-channel
+capture and the opposition-sensor hypothesis”](0060-culture-program-ecology.semantic-definition.md#oppositional-channel-capture)<br>
+**Explanatory target:** The separation between accurate critical content and
+control over the route through which its readers recognize, disclose, organize,
+and act
+
+In George Orwell's [*Nineteen Eighty-Four*](https://gutenberg.net.au/ebooks01/0100021.txt), Part Two, chapter IX, Winston reads
+*The Theory and Practice of Oligarchical Collectivism*, attributed to Goldstein,
+through an apparently oppositional connection that belongs to the Party's trap.
+In Part Three, chapter III, O'Brien claims to have collaborated in writing it
+and distinguishes its descriptive account from its proposed programme.
+His statement remains a character's claim inside the novel, not an independently
+certified explanation of every aspect of the fictional Brotherhood.
+
+| Literary relation | Proposed analytical target |
+|---|---|
+| A critical account joins Winston's scattered perceptions | Accurate criticism can create recognition and a shared vocabulary |
+| Apparent access to an opposition connects him to the trap | A credible explanatory channel can expose association or attempted action |
+| The Party can exploit the route despite the account's insights | Content truth does not establish independent channel custody or practical correction |
+
+**Useful inference:** Inspect both the propositions and the institutional path
+from recognition to association and action. A truthful explanation may become
+an effective detection surface precisely because it is recognizable and useful.
+The general sensor, containment, and diversion decomposition is a Culture
+Mechanics extension, not an Orwellian empirical theory of present opposition.
+
+**Unlicensed inference:** Fiction does not establish that any actual scholar,
+publisher, party, association, or critic is controlled. Radical criticism,
+accurate description, institutional access, and failed political action prove
+neither a trap nor independence. Evaluate content on its evidence and investigate
+channel control through separately supported access, information, selection,
+response, and consequence relations. The mapping supplies no permission to
+treat a dissenter as an agent or to neutralize opposition.
+
 <a id="pied-piper-and-the-stolen-future"></a>
 
 ### 5.13 Pied Piper (*Rattenfänger von Hameln*) and the Stolen Future {#pied-piper-and-the-stolen-future}
@@ -5011,6 +5286,13 @@ select a laser mode; laser synchrony can renew solidarity; magnetization can
 stabilize it; lifted solidarity can authorize clockwork differentiation; and the
 coupling thermostat asks how much alignment a task can use without destroying
 independent correction.
+
+The Ishihara mapping is diagnostic rather than dynamical.
+It joins the operation-bootstrap and database-access models by asking whether the
+relevant discrimination was formed, remains accessible, and transfers under
+variation.
+It does not add a processor, identify the cause of a failed operation, or convert
+a multidimensional cultural capacity into one sensory score.
 
 The cultural-interoperability model adds a second relationship without making it
 a physical law:
@@ -6437,6 +6719,18 @@ transition capacity, and the scripts made possible after victory.
     persistence, repurposing, and correction can be audited. Its label inside the
     box is the hypothesis being tested, not evidence that establishes pretext,
     coordination, intent, Ideology, systemic lying, or *Machtpolitik*.
+35. **An accountability diode is not a perfect blockade or an actor theory:** It
+    pictures retained outward execution joined to attenuated inward
+    answerability. Establish the correction, duty, asymmetric transmission, and
+    continued operation separately; infer no incapacity, malingering, design,
+    hidden principal, or covert assignment from the image.
+36. **The phalanx--glacier image is constitutionally bounded:** It licenses
+    alignment, replenishment, persistence, dependency-point leverage, and
+    cumulative capacity under lawful procedure. It licenses no physical pushing,
+    military organization, intimidation, violence, inevitability, or exemption
+    from internal correction. Distinguish corrective accumulation from glacial
+    capture through direction, authorization, openness, reversibility, and
+    person-level standing.
 
 ## 9. Open questions and research programme
 
@@ -6596,6 +6890,15 @@ transition capacity, and the scripts made possible after victory.
   Change operation,* and *Repair* break, and which changes in confidence,
   classification, action, resources, jurisdiction, remedy, personnel, or rule
   establish that correction became effective?
+- Does the accountability-diode mapping help observers separate retained outward
+  execution from failed inward answerability, and can matched cases discriminate
+  genuine role restriction or incapacity from recurrent selective asymmetry?
+  When does reciprocity withdrawal protect a vulnerable person appropriately,
+  and when does it become a paternalistic shield for retained adult authority?
+- Which structure tests distinguish a real phalanx-like capacity from audience
+  size, polls, followers, or episodic attendance? Which bounded victories produce
+  glacier-like cumulative corrective capacity, and which instead create closed
+  counter-institutions, capture, or dependence on permanent mobilization?
 - Does the farming analogy identify correction loops that are materially tighter,
   more attributable, and less power-mediated than ordinary adult instruction, or
   does it conceal ownership, labour, subsidy, externality, and delayed-feedback
@@ -6610,6 +6913,11 @@ transition capacity, and the scripts made possible after victory.
   Imperial, territorial, and early-modern setting?
 - Which analogies improve prediction and diagnosis beyond ordinary prose, and
   which remain mnemonic illustrations only?
+- Does the Ishihara mapping improve separation among vocabulary exposure,
+  selective inhibition, acquisition difficulty, and persistent operational
+  limitation, or does the familiar sensory test create false confidence in a
+  one-dimensional cultural module? Which teaching, transfer, retest, and
+  instrument-failure controls are needed before a capacity claim is meaningful?
 - Can the identity-differentiated corrective-unity profile distinguish the three
   proposed cases from liberal recognition, federal accommodation,
   consociationalism, imperial nationality management, nationalism, and temporary
@@ -6619,6 +6927,13 @@ transition capacity, and the scripts made possible after victory.
 
 ## 10. Provenance and attribution summary
 
+- **The project author** proposed colour blindness and Ishihara plates as an
+  analogy for the distinction between exposure to a culture's vocabulary and
+  operational ability to perform a discrimination. The present inventory
+  formalizes the exposure--imitation--performance--selective-inhibition--capacity
+  mapping and its strict limit: established colour-vision testing supplies no
+  evidence for a cultural sensory module, biological cause, heritability,
+  ancestry inference, one-dimensional score, or person-level diagnosis.
 - **The project author** supplies the image of one cloud--eye ecology dividing
   like a cell, together with the political-cultural-mitosis-without-jurisdictional-
   cytokinesis problem. The assistant formalized the controlled mapping to
@@ -6842,6 +7157,15 @@ transition capacity, and the scripts made possible after victory.
   itself; the assistant formalized the U0--U1 recursive diagram and counterfeit-
   Bayesian boundary. Neither the cascade nor trusted-carrier lock is attributed
   to Andersen or to Bayesian theory.
+- **The project author** supplies the accountability-diode compression, the
+  adult--child interaction image for the paternalistic accountability shield,
+  and the phalanx--glacier image of persistent counter-power. P. F. Strawson
+  supplies the neighbouring participant--objective-attitude distinction, not the
+  political retained-authority conjunction. The mappings to selective
+  civil-personhood breakdown, correction nullification, lawful dependency-point
+  leverage, capacity-ratcheting gains, and the distinction from glacial capture
+  are Culture Mechanics developments. None of the images establishes incapacity,
+  malingering, physical force, covert agency, or a named political application.
 - **Jonathan Pageau's** ARC 2026 Grail question supplies an external
   service-direction bridge: technological abundance and power still require the
   question of whom or what they serve. His Grail/Lance interpretation,
@@ -7050,6 +7374,12 @@ what survives.
   bifurcations, remanence, and hysteresis are licensed only with declared models
   and observable counterparts. No universal culture equation, fixed landscape,
   truth from stability, deterministic person, or intent from transition follows.
+- **Ishihara and operational-discrimination model:** structured performance can
+  distinguish exposure to vocabulary from execution of an operation and can
+  separate selective loss after demonstrated success from failure to acquire and
+  transfer. The analogy neither establishes a cultural sensory module nor turns
+  one failed task into scotosis, biology, heritability, ancestry inference,
+  intelligence, moral worth, or political standing.
 - **Epistemic cloud and all-seeing eye:** the cloud pictures the impersonal
   distributed epistemic milieu that forms concepts, methods, query paths, and
   standards; the eye pictures bigOther-as-Thou as agentified second-person
@@ -7288,6 +7618,21 @@ what survives.
   U0, an authorized adverse U1 explaining the correction away, trusted-carrier
   routing, possible nullification, and recursive accumulation; independently
   evidenced alternative causes remain legitimate rather than counterfeit.
+- **Accountability-diode and paternalistic-shield models:** The diode pictures
+  authority, decisions, commands, and burdens travelling outward while evidence,
+  promise-binding, contradiction, repair demands, and consequence are attenuated
+  inward. The adult--child image is restricted to audience-side withdrawal of
+  reciprocal demands while adult public authority remains. Neither model
+  establishes a perfect blockade, incapacity, diagnosis, malingering, design,
+  hidden principal, covert assignment, or diminished human standing.
+- **Phalanx--glacier counter-power model:** Phalanx contributes alignment,
+  differentiated mutual support, discipline, and replenishment; glacier
+  contributes persistence, accumulation, and terrain-changing gains. The mapping
+  concerns lawful pressure at real continuation conditions and capacity-ratcheting
+  reforms, not physical collision, militarization, violence, inevitability, or
+  uncorrectable solidarity. Direction, authorization, openness, reversibility,
+  and person-level standing distinguish corrective accumulation from glacial
+  capture.
 - **Farming and secession-or-force model:** Voluntarily assumed responsibility
   can place adult action under tight material correction without another person
   coercively teaching the lesson; public reason analogously lets arguments lose

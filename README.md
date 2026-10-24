@@ -92,7 +92,10 @@ pair the inventory with the primary theory source and must not treat resemblance
 evidence. Its propagator mapping distinguishes typed state, transition operator,
 memory, forcing, observation, quotient compatibility, attracting regimes, and
 hysteresis without asserting a universal culture equation or treating dynamic
-stability as truth or legitimacy. Its nuclear-reactor mapping uses Pageau's Grail question to audit whom
+stability as truth or legitimacy. Its changing-habitability extension separates
+deteriorating conditions, usable capacity for collective transition, and actual
+or represented transition barriers; persistence therefore need not mean
+satisfaction or long-term viability. Its nuclear-reactor mapping uses Pageau's Grail question to audit whom
 or what produced capability serves while keeping capability, drive valence,
 destructive sublimation, un-reason, and Ragnarök trajectory distinct.
 Its *Emperor's New Clothes* mapping shows how a self-sealing status test and
@@ -124,7 +127,13 @@ grammar, the content-axis separation from Fascism, Culture-Embedded Strategy,
 reality testing, mixed cultural braids, program competition, fanatic or
 fatal offspring, the programme-level propagator projection with separate
 genealogical, identity, hazard, and offspring-causation quotients, transition
-signatures, forcing surfaces, and separately gated adversarial steering, Culture
+signatures, forcing surfaces, separately gated adversarial steering, and the
+course-preserving-adaptation trajectory that distinguishes operational
+adaptation from governing correction, tracks programme reproduction, social and
+material renewal, correction and succession, and gateway control separately,
+and connects resilience inversion to depletion, transition barriers, and
+successor readiness without making external finance or deliberate steering
+compulsory, Culture
 Program capture, program disharmony, objective
 substitution, gradual or glacial capture, Culture Program carrying structure,
 money flows, teaching or recruitment infrastructure, organizational
@@ -464,7 +473,10 @@ Seine Propagator-Zuordnung unterscheidet typisierten Zustand,
 Transitionsoperator, Gedächtnis, Forcierung, Beobachtung,
 Quotientenverträglichkeit, anziehende Regime und Hysterese, ohne eine universelle
 Kulturgleichung zu behaupten oder dynamische Stabilität als Wahrheit oder
-Legitimität zu behandeln.
+Legitimität zu behandeln. Ihre Erweiterung zu sich verändernder Bewohnbarkeit
+trennt sich verschlechternde Bedingungen, nutzbare Fähigkeit zum gemeinsamen
+Übergang sowie tatsächliche oder dargestellte Übergangsbarrieren; Fortbestand
+bedeutet daher weder Zufriedenheit noch langfristige Lebensfähigkeit.
 Seine Kernreaktor-Zuordnung verwendet Pageaus Gralsfrage, um zu prüfen, wem oder
 was die hervorgebrachte Fähigkeit dient, und hält dabei Fähigkeit,
 Triebrichtung, destruktive Sublimierung, Un-Vernunft und Ragnarök-Trajektorie
@@ -501,7 +513,13 @@ Geflechten, Programmkonkurrenz, fanatischen oder tödlichen Nachkommen, der
 programmbezogenen Propagator-Projektion mit getrennten genealogischen,
 Identitäts-, Gefahren- und Nachkommenkausalitäts-Quotienten,
 Transitionssignaturen, Forcierungsflächen und gesondert zu prüfender
-adversarialer Steuerung, Culture Program Capture (Übernahme eines
+adversarialer Steuerung sowie der Trajektorie kurserhaltender Anpassung, die
+operative Anpassung von einer Korrektur des leitenden Kurses unterscheidet,
+Programmreproduktion, soziale und materielle Erneuerung, Korrektur und Nachfolge
+sowie Kontrolle der Zugangsstellen getrennt verfolgt und eine Resilienzumkehr mit
+Erschöpfung, Übergangsbarrieren und Nachfolgebereitschaft verbindet,
+ohne ausländische Finanzierung oder absichtliche Steuerung vorauszusetzen,
+Culture Program Capture (Übernahme eines
 Kulturprogramms), Programmdisharmonie,
 Zielsubstitution, schrittweiser oder „glazialer“ Übernahme, aus dem Programm
 abgeleiteten Übereinstimmungsmetriken, der Culture Program Carrying Structure

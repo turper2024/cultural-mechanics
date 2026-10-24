@@ -918,6 +918,45 @@ These dimensions are diagnostic, not mutually exclusive boxes. One mechanism com
 - **Operation:** Focus scrutiny on a minor ambiguity, exception, or wording defect that does not materially affect the disputed claim, creating the appearance of refutation while avoiding its substance.
 - **Integrity:** RI, DI.
 
+<a id="lt-049-precision-veto"></a>
+
+#### LT-049 — Precision veto {#lt-049-precision-veto}
+
+- **Aliases:** exactness veto; certainty veto; resolution veto.
+- **Operation:** Require a finer degree of specification, reconstruction, or
+  certainty than the operative claim needs, then use the missing finer detail to
+  invalidate the supported claim wholesale.
+- **Integrity:** DI, TI, RI.
+- **Sequence:** Evidence supports a proposition at one resolution; a finer
+  number, allocation, mechanism, chronology, or attribution remains uncertain;
+  that uncertainty is promoted into a precondition for accepting the coarser
+  proposition; and the coarser proposition is dismissed when the unnecessary
+  precision cannot be supplied.
+- **Diagnostic:** State the exact proposition, the resolution at which its
+  evidence operates, and the unresolved finer claim. Ask whether the coarser
+  proposition would remain supported if the finer question stayed open. Inspect
+  ranges, lower bounds, partial identification, sensitivity, and whether the same
+  resolution demand is imposed on preferred alternatives.
+- **Example:** Logs, damaged components, and repeated sensor readings establish
+  that equipment failed, but the exact initiating fault remains unresolved. It is
+  a precision veto to treat that open initiating question as proof that no failure
+  can be established; it is not a precision veto to withhold blame from a
+  particular operator until attribution evidence exists.
+- **Boundary:** Precision is legitimately required where the claim, comparison,
+  attribution, sanction, or decision actually depends upon it. Evidence that a
+  phenomenon exists does not validate an exact total, complete mechanism, or
+  accused actor; conversely, uncertainty about those finer claims does not erase
+  independently supported existence, direction, range, or lower bound.
+- **Relations:** Unlike LT-017, the precision demand can concern a material
+  question; the trick lies in making resolution at that finer level a veto over a
+  different claim. Unlike LT-022, it need not shift the burden to an opponent.
+  Unlike LT-023, it need not move the criterion after evidence arrives. The
+  constructive counterpart is [claim resolution and localized
+  uncertainty](0030-epistemic-constitution.semantic-definition.md#claim-resolution-and-localized-uncertainty).
+- **Status:** Project-developed communicative operation. Its presence does not
+  establish intent, coordinated suppression, un-reason, or systemic lying from
+  one over-demand for precision.
+
 #### LT-018 — Redirection
 
 - **Aliases:** red herring; whataboutism; topic diversion; evasion.
@@ -1255,6 +1294,14 @@ finding.
   were authenticated or cases verified; symbolic compliance that substitutes for
   the result the symbol is supposed to indicate; camouflage or decoys that elicit
   a learned recognition response.
+- **Answerability cue--function application:** Office, articulate speech,
+  dialogue, public appearance, and formulae such as “I take responsibility” can
+  preserve the cues of an adult answerable public person while the functions of
+  authorship continuity, promise-binding, contradiction processing, repair, and
+  consequence remain unavailable. This is an application of LT-040 to the
+  [selective civil-personhood-breakdown
+  interface](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown),
+  not a new general linguistic trick and not proof that the mismatch is feigned.
 - **Diagnostic:** Specify the claimed category and its constitutive function,
   list the cues that activated recognition, inspect actual operation and
   consequences, and observe what happens when cue and function are compared
@@ -1411,6 +1458,11 @@ LT-040 does not license the inference that every proxy is fraudulent. Its target
 the inspectable mismatch between cue and function and, when manipulation is
 alleged, the further evidence that the mismatch was strategically produced,
 concealed, or immunized against correction.
+The answerability application likewise distinguishes the observable persistence
+of responsibility cues from the stronger claims of strategic non-answerability
+or accountability malingering.
+The full phenomenon remains relational and institutional; language can carry or
+mask it without being its complete cause.
 
 ### Open-textured judgment is not automatically pseudo-measurement
 
@@ -1582,6 +1634,9 @@ The corresponding positive virtues are:
 16. Make the evidential hierarchy visible: state the principal finding, decisive
     support, necessary qualifications, and bounded conclusion before routing
     secondary context and remote possibilities into their proportionate place.
+17. Match uncertainty to the proposition and resolution it qualifies: preserve
+    supported ranges, bounds, and coarse conclusions while withholding exact
+    reconstruction or attribution that the evidence cannot carry.
 
 The inventory's function is thus constitutional and formative: it helps individuals recognize and resist small acts of public untruthfulness, while their repeated resistance changes the public norm that subsequently forms other individuals.
 
@@ -1594,7 +1649,142 @@ same term or independently verifies the mechanism.
 
 This version was produced through structured review of private project source material, vocabulary expansion, contextual reading, synonym normalization, and boundary auditing. Source filenames, links, conversation identifiers, and internal prompt logs are intentionally withheld from this publication.
 
-LT-039, LT-040, and LT-041 are explicit exceptions to that private discovery route. LT-039 was added from Michael Andrick's book material and linked directly to the underlying publication. LT-040 was added from Dushan Wegner's *Relevante Strukturen* (2019, ISBN 978-3-7394-0563-6), whose *Wie–Was* distinction is retained while the operational test and boundary are project-developed. LT-041 was developed in this project from the doctrinal-progeny analysis. Its originating contribution supplied the CPU-facing and bigOther-facing contrast; the inventory supplies the normalized operation, responsibility gradient, and evidential boundary.
+The present semantic promotion adds the distinction among linguistic-trick
+form, operative trick, and deliberate trick; promotes **instrumental
+untruthfulness** to a specified communicative selection orientation; separates
+actor-level from institutional attribution; and relates both to the canonical
+operation--orientation--mechanism--state--stock--constitution architecture in
+[*Epistemic Constitution*](0030-epistemic-constitution.semantic-definition.md#typed-epistemic-architecture).
+The three-level attribution test, the orthogonality table relating instrumental
+untruthfulness to un-reason, the distributed carrier front end and its
+cross-scale extension in *Epistemic Constitution*, and the exact
+systematic/systemic-lying boundary are project developments rather than claims
+attributed to Habermas, van Eemeren, or Grootendorst.
+
+Pragma-dialectical critical discussion is retained as established procedural
+prior work. [*Epistemic
+Constitution*](0030-epistemic-constitution.semantic-definition.md#pragma-dialectical-reality-answerable-interface)
+owns the Culture Mechanics positive stack joining it to external
+reality-answerability and communicative integrity, and the distinction between
+reasonable discussion and truth. Habermas remains a neighbouring source
+for the communicative-versus-strategic orientation contrast; neither source
+supplies the complete category of instrumental untruthfulness used here.
+
+LT-039, LT-040, LT-041, LT-043, LT-044, LT-045, LT-046, LT-047, LT-048, LT-049, the staged
+semantic-ballooning mechanism, and the
+projective-consensus--custodial-completion mechanism are explicit exceptions to
+the chat-corpus discovery route.
+LT-039 was added from Michael Andrick's book material supplied during the present
+theory revision and linked to the underlying publication. LT-040 was added from
+Dushan Wegner's *Relevante Strukturen* (2019, ISBN 978-3-7394-0563-6), whose
+*Wie–Was* distinction is preserved while the operational test and boundary are
+project-developed. The answerability cue--function application is a later
+project-developed cross-reference to the civil-personhood interface, not a term
+or political application attributed to Wegner. LT-041 was added from the present project's doctrinal-progeny
+analysis; its originating conversation supplied the “CPU-facing” and
+“bigOther-facing” contrast, while the inventory supplies the normalized operation,
+responsibility gradient, and evidential boundary. Development records preserve provenance but are not treated as intellectual authority or empirical evidence.
+LT-042 was separated from LT-009 during the present Benda--*Machtpolitik*
+revision after the originating author recovered the accepted-corpus Orwell
+discussion.
+Orwell supplies the fictional Newspeak device; the operation, diagnostic
+boundary, and relation to the project's un-reason mechanism are the present
+inventory's normalization.
+The Roland Baader source bridge under LT-008 was added during the later
+Wegner--“Sinnkrise” discussion after the originating user recovered the
+“Marsch durch die Definitionen” aphorism.
+Verification in Baader's *totgedacht* (2002), pp. 127–128, established the exact
+sentence and its context of semantic hollowing, reinterpretive “occupation,”
+failed mutual understanding, Newspeak, and Babylonian linguistic confusion.
+The book's immediately preceding Benda discussion, pp. 124–126, establishes the
+direct reception line from intellectual-vocation betrayal and moral
+immunization to the semantic method.
+Baader supplies that source observation; its placement inside persuasive
+redefinition and the wider Culture Mechanics cross-scale architecture is a
+project synthesis.
+LT-043 was added from the present Humanism--Diversity and metric-custody
+discussion. The originating author selected the formulation **“There may be no
+hidden ruler. The language merely imitates the authority of having used a
+ruler.”** The **pseudo-metric predication** name, three-case distinction,
+decompression test, and relation to interpreter and policy custody are
+project-developed. The conversation records provenance rather than evidence that
+any named phrase or institution instantiates the operation.
+LT-044 was added from the present Humanism--Diversity discussion. The originating
+author selected **deconstructive reversal** for the remembered compression
+“push the center to the periphery and the periphery into the center.” The bounded
+operation, relation to mythology replacement, diagnostic, and distinction from
+Derridean deconstruction as a whole are project-developed. The conversation
+preserves provenance but does not verify the remembered wording as Derrida's,
+establish a genealogy, or classify any use as manipulative without further
+evidence.
+LT-045 was added from the present model-versus-measurement and Loki-prior
+discussion. The originating author identified the linguistic step by which a
+later model output can be promoted as confirmation that an earlier prediction
+came true. The name **model-to-reality laundering**, the bounded operation,
+diagnostic, and relation to un-reality are project-developed. The conversation
+records provenance; it does not establish that any named application contains
+the operation, that the substitution was deliberate, or that a model-mediated
+claim is false.
+LT-046 was added from the present Loki-prior source-position discussion. The
+originating author rejected both a credibility penalty for polemical
+counter-power form and an automatic truth privilege for counter-power status.
+The name **civility shield**, operation sequence, diagnostic, and relation to
+epistemic correction are project-developed. The conversation records provenance;
+it does not establish the accuracy of any originating source, the motive of a
+speaker, or the presence of the operation in a particular controversy.
+LT-047 was added from the originating author's criticism of *Textschwall als
+Verschleierung* during the case-study and reader-edition workflow. The English
+name **wall-of-text obfuscation**, the distinction from information flooding,
+the evidential-hierarchy diagnostic, and the attribution boundary are
+project-developed. The conversation records provenance; it does not establish
+deliberate concealment in a named text or make length, completeness, or
+qualification intrinsically suspect.
+LT-048 was added from the originating author's comparison between short
+calculation traps and a component-versus-system environmental argument.
+The name **guided problem representation**, the valid-operation-on-wrong-model
+sequence, its decompression diagnostic, and its boundaries against transparent
+simplification, pedagogical puzzles, recipient error, and honest modelling error
+are project-developed.
+The conversation records provenance; it does not establish that a named text
+instantiates the operation or that an induced representation was deliberately
+selected.
+LT-049 was added from the originating author's criticism of using unresolved
+fine detail to veto a conclusion supported at a coarser resolution.
+The name **precision veto**, the proposition-resolution diagnostic, the
+distinctions from quibbling, burden reversal, closure sabotage, and
+model-to-reality laundering, and the link to localized uncertainty are
+project-developed.
+The conversation records provenance; it does not validate any originating
+historical estimate, establish that a demand for precision was improper, or
+classify one disputed inquiry as manipulative.
+The staged semantic-ballooning mechanism was added from the present
+anarcho-tyranny discussion. The originating author supplied the “inflate the
+balloon before replacing the core” sequence; inherited-force transfer, threshold
+flattening, prototype migration, the legitimate-development boundary, and the
+separate institutional-uptake gate are project normalizations. The cited
+FreedomToons parody is an illustrative source lead, not definitional authority
+or evidence that a named legal category has completed the sequence.
+The projective-consensus mechanism was added from the later Baader-lineage and
+master-signifier discussion.
+Laclau supplies the empty-signifier precursor in which a particular signifier can
+represent a heterogeneous whole or absent fullness; the projection sequence,
+custodial completion, authorization test, and separation from PGS are Culture
+Mechanics developments.
+The offspring-responsibility routing note under LT-041 extends the existing
+doctrinal-causal-omission audit with Deborah Stone's causal-story insight while
+preserving the distinction between linguistic relocation and quantitative causal
+decomposition.
+
+The public source bridges include:
+
+- [George Orwell's *Nineteen
+  Eighty-Four*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/)
+  — Newspeak and doublethink as distinct literary-political mechanisms; the
+  empirical and Culture Mechanics boundaries are maintained in *Epistemic
+  Constitution*.
+- Dushan Wegner, *Relevante Strukturen* (2019) — *Wie–Was-Manipulation* and
+  the distinction between category-recognition cues and the function or structure
+  they are meant to identify.
 
 This is a high-recall working inventory, not a claim of semantic exhaustiveness. The reviewed source collection is large, the same mechanism may have been discussed without any of the recovered names, and several private sources contain long embedded source texts. Future revisions should add newly found mechanisms only after checking whether they are genuinely distinct operations or aliases, combinations, effects, and institutional deployments of types already recorded here.
 

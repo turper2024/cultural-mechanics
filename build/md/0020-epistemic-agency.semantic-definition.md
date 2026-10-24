@@ -208,6 +208,10 @@ The expanded choice space remains generated and bounded rather than unlimited:
 packages that claim compulsory supremacy or abolish the rules preserving
 persons, bounded jurisdiction, refusal, exit, and correction are not simply one
 more coequal output of that generator.
+The proposed relation between this footprint, culturally maintained scotomata,
+and the resulting [open theorizing
+surface](#open-theorizing-surface-and-access-formation-correction-grammar) is
+developed with the semantic-access mechanism below.
 
 <a id="durkheimian-organic-solidarity-as-lifted-composite"></a>
 
@@ -555,6 +559,20 @@ This resolves the apparent contradiction between being easy to persuade and hard
 This is therefore **not generalized gullibility**. A person may be suspicious, argumentative, and highly skilled at finding weaknesses in out-group claims. Their credulity is selective and routed. The question asked before “Is this true?” is “Who is entitled to say this?”
 
 The strongest diagnostic case occurs when a person refuses an available, inexpensive verification—an original source, a transparent count, or a calculation using elementary arithmetic—and instead asks the gatekeeper what the answer is. Referring to expertise can be rational; refusing a decisive cheap check because it lacks social authorization indicates that the authority has begun to preempt evidence.
+
+The **cheap-check gradient** makes that comparison explicit: as verification
+cost and required competence fall, and accessible evidence becomes more
+decisive, persistent substitution of authorized reassurance for checking becomes
+stronger evidence for authority-gated updating.
+This is an investigative gradient, not a numerical law.
+Establish actual exposure, accessibility, comprehension, time, relevant
+competence, and the check's discriminating value; compare willingness to perform
+equivalent checks of favoured and rival sources.
+Selective avoidance can coexist with extensive effort spent investigating
+opponents, so neither general laziness nor low intelligence explains the
+asymmetry by itself.
+The gradient alone establishes neither scotosis, a Second Reality, deliberate
+dishonesty, nor the falsity of the authority's claim.
 
 ### 9. Epistemic vigilance, credulity, and closure
 
@@ -1839,6 +1857,85 @@ lock proves neither that the correction is true nor coordination, bad faith,
 capture, systemic lying, one directing actor, or [Shadow-Sovereign
 rule](0060-culture-program-ecology.semantic-definition.md#shadow-sovereign-besatzungsmacht).
 
+<a id="loyal-carrier-answerability-insulation"></a>
+
+###### Loyal-carrier answerability insulation {#loyal-carrier-answerability-insulation}
+
+The receiving field can reinforce [selective civil-personhood
+breakdown](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown)
+without reproducing the actor-interface mechanism itself.
+An officeholder can remain ***vertrauenswürdig*** to a loyal constituency while
+the carriers of adverse records, broken promises, contradiction, or demands for
+repair are moved toward ***fragwürdig***, ***uninteressant***, or
+***unerwünscht***.
+The resulting asymmetry is not only a contest over propositions:
+
+```text
+officeholder retains trusted routing
++ corrective carriers lose attention, credibility, or admissibility
++ repeated accountability demands exhaust critics
++ loyal carriers preserve authorization
+→ answerability insulation can survive proposition-level defeat
+```
+
+The officeholder need not persuade every critic.
+It can be enough that the field positions capable of preserving authority,
+selection, institutional access, or public mediation continue to route the
+officeholder as trusted while routing the challenge away from consequential
+uptake.
+Exhausted critics may then withdraw from repeated adult-reciprocity demands while
+loyal carriers interpret persistence as steadiness, persecution survived,
+service to the cause, or proof that no authoritative correction occurred.
+The relation can reinforce both the paternalistic accountability shield on the
+critical side and continued authorization on the loyal side.
+It can also form an **authorization loop**:
+
+```text
+trusted carriers protect the incumbent account and route
+→ loyal receivers preserve carrier and officeholder authority
+→ retained authority classifies the next contradiction and its bearer
+→ adverse material again loses consequential routing
+→ the protected trust architecture enters the next collision intact
+```
+
+The loop can be broken without requiring universal conversion when one or more
+high-gain carriers defect while retaining standing, validation rules change,
+parallel routes acquire trust, or adjudication bypasses the aligned carrier
+layer.
+
+A valid proposition-level correction therefore does not automatically revise
+the source relation that admitted the original account or the trust architecture
+that protects the officeholder.
+The audit must ask three successively wider questions:
+
+```text
+claim update
+→ did the specific proposition change?
+
+source-reliability update
+→ did failure revise the source's standing in the relevant domain?
+
+trust-architecture and jurisdiction update
+→ did the field revise who may speak, validate, decide, and remain authorized?
+```
+
+These levels can diverge.
+A constituency can concede one fact while preserving the officeholder's general
+authority; reduce personal confidence while leaving the role's inherited routing
+untouched; or replace the occupant while preserving the same validating field.
+Conversely, one error need not rationally destroy source standing or office
+jurisdiction.
+The warranted update depends upon severity, recurrence, causal responsibility,
+evidential quality, correction conduct, repair, domain relevance, and serious
+rivals.
+
+Loyalty, trust, party identification, religious commitment, professional
+deference, or a routing asymmetry does not by itself establish a correction lock,
+personality cult, deception, capture, or bad faith.
+The diagnostic claim requires a sustained correction, consequential routing
+asymmetry, and failure of proportionate source or jurisdictional updating under
+conditions in which comparable failure would ordinarily matter.
+
 #### bigOther-presence as the local experience of field back-action
 
 The field is not normally experienced as a sociological diagram. Within a
@@ -2818,6 +2915,182 @@ also includes cases in which private recognition is intact but public
 articulation, aggregation, institutional uptake, or correction fails. Neither
 mechanism is necessary or sufficient for the other.
 
+<a id="open-theorizing-surface-and-access-formation-correction-grammar"></a>
+
+##### Open theorizing surface and the access--formation--correction grammar {#open-theorizing-surface-and-access-formation-correction-grammar}
+
+The **open theorizing surface** is the domain of observations, questions,
+distinctions, comparisons, causal relations, rival explanations, and possible
+answers that a person or formation can bring into explicit, sustained, and
+corrigible inquiry at a specified time and domain.
+It is not everything a person could in principle think, everything stored in
+memory, or everything permitted to be said publicly.
+It is the presently usable inquiry surface on which relevant operations can be
+formed, held, compared, criticized, and revised.
+
+This surface binds several mechanisms that otherwise appear separate into one
+**access--formation--correction grammar**:
+
+```text
+distributed epistemic formation supplies concepts, operations, examples,
+and symbolic addresses
+                         ↓
+a candidate observation, question, comparison, or causal join approaches
+                         ↓
+the operative Culture Program classifies its relevance, legitimacy,
+danger, honour, or taboo
+                         ↓
+semantic-access conditions admit, inhibit, redirect, or hyperactivate it
+                         ↓
+the open theorizing surface determines what can be held in corrigible inquiry
+                         ↓
+the correction interface determines whether evidence and consequences can
+revise the current answer
+                         ↓
+public articulation, reception, aggregation, and institutional uptake determine
+whether the correction can enter the shared epistemic milieu
+```
+
+No arrow is automatic.
+Formation can provide an operation without making it usable in every loaded
+domain; access can be open while the operation has never been learned; private
+inquiry can remain open while public uptake is blocked; and public speech can be
+abundant while the speaker's own inquiry has already closed.
+The grammar therefore keeps **formation**, **access**, **inquiry**, **correction**,
+and **public realization** as distinct but composable relations.
+
+The surface must also specify **what is open to correction**.
+An institution may investigate mistreatment, improve procedures, and remedy
+individual violations while leaving its constitutive categories or entitlement
+to exercise power outside inquiry.
+Correction within an accepted arrangement and inquiry into whether that
+arrangement should exist are different operations.
+The former is real correction at its stated scope; it does not establish the
+latter, while closure at the latter does not erase the former.
+For example, an office may correct unfair application of an inherited status
+rule while excluding questions about the rule's legitimacy.
+The diagnostic follows the boundary: can participants examine implementation,
+the governing rule, its justification, and its jurisdiction, and at which step
+do questions lose standing?
+
+The order-level hypothesis concerns the relation between the [shared first-order
+prescription footprint](#mechanical-solidarity) and this surface.
+Where a larger cultural territory is governed directly by morally binding
+concrete answers, more candidate questions and comparisons may collide with
+protected first-order prescriptions.
+Other things equal, a contraction of that footprint can reduce the territory
+over which solidarity has to protect concrete answers and can thereby enlarge
+the open theorizing surface:
+
+```text
+less territory governed by morally binding concrete answers
+                         ↓
+less territory exposed to answer-protective semantic obstruction
+                         ↓
+possible contraction of culturally maintained scotomata
+                         ↓
+possible expansion of the open theorizing surface
+```
+
+This chain separates **potential scotoma exposure** from **realized scotoma
+burden**.
+The prescription footprint indicates how much culturally constitutive territory
+can be placed under pressure by observations, comparisons, alternatives, or
+consequences; it does not show that those relations have actually become
+inaccessible.
+Realized obstruction additionally depends on the reach and overlap of the
+threatened prescriptions, contradiction pressure, correction resistance,
+affective and membership stakes, sanction gain, formative practice, and
+institutional reinforcement:
+
+```text
+protected first-order prescriptions
+→ associated domains of potentially disruptive inquiry
+→ potential scotoma exposure
++ correction resistance, contradiction pressure, affect, sanctions,
+  formation, and institutional reinforcement
+→ realized scotoma burden
+```
+
+Several protected prescriptions can obstruct the same question, so their
+effects need not add independently.
+Conversely, one compact protected premise can reach many downstream questions
+and comparisons.
+This is why prescription count, potential exposure, and realized blind territory
+must remain separate observables.
+
+Prescription, condemnation, exclusion, and scotoma are also different
+operations.
+A culture can perceive an alternative, understand why another person follows
+it, compare it with its own rule, and still condemn or prohibit it.
+The scototic candidate begins where preservation of the protected answer
+recurrently prevents relevant noticing, retrieval, questioning, comparison,
+joining, self-authored formulation, or reception of correction.
+Moral intensity alone therefore establishes neither blindness nor closure.
+
+This is a directional mechanism hypothesis, not a literal inverse proportion or
+linear law.
+A large prescription footprint does not by itself establish scotosis, and a
+small footprint does not guarantee open inquiry.
+One compact protected premise can obstruct a wide field through its downstream
+implications, while many detailed rules can remain revisable outputs of a lifted
+generator.
+A laboratory safety procedure, hygienic protocol, engineering standard, or
+professional rule derived from inspectable evidence is not automatically part of
+the shared first-order prescription footprint merely because it is concrete and
+detailed.
+The relevant question is whether the binding force resides in the answer as
+culturally final or in a corrigible generator by which the answer is produced,
+tested, and revised.
+
+The relation is also positive rather than merely subtractive.
+As a scotoma contracts, the gain is not only the return of one prohibited fact.
+Previously disconnected observations can be joined; rival causal models can be
+compared; protected categories can be decomposed; anomalies can generate new
+questions; inherited answers can become hypotheses; and consequences can revise
+the grammar that first classified them.
+Foreign epistemic milieus can become reconstructible as rival or complementary
+perspectives rather than being preclassified as impurity, hostility, or noise.
+In this sense, contraction of scotomata can enlarge both [cognitive
+liberty](#cognitive-liberty-and-epistemic-adulthood) and intercultural
+intelligibility without requiring agreement or cultural neutrality.
+The open theorizing surface therefore names an expanding capability for inquiry,
+not an empty or cultureless region.
+
+The surface is culturally formed.
+Cold, apparently impersonal inquiry depends upon learned concepts, instruments,
+methods, examples, roles, records, and norms of criticism carried by the
+[distributed epistemic milieu](#collective-epistemic-formation).
+It can still be parochial, mistaken, cruel, technically sophisticated, or
+recruited by a closed programme.
+Its openness lies in continued access and correction, not in low affect, social
+detachment, intelligence, truth, goodness, or exemption from culture.
+The [me--we--world correction
+relation](0030-epistemic-constitution.semantic-definition.md#me-we-world-correction-relation)
+therefore remains controlling: escape from private preference can reveal a
+culturally shared grammar without yet showing that the grammar fits the world.
+
+An enlarged surface can make both novel error and criticism of that error
+possible.
+The same capacity to render an inherited hierarchy examinable can generate a
+new rationalization of it or a reason to revise or abolish it.
+Assessing that capacity therefore requires following both the production of
+answers and the correction of its own products across time.
+A harmful answer does not by itself establish that the generating capacity has
+only harmful uses, just as a successful correction does not vindicate every
+earlier answer.
+Formulation of a theory shows that an object has been represented; sustained
+openness additionally requires the reconstructible operations, rivals, and
+defeat conditions distinguished in the [theorizing--revelation
+account](0040-mythology-construction.semantic-definition.md#minogue-ideology-the-narrower-subtype).
+
+The compact binding is:
+
+> **Cultural formation equips inquiry; Culture Program classification gates its
+> usable surface; scotosis can contract that surface; correction can reopen it;
+> and public institutions determine whether the reopened relation becomes
+> collectively consequential.**
+
 <a id="latent-culture-program-diagnosis"></a>
 
 #### Latent Culture Program diagnosis under homo-duplex orthogonality {#latent-culture-program-diagnosis}
@@ -2843,6 +3116,16 @@ cases, and then present structurally matched cases crossing several different
 cultural fault lines. A selectively located change in category, evidential
 burden, reciprocity, affect, defeat conditions, or willingness to revise is the
 observable of interest. It is evidence to investigate, not a diagnosis by itself.
+
+The ordinary search expressions **scotosis test**, **scotoma test**, and
+**cultural blind-spot test** route to this probe family when the research question
+concerns possible selective obstruction of an operation already demonstrated in
+matched cases.
+They are retrieval aliases, not alternative canonical names and not claims that
+the result identifies scotosis as its cause.
+The contrastive correction-interface probe was developed before the present
+scotosis integration; the later vocabulary supplies one possible explanation of
+the observed discontinuity rather than redefining the instrument.
 
 Three terms control the proposal:
 
@@ -3032,6 +3315,93 @@ The result should be typed rather than reduced to one “culture score”:
 | Ability to state defeaters and revise | Strength of the correction interface | Truth of every retained belief |
 | Covariation across participants | Possible shared cultural field | Central design or conspiracy |
 | Change under peer, authority, or consensus cues | Possible synchronization susceptibility | Susceptibility from a private answer alone |
+
+<a id="higher-order-culture-program-capacity-probe"></a>
+
+##### Higher-order Culture Program capacity probe {#higher-order-culture-program-capacity-probe}
+
+The contrastive correction-interface probe presupposes that the relevant
+operation has already been demonstrated somewhere and asks where it becomes
+selectively unavailable.
+A distinct proposed **higher-order Culture Program capacity probe** asks whether
+the participant can acquire, perform, and transfer the operation at all.
+**Liftability test**, **higher-order capacity test**, and **lifted-order capacity
+probe** are search aliases for this second research family.
+The probe extends [operation-bootstrapped codebook
+formation](#operation-bootstrapped-codebook-formation) and [living
+knowledge](#living-knowledge): token exposure and correct repetition are not yet
+locally reconstructible, corrigible capability.
+Before a persistent limitation is inferred, the assessment must provide enough
+examples, contrasts, questions, practice, feedback, and correction for the
+operation to be learned rather than merely named.
+
+The governing distinction is:
+
+```text
+exposure to a lifted-order vocabulary
+≠ verbal imitation of its accepted answers
+≠ operational performance of its generator
+≠ inhabitation of that generator across novel and costly cases
+```
+
+A candidate probe would first teach an inspectable meta-operation rather than
+asking for agreement with a political conclusion.
+It would then test comprehension and use in relatively neutral cases, morally or
+culturally loaded cases, fictional cases, position-reversed cases, and unfamiliar
+transfer cases.
+Candidate task families include whether the participant can:
+
+- distinguish a concrete answer from the rule that generates and revises it;
+- apply one meta-rule to novel cases that properly yield different outputs;
+- entertain a proposition without treating consideration as endorsement;
+- state evidence that would defeat favoured and disfavoured conclusions;
+- reverse social positions while retaining reciprocal evidential and procedural
+  standards;
+- revise an answer without treating revision as destruction of the moral order;
+  and
+- design a procedure for unforeseen cases rather than extend a memorized
+  catalogue of fixed answers.
+
+After correction and further instruction, it would retest whether the participant
+can generate a novel application, identify a valid exception, state a symmetrical
+defeater, and revise an answer without abandoning the operation.
+
+At least five outcomes must remain distinguishable:
+
+1. **No adequate exposure or instruction:** failure does not yet test capacity.
+2. **Acquisition with transfer:** the operation is learned and remains available
+   under relevant variation.
+3. **Acquisition with selective inhibition:** the operation appears in controls
+   but becomes unavailable at a loaded boundary; this returns the inquiry to the
+   contrastive correction-interface probe.
+4. **Slow or support-dependent acquisition:** the operation can be performed only
+   with additional formation, scaffolding, time, or environmental support.
+5. **Persistent operational limitation:** repeated, adequate, ethically bounded
+   teaching and transfer attempts fail to establish the operation across
+   contexts.
+
+The fifth outcome is a capacity-limitation candidate, not its explanation.
+Developmental history, language, education, trust, incentives, stress,
+interviewer relation, unfamiliarity with the task form, learning differences,
+strategic refusal, and measurement failure remain rivals.
+Stable performance differences do not establish a biological cause, heritability,
+immutable incapacity, ancestry-level distribution, moral worth, danger, or
+fitness for political rights.
+Those stronger questions require independent longitudinal, developmental,
+behavioural-genetic, and population research.
+Instrument validation also requires discriminant tests against general cognitive
+ability, language, education, fatigue, trust, and task familiarity; longitudinal
+training response; and cross-context or cross-cultural measurement invariance.
+Family, adoption, twin, genomic, or other hereditary designs belong only after a
+reliable performance construct exists.
+
+Agreement with the investigator is not the success condition.
+A participant succeeds by performing a disclosed, reciprocal, corrigible
+operation--including by identifying that the investigator's analogy, premise, or
+classification is defective.
+The method therefore measures reconstructible capability and transfer, not
+approved opinion, educational prestige, abstract intelligence, or fluency in the
+theory's vocabulary.
 
 ##### Culture Program fingerprint: selective discontinuities across a case matrix
 
@@ -5038,6 +5408,53 @@ cultural memory tractable. Periodic operation transmission remains necessary for
 repair, semantic recalibration, transfer to new circumstances, and initiation of
 new participants.
 
+<a id="operational-inhabitation-and-scaffolded-participation"></a>
+
+#### Operational inhabitation and scaffolded participation {#operational-inhabitation-and-scaffolded-participation}
+
+Institutional inheritance can support correct routine conduct without giving
+every participant an independently reconstructible and transferable grasp of the
+generator that makes the conduct intelligible. Three configurations must
+therefore remain distinct:
+
+| Configuration | What the participant can do | Characteristic dependency |
+|---|---|---|
+| **Independently reconstructing participation** | Recover reasons and limits, judge novel cases, criticize an application, and help teach or repair the operation | Still depends upon language, predecessors, institutions, and correction, but not upon one custodian for every new application |
+| **Institutionally scaffolded participation** | Perform reliably through fitted roles, examples, records, interfaces, supervision, and appeal | Novel transfer or repair may depend upon a smaller interpretive and formative ecology |
+| **First-order participation relative to the lifted generator** | Enact, understand, or defend a concrete inherited answer inside familiar cases, possibly with rich local competence | The higher-order rule's generating question, reciprocal scope, defeat conditions, or cross-context transfer may remain unavailable |
+
+These are operation-relative configurations, not permanent ranks of persons.
+One participant can independently reconstruct a legal procedure, remain
+scaffolded in scientific practice, and follow a first-order family or religious
+rule without reconstructing the relevant lifted generator. Nor is scaffolded participation defective by
+definition. Distributed specialization, apprenticeship, trusted expertise, and
+dependable procedure make complex orders possible.
+
+The distinction becomes critical when routine success is mistaken for
+self-renewing cultural competence:
+
+```text
+inherited symbols + roles + systemic skeleton
+→ reliable performance under familiar conditions
+→ apparent population-wide possession of the generator
+
+but
+
+novel collision + loss of interpreters + failed formation or succession
+→ difference between reconstruction, scaffolding, and script becomes visible
+```
+
+The [systemic skeleton and living cultural
+body](0060-culture-program-ecology.semantic-definition.md#systemic-skeleton-and-living-cultural-body)
+can carry extensive cultural work, and [affective-to-structural load
+transfer](0010-culture-mechanics.semantic-definition.md#affective-to-structural-load-transfer)
+can reduce the fresh affective demand placed upon each participant. The same
+scaffolding can therefore either renew a widely distributed operation or conceal
+its concentration in a fragile carrier bottleneck. Evidence must examine novel
+application, explanation, correction, teaching, bridge maintenance, repair, and
+succession rather than infer either vitality or hollowness from quiet routine
+alone.
+
 The same relation explains several master-signifier outcomes:
 
 ```text
@@ -6849,6 +7266,55 @@ The corresponding mythology-design requirement is developed as the
 [reflective audit gate](0040-mythology-construction.semantic-definition.md#the-reflective-audit-gate)
 within the lifted sublimation-generator pattern.
 
+<a id="multidimensional-agency-and-receiver-profile"></a>
+
+#### Multidimensional agency and receiver profile {#multidimensional-agency-and-receiver-profile}
+
+The relation between a person and an installed Culture Program is not one scale
+from “tribal” to “individualist.” A useful **agency-and-receiver profile** asks
+how several partly separable relations are configured in the specified domain:
+
+| Profile dimension | Question |
+|---|---|
+| **Attachment** | How strongly is belonging, identity, or moral standing tied to the programme? |
+| **Field reception and gain** | How readily are collective evaluations received, amplified, and experienced as personally compelling? |
+| **Classification reach** | How much of experience is preclassified through the programme's categories? |
+| **Affective output** | Which shame, guilt, reverence, fear, disgust, pride, or desire does classification evoke? |
+| **Actuation** | How reliably do those evaluations recruit attention, speech, inhibition, sacrifice, or action? |
+| **Jurisdiction** | Over which questions, relationships, roles, and decisions is the programme treated as entitled to rule? |
+| **Inspectability** | Can the person notice, name, trace, and compare the operative rule and its authority? |
+| **Controllability** | Can the person pause, narrow, revise, refuse, or replace its application while remaining coherent? |
+| **Retransmission** | Can the person reconstruct, teach, adapt, and repair the operation rather than repeat its conclusions? |
+
+Abstraction, self-authorship, affective independence, reciprocal
+person-preservation, corrigibility, and transfer under reduced support must also
+be measured separately. High abstraction can serve an absorptive collective
+system; strong personal refusal can coexist with weak general theory; warm
+attachment can remain reciprocal and corrigible; and cool distance can coexist
+with borrowed categories and institutional dependence.
+
+The “debug access” image names inspectability and possible intervention in an
+installed classifier. It does not imply a literal software module, complete
+introspective access, or a desire to abolish collective authority. Seeing how a
+collar works is different from wanting no collar, and redesigning a collective
+programme is different from recognizing every concrete person's independent
+standing.
+
+The following matrix supplies four deliberately simplified positions:
+
+|  | Lower personal sovereignty or self-authorship | Higher personal sovereignty or self-authorship |
+|---|---|---|
+| **Lower inspectability or general reconstruction** | **Immersed carrier:** the programme's verdict normally appears as the world or conscience itself | **Local nonconformist:** can refuse, exit, improvise, or protect a personal domain without yet reconstructing the wider generator |
+| **Higher inspectability or general reconstruction** | **Collective system-builder:** can expose, formalize, or redesign the programme while retaining collective authority over the person | **Liberal-Humanist carrier:** can inspect and reconstruct the generator while preserving reciprocal person-standing, refusal, and correction |
+
+The positions are ideal types, not brain modules, biological castes, political
+identities, or a psychometric instrument. Persons can move among them by domain,
+loading, formation, office, and life history. Their dimensions may also covary
+through development, institutions, active niche selection, or heritable
+disposition without becoming one indivisible “individualism” trait. This mosaic
+is the person-side interface to the separate
+[fit--capacity--heritability distinction](0040-mythology-construction.semantic-definition.md#dispositional-fit-operational-capacity-and-heritable-basis).
+
 <a id="humanist-liberal-counter-formation"></a>
 
 #### Humanist-liberal counter-formation {#humanist-liberal-counter-formation}
@@ -8088,6 +8554,12 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   the local decoder, compressed state transmission exploits it, and renewed
   operation transmission repairs it; reconstruction reach describes how large a
   learned complex one token can reliably activate for a recipient and context.
+- **Operational-inhabitation distinction:** independently reconstructing,
+  institutionally scaffolded, and first-order participation relative to a lifted
+  generator can all produce competent conduct in familiar cases but differ in
+  novel transfer, explanation, criticism, teaching, repair, and succession.
+  Distributed specialization can be healthy; quiet routine proves neither
+  widely distributed reconstruction nor cultural hollowness.
 - **Developmental and population neighbours:** natural pedagogy supplies
   ostensive addressing and a bias toward generic cultural learning before full
   language; cultural attraction explains how reconstructive, non-copying
@@ -8119,6 +8591,13 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   content versus embodied, paralinguistic, and interactional signalling. The
   axes can combine independently and must not be compressed into one warm/cold,
   individual/collective, or rational/irrational scale.
+- **Multidimensional agency-and-receiver profile:** attachment, field reception
+  and gain, classification reach, affective output, actuation, jurisdiction,
+  inspectability, controllability, retransmission, abstraction, self-authorship,
+  reciprocal person-preservation, corrigibility, and transfer must not be
+  collapsed into one individualism or liftability rank. Immersed carrier,
+  collective system-builder, liberal-Humanist carrier, and local nonconformist
+  are ideal-type combinations rather than biological castes or person types.
 - **EDA/DCL source boundary:** the labels are retained as a provisional Jaques
   bridge pending primary-text verification; the two-by-two I/We matrix, its
   Culture Mechanics interpretation, and the claim that repersonalization can
@@ -8149,6 +8628,27 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   hyperactivation risks false positives, and epistemic acquisition closure names
   the prospective case in which a passing event never becomes a typed and
   preserved observation.
+- **Open theorizing surface:** the domain of observations, questions,
+  distinctions, comparisons, causal relations, rival explanations, and possible
+  answers that can be brought into explicit, sustained, corrigible inquiry in a
+  specified domain and period. The access--formation--correction grammar joins
+  distributed formation, Culture Program classification, semantic access,
+  usable inquiry, correction, and public realization without collapsing them.
+  Specify whether inquiry can correct implementation, the governing rule, its
+  justification, or its jurisdiction; openness at one scope does not establish
+  openness at the others. The same inquiry capacity can generate errors and the
+  operations that later correct them.
+- **Footprint hypothesis:** contraction of the shared first-order prescription
+  footprint can reduce the territory exposed to answer-protective obstruction
+  and enlarge the open theorizing surface, other things equal. This is a
+  directional proposal rather than a linear law; generated concrete rules do not
+  automatically enlarge the footprint, and one compact protected premise can
+  create a wide scotoma. Potential scotoma exposure depends on the inquiry
+  domains placed under pressure; realized scotoma burden additionally depends on
+  correction resistance, contradiction pressure, affect, sanctions, formation,
+  and institutional reinforcement. Condemnation or prohibition alone is not
+  blindness where perception, comparison, formulation, and correction remain
+  available.
 - **Constructive access operation:** Noticing is prepared availability for
   inquiry across selection, retrieval, holding, segmentation, and joining; it is
   neither bare registration, a truth guarantee, nor a claim that every unnoticed
@@ -8179,6 +8679,12 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   A-specific protected exceptions can raise the likelihood of A's installation
   or load-bearing status, while capture remains a stronger inference requiring
   displaced correction or authorship.
+- **Proposed higher-order capacity probe:** operation-rich instruction followed
+  by neutral, loaded, fictional, position-reversed, and unfamiliar transfer tasks
+  distinguishes no exposure, acquisition, selective inhibition,
+  support-dependent performance, and persistent operational limitation. It tests
+  reconstructible living capability rather than approved conclusions, vocabulary,
+  intelligence, biology, heritability, ancestry, or political standing.
 - **Negative-space fingerprint component:** recurrent selective failures to
   notice, name, compare, or pursue a causal form can add evidence only where the
   same capacity is demonstrated in matched cases and ignorance, specialization,
@@ -8251,6 +8757,15 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   credibility, institutional reception, or operative force even while ordinary
   dissent grows; personal defection matters only when it becomes functional
   defection with retained field authority or a bypass route.
+- **Loyal-carrier answerability insulation:** an officeholder can remain
+  *vertrauenswürdig* to a loyal constituency while corrective carriers are
+  routed as *fragwürdig*, *uninteressant*, or *unerwünscht*; exhausted critics
+  withdraw while high-gain loyal carriers preserve authorization. The resulting
+  authorization loop lets retained authority classify the next contradiction
+  and its bearer before adverse material can acquire consequential routing.
+  Claim update, source-reliability update, and trust-architecture or jurisdiction
+  update are separate levels, and proposition-level defeat does not guarantee
+  movement at either wider level.
 - **Carrier-authority surface audit:** production, selection, translation, moral
   judgment, brokerage, placement, public mediation, inner-relation governance,
   and liability are separately mapped before one integrated power position is
@@ -8383,6 +8898,10 @@ The framework is descriptive before it is accusatory. Shared trust, narratives, 
   perspectives rather than merely coordinated individuals.
 - **Central pathological mechanism:** authority-gated belief updating.
 - **Characteristic observable pattern:** asymmetric epistemic permeability.
+- **Cheap-check gradient:** persistent substitution of authorized reassurance
+  becomes more diagnostic as actual verification costs and competence demands
+  fall and available evidence becomes more decisive, with matched exposure and
+  rival checks required.
 - **Pastoral subtype:** care-grounded surrender of epistemic judgment.
 - **Individual susceptibility factors:** identity dependence, need for closure, authoritarian submission, low vigilance, and fear of exclusion.
 - **Proposed adoption pathway:** cognitive relief can mediate preference for an
@@ -8750,6 +9269,15 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   signed, delayed, network-local, nonlinear, and potentially asymmetric feedback
   descriptor, and the bridge-topology application by which relationships and
   associations can carry either amplification or correction;
+- **operational inhabitation and scaffolded participation**, including the
+  distinction among independent reconstruction, institutional scaffolding, and
+  first-order participation relative to a lifted generator, as operation-relative
+  configurations rather than permanent ranks of persons;
+- **multidimensional agency-and-receiver profile** and its immersed-carrier,
+  collective-system-builder, liberal-Humanist-carrier, and local-nonconformist
+  ideal types; the “debug access” image names inspectability and possible
+  intervention rather than a literal module or desire to abolish collective
+  authority;
 - **functional morphology of mechanical solidarity** and its near-synonym
   **functional form of mechanical solidarity**, including **population body**,
   the distributed **trusted-opinion-leader function**, **field-generating and
@@ -8768,6 +9296,20 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   program-indexed correction discontinuities, protected directions, activation
   thresholds, affective qualifiers, and recovery conditions--not a unique,
   immutable, or already validated identifier;
+- **open theorizing surface** and the **access--formation--correction grammar**,
+  including the proposed directional relation from contraction of the shared
+  first-order prescription footprint through possible contraction of culturally
+  maintained scotomata to expansion of corrigible inquiry, and the distinction
+  among **potential scotoma exposure**, **realized scotoma burden**, moral
+  condemnation or prohibition, and actual obstruction of access or correction;
+- **scotosis test**, **scotoma test**, and **cultural blind-spot test** as search
+  aliases for the contrastive correction-interface probe where possible
+  selective obstruction is under investigation, without making scotosis the
+  result or renaming the earlier probe;
+- **higher-order Culture Program capacity probe**, with **liftability test**,
+  **higher-order capacity test**, and **lifted-order capacity probe** as search
+  aliases, for the separate proposed inquiry into acquisition, performance, and
+  transfer rather than selective loss of an already demonstrated operation;
 - **negative-space fingerprint component** as recurrent selective non-noticing
   across matched causal cases, subject to explicit ordinary rival explanations;
 - **guided unbraiding and possible de-radicalization**, the **individualized
@@ -8799,6 +9341,13 @@ The following expressions should not be attributed to Hardwig, Durkheim, Lacan, 
   **trusted-opinion-leader-function profile** as its multidimensional applied
   analysis of gain, authority, routing, translation, chief-facing mediation,
   feedback, jurisdiction, independence, and corrigibility;
+- **loyal-carrier answerability insulation** and the three-level **claim →
+  source reliability → trust architecture and jurisdiction** update audit as
+  project-developed applications of pre-content source routing and the
+  trusted-carrier correction lock, together with the authorization-loop
+  formulation and its carrier-defection, validation-rule, parallel-route, and
+  adjudicative bypass exits. The received Bonelli labels name routing positions;
+  they do not supply this compound political mechanism;
 - **professional idea-mediator function** as the source-side selection,
   translation, packaging, and circulation position and **professional idea
   mediator** as its human role occupant, kept distinct from idea producer,

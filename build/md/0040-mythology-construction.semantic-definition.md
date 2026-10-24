@@ -2075,6 +2075,64 @@ dimensions by absorbing persons or transferring costs. Relevant-structure
 resonance may help explain why participants support it without making that support
 morally sufficient.
 
+<a id="localized-resonance-and-old-riverbeds"></a>
+
+##### Localized resonance and old riverbeds {#localized-resonance-and-old-riverbeds}
+
+A portable doctrine or political grammar need not create its complete motive
+force from nothing. It can acquire greater reach when it is joined to symbols,
+memories, authorities, injuries, duties, sacred places, kinship forms, rituals,
+or institutional carriers already capable of organizing relevance in a receiving
+population. The generic localization sequence is:
+
+```text
+portable grammar, role structure, or causal-moral syntax
++ locally fitted symbols, memories, authorities, and carriers
+→ experienced recognition, recovery, or homecoming
+→ heightened relevance and Beseelung
+→ selective adoption, enactment, reinforcement, and retransmission
+```
+
+The **old-riverbed** image names an available channel through which present
+activation can run. It does not decide what made the channel available. Cultural
+memory, childhood formation, language, institutions, repeated historical
+experience, current incentives, and heritable receptivity are distinct candidate
+causes and can combine. A recipient's experience of ancestral recognition is
+evidence about phenomenology and fit, not proof that the form is ancient,
+authentic, genetically encoded, true, or beneficial.
+
+Human-wide patterns and locally specific forms can also operate together. A
+portable tyrant, liberator, oppressor, victim, purity, or restoration grammar may
+address common human machinery while population-specific names, events, sacred
+objects, and attachments determine who or what fills its roles. Local fit is
+therefore not an alternative to a universal motif; it can be the motif's
+historically specific installation surface.
+
+Several neighbouring descriptions must remain distinct. **Beseelung** is the
+programme's lived animation in a person. Jungian *Ergriffenheit* or seizure names
+the experience of being gripped by an activated power. Collective-field
+activation names reciprocal amplification among participants. An [operative
+multi-mind-self](0010-culture-mechanics.semantic-definition.md#nested-authorship-activation-and-episodic-multi-mind-selves)
+requires the further integration of perception, memory, judgment, intention,
+ownership, and action. They can reinforce one another without being four names
+for increasing intensity on one scale.
+
+The localization hypothesis predicts that matched messages fitted to different
+available carriers will differ in uptake, affect, retention, enactment, and
+retransmission beyond what generic content, coercion, prestige, or material
+incentive explains. Failure of that contrast weakens the proposed fit relation;
+it does not by itself decide whether the portable grammar is true or legitimate.
+
+The same comparison yields a conditional **resonance--enforcement relation**.
+Where identification, obligation, mutual recognition, and initiative supply more of the required conduct, less external enforcement may be needed to maintain comparable participation among included carriers.
+Where fit is weaker, instruction, material incentives, surveillance, sanctions, or direct force may supply more of that work.
+These are distinguishable alternatives, not a claim that formation is coercion or that every weakly resonant programme must become violent.
+
+Lower enforcement cost inside a committed nucleus does not imply a gentler programme.
+The same animation can increase the force carriers willingly direct against outsiders, dissenters, or defectors; coercion needed **to maintain the carriers** and coercion **executed by those carriers** are different quantities.
+Test voluntary enactment, retention after reduced external support, internal monitoring and punishment, and violence toward designated targets separately, while accounting for resources, war, state capacity, and institutional differences.
+This relation links localized fit to enforcement without turning either nationalism or universalism into a fixed position on that comparison.
+
 #### 7.5 Mirrored and foregrounded relevance
 
 Two further source observations from Wegner should remain visible as hypotheses
@@ -2310,6 +2368,46 @@ The framework includes a **population-history hypothesis**:
 
 This hypothesis is probabilistic and population-level. It does not license deduction from group membership to individual character. Its intended scientific test is prospective prediction of differential response, not retrospective storytelling fitted to any observed difference.
 
+<a id="non-synchronous-culture-formation-and-population-change"></a>
+
+#### Non-synchronous culture, formation, and population change {#non-synchronous-culture-formation-and-population-change}
+
+The feedback loop contains processes with different clocks. Treating them as one
+speed makes rapid institutional adoption look like completed formation or rapid
+cultural change look like biological selection:
+
+| Process | Characteristic route | What its observation does not establish |
+|---|---|---|
+| **Cultural diffusion** | Stories, vocabulary, exemplars, practices, and doctrines move through communication and imitation | Deep operational acquisition or durable institutional embodiment |
+| **Institutional adoption** | Law, office, procedure, incentive, infrastructure, and credential are installed or copied | A living generator independently reconstructed by most participants |
+| **Developmental acquisition** | Practice, correction, responsibility, apprenticeship, and domain contact build local operations across a life course | Genetic change or support-independent transfer |
+| **Genetic change** | Heritable variation is joined to stable differential reproduction across generations | A conclusion available from cultural persistence, sorting, or present group averages alone |
+
+Migration, social sorting, assortative friendship or partnering, prestige-biased
+imitation, differential fertility, and differential survival can alter an
+observed population by different routes. Only the routes that join heritable
+variation to reproduction and descendant distributions constitute biological
+selection. The stronger European biological-selection hypothesis therefore
+remains fully admissible, but neither institutional success nor long cultural
+persistence proves that final link.
+
+Non-synchronous change also permits mixed participation inside one order. Some
+carriers may reconstruct, teach, and transfer its generator; others may perform
+competently through institutional scaffolding; still others may assimilate its
+visible forms to a first-order programme. Routine conditions can conceal the
+difference, while novel conflict, accepted defeat, adverse evidence, loss of
+support, or succession can expose it. The person-side configurations are defined
+under [operational inhabitation and scaffolded
+participation](0020-epistemic-agency.semantic-definition.md#operational-inhabitation-and-scaffolded-participation).
+
+Temporary crowd activation, chronic mass conditions, integration hunger, and
+belief-ground failure belong to [receiver-state
+ecology](0060-culture-program-ecology.semantic-definition.md#receiver-state-and-inherited-capacity-ecology).
+They must not be redescribed as stable disposition or inherited biological
+capacity. Conversely, a stable acquisition difference after adequate formation
+cannot be dismissed merely because a temporary-state mechanism also exists; fit,
+capacity, and heritable basis require their separate tests.
+
 #### 10.1 Worked behavioural-genetic examples and hypothesis ladder
 
 The genetic component should not disappear behind ritual cautions. The point of including it is to make risky predictions that can succeed or fail. The following examples range deliberately from established behavioural-genetic observations through mechanism proposals to strong, currently unconfirmed hypotheses.
@@ -2395,7 +2493,9 @@ new niches, status systems, and partner choices
 
 The strong version predicts detectable biological change over historical time; the weaker version predicts culturally amplified expression of a stable genetic distribution. Ancient DNA, modern genomic data, demographic history, and rival institutional explanations would be needed to distinguish them.
 
-##### 6. “Old White European Male” as a provocative corroboration heuristic
+<a id="old-white-european-male-counter-carrier"></a>
+
+##### 6. “Old White European Male” as a provocative corroboration heuristic {#old-white-european-male-counter-carrier}
 
 The originating argument deliberately noticed a politically charged pattern. If older European men express an unusually strong individualist orientation—because of population history, sex-linked socialization, age amplification, or some combination—then their condensation into the hostile signifier **“Old White European Male”** may be read as a counter-mythology identifying the human carrier of the individual-sovereignty order it opposes.
 
@@ -2411,6 +2511,31 @@ counter-mythology compresses him into a folk-devil signifier
 ```
 
 This is not confirmation by itself. The same label may encode perceived historical power, wealth, sex, ancestry, or institutional incumbency without tracking a genetic disposition. Its value is as a discriminating hypothesis: does hostility follow demonstrated individualist commitments more closely than age, sex, ancestry, wealth, or office considered separately?
+
+The heuristic also has a prospective operation. A counter-mythology can do more
+than stigmatize an existing carrier: it can make resemblance to that carrier a
+morally prohibited future self. Autonomy becomes selfishness, property becomes
+privilege, inheritance becomes domination, impersonal rules become indifference,
+and refusal becomes moral deficiency. Where this translation succeeds, a younger
+person may avoid not only the demographic label but the mature practices and
+responsibilities condensed into it.
+
+```text
+existing mature carrier figure
+→ selected abuse, vice, or historical guilt becomes essential representation
+→ carrier virtues and transmission practices acquire contaminating association
+→ younger person's possible future self becomes shameful or forbidden
+→ mentorship, fatherhood, apprenticeship, inheritance, and succession weaken
+```
+
+This **negative carrier recognition** or **anti-saint** hypothesis is stronger
+than the observation that an insult exists. It requires evidence that hostility
+tracks the relevant commitments, contaminates legitimate aspiration beyond
+demonstrated misconduct, changes identification or formation, and affects
+transmission. Criticism of actual abuse, domination, incompetence, inherited
+advantage, or closed incumbency is a rival and can be correct. Age amplification,
+European population history, sex-linked biology, sex-linked socialization,
+wealth, and office remain separate causal questions.
 
 ##### 7. Punctuality and assortative niche selection
 
@@ -2839,6 +2964,17 @@ making that experience decisive evidence about the critic's act or intent.
 The reverse error must also be prevented: explicitly hateful or threatening
 speech does not become innocent merely because a speaker describes it as
 criticism.
+
+The more specific **moral-envelope transfer** occurs when protection owed to a
+person against degradation, exclusion, coercion, or violence is extended to a
+proposition, classification, institution, representative, or programme associated
+with that person, so that criticism of the latter is processed as an attack upon
+the former. Equal standing and protection do not make a person's account of
+identity, causation, history, medicine, law, morality, or remedy immune to
+evidence and criticism. The transfer must be shown in the particular routing;
+person protection, courtesy, or rejection of actual harassment is not by itself
+proposition protection.
+
 The audit must separately test the proposition or conduct criticized, the actual
 words and context, the inferred target and intent, the classification supplied by
 the programme, the listener's affective response, and the power requested in
@@ -2907,6 +3043,92 @@ The **sacred-value** literature developed through [Jonathan Baron and Mark Spran
 
 - What must this mythology hold sacred to remain coherent?
 - What happens when sacredness prevents the mythology from seeing reality or acknowledging another sacred claim?
+
+<a id="loyalty-correction-collision-and-personenkult"></a>
+
+#### Loyalty--correction collision and *Personenkult* {#loyalty-correction-collision-and-personenkult}
+
+**A prior relational commitment can change the correction permissions of
+propositions associated with its object.**
+Evidence about a trusted leader, office, movement, faith, party, profession, or
+cause can therefore be received not only as a claim about the world but as a test
+of loyalty, gratitude, belonging, or sacred obligation.
+The correction may remain propositionally intelligible while becoming
+relationally impermissible to endorse, repeat, investigate, or make
+consequential.
+
+```text
+prior loyalty or sacred relation
+→ adverse proposition concerns the relation's object
+→ accepting the proposition is coded as betrayal, ingratitude, or profanation
+→ correction permissions contract
+→ failed prediction, contradiction, or broken undertaking weakly revises authority
+```
+
+This **loyalty--correction collision** does not make loyalty irrational or every
+protected relationship pathological.
+Trust, gratitude, fidelity, interpretive charity, confidentiality, and patience
+can warrant slower or more careful judgment.
+The collision becomes correction-closing when relational duty governs whether
+evidence may count at all or whether established failure may revise authority,
+jurisdiction, or continued authorization.
+
+The **loyalty--correction collision test** uses paired cases to ask whether the
+same correction rule survives when its result becomes costly to the loyalty
+object:
+
+- the same conduct by an in-group and an out-group actor;
+- the same evidence from an authorized and an unauthorized carrier;
+- the same failed prediction by one's own and a rival leader;
+- the same deception serving one's own and a rival cause; and
+- the same demand for acknowledgment, repair, or narrowed jurisdiction directed
+  toward a friend and toward an opponent.
+
+The test does not demand affectless detachment or immediate abandonment after
+error.
+Corrigible loyalty can preserve the relation while separating three outcomes:
+
+```text
+the person or community retains human and relational standing
+≠ the disputed proposition remains protected
+≠ the source retains unchanged epistemic or political jurisdiction
+```
+
+The **sacred-object collision test** asks the same question at the mythological
+level: when independent correction threatens a culturally sacred person,
+relationship, institution, symbol, practice, or cause, does the ordinary
+correction standard remain operative, or does protection of the sacred object
+gain authority over what reality is permitted to mean?
+This makes loyalty a candidate affective coupling variable between mythology,
+source routing, asymmetric scrutiny, and failure insulation rather than a new
+truth-orientation axis.
+
+***Personenkult*** is the special case in which a living or remembered person
+becomes a sacred object whose authority is protected by that collision.
+Criticism is received as betrayal or profanation, adverse evidence is routed
+through the person's presumed virtue or mission, and demonstrated failure does
+not proportionately reduce authority.
+Charisma, admiration, gratitude, electoral support, public visibility, ordinary
+party loyalty, or use of a leader's image is insufficient.
+The classification requires recurrent sacred-person routing, contracted
+correction permissions, failure insulation, and continued authorization or
+jurisdiction.
+
+The wider programme relation remains conditional.
+A Culture Strategy keeps its factual wagers, jurisdiction, and demanded conduct
+defeasible by accessible reality even where loyalty continues.
+A Pure-Ideology Culture Program appears at this collision only where protection
+of the sacred person, cause, identity, institution, or programme acquires final
+authority to decide what every adverse outcome is allowed to mean.
+Sacredness, loyalty, or one asymmetric judgment alone does not establish that
+branch classification.
+
+The mechanism can reinforce [loyal-carrier answerability
+insulation](0020-epistemic-agency.semantic-definition.md#loyal-carrier-answerability-insulation)
+and [selective civil-personhood
+breakdown](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown),
+but neither loyalty nor sacred-person status establishes feigned incapacity,
+coordinated protection, hidden command, or a covert assignment.
 
 ### 16. Participatory discovery and co-authorship
 
@@ -4592,6 +4814,39 @@ revolutionary, conservative, technocratic, and explicitly anti-ideological
 programmes. A functional resemblance to religion establishes neither deception,
 pathology, intent, nor a claim about the private faith of any participant.
 
+<a id="civil-religion-and-replacement-religion"></a>
+
+##### Civil religion and replacement religion: two independent axes {#civil-religion-and-replacement-religion}
+
+**Civil religion** and **replacement religion** answer different questions.
+Robert N. Bellah's [“Civil Religion in
+America”](https://www.amacad.org/publication/daedalus/civil-religion-america-1967)
+supplies the sociological name for a publicly shared complex of sacred narratives,
+symbols, commemorations, obligations, and standards existing alongside and
+analytically apart from particular churches. The civil-religion axis asks whether
+a sacred-moral order publicly binds and legitimates a polity. A civil religion
+can also preserve standards under which the nation and government are judged;
+it is not necessarily state worship or ceremonial legitimation of incumbents.
+
+The replacement-religion axis asks whether a programme succeeds into functions
+of meaning, guilt, innocence, salvation, pastoral guidance, moral classification,
+epistemic authority, ritual, belonging, and existential orientation formerly or
+elsewhere divided among other carriers. Public establishment is not required.
+The axes therefore yield four possible configurations:
+
+|  | Low replacement-function concentration | High replacement-function concentration |
+|---|---|---|
+| **Low public sacred binding** | Plural private or voluntary programmes without one public sacred order | A subcultural, professional, therapeutic, or movement ecology can concentrate replacement functions without governing the polity |
+| **High public sacred binding** | A civil religion can bind public office while leaving inquiry, pastoral care, and first-order meaning plural | Civil religion and replacement religion couple when one programme both binds the public order and concentrates the relevant interpretive functions |
+
+Coupling can proceed in either direction. A replacement religion can acquire
+public authority through institutions, or an existing civil religion can expand
+into pastoral and epistemic custody. The conjunction requires evidence for both
+public binding and functional succession; neither sacred vocabulary, public
+ritual, moral seriousness, institutional reach, nor political agreement supplies
+both by itself. Bellah does not supply the replacement-religion concept or any
+particular contemporary application of this two-axis model.
+
 <a id="symbolic-authority-lifecycle"></a>
 
 ##### Symbolic-authority lifecycle {#symbolic-authority-lifecycle}
@@ -5261,6 +5516,38 @@ mastery, imagination, art, exploration, courage, protection, fidelity, care,
 plural cooperation, responsible institutional power, self-authorship, and
 reality correction. No individual exhausts it. Human possibility is plural rather
 than one standardized life or a single rank ordering.
+
+<a id="humanity-as-vocation"></a>
+
+###### Humanity-as-vocation and the civilization mandate {#humanity-as-vocation}
+
+**Humanity-as-vocation** is the practical articulation of Humanity-as-horizon:
+
+> **Because every person already bears complete standing, human beings can be
+> called to cultivate capability, seek truth, make and repair, protect and
+> steward a common world, and transmit its life-serving achievements forward.**
+
+The proposed **civilization mandate** is therefore not maximum production or one
+mandatory life plan. It names a family of constructive practices—cultivation,
+craft, inquiry, building, maintenance, care, protection, repair, stewardship,
+teaching, and transmission—through which plural persons make the horizon partly
+real while remaining answerable to persons and reality.
+
+```text
+complete standing independent of performance
++ open horizon of human possibility
++ reciprocal and reality-answerable generator
+→ plural vocation, contribution, stewardship, and transmission
+```
+
+Vocation is not a fourth sacred principal beside standing, horizon, and sacred
+object. It is the action-facing relation between standing and horizon. It cannot
+make autonomy, intelligence, health, productivity, independence, or successful
+performance a condition of standing. Children, dependent persons, people with
+disabilities, the ill, and the elderly remain complete bearers, while care,
+receiving, asking for help, responsible interdependence, and transmitting what
+one can are themselves compatible with vocation. This formulation is a Culture
+Mechanics normative proposal, not a quotation from Durkheim or Kant.
 
 **Humanity-as-sacred object** interprets Durkheim's religion of the human person.
 Durkheim says that the *personne humaine* is considered sacred and that attacks
@@ -6431,6 +6718,72 @@ The test is comparative and prospective. If measured dispositions or future poly
 
 Institutional coadaptation may bridge the mismatch through federalism, communal autonomy, local self-government, power sharing, customary institutions, and gradual construction of an overarching civic mythology. Such arrangements coordinate existing solidarities while a wider one develops.
 
+<a id="dispositional-fit-operational-capacity-and-heritable-basis"></a>
+
+#### Dispositional fit, operational capacity, and heritable basis {#dispositional-fit-operational-capacity-and-heritable-basis}
+
+The hardware hypothesis contains three questions that must not be collapsed:
+
+1. **Dispositional fit:** how readily does a person acquire and sustain a lifted
+   generator under specified formative and institutional conditions?
+2. **Operational capacity:** can the person acquire, perform, and transfer the
+   relevant meta-operation at all, including across novel and costly cases?
+3. **Heritable basis:** does variation in fit or capacity contain a biological
+   component, and if so how is it distributed and expressed under different
+   environments?
+
+None of these questions is one-dimensional. The [agency-and-receiver
+profile](0020-epistemic-agency.semantic-definition.md#multidimensional-agency-and-receiver-profile)
+separates attachment, field gain, classification reach, affective output,
+actuation, jurisdiction, inspectability, controllability, retransmission,
+self-authorship, reciprocal person-preservation, corrigibility, and transfer.
+High abstraction can therefore coexist with collective authority; strong local
+independence can coexist with weak reconstruction; and support-dependent
+performance can coexist with genuine competence. Covariance among several
+dimensions is an empirical developmental, institutional, and possibly biological
+question, not evidence of one indivisible receiver type or “individualism gene.”
+
+The original “not made for” formulation primarily concerns fit and the formative
+cost of sustaining the operation.
+A stronger **capacity-limitation hypothesis** remains admissible: after adequate,
+ethically bounded formation, instruction, correction, and transfer testing, some
+individuals may still fail to acquire or inhabit a specified lifted-order
+operation rather than merely finding it difficult.
+That possibility should not be silently reduced to greater effort, but neither
+should a present failure be redescribed as an immutable biological ceiling.
+The strongest biological version proposes a necessary developmental prerequisite
+for the specified operation: if it is absent and the available formative process
+cannot supply it, exposure and practice alone cannot produce inhabitation.
+This is a hypothesis about the cause of a limitation, beyond the observation
+that acquisition has so far failed.
+The missing prerequisite, its possible biological basis, and its responsiveness
+to formation would each have to be independently identified.
+
+The [higher-order Culture Program capacity
+probe](0020-epistemic-agency.semantic-definition.md#higher-order-culture-program-capacity-probe)
+defines the person-side acquisition and transfer question.
+It separates no adequate exposure, successful transfer, selective inhibition,
+support-dependent acquisition, and persistent operational limitation.
+Only independent longitudinal, developmental, behavioural-genetic, and
+population research could then address heritability or distribution.
+
+The inferential order is strict:
+
+```text
+observed performance difference
+≠ persistent operational limitation
+≠ biologically caused limitation
+≠ heritable limitation
+≠ population distribution
+≠ valid inference from group membership to one person
+```
+
+A demonstrated capacity difference would matter for formation and institutional
+design without deciding human standing, political rights, moral worth, dangerousness,
+or ancestry classification.
+Conversely, the absence of a validated capacity instrument does not refute the
+hypothesis; it leaves the stronger claim unmeasured.
+
 <a id="coordination-synchronization-and-the-coupling-thermostat"></a>
 
 ### 28. Coordination, synchronization, and the coupling thermostat {#coordination-synchronization-and-the-coupling-thermostat}
@@ -6665,6 +7018,79 @@ entailed merely by disagreement between the cultures.
 Conversely, one fogged conversation or one self-sealing doctrine does not
 establish Babelization until the anti-Babel threshold is crossed at the relevant
 intergroup scale and common task.
+
+<a id="individual-programme-and-public-theorizing-surfaces"></a>
+
+#### Individual, programme, and public theorizing surfaces {#individual-programme-and-public-theorizing-surfaces}
+
+The [open theorizing
+surface](0020-epistemic-agency.semantic-definition.md#open-theorizing-surface-and-access-formation-correction-grammar)
+must be declared at three different scales:
+
+- an **individual surface** comprises the inquiries this person can presently
+  hold and correct;
+- a **programme surface** comprises the inquiries that carriers can pursue while
+  remaining within the programme's operative correction grammar; and
+- a **public surface** comprises the inquiries that shared institutions can
+  formulate, receive, compare, adjudicate, and permit to become consequential.
+
+The surfaces need not coincide.
+A person can investigate a question privately that a programme or institution
+cannot receive; an institution can preserve a question whose current members do
+not pursue it; and two programmes can each contain extensive internal theorizing
+while lacking a reciprocal interface through which either can correct the other.
+Shared vocabulary and institutional fluency do not establish shared operational
+inhabitation.
+An institution can retain credentials, offices, voting, review procedures, and
+scientific or constitutional language while its carriers lose the [living
+knowledge](0020-epistemic-agency.semantic-definition.md#living-knowledge) needed
+to reconstruct why adverse evidence, reciprocal opponent standing, legitimate
+loss, and reversibility must remain operative.
+This **procedural fluency without programme inhabitation** preserves institutional
+surfaces while changing the operation performed through them.
+
+Under an effective **mutual-veto condition**, the public surface can approach the
+intersection of the inquiries that every mobilized programme permits rather than
+the union of the inquiries their participants can conduct:
+
+```text
+programme A permits questions {a, b, c}
+programme B permits questions {b, c, d}
+each can impose exclusion costs on the shared institution
+                           ↓
+jointly usable public surface tends toward {b, c}
+```
+
+This is a conditional political and institutional mechanism, not a set-theoretic
+law or an inevitable effect of plurality.
+Protected inquiry, translation, independent archives, reciprocal source standing,
+cross-programme relationships, and reality-mediated comparison can instead make
+the shared surface wider than either programme's inherited surface by itself.
+The decisive question is whether difference produces mutual correction or
+mutual closure.
+
+The contraction path binds the wider theory:
+
+```text
+different correction grammars
+→ shared words without shared corrective operations
+→ contraction of jointly usable inquiry and revision
+→ weakened democratic correction and legitimate loss
+→ institutions increasingly treated as prizes of programme control
+→ possible intergroup semantic decoupling and Babelization
+```
+
+The public-surface mechanism can therefore contribute to Babelization without
+defining it.
+The anti-Babel threshold is crossed only when translation, legitimate common
+procedure, or required coordination fails at the relevant scale.
+Its democratic consequence is specified by the [me--we--world democratic
+correction
+relation](0030-epistemic-constitution.semantic-definition.md#democratic-demos-jurisdiction-consequence-congruence)
+and by [democratic cultural alloying](#democratic-cultural-alloying-and-integrative-interoperability):
+public-surface contraction removes observations, objections, and consequences
+from the common circuit through which a living political *we* could otherwise
+learn.
 
 <a id="localized-semantic-decoupling-and-anticipatory-babelization"></a>
 
@@ -7609,6 +8035,22 @@ fairness, trusted translation routes, programme compatibility, and the capacity
 to correct both host and newcomer practices.
 No universal numerical threshold follows from the theory.
 
+The [capacity-limitation
+hypothesis](#dispositional-fit-operational-capacity-and-heritable-basis) adds a
+possible constraint on this formation process.
+Separate the availability and quality of formation, demonstrated acquisition and
+transfer, and sustained enactment under incentives and cultural pressure.
+If a prerequisite for an operation is absent and cannot be formed under the
+specified conditions, increasing exposure alone will not remove that bottleneck.
+The institutional question is whether enough operative capability is reproduced
+across the roles and relationships needed for common correction, including among
+existing residents and successive generations.
+This connects the individual capacity question to [procedural fluency without
+programme inhabitation](#individual-programme-and-public-theorizing-surfaces)
+without assuming a society-wide uniform capacity or a known numerical threshold.
+Integration failure alone leaves this explanation unresolved alongside deficient
+formation, incentives, selective closure, and institutional decay.
+
 An order-level recognition asymmetry can worsen the balance.
 The host may classify an incoming practice as one optional cultural item within
 Hyperculture while its carriers understand it as part of a complete first-order
@@ -8447,7 +8889,9 @@ The same chain can be expressed through PCP:
 PCP describes the action-routing result, not proof that the route was consciously
 designed, scientifically invalid, or legally improper.
 
-##### Prediction exposure, correction, and the Teflon-authority problem
+<a id="teflon-authority-insulation"></a>
+
+##### Prediction exposure, correction, and the Teflon-authority problem {#teflon-authority-insulation}
 
 Thomas Sowell's polemical image of [“Teflon
 prophets”](https://www.pbs.org/thinktank/transcript229.html) identifies
@@ -8457,6 +8901,81 @@ that warning from public reputation to the institutional correction interface:
 > **When a model can authorize sacrifice but predictive failure cannot reduce or
 > revise the model's authority, affected persons bear the error while the
 > custodian retains jurisdiction.**
+
+**Teflon-authority insulation** is the weak coupling between evidenced failure
+and revision of authority: failure that should matter does not proportionately
+alter trust, permitted use, jurisdiction, office, or programme authorization.
+Its bearer must be specified rather than assumed:
+
+| Insulated bearer | Diagnostic question |
+|---|---|
+| **Personal Teflonization** | Does evidenced failure fail to revise the named person's authority in the relevant domain? |
+| **Role or institutional Teflonization** | Does replacing, correcting, or discrediting an occupant leave the office's inherited authority and correction custody substantially unchanged? |
+| **Programmatic Teflonization** | Do failed claims, policies, or predictions leave the governing programme's authorization and jurisdiction substantially unchanged while explanations and personnel rotate? |
+
+The diagnostic relation is **failure-to-authority coupling**.
+It asks what kind and severity of failure occurred, which bearer controlled the
+relevant decision, which authority should rationally or constitutionally have
+changed, what change actually followed, and whether matched failure receives the
+same treatment elsewhere.
+No universal rule requires one failure to destroy authority; learning, repair,
+proportionate revision, and demonstrated success in a wider record remain
+possible.
+
+Teflon-authority insulation is distinct from [**failure-insulated incumbency or
+*Stuhlkleben***](0060-culture-program-ecology.semantic-definition.md#failure-insulated-incumbency).
+Teflonization concerns failure not adequately revising authority.
+*Stuhlkleben* concerns the narrower survival of an officeholder in position.
+A person can lose credibility yet retain office, or leave office while the role,
+institution, or programme remains Teflonized.
+
+**Teflon prophet versus Teflon politician.** The Teflon retrieval anchor must
+recover two contrasting reputational mechanisms, not only protected prestige:
+
+| Branch | Reputation and accountability expectations | What remains insulated |
+| --- | --- | --- |
+| **Teflon prophet** | Predictive failure does not proportionately diminish high standing, credibility, or trust. | Epistemic standing and interpretive authority: failure does not shake confidence in the bearer. |
+| **Teflon politician: expectation-collapse branch** | Reputation as an accountable adult falls so low that affected people stop expecting continuity, honest answers, acknowledgment, or repair. | Office, operational power, and continued execution and defence: lost expectations reduce consequential pressure on the bearer. |
+
+The second branch is not merely the coexistence of discredit and office
+survival.
+Its stronger proposed mechanism is that **the collapse of accountability
+expectations itself becomes part of the protection**.
+The public may cease pressing because insistence feels futile, cruel, or
+absurd, while the bearer remains an effective executor and defender of the
+course.
+The contrast is **standing preserved despite failure** versus **power protected
+through collapsed accountability expectations**.
+The full [withdrawal
+chain](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown)
+belongs to selective civil-personhood breakdown; its coupling to retained
+authorization and *Stuhlkleben* belongs to [failure-insulated
+incumbency](0060-culture-program-ecology.semantic-definition.md#failure-insulated-incumbency).
+Accountability malingering names the narrower deliberate-incapacity route, not
+every case of the politician branch.
+These are contrasting mechanisms, not exclusive occupational classes: the same
+politician may retain prophet-like standing among loyal receivers while
+exhausted critics withdraw expectations of answerability.
+
+The stronger failure pattern can reverse the expected coupling: through
+[un-reason](0030-epistemic-constitution.semantic-definition.md#un-reason-reasoning-that-defeats-the-conditions-of-reason), a
+programme can reinterpret failed predictions or harmful results as evidence of
+hostile obstruction, insufficient commitment, or insufficient jurisdiction and
+therefore demand more authority.
+Distinguish such protected reinterpretation from an independently supported
+finding that a real implementation constraint prevented success.
+The project predicts, under comparable conditions, that movement toward the
+systemic-lying pole will be associated with weaker failure-to-authority coupling
+and more recurrent or severe Teflonization.
+Test this across persons, roles, institutions, models, and programmes, including
+succession: fewer surviving personalities can coexist with stronger programme
+protection when replacing the face renews authorization without changing the
+correction rule.
+Specify expected revision and a relevant time horizon before evaluating the
+outcome, and count consequential acknowledgment, narrower jurisdiction, revised
+models, repaired records, and changed operation against the prediction.
+The relation is a comparative hypothesis rather than a new definition or an
+established prevalence finding.
 
 A **prediction ledger** is the project-developed constitutional response. For
 consequential model-mediated decisions it records:
@@ -10195,6 +10714,7 @@ The framework is intended to generate falsifiable research rather than explain e
 | Universal activation | Some mythological structures activate species-typical mechanisms across populations. | Cross-cultural experiments using common narrative and moral stimuli. |
 | Dispositional modulation | Different dispositional configurations respond differently to the same mythology. | Pre-measured traits interacted with randomized narrative exposure. |
 | Resonance interaction | Matched mythology produces greater transportation, retention, identification, and enactment than unmatched mythology. | Preregistered factorial experiments comparing matched and mismatched frames and roles. |
+| Resonance--enforcement relation | Better fit can reduce external enforcement needed to maintain comparable participation among included carriers while increasing enforcement those carriers willingly perform against designated targets. | Compare voluntary enactment, internal monitoring and sanctions, retention after reduced support, and outward coercion separately; account for resources, institutions, war, and state capacity rather than infer gentleness from fit. |
 | Relevant-structure resonance | Independently measured relevance interacts with represented support or damage to predict moral appraisal, mythology adoption, and action readiness. | Measure relevance before exposure; randomize credible causal accounts of a mythology's effects on the same structures; compare appraisal and adoption while measuring actual-effect beliefs separately. |
 | Change-indexed moral mobilization | A condition represented as active continuation, prevented transition, or culpable omission produces more intense moral appraisal and action readiness than the same material condition represented statically. | Randomize static, active-continuation, prevented-alternative, and omission descriptions while holding facts constant; test interaction with independently measured relevance. |
 | Mirrored relevance | Identification with a represented person makes that person's relationships, injuries, responsibilities, or future more morally relevant to the recipient. | Randomize perspective and identification cues; measure immediate appraisal, sacrifice choices, resource allocation, and generalization beyond the story. |
@@ -10222,11 +10742,13 @@ The framework is intended to generate falsifiable research rather than explain e
 | Marriage-mediated coupling range | Weaker intensive kinship predicts wider non-kin trust and greater resonance of impersonal civic mythology. | Kinship-network, institutional, historical, and cross-cultural studies. |
 | Lifted-solidarity compatibility | Democracy is more durable where political loss remains compatible with shared membership and impersonal law. | Comparative institutional studies measuring civic meta-solidarity rather than formal rules alone. |
 | Genetic-hardware fit | Dispositional or polygenic differences predict the cost and durability of sustaining impersonal office, loyal opposition, and abstract civic reciprocity. | Matched institutional comparisons combined with longitudinal dispositional and genomic measures. |
+| Operational capacity limitation | A specified operation remains unavailable across adequate teaching and unfamiliar transfer conditions after access, comprehension, task design, and incentive explanations have been tested. | Use the higher-order Culture Program capacity probe longitudinally; durable acquisition and transfer defeat the claimed incapacity for that operation under the tested conditions. Investigate biological and hereditary causes separately after validating the performance construct. |
 | Cultural-epistemic fission | Moralized bridge loss, reciprocal differentiation, and sorting of media, relationships, institutions, records, authorities, and formation routes predict the emergence of separately reproducing cloud--eye ecologies beyond ordinary partisan disagreement. | Longitudinally measure cross-boundary ties, source and institution overlap, conceptual reconstruction, sanction for association, trusted authorities, local-bigOther evaluations, succession, accepted loss, and whether cross-cutting experience can still revise each side's account; compare suppression, temporary polarization, domain-specific fission, and reintegration rivals. |
 | Cultural interoperability breakdown (Babelization) | Declining effective meta-order thickness or span, combined with rising local coherence and intergroup semantic decoupling, predicts society-wide coordination failure below the anti-Babel floor. | Longitudinal language, network, trust, institutional-legitimacy, lifted-solidarity, and collective-action measures; test linear, threshold, bottleneck, and saturation models. |
 | Residual interoperability scale | As wider interoperability fails, the characteristic size of internally interoperable islands may contract from mass domains through subcultures and very small groups toward the individual limit. | Joint semantic-network, relationship-network, trust, procedure-legitimacy, and group-membership measures across nested social scales and domains. |
 | Loneliness as an interoperability consequence | A shrinking residual scale increases loneliness especially where contact remains abundant but mutual recognition, translation, repair, and stable micro-group membership repeatedly fail. | Separate subjective loneliness from objective isolation; measure translation cost, felt recognition, semantic fit, repair success, group stability, contact volume, and the demographic, material, technological, and clinical alternatives. |
 | Culture-mixing threshold | Collective agency declines when incompatible first-order mythologies multiply or decouple faster than credible second-order integration gains thickness and span. | Longitudinal comparison of arrival and concentration, programme reproduction, host formation throughput, bridging relations, order-level recognition, semantic overlap, civic identity, legitimate loss, and coordination outcomes; compare newcomers and existing residents symmetrically. |
+| Public-surface mutual veto | Shared inquiry contracts where mobilized programmes can each exclude their protected questions; protected reciprocal inquiry can instead widen it. | Compare private, programme-permitted, and institutionally consequential questions before and after changes in veto power, translation, and inquiry protection; track whether adverse evidence can revise decisions and preserve legitimate loss. |
 | Directed guardian empathy | Care persists more strongly for a hostile actor classified as oppressed than for an equivalent hostile actor classified as dominant. | Factorial experiments independently varying harm, hostility, group power, and ideological identity. |
 | Carrier–replicator divergence | Some mythologies increase their own transmission through costly carrier behaviour even while reducing carrier capability or survival. | Longitudinal studies measuring transmission against health, capability, reciprocity, fertility, and exit costs. |
 | Downhill capture | Immediate moral and social rewards predict retention even when promised outcomes repeatedly fail. | Experiments and longitudinal studies separating outcome satisfaction from ritualized repetition. |
@@ -10481,6 +11003,34 @@ reality-answerable. The warning applies where a comprehensive and consequential
 interpretation receives perceptual certainty while its inferential construction,
 cross-checks, and defeat conditions disappear from view.
 
+Theory-shaped vocabulary is therefore not evidence that theorizing remains
+operative.
+A speaker can reproduce abstractions, causal language, technical distinctions,
+or an elaborate explanatory system while using them as the compressed statement
+of a revelation whose construction and correction are no longer available.
+Conversely, a short or ordinary-language answer can remain genuinely theoretical
+when the speaker can reconstruct its operations, compare rivals, state defeaters,
+and revise the result.
+The relevant discriminator is **corrigible reconstruction versus revelatory
+possession**, not verbal sophistication versus simplicity.
+
+In the project synthesis, a public recognition ritual can make this relation
+performative.
+An audience is asked to display that it sees the authorized interpretation;
+visible assent marks belonging, while non-assent is classified as denial or a
+defect of the observer.
+The resulting display can then be received as confirmation of the claim whose
+acceptance the display was solicited to demonstrate.
+The feedback joins apparent perception, membership, reputational cost, and
+renewed authority without adding independent evidence for the causal claim.
+A show of hands or public vote alone does not establish this circuit.
+Test whether participants may withhold judgment, offer a rival account, or ask
+for evidence while retaining standing, and whether private responses and reasons
+differ from the public display.
+This is a possible implementation of the blindness--revelation--binding circuit,
+not an additional criterion attributed to Minogue or proof of the complete
+Minogue-ideology subtype.
+
 Minogue also compares ideology with religion. Both can use awakening,
 illumination, purification, and a faith-before-understanding sequence. His
 bounded differentiating claim is that orthodox Christianity treats human
@@ -10717,6 +11267,59 @@ continuing negation. This does not make grievance false, criticism pathological,
 or completion morally obligatory. New evidence can reveal an incomplete remedy;
 the question is whether the revision remains answerable to independent
 observations and declared stopping conditions.
+
+<a id="permanent-non-arrival-and-anti-maturation"></a>
+
+##### Permanent non-arrival and anti-maturation {#permanent-non-arrival-and-anti-maturation}
+
+**Permanent non-arrival** is a possible reproduction pattern in which recurring
+category revision, renewed diagnosis, or compulsory becoming prevents an
+attainable settlement from becoming a platform for self-authorship,
+responsibility, commitment, and transmission. Joined to a prohibited mature
+exemplar or [anti-saint](#old-white-european-male-counter-carrier), it can become
+an **anti-maturation programme**:
+
+```text
+stable identity, boundary, competence, commitment, or inherited form
+→ classified as domination, closure, normality, or moral danger
+→ authorized interpreter reopens category and injury
+→ recognition and standing appear to require renewed interpretation
+→ recipients remain dependent upon classification and mediation
+→ dependence renews interpreter authority, role, and succession
+↺
+```
+
+This is not a literal age classification and maturity is not isolation,
+self-sufficiency, heterosexuality, parenthood, productivity, conformity, or one
+fixed identity. The positive contrast is answerable adulthood: acquired
+competence and limits, self-authorship, bounded commitment, reciprocal
+interdependence, the capacity to refuse or appeal, and stewardship that can hand
+responsibility forward. Exploration, category revision, continuing care, and
+criticism of oppressive norms can serve that development rather than obstruct it.
+
+**Anti-maturation as an operative programme goal** names the selected-function version of the hypothesis.
+If practices that obstruct independent authorship are recurrently retained because the resulting dependence renews interpretation, office, resources, or succession, non-arrival is doing reproductive work for the programme rather than merely accompanying it.
+Evidence must connect developmental effects to differential retention, reward, or protection of those practices; benefit to an institution alone does not establish that selection relation.
+This programme-goal finding does not require a conscious designer or universal awareness among carriers.
+
+Declared aims and deliberate intent remain separately assessable strong claims.
+Primary texts, authorized aims, instructions, selection rules, and institutional choices can support a finding that preventing stable authorship, completion, family or cultural transmission, or mature independence is a deliberately pursued programme objective.
+Actor-specific knowledge and purposive choice can be supported by direct or convergent circumstantial evidence, including selective decisions after notice and resistance to available independence-producing alternatives; a confession or written plan is not mandatory.
+Conversely, a selected function does not by itself establish each actor's intent, and an intended outcome can fail to occur.
+Keep declared aim, selected function, conscious pursuit, and achieved developmental effect distinct without requiring the strongest intent finding before naming an evidenced reproductive function.
+
+The developmental pathway is not necessarily a fixed receiver limitation.
+Resonance can recruit a participant, while repeated rewards of recognition, innocence, belonging, or relief displace practice through which independent judgment would otherwise grow.
+The existing desire--demand renewal and psychological-gradient accounts explain continued repetition; the [sublimation and moral-formation account](#sublimation-and-moral-formation) supplies the contrasting acquisition of taste for demanding goods.
+Changing support, reward, practice, and unfamiliar transfer can therefore discriminate acquired motivational lock-in from an unavailable operation, while [foreclosed flourishing](#affective-return-to-uphill-development) names the possible loss of a credible developmental path.
+
+The mechanism can stabilize a dependent ecology, but stabilization is not its
+only possible trajectory. Renewable negation may also consume carriers,
+institutions, fertility, transmission, and the conditions of its own continuation.
+Ongoing mobilization is therefore neither a positive successor nor evidence of
+long-run viability. The constructive counter-path is [affective return to uphill
+development](#affective-return-to-uphill-development), whose destination is
+responsible interdependence rather than custody or atomized self-sufficiency.
 
 Kenneth Minogue's *Alien Powers* is an important adversarial source lead for this
 hypothesis. He describes ideology as continuous criticism, as suspicion of
@@ -11414,6 +12017,18 @@ authorization**, **Teflon-authority insulation**, **prediction exposure**,
 complete Dutch authorization-chain decomposition are Culture Mechanics
 developments. Sowell's criticism informs them but does not supply their complete
 definitions, conjunctions, audits, or constitutional safeguards.
+The personal, role or institutional, and programmatic Teflonization subtypes and
+the **failure-to-authority coupling** audit are further project-developed
+specifications.
+The explicit **Teflon prophet--Teflon politician** fork is a later
+user-originated refinement: Sowell supplies the high-standing prophet image,
+while the expectation-collapse route through selective non-answerability,
+withdrawal, and retained execution is a Culture Mechanics development.
+The comparative prediction connecting weaker coupling and authority expansion
+after failure to the systemic-lying pole is also a project hypothesis, not a
+prevalence finding supplied by Sowell.
+***Stuhlkleben*** is a separate office-survival outcome owned by [*Culture
+Program Ecology*](0060-culture-program-ecology.semantic-definition.md#failure-insulated-incumbency).
 
 The project's legal branch also preserves an attribution ladder that should not
 be retroactively assigned to Sowell: vague or open-textured language is an
@@ -11616,6 +12231,11 @@ the complete Culture Mechanics construct.
 #### Sacred values and sacred objects
 
 **Status: borrowed and extended.** Protected and sacred values are developed by [Jonathan Baron and Mark Spranca](https://doi.org/10.1006/obhd.1997.2690), [Philip Tetlock and colleagues](https://pubmed.ncbi.nlm.nih.gov/10821194/), and [Scott Atran, Jeremy Ginges, and collaborators](https://pmc.ncbi.nlm.nih.gov/articles/PMC1863499/). The present definition broadens the object from trade-off-resistant values to symbols, places, practices, relationships, and institutions treated as morally non-fungible.
+The **loyalty--correction collision**, its correction-permission formulation, and
+paired collision tests, sacred-object application, affective-coupling placement,
+and the operational ***Personenkult*** subtype are project-developed extensions.
+They do not attribute a complete political-personality-cult theory to the cited
+sacred-value researchers.
 
 #### Moral taste buds
 
@@ -11781,6 +12401,13 @@ The following terms should be attributed to the present synthesis unless indepen
   meaning, moral classification, pastoral guidance, and institutional rule; the
   term and audit are project-developed, while Baader's replacement-religion
   synthesis is the immediate source bridge;
+- the **civil-religion--replacement-religion two-axis comparison** as a
+  project-developed relation between Bellah's public sacred-order concept and
+  the Baader--Schelsky--Röpke replacement-function bridge; neither source
+  supplies the conjunction or a contemporary classification;
+- **moral-envelope transfer** as the specific extension of person-protection to
+  an associated claim, classification, representative, institution, or programme
+  within criticism-as-hate routing;
 - **endogenous mythology formation** for the distributed, substantially
   undesigned emergence and selection of mythology from changing conditions, and
   **purposive mythology construction** for the prospective research branch
@@ -11904,7 +12531,9 @@ The following terms should be attributed to the present synthesis unless indepen
   architectural rather than necessarily chronological sense;
 - **Humanity-as-standing**, **Humanity-as-horizon**,
   **Humanity-as-sacred-object**, the combined **Humanity mythology**, and
-  **Humanity inversion**;
+  **Humanity inversion**; and **Humanity-as-vocation** and the **civilization
+  mandate** as the project-proposed action-facing relation between standing and
+  horizon rather than a fourth sacred principal or a performance condition;
 - **pattern-principal displacement**, the formulation **the pattern of
   differences can become the higher good**, and the custody pathway compressed
   as **metric custody becomes policy custody**, together with the distinction
@@ -11934,14 +12563,41 @@ The following terms should be attributed to the present synthesis unless indepen
   **legal-surrogate branch**, including the Dutch nitrogen authorization-chain
   decomposition and the mechanisms' decision-scale, provenance, correction,
   attribution-ladder, and non-verdict boundaries;
+- **loyalty--correction collision**, the proposition that prior relational
+  commitment can alter the correction permissions of claims associated with its
+  object, and ***Personenkult*** as the narrower sacred-person configuration in
+  which criticism becomes betrayal or profanation and demonstrated failure no
+  longer proportionately revises authority, together with paired in-group--out-
+  group, carrier, prediction, deception, and repair tests that keep the person's
+  standing distinct from protection of a proposition or unchanged jurisdiction;
+- personal, role or institutional, and programmatic **Teflonization** as typed
+  bearers of Teflon-authority insulation, together with the
+  **failure-to-authority coupling** audit and its separation from the narrower
+  office-survival outcome *Stuhlkleben*, and the **Teflon prophet--Teflon
+  politician** contrast between protected high standing and operational power
+  protected through collapsed accountability expectations;
 - **aspirational exemplar** and the five-part distinction among domain,
   character, constructed or fictional, civilizational, and near exemplars;
   ***Leuchtturm*** is the originating canonical analogy for this construct;
+- **negative carrier recognition** and **anti-saint** for the prospective
+  counter-mythological operation by which resemblance to a stigmatized mature
+  carrier becomes a prohibited future self and can weaken mentorship,
+  apprenticeship, inheritance, and succession; an insult or criticism of actual
+  misconduct does not establish that transmission effect;
 - **Kantian and Randian generator configurations** as the comparative pattern
   defined here;
 - the **relevant-structure resonance hypothesis** and
   **relevant-structure-weaponization schema** in their present Culture Mechanics
   forms;
+- **localized resonance** as the portable-grammar plus locally fitted
+  symbol--memory--authority--carrier mechanism, and the present **old-riverbed**
+  operationalization; Jung supplies the riverbed source image rather than the
+  completed causal model or its genetic conclusion; the conditional
+  **resonance--enforcement relation** distinguishes force required to maintain
+  carriers from force willingly executed by them;
+- **non-synchronous culture, formation, and population change** as the explicit
+  four-clock separation among cultural diffusion, institutional adoption,
+  developmental acquisition, and genetic change;
 - the **change-indexed moral-mobilization**, **mirrored-relevance**, and
   **foregrounded-relevance** hypotheses as named and bounded here;
 - **finite operational demand** for a specified, testable, and terminable
@@ -11997,7 +12653,10 @@ The following terms should be attributed to the present synthesis unless indepen
   maintenance, correction, succession, and stopping; and
   **negative-operational displacement** for the subordinate pathway in which
   those concrete negative operations outlive or displace an underspecified
-  positive telos;
+  positive telos; together with **permanent non-arrival** and
+  **anti-maturation programme** for the separately gated reproduction relation
+  in which recurring reopening and a prohibited mature exemplar obstruct finite
+  completion, authorship, commitment, and transmission;
 - **Ragnarök trajectory**, canonically defined in [*Epistemic Constitution of
   Lifted Mechanical
   Solidarity*](0030-epistemic-constitution.semantic-definition.md#ragnarok-trajectory),
@@ -12127,6 +12786,10 @@ The following terms should be attributed to the present synthesis unless indepen
   remnants, and loss of a viable cultural transmission and activation system;
 - **marriage-mediated coupling-range hypothesis**;
 - **genetic-hardware hypothesis** for lifted mechanical solidarity;
+- the separate **dispositional-fit**, **operational-capacity**, and **heritable-basis**
+  questions within that hypothesis, together with the stronger but unvalidated
+  **capacity-limitation hypothesis**, including its proposed necessary-prerequisite
+  version and its conditional constraint on cultural formation and reproduction;
 - **first-order mechanical solidarity** and **lifted mechanical solidarity**;
 - **first-order full capture**, **lifted full capture**, the distinction between
   shared answers and a shared answer generator, and **universal jurisdiction over
@@ -12136,6 +12799,11 @@ The following terms should be attributed to the present synthesis unless indepen
 - **cultural interoperability**, **effective meta-order thickness**,
   **lifted-solidarity surface area / meta-order span**, and **effective shared
   surface**;
+- **individual**, **programme**, and **public theorizing surfaces**, including the
+  conditional mutual-veto mechanism through which jointly usable public inquiry
+  can contract toward the intersection of what mobilized programmes permit, and
+  **procedural fluency without programme inhabitation** for institutional forms
+  that persist after living reconstruction of their corrective operation decays;
 - **cultural-epistemic fission** for the proposed transition from one sufficiently
   operative political-cultural *we* into two or more separately reproducing
   carrier networks, distributed epistemic milieus, and local-bigOther-forming
@@ -12403,6 +13071,15 @@ The following terms should be attributed to the present synthesis unless indepen
   concrete, repeatable, and rewarded machinery of grievance, delegitimation, and
   unbraiding; negative-operational displacement is a possible pathway, not a
   definition of Critical Theory, the political left, or criticism as such.
+- **Permanent-non-arrival hypothesis:** recurrent category reopening and a
+  prohibited mature exemplar can prevent finite correction from becoming a
+  platform for authorship, commitment, and transmission. Anti-maturation is an
+  operative programme goal in the selected-function sense where that obstruction
+  is retained because it reproduces interpreter dependence. Deliberate pursuit
+  can additionally be established through direct or convergent circumstantial
+  evidence. Declared aim, selected function, actor intent, and realized outcome
+  remain separate claims; acquired motivational lock-in is not automatically an
+  unavailable operation.
 - **Integrated doctrine-generation pathway:** a condition can be selected and
   attributed through a causal story, legitimated through mythology, compressed
   and activated through a master signifier, routed through PCP, and implemented
@@ -12419,6 +13096,11 @@ The following terms should be attributed to the present synthesis unless indepen
   reconstructed as an attack on the We and acquire an affective threat marker.
   Sincere hurt does not settle the content, intent, or legitimate response, and
   actual hateful conduct does not become criticism merely by self-description.
+- **Moral-envelope transfer:** protection owed to persons can be extended to an
+  associated proposition, classification, representative, institution, or
+  programme so that criticism of the latter is processed as harm to the former.
+  Equal standing remains compatible with evidence and criticism of claims; the
+  specific transfer must be shown.
 - **Three-level application:** the abstract mechanism is tested through the
   Humanism--Diversity relation and a hypothetical wetland case while existing
   definitions of Humanism, Strong Programmatic Diversity, metric custody, silent
@@ -12440,6 +13122,14 @@ The following terms should be attributed to the present synthesis unless indepen
   distinct attributed terminal judgments, not one exact sentence, proof of
   conscious intent, or a self-authenticating death-drive or Ragnarök
   classification.
+- **Theorizing--revelation discriminator:** theory-shaped language and verbal
+  sophistication do not establish live theorizing. Corrigible reconstruction,
+  rival comparison, stated defeaters, and revision distinguish an operative
+  theoretical process from possession of a compressed revelation whose
+  inferential construction has disappeared. A public recognition ritual can
+  join displayed sight, membership, and renewed authority; whether dissent keeps
+  standing and whether the display supplies independent evidence remain separate
+  questions.
 - **Two substantive research paths:** endogenous mythology formation describes
   distributed, substantially undesigned plant-like growth and selection; the
   prospective purposive-construction branch asks how far intervention guided by a
@@ -12469,6 +13159,14 @@ The following terms should be attributed to the present synthesis unless indepen
   tribunalization and bridge loss, schismogenesis, reproductive fission,
   interoperability loss, jurisdictional differentiation, and recovery are
   branching possible paths rather than one necessary developmental ladder.
+- **Public-surface mechanism:** individual, programme, and public inquiry
+  surfaces can diverge. Under mutual veto, shared institutions may permit only
+  the intersection of programme-permitted inquiry; under protected translation
+  and reciprocal correction, plurality can instead widen the shared surface.
+  Procedural fluency can survive without programme inhabitation when institutional
+  forms remain but living reconstruction of adverse evidence, opponent standing,
+  legitimate loss, and reversibility decays. Public-surface contraction can
+  contribute to but does not define Babelization.
 - **Projective-consensus mechanism:** an underdeterminate positive signifier can
   gather heterogeneous projected goods before an authorized custodian supplies
   executable meaning. This may support legitimate compression, governing-centre
@@ -12512,7 +13210,17 @@ The following terms should be attributed to the present synthesis unless indepen
   resistance-as-confirmation, deferred fulfilment, and implicit metaphysics as
   downstream solutions to authorization and closure problems; none is a
   definitional input or automatic historical-Gnosticism claim.
+- **Civil/replacement-religion axes:** civil religion asks whether a sacred-moral
+  order publicly binds and judges a polity; replacement religion asks whether a
+  programme succeeds into concentrated meaning, salvation, pastoral, moral, and
+  epistemic functions. Either can occur without the other, and their conjunction
+  requires evidence for both.
 - **Recipient-fit component:** resonant mythology construction.
+- **Localized-resonance pathway:** a portable grammar can join locally fitted
+  symbols, memories, authorities, and carriers and be experienced as recognition
+  or homecoming. The old-riverbed image leaves cultural memory, formation,
+  current incentives, and heritable receptivity as separate possible causes;
+  phenomenological fit proves none of them by itself.
 - **Relevant-structure resonance hypothesis:** mythologies often gain a selection
   advantage when recipients believe that they recognize, support, or offer an
   honourable role in felt-relevant structures; perceived support, actual
@@ -12544,6 +13252,10 @@ The following terms should be attributed to the present synthesis unless indepen
   rule; Humanity-as-horizon presents plural human
   possibilities; Humanity-as-sacred-object gives the standing affective
   protection.
+- **Humanity-as-vocation:** the action-facing relation between standing and
+  horizon calls toward plural cultivation, truth-seeking, making, repair,
+  stewardship, and transmission without making capability or performance a
+  condition of standing.
 - **Humanity inversion:** an abstraction meant to protect persons becomes an
   alleged collective subject whose privileged interpreters may consume those
   persons in its name.
@@ -12594,6 +13306,26 @@ The following terms should be attributed to the present synthesis unless indepen
   relevant structures × causal worldview × group identity × authority structure ×
   institutions × situation.
 - **Construction grammar:** topoi, plot, causal stories, characters, sacred values, master signifiers, identity offers, role offers, and PCP.
+- **Loyalty--correction collision and *Personenkult*:** prior relational
+  commitment can make accepting, repeating, or operationalizing an adverse
+  proposition count as betrayal or profanation. A person becomes a sacred object
+  in the narrower *Personenkult* configuration when this contraction of
+  correction permissions recurrently insulates demonstrated failure from
+  proportionate revision of authority. Paired collision tests ask whether the
+  same correction rule survives when its application becomes costly to the
+  loyalty object; charisma, admiration, visibility, or electoral support alone
+  is insufficient.
+- **Teflon-authority bearer types:** personal, role or institutional, and
+  programmatic Teflonization identify where failure-to-authority coupling has
+  weakened. Teflonization concerns authority that survives correction;
+  *Stuhlkleben* is the narrower office-survival outcome, and either can occur
+  without the other.
+  The **Teflon prophet** retains high standing despite failure; the **Teflon
+  politician's expectation-collapse branch** retains execution and power partly
+  because lost expectations reduce consequential accountability pressure.
+  Public discredit therefore does not by itself refute Teflon insulation.
+  The further comparative hypothesis predicts weaker or reversed coupling under
+  systemic lying and tests programme survival across personnel replacement.
 - **Recipient reconstruction:** finite messages are compressed against assumptions
   about recipient knowledge and programming; construction must audit the complete
   factual, causal, moral, and authorization model recipients reconstruct, not only
@@ -12710,7 +13442,14 @@ The following terms should be attributed to the present synthesis unless indepen
   concentration, programme reproduction, host formation throughput, bridging,
   and the host population's own lifted-order reproduction are separate
   variables; neither ancestry nor raw headcount establishes the result.
+  The capacity hypothesis adds a possible constraint on formation, distinct from
+  its availability, quality, incentives, and sustained enactment; institutional
+  failure alone does not identify which constraint is operating.
 - **Long feedback loop:** potentially fast gene–culture coevolution through niche selection, institution, status, partner choice, migration, fertility, survival, and reproduction.
+- **Non-synchronous change:** cultural diffusion, institutional adoption,
+  developmental acquisition, and genetic change operate through different
+  routes and clocks. Only a demonstrated heritable and reproductive path moves a
+  cultural or developmental difference into a biological-selection claim.
 - **Positive design ideal:** reality-coupled, life-drive mythology that grows capability and preserves correction.
 - **Affective-return mechanism:** psychologically downhill reward or dependency
   can be interrupted by concrete loss recognition, discriminating attribution,

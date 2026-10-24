@@ -83,6 +83,16 @@ than competing definitions or evidence of one universal culture equation. Do
 not infer a completed loop from the presence of its components; require separate
 temporal and causal support for each proposed handoff.
 
+For a proposed **circulation of cultural authority**, follow the represented good
+through its interpreters, institutional conversion, formation, lived consequences,
+and return through correction or self-authorization. State what the conversation
+established at each transition and where it only proposed a connection. Where
+relevant, preserve the plural custodial ecology, the True--Good--Beautiful custody
+question, productive renewal versus inherited buffers, and the recognition--
+capacity double lock. Require a return path before calling the sequence a loop,
+and preserve both an operative corrective countercase and the strongest live
+steering hypothesis with its separate actor evidence.
+
 For a proposed quotient, name the question and equivalence relation and test
 whether equivalent states have equivalent relevant successors. Keep genealogical,
 programme-identity, hazard, offspring-causation, and present-dynamic quotients

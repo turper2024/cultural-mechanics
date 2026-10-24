@@ -1580,6 +1580,11 @@ reversibility, repair, and predeclared stopping conditions.
 The elementary distinction is between a **model** and a **measurement**.
 A model calculates what should happen under stated data and assumptions.
 A measurement records what actually happened.
+The [claim-resolution and localized-uncertainty
+rule](#claim-resolution-and-localized-uncertainty) prevents this distinction from
+becoming a blanket rejection of model-mediated evidence: inspectable models can
+support ranges, bounds, and conditional conclusions without becoming direct
+observations or exact reconstructions.
 
 Suppose a model predicts rain for Tuesday.
 When Tuesday arrives, measuring the rainfall tests whether the prediction came
@@ -3597,6 +3602,27 @@ owns the institutional audit, safeguards, and bounded judicial example.
 
 **Status:** proposed state and mechanism distinctions
 
+The section uses four stages that must not be collapsed:
+
+```text
+corrective input
+→ independently sustained epistemic correction
+→ reception, answer, and adjudication
+→ operative revision and repair
+```
+
+A **corrective input** is a challenge, complaint, contradiction, adverse record,
+or proposed counterevidence.
+It becomes an **independently sustained epistemic correction** only when the
+relevant tests preserve it against serious rivals.
+Reception, answer, and adjudication determine what an authorized route does with
+that correction.
+**Operative revision and repair** are later practical effects.
+Correction nullification therefore does not mean cancellation of an already
+completed course correction.
+It means that an epistemically sustained correction is prevented from becoming
+consequential.
+
 **Post-disclosure un-reality** is the phase in which a material contradiction
 has become publicly speakable and inspectable while the challenged
 representation retains operative reality-status. Disclosure alone does not show
@@ -3635,10 +3661,11 @@ stop rules, or other organizational momentum. The emperor's inward recognition
 in [Andersen's tale](0050-culture-mechanics-analogies.semantic-inventory.md#the-emperors-new-clothes-un-reality-and-procession-inertia)
 belongs to this branch.
 
-**Correction nullification** names the other mechanism: a correction can be
-uttered, preserved, and even widely known, yet the relevant actor or receiving
-system withholds reception, answerability, adjudication, or uptake and continues
-as though the correction had never entered the institutional control loop. The
+**Correction nullification** names the other mechanism: an independently
+sustained correction can be uttered, preserved, and even widely known, yet the
+relevant actor or receiving system withholds reception, answerability,
+adjudication, or uptake and continues as though the correction had never entered
+the institutional control loop. The
 mechanism may involve deliberate stonewalling, agenda exclusion, non-recording,
 delay, repetition of the prior script, distributed non-response, or an emergent
 failure of responsibility. The term itself does not establish which mechanism,
@@ -3665,6 +3692,113 @@ reasons; *Adjudicate* prevents that authority from being its own final judge;
 resources, jurisdiction, personnel, or rule; and *Repair* addresses reversible
 past consequences. These stages are diagnostic distinctions, not a demand that
 every true statement compel every listed outcome.
+
+One actor-interface route is [**selective civil-personhood
+breakdown**](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown).
+The officeholder receives enough of the challenge to deny, evade, reinterpret,
+forget, or defend, while preventing it from binding present execution through
+authorship, promise, contradiction, answerability, repair, or consequence.
+This route differs from biological non-reception.
+The person may hear, speak, argue, and continue governing; what fails is the
+binding return path by which warranted correction should constrain the role.
+
+The two principal post-disclosure routes can therefore coexist without becoming
+synonyms:
+
+| Route | What has become available | What remains blocked |
+|---|---|---|
+| **Emperor or procession route** | The relevant authority acknowledges the correction, or the contradiction becomes common practical knowledge | Acknowledgment does not stop or revise the operative procession |
+| **Selective-non-answerability route** | The challenge reaches the officeholder sufficiently for denial, evasion, reinterpretation, forgetting, or defence | Authorship, promise, contradiction, answerability, repair, and consequence do not bind continued execution |
+
+A system can combine them: the contradiction can be publicly obvious while the
+officeholder remains personally non-answerable and the surrounding procedures
+continue the course.
+
+<a id="distributed-answerability-realization-profile"></a>
+
+###### Distributed realization without uniform belief {#distributed-answerability-realization-profile}
+
+A correction-nullifying order need not be reproduced by one psychological type.
+Its **distributed answerability-realization profile** records the complementary
+person, role, and institutional functions through which an authorized account
+can remain operative:
+
+| Position or function | Possible contribution |
+|---|---|
+| **Sincere authority-gated believer** | Accepts authorized claims and discounts correction arriving outside the trusted route. |
+| **Rationalizing defender** | Converts contradiction into another reason to preserve the authorized account or programme. |
+| **Private doubter and public conformist** | Reproduces required speech or conduct without private conviction. |
+| **Strategic or role-obedient transmitter** | Selects, repeats, records, or enforces the account because of task, incentive, or office. |
+| **Trusted carrier** | Preserves source standing and supplies the interpretation through which others receive the contradiction. |
+| **Institutional custodian** | Prevents an adverse finding from changing records, classifications, decisions, jurisdiction, or succession. |
+
+These are overlapping and revisable functions, not fixed person-types.
+No participant must design, believe, defend, transmit, enforce, and reproduce the
+whole relation.
+Private assent and operative compliance therefore remain independent variables:
+a person may believe and comply, disbelieve and comply, believe but resist a
+particular implementation, or reject and refuse it.
+The constitutional pattern is not falsified merely because authority-gated
+belief is rare if role, record, career, and institutional compliance still make
+the defeated account operative.
+Private disbelief does not by itself establish epistemic adulthood: a doubter
+may remain unable to inspect the trust architecture or simply transfer
+unconditional deference to a rival gatekeeper.
+
+Testing this profile requires matched comparisons of the actual functions:
+authorization before evidence, asymmetric scrutiny, source insulation, private
+and public divergence, role enforcement, and the depth of consequential uptake.
+Compare relevant domains, roles, institutions, or periods while accounting for
+verification cost, complexity, stakes, information, and competence.
+The control is a corrigible institution under comparable constraints, not an
+imaginary population of perfectly independent fact-checkers.
+Repeated adverse findings that remain inspectable, revise prestigious carriers,
+leave dissenters' standing intact, narrow failed models, and change the
+programme itself count against the proposed closure.
+They must not automatically be redescribed as a more sophisticated performance
+of openness.
+
+Public conformity can also corrupt **public epistemic telemetry**: participants observe
+the ritual assent that their own conformity helped manufacture, underestimate
+dissent, and update from an apparent consensus that no longer measures the
+field's private judgments.
+This is one route by which private disbelief can coexist with continued public
+domination.
+
+[Nils Brunsson's organized
+hypocrisy](https://academic.oup.com/book/27524/chapter-abstract/197492786)
+supplies a neighbouring organization-level mechanism: talk, formal decisions,
+and action can diverge while answering conflicting demands.
+The project application is the **compensatory-undertaking hypothesis**: a promise
+or decision in one direction may manage opposition, preserve legitimacy, or
+compensate an audience while action continues in another direction, so the
+undertaking functions as an organizational product rather than a binding
+constraint on execution.
+This stronger relation must be established from sequence, audience, reliance,
+and operative effect in the case; contradiction alone proves neither insincerity
+nor a hidden principal.
+
+The public performance can then acquire **performative impunity**: repeated
+visible survival after established contradiction, broken undertaking, or failed
+answerability demonstrates that ordinary truth, shame, and accountability
+signals do not presently govern the role.
+This is an observed relation between failure and consequence, not proof that the
+actor intended a demonstration.
+Its experienced result can be **epistemic humiliation**—the public is made to
+experience that knowing better has no steering force—and **civil humiliation**—
+ordinary practices of promise, contradiction, answer, and consequence are shown
+to lack reciprocal purchase on the governing interface.
+The terms name the relation and experience; humiliation as a chosen objective
+requires separate actor evidence.
+
+Recovery therefore requires more than renewed assertion.
+An answerable institutional route must preserve the record, assign custody,
+require reasons, enable independent adjudication, transmit the result into
+operative revision, and make repair and bounded consequence possible.
+Where the officeholder cannot or will not perform those functions, lawful
+delegation, recusal, supervision, removal, succession, or a separately
+authorized receiver can restore consequential answerability without demanding
+confession, humiliation, or surrender of unconditional human standing.
 
 The difference among the maintaining mechanisms is compact:
 
@@ -4622,6 +4756,121 @@ badge, or permission system. An agency-supporting mechanical-solidarity field ca
 make stewardship honourable through local bigOthers; it must not convert the norm
 into an epistemic police force or grant one institution custody of reality.
 
+<a id="claim-resolution-and-localized-uncertainty"></a>
+
+#### Claim resolution and localized uncertainty {#claim-resolution-and-localized-uncertainty}
+
+Epistemic stewardship also requires uncertainty to remain attached to the
+proposition and resolution at which it arises.
+The governing rule is:
+
+> **Uncertainty should qualify the proposition and resolution to which it
+> applies; it should not automatically invalidate conclusions independently
+> supported at another resolution.**
+
+A historical, scientific, administrative, or forensic inquiry can contain
+several separable claim levels:
+
+| Claim level | Typical question |
+|---|---|
+| **Existence** | Did the event, pattern, mechanism, or harm occur at all? |
+| **Direction and mechanism** | Which processes contributed, and in which direction? |
+| **Magnitude or range** | What scale is supported, and within what bounds? |
+| **Exact reconstruction** | Which precise sequence, allocation, count, or parameter value occurred? |
+| **Attribution** | Which actors, institutions, doctrines, or conditions contributed, and how much? |
+| **Authorization and remedy** | What action, if any, follows under the relevant rights, jurisdiction, and burden of proof? |
+
+Evidence does not move automatically up or down this ladder.
+Strong evidence that a phenomenon occurred does not validate one exact total,
+complete mechanism, or actor attribution.
+Uncertainty about the exact total or initiating path likewise does not erase a
+phenomenon, lower bound, direction, or causal contribution established by other
+evidence.
+Every claim should disclose which level is supported, bounded, disputed, or
+unknown.
+
+Norm, practice, prevalence, and enforcement are likewise different objects.
+An authoritative text or rule can establish what a programme permits, requires,
+or forbids without establishing how often carriers complied, how institutions
+enforced it, or which rival motives shaped conduct.
+Observed practice can establish implementation without exhausting doctrinal
+meaning.
+Multiple causal contributions can coexist: evidence for an economic, strategic,
+religious, familial, or status mechanism does not by itself replace the others.
+Exclusive attribution requires evidence for exclusivity rather than preference
+for one explanatory vocabulary.
+
+Modelling is legitimate evidence-bearing work when direct measurement or
+controlled experiment is unavailable, provided its inputs, assumptions,
+dependency structure, identification limits, uncertainty, and sensitivity are
+inspectable.
+Ranges, lower and upper bounds, partial identification, scenario comparison, and
+robustness across plausible assumptions can support a coarser conclusion without
+pretending to deliver an exact reconstruction.
+A model remains a model rather than a measurement; that distinction prevents
+both model-to-reality laundering and dismissal of every model-mediated inference
+as fictitious.
+
+Incomplete evidence can also converge across different routes.
+Records, material traces, observed consequences, and constrained reconstructions
+may jointly discriminate between explanations even when none supplies a complete
+event history.
+Inspect whether those routes provide additional information or merely repeat
+one source, assumption, or selected sample.
+Neither evidential accumulation nor residual uncertainty settles that question
+without examining the dependencies.
+
+Negative evidence must be matched to its **opportunity for detection**.
+A later inspection after repair, replacement, dispersal, or other change tests a
+different state from the one that produced an earlier event.
+Failure to find a trace weighs against the historical claim insofar as that
+trace should still have been present and detectable under the actual sampling
+conditions.
+This preserves informative negative findings without treating every later
+absence as proof that the earlier condition never existed.
+
+Quantitative comparison likewise requires a declared measurement basis: unit,
+population, geography, interval, event definition, exposure denominator, and
+rules for repeat counting and overlap.
+Match those dimensions or explain and account for their differences before
+drawing a like-for-like conclusion.
+Distinguish a stock at one time, a flow over an interval, a cumulative total,
+a count of distinct affected persons, and a counterfactual shortfall.
+A cumulative count can exceed a contemporaneous stock as membership changes
+over time; that arithmetic possibility neither refutes nor verifies the count.
+Compare estimates symmetrically as reconstructions constrained by evidence:
+the preferred estimate does not become a measurement merely because its rival
+is visibly modelled.
+
+The practical method is:
+
+```text
+state the exact proposition under examination
+→ identify the resolution at which the evidence operates
+→ separate observed, reconstructed, modelled, and inferred components
+→ report ranges, lower bounds, sensitivity, overlap, and unresolved allocation
+→ preserve supported coarser conclusions
+→ withhold unsupported finer conclusions
+→ let new evidence revise the appropriate level
+```
+
+This rule also controls source labels.
+Calling an author, estimate, or reconstruction *controversial* identifies a
+dispute or source-position fact; it does not answer the proposition.
+Counter-power status can justify searching for neglected evidence but does not
+confer truth.
+Evaluate claims, methods, assumptions, records, and rivals at their own level.
+
+The corresponding communicative failure is [**LT-049 -- Precision
+veto**](0030-linguistic-tricks.semantic-inventory.md#lt-049-precision-veto): a
+speaker demands finer specification than the operative claim requires and uses
+its absence to cancel the supported claim wholesale.
+The boundary runs both ways.
+A legitimate request for precision remains necessary where the decision,
+attribution, sanction, or claimed number depends upon it; proposition-local
+uncertainty is not permission to round every contested detail toward a preferred
+story.
+
 <a id="science-prophecy-and-synthesis-authority-boundary"></a>
 
 #### Science, prophecy, and synthesis authority {#science-prophecy-and-synthesis-authority-boundary}
@@ -4657,6 +4906,55 @@ Conversely, value conflict does not require paralysis or forbid scholarship from
 examining consequences.
 The boundary prevents empirical office from laundering prophecy, and prevents
 the fear of prophecy from disabling responsible public judgment.
+
+**Policy necessity without fabricated facts.** Suppose a study supports the
+claim that intervention A can reduce a specified harm under stated conditions.
+It does not follow that A must be adopted: that conclusion additionally selects
+the weight of the harm, acceptable costs, affected rights, relevant alternatives,
+and an authorized decision procedure. The inference can fail even when the
+measurements are sound. Audit the handoff from empirical support to value
+selection and binding choice, including which alternatives were excluded before
+the comparison began. Declared, corrigible normative scholarship remains distinct
+from an empirical claim and from programme-bound inquiry that protects its
+destination against correction.
+
+**Immediate duty and system-policy inference.** A valid and urgent duty toward
+a concrete person does not by itself establish the system-scale causal account,
+exclusive remedy, or public authorization later attached to it.
+Keep the inference levels visible:
+
+```text
+supported immediate duty in a specified encounter
+!= forecast of the aggregate effects of one recurring institutional response
+!= proof that this response is the best or only policy serving the duty
+!= authority to bind every affected person and jurisdiction to the package
+```
+
+Moral certainty can legitimately govern the first relation while the later
+relations remain empirically and politically unsettled.
+Audit the unit, scale, period, incentive and displacement effects, externalized
+costs, alternative ways to honour the same duty, affected rights, jurisdiction,
+authorization, correction, and stopping condition at each handoff.
+Conversely, uncertainty or disagreement about the system policy does not cancel
+an independently established immediate duty.
+This is a policy-inference boundary, not evidence that compassion is insincere,
+that the system effect is harmful, or that an advocate is using the case as a
+pretext.
+Where a personal or small-group care grammar is itself transferred into an
+extended coercive order, add the distinct [moral-scale-transposition
+audit](0040-mythology-construction.semantic-definition.md#moral-scale-transposition).
+
+The [policy-production circuit](0060-culture-program-ecology.semantic-definition.md#policy-production-and-institutional-return)
+can amplify the apparent warrant through several organizations without adding
+independent evidence. Count evidential origins, methods, and correction routes,
+not merely institutional names: a study, reports of that study, expert advice
+based on it, and a consultation citing that advice are not four replications.
+Shared funding or personnel calls for a dependency audit, not automatic rejection
+of the result. Conversely, formally separate organizations do not establish
+independence where selection and correction return to the same custodian.
+The constitutional test is whether adverse findings and affected-person challenge
+can change both the proposal and the authority, resources, or jurisdiction
+claimed for it.
 
 ### 13. Low-cost contradiction, not low-cost condemnation
 
@@ -6789,6 +7087,21 @@ independent source establishes otherwise:
   **Procession inertia** remains the controlled Andersen-derived image for
   acknowledged continuation; the new terms are not Andersen's, Lacan's, Havel's,
   Solzhenitsyn's, Wedeen's, or Arendt's;
+- the four-stage **corrective input → independently sustained epistemic
+  correction → reception, answer, and adjudication → operative revision and
+  repair** vocabulary, together with **performative impunity**, **epistemic
+  humiliation**, and **civil humiliation**, as project-developed refinements of
+  correction nullification. The actor-interface mechanism itself is defined as
+  [selective civil-personhood
+  breakdown](0010-culture-mechanics.semantic-definition.md#selective-civil-personhood-breakdown)
+  in `0010`; applying it here does not attribute the compound political mechanism
+  to Strawson or Szanto. The **distributed answerability-realization profile**
+  and private-assent--operative-compliance distinction are project-developed
+  projections joining the existing distributed-carrier and public-telemetry
+  architecture to correction nullification. Brunsson supplies the neighbouring
+  organized-hypocrisy relation among talk, formal decision, and action; the
+  **compensatory-undertaking hypothesis** is the project's bounded application
+  and must not be attributed to Brunsson beyond the source-supported relation;
 - **procedural correction conversion** as the project-developed mechanism in
   which a correction is validly received, recorded, and perhaps accurately
   counted while a threshold, default, timing, agenda, quorum, routing, expiry, or
@@ -6870,6 +7183,10 @@ independent source establishes otherwise:
   Construction*](0040-mythology-construction.semantic-definition.md#demand-lacanian-source-term-and-operational-distinction);
 - **epistemic stewardship** and **responsible amplification**;
 - **verify, qualify, or withhold** as the stewardship formula;
+- **claim-resolution discipline** and **localized uncertainty** as the rule that
+  uncertainty qualifies the proposition and resolution to which it applies,
+  preserving supported coarser claims while withholding unsupported finer
+  reconstruction, attribution, or authorization;
 - **censorship sentinel** and **non-localizing epistemic-constitutional fault
   sentinel** as the project-developed application of the fault-detection versus
   localization-and-diagnosis distinction to correction-bearing speech. The
@@ -7147,7 +7464,11 @@ independent source establishes otherwise:
   to possible un-reason, un-reality, organized un-reality, and systemic lying.
   Different participants can occupy each function; intent does not propagate
   with a message, distributed reproduction does not establish conspiracy, and
-  every arrow requires separate evidence.
+  every arrow requires separate evidence. The distributed
+  answerability-realization profile applies that architecture to correction
+  nullification: sincere believers, rationalizers, private doubters, role-obedient
+  transmitters, trusted carriers, and institutional custodians can perform
+  complementary functions without sharing private belief or one design.
 - **Internal failure mechanism:** un-reason can preserve sophisticated reasoning
   while conclusion-protection displaces truth-correction as the governor of its
   concepts, burdens, exceptions, and recursive interpretations; it is not a
@@ -7170,6 +7491,15 @@ independent source establishes otherwise:
   consequence. Procedural correction conversion is the received-and-processed
   branch in which a decision rule transforms the adverse signal into no operative
   defeat. Any mechanism can occur without the others.
+- **Selective-non-answerability route:** selective civil-personhood breakdown is
+  an actor-interface route through which an officeholder can continue execution
+  and defence while authorship, promise, contradiction, answerability, repair,
+  and consequence fail to bind the role. It can combine with the Emperor route
+  and produce performative impunity, epistemic humiliation, and civil
+  humiliation without by itself establishing incapacity, intent, hidden command,
+  or deliberate humiliation. Recovery requires an answerable route from record
+  and reception through independent adjudication to operative revision and
+  repair.
 - **Recursive defensive mechanism:** an auxiliary-un-reality explaining-away
   cascade adds an authorized U1 when reality contact threatens operative U0;
   trusted carriers may route U1, correction nullification may preserve operation,
@@ -7295,6 +7625,13 @@ independent source establishes otherwise:
   succession, and correction scripts can remain inactive yet viable; written
   procedures without executable carriers and interfaces are merely nominal.
 - **Positive individual virtue:** epistemic stewardship in amplification.
+- **Resolution discipline:** existence, mechanism, magnitude or range, exact
+  reconstruction, attribution, and authorization remain separate claim levels;
+  uncertainty at one level neither erases independent support at another nor
+  licenses an unsupported precise conclusion.
+  Convergent evidence requires a dependency audit; negative findings require a
+  relevant opportunity for detection; numerical comparisons require matching
+  units, scope, intervals, denominators, and counting rules.
 - **Central negative recursion:** conformity → apparent consensus → deference → knowledge corruption → deeper conformity.
 - **Reconstruction-pipeline pathology:** systemic lying can govern selection,
   compression, trusted repetition, recipient decompression, and the admissibility

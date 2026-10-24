@@ -3022,6 +3022,207 @@ The trunk distinguishes four failure forms:
 | **Role engulfment** | The bearer increasingly experiences themselves only as the office, expected mask, or programme instrument; protected remainder and self-authorship lose practical force. |
 | **Interface inversion** | The role that should serve persons or a bounded function treats preservation of its own authorized presentation as the governing purpose. |
 
+<a id="selective-civil-personhood-breakdown"></a>
+
+##### Selective civil-personhood breakdown {#selective-civil-personhood-breakdown}
+
+**selective civil-personhood breakdown** *noun phrase*<br>
+**Status:** proposed person--role-interface failure family
+
+**Selective civil-personhood breakdown** occurs when an officeholder continues
+executing and defending a course while becoming selectively unavailable for the
+binding attachment of authorship, promises, contradiction, answerability,
+repair, and consequences.
+The operative asymmetry is not absence of agency in general:
+
+```text
+authority + course execution + public defence
+→ remain available
+
+retrospective continuity + promise-binding + contradiction processing
++ answerability + repair + consequences
+→ become selectively unavailable
+```
+
+Two experiential shorthands describe why this interface can feel more disturbing
+than ordinary evasion.
+The **answerability uncanny valley** is the encounter in which the cues of a
+continuous, articulate, responsible adult remain recognizable while the
+diachronic operations that ordinarily make that person reachable no longer work.
+The **protected role-terminal** is the controlled interface image in which
+questions and records are accepted syntactically but fail to change the
+operative role-state.
+These expressions describe the observer's experience and a possible interaction
+pattern.
+They do not establish literal automation, absence of inward life, incapacity,
+strategic design, or feigning.
+
+Two observable routes produce this interface without deciding its cause.
+In the **unavailable-retrospective-self route**, the officeholder cannot or will
+not reconstruct the materially relevant past: “I cannot remember,” “I cannot
+say,” or “that account is no longer available.”
+In the **non-binding-continuous-self route**, the record remains available but
+is denied binding force: the present role does not accept that yesterday's
+undertaking, authorship, reason, or contradiction constrains today's execution.
+The two routes can alternate, so that memory is invoked where continuity would
+bind and continuity is invoked where present authority is needed.
+
+A discriminating collision occurs when retrospective uncertainty coexists with
+categorical self-exoneration: the bearer cannot reconstruct the interaction but
+claims sufficient certainty to exclude any relevant contribution or influence.
+The audit asks what independent record, inference, or limited proposition
+supports that certainty and whether the same evidential standard governs both
+answers.
+An inability to recall one encounter can coexist with independently warranted
+knowledge about another fact; the signature becomes informative where the
+exculpatory conclusion depends on the very reconstruction declared unavailable.
+In the non-binding-continuous-self route, the corresponding test is whether the
+recovered undertaking can require an explanation, acknowledgment, or repair even
+when changed circumstances justify a different present decision.
+
+The construct classifies an evidenced public interface and must not silently
+decide among three different causal claims:
+
+1. **observable selective breakdown**—the asymmetry is present, whatever its
+   cause;
+2. **strategic non-answerability**—the asymmetry is maintained or used to defeat
+   accountability; and
+3. **accountability malingering**—the narrower hypothesis that incapacity,
+   confusion, memory failure, or another limitation is being performed or
+   exaggerated in order to lower answerability expectations.
+
+The first can be established from the role relation and repeated sequence.
+The second requires evidence that the interface is being used or preserved for
+its accountability-defeating function.
+The third additionally requires actor-specific evidence of feigned or
+exaggerated incapacity.
+Exceptional composure, persistence in office, implausibility, political benefit,
+or the observer's frustration does not by itself establish either stronger
+claim.
+
+The narrower incapacity route can be decomposed without yet deciding intent.
+**Performed non-agency** names the actor-side presentation that the officeholder
+does not remember, understand, author, decide, or control the consequential
+course--in compact form, “do not model me as the causal author of what you are
+observing.”
+The presentation can report a genuine limitation, reflect ordinary confusion,
+or be strategically produced; **accountability malingering** is only the last,
+actor-evidenced branch.
+An **incapacity-based accountability discount** is the observer-side reduction
+of expected answerability because the officeholder is perceived as unable to
+participate fully in retrospective reconstruction, promise-binding, reasoned
+answer, or repair.
+The **non-agency accountability shield** is the possible conjunction in which
+the presented limitation elicits that discount while authority and execution
+remain in place.
+This decomposition distinguishes presentation, reception, and deliberate
+strategy instead of inferring one from another.
+Genuine incapacity and strategic exploitation by surrounding actors can also
+coexist.
+Others may preserve an impaired bearer as the public answerability interface
+while retaining the capacity to continue the course through that office.
+That hypothesis concerns their evidenced conduct and control, not feigning by
+the bearer; ordinary accommodation or assistance does not establish it.
+
+The public-side consequence can be a **paternalistic accountability shield**.
+Repeated attempts to attach evidence, promises, or consequences cease to feel
+like reciprocal adult address and begin to elicit pity, management, avoidance,
+or resignation.
+The affected public may then withdraw ordinary participant expectations because
+continued insistence appears cruel, futile, or psychologically pointless, even
+though the officeholder still exercises adult public authority.
+This can become a **withdrawal loop through collapsed accountability
+expectations**:
+
+```text
+repeated failure to engage as an accountable adult
+→ people stop expecting continuity, honest answers, acknowledgment, or repair
+→ insistence feels futile, cruel, or absurd
+→ anger gives way to contempt, pity, exhaustion, or resignation
+→ consequential accountability pressure diminishes
+→ the politician continues executing and defending the course
+```
+
+Repeated survival then makes continued non-answerability easier to sustain and
+lowers the expectations from which the next demand begins.
+The officeholder need not preserve the affected public's esteem: the loss of
+reputation can itself help protect continued execution when it makes people
+stop addressing consequential expectations to the bearer.
+In that branch, power survives not merely **despite** reputational collapse but
+partly **through the withdrawal of accountability expectations** associated with
+it.
+The demand is nullified; the course is not corrected.
+This is the psychological mechanism behind the [Teflon-politician
+branch](0060-culture-program-ecology.semantic-definition.md#failure-insulated-incumbency),
+contrasted with the high-standing Teflon prophet in [the Teflon-authority
+comparison](0040-mythology-construction.semantic-definition.md#teflon-authority-insulation).
+Where performed or exaggerated incapacity deliberately elicits the withdrawal,
+accountability malingering supplies one strategic route into this loop; the
+effect itself does not establish that stronger attribution.
+
+The loop is not inevitable.
+Contempt or lost esteem can instead intensify accountability pressure; the
+proposed shield requires an observed reduction in consequential demands, not
+mere unpopularity or insulting descriptions of the officeholder.
+Withdrawal from futile personal address can instead redirect effort toward
+records, independent investigation, adjudication, organization, succession, or
+another consequential receiver.
+P. F. Strawson's [participant--objective-attitude
+distinction](https://raphaelkrutlandau.com/misc/strawsonfar.pdf) supplies the
+neighbouring interpersonal transition: ordinary reactive demands can give way to
+management, treatment, pity, or avoidance when someone is regarded as outside
+ordinary adult reciprocity.
+The political conjunction—retained governing authority together with elicited
+withdrawal of reciprocal accountability—is a Culture Mechanics extension and
+does not imply that Strawson described its strategic use.
+
+Thomas Szanto's open-access account of [epistemically exploitative
+bullshit](https://pmc.ncbi.nlm.nih.gov/articles/PMC10947462/) supplies a second,
+narrower neighbour for cases in which one party remains obliged to undertake
+responsible, emotionally costly epistemic work while the other protects an
+asymmetric discursive position.
+That comparison does not establish bad faith, exploitation, prejudice, or intent
+in an officeholder case without separate evidence.
+
+The resulting shield can reinforce [correction
+nullification](0030-epistemic-constitution.semantic-definition.md#post-disclosure-un-reality-correction-nullification-and-procession-inertia),
+but the constructs remain distinct.
+Selective civil-personhood breakdown concerns the asymmetric person--role
+interface through which accountability is addressed.
+Correction nullification concerns the failure of an independently sustained
+correction to acquire reception, adjudication, operative revision, or repair.
+Either can occur without the other, and neither by itself establishes a hidden
+principal, deliberate humiliation, systemic lying, or covert operational
+assignment.
+
+The primary rivals are genuine cognitive or medical incapacity, fatigue,
+trauma, role restrictions, legal duties of confidentiality, poor records,
+ordinary incompetence, changed office responsibilities, confused questioning,
+and poor communication.
+The audit therefore asks whether the limitation is domain-specific, stable over
+time, independently evidenced, symmetrical across favourable and adverse
+material, compatible with continued execution, corrected when records are
+supplied, and followed by appropriate delegation, recusal, supervision, repair,
+or removal from the role.
+Repeated asymmetry raises a role-accountability question; it is not a clinical
+diagnosis.
+Compare actual performance across matched tasks and accountability occasions:
+**selective competence** means that precision and agency remain available for
+execution or advantageous objectives while reconstruction and repair
+recurrently disappear where responsibility would attach.
+Record the question, available evidence, answer, maintained decision, and later
+consequence separately, including occasions on which answerability succeeds.
+This tests the pattern without treating one incomplete reply or an observer's
+uncanny impression as the mechanism's proof.
+
+Nothing in the construct reduces unconditional human standing.
+Interactional or role incapacity can justify accommodation, representation,
+supervision, limited liability, or removal from a bounded office only under the
+independently applicable person-protecting rules.
+The human bearer remains a complete and equal bearer of standing even where the
+public interface fails, and criticism must address the evidenced role relation
+rather than dehumanize the person.
+
 Role engulfment supplies the missing failure boundary of
 [affective-to-structural load
 transfer](#affective-to-structural-load-transfer).
@@ -3438,6 +3639,14 @@ shown. The equations are therefore a hypothesis grammar for reconstructing
 transitions, not evidence that every named component interacted in a completed
 circuit.
 
+At programme level, the [circulation of cultural
+authority](0060-culture-program-ecology.semantic-definition.md#circulation-of-cultural-authority)
+follows these handoffs from represented good through interpretation,
+institutional conversion, formation, consequence, and return.
+Its fork between correction and self-authorization is an application of this
+canonical state-transition model, not a replacement for it or a presumption that
+every cultural movement is a threat.
+
 For a sufficiently specified state and forcing history, the two-time propagator
 is:
 
@@ -3568,6 +3777,10 @@ routing, material dependence, and bridge density.
 The propagator is descriptive until a correction and normative relation is
 specified. A representation can be self-consistent, causally effective, stable,
 adaptive, and destructive. A programme can accurately learn how to dominate.
+The programme-level [course-preserving-adaptation and resilience-inversion
+trajectory](0060-culture-program-ecology.semantic-definition.md#course-preserving-adaptation-and-resilience-inversion)
+shows how operational adaptation can protect programme continuation while social
+and material renewal, correction, or succession capacity declines.
 Reality-answerability and preservation of the concrete person's standing are
 therefore independent constraints rather than outputs automatically supplied by
 dynamic stability.
@@ -5113,6 +5326,27 @@ Finally, describing culture as programming does not imply that all symbolic real
   low affect and reliable performance alone do not diagnose it. The audit also
   distinguishes full from empty role-bound speech and retains ordinary clinical,
   developmental, and situational rivals.
+- **Selective civil-personhood breakdown:** an officeholder can retain authority,
+  execution, and public defence while becoming selectively unavailable for the
+  binding attachment of authorship, promises, contradiction, answerability,
+  repair, and consequences. The observable interface, strategic
+  non-answerability, and accountability malingering through performed or
+  exaggerated incapacity are successively stronger claims with separate gates.
+  The answerability-uncanny-valley and protected-role-terminal shorthands describe
+  the observer's experience without deciding its cause. Performed non-agency is
+  the actor-side presentation, the incapacity-based accountability discount is
+  the observer-side update, and their possible conjunction is the non-agency
+  accountability shield. Reciprocity withdrawal can form the broader
+  paternalistic accountability shield and a withdrawal loop in which failed
+  adult answerability collapses expectations, anger gives way to contempt,
+  pity, exhaustion, or resignation, and consequential pressure diminishes while
+  execution and defence continue. Loss of esteem can thereby help protect
+  power, as in the Teflon-politician branch, instead of disproving insulation.
+  The loop can instead be
+  broken by redirection toward records, investigation, adjudication,
+  organization, succession, or another receiver. None of these audience effects
+  cancels the officeholder's unconditional human standing or establishes intent,
+  diagnosis, hidden command, or covert assignment.
 - **Operative relationship modes:** I-mode permits oneself and another to appear
   as concrete centres of life in a possible I--You relation; We-mode operates
   through rules, roles, categories, shared purposes, institutional standpoints,
@@ -5168,6 +5402,15 @@ Inherent human standing:
 > standing; factual recognition is declaratory and corrigible, never constitutive;
 > capability, dependency, wantedness, conduct, and classification may change
 > circumstances or remedies but never admission to the protected human class**
+
+Selective civil-personhood breakdown:
+
+> **retained authority + continued execution and defence of a course + selective
+> unavailability for retrospective continuity, promise-binding, contradiction,
+> answerability, repair, or consequence → possible reciprocity withdrawal and
+> paternalistic accountability shield; performed non-agency + observer-side
+> incapacity discount → possible non-agency accountability shield; observable
+> asymmetry ≠ strategic use ≠ feigned incapacity**
 
 Single-slot composition and replacement:
 
